@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-03T22:31:20.870776Z",
+  "generatedAt": "2026-08-03T22:34:47.187978Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -319,6 +319,22 @@
       "platforms": {
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s06-audio-v1"
+        },
+        "mirrors": []
+      }
+    },
+    {
+      "tag": "the-big-bang-theory-s07-audio-v1",
+      "title": "The Big Bang Theory Season 07 Audio v1",
+      "createdAt": "2026-08-04 06:34:46 +0800",
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s07-audio-v1",
+      "audioCount": 24,
+      "totalSizeMiB": 223.66,
+      "detailFile": "the-big-bang-theory-s07-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/the-big-bang-theory-s07-audio-v1.json",
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s07-audio-v1"
         },
         "mirrors": []
       }
