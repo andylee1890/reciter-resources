@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-03T11:42:30.374030Z",
+  "tag": "the-office-us-s02-audio-v1",
+  "title": "The Office US Season 02 Audio v1",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/TheOfficeS02",
+  "createdAt": "2026-08-03 19:13:15 +0800",
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s02-audio-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 22,
+  "totalSizeMiB": 438.71,
+  "audio": [
+    {
+      "name": "The Office US S02E01 The Dundies.mp3",
+      "sizeMiB": 19.19,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E01.The.Dundies.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E01%20The%20Dundies.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E01%20The%20Dundies.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E01%20The%20Dundies.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E01%20The%20Dundies.rec"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E02 Sexual Harassment.mp3",
+      "sizeMiB": 19.81,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E02.Sexual.Harassment.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E02%20Sexual%20Harassment.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E02%20Sexual%20Harassment.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E02%20Sexual%20Harassment.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E02%20Sexual%20Harassment.rec"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E03 Office Olympics.mp3",
+      "sizeMiB": 19.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E03.Office.Olympics.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E03%20Office%20Olympics.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E03%20Office%20Olympics.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E03%20Office%20Olympics.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E03%20Office%20Olympics.rec"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E04 The Fire.mp3",
+      "sizeMiB": 19.71,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E04.The.Fire.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E04%20The%20Fire.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E04%20The%20Fire.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E04%20The%20Fire.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E04%20The%20Fire.rec"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E05 Halloween.mp3",
+      "sizeMiB": 20.14,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E05.Halloween.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E05%20Halloween.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E05%20Halloween.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E05%20Halloween.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E05%20Halloween.rec"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E06 The Fight.mp3",
+      "sizeMiB": 20.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E06.The.Fight.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E06%20The%20Fight.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E06%20The%20Fight.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E06%20The%20Fight.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E06%20The%20Fight.rec"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E07 The Client.mp3",
+      "sizeMiB": 19.82,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E07.The.Client.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E07%20The%20Client.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E07%20The%20Client.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E07%20The%20Client.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E07%20The%20Client.rec"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E08 Performance Review.mp3",
+      "sizeMiB": 20.28,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E08.Performance.Review.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E08%20Performance%20Review.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E08%20Performance%20Review.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E08%20Performance%20Review.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E08%20Performance%20Review.rec"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E09 Email Surveillance.mp3",
+      "sizeMiB": 20.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E09.Email.Surveillance.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E09%20Email%20Surveillance.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E09%20Email%20Surveillance.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E09%20Email%20Surveillance.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E09%20Email%20Surveillance.rec"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E10 Christmas Party.mp3",
+      "sizeMiB": 20.03,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E10.Christmas.Party.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E10%20Christmas%20Party.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E10%20Christmas%20Party.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E10%20Christmas%20Party.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E10%20Christmas%20Party.rec"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E11 Booze Cruise.mp3",
+      "sizeMiB": 19.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E11.Booze.Cruise.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E11%20Booze%20Cruise.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E11%20Booze%20Cruise.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E11%20Booze%20Cruise.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E11%20Booze%20Cruise.rec"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E12 The Injury.mp3",
+      "sizeMiB": 19.42,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E12.The.Injury.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E12%20The%20Injury.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E12%20The%20Injury.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E12%20The%20Injury.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E12%20The%20Injury.rec"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E13 The Secret.mp3",
+      "sizeMiB": 19.4,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E13.The.Secret.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E13%20The%20Secret.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E13%20The%20Secret.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E13%20The%20Secret.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E13%20The%20Secret.rec"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E14 The Carpet.mp3",
+      "sizeMiB": 19.4,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E14.The.Carpet.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E14%20The%20Carpet.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E14%20The%20Carpet.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E14%20The%20Carpet.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E14%20The%20Carpet.rec"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E15 Boys and Girls.mp3",
+      "sizeMiB": 19.61,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E15.Boys.and.Girls.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E15%20Boys%20and%20Girls.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E15%20Boys%20and%20Girls.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E15%20Boys%20and%20Girls.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E15%20Boys%20and%20Girls.rec"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E16 Valentines Day.mp3",
+      "sizeMiB": 19.46,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E16.Valentines.Day.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E16%20Valentines%20Day.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E16%20Valentines%20Day.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E16%20Valentines%20Day.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E16%20Valentines%20Day.rec"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E17 Dwights Speech.mp3",
+      "sizeMiB": 19.44,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E17.Dwights.Speech.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E17%20Dwights%20Speech.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E17%20Dwights%20Speech.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E17%20Dwights%20Speech.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E17%20Dwights%20Speech.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E18 Take Your Daughter to Work Day.mp3",
+      "sizeMiB": 19.27,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E18.Take.Your.Daughter.to.Work.Day.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E18%20Take%20Your%20Daughter%20to%20Work%20Day.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E18%20Take%20Your%20Daughter%20to%20Work%20Day.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E18%20Take%20Your%20Daughter%20to%20Work%20Day.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E18%20Take%20Your%20Daughter%20to%20Work%20Day.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E19 Michaels Birthday.mp3",
+      "sizeMiB": 19.4,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E19.Michaels.Birthday.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E19%20Michaels%20Birthday.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E19%20Michaels%20Birthday.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E19%20Michaels%20Birthday.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E19%20Michaels%20Birthday.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E20 Drug Testing.mp3",
+      "sizeMiB": 19.45,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E20.Drug.Testing.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E20%20Drug%20Testing.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E20%20Drug%20Testing.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E20%20Drug%20Testing.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E20%20Drug%20Testing.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E21 Conflict Resolution.mp3",
+      "sizeMiB": 19.4,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E21.Conflict.Resolution.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E21%20Conflict%20Resolution.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E21%20Conflict%20Resolution.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E21%20Conflict%20Resolution.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E21%20Conflict%20Resolution.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S02E22 Casino Night.mp3",
+      "sizeMiB": 26.02,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s02-audio-v1/The.Office.US.S02E22.Casino.Night.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E22%20Casino%20Night.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS02/The%20Office%20US%20S02E22%20Casino%20Night.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E22%20Casino%20Night.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS02/The%20Office%20US%20S02E22%20Casino%20Night.recx"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1748 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-03T11:42:30.374030Z",
+  "tag": "new-concept-english-2-us-audio-v1",
+  "title": "New Concept English Book 2 American Audio v1",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/NCE2-美音-(MP3+LRC)",
+  "createdAt": "2026-08-03 18:49:30 +0800",
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/new-concept-english-2-us-audio-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 96,
+  "totalSizeMiB": 161.86,
+  "audio": [
+    {
+      "name": "01－A Private Conversation.mp3",
+      "sizeMiB": 1.42,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/01.A.Private.Conversation.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/01%EF%BC%8DA%20Private%20Conversation.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/01%EF%BC%8DA%20Private%20Conversation.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/01%EF%BC%8DA%20Private%20Conversation.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/01%EF%BC%8DA%20Private%20Conversation.rec"
+        }
+      }
+    },
+    {
+      "name": "02－Breakfast or Lunch.mp3",
+      "sizeMiB": 1.46,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/02.Breakfast.or.Lunch.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/02%EF%BC%8DBreakfast%20or%20Lunch.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/02%EF%BC%8DBreakfast%20or%20Lunch.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/02%EF%BC%8DBreakfast%20or%20Lunch.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/02%EF%BC%8DBreakfast%20or%20Lunch.rec"
+        }
+      }
+    },
+    {
+      "name": "03－Please Send Me a Card.mp3",
+      "sizeMiB": 1.38,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/03.Please.Send.Me.a.Card.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/03%EF%BC%8DPlease%20Send%20Me%20a%20Card.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/03%EF%BC%8DPlease%20Send%20Me%20a%20Card.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/03%EF%BC%8DPlease%20Send%20Me%20a%20Card.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/03%EF%BC%8DPlease%20Send%20Me%20a%20Card.rec"
+        }
+      }
+    },
+    {
+      "name": "04－An Exciting Trip.mp3",
+      "sizeMiB": 1.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/04.An.Exciting.Trip.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/04%EF%BC%8DAn%20Exciting%20Trip.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/04%EF%BC%8DAn%20Exciting%20Trip.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/04%EF%BC%8DAn%20Exciting%20Trip.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/04%EF%BC%8DAn%20Exciting%20Trip.rec"
+        }
+      }
+    },
+    {
+      "name": "05－No Wrong Numbers.mp3",
+      "sizeMiB": 1.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/05.No.Wrong.Numbers.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/05%EF%BC%8DNo%20Wrong%20Numbers.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/05%EF%BC%8DNo%20Wrong%20Numbers.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/05%EF%BC%8DNo%20Wrong%20Numbers.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/05%EF%BC%8DNo%20Wrong%20Numbers.rec"
+        }
+      }
+    },
+    {
+      "name": "06－Percy Buttons.mp3",
+      "sizeMiB": 1.21,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/06.Percy.Buttons.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/06%EF%BC%8DPercy%20Buttons.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/06%EF%BC%8DPercy%20Buttons.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/06%EF%BC%8DPercy%20Buttons.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/06%EF%BC%8DPercy%20Buttons.rec"
+        }
+      }
+    },
+    {
+      "name": "07－Too Late.mp3",
+      "sizeMiB": 1.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/07.Too.Late.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/07%EF%BC%8DToo%20Late.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/07%EF%BC%8DToo%20Late.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/07%EF%BC%8DToo%20Late.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/07%EF%BC%8DToo%20Late.rec"
+        }
+      }
+    },
+    {
+      "name": "08－The Best and the Worst.mp3",
+      "sizeMiB": 1.35,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/08.The.Best.and.the.Worst.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/08%EF%BC%8DThe%20Best%20and%20the%20Worst.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/08%EF%BC%8DThe%20Best%20and%20the%20Worst.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/08%EF%BC%8DThe%20Best%20and%20the%20Worst.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/08%EF%BC%8DThe%20Best%20and%20the%20Worst.rec"
+        }
+      }
+    },
+    {
+      "name": "09－A Cold Welcome.mp3",
+      "sizeMiB": 1.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/09.A.Cold.Welcome.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/09%EF%BC%8DA%20Cold%20Welcome.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/09%EF%BC%8DA%20Cold%20Welcome.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/09%EF%BC%8DA%20Cold%20Welcome.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/09%EF%BC%8DA%20Cold%20Welcome.rec"
+        }
+      }
+    },
+    {
+      "name": "10－Not for Jazz.mp3",
+      "sizeMiB": 1.18,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/10.Not.for.Jazz.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/10%EF%BC%8DNot%20for%20Jazz.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/10%EF%BC%8DNot%20for%20Jazz.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/10%EF%BC%8DNot%20for%20Jazz.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/10%EF%BC%8DNot%20for%20Jazz.rec"
+        }
+      }
+    },
+    {
+      "name": "11－One Good Turn Deserves Another.mp3",
+      "sizeMiB": 1.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/11.One.Good.Turn.Deserves.Another.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/11%EF%BC%8DOne%20Good%20Turn%20Deserves%20Another.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/11%EF%BC%8DOne%20Good%20Turn%20Deserves%20Another.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/11%EF%BC%8DOne%20Good%20Turn%20Deserves%20Another.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/11%EF%BC%8DOne%20Good%20Turn%20Deserves%20Another.rec"
+        }
+      }
+    },
+    {
+      "name": "12－Goodbye and Good Luck.mp3",
+      "sizeMiB": 1.24,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/12.Goodbye.and.Good.Luck.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/12%EF%BC%8DGoodbye%20and%20Good%20Luck.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/12%EF%BC%8DGoodbye%20and%20Good%20Luck.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/12%EF%BC%8DGoodbye%20and%20Good%20Luck.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/12%EF%BC%8DGoodbye%20and%20Good%20Luck.rec"
+        }
+      }
+    },
+    {
+      "name": "13－The Greenwood Boys.mp3",
+      "sizeMiB": 1.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/13.The.Greenwood.Boys.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/13%EF%BC%8DThe%20Greenwood%20Boys.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/13%EF%BC%8DThe%20Greenwood%20Boys.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/13%EF%BC%8DThe%20Greenwood%20Boys.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/13%EF%BC%8DThe%20Greenwood%20Boys.rec"
+        }
+      }
+    },
+    {
+      "name": "14－Do You Speak English.mp3",
+      "sizeMiB": 1.35,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/14.Do.You.Speak.English.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/14%EF%BC%8DDo%20You%20Speak%20English.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/14%EF%BC%8DDo%20You%20Speak%20English.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/14%EF%BC%8DDo%20You%20Speak%20English.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/14%EF%BC%8DDo%20You%20Speak%20English.rec"
+        }
+      }
+    },
+    {
+      "name": "15－Good News.mp3",
+      "sizeMiB": 1.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/15.Good.News.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/15%EF%BC%8DGood%20News.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/15%EF%BC%8DGood%20News.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/15%EF%BC%8DGood%20News.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/15%EF%BC%8DGood%20News.rec"
+        }
+      }
+    },
+    {
+      "name": "16－A Polite Request.mp3",
+      "sizeMiB": 1.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/16.A.Polite.Request.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/16%EF%BC%8DA%20Polite%20Request.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/16%EF%BC%8DA%20Polite%20Request.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/16%EF%BC%8DA%20Polite%20Request.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/16%EF%BC%8DA%20Polite%20Request.rec"
+        }
+      }
+    },
+    {
+      "name": "17－Always Young.mp3",
+      "sizeMiB": 1.37,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/17.Always.Young.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/17%EF%BC%8DAlways%20Young.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/17%EF%BC%8DAlways%20Young.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/17%EF%BC%8DAlways%20Young.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/17%EF%BC%8DAlways%20Young.rec"
+        }
+      }
+    },
+    {
+      "name": "18－He Often does This.mp3",
+      "sizeMiB": 1.27,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/18.He.Often.does.This.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/18%EF%BC%8DHe%20Often%20does%20This.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/18%EF%BC%8DHe%20Often%20does%20This.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/18%EF%BC%8DHe%20Often%20does%20This.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/18%EF%BC%8DHe%20Often%20does%20This.rec"
+        }
+      }
+    },
+    {
+      "name": "19－Sold Out.mp3",
+      "sizeMiB": 1.53,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/19.Sold.Out.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/19%EF%BC%8DSold%20Out.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/19%EF%BC%8DSold%20Out.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/19%EF%BC%8DSold%20Out.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/19%EF%BC%8DSold%20Out.rec"
+        }
+      }
+    },
+    {
+      "name": "20－One Man in a Boat.mp3",
+      "sizeMiB": 1.48,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/20.One.Man.in.a.Boat.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/20%EF%BC%8DOne%20Man%20in%20a%20Boat.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/20%EF%BC%8DOne%20Man%20in%20a%20Boat.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/20%EF%BC%8DOne%20Man%20in%20a%20Boat.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/20%EF%BC%8DOne%20Man%20in%20a%20Boat.rec"
+        }
+      }
+    },
+    {
+      "name": "21－Mad or Not.mp3",
+      "sizeMiB": 1.39,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/21.Mad.or.Not.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/21%EF%BC%8DMad%20or%20Not.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/21%EF%BC%8DMad%20or%20Not.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/21%EF%BC%8DMad%20or%20Not.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/21%EF%BC%8DMad%20or%20Not.rec"
+        }
+      }
+    },
+    {
+      "name": "22－A Glass Envelope.mp3",
+      "sizeMiB": 1.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/22.A.Glass.Envelope.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/22%EF%BC%8DA%20Glass%20Envelope.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/22%EF%BC%8DA%20Glass%20Envelope.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/22%EF%BC%8DA%20Glass%20Envelope.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/22%EF%BC%8DA%20Glass%20Envelope.rec"
+        }
+      }
+    },
+    {
+      "name": "23－A New House.mp3",
+      "sizeMiB": 1.33,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/23.A.New.House.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/23%EF%BC%8DA%20New%20House.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/23%EF%BC%8DA%20New%20House.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/23%EF%BC%8DA%20New%20House.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/23%EF%BC%8DA%20New%20House.rec"
+        }
+      }
+    },
+    {
+      "name": "24－It Could be Worse.mp3",
+      "sizeMiB": 1.41,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/24.It.Could.be.Worse.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/24%EF%BC%8DIt%20Could%20be%20Worse.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/24%EF%BC%8DIt%20Could%20be%20Worse.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/24%EF%BC%8DIt%20Could%20be%20Worse.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/24%EF%BC%8DIt%20Could%20be%20Worse.rec"
+        }
+      }
+    },
+    {
+      "name": "25－Do the English Speak English.mp3",
+      "sizeMiB": 1.84,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/25.Do.the.English.Speak.English.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/25%EF%BC%8DDo%20the%20English%20Speak%20English.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/25%EF%BC%8DDo%20the%20English%20Speak%20English.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/25%EF%BC%8DDo%20the%20English%20Speak%20English.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/25%EF%BC%8DDo%20the%20English%20Speak%20English.rec"
+        }
+      }
+    },
+    {
+      "name": "26－The Best Art Critics.mp3",
+      "sizeMiB": 1.74,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/26.The.Best.Art.Critics.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/26%EF%BC%8DThe%20Best%20Art%20Critics.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/26%EF%BC%8DThe%20Best%20Art%20Critics.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/26%EF%BC%8DThe%20Best%20Art%20Critics.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/26%EF%BC%8DThe%20Best%20Art%20Critics.rec"
+        }
+      }
+    },
+    {
+      "name": "27－A Wet Night.mp3",
+      "sizeMiB": 1.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/27.A.Wet.Night.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/27%EF%BC%8DA%20Wet%20Night.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/27%EF%BC%8DA%20Wet%20Night.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/27%EF%BC%8DA%20Wet%20Night.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/27%EF%BC%8DA%20Wet%20Night.rec"
+        }
+      }
+    },
+    {
+      "name": "28－No Parking.mp3",
+      "sizeMiB": 1.62,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/28.No.Parking.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/28%EF%BC%8DNo%20Parking.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/28%EF%BC%8DNo%20Parking.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/28%EF%BC%8DNo%20Parking.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/28%EF%BC%8DNo%20Parking.rec"
+        }
+      }
+    },
+    {
+      "name": "29－Taxi.mp3",
+      "sizeMiB": 1.74,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/29.Taxi.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/29%EF%BC%8DTaxi.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/29%EF%BC%8DTaxi.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/29%EF%BC%8DTaxi.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/29%EF%BC%8DTaxi.rec"
+        }
+      }
+    },
+    {
+      "name": "30－Football or Polo.mp3",
+      "sizeMiB": 1.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/30.Football.or.Polo.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/30%EF%BC%8DFootball%20or%20Polo.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/30%EF%BC%8DFootball%20or%20Polo.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/30%EF%BC%8DFootball%20or%20Polo.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/30%EF%BC%8DFootball%20or%20Polo.rec"
+        }
+      }
+    },
+    {
+      "name": "31－Success Story.mp3",
+      "sizeMiB": 1.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/31.Success.Story.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/31%EF%BC%8DSuccess%20Story.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/31%EF%BC%8DSuccess%20Story.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/31%EF%BC%8DSuccess%20Story.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/31%EF%BC%8DSuccess%20Story.rec"
+        }
+      }
+    },
+    {
+      "name": "32－Shopping Made Easy.mp3",
+      "sizeMiB": 1.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/32.Shopping.Made.Easy.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/32%EF%BC%8DShopping%20Made%20Easy.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/32%EF%BC%8DShopping%20Made%20Easy.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/32%EF%BC%8DShopping%20Made%20Easy.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/32%EF%BC%8DShopping%20Made%20Easy.rec"
+        }
+      }
+    },
+    {
+      "name": "33－Out of the Darkness.mp3",
+      "sizeMiB": 1.54,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/33.Out.of.the.Darkness.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/33%EF%BC%8DOut%20of%20the%20Darkness.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/33%EF%BC%8DOut%20of%20the%20Darkness.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/33%EF%BC%8DOut%20of%20the%20Darkness.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/33%EF%BC%8DOut%20of%20the%20Darkness.rec"
+        }
+      }
+    },
+    {
+      "name": "34－Quick Work.mp3",
+      "sizeMiB": 1.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/34.Quick.Work.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/34%EF%BC%8DQuick%20Work.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/34%EF%BC%8DQuick%20Work.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/34%EF%BC%8DQuick%20Work.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/34%EF%BC%8DQuick%20Work.rec"
+        }
+      }
+    },
+    {
+      "name": "35－Stop Thief.mp3",
+      "sizeMiB": 1.87,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/35.Stop.Thief.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/35%EF%BC%8DStop%20Thief.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/35%EF%BC%8DStop%20Thief.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/35%EF%BC%8DStop%20Thief.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/35%EF%BC%8DStop%20Thief.rec"
+        }
+      }
+    },
+    {
+      "name": "36－Across the Channel.mp3",
+      "sizeMiB": 1.53,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/36.Across.the.Channel.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/36%EF%BC%8DAcross%20the%20Channel.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/36%EF%BC%8DAcross%20the%20Channel.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/36%EF%BC%8DAcross%20the%20Channel.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/36%EF%BC%8DAcross%20the%20Channel.rec"
+        }
+      }
+    },
+    {
+      "name": "37－The Olympic Games.mp3",
+      "sizeMiB": 1.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/37.The.Olympic.Games.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/37%EF%BC%8DThe%20Olympic%20Games.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/37%EF%BC%8DThe%20Olympic%20Games.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/37%EF%BC%8DThe%20Olympic%20Games.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/37%EF%BC%8DThe%20Olympic%20Games.rec"
+        }
+      }
+    },
+    {
+      "name": "38－Everything Except the Weather.mp3",
+      "sizeMiB": 1.63,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/38.Everything.Except.the.Weather.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/38%EF%BC%8DEverything%20Except%20the%20Weather.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/38%EF%BC%8DEverything%20Except%20the%20Weather.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/38%EF%BC%8DEverything%20Except%20the%20Weather.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/38%EF%BC%8DEverything%20Except%20the%20Weather.rec"
+        }
+      }
+    },
+    {
+      "name": "39－Am I All Right.mp3",
+      "sizeMiB": 1.67,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/39.Am.I.All.Right.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/39%EF%BC%8DAm%20I%20All%20Right.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/39%EF%BC%8DAm%20I%20All%20Right.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/39%EF%BC%8DAm%20I%20All%20Right.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/39%EF%BC%8DAm%20I%20All%20Right.rec"
+        }
+      }
+    },
+    {
+      "name": "40－Food and Talk.mp3",
+      "sizeMiB": 1.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/40.Food.and.Talk.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/40%EF%BC%8DFood%20and%20Talk.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/40%EF%BC%8DFood%20and%20Talk.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/40%EF%BC%8DFood%20and%20Talk.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/40%EF%BC%8DFood%20and%20Talk.rec"
+        }
+      }
+    },
+    {
+      "name": "41－Do You Call That a Hat.mp3",
+      "sizeMiB": 1.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/41.Do.You.Call.That.a.Hat.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/41%EF%BC%8DDo%20You%20Call%20That%20a%20Hat.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/41%EF%BC%8DDo%20You%20Call%20That%20a%20Hat.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/41%EF%BC%8DDo%20You%20Call%20That%20a%20Hat.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/41%EF%BC%8DDo%20You%20Call%20That%20a%20Hat.rec"
+        }
+      }
+    },
+    {
+      "name": "42－Not Very Musical.mp3",
+      "sizeMiB": 1.53,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/42.Not.Very.Musical.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/42%EF%BC%8DNot%20Very%20Musical.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/42%EF%BC%8DNot%20Very%20Musical.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/42%EF%BC%8DNot%20Very%20Musical.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/42%EF%BC%8DNot%20Very%20Musical.rec"
+        }
+      }
+    },
+    {
+      "name": "43－Over the South Pole.mp3",
+      "sizeMiB": 1.67,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/43.Over.the.South.Pole.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/43%EF%BC%8DOver%20the%20South%20Pole.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/43%EF%BC%8DOver%20the%20South%20Pole.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/43%EF%BC%8DOver%20the%20South%20Pole.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/43%EF%BC%8DOver%20the%20South%20Pole.rec"
+        }
+      }
+    },
+    {
+      "name": "44－Through the Forest.mp3",
+      "sizeMiB": 1.55,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/44.Through.the.Forest.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/44%EF%BC%8DThrough%20the%20Forest.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/44%EF%BC%8DThrough%20the%20Forest.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/44%EF%BC%8DThrough%20the%20Forest.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/44%EF%BC%8DThrough%20the%20Forest.rec"
+        }
+      }
+    },
+    {
+      "name": "45－A Clear Conscience.mp3",
+      "sizeMiB": 1.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/45.A.Clear.Conscience.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/45%EF%BC%8DA%20Clear%20Conscience.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/45%EF%BC%8DA%20Clear%20Conscience.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/45%EF%BC%8DA%20Clear%20Conscience.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/45%EF%BC%8DA%20Clear%20Conscience.rec"
+        }
+      }
+    },
+    {
+      "name": "46－Expensive and Uncomfortable.mp3",
+      "sizeMiB": 1.75,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/46.Expensive.and.Uncomfortable.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/46%EF%BC%8DExpensive%20and%20Uncomfortable.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/46%EF%BC%8DExpensive%20and%20Uncomfortable.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/46%EF%BC%8DExpensive%20and%20Uncomfortable.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/46%EF%BC%8DExpensive%20and%20Uncomfortable.rec"
+        }
+      }
+    },
+    {
+      "name": "47－A Thirsty Ghost.mp3",
+      "sizeMiB": 1.57,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/47.A.Thirsty.Ghost.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/47%EF%BC%8DA%20Thirsty%20Ghost.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/47%EF%BC%8DA%20Thirsty%20Ghost.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/47%EF%BC%8DA%20Thirsty%20Ghost.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/47%EF%BC%8DA%20Thirsty%20Ghost.rec"
+        }
+      }
+    },
+    {
+      "name": "48－Did You Want to Tell Me Something.mp3",
+      "sizeMiB": 1.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/48.Did.You.Want.to.Tell.Me.Something.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/48%EF%BC%8DDid%20You%20Want%20to%20Tell%20Me%20Something.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/48%EF%BC%8DDid%20You%20Want%20to%20Tell%20Me%20Something.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/48%EF%BC%8DDid%20You%20Want%20to%20Tell%20Me%20Something.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/48%EF%BC%8DDid%20You%20Want%20to%20Tell%20Me%20Something.rec"
+        }
+      }
+    },
+    {
+      "name": "49－The End of a Dream.mp3",
+      "sizeMiB": 1.79,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/49.The.End.of.a.Dream.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/49%EF%BC%8DThe%20End%20of%20a%20Dream.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/49%EF%BC%8DThe%20End%20of%20a%20Dream.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/49%EF%BC%8DThe%20End%20of%20a%20Dream.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/49%EF%BC%8DThe%20End%20of%20a%20Dream.rec"
+        }
+      }
+    },
+    {
+      "name": "50－Taken for a Ride.mp3",
+      "sizeMiB": 1.81,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/50.Taken.for.a.Ride.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/50%EF%BC%8DTaken%20for%20a%20Ride.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/50%EF%BC%8DTaken%20for%20a%20Ride.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/50%EF%BC%8DTaken%20for%20a%20Ride.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/50%EF%BC%8DTaken%20for%20a%20Ride.rec"
+        }
+      }
+    },
+    {
+      "name": "51－Reward for Virtue.mp3",
+      "sizeMiB": 1.77,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/51.Reward.for.Virtue.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/51%EF%BC%8DReward%20for%20Virtue.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/51%EF%BC%8DReward%20for%20Virtue.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/51%EF%BC%8DReward%20for%20Virtue.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/51%EF%BC%8DReward%20for%20Virtue.rec"
+        }
+      }
+    },
+    {
+      "name": "52－A Pretty Carpet.mp3",
+      "sizeMiB": 1.7,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/52.A.Pretty.Carpet.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/52%EF%BC%8DA%20Pretty%20Carpet.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/52%EF%BC%8DA%20Pretty%20Carpet.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/52%EF%BC%8DA%20Pretty%20Carpet.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/52%EF%BC%8DA%20Pretty%20Carpet.rec"
+        }
+      }
+    },
+    {
+      "name": "53－Hot Snake.mp3",
+      "sizeMiB": 1.82,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/53.Hot.Snake.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/53%EF%BC%8DHot%20Snake.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/53%EF%BC%8DHot%20Snake.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/53%EF%BC%8DHot%20Snake.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/53%EF%BC%8DHot%20Snake.rec"
+        }
+      }
+    },
+    {
+      "name": "54－Sticky Fingers.mp3",
+      "sizeMiB": 1.86,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/54.Sticky.Fingers.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/54%EF%BC%8DSticky%20Fingers.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/54%EF%BC%8DSticky%20Fingers.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/54%EF%BC%8DSticky%20Fingers.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/54%EF%BC%8DSticky%20Fingers.rec"
+        }
+      }
+    },
+    {
+      "name": "55－Not a Gold Mine.mp3",
+      "sizeMiB": 1.85,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/55.Not.a.Gold.Mine.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/55%EF%BC%8DNot%20a%20Gold%20Mine.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/55%EF%BC%8DNot%20a%20Gold%20Mine.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/55%EF%BC%8DNot%20a%20Gold%20Mine.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/55%EF%BC%8DNot%20a%20Gold%20Mine.rec"
+        }
+      }
+    },
+    {
+      "name": "56－Faster Than Sound.mp3",
+      "sizeMiB": 1.77,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/56.Faster.Than.Sound.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/56%EF%BC%8DFaster%20Than%20Sound.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/56%EF%BC%8DFaster%20Than%20Sound.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/56%EF%BC%8DFaster%20Than%20Sound.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/56%EF%BC%8DFaster%20Than%20Sound.rec"
+        }
+      }
+    },
+    {
+      "name": "57－Can I Help You, Madam.mp3",
+      "sizeMiB": 1.78,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/57.Can.I.Help.You.Madam.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/57%EF%BC%8DCan%20I%20Help%20You%2C%20Madam.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/57%EF%BC%8DCan%20I%20Help%20You%2C%20Madam.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/57%EF%BC%8DCan%20I%20Help%20You%2C%20Madam.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/57%EF%BC%8DCan%20I%20Help%20You%2C%20Madam.rec"
+        }
+      }
+    },
+    {
+      "name": "58－A Blessing in Disguise.mp3",
+      "sizeMiB": 1.75,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/58.A.Blessing.in.Disguise.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/58%EF%BC%8DA%20Blessing%20in%20Disguise.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/58%EF%BC%8DA%20Blessing%20in%20Disguise.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/58%EF%BC%8DA%20Blessing%20in%20Disguise.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/58%EF%BC%8DA%20Blessing%20in%20Disguise.rec"
+        }
+      }
+    },
+    {
+      "name": "59－In or Out.mp3",
+      "sizeMiB": 1.75,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/59.In.or.Out.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/59%EF%BC%8DIn%20or%20Out.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/59%EF%BC%8DIn%20or%20Out.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/59%EF%BC%8DIn%20or%20Out.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/59%EF%BC%8DIn%20or%20Out.rec"
+        }
+      }
+    },
+    {
+      "name": "60－The Future.mp3",
+      "sizeMiB": 1.69,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/60.The.Future.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/60%EF%BC%8DThe%20Future.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/60%EF%BC%8DThe%20Future.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/60%EF%BC%8DThe%20Future.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/60%EF%BC%8DThe%20Future.rec"
+        }
+      }
+    },
+    {
+      "name": "61－Trouble with the Hubble.mp3",
+      "sizeMiB": 1.79,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/61.Trouble.with.the.Hubble.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/61%EF%BC%8DTrouble%20with%20the%20Hubble.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/61%EF%BC%8DTrouble%20with%20the%20Hubble.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/61%EF%BC%8DTrouble%20with%20the%20Hubble.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/61%EF%BC%8DTrouble%20with%20the%20Hubble.rec"
+        }
+      }
+    },
+    {
+      "name": "62－After the Fire.mp3",
+      "sizeMiB": 1.81,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/62.After.the.Fire.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/62%EF%BC%8DAfter%20the%20Fire.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/62%EF%BC%8DAfter%20the%20Fire.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/62%EF%BC%8DAfter%20the%20Fire.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/62%EF%BC%8DAfter%20the%20Fire.rec"
+        }
+      }
+    },
+    {
+      "name": "63－She Was Not Amused.mp3",
+      "sizeMiB": 1.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/63.She.Was.Not.Amused.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/63%EF%BC%8DShe%20Was%20Not%20Amused.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/63%EF%BC%8DShe%20Was%20Not%20Amused.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/63%EF%BC%8DShe%20Was%20Not%20Amused.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/63%EF%BC%8DShe%20Was%20Not%20Amused.rec"
+        }
+      }
+    },
+    {
+      "name": "64－The Channel Tunnel.mp3",
+      "sizeMiB": 1.8,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/64.The.Channel.Tunnel.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/64%EF%BC%8DThe%20Channel%20Tunnel.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/64%EF%BC%8DThe%20Channel%20Tunnel.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/64%EF%BC%8DThe%20Channel%20Tunnel.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/64%EF%BC%8DThe%20Channel%20Tunnel.rec"
+        }
+      }
+    },
+    {
+      "name": "65－Jumbo Versus the Police.mp3",
+      "sizeMiB": 1.78,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/65.Jumbo.Versus.the.Police.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/65%EF%BC%8DJumbo%20Versus%20the%20Police.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/65%EF%BC%8DJumbo%20Versus%20the%20Police.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/65%EF%BC%8DJumbo%20Versus%20the%20Police.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/65%EF%BC%8DJumbo%20Versus%20the%20Police.rec"
+        }
+      }
+    },
+    {
+      "name": "66－Sweet as Honey.mp3",
+      "sizeMiB": 1.86,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/66.Sweet.as.Honey.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/66%EF%BC%8DSweet%20as%20Honey.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/66%EF%BC%8DSweet%20as%20Honey.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/66%EF%BC%8DSweet%20as%20Honey.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/66%EF%BC%8DSweet%20as%20Honey.rec"
+        }
+      }
+    },
+    {
+      "name": "67－Volcanoes.mp3",
+      "sizeMiB": 2.04,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/67.Volcanoes.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/67%EF%BC%8DVolcanoes.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/67%EF%BC%8DVolcanoes.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/67%EF%BC%8DVolcanoes.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/67%EF%BC%8DVolcanoes.rec"
+        }
+      }
+    },
+    {
+      "name": "68－Persistent.mp3",
+      "sizeMiB": 1.83,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/68.Persistent.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/68%EF%BC%8DPersistent.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/68%EF%BC%8DPersistent.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/68%EF%BC%8DPersistent.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/68%EF%BC%8DPersistent.rec"
+        }
+      }
+    },
+    {
+      "name": "69－But not Murder.mp3",
+      "sizeMiB": 1.81,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/69.But.not.Murder.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/69%EF%BC%8DBut%20not%20Murder.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/69%EF%BC%8DBut%20not%20Murder.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/69%EF%BC%8DBut%20not%20Murder.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/69%EF%BC%8DBut%20not%20Murder.rec"
+        }
+      }
+    },
+    {
+      "name": "70－Red for Danger.mp3",
+      "sizeMiB": 1.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/70.Red.for.Danger.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/70%EF%BC%8DRed%20for%20Danger.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/70%EF%BC%8DRed%20for%20Danger.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/70%EF%BC%8DRed%20for%20Danger.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/70%EF%BC%8DRed%20for%20Danger.rec"
+        }
+      }
+    },
+    {
+      "name": "71－A Famous Clock.mp3",
+      "sizeMiB": 1.75,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/71.A.Famous.Clock.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/71%EF%BC%8DA%20Famous%20Clock.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/71%EF%BC%8DA%20Famous%20Clock.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/71%EF%BC%8DA%20Famous%20Clock.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/71%EF%BC%8DA%20Famous%20Clock.rec"
+        }
+      }
+    },
+    {
+      "name": "72－A Car Called Bluebird.mp3",
+      "sizeMiB": 2.0,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/72.A.Car.Called.Bluebird.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/72%EF%BC%8DA%20Car%20Called%20Bluebird.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/72%EF%BC%8DA%20Car%20Called%20Bluebird.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/72%EF%BC%8DA%20Car%20Called%20Bluebird.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/72%EF%BC%8DA%20Car%20Called%20Bluebird.rec"
+        }
+      }
+    },
+    {
+      "name": "73－The Record-Holder.mp3",
+      "sizeMiB": 1.92,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/73.The.Record.Holder.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/73%EF%BC%8DThe%20Record-Holder.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/73%EF%BC%8DThe%20Record-Holder.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/73%EF%BC%8DThe%20Record-Holder.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/73%EF%BC%8DThe%20Record-Holder.rec"
+        }
+      }
+    },
+    {
+      "name": "74－Out of the Limelight.mp3",
+      "sizeMiB": 2.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/74.Out.of.the.Limelight.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/74%EF%BC%8DOut%20of%20the%20Limelight.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/74%EF%BC%8DOut%20of%20the%20Limelight.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/74%EF%BC%8DOut%20of%20the%20Limelight.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/74%EF%BC%8DOut%20of%20the%20Limelight.rec"
+        }
+      }
+    },
+    {
+      "name": "75－SOS.mp3",
+      "sizeMiB": 1.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/75.SOS.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/75%EF%BC%8DSOS.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/75%EF%BC%8DSOS.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/75%EF%BC%8DSOS.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/75%EF%BC%8DSOS.rec"
+        }
+      }
+    },
+    {
+      "name": "76－April Fools' Day.mp3",
+      "sizeMiB": 2.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/76.April.Fools.Day.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/76%EF%BC%8DApril%20Fools%27%20Day.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/76%EF%BC%8DApril%20Fools%27%20Day.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/76%EF%BC%8DApril%20Fools%27%20Day.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/76%EF%BC%8DApril%20Fools%27%20Day.rec"
+        }
+      }
+    },
+    {
+      "name": "77－A Successful Operation.mp3",
+      "sizeMiB": 1.86,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/77.A.Successful.Operation.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/77%EF%BC%8DA%20Successful%20Operation.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/77%EF%BC%8DA%20Successful%20Operation.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/77%EF%BC%8DA%20Successful%20Operation.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/77%EF%BC%8DA%20Successful%20Operation.rec"
+        }
+      }
+    },
+    {
+      "name": "78－The Last One.mp3",
+      "sizeMiB": 2.05,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/78.The.Last.One.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/78%EF%BC%8DThe%20Last%20One.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/78%EF%BC%8DThe%20Last%20One.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/78%EF%BC%8DThe%20Last%20One.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/78%EF%BC%8DThe%20Last%20One.rec"
+        }
+      }
+    },
+    {
+      "name": "79－By Air.mp3",
+      "sizeMiB": 1.82,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/79.By.Air.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/79%EF%BC%8DBy%20Air.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/79%EF%BC%8DBy%20Air.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/79%EF%BC%8DBy%20Air.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/79%EF%BC%8DBy%20Air.rec"
+        }
+      }
+    },
+    {
+      "name": "80－The Crystal Palace.mp3",
+      "sizeMiB": 2.04,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/80.The.Crystal.Palace.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/80%EF%BC%8DThe%20Crystal%20Palace.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/80%EF%BC%8DThe%20Crystal%20Palace.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/80%EF%BC%8DThe%20Crystal%20Palace.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/80%EF%BC%8DThe%20Crystal%20Palace.rec"
+        }
+      }
+    },
+    {
+      "name": "81－Escape.mp3",
+      "sizeMiB": 1.93,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/81.Escape.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/81%EF%BC%8DEscape.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/81%EF%BC%8DEscape.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/81%EF%BC%8DEscape.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/81%EF%BC%8DEscape.rec"
+        }
+      }
+    },
+    {
+      "name": "82－Monster or Fish.mp3",
+      "sizeMiB": 1.98,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/82.Monster.or.Fish.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/82%EF%BC%8DMonster%20or%20Fish.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/82%EF%BC%8DMonster%20or%20Fish.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/82%EF%BC%8DMonster%20or%20Fish.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/82%EF%BC%8DMonster%20or%20Fish.rec"
+        }
+      }
+    },
+    {
+      "name": "83－After the Elections.mp3",
+      "sizeMiB": 2.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/83.After.the.Elections.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/83%EF%BC%8DAfter%20the%20Elections.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/83%EF%BC%8DAfter%20the%20Elections.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/83%EF%BC%8DAfter%20the%20Elections.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/83%EF%BC%8DAfter%20the%20Elections.rec"
+        }
+      }
+    },
+    {
+      "name": "84－On Strike.mp3",
+      "sizeMiB": 1.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/84.On.Strike.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/84%EF%BC%8DOn%20Strike.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/84%EF%BC%8DOn%20Strike.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/84%EF%BC%8DOn%20Strike.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/84%EF%BC%8DOn%20Strike.rec"
+        }
+      }
+    },
+    {
+      "name": "85－Never Too Old To Learn.mp3",
+      "sizeMiB": 1.81,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/85.Never.Too.Old.To.Learn.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/85%EF%BC%8DNever%20Too%20Old%20To%20Learn.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/85%EF%BC%8DNever%20Too%20Old%20To%20Learn.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/85%EF%BC%8DNever%20Too%20Old%20To%20Learn.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/85%EF%BC%8DNever%20Too%20Old%20To%20Learn.rec"
+        }
+      }
+    },
+    {
+      "name": "86－Out of Control.mp3",
+      "sizeMiB": 2.0,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/86.Out.of.Control.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/86%EF%BC%8DOut%20of%20Control.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/86%EF%BC%8DOut%20of%20Control.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/86%EF%BC%8DOut%20of%20Control.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/86%EF%BC%8DOut%20of%20Control.rec"
+        }
+      }
+    },
+    {
+      "name": "87－A Perfect Alibi.mp3",
+      "sizeMiB": 1.95,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/87.A.Perfect.Alibi.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/87%EF%BC%8DA%20Perfect%20Alibi.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/87%EF%BC%8DA%20Perfect%20Alibi.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/87%EF%BC%8DA%20Perfect%20Alibi.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/87%EF%BC%8DA%20Perfect%20Alibi.rec"
+        }
+      }
+    },
+    {
+      "name": "88－Trapped in a Mine.mp3",
+      "sizeMiB": 1.87,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/88.Trapped.in.a.Mine.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/88%EF%BC%8DTrapped%20in%20a%20Mine.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/88%EF%BC%8DTrapped%20in%20a%20Mine.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/88%EF%BC%8DTrapped%20in%20a%20Mine.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/88%EF%BC%8DTrapped%20in%20a%20Mine.rec"
+        }
+      }
+    },
+    {
+      "name": "89－A Slip of the Tongue.mp3",
+      "sizeMiB": 1.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/89.A.Slip.of.the.Tongue.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/89%EF%BC%8DA%20Slip%20of%20the%20Tongue.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/89%EF%BC%8DA%20Slip%20of%20the%20Tongue.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/89%EF%BC%8DA%20Slip%20of%20the%20Tongue.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/89%EF%BC%8DA%20Slip%20of%20the%20Tongue.rec"
+        }
+      }
+    },
+    {
+      "name": "90－What's for Supper.mp3",
+      "sizeMiB": 2.02,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/90.What.s.for.Supper.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/90%EF%BC%8DWhat%27s%20for%20Supper.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/90%EF%BC%8DWhat%27s%20for%20Supper.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/90%EF%BC%8DWhat%27s%20for%20Supper.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/90%EF%BC%8DWhat%27s%20for%20Supper.rec"
+        }
+      }
+    },
+    {
+      "name": "91－Three Men in a Basket.mp3",
+      "sizeMiB": 1.84,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/91.Three.Men.in.a.Basket.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/91%EF%BC%8DThree%20Men%20in%20a%20Basket.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/91%EF%BC%8DThree%20Men%20in%20a%20Basket.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/91%EF%BC%8DThree%20Men%20in%20a%20Basket.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/91%EF%BC%8DThree%20Men%20in%20a%20Basket.rec"
+        }
+      }
+    },
+    {
+      "name": "92－Asking for Trouble.mp3",
+      "sizeMiB": 2.0,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/92.Asking.for.Trouble.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/92%EF%BC%8DAsking%20for%20Trouble.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/92%EF%BC%8DAsking%20for%20Trouble.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/92%EF%BC%8DAsking%20for%20Trouble.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/92%EF%BC%8DAsking%20for%20Trouble.rec"
+        }
+      }
+    },
+    {
+      "name": "93－A Noble Gift.mp3",
+      "sizeMiB": 1.94,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/93.A.Noble.Gift.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/93%EF%BC%8DA%20Noble%20Gift.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/93%EF%BC%8DA%20Noble%20Gift.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/93%EF%BC%8DA%20Noble%20Gift.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/93%EF%BC%8DA%20Noble%20Gift.rec"
+        }
+      }
+    },
+    {
+      "name": "94－Future Champions.mp3",
+      "sizeMiB": 1.89,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/94.Future.Champions.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/94%EF%BC%8DFuture%20Champions.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/94%EF%BC%8DFuture%20Champions.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/94%EF%BC%8DFuture%20Champions.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/94%EF%BC%8DFuture%20Champions.rec"
+        }
+      }
+    },
+    {
+      "name": "95－A Fantasy.mp3",
+      "sizeMiB": 2.06,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/95.A.Fantasy.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/95%EF%BC%8DA%20Fantasy.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/95%EF%BC%8DA%20Fantasy.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/95%EF%BC%8DA%20Fantasy.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/95%EF%BC%8DA%20Fantasy.rec"
+        }
+      }
+    },
+    {
+      "name": "96－The Dead Return.mp3",
+      "sizeMiB": 1.98,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-2-us-audio-v1/96.The.Dead.Return.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "lrc": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/96%EF%BC%8DThe%20Dead%20Return.lrc",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/96%EF%BC%8DThe%20Dead%20Return.rec"
+        },
+        "jsDelivr": {
+          "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/96%EF%BC%8DThe%20Dead%20Return.lrc",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE2-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/96%EF%BC%8DThe%20Dead%20Return.rec"
+        }
+      }
+    }
+  ]
+}

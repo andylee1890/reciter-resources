@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-03T11:42:30.374030Z",
+  "tag": "the-office-us-s04-audio-v1",
+  "title": "The Office US Season 04 Audio v1",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/TheOfficeS04",
+  "createdAt": "2026-08-03 19:39:42 +0800",
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s04-audio-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 14,
+  "totalSizeMiB": 370.96,
+  "audio": [
+    {
+      "name": "The Office US S04E01E02 Fun Run.mp3",
+      "sizeMiB": 38.48,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s04-audio-v1/The.Office.US.S04E01E02.Fun.Run.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E01E02%20Fun%20Run.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E01E02%20Fun%20Run.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E01E02%20Fun%20Run.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E01E02%20Fun%20Run.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S04E03E04 Dunder Mifflin Infinity.mp3",
+      "sizeMiB": 38.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s04-audio-v1/The.Office.US.S04E03E04.Dunder.Mifflin.Infinity.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E03E04%20Dunder%20Mifflin%20Infinity.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E03E04%20Dunder%20Mifflin%20Infinity.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E03E04%20Dunder%20Mifflin%20Infinity.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E03E04%20Dunder%20Mifflin%20Infinity.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S04E05E06 Launch Party.mp3",
+      "sizeMiB": 38.47,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s04-audio-v1/The.Office.US.S04E05E06.Launch.Party.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E05E06%20Launch%20Party.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E05E06%20Launch%20Party.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E05E06%20Launch%20Party.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E05E06%20Launch%20Party.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S04E07E08 Money.mp3",
+      "sizeMiB": 38.48,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s04-audio-v1/The.Office.US.S04E07E08.Money.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E07E08%20Money.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E07E08%20Money.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E07E08%20Money.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E07E08%20Money.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S04E09 Local Ad.mp3",
+      "sizeMiB": 19.82,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s04-audio-v1/The.Office.US.S04E09.Local.Ad.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E09%20Local%20Ad.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E09%20Local%20Ad.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E09%20Local%20Ad.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E09%20Local%20Ad.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S04E10 Branch Wars.mp3",
+      "sizeMiB": 20.05,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s04-audio-v1/The.Office.US.S04E10.Branch.Wars.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E10%20Branch%20Wars.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E10%20Branch%20Wars.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E10%20Branch%20Wars.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E10%20Branch%20Wars.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S04E11 Survivor Man.mp3",
+      "sizeMiB": 19.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s04-audio-v1/The.Office.US.S04E11.Survivor.Man.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E11%20Survivor%20Man.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E11%20Survivor%20Man.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E11%20Survivor%20Man.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E11%20Survivor%20Man.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S04E12 The Deposition.mp3",
+      "sizeMiB": 19.79,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s04-audio-v1/The.Office.US.S04E12.The.Deposition.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E12%20The%20Deposition.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E12%20The%20Deposition.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E12%20The%20Deposition.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E12%20The%20Deposition.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S04E13 Dinner Party.mp3",
+      "sizeMiB": 20.45,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s04-audio-v1/The.Office.US.S04E13.Dinner.Party.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E13%20Dinner%20Party.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E13%20Dinner%20Party.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E13%20Dinner%20Party.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E13%20Dinner%20Party.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S04E14 The Chair Model.mp3",
+      "sizeMiB": 19.93,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s04-audio-v1/The.Office.US.S04E14.The.Chair.Model.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E14%20The%20Chair%20Model.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E14%20The%20Chair%20Model.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E14%20The%20Chair%20Model.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E14%20The%20Chair%20Model.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S04E15 Night Out.mp3",
+      "sizeMiB": 19.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s04-audio-v1/The.Office.US.S04E15.Night.Out.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E15%20Night%20Out.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E15%20Night%20Out.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E15%20Night%20Out.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E15%20Night%20Out.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S04E16 Did I Stutter.mp3",
+      "sizeMiB": 20.24,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s04-audio-v1/The.Office.US.S04E16.Did.I.Stutter.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E16%20Did%20I%20Stutter.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E16%20Did%20I%20Stutter.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E16%20Did%20I%20Stutter.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E16%20Did%20I%20Stutter.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S04E17 Job Fair.mp3",
+      "sizeMiB": 19.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s04-audio-v1/The.Office.US.S04E17.Job.Fair.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E17%20Job%20Fair.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E17%20Job%20Fair.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E17%20Job%20Fair.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E17%20Job%20Fair.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S04E18E19 Goodbye Toby.mp3",
+      "sizeMiB": 38.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s04-audio-v1/The.Office.US.S04E18E19.Goodbye.Toby.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E18E19%20Goodbye%20Toby.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS04/The%20Office%20US%20S04E18E19%20Goodbye%20Toby.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E18E19%20Goodbye%20Toby.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS04/The%20Office%20US%20S04E18E19%20Goodbye%20Toby.recx"
+        }
+      }
+    }
+  ]
+}

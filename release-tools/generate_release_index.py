@@ -154,6 +154,10 @@ def master_index(records: list[dict[str, Any]], generated_at: str) -> dict[str, 
                 "audioCount": record["audioCount"],
                 "totalSizeMiB": record["totalSizeMiB"],
                 "detailFile": f"{record['tag']}.json",
+                "detailRaw": (
+                    f"https://raw.githubusercontent.com/{record['repository']}/"
+                    f"{record['branch']}/release-records/{record['tag']}.json"
+                ),
                 "platforms": {
                     "githubRelease": {"releaseUrl": record["releaseUrl"]},
                     "mirrors": [],

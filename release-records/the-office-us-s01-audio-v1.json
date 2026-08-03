@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-03T11:42:30.374030Z",
+  "tag": "the-office-us-s01-audio-v1",
+  "title": "The Office US Season 01 Audio v1",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/TheOfficeS01",
+  "createdAt": "2026-08-03 19:07:39 +0800",
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s01-audio-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 6,
+  "totalSizeMiB": 123.9,
+  "audio": [
+    {
+      "name": "The Office US S01E01 Pilot.mp3",
+      "sizeMiB": 21.45,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s01-audio-v1/The.Office.US.S01E01.Pilot.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS01/The%20Office%20US%20S01E01%20Pilot.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS01/The%20Office%20US%20S01E01%20Pilot.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E01%20Pilot.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E01%20Pilot.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S01E02 Diversity Day.mp3",
+      "sizeMiB": 20.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s01-audio-v1/The.Office.US.S01E02.Diversity.Day.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS01/The%20Office%20US%20S01E02%20Diversity%20Day.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS01/The%20Office%20US%20S01E02%20Diversity%20Day.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E02%20Diversity%20Day.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E02%20Diversity%20Day.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S01E03 Health Care.mp3",
+      "sizeMiB": 20.54,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s01-audio-v1/The.Office.US.S01E03.Health.Care.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS01/The%20Office%20US%20S01E03%20Health%20Care.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS01/The%20Office%20US%20S01E03%20Health%20Care.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E03%20Health%20Care.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E03%20Health%20Care.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S01E04 The Alliance.mp3",
+      "sizeMiB": 20.48,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s01-audio-v1/The.Office.US.S01E04.The.Alliance.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS01/The%20Office%20US%20S01E04%20The%20Alliance.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS01/The%20Office%20US%20S01E04%20The%20Alliance.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E04%20The%20Alliance.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E04%20The%20Alliance.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S01E05 Basketball.mp3",
+      "sizeMiB": 20.55,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s01-audio-v1/The.Office.US.S01E05.Basketball.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS01/The%20Office%20US%20S01E05%20Basketball.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS01/The%20Office%20US%20S01E05%20Basketball.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E05%20Basketball.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E05%20Basketball.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S01E06 Hot Girl.mp3",
+      "sizeMiB": 20.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s01-audio-v1/The.Office.US.S01E06.Hot.Girl.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS01/The%20Office%20US%20S01E06%20Hot%20Girl.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS01/The%20Office%20US%20S01E06%20Hot%20Girl.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E06%20Hot%20Girl.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E06%20Hot%20Girl.recx"
+        }
+      }
+    }
+  ]
+}

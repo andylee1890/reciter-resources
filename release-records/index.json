@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-03T10:33:02.980347Z",
+  "generatedAt": "2026-08-03T11:42:30.374030Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -11,9 +11,122 @@
       "audioCount": 72,
       "totalSizeMiB": 111.05,
       "detailFile": "new-concept-english-1-us-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/new-concept-english-1-us-audio-v1.json",
       "platforms": {
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/new-concept-english-1-us-audio-v1"
+        },
+        "mirrors": []
+      }
+    },
+    {
+      "tag": "new-concept-english-2-us-audio-v1",
+      "title": "New Concept English Book 2 American Audio v1",
+      "createdAt": "2026-08-03 18:49:30 +0800",
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/new-concept-english-2-us-audio-v1",
+      "audioCount": 96,
+      "totalSizeMiB": 161.86,
+      "detailFile": "new-concept-english-2-us-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/new-concept-english-2-us-audio-v1.json",
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/new-concept-english-2-us-audio-v1"
+        },
+        "mirrors": []
+      }
+    },
+    {
+      "tag": "new-concept-english-3-us-audio-v1",
+      "title": "New Concept English Book 3 American Audio v1",
+      "createdAt": "2026-08-03 18:56:09 +0800",
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/new-concept-english-3-us-audio-v1",
+      "audioCount": 60,
+      "totalSizeMiB": 187.13,
+      "detailFile": "new-concept-english-3-us-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/new-concept-english-3-us-audio-v1.json",
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/new-concept-english-3-us-audio-v1"
+        },
+        "mirrors": []
+      }
+    },
+    {
+      "tag": "new-concept-english-4-us-audio-v1",
+      "title": "New Concept English Book 4 American Audio v1",
+      "createdAt": "2026-08-03 19:00:20 +0800",
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/new-concept-english-4-us-audio-v1",
+      "audioCount": 48,
+      "totalSizeMiB": 156.48,
+      "detailFile": "new-concept-english-4-us-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/new-concept-english-4-us-audio-v1.json",
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/new-concept-english-4-us-audio-v1"
+        },
+        "mirrors": []
+      }
+    },
+    {
+      "tag": "the-office-us-s01-audio-v1",
+      "title": "The Office US Season 01 Audio v1",
+      "createdAt": "2026-08-03 19:07:39 +0800",
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s01-audio-v1",
+      "audioCount": 6,
+      "totalSizeMiB": 123.9,
+      "detailFile": "the-office-us-s01-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/the-office-us-s01-audio-v1.json",
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s01-audio-v1"
+        },
+        "mirrors": []
+      }
+    },
+    {
+      "tag": "the-office-us-s02-audio-v1",
+      "title": "The Office US Season 02 Audio v1",
+      "createdAt": "2026-08-03 19:13:15 +0800",
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s02-audio-v1",
+      "audioCount": 22,
+      "totalSizeMiB": 438.71,
+      "detailFile": "the-office-us-s02-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/the-office-us-s02-audio-v1.json",
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s02-audio-v1"
+        },
+        "mirrors": []
+      }
+    },
+    {
+      "tag": "the-office-us-s03-audio-v1",
+      "title": "The Office US Season 03 Audio v1",
+      "createdAt": "2026-08-03 19:32:13 +0800",
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s03-audio-v1",
+      "audioCount": 22,
+      "totalSizeMiB": 525.49,
+      "detailFile": "the-office-us-s03-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/the-office-us-s03-audio-v1.json",
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s03-audio-v1"
+        },
+        "mirrors": []
+      }
+    },
+    {
+      "tag": "the-office-us-s04-audio-v1",
+      "title": "The Office US Season 04 Audio v1",
+      "createdAt": "2026-08-03 19:39:42 +0800",
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s04-audio-v1",
+      "audioCount": 14,
+      "totalSizeMiB": 370.96,
+      "detailFile": "the-office-us-s04-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/the-office-us-s04-audio-v1.json",
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s04-audio-v1"
         },
         "mirrors": []
       }
