@@ -1,0 +1,434 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-03T22:04:18.828429Z",
+  "tag": "the-office-us-s09-audio-v1",
+  "title": "The Office US Season 09 Audio v1",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/TheOfficeS09",
+  "createdAt": "2026-08-04 06:04:18 +0800",
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s09-audio-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 23,
+  "totalSizeMiB": 545.28,
+  "audio": [
+    {
+      "name": "The Office US S09E01 New Guys.mp3",
+      "sizeMiB": 20.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E01.New.Guys.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E01%20New%20Guys.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E01%20New%20Guys.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E01%20New%20Guys.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E01%20New%20Guys.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E02 Roys Wedding.mp3",
+      "sizeMiB": 20.22,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E02.Roys.Wedding.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E02%20Roys%20Wedding.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E02%20Roys%20Wedding.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E02%20Roys%20Wedding.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E02%20Roys%20Wedding.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E03 Andys Ancestry.mp3",
+      "sizeMiB": 20.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E03.Andys.Ancestry.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E03%20Andys%20Ancestry.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E03%20Andys%20Ancestry.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E03%20Andys%20Ancestry.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E03%20Andys%20Ancestry.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E04 Work Bus.mp3",
+      "sizeMiB": 20.18,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E04.Work.Bus.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E04%20Work%20Bus.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E04%20Work%20Bus.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E04%20Work%20Bus.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E04%20Work%20Bus.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E05 Here Comes Treble.mp3",
+      "sizeMiB": 20.21,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E05.Here.Comes.Treble.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E05%20Here%20Comes%20Treble.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E05%20Here%20Comes%20Treble.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E05%20Here%20Comes%20Treble.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E05%20Here%20Comes%20Treble.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E06 The Boat.mp3",
+      "sizeMiB": 20.21,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E06.The.Boat.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E06%20The%20Boat.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E06%20The%20Boat.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E06%20The%20Boat.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E06%20The%20Boat.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E07 The Whale.mp3",
+      "sizeMiB": 20.24,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E07.The.Whale.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E07%20The%20Whale.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E07%20The%20Whale.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E07%20The%20Whale.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E07%20The%20Whale.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E08 The Target.mp3",
+      "sizeMiB": 20.17,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E08.The.Target.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E08%20The%20Target.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E08%20The%20Target.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E08%20The%20Target.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E08%20The%20Target.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E09 Dwight Christmas.mp3",
+      "sizeMiB": 20.19,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E09.Dwight.Christmas.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E09%20Dwight%20Christmas.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E09%20Dwight%20Christmas.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E09%20Dwight%20Christmas.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E09%20Dwight%20Christmas.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E10 Lice.mp3",
+      "sizeMiB": 20.19,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E10.Lice.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E10%20Lice.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E10%20Lice.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E10%20Lice.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E10%20Lice.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E11 Suit Warehouse.mp3",
+      "sizeMiB": 20.14,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E11.Suit.Warehouse.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E11%20Suit%20Warehouse.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E11%20Suit%20Warehouse.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E11%20Suit%20Warehouse.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E11%20Suit%20Warehouse.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E12 Customer Loyalty.mp3",
+      "sizeMiB": 20.19,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E12.Customer.Loyalty.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E12%20Customer%20Loyalty.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E12%20Customer%20Loyalty.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E12%20Customer%20Loyalty.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E12%20Customer%20Loyalty.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E13 Junior Salesman.mp3",
+      "sizeMiB": 20.18,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E13.Junior.Salesman.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E13%20Junior%20Salesman.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E13%20Junior%20Salesman.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E13%20Junior%20Salesman.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E13%20Junior%20Salesman.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E14 Vandalism.mp3",
+      "sizeMiB": 20.17,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E14.Vandalism.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E14%20Vandalism.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E14%20Vandalism.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E14%20Vandalism.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E14%20Vandalism.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E15 Couples Discount.mp3",
+      "sizeMiB": 20.16,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E15.Couples.Discount.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E15%20Couples%20Discount.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E15%20Couples%20Discount.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E15%20Couples%20Discount.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E15%20Couples%20Discount.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E16 Moving On.mp3",
+      "sizeMiB": 38.02,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E16.Moving.On.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E16%20Moving%20On.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E16%20Moving%20On.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E16%20Moving%20On.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E16%20Moving%20On.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E17 The Farm.mp3",
+      "sizeMiB": 20.19,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E17.The.Farm.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E17%20The%20Farm.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E17%20The%20Farm.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E17%20The%20Farm.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E17%20The%20Farm.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E18 Promos.mp3",
+      "sizeMiB": 20.19,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E18.Promos.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E18%20Promos.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E18%20Promos.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E18%20Promos.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E18%20Promos.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E19 Stairmageddon.mp3",
+      "sizeMiB": 20.16,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E19.Stairmageddon.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E19%20Stairmageddon.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E19%20Stairmageddon.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E19%20Stairmageddon.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E19%20Stairmageddon.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E20 Paper Airplane.mp3",
+      "sizeMiB": 20.19,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E20.Paper.Airplane.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E20%20Paper%20Airplane.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E20%20Paper%20Airplane.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E20%20Paper%20Airplane.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E20%20Paper%20Airplane.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E21 Livin the Dream.mp3",
+      "sizeMiB": 37.1,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E21.Livin.the.Dream.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E21%20Livin%20the%20Dream.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E21%20Livin%20the%20Dream.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E21%20Livin%20the%20Dream.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E21%20Livin%20the%20Dream.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E22 AARM.mp3",
+      "sizeMiB": 39.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E22.AARM.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E22%20AARM.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E22%20AARM.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E22%20AARM.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E22%20AARM.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S09E23 Finale.mp3",
+      "sizeMiB": 46.77,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s09-audio-v1/The.Office.US.S09E23.Finale.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E23%20Finale.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS09/The%20Office%20US%20S09E23%20Finale.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E23%20Finale.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS09/The%20Office%20US%20S09E23%20Finale.recx"
+        }
+      }
+    }
+  ]
+}
