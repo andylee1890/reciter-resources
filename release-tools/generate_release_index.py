@@ -168,6 +168,17 @@ def master_index(records: list[dict[str, Any]], generated_at: str) -> dict[str, 
     }
 
 
+def existing_generated_at(path: Path, fallback: str) -> str:
+    """Keep a published detail record's original generation timestamp stable."""
+    if not path.is_file():
+        return fallback
+    try:
+        value = json.loads(path.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return fallback
+    return value.get("generatedAt") if isinstance(value.get("generatedAt"), str) else fallback
+
+
 def parse_args() -> argparse.Namespace:
     root = repository_root()
     parser = argparse.ArgumentParser(description="Generate release-records/index.json from published release records.")
@@ -188,7 +199,12 @@ def main() -> int:
     for record in records:
         detail_path = records_dir / f"{record['tag']}.json"
         detail_path.write_text(
-            json.dumps(release_detail(record, generated_at), ensure_ascii=False, indent=2) + "\n",
+            json.dumps(
+                release_detail(record, existing_generated_at(detail_path, generated_at)),
+                ensure_ascii=False,
+                indent=2,
+            )
+            + "\n",
             encoding="utf-8",
             newline="\n",
         )
