@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-03T21:03:09.141471Z",
+  "generatedAt": "2026-08-03T21:11:47.092257Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -95,6 +95,22 @@
       "platforms": {
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s06-audio-v1"
+        },
+        "mirrors": []
+      }
+    },
+    {
+      "tag": "friends-s07-audio-v1",
+      "title": "Friends Season 07 Audio v1",
+      "createdAt": "2026-08-04 05:11:41 +0800",
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s07-audio-v1",
+      "audioCount": 24,
+      "totalSizeMiB": 482.67,
+      "detailFile": "friends-s07-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/friends-s07-audio-v1.json",
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s07-audio-v1"
         },
         "mirrors": []
       }
