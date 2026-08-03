@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-03T22:08:06.140369Z",
+  "tag": "yes-minister-audio-v1",
+  "title": "Yes Minister Audio v1",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/大臣首相-是大臣",
+  "createdAt": "2026-08-04 06:08:05 +0800",
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/yes-minister-audio-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 22,
+  "totalSizeMiB": 308.42,
+  "audio": [
+    {
+      "name": "Yes Minister S01E1 Open government.mp3",
+      "sizeMiB": 13.07,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S01E1.Open.government.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E1%20Open%20government.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E1%20Open%20government.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E1%20Open%20government.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E1%20Open%20government.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S01E2 The official visit.mp3",
+      "sizeMiB": 12.95,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S01E2.The.official.visit.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E2%20The%20official%20visit.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E2%20The%20official%20visit.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E2%20The%20official%20visit.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E2%20The%20official%20visit.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S01E3 The economy drive.mp3",
+      "sizeMiB": 13.05,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S01E3.The.economy.drive.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E3%20The%20economy%20drive.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E3%20The%20economy%20drive.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E3%20The%20economy%20drive.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E3%20The%20economy%20drive.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S01E4 Big brother.mp3",
+      "sizeMiB": 13.41,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S01E4.Big.brother.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E4%20Big%20brother.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E4%20Big%20brother.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E4%20Big%20brother.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E4%20Big%20brother.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S01E5 The writing on the wall.mp3",
+      "sizeMiB": 12.67,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S01E5.The.writing.on.the.wall.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E5%20The%20writing%20on%20the%20wall.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E5%20The%20writing%20on%20the%20wall.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E5%20The%20writing%20on%20the%20wall.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E5%20The%20writing%20on%20the%20wall.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S01E6 The right to know.mp3",
+      "sizeMiB": 13.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S01E6.The.right.to.know.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E6%20The%20right%20to%20know.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E6%20The%20right%20to%20know.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E6%20The%20right%20to%20know.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E6%20The%20right%20to%20know.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S01E7 Jobs for the boys.mp3",
+      "sizeMiB": 13.28,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S01E7.Jobs.for.the.boys.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E7%20Jobs%20for%20the%20boys.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E7%20Jobs%20for%20the%20boys.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E7%20Jobs%20for%20the%20boys.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S01E7%20Jobs%20for%20the%20boys.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S02E1 The compassionate society.mp3",
+      "sizeMiB": 13.49,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S02E1.The.compassionate.society.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E1%20The%20compassionate%20society.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E1%20The%20compassionate%20society.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E1%20The%20compassionate%20society.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E1%20The%20compassionate%20society.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S02E2 Doing the honours.mp3",
+      "sizeMiB": 13.05,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S02E2.Doing.the.honours.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E2%20Doing%20the%20honours.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E2%20Doing%20the%20honours.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E2%20Doing%20the%20honours.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E2%20Doing%20the%20honours.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S02E3 The death list.mp3",
+      "sizeMiB": 13.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S02E3.The.death.list.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E3%20The%20death%20list.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E3%20The%20death%20list.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E3%20The%20death%20list.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E3%20The%20death%20list.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S02E4 The greasy pole.mp3",
+      "sizeMiB": 13.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S02E4.The.greasy.pole.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E4%20The%20greasy%20pole.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E4%20The%20greasy%20pole.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E4%20The%20greasy%20pole.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E4%20The%20greasy%20pole.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S02E5 The devil you know.mp3",
+      "sizeMiB": 13.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S02E5.The.devil.you.know.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E5%20The%20devil%20you%20know.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E5%20The%20devil%20you%20know.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E5%20The%20devil%20you%20know.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E5%20The%20devil%20you%20know.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S02E6 The quality of life.mp3",
+      "sizeMiB": 13.4,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S02E6.The.quality.of.life.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E6%20The%20quality%20of%20life.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E6%20The%20quality%20of%20life.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E6%20The%20quality%20of%20life.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E6%20The%20quality%20of%20life.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S02E7 A question of loyalty.mp3",
+      "sizeMiB": 13.19,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S02E7.A.question.of.loyalty.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E7%20A%20question%20of%20loyalty.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E7%20A%20question%20of%20loyalty.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E7%20A%20question%20of%20loyalty.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S02E7%20A%20question%20of%20loyalty.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S03E1 Equal opportunities.mp3",
+      "sizeMiB": 13.14,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S03E1.Equal.opportunities.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E1%20Equal%20opportunities.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E1%20Equal%20opportunities.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E1%20Equal%20opportunities.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E1%20Equal%20opportunities.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S03E2 The challenge.mp3",
+      "sizeMiB": 13.92,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S03E2.The.challenge.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E2%20The%20challenge.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E2%20The%20challenge.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E2%20The%20challenge.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E2%20The%20challenge.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S03E3 The S0keleton in the cupboard.mp3",
+      "sizeMiB": 13.83,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S03E3.The.S0keleton.in.the.cupboard.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E3%20The%20S0keleton%20in%20the%20cupboard.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E3%20The%20S0keleton%20in%20the%20cupboard.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E3%20The%20S0keleton%20in%20the%20cupboard.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E3%20The%20S0keleton%20in%20the%20cupboard.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S03E4 The moral dimension.mp3",
+      "sizeMiB": 13.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S03E4.The.moral.dimension.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E4%20The%20moral%20dimension.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E4%20The%20moral%20dimension.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E4%20The%20moral%20dimension.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E4%20The%20moral%20dimension.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S03E5 The bed of nails.mp3",
+      "sizeMiB": 13.46,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S03E5.The.bed.of.nails.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E5%20The%20bed%20of%20nails.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E5%20The%20bed%20of%20nails.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E5%20The%20bed%20of%20nails.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E5%20The%20bed%20of%20nails.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S03E6 The whisky priest.mp3",
+      "sizeMiB": 13.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S03E6.The.whisky.priest.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E6%20The%20whisky%20priest.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E6%20The%20whisky%20priest.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E6%20The%20whisky%20priest.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E6%20The%20whisky%20priest.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S03E7 The middleclass rip-off.mp3",
+      "sizeMiB": 13.7,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S03E7.The.middleclass.rip.off.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E7%20The%20middleclass%20rip-off.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E7%20The%20middleclass%20rip-off.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E7%20The%20middleclass%20rip-off.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E7%20The%20middleclass%20rip-off.rec"
+        }
+      }
+    },
+    {
+      "name": "Yes Minister S03E8 Party games.mp3",
+      "sizeMiB": 27.87,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-minister-audio-v1/Yes.Minister.S03E8.Party.games.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E8%20Party%20games.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E8%20Party%20games.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E8%20Party%20games.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E5%A4%A7%E8%87%A3/Yes%20Minister%20S03E8%20Party%20games.rec"
+        }
+      }
+    }
+  ]
+}

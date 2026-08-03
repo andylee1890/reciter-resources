@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-03T22:04:18.828429Z",
+  "generatedAt": "2026-08-03T22:08:06.140369Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -367,6 +367,22 @@
       "platforms": {
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s09-audio-v1"
+        },
+        "mirrors": []
+      }
+    },
+    {
+      "tag": "yes-minister-audio-v1",
+      "title": "Yes Minister Audio v1",
+      "createdAt": "2026-08-04 06:08:05 +0800",
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/yes-minister-audio-v1",
+      "audioCount": 22,
+      "totalSizeMiB": 308.42,
+      "detailFile": "yes-minister-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/yes-minister-audio-v1.json",
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/yes-minister-audio-v1"
         },
         "mirrors": []
       }
