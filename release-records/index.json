@@ -1,8 +1,24 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-03T11:42:30.374030Z",
+  "generatedAt": "2026-08-03T18:28:17.494149Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
+    {
+      "tag": "friends-s01-audio-v1",
+      "title": "Friends Season 01 Audio v1",
+      "createdAt": "2026-08-04 02:28:16 +0800",
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s01-audio-v1",
+      "audioCount": 24,
+      "totalSizeMiB": 498.64,
+      "detailFile": "friends-s01-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/friends-s01-audio-v1.json",
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s01-audio-v1"
+        },
+        "mirrors": []
+      }
+    },
     {
       "tag": "new-concept-english-1-us-audio-v1",
       "title": "New Concept English Book 1 American Audio v1",
