@@ -1,0 +1,452 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-03T21:24:45.914309Z",
+  "tag": "friends-s08-audio-v1",
+  "title": "Friends Season 08 Audio v1",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/FriendsS08",
+  "createdAt": "2026-08-04 05:24:37 +0800",
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s08-audio-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 24,
+  "totalSizeMiB": 482.66,
+  "audio": [
+    {
+      "name": "FriendsS08E01.mp3",
+      "sizeMiB": 20.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E01.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E01.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E01.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E01.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E01.rec"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E02.mp3",
+      "sizeMiB": 20.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E02.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E02.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E02.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E02.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E02.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E03.mp3",
+      "sizeMiB": 20.16,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E03.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E03.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E03.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E03.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E03.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E04.mp3",
+      "sizeMiB": 20.57,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E04.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E04.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E04.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E04.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E04.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E05.mp3",
+      "sizeMiB": 20.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E05.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E05.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E05.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E05.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E05.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E06.mp3",
+      "sizeMiB": 20.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E06.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E06.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E06.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E06.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E06.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E07.mp3",
+      "sizeMiB": 20.15,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E07.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E07.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E07.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E07.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E07.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E08.mp3",
+      "sizeMiB": 19.96,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E08.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E08.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E08.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E08.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E08.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E09.mp3",
+      "sizeMiB": 20.11,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E09.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E09.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E09.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E09.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E09.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E10.mp3",
+      "sizeMiB": 20.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E10.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E10.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E10.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E10.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E10.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E11.mp3",
+      "sizeMiB": 20.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E11.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E11.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E11.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E11.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E11.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E12.mp3",
+      "sizeMiB": 20.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E12.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E12.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E12.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E12.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E13.mp3",
+      "sizeMiB": 19.82,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E13.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E13.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E13.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E13.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E13.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E14.mp3",
+      "sizeMiB": 20.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E14.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E14.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E14.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E14.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E14.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E15.mp3",
+      "sizeMiB": 20.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E15.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E15.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E15.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E15.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E15.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E16.mp3",
+      "sizeMiB": 19.37,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E16.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E16.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E16.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E16.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E16.rec"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E17.mp3",
+      "sizeMiB": 20.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E17.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E17.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E17.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E17.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E17.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E18.mp3",
+      "sizeMiB": 20.1,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E18.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E18.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E18.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E18.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E18.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E19.mp3",
+      "sizeMiB": 20.15,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E19.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E19.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E19.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E19.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E19.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E20.mp3",
+      "sizeMiB": 20.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E20.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E20.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E20.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E20.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E20.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E21.mp3",
+      "sizeMiB": 20.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E21.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E21.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E21.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E21.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E21.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E22.mp3",
+      "sizeMiB": 20.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E22.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E22.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E22.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E22.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E22.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E23.mp3",
+      "sizeMiB": 20.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E23.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E23.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E23.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E23.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E23.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS08E24.mp3",
+      "sizeMiB": 20.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s08-audio-v1/FriendsS08E24.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E24.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS08/FriendsS08E24.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E24.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS08/FriendsS08E24.recx"
+        }
+      }
+    }
+  ]
+}
