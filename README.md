@@ -18,6 +18,13 @@ jsDelivr:
 
 音频资源不提交到 Git 历史，按资料包或季发布到 GitHub Releases。每次发布的可用链接记录在 [release-records](https://github.com/andylee1890/reciter-resources/tree/main/release-records)。
 
+## 机器可读索引
+
+已发布的资料包、音频下载地址和配套文本链接汇总在 JSON 索引中；未实际发布的 dry run 记录不会进入索引。
+
+- GitHub Raw：`https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/index.json`
+- jsDelivr：`https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/release-records/index.json`
+
 ## 资源边界
 
 - `.srt`、`.lrc`、`.rec`、`.recx` 属于可版本化的文本资产，直接提交到 Git。

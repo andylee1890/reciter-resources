@@ -67,3 +67,14 @@ python release-tools/publish_season_release.py \
 - 每个音频的大小和 sidecar 状态。
 
 如果收到权利方要求撤回资源，不要复用旧 tag 绕过，应撤下对应 asset 或 Release，并在同一条发布记录中追加处理说明。
+
+## 索引生成
+
+`generate_release_index.py` 从 `release-records/*.md` 生成站点可直接消费的 `release-records/index.json`。
+它只收录 `Dry run: False` 的记录，并为每条音频保留 Release 下载、GitHub Raw sidecar 和 jsDelivr sidecar 链接。
+
+```bash
+python release-tools/generate_release_index.py
+```
+
+每次新增、撤回或修改发布记录后，都应重新生成并提交该索引。

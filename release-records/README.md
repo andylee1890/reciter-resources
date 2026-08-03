@@ -15,4 +15,6 @@
 - 每个音频对应的字幕/rec sidecar 情况
 - 是否为 dry run
 
+`index.json` 是从已发布记录生成的机器可读索引，只包含 `Dry run: False` 的 Release。站点可通过 GitHub Raw 或 jsDelivr 直接引用它。
+
 如果某个资源因权利方要求撤下，也在这里追加处理说明，方便以后追踪替代策略。
