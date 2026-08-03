@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-03T18:28:17.494149Z",
+  "generatedAt": "2026-08-03T19:15:14.510576Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -15,6 +15,22 @@
       "platforms": {
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s01-audio-v1"
+        },
+        "mirrors": []
+      }
+    },
+    {
+      "tag": "friends-s02-audio-v1",
+      "title": "Friends Season 02 Audio v1",
+      "createdAt": "2026-08-04 03:15:13 +0800",
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s02-audio-v1",
+      "audioCount": 24,
+      "totalSizeMiB": 500.07,
+      "detailFile": "friends-s02-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/friends-s02-audio-v1.json",
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s02-audio-v1"
         },
         "mirrors": []
       }
