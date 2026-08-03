@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-03T22:08:06.140369Z",
+  "generatedAt": "2026-08-03T22:11:25.029849Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -383,6 +383,22 @@
       "platforms": {
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/yes-minister-audio-v1"
+        },
+        "mirrors": []
+      }
+    },
+    {
+      "tag": "yes-prime-minister-audio-v1",
+      "title": "Yes Prime Minister Audio v1",
+      "createdAt": "2026-08-04 06:11:24 +0800",
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/yes-prime-minister-audio-v1",
+      "audioCount": 16,
+      "totalSizeMiB": 217.18,
+      "detailFile": "yes-prime-minister-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/yes-prime-minister-audio-v1.json",
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/yes-prime-minister-audio-v1"
         },
         "mirrors": []
       }
