@@ -1,0 +1,470 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-03T21:48:30.154665Z",
+  "tag": "the-office-us-s06-audio-v1",
+  "title": "The Office US Season 06 Audio v1",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/TheOfficeS06",
+  "createdAt": "2026-08-04 05:48:29 +0800",
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s06-audio-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 25,
+  "totalSizeMiB": 549.0,
+  "audio": [
+    {
+      "name": "The Office US S06E01 Gossip.mp3",
+      "sizeMiB": 20.17,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E01.Gossip.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E01%20Gossip.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E01%20Gossip.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E01%20Gossip.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E01%20Gossip.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E02 The Meeting.mp3",
+      "sizeMiB": 20.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E02.The.Meeting.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E02%20The%20Meeting.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E02%20The%20Meeting.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E02%20The%20Meeting.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E02%20The%20Meeting.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E03 The Promotion.mp3",
+      "sizeMiB": 20.24,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E03.The.Promotion.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E03%20The%20Promotion.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E03%20The%20Promotion.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E03%20The%20Promotion.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E03%20The%20Promotion.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E04 Niagara.mp3",
+      "sizeMiB": 39.76,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E04.Niagara.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E04%20Niagara.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E04%20Niagara.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E04%20Niagara.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E04%20Niagara.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E05 Mafia.mp3",
+      "sizeMiB": 20.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E05.Mafia.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E05%20Mafia.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E05%20Mafia.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E05%20Mafia.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E05%20Mafia.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E06 The Lover.mp3",
+      "sizeMiB": 20.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E06.The.Lover.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E06%20The%20Lover.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E06%20The%20Lover.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E06%20The%20Lover.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E06%20The%20Lover.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E07 Koi Pond.mp3",
+      "sizeMiB": 20.2,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E07.Koi.Pond.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E07%20Koi%20Pond.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E07%20Koi%20Pond.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E07%20Koi%20Pond.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E07%20Koi%20Pond.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E08 Double Date.mp3",
+      "sizeMiB": 20.27,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E08.Double.Date.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E08%20Double%20Date.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E08%20Double%20Date.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E08%20Double%20Date.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E08%20Double%20Date.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E09 Murder.mp3",
+      "sizeMiB": 20.24,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E09.Murder.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E09%20Murder.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E09%20Murder.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E09%20Murder.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E09%20Murder.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E10 Shareholder Meeting.mp3",
+      "sizeMiB": 20.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E10.Shareholder.Meeting.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E10%20Shareholder%20Meeting.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E10%20Shareholder%20Meeting.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E10%20Shareholder%20Meeting.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E10%20Shareholder%20Meeting.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E11 Scotts Tots.mp3",
+      "sizeMiB": 20.24,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E11.Scotts.Tots.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E11%20Scotts%20Tots.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E11%20Scotts%20Tots.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E11%20Scotts%20Tots.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E11%20Scotts%20Tots.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E12 Secret Santa Producers Extended Cut.mp3",
+      "sizeMiB": 27.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E12.Secret.Santa.Producers.Extended.Cut.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E12%20Secret%20Santa%20Producers%20Extended%20Cut.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E12%20Secret%20Santa%20Producers%20Extended%20Cut.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E12%20Secret%20Santa%20Producers%20Extended%20Cut.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E12%20Secret%20Santa%20Producers%20Extended%20Cut.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E12 Secret Santa.mp3",
+      "sizeMiB": 17.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E12.Secret.Santa.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E12%20Secret%20Santa.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E12%20Secret%20Santa.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E12%20Secret%20Santa.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E12%20Secret%20Santa.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E13 The Banker.mp3",
+      "sizeMiB": 20.27,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E13.The.Banker.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E13%20The%20Banker.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E13%20The%20Banker.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E13%20The%20Banker.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E13%20The%20Banker.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E14 Sabre.mp3",
+      "sizeMiB": 20.25,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E14.Sabre.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E14%20Sabre.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E14%20Sabre.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E14%20Sabre.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E14%20Sabre.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E15 The Manager and the Salesman.mp3",
+      "sizeMiB": 20.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E15.The.Manager.and.the.Salesman.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E15%20The%20Manager%20and%20the%20Salesman.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E15%20The%20Manager%20and%20the%20Salesman.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E15%20The%20Manager%20and%20the%20Salesman.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E15%20The%20Manager%20and%20the%20Salesman.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E16 The Delivery.mp3",
+      "sizeMiB": 39.48,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E16.The.Delivery.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E16%20The%20Delivery.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E16%20The%20Delivery.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E16%20The%20Delivery.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E16%20The%20Delivery.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E17 St Patricks Day.mp3",
+      "sizeMiB": 20.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E17.St.Patricks.Day.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E17%20St%20Patricks%20Day.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E17%20St%20Patricks%20Day.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E17%20St%20Patricks%20Day.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E17%20St%20Patricks%20Day.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E18 New Leads.mp3",
+      "sizeMiB": 20.25,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E18.New.Leads.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E18%20New%20Leads.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E18%20New%20Leads.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E18%20New%20Leads.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E18%20New%20Leads.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E19 Happy Hour.mp3",
+      "sizeMiB": 20.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E19.Happy.Hour.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E19%20Happy%20Hour.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E19%20Happy%20Hour.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E19%20Happy%20Hour.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E19%20Happy%20Hour.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E20 Secretarys Day.mp3",
+      "sizeMiB": 20.19,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E20.Secretarys.Day.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E20%20Secretarys%20Day.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E20%20Secretarys%20Day.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E20%20Secretarys%20Day.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E20%20Secretarys%20Day.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E21 Body Language.mp3",
+      "sizeMiB": 20.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E21.Body.Language.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E21%20Body%20Language.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E21%20Body%20Language.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E21%20Body%20Language.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E21%20Body%20Language.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E22 The Cover-Up.mp3",
+      "sizeMiB": 20.19,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E22.The.Cover.Up.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E22%20The%20Cover-Up.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E22%20The%20Cover-Up.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E22%20The%20Cover-Up.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E22%20The%20Cover-Up.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E23 The Chump.mp3",
+      "sizeMiB": 20.25,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E23.The.Chump.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E23%20The%20Chump.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E23%20The%20Chump.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E23%20The%20Chump.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E23%20The%20Chump.recx"
+        }
+      }
+    },
+    {
+      "name": "The Office US S06E24 Whistleblower.mp3",
+      "sizeMiB": 20.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s06-audio-v1/The.Office.US.S06E24.Whistleblower.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E24%20Whistleblower.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/TheOfficeS06/The%20Office%20US%20S06E24%20Whistleblower.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E24%20Whistleblower.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS06/The%20Office%20US%20S06E24%20Whistleblower.recx"
+        }
+      }
+    }
+  ]
+}
