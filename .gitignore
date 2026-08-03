@@ -1,0 +1,18 @@
+# Audio binaries are distributed through GitHub Releases, not Git history.
+*.mp3
+*.m4a
+*.wav
+*.flac
+*.aac
+*.ogg
+*.opus
+
+# Local working files.
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+
+# Generated release logs can be kept locally unless copied into release-records/.
+release-tools/logs/
