@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-03T21:55:18.667023Z",
+  "generatedAt": "2026-08-03T22:00:30.813734Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -335,6 +335,22 @@
       "platforms": {
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s07-audio-v1"
+        },
+        "mirrors": []
+      }
+    },
+    {
+      "tag": "the-office-us-s08-audio-v1",
+      "title": "The Office US Season 08 Audio v1",
+      "createdAt": "2026-08-04 06:00:30 +0800",
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s08-audio-v1",
+      "audioCount": 24,
+      "totalSizeMiB": 499.94,
+      "detailFile": "the-office-us-s08-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/the-office-us-s08-audio-v1.json",
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s08-audio-v1"
         },
         "mirrors": []
       }
