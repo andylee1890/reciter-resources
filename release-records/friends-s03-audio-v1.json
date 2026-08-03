@@ -1,0 +1,470 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-03T20:00:53.353105Z",
+  "tag": "friends-s03-audio-v1",
+  "title": "Friends Season 03 Audio v1",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/FriendsS03",
+  "createdAt": "2026-08-04 04:00:52 +0800",
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s03-audio-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 25,
+  "totalSizeMiB": 522.0,
+  "audio": [
+    {
+      "name": "FriendsS03E01.mp3",
+      "sizeMiB": 20.8,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E01.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E01.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E01.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E01.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E01.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E02.mp3",
+      "sizeMiB": 20.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E02.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E02.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E02.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E02.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E02.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E03.mp3",
+      "sizeMiB": 20.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E03.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E03.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E03.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E03.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E03.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E04.mp3",
+      "sizeMiB": 20.91,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E04.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E04.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E04.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E04.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E04.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E05.mp3",
+      "sizeMiB": 20.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E05.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E05.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E05.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E05.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E05.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E06.mp3",
+      "sizeMiB": 20.87,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E06.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E06.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E06.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E06.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E06.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E07.mp3",
+      "sizeMiB": 20.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E07.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E07.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E07.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E07.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E07.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E08.mp3",
+      "sizeMiB": 20.9,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E08.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E08.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E08.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E08.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E08.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E09.mp3",
+      "sizeMiB": 20.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E09.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E09.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E09.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E09.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E09.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E10.mp3",
+      "sizeMiB": 20.9,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E10.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E10.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E10.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E10.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E10.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E11.mp3",
+      "sizeMiB": 20.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E11.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E11.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E11.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E11.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E11.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E12.mp3",
+      "sizeMiB": 20.9,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E12.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E12.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E12.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E12.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E13.mp3",
+      "sizeMiB": 20.9,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E13.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E13.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E13.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E13.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E13.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E14.mp3",
+      "sizeMiB": 20.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E14.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E14.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E14.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E14.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E14.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E15.mp3",
+      "sizeMiB": 20.8,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E15.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E15.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E15.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E15.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E15.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E16.mp3",
+      "sizeMiB": 21.16,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E16.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E16.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E16.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E16.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E16.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E17.mp3",
+      "sizeMiB": 20.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E17.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E17.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E17.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E17.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E17.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E18.mp3",
+      "sizeMiB": 20.84,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E18.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E18.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E18.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E18.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E18.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E19.mp3",
+      "sizeMiB": 20.84,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E19.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E19.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E19.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E19.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E19.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E20.mp3",
+      "sizeMiB": 20.9,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E20.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E20.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E20.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E20.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E20.rec"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E21.mp3",
+      "sizeMiB": 20.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E21.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E21.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E21.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E21.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E21.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E22.mp3",
+      "sizeMiB": 20.84,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E22.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E22.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E22.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E22.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E22.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E23.mp3",
+      "sizeMiB": 20.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E23.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E23.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E23.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E23.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E23.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E24.mp3",
+      "sizeMiB": 20.84,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E24.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E24.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E24.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E24.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E24.recx"
+        }
+      }
+    },
+    {
+      "name": "FriendsS03E25.mp3",
+      "sizeMiB": 20.82,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s03-audio-v1/FriendsS03E25.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E25.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/FriendsS03/FriendsS03E25.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E25.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS03/FriendsS03E25.recx"
+        }
+      }
+    }
+  ]
+}
