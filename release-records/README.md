@@ -8,6 +8,10 @@
 - 发布标题
 - 来源文件夹
 - 音频文件数量和总大小
+- GitHub Release 页面链接
+- 每个音频的 GitHub Release 下载链接
+- 每个文本 sidecar 的 GitHub Raw 链接
+- 每个文本 sidecar 的 jsDelivr CDN 链接
 - 每个音频对应的字幕/rec sidecar 情况
 - 是否为 dry run
 

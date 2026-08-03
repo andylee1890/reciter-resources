@@ -1,23 +1,28 @@
 # Reciter Resources
 
-这个仓库用于保存复读工作台可公开引用的文本类学习资源。
+这个仓库保存复读、跟读、字幕对齐等学习场景可直接引用的公开文本资源。
 
-仓库名：`reciter-resources`  
-远程 SSH：`git@github-andylee1890:andylee1890/reciter-resources.git`
+仓库地址：[https://github.com/andylee1890/reciter-resources](https://github.com/andylee1890/reciter-resources)
 
-## 目录结构
+## 如何引用
 
-```text
-resources/          # 字幕、LRC、REC、RECX 以及本地忽略的音频源文件
-release-tools/      # 跨平台 Python 发布脚本
-release-records/    # 每次发布或撤回的记录
-```
+文本资源位于 `resources/`，可以通过 GitHub Raw 或 jsDelivr 引用。
+
+GitHub Raw:
+
+`https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/...`
+
+jsDelivr:
+
+`https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/...`
+
+音频资源不提交到 Git 历史，按资料包或季发布到 GitHub Releases。每次发布的可用链接记录在 [release-records](https://github.com/andylee1890/reciter-resources/tree/main/release-records)。
 
 ## 资源边界
 
 - `.srt`、`.lrc`、`.rec`、`.recx` 属于可版本化的文本资产，直接提交到 Git。
 - `.mp3` 等音频文件不进入 Git 历史，按每一季或每个资料包上传到 GitHub Releases。
-- 音频与文本文件需要保持同一个 basename，例如：
+- 音频与文本文件保持同一个 basename，方便前端自动配对，例如：
 
 ```text
 The Office US S02E01 The Dundies.mp3
@@ -25,44 +30,13 @@ The Office US S02E01 The Dundies.srt
 The Office US S02E01 The Dundies.rec
 ```
 
-这样前端或复读机可以按文件名自动配对。
+## 目录
 
-## 发布策略
+- [resources](https://github.com/andylee1890/reciter-resources/tree/main/resources)：字幕、LRC、REC、RECX 等文本资源。
+- [release-records](https://github.com/andylee1890/reciter-resources/tree/main/release-records)：音频发布、链接索引和撤回记录。
 
-每个季文件夹对应一个 Release tag，例如：
+## 使用说明
 
-```text
-the-office-s02-audio-v1
-friends-s01-audio-v1
-nce4-audio-v1
-```
+本仓库面向非盈利学习用途整理资源，不声称官方授权、正版合作或替代原始发行渠道。
 
-发布时只上传 `resources/` 下对应文件夹内的 `.mp3`。字幕、LRC、REC、RECX 保留在 Git 仓库中，通过提交版本固定。
-
-发布脚本放在 `release-tools/`，发布记录放在 `release-records/`。
-
-## 版权与撤回
-
-本站资源按非盈利学习用途整理，早期发布状态可视为 `provisional`。不声称官方授权、正版合作或替代原始发行渠道。
-
-如收到明确权利方要求，应按资源粒度撤下对应 Release asset、Release 或仓库文件，并在 `release-records/` 中记录处理结果。不要通过换仓库、换 tag 或换代理链接反复规避同一撤回请求。
-
-## 常用命令
-
-查看待提交的文本资产：
-
-```powershell
-git status --short
-```
-
-发布某一季音频：
-
-```powershell
-python release-tools/publish_season_release.py --folder resources/TheOfficeS02 --tag the-office-us-s02-audio-v1 --title "The Office US Season 02 Audio v1"
-```
-
-只预览不上传：
-
-```powershell
-python release-tools/publish_season_release.py --folder resources/TheOfficeS02 --tag the-office-us-s02-audio-v1 --title "The Office US Season 02 Audio v1" --dry-run
-```
+如果明确权利方要求撤下某项资源，会按资源粒度处理对应文件或 Release，并在发布记录中留下处理说明。

@@ -15,6 +15,7 @@ import shutil
 import subprocess
 import sys
 from pathlib import Path
+from urllib.parse import quote
 
 
 SIDECAR_EXTENSIONS = (".srt", ".lrc", ".rec", ".recx")
@@ -43,6 +44,34 @@ def markdown_cell(value: str) -> str:
     return value.replace("|", r"\|")
 
 
+def markdown_link(label: str, url: str) -> str:
+    return f"[{markdown_cell(label)}]({url})"
+
+
+def quote_path(value: str) -> str:
+    return quote(value, safe="/")
+
+
+def quote_filename(value: str) -> str:
+    return quote(value, safe="")
+
+
+def raw_url(repo: str, branch: str, relative_path: str) -> str:
+    return f"https://raw.githubusercontent.com/{repo}/{quote_path(branch)}/{quote_path(relative_path)}"
+
+
+def jsdelivr_url(repo: str, branch: str, relative_path: str) -> str:
+    return f"https://cdn.jsdelivr.net/gh/{repo}@{quote_path(branch)}/{quote_path(relative_path)}"
+
+
+def release_url(repo: str, tag: str) -> str:
+    return f"https://github.com/{repo}/releases/tag/{quote_path(tag)}"
+
+
+def release_asset_url(repo: str, tag: str, filename: str) -> str:
+    return f"https://github.com/{repo}/releases/download/{quote_path(tag)}/{quote_filename(filename)}"
+
+
 def resolve_folder(repo_root: Path, folder: str) -> Path:
     candidate = Path(folder)
     if not candidate.is_absolute():
@@ -68,12 +97,23 @@ def sidecars_for(audio: Path) -> list[str]:
     return [ext for ext in SIDECAR_EXTENSIONS if audio.with_suffix(ext).is_file()]
 
 
+def sidecar_links(repo_root: Path, audio: Path, repo: str, branch: str, cdn: bool) -> str:
+    links: list[str] = []
+    for ext in sidecars_for(audio):
+        sidecar = audio.with_suffix(ext)
+        relative_path = sidecar.relative_to(repo_root).as_posix()
+        url = jsdelivr_url(repo, branch, relative_path) if cdn else raw_url(repo, branch, relative_path)
+        links.append(markdown_link(ext, url))
+    return "<br>".join(links) if links else "-"
+
+
 def write_release_record(
     repo_root: Path,
     folder_path: Path,
     tag: str,
     title: str,
     repo: str,
+    branch: str,
     audio_files: list[Path],
     dry_run: bool,
 ) -> Path:
@@ -89,22 +129,33 @@ def write_release_record(
         "",
         f"- Tag: `{tag}`",
         f"- Repo: `{repo}`",
+        f"- Branch: `{branch}`",
         f"- Folder: `{relative_folder}`",
         f"- Created at: {created_at}",
         f"- Audio files: {len(audio_files)}",
         f"- Total size: {total_bytes / 1024 / 1024:.2f} MiB",
         f"- Dry run: {dry_run}",
+        f"- Release: {release_url(repo, tag)}",
+        "",
+        "## Link Bases",
+        "",
+        f"- GitHub Raw: `https://raw.githubusercontent.com/{repo}/{branch}/resources/...`",
+        f"- jsDelivr: `https://cdn.jsdelivr.net/gh/{repo}@{branch}/resources/...`",
+        f"- Release assets: `https://github.com/{repo}/releases/download/{tag}/...`",
         "",
         "## Files",
         "",
-        "| Audio | Size MiB | Sidecars |",
-        "| --- | ---: | --- |",
+        "| Audio | Size MiB | Release asset | GitHub Raw sidecars | jsDelivr sidecars |",
+        "| --- | ---: | --- | --- | --- |",
     ]
 
     for audio in audio_files:
-        sidecars = ", ".join(sidecars_for(audio))
+        asset_url = release_asset_url(repo, tag, audio.name)
         lines.append(
-            f"| {markdown_cell(audio.name)} | {audio.stat().st_size / 1024 / 1024:.2f} | {markdown_cell(sidecars)} |"
+            f"| {markdown_cell(audio.name)} | {audio.stat().st_size / 1024 / 1024:.2f} | "
+            f"{markdown_link('mp3', asset_url)} | "
+            f"{sidecar_links(repo_root, audio, repo, branch, cdn=False)} | "
+            f"{sidecar_links(repo_root, audio, repo, branch, cdn=True)} |"
         )
 
     record_path.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
@@ -148,6 +199,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--tag", required=True, help="GitHub Release tag.")
     parser.add_argument("--title", required=True, help="GitHub Release title.")
     parser.add_argument("--repo", default="andylee1890/reciter-resources", help="owner/repo, default: %(default)s")
+    parser.add_argument("--branch", default="main", help="Branch used by text resource links, default: %(default)s")
     parser.add_argument("--dry-run", action="store_true", help="Only write the release record; do not upload.")
     parser.add_argument("--clobber", action="store_true", help="Overwrite same-name assets in an existing release.")
     return parser.parse_args(argv)
@@ -164,6 +216,7 @@ def main(argv: list[str]) -> int:
         tag=args.tag,
         title=args.title,
         repo=args.repo,
+        branch=args.branch,
         audio_files=audio_files,
         dry_run=args.dry_run,
     )
