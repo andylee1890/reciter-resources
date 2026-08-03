@@ -72,6 +72,13 @@ def release_asset_url(repo: str, tag: str, filename: str) -> str:
     return f"https://github.com/{repo}/releases/download/{quote_path(tag)}/{quote_filename(filename)}"
 
 
+def github_release_asset_name(filename: str) -> str:
+    """Match GitHub's normalized display name for browser-uploaded assets."""
+    path = Path(filename)
+    normalized_stem = re.sub(r"[^A-Za-z0-9]+", ".", path.stem).strip(".")
+    return f"{normalized_stem}{path.suffix}"
+
+
 def resolve_folder(repo_root: Path, folder: str) -> Path:
     candidate = Path(folder)
     if not candidate.is_absolute():
@@ -150,7 +157,7 @@ def write_release_record(
     ]
 
     for audio in audio_files:
-        asset_url = release_asset_url(repo, tag, audio.name)
+        asset_url = release_asset_url(repo, tag, github_release_asset_name(audio.name))
         lines.append(
             f"| {markdown_cell(audio.name)} | {audio.stat().st_size / 1024 / 1024:.2f} | "
             f"{markdown_link('mp3', asset_url)} | "
@@ -201,8 +208,16 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--repo", default="andylee1890/reciter-resources", help="owner/repo, default: %(default)s")
     parser.add_argument("--branch", default="main", help="Branch used by text resource links, default: %(default)s")
     parser.add_argument("--dry-run", action="store_true", help="Only write the release record; do not upload.")
+    parser.add_argument(
+        "--record-only",
+        action="store_true",
+        help="Write a non-dry-run release record without creating or uploading a release.",
+    )
     parser.add_argument("--clobber", action="store_true", help="Overwrite same-name assets in an existing release.")
-    return parser.parse_args(argv)
+    args = parser.parse_args(argv)
+    if args.dry_run and args.record_only:
+        parser.error("--dry-run and --record-only cannot be used together")
+    return args
 
 
 def main(argv: list[str]) -> int:
@@ -224,6 +239,11 @@ def main(argv: list[str]) -> int:
     if args.dry_run:
         print(f"Dry run. Release record written to {record_path}")
         print(f"Would upload {len(audio_files)} mp3 files to {args.repo} release {args.tag}.")
+        return 0
+
+    if args.record_only:
+        print(f"Release record written to {record_path}")
+        print("Release creation and upload were skipped.")
         return 0
 
     publish_release(args.tag, args.title, args.repo, record_path, audio_files, args.clobber)
