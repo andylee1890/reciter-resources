@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-03T22:11:25.029849Z",
+  "generatedAt": "2026-08-03T22:14:41.163020Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -223,6 +223,22 @@
       "platforms": {
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/new-concept-english-4-us-audio-v1"
+        },
+        "mirrors": []
+      }
+    },
+    {
+      "tag": "the-big-bang-theory-s01-audio-v1",
+      "title": "The Big Bang Theory Season 01 Audio v1",
+      "createdAt": "2026-08-04 06:14:40 +0800",
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s01-audio-v1",
+      "audioCount": 17,
+      "totalSizeMiB": 163.14,
+      "detailFile": "the-big-bang-theory-s01-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/the-big-bang-theory-s01-audio-v1.json",
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s01-audio-v1"
         },
         "mirrors": []
       }

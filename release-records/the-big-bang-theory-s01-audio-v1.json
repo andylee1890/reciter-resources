@@ -1,0 +1,326 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-03T22:14:41.163020Z",
+  "tag": "the-big-bang-theory-s01-audio-v1",
+  "title": "The Big Bang Theory Season 01 Audio v1",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/生活大爆炸S01",
+  "createdAt": "2026-08-04 06:14:40 +0800",
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s01-audio-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 17,
+  "totalSizeMiB": 163.14,
+  "audio": [
+    {
+      "name": "S01E01.mp3",
+      "sizeMiB": 10.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s01-audio-v1/S01E01.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E01.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E01.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E01.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E01.rec"
+        }
+      }
+    },
+    {
+      "name": "S01E02.mp3",
+      "sizeMiB": 9.68,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s01-audio-v1/S01E02.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E02.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E02.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E02.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E02.rec"
+        }
+      }
+    },
+    {
+      "name": "S01E03.mp3",
+      "sizeMiB": 10.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s01-audio-v1/S01E03.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E03.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E03.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E03.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E03.rec"
+        }
+      }
+    },
+    {
+      "name": "S01E04.mp3",
+      "sizeMiB": 9.49,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s01-audio-v1/S01E04.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E04.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E04.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E04.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E04.rec"
+        }
+      }
+    },
+    {
+      "name": "S01E05.mp3",
+      "sizeMiB": 9.27,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s01-audio-v1/S01E05.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E05.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E05.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E05.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E05.rec"
+        }
+      }
+    },
+    {
+      "name": "S01E06.mp3",
+      "sizeMiB": 9.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s01-audio-v1/S01E06.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E06.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E06.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E06.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E06.rec"
+        }
+      }
+    },
+    {
+      "name": "S01E07.mp3",
+      "sizeMiB": 9.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s01-audio-v1/S01E07.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E07.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E07.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E07.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E07.rec"
+        }
+      }
+    },
+    {
+      "name": "S01E08.mp3",
+      "sizeMiB": 9.28,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s01-audio-v1/S01E08.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E08.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E08.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E08.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E08.rec"
+        }
+      }
+    },
+    {
+      "name": "S01E09.mp3",
+      "sizeMiB": 8.96,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s01-audio-v1/S01E09.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E09.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E09.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E09.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E09.rec"
+        }
+      }
+    },
+    {
+      "name": "S01E10.mp3",
+      "sizeMiB": 9.49,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s01-audio-v1/S01E10.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E10.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E10.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E10.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E10.rec"
+        }
+      }
+    },
+    {
+      "name": "S01E11.mp3",
+      "sizeMiB": 10.11,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s01-audio-v1/S01E11.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E11.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E11.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E11.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E11.rec"
+        }
+      }
+    },
+    {
+      "name": "S01E12.mp3",
+      "sizeMiB": 9.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s01-audio-v1/S01E12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E12.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E12.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E12.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E12.rec"
+        }
+      }
+    },
+    {
+      "name": "S01E13.mp3",
+      "sizeMiB": 9.96,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s01-audio-v1/S01E13.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E13.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E13.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E13.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E13.rec"
+        }
+      }
+    },
+    {
+      "name": "S01E14.mp3",
+      "sizeMiB": 9.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s01-audio-v1/S01E14.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E14.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E14.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E14.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E14.rec"
+        }
+      }
+    },
+    {
+      "name": "S01E15.mp3",
+      "sizeMiB": 10.04,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s01-audio-v1/S01E15.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E15.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E15.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E15.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E15.rec"
+        }
+      }
+    },
+    {
+      "name": "S01E16.mp3",
+      "sizeMiB": 9.1,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s01-audio-v1/S01E16.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E16.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E16.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E16.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E16.rec"
+        }
+      }
+    },
+    {
+      "name": "S01E17.mp3",
+      "sizeMiB": 9.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s01-audio-v1/S01E17.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E17.srt",
+          "rec": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E17.rec"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E17.srt",
+          "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S01/S01E17.rec"
+        }
+      }
+    }
+  ]
+}
