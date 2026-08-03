@@ -123,6 +123,7 @@ def write_release_record(
     branch: str,
     audio_files: list[Path],
     dry_run: bool,
+    published: bool,
 ) -> Path:
     record_dir = repo_root / "release-records"
     record_dir.mkdir(parents=True, exist_ok=True)
@@ -142,6 +143,7 @@ def write_release_record(
         f"- Audio files: {len(audio_files)}",
         f"- Total size: {total_bytes / 1024 / 1024:.2f} MiB",
         f"- Dry run: {dry_run}",
+        f"- Published: {published}",
         f"- Release: {release_url(repo, tag)}",
         "",
         "## Link Bases",
@@ -200,6 +202,10 @@ def publish_release(tag: str, title: str, repo: str, record_path: Path, audio_fi
     subprocess.run(args, check=True)
 
 
+def update_release_notes(tag: str, repo: str, record_path: Path) -> None:
+    subprocess.run(["gh", "release", "edit", tag, "--repo", repo, "--notes-file", str(record_path)], check=True)
+
+
 def parse_args(argv: list[str]) -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Upload one folder of .mp3 files to a GitHub Release.")
     parser.add_argument("--folder", required=True, help="Resource folder, usually under resources/.")
@@ -213,10 +219,19 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
         action="store_true",
         help="Write a non-dry-run release record without creating or uploading a release.",
     )
+    parser.add_argument(
+        "--published",
+        action="store_true",
+        help="Mark a record-only run as already published, for releases created outside this script.",
+    )
     parser.add_argument("--clobber", action="store_true", help="Overwrite same-name assets in an existing release.")
     args = parser.parse_args(argv)
     if args.dry_run and args.record_only:
         parser.error("--dry-run and --record-only cannot be used together")
+    if args.dry_run and args.published:
+        parser.error("--dry-run and --published cannot be used together")
+    if args.published and not args.record_only:
+        parser.error("--published is only valid with --record-only")
     return args
 
 
@@ -234,6 +249,7 @@ def main(argv: list[str]) -> int:
         branch=args.branch,
         audio_files=audio_files,
         dry_run=args.dry_run,
+        published=args.published,
     )
 
     if args.dry_run:
@@ -247,6 +263,18 @@ def main(argv: list[str]) -> int:
         return 0
 
     publish_release(args.tag, args.title, args.repo, record_path, audio_files, args.clobber)
+    record_path = write_release_record(
+        repo_root=repo_root,
+        folder_path=folder_path,
+        tag=args.tag,
+        title=args.title,
+        repo=args.repo,
+        branch=args.branch,
+        audio_files=audio_files,
+        dry_run=False,
+        published=True,
+    )
+    update_release_notes(args.tag, args.repo, record_path)
     print(f"Uploaded {len(audio_files)} files to {args.repo} release {args.tag}.")
     print(f"Release record written to {record_path}")
     return 0

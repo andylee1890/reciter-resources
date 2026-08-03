@@ -4,10 +4,11 @@
 - Repo: `andylee1890/reciter-resources`
 - Branch: `main`
 - Folder: `resources/NCE1-美音-(MP3+LRC)`
-- Created at: 2026-08-03 18:02:18 +0800
+- Created at: 2026-08-03 18:33:02 +0800
 - Audio files: 72
 - Total size: 111.05 MiB
 - Dry run: False
+- Published: True
 - Release: https://github.com/andylee1890/reciter-resources/releases/tag/new-concept-english-1-us-audio-v1
 
 ## Link Bases

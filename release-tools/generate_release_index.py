@@ -42,7 +42,7 @@ def parse_record(path: Path) -> dict[str, Any] | None:
     missing = [key for key in required_metadata if key not in metadata]
     if missing:
         raise ValueError(f"{path}: missing metadata: {', '.join(missing)}")
-    if metadata["Dry run"].lower() != "false":
+    if metadata.get("Published", "False").lower() != "true":
         return None
     if table_start is None:
         raise ValueError(f"{path}: missing files table")
@@ -91,7 +91,7 @@ def parse_record(path: Path) -> dict[str, Any] | None:
     }
 
 
-def generate_index(records_dir: Path) -> dict[str, Any]:
+def published_records(records_dir: Path) -> list[dict[str, Any]]:
     releases: list[dict[str, Any]] = []
     seen_tags: set[str] = set()
     for path in sorted(records_dir.glob("*.md")):
@@ -105,12 +105,62 @@ def generate_index(records_dir: Path) -> dict[str, Any]:
         seen_tags.add(record["tag"])
         releases.append(record)
 
-    repositories = {release["repository"] for release in releases}
+    return releases
+
+
+def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
     return {
-        "schemaVersion": 1,
-        "generatedAt": dt.datetime.now(dt.timezone.utc).isoformat().replace("+00:00", "Z"),
+        "schemaVersion": 2,
+        "generatedAt": generated_at,
+        "tag": record["tag"],
+        "title": record["title"],
+        "repository": record["repository"],
+        "branch": record["branch"],
+        "folder": record["folder"],
+        "createdAt": record["createdAt"],
+        "platforms": {
+            "githubRelease": {"releaseUrl": record["releaseUrl"]},
+            "mirrors": [],
+        },
+        "audioCount": record["audioCount"],
+        "totalSizeMiB": record["totalSizeMiB"],
+        "audio": [
+            {
+                "name": track["name"],
+                "sizeMiB": track["sizeMiB"],
+                "audio": {
+                    "githubRelease": track["audioUrl"],
+                    "mirrors": [],
+                },
+                "sidecars": track["sidecars"],
+            }
+            for track in record["audio"]
+        ],
+    }
+
+
+def master_index(records: list[dict[str, Any]], generated_at: str) -> dict[str, Any]:
+    repositories = {record["repository"] for record in records}
+    return {
+        "schemaVersion": 2,
+        "generatedAt": generated_at,
         "repository": repositories.pop() if len(repositories) == 1 else None,
-        "releases": releases,
+        "releases": [
+            {
+                "tag": record["tag"],
+                "title": record["title"],
+                "createdAt": record["createdAt"],
+                "releaseUrl": record["releaseUrl"],
+                "audioCount": record["audioCount"],
+                "totalSizeMiB": record["totalSizeMiB"],
+                "detailFile": f"{record['tag']}.json",
+                "platforms": {
+                    "githubRelease": {"releaseUrl": record["releaseUrl"]},
+                    "mirrors": [],
+                },
+            }
+            for record in records
+        ],
     }
 
 
@@ -129,10 +179,20 @@ def main() -> int:
     if not records_dir.is_dir():
         raise SystemExit(f"Records directory not found: {records_dir}")
 
-    index = generate_index(records_dir)
+    records = published_records(records_dir)
+    generated_at = dt.datetime.now(dt.timezone.utc).isoformat().replace("+00:00", "Z")
+    for record in records:
+        detail_path = records_dir / f"{record['tag']}.json"
+        detail_path.write_text(
+            json.dumps(release_detail(record, generated_at), ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+            newline="\n",
+        )
+
+    index = master_index(records, generated_at)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
-    print(f"Wrote {len(index['releases'])} published releases to {output_path}")
+    print(f"Wrote {len(records)} published releases to {output_path}")
     return 0
 
 

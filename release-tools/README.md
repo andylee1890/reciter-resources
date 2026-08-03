@@ -54,6 +54,8 @@ python release-tools/publish_season_release.py \
 | `--repo` | GitHub 仓库，默认 `andylee1890/reciter-resources`。 |
 | `--branch` | 文本资源引用分支，默认 `main`。 |
 | `--dry-run` | 只生成发布记录，不创建 Release、不上传音频。 |
+| `--record-only` | 只生成发布记录，不创建 Release、不上传音频。 |
+| `--published` | 配合 `--record-only`，标记已通过其他方式实际发布的 Release。 |
 | `--clobber` | 上传时覆盖 Release 中已有的同名 asset。 |
 
 ## 发布记录
@@ -70,11 +72,15 @@ python release-tools/publish_season_release.py \
 
 ## 索引生成
 
-`generate_release_index.py` 从 `release-records/*.md` 生成站点可直接消费的 `release-records/index.json`。
-它只收录 `Dry run: False` 的记录，并为每条音频保留 Release 下载、GitHub Raw sidecar 和 jsDelivr sidecar 链接。
+`generate_release_index.py` 从 `release-records/*.md` 生成站点可直接消费的 `release-records/index.json`，以及每个已发布资料包的 `release-records/<tag>.json`。
+它只收录 `Published: True` 的记录。主索引只列资料包摘要和明细文件名；每个资料包 JSON 保留音频的 GitHub Release 地址、未来镜像数组、GitHub Raw sidecar 和 jsDelivr sidecar 链接。
 
 ```bash
 python release-tools/generate_release_index.py
 ```
 
 每次新增、撤回或修改发布记录后，都应重新生成并提交该索引。
+
+## 资料包清单
+
+`release-plan.json` 保存资料目录、Release tag 和标题，是整批发布及 AI 协作时使用的公开清单；它不包含本机账号、浏览器配置、SSH 别名或其他私有环境信息。
