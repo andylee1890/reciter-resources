@@ -152,7 +152,7 @@ def remote_sizes(identifier: str) -> dict[str, int]:
     return result
 
 
-def put_file(*, identifier: str, path: Path, headers: dict[str, str], retries: int) -> None:
+def put_file_stdlib(*, identifier: str, path: Path, headers: dict[str, str], retries: int) -> None:
     target = f"/{quote_component(identifier)}/{quote_component(path.name)}"
     for attempt in range(retries + 1):
         connection = http.client.HTTPSConnection(ARCHIVE_HOST, timeout=120, context=ssl.create_default_context())
@@ -183,6 +183,47 @@ def put_file(*, identifier: str, path: Path, headers: dict[str, str], retries: i
         finally:
             connection.close()
         time.sleep(delay)
+
+
+def open_official_item(identifier: str) -> Any:
+    try:
+        import internetarchive
+    except ImportError as exc:
+        raise SystemExit(
+            "The internetarchive package is required for the default transport. "
+            "Install it with `python -m pip install internetarchive`, or use --transport stdlib."
+        ) from exc
+    return internetarchive.get_item(identifier)
+
+
+def put_file_official(
+    *,
+    item: Any,
+    path: Path,
+    metadata: dict[str, str],
+    headers: dict[str, str],
+    access_key: str,
+    secret_key: str,
+    retries: int,
+) -> None:
+    try:
+        responses = item.upload(
+            [str(path)],
+            metadata=metadata,
+            headers=headers,
+            access_key=access_key,
+            secret_key=secret_key,
+            queue_derive=False,
+            retries=retries,
+            retries_sleep=5,
+            verbose=False,
+        )
+    except Exception as exc:
+        raise SystemExit(f"Upload failed for {path.name}: {exc}") from exc
+    failures = [response for response in responses if getattr(response, "status_code", 200) >= 300]
+    if failures:
+        status = getattr(failures[0], "status_code", "unknown")
+        raise SystemExit(f"Upload failed for {path.name} ({status})")
 
 
 def update_record(root: Path, tag: str, identifier: str) -> None:
@@ -239,6 +280,12 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--tag", required=True, help="Existing release-plan tag to upload.")
     parser.add_argument("--identifier", help="IA item identifier, default: reciter-<tag>.")
     parser.add_argument("--credentials-file", type=Path, help="Private JSON credentials file outside the repository.")
+    parser.add_argument(
+        "--transport",
+        choices=("internetarchive", "stdlib"),
+        default="internetarchive",
+        help="Upload implementation, default: %(default)s",
+    )
     parser.add_argument("--collection", default="opensource_audio", help="IA collection metadata, default: %(default)s")
     parser.add_argument("--creator", default="Reciter Resources", help="IA creator metadata, default: %(default)s")
     parser.add_argument("--retries", type=int, default=10, help="Retries per failed file, default: %(default)s")
@@ -286,25 +333,39 @@ def main(argv: list[str]) -> int:
 
     if not args.verify_only:
         access_key, secret_key = load_credentials(args.credentials_file)
+        metadata = {
+            "collection": args.collection,
+            "mediatype": "audio",
+            "title": entry["title"],
+            "creator": args.creator,
+            "description": "Audio package for language-study playback; matching text sidecars are linked from the reciter-resources repository.",
+        }
         metadata_headers = {
-            "Authorization": f"LOW {access_key}:{secret_key}",
             "x-amz-auto-make-bucket": "1",
-            "x-archive-meta01-collection": args.collection,
-            "x-archive-meta-mediatype": "audio",
-            "x-archive-meta-title": entry["title"],
-            "x-archive-meta-creator": args.creator,
-            "x-archive-meta-description": "Audio package for language-study playback; matching text sidecars are linked from the reciter-resources repository.",
             "x-archive-size-hint": str(total_size),
             "x-archive-queue-derive": "0",
         }
+        item = open_official_item(identifier) if args.transport == "internetarchive" else None
         for index, path in enumerate(pending, start=1):
             print(f"[{index}/{len(pending)}] Uploading {path.name} ({path.stat().st_size / 1024 / 1024:.2f} MiB)")
-            put_file(
-                identifier=identifier,
-                path=path,
-                headers={**metadata_headers, "Content-Type": CONTENT_TYPES[path.suffix.lower()]},
-                retries=args.retries,
-            )
+            headers = {**metadata_headers, "Content-Type": CONTENT_TYPES[path.suffix.lower()]}
+            if item is not None:
+                put_file_official(
+                    item=item,
+                    path=path,
+                    metadata=metadata,
+                    headers=headers,
+                    access_key=access_key,
+                    secret_key=secret_key,
+                    retries=args.retries,
+                )
+            else:
+                put_file_stdlib(
+                    identifier=identifier,
+                    path=path,
+                    headers={**headers, "Authorization": f"LOW {access_key}:{secret_key}"},
+                    retries=args.retries,
+                )
 
     missing = wait_for_files(identifier, package_files, args.verify_wait_seconds, args.verify_poll_seconds)
     if missing:
