@@ -109,6 +109,18 @@ python release-tools/publish_to_internet_archive.py \
 
 中断后再次执行会按文件名和字节大小跳过已完成文件。`--verify-only` 不需要凭据，只校验 item 是否完整；脚本默认等待最多 300 秒让 IA metadata 入库，上传和校验通过后才在发布记录写入 IA identifier、item URL，并重建 JSON 索引。
 
+## 批量发布
+
+`publish_all_to_internet_archive.py` 顺序处理 `release-plan.json` 中尚未完成 IA 镜像的资料包。它只以发布计划为输入，不会扫描或处理计划外目录；已在发布记录中标记 `Internet Archive uploaded: True` 的资料包会自动跳过。
+
+```bash
+python release-tools/publish_all_to_internet_archive.py \
+  --credentials-file /private/path/ia-credentials.json \
+  --push
+```
+
+`--push` 会在每个资料包完成远端逐文件校验后，仅提交该资料包记录、明细 JSON 和主索引，再推送到当前 Git remote。网络中断后直接重跑同一命令即可继续；用 `--dry-run` 查看剩余队列，或用 `--tag <tag>` 只处理指定资料包。
+
 ## 资料包清单
 
 `release-plan.json` 保存资料目录、Release tag 和标题，是整批发布及 AI 协作时使用的公开清单；它不包含本机账号、浏览器配置、SSH 别名或其他私有环境信息。
