@@ -102,7 +102,7 @@ def main(argv: list[str]) -> int:
         run_git(root, "push")
     uploader = root / "release-tools" / "publish_to_internet_archive.py"
     for index, entry in enumerate(pending, start=1):
-        command = [sys.executable, str(uploader), "--tag", entry["tag"], "--retries", str(args.retries)]
+        command = [sys.executable, "-u", str(uploader), "--tag", entry["tag"], "--retries", str(args.retries)]
         if args.credentials_file is not None:
             command.extend(["--credentials-file", str(args.credentials_file)])
         print(f"\n[{index}/{len(pending)}] Publishing {entry['tag']}", flush=True)
