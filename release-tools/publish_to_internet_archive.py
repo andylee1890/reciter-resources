@@ -9,7 +9,9 @@ only the stable identifier and public URLs.
 from __future__ import annotations
 
 import argparse
+import html
 import http.client
+import io
 import json
 import os
 import re
@@ -17,6 +19,7 @@ import ssl
 import subprocess
 import sys
 import time
+import xml.etree.ElementTree as ElementTree
 from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
@@ -29,6 +32,8 @@ ARCHIVE_METADATA_URL = "https://archive.org/metadata/{identifier}"
 IDENTIFIER_PATTERN = re.compile(r"^[a-z0-9][a-z0-9._-]{2,99}$")
 RETRYABLE_STATUS = {408, 429, 500, 502, 503, 504}
 UPLOAD_CHUNK_SIZE = 256 * 1024
+MULTIPART_THRESHOLD_BYTES = 8 * 1024 * 1024
+MULTIPART_PART_SIZE = 5 * 1024 * 1024
 SIDECAR_EXTENSIONS = (".srt", ".lrc", ".rec", ".recx")
 CONTENT_TYPES = {
     ".mp3": "audio/mpeg",
@@ -122,29 +127,42 @@ def fetch_metadata_pycurl(identifier: str) -> dict[str, Any] | None:
             "The pycurl package is required for the default transport. "
             "Install it with `python -m pip install pycurl`, or choose another transport."
         ) from exc
-    body = io.BytesIO()
-    client = pycurl.Curl()
-    try:
-        client.setopt(pycurl.URL, ARCHIVE_METADATA_URL.format(identifier=quote_component(identifier)))
-        client.setopt(pycurl.NOPROXY, "*")
-        client.setopt(pycurl.CONNECTTIMEOUT, 30)
-        client.setopt(pycurl.TIMEOUT, 60)
-        client.setopt(pycurl.USERAGENT, "reciter-resources-ia-uploader/1")
-        client.setopt(pycurl.WRITEDATA, body)
-        client.perform()
-        status = client.getinfo(pycurl.RESPONSE_CODE)
-    except pycurl.error as exc:
-        raise SystemExit(f"Internet Archive metadata request failed: {exc}") from exc
-    finally:
-        client.close()
-    if status == 404:
-        return None
-    if status >= 400:
-        raise SystemExit(f"Internet Archive metadata request failed ({status})")
-    try:
-        return json.loads(body.getvalue().decode("utf-8"))
-    except json.JSONDecodeError as exc:
-        raise SystemExit("Internet Archive metadata response was not valid JSON") from exc
+    url = ARCHIVE_METADATA_URL.format(identifier=quote_component(identifier))
+    for attempt in range(4):
+        body = io.BytesIO()
+        client = pycurl.Curl()
+        try:
+            client.setopt(pycurl.URL, url)
+            client.setopt(pycurl.NOPROXY, "*")
+            client.setopt(pycurl.CONNECTTIMEOUT, 30)
+            client.setopt(pycurl.TIMEOUT, 60)
+            client.setopt(pycurl.USERAGENT, "reciter-resources-ia-uploader/1")
+            client.setopt(pycurl.WRITEDATA, body)
+            client.perform()
+            status = client.getinfo(pycurl.RESPONSE_CODE)
+        except pycurl.error as exc:
+            if attempt == 3:
+                raise SystemExit(f"Internet Archive metadata request failed: {exc}") from exc
+            delay = 5 * 2**attempt
+            print(f"Internet Archive metadata request failed: {exc}; retrying in {delay}s", file=sys.stderr)
+            time.sleep(delay)
+            continue
+        finally:
+            client.close()
+        if status == 404:
+            return None
+        if status in RETRYABLE_STATUS and attempt < 3:
+            delay = 5 * 2**attempt
+            print(f"Internet Archive metadata returned {status}; retrying in {delay}s", file=sys.stderr)
+            time.sleep(delay)
+            continue
+        if status >= 400:
+            raise SystemExit(f"Internet Archive metadata request failed ({status})")
+        try:
+            return json.loads(body.getvalue().decode("utf-8"))
+        except json.JSONDecodeError as exc:
+            raise SystemExit("Internet Archive metadata response was not valid JSON") from exc
+    raise AssertionError("unreachable")
 
 
 def fetch_metadata(identifier: str, direct: bool = False, transport: str = "pycurl") -> dict[str, Any] | None:
@@ -266,6 +284,154 @@ def put_file_official(
         raise SystemExit(f"Upload failed for {path.name} ({status})")
 
 
+def pycurl_request(
+    *,
+    url: str,
+    method: str,
+    headers: list[str],
+    body: bytes,
+) -> tuple[int, bytes, dict[str, str]]:
+    """Perform one small IA S3 request without using the machine proxy."""
+    try:
+        import pycurl
+    except ImportError as exc:
+        raise SystemExit("The pycurl package is required for the default transport.") from exc
+    response_body = io.BytesIO()
+    response_headers: dict[str, str] = {}
+    client = pycurl.Curl()
+
+    def receive_header(raw: bytes) -> int:
+        line = raw.decode("iso-8859-1").strip()
+        if ":" in line:
+            name, value = line.split(":", 1)
+            response_headers[name.lower()] = value.strip()
+        return len(raw)
+
+    try:
+        client.setopt(pycurl.URL, url)
+        client.setopt(pycurl.NOPROXY, "*")
+        client.setopt(pycurl.CUSTOMREQUEST, method)
+        client.setopt(pycurl.CONNECTTIMEOUT, 30)
+        client.setopt(pycurl.TIMEOUT, 180)
+        client.setopt(pycurl.USERAGENT, "reciter-resources-ia-uploader/1")
+        client.setopt(pycurl.HTTPHEADER, [*headers, "Connection: close", "Expect:"])
+        client.setopt(pycurl.HEADERFUNCTION, receive_header)
+        client.setopt(pycurl.WRITEDATA, response_body)
+        if method == "PUT":
+            client.setopt(pycurl.UPLOAD, 1)
+            client.setopt(pycurl.INFILESIZE_LARGE, len(body))
+            client.setopt(pycurl.READDATA, io.BytesIO(body))
+        else:
+            client.setopt(pycurl.POST, 1)
+            client.setopt(pycurl.POSTFIELDS, body)
+        client.perform()
+        return client.getinfo(pycurl.RESPONSE_CODE), response_body.getvalue(), response_headers
+    finally:
+        client.close()
+
+
+def pycurl_request_with_retries(
+    *,
+    label: str,
+    url: str,
+    method: str,
+    headers: list[str],
+    body: bytes,
+    retries: int,
+) -> tuple[bytes, dict[str, str]]:
+    try:
+        import pycurl
+    except ImportError as exc:
+        raise SystemExit("The pycurl package is required for the default transport.") from exc
+    for attempt in range(retries + 1):
+        try:
+            status, response_body, response_headers = pycurl_request(
+                url=url,
+                method=method,
+                headers=headers,
+                body=body,
+            )
+            if 200 <= status < 300:
+                return response_body, response_headers
+            failure = f"server returned {status}"
+            retryable = status in RETRYABLE_STATUS
+        except pycurl.error as exc:
+            failure = str(exc)
+            retryable = True
+        if not retryable or attempt == retries:
+            raise SystemExit(f"Upload failed for {label}: {failure}")
+        delay = min(120, 5 * 2**attempt)
+        print(f"{label}: {failure}; retrying in {delay}s", file=sys.stderr)
+        time.sleep(delay)
+    raise AssertionError("unreachable")
+
+
+def parse_multipart_upload_id(body: bytes, path: Path) -> str:
+    try:
+        root = ElementTree.fromstring(body)
+    except ElementTree.ParseError as exc:
+        raise SystemExit(f"Multipart initialization returned invalid XML for {path.name}") from exc
+    for element in root.iter():
+        if element.tag.rsplit("}", 1)[-1] == "UploadId" and element.text:
+            return element.text.strip()
+    raise SystemExit(f"Multipart initialization did not return an upload id for {path.name}")
+
+
+def put_file_pycurl_multipart(*, identifier: str, path: Path, headers: dict[str, str], retries: int) -> None:
+    """Upload a large file as independently retryable IA S3 multipart pieces."""
+    target = f"https://{ARCHIVE_HOST}/{quote_component(identifier)}/{quote_component(path.name)}"
+    header_lines = [f"{name}: {value}" for name, value in headers.items()]
+    start_body, _ = pycurl_request_with_retries(
+        label=f"{path.name}: multipart initialization",
+        url=f"{target}?uploads",
+        method="POST",
+        headers=header_lines,
+        body=b"",
+        retries=retries,
+    )
+    upload_id = parse_multipart_upload_id(start_body, path)
+    part_headers = [
+        line
+        for line in header_lines
+        if not line.lower().startswith("x-archive-meta")
+        and not line.lower().startswith("x-amz-auto-make-bucket")
+        and not line.lower().startswith("x-archive-size-hint")
+    ]
+    parts: list[tuple[int, str]] = []
+    with path.open("rb") as source:
+        part_number = 1
+        while chunk := source.read(MULTIPART_PART_SIZE):
+            encoded_upload_id = quote_component(upload_id)
+            _, response_headers = pycurl_request_with_retries(
+                label=f"{path.name}: part {part_number}",
+                url=f"{target}?partNumber={part_number}&uploadId={encoded_upload_id}",
+                method="PUT",
+                headers=part_headers,
+                body=chunk,
+                retries=retries,
+            )
+            etag = response_headers.get("etag")
+            if not etag:
+                raise SystemExit(f"Multipart upload did not return an ETag for {path.name} part {part_number}")
+            parts.append((part_number, etag))
+            part_number += 1
+    complete_body = "<CompleteMultipartUpload>" + "".join(
+        f"<Part><PartNumber>{number}</PartNumber><ETag>{html.escape(etag)}</ETag></Part>"
+        for number, etag in parts
+    ) + "</CompleteMultipartUpload>"
+    pycurl_request_with_retries(
+        label=f"{path.name}: multipart completion",
+        url=f"{target}?uploadId={quote_component(upload_id)}",
+        method="POST",
+        headers=[
+            f"Authorization: {headers['Authorization']}",
+            "Content-Type: application/xml",
+        ],
+        body=complete_body.encode("utf-8"),
+        retries=retries,
+    )
+
+
 def put_file_pycurl(*, identifier: str, path: Path, headers: dict[str, str], retries: int) -> None:
     try:
         import pycurl
@@ -274,6 +440,9 @@ def put_file_pycurl(*, identifier: str, path: Path, headers: dict[str, str], ret
             "The pycurl package is required for the default transport. "
             "Install it with `python -m pip install pycurl`, or choose another transport."
         ) from exc
+    if path.stat().st_size > MULTIPART_THRESHOLD_BYTES:
+        put_file_pycurl_multipart(identifier=identifier, path=path, headers=headers, retries=retries)
+        return
     target = f"https://{ARCHIVE_HOST}/{quote_component(identifier)}/{quote_component(path.name)}"
     header_lines = [f"{name}: {value}" for name, value in headers.items()]
     for attempt in range(retries + 1):
