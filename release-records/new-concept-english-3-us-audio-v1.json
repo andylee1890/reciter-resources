@@ -11,7 +11,13 @@
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/new-concept-english-3-us-audio-v1"
     },
-    "mirrors": []
+    "mirrors": [
+      {
+        "provider": "internetArchive",
+        "identifier": "reciter-new-concept-english-3-us-audio-v1",
+        "itemUrl": "https://archive.org/details/reciter-new-concept-english-3-us-audio-v1"
+      }
+    ]
   },
   "audioCount": 60,
   "totalSizeMiB": 187.13,
@@ -21,7 +27,12 @@
       "sizeMiB": 2.2,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/01.A.Puma.at.Large.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/01%EF%BC%8DA%20Puma%20at%20Large.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -31,6 +42,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/01%EF%BC%8DA%20Puma%20at%20Large.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/01%EF%BC%8DA%20Puma%20at%20Large.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/01%EF%BC%8DA%20Puma%20at%20Large.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/01%EF%BC%8DA%20Puma%20at%20Large.rec"
         }
       }
     },
@@ -39,7 +54,12 @@
       "sizeMiB": 2.09,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/02.Thirteen.Equals.One.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/02%EF%BC%8DThirteen%20Equals%20One.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -49,6 +69,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/02%EF%BC%8DThirteen%20Equals%20One.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/02%EF%BC%8DThirteen%20Equals%20One.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/02%EF%BC%8DThirteen%20Equals%20One.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/02%EF%BC%8DThirteen%20Equals%20One.rec"
         }
       }
     },
@@ -57,7 +81,12 @@
       "sizeMiB": 2.3,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/03.An.Unknown.Goddess.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/03%EF%BC%8DAn%20Unknown%20Goddess.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -67,6 +96,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/03%EF%BC%8DAn%20Unknown%20Goddess.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/03%EF%BC%8DAn%20Unknown%20Goddess.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/03%EF%BC%8DAn%20Unknown%20Goddess.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/03%EF%BC%8DAn%20Unknown%20Goddess.rec"
         }
       }
     },
@@ -75,7 +108,12 @@
       "sizeMiB": 2.23,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/04.The.Double.Life.of.Alfred.Bloggs.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/04%EF%BC%8DThe%20Double%20Life%20of%20Alfred%20Bloggs.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -85,6 +123,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/04%EF%BC%8DThe%20Double%20Life%20of%20Alfred%20Bloggs.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/04%EF%BC%8DThe%20Double%20Life%20of%20Alfred%20Bloggs.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/04%EF%BC%8DThe%20Double%20Life%20of%20Alfred%20Bloggs.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/04%EF%BC%8DThe%20Double%20Life%20of%20Alfred%20Bloggs.rec"
         }
       }
     },
@@ -93,7 +135,12 @@
       "sizeMiB": 2.22,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/05.The.Facts.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/05%EF%BC%8DThe%20Facts.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -103,6 +150,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/05%EF%BC%8DThe%20Facts.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/05%EF%BC%8DThe%20Facts.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/05%EF%BC%8DThe%20Facts.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/05%EF%BC%8DThe%20Facts.rec"
         }
       }
     },
@@ -111,7 +162,12 @@
       "sizeMiB": 2.23,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/06.Smash.and.Grab.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/06%EF%BC%8DSmash-and-Grab.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -121,6 +177,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/06%EF%BC%8DSmash-and-Grab.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/06%EF%BC%8DSmash-and-Grab.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/06%EF%BC%8DSmash-and-Grab.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/06%EF%BC%8DSmash-and-Grab.rec"
         }
       }
     },
@@ -129,7 +189,12 @@
       "sizeMiB": 2.2,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/07.Mutilated.Ladies.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/07%EF%BC%8DMutilated%20Ladies.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -139,6 +204,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/07%EF%BC%8DMutilated%20Ladies.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/07%EF%BC%8DMutilated%20Ladies.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/07%EF%BC%8DMutilated%20Ladies.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/07%EF%BC%8DMutilated%20Ladies.rec"
         }
       }
     },
@@ -147,7 +216,12 @@
       "sizeMiB": 2.3,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/08.A.Famous.Monastery.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/08%EF%BC%8DA%20Famous%20Monastery.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -157,6 +231,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/08%EF%BC%8DA%20Famous%20Monastery.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/08%EF%BC%8DA%20Famous%20Monastery.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/08%EF%BC%8DA%20Famous%20Monastery.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/08%EF%BC%8DA%20Famous%20Monastery.rec"
         }
       }
     },
@@ -165,7 +243,12 @@
       "sizeMiB": 2.45,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/09.Flying.Cats.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/09%EF%BC%8DFlying%20Cats.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -175,6 +258,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/09%EF%BC%8DFlying%20Cats.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/09%EF%BC%8DFlying%20Cats.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/09%EF%BC%8DFlying%20Cats.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/09%EF%BC%8DFlying%20Cats.rec"
         }
       }
     },
@@ -183,7 +270,12 @@
       "sizeMiB": 2.51,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/10.The.Loss.of.the.Titanic.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/10%EF%BC%8DThe%20Loss%20of%20the%20Titanic.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -193,6 +285,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/10%EF%BC%8DThe%20Loss%20of%20the%20Titanic.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/10%EF%BC%8DThe%20Loss%20of%20the%20Titanic.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/10%EF%BC%8DThe%20Loss%20of%20the%20Titanic.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/10%EF%BC%8DThe%20Loss%20of%20the%20Titanic.rec"
         }
       }
     },
@@ -201,7 +297,12 @@
       "sizeMiB": 2.41,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/11.Not.Guilty.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/11%EF%BC%8DNot%20Guilty.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -211,6 +312,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/11%EF%BC%8DNot%20Guilty.lrc",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/11%EF%BC%8DNot%20Guilty.recx"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/11%EF%BC%8DNot%20Guilty.lrc",
+          "recx": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/11%EF%BC%8DNot%20Guilty.recx"
         }
       }
     },
@@ -219,7 +324,12 @@
       "sizeMiB": 2.21,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/12.Life.on.a.Desert.Island.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/12%EF%BC%8DLife%20on%20a%20Desert%20Island.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -229,6 +339,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/12%EF%BC%8DLife%20on%20a%20Desert%20Island.lrc",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/12%EF%BC%8DLife%20on%20a%20Desert%20Island.recx"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/12%EF%BC%8DLife%20on%20a%20Desert%20Island.lrc",
+          "recx": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/12%EF%BC%8DLife%20on%20a%20Desert%20Island.recx"
         }
       }
     },
@@ -237,7 +351,12 @@
       "sizeMiB": 2.11,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/13.It.s.Only.Me.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/13%EF%BC%8DIt%27s%20Only%20Me.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -247,6 +366,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/13%EF%BC%8DIt%27s%20Only%20Me.lrc",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/13%EF%BC%8DIt%27s%20Only%20Me.recx"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/13%EF%BC%8DIt%27s%20Only%20Me.lrc",
+          "recx": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/13%EF%BC%8DIt%27s%20Only%20Me.recx"
         }
       }
     },
@@ -255,7 +378,12 @@
       "sizeMiB": 2.24,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/14.A.Noble.Gangster.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/14%EF%BC%8DA%20Noble%20Gangster.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -265,6 +393,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/14%EF%BC%8DA%20Noble%20Gangster.lrc",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/14%EF%BC%8DA%20Noble%20Gangster.recx"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/14%EF%BC%8DA%20Noble%20Gangster.lrc",
+          "recx": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/14%EF%BC%8DA%20Noble%20Gangster.recx"
         }
       }
     },
@@ -273,7 +405,12 @@
       "sizeMiB": 2.34,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/15.Fifty.Pence.Worth.of.Trouble.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/15%EF%BC%8DFifty%20Pence%20Worth%20of%20Trouble.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -283,6 +420,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/15%EF%BC%8DFifty%20Pence%20Worth%20of%20Trouble.lrc",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/15%EF%BC%8DFifty%20Pence%20Worth%20of%20Trouble.recx"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/15%EF%BC%8DFifty%20Pence%20Worth%20of%20Trouble.lrc",
+          "recx": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/15%EF%BC%8DFifty%20Pence%20Worth%20of%20Trouble.recx"
         }
       }
     },
@@ -291,7 +432,12 @@
       "sizeMiB": 2.32,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/16.Mary.Had.a.Little.Lamb.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/16%EF%BC%8DMary%20Had%20a%20Little%20Lamb.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -301,6 +447,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/16%EF%BC%8DMary%20Had%20a%20Little%20Lamb.lrc",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/16%EF%BC%8DMary%20Had%20a%20Little%20Lamb.recx"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/16%EF%BC%8DMary%20Had%20a%20Little%20Lamb.lrc",
+          "recx": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/16%EF%BC%8DMary%20Had%20a%20Little%20Lamb.recx"
         }
       }
     },
@@ -309,7 +459,12 @@
       "sizeMiB": 2.58,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/17.The.Longest.Suspension.Bridge.in.the.World.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/17%EF%BC%8DThe%20Longest%20Suspension%20Bridge%20in%20the%20World.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -319,6 +474,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/17%EF%BC%8DThe%20Longest%20Suspension%20Bridge%20in%20the%20World.lrc",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/17%EF%BC%8DThe%20Longest%20Suspension%20Bridge%20in%20the%20World.recx"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/17%EF%BC%8DThe%20Longest%20Suspension%20Bridge%20in%20the%20World.lrc",
+          "recx": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/17%EF%BC%8DThe%20Longest%20Suspension%20Bridge%20in%20the%20World.recx"
         }
       }
     },
@@ -327,7 +486,12 @@
       "sizeMiB": 2.36,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/18.Electric.Currents.in.Modern.Art.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/18%EF%BC%8DElectric%20Currents%20in%20Modern%20Art.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -337,6 +501,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/18%EF%BC%8DElectric%20Currents%20in%20Modern%20Art.lrc",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/18%EF%BC%8DElectric%20Currents%20in%20Modern%20Art.recx"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/18%EF%BC%8DElectric%20Currents%20in%20Modern%20Art.lrc",
+          "recx": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/18%EF%BC%8DElectric%20Currents%20in%20Modern%20Art.recx"
         }
       }
     },
@@ -345,7 +513,12 @@
       "sizeMiB": 2.41,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/19.A.Very.Dear.Cat.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/19%EF%BC%8DA%20Very%20Dear%20Cat.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -355,6 +528,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/19%EF%BC%8DA%20Very%20Dear%20Cat.lrc",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/19%EF%BC%8DA%20Very%20Dear%20Cat.recx"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/19%EF%BC%8DA%20Very%20Dear%20Cat.lrc",
+          "recx": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/19%EF%BC%8DA%20Very%20Dear%20Cat.recx"
         }
       }
     },
@@ -363,7 +540,12 @@
       "sizeMiB": 2.38,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/20.Pioneer.Pilots.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/20%EF%BC%8DPioneer%20Pilots.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -373,6 +555,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/20%EF%BC%8DPioneer%20Pilots.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/20%EF%BC%8DPioneer%20Pilots.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/20%EF%BC%8DPioneer%20Pilots.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/20%EF%BC%8DPioneer%20Pilots.rec"
         }
       }
     },
@@ -381,7 +567,12 @@
       "sizeMiB": 3.03,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/21.Daniel.Mendoza.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/21%EF%BC%8DDaniel%20Mendoza.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -391,6 +582,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/21%EF%BC%8DDaniel%20Mendoza.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/21%EF%BC%8DDaniel%20Mendoza.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/21%EF%BC%8DDaniel%20Mendoza.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/21%EF%BC%8DDaniel%20Mendoza.rec"
         }
       }
     },
@@ -399,7 +594,12 @@
       "sizeMiB": 2.88,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/22.By.Heart.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/22%EF%BC%8DBy%20Heart.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -409,6 +609,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/22%EF%BC%8DBy%20Heart.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/22%EF%BC%8DBy%20Heart.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/22%EF%BC%8DBy%20Heart.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/22%EF%BC%8DBy%20Heart.rec"
         }
       }
     },
@@ -417,7 +621,12 @@
       "sizeMiB": 2.94,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/23.One.Man.s.Meat.is.Another.Man.s.Poison.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/23%EF%BC%8DOne%20Man%27s%20Meat%20is%20Another%20Man%27s%20Poison.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -427,6 +636,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/23%EF%BC%8DOne%20Man%27s%20Meat%20is%20Another%20Man%27s%20Poison.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/23%EF%BC%8DOne%20Man%27s%20Meat%20is%20Another%20Man%27s%20Poison.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/23%EF%BC%8DOne%20Man%27s%20Meat%20is%20Another%20Man%27s%20Poison.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/23%EF%BC%8DOne%20Man%27s%20Meat%20is%20Another%20Man%27s%20Poison.rec"
         }
       }
     },
@@ -435,7 +648,12 @@
       "sizeMiB": 2.76,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/24.A.Skeleton.in.the.Cupboard.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/24%EF%BC%8DA%20Skeleton%20in%20the%20Cupboard.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -445,6 +663,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/24%EF%BC%8DA%20Skeleton%20in%20the%20Cupboard.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/24%EF%BC%8DA%20Skeleton%20in%20the%20Cupboard.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/24%EF%BC%8DA%20Skeleton%20in%20the%20Cupboard.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/24%EF%BC%8DA%20Skeleton%20in%20the%20Cupboard.rec"
         }
       }
     },
@@ -453,7 +675,12 @@
       "sizeMiB": 2.98,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/25.The.Cutty.Sark.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/25%EF%BC%8DThe%20Cutty%20Sark.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -463,6 +690,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/25%EF%BC%8DThe%20Cutty%20Sark.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/25%EF%BC%8DThe%20Cutty%20Sark.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/25%EF%BC%8DThe%20Cutty%20Sark.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/25%EF%BC%8DThe%20Cutty%20Sark.rec"
         }
       }
     },
@@ -471,7 +702,12 @@
       "sizeMiB": 3.12,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/26.Wanted.a.Large.Biscuit.Tin.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/26%EF%BC%8DWanted%20a%20Large%20Biscuit%20Tin.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -481,6 +717,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/26%EF%BC%8DWanted%20a%20Large%20Biscuit%20Tin.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/26%EF%BC%8DWanted%20a%20Large%20Biscuit%20Tin.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/26%EF%BC%8DWanted%20a%20Large%20Biscuit%20Tin.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/26%EF%BC%8DWanted%20a%20Large%20Biscuit%20Tin.rec"
         }
       }
     },
@@ -489,7 +729,12 @@
       "sizeMiB": 2.83,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/27.Nothing.to.Sell.and.Nothing.to.Buy.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/27%EF%BC%8DNothing%20to%20Sell%20and%20Nothing%20to%20Buy.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -499,6 +744,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/27%EF%BC%8DNothing%20to%20Sell%20and%20Nothing%20to%20Buy.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/27%EF%BC%8DNothing%20to%20Sell%20and%20Nothing%20to%20Buy.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/27%EF%BC%8DNothing%20to%20Sell%20and%20Nothing%20to%20Buy.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/27%EF%BC%8DNothing%20to%20Sell%20and%20Nothing%20to%20Buy.rec"
         }
       }
     },
@@ -507,7 +756,12 @@
       "sizeMiB": 3.04,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/28.Five.Pounds.Too.Dear.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/28%EF%BC%8DFive%20Pounds%20Too%20Dear.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -517,6 +771,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/28%EF%BC%8DFive%20Pounds%20Too%20Dear.lrc",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/28%EF%BC%8DFive%20Pounds%20Too%20Dear.recx"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/28%EF%BC%8DFive%20Pounds%20Too%20Dear.lrc",
+          "recx": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/28%EF%BC%8DFive%20Pounds%20Too%20Dear.recx"
         }
       }
     },
@@ -525,7 +783,12 @@
       "sizeMiB": 2.99,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/29.Funny.or.Not.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/29%EF%BC%8DFunny%20or%20Not.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -535,6 +798,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/29%EF%BC%8DFunny%20or%20Not.lrc",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/29%EF%BC%8DFunny%20or%20Not.recx"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/29%EF%BC%8DFunny%20or%20Not.lrc",
+          "recx": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/29%EF%BC%8DFunny%20or%20Not.recx"
         }
       }
     },
@@ -543,7 +810,12 @@
       "sizeMiB": 2.84,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/30.The.Death.of.a.Ghost.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/30%EF%BC%8DThe%20Death%20of%20a%20Ghost.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -553,6 +825,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/30%EF%BC%8DThe%20Death%20of%20a%20Ghost.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/30%EF%BC%8DThe%20Death%20of%20a%20Ghost.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/30%EF%BC%8DThe%20Death%20of%20a%20Ghost.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/30%EF%BC%8DThe%20Death%20of%20a%20Ghost.rec"
         }
       }
     },
@@ -561,7 +837,12 @@
       "sizeMiB": 3.04,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/31.A.Lovable.Eccentric.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/31%EF%BC%8DA%20Lovable%20Eccentric.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -571,6 +852,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/31%EF%BC%8DA%20Lovable%20Eccentric.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/31%EF%BC%8DA%20Lovable%20Eccentric.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/31%EF%BC%8DA%20Lovable%20Eccentric.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/31%EF%BC%8DA%20Lovable%20Eccentric.rec"
         }
       }
     },
@@ -579,7 +864,12 @@
       "sizeMiB": 2.68,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/32.A.Lost.Ship.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/32%EF%BC%8DA%20Lost%20Ship.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -589,6 +879,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/32%EF%BC%8DA%20Lost%20Ship.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/32%EF%BC%8DA%20Lost%20Ship.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/32%EF%BC%8DA%20Lost%20Ship.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/32%EF%BC%8DA%20Lost%20Ship.rec"
         }
       }
     },
@@ -597,7 +891,12 @@
       "sizeMiB": 2.99,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/33.A.Day.to.Remember.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/33%EF%BC%8DA%20Day%20to%20Remember.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -607,6 +906,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/33%EF%BC%8DA%20Day%20to%20Remember.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/33%EF%BC%8DA%20Day%20to%20Remember.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/33%EF%BC%8DA%20Day%20to%20Remember.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/33%EF%BC%8DA%20Day%20to%20Remember.rec"
         }
       }
     },
@@ -615,7 +918,12 @@
       "sizeMiB": 3.12,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/34.A.Happy.Discovery.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/34%EF%BC%8DA%20Happy%20Discovery.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -625,6 +933,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/34%EF%BC%8DA%20Happy%20Discovery.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/34%EF%BC%8DA%20Happy%20Discovery.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/34%EF%BC%8DA%20Happy%20Discovery.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/34%EF%BC%8DA%20Happy%20Discovery.rec"
         }
       }
     },
@@ -633,7 +945,12 @@
       "sizeMiB": 3.08,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/35.Justice.was.Done.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/35%EF%BC%8DJustice%20was%20Done.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -643,6 +960,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/35%EF%BC%8DJustice%20was%20Done.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/35%EF%BC%8DJustice%20was%20Done.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/35%EF%BC%8DJustice%20was%20Done.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/35%EF%BC%8DJustice%20was%20Done.rec"
         }
       }
     },
@@ -651,7 +972,12 @@
       "sizeMiB": 3.09,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/36.A.Chance.in.a.Million.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/36%EF%BC%8DA%20Chance%20in%20a%20Million.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -661,6 +987,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/36%EF%BC%8DA%20Chance%20in%20a%20Million.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/36%EF%BC%8DA%20Chance%20in%20a%20Million.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/36%EF%BC%8DA%20Chance%20in%20a%20Million.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/36%EF%BC%8DA%20Chance%20in%20a%20Million.rec"
         }
       }
     },
@@ -669,7 +999,12 @@
       "sizeMiB": 2.96,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/37.The.Westhaven.Express.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/37%EF%BC%8DThe%20Westhaven%20Express.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -679,6 +1014,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/37%EF%BC%8DThe%20Westhaven%20Express.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/37%EF%BC%8DThe%20Westhaven%20Express.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/37%EF%BC%8DThe%20Westhaven%20Express.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/37%EF%BC%8DThe%20Westhaven%20Express.rec"
         }
       }
     },
@@ -687,7 +1026,12 @@
       "sizeMiB": 3.09,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/38.The.First.Calendar.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/38%EF%BC%8DThe%20First%20Calendar.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -697,6 +1041,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/38%EF%BC%8DThe%20First%20Calendar.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/38%EF%BC%8DThe%20First%20Calendar.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/38%EF%BC%8DThe%20First%20Calendar.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/38%EF%BC%8DThe%20First%20Calendar.rec"
         }
       }
     },
@@ -705,7 +1053,12 @@
       "sizeMiB": 3.12,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/39.Nothing.to.Worry.About.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/39%EF%BC%8DNothing%20to%20Worry%20About.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -715,6 +1068,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/39%EF%BC%8DNothing%20to%20Worry%20About.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/39%EF%BC%8DNothing%20to%20Worry%20About.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/39%EF%BC%8DNothing%20to%20Worry%20About.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/39%EF%BC%8DNothing%20to%20Worry%20About.rec"
         }
       }
     },
@@ -723,7 +1080,12 @@
       "sizeMiB": 2.96,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/40.Who.s.Who.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/40%EF%BC%8DWho%27s%20Who.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -733,6 +1095,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/40%EF%BC%8DWho%27s%20Who.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/40%EF%BC%8DWho%27s%20Who.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/40%EF%BC%8DWho%27s%20Who.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/40%EF%BC%8DWho%27s%20Who.rec"
         }
       }
     },
@@ -741,7 +1107,12 @@
       "sizeMiB": 4.31,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/41.Illusions.of.Pastoral.Peace.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/41%EF%BC%8DIllusions%20of%20Pastoral%20Peace.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -751,6 +1122,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/41%EF%BC%8DIllusions%20of%20Pastoral%20Peace.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/41%EF%BC%8DIllusions%20of%20Pastoral%20Peace.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/41%EF%BC%8DIllusions%20of%20Pastoral%20Peace.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/41%EF%BC%8DIllusions%20of%20Pastoral%20Peace.rec"
         }
       }
     },
@@ -759,7 +1134,12 @@
       "sizeMiB": 4.32,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/42.Modern.Cavemen.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/42%EF%BC%8DModern%20Cavemen.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -769,6 +1149,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/42%EF%BC%8DModern%20Cavemen.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/42%EF%BC%8DModern%20Cavemen.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/42%EF%BC%8DModern%20Cavemen.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/42%EF%BC%8DModern%20Cavemen.rec"
         }
       }
     },
@@ -777,7 +1161,12 @@
       "sizeMiB": 4.16,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/43.Fully.Insured.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/43%EF%BC%8DFully%20Insured.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -787,6 +1176,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/43%EF%BC%8DFully%20Insured.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/43%EF%BC%8DFully%20Insured.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/43%EF%BC%8DFully%20Insured.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/43%EF%BC%8DFully%20Insured.rec"
         }
       }
     },
@@ -795,7 +1188,12 @@
       "sizeMiB": 4.14,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/44.Speed.and.Comfort.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/44%EF%BC%8DSpeed%20and%20Comfort.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -805,6 +1203,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/44%EF%BC%8DSpeed%20and%20Comfort.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/44%EF%BC%8DSpeed%20and%20Comfort.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/44%EF%BC%8DSpeed%20and%20Comfort.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/44%EF%BC%8DSpeed%20and%20Comfort.rec"
         }
       }
     },
@@ -813,7 +1215,12 @@
       "sizeMiB": 3.76,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/45.The.Power.of.the.Press.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/45%EF%BC%8DThe%20Power%20of%20the%20Press.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -823,6 +1230,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/45%EF%BC%8DThe%20Power%20of%20the%20Press.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/45%EF%BC%8DThe%20Power%20of%20the%20Press.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/45%EF%BC%8DThe%20Power%20of%20the%20Press.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/45%EF%BC%8DThe%20Power%20of%20the%20Press.rec"
         }
       }
     },
@@ -831,7 +1242,12 @@
       "sizeMiB": 4.24,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/46.Do.It.Yourself.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/46%EF%BC%8DDo%20It%20Yourself.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -841,6 +1257,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/46%EF%BC%8DDo%20It%20Yourself.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/46%EF%BC%8DDo%20It%20Yourself.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/46%EF%BC%8DDo%20It%20Yourself.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/46%EF%BC%8DDo%20It%20Yourself.rec"
         }
       }
     },
@@ -849,7 +1269,12 @@
       "sizeMiB": 4.27,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/47.Too.High.a.Price.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/47%EF%BC%8DToo%20High%20a%20Price.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -859,6 +1284,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/47%EF%BC%8DToo%20High%20a%20Price.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/47%EF%BC%8DToo%20High%20a%20Price.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/47%EF%BC%8DToo%20High%20a%20Price.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/47%EF%BC%8DToo%20High%20a%20Price.rec"
         }
       }
     },
@@ -867,7 +1296,12 @@
       "sizeMiB": 4.17,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/48.The.Silent.Village.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/48%EF%BC%8DThe%20Silent%20Village.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -877,6 +1311,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/48%EF%BC%8DThe%20Silent%20Village.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/48%EF%BC%8DThe%20Silent%20Village.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/48%EF%BC%8DThe%20Silent%20Village.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/48%EF%BC%8DThe%20Silent%20Village.rec"
         }
       }
     },
@@ -885,7 +1323,12 @@
       "sizeMiB": 4.25,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/49.The.Ideal.Servant.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/49%EF%BC%8DThe%20Ideal%20Servant.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -895,6 +1338,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/49%EF%BC%8DThe%20Ideal%20Servant.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/49%EF%BC%8DThe%20Ideal%20Servant.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/49%EF%BC%8DThe%20Ideal%20Servant.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/49%EF%BC%8DThe%20Ideal%20Servant.rec"
         }
       }
     },
@@ -903,7 +1350,12 @@
       "sizeMiB": 4.17,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/50.New.Year.Resolutions.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/50%EF%BC%8DNew%20Year%20Resolutions.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -913,6 +1365,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/50%EF%BC%8DNew%20Year%20Resolutions.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/50%EF%BC%8DNew%20Year%20Resolutions.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/50%EF%BC%8DNew%20Year%20Resolutions.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/50%EF%BC%8DNew%20Year%20Resolutions.rec"
         }
       }
     },
@@ -921,7 +1377,12 @@
       "sizeMiB": 4.16,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/51.Predicting.the.Future.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/51%EF%BC%8DPredicting%20the%20Future.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -931,6 +1392,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/51%EF%BC%8DPredicting%20the%20Future.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/51%EF%BC%8DPredicting%20the%20Future.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/51%EF%BC%8DPredicting%20the%20Future.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/51%EF%BC%8DPredicting%20the%20Future.rec"
         }
       }
     },
@@ -939,7 +1404,12 @@
       "sizeMiB": 4.03,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/52.Mud.is.Mud.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/52%EF%BC%8DMud%20is%20Mud.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -949,6 +1419,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/52%EF%BC%8DMud%20is%20Mud.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/52%EF%BC%8DMud%20is%20Mud.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/52%EF%BC%8DMud%20is%20Mud.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/52%EF%BC%8DMud%20is%20Mud.rec"
         }
       }
     },
@@ -957,7 +1431,12 @@
       "sizeMiB": 3.96,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/53.In.the.Public.Interest.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/53%EF%BC%8DIn%20the%20Public%20Interest.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -967,6 +1446,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/53%EF%BC%8DIn%20the%20Public%20Interest.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/53%EF%BC%8DIn%20the%20Public%20Interest.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/53%EF%BC%8DIn%20the%20Public%20Interest.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/53%EF%BC%8DIn%20the%20Public%20Interest.rec"
         }
       }
     },
@@ -975,7 +1458,12 @@
       "sizeMiB": 4.14,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/54.Instinct.or.Cleverness.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/54%EF%BC%8DInstinct%20or%20Cleverness.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -985,6 +1473,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/54%EF%BC%8DInstinct%20or%20Cleverness.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/54%EF%BC%8DInstinct%20or%20Cleverness.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/54%EF%BC%8DInstinct%20or%20Cleverness.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/54%EF%BC%8DInstinct%20or%20Cleverness.rec"
         }
       }
     },
@@ -993,7 +1485,12 @@
       "sizeMiB": 3.92,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/55.From.the.Earth.Greetings.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/55%EF%BC%8DFrom%20the%20Earth%20Greetings.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -1003,6 +1500,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/55%EF%BC%8DFrom%20the%20Earth%20Greetings.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/55%EF%BC%8DFrom%20the%20Earth%20Greetings.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/55%EF%BC%8DFrom%20the%20Earth%20Greetings.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/55%EF%BC%8DFrom%20the%20Earth%20Greetings.rec"
         }
       }
     },
@@ -1011,7 +1512,12 @@
       "sizeMiB": 3.61,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/56.Our.Neighbour.the.River.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/56%EF%BC%8DOur%20Neighbour%2C%20the%20River.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -1021,6 +1527,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/56%EF%BC%8DOur%20Neighbour%2C%20the%20River.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/56%EF%BC%8DOur%20Neighbour%2C%20the%20River.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/56%EF%BC%8DOur%20Neighbour%2C%20the%20River.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/56%EF%BC%8DOur%20Neighbour%2C%20the%20River.rec"
         }
       }
     },
@@ -1029,7 +1539,12 @@
       "sizeMiB": 3.7,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/57.Back.in.the.Old.Country.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/57%EF%BC%8DBack%20in%20the%20Old%20Country.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -1039,6 +1554,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/57%EF%BC%8DBack%20in%20the%20Old%20Country.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/57%EF%BC%8DBack%20in%20the%20Old%20Country.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/57%EF%BC%8DBack%20in%20the%20Old%20Country.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/57%EF%BC%8DBack%20in%20the%20Old%20Country.rec"
         }
       }
     },
@@ -1047,7 +1566,12 @@
       "sizeMiB": 3.77,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/58.A.Spot.of.Bother.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/58%EF%BC%8DA%20Spot%20of%20Bother.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -1057,6 +1581,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/58%EF%BC%8DA%20Spot%20of%20Bother.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/58%EF%BC%8DA%20Spot%20of%20Bother.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/58%EF%BC%8DA%20Spot%20of%20Bother.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/58%EF%BC%8DA%20Spot%20of%20Bother.rec"
         }
       }
     },
@@ -1065,7 +1593,12 @@
       "sizeMiB": 4.0,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/59.Collecting.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/59%EF%BC%8DCollecting.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -1075,6 +1608,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/59%EF%BC%8DCollecting.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/59%EF%BC%8DCollecting.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/59%EF%BC%8DCollecting.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/59%EF%BC%8DCollecting.rec"
         }
       }
     },
@@ -1083,7 +1620,12 @@
       "sizeMiB": 4.44,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/new-concept-english-3-us-audio-v1/60.Too.Early.and.Too.Late.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/60%EF%BC%8DToo%20Early%20and%20Too%20Late.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -1093,6 +1635,10 @@
         "jsDelivr": {
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/60%EF%BC%8DToo%20Early%20and%20Too%20Late.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/60%EF%BC%8DToo%20Early%20and%20Too%20Late.rec"
+        },
+        "internetArchive": {
+          "lrc": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/60%EF%BC%8DToo%20Early%20and%20Too%20Late.lrc",
+          "rec": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/60%EF%BC%8DToo%20Early%20and%20Too%20Late.rec"
         }
       }
     }

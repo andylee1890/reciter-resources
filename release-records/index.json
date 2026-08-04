@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-04T13:24:30.261220Z",
+  "generatedAt": "2026-08-04T13:52:06.745695Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -220,7 +220,13 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/new-concept-english-3-us-audio-v1"
         },
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "identifier": "reciter-new-concept-english-3-us-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-new-concept-english-3-us-audio-v1"
+          }
+        ]
       }
     },
     {
