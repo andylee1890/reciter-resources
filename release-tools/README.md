@@ -81,6 +81,34 @@ python release-tools/generate_release_index.py
 
 每次新增、撤回或修改发布记录后，都应重新生成并提交该索引。
 
+## Internet Archive 音频镜像
+
+`publish_to_internet_archive.py` 把一个 `release-plan.json` 资料包的 `.mp3`、`.srt`、`.lrc`、`.rec`、`.recx` 一起上传为一个 Internet Archive item。默认 identifier 是 `reciter-<tag>`；GitHub Raw 和 jsDelivr 链接继续保留为文本 sidecar 的备用入口。
+
+凭据不进入仓库。通过环境变量 `IA_ACCESS_KEY`、`IA_SECRET_KEY`，或仓库外的 JSON 文件提供：
+
+```json
+{"access_key":"...","secret_key":"..."}
+```
+
+先检查一个资料包：
+
+```bash
+python release-tools/publish_to_internet_archive.py \
+  --tag new-concept-english-1-us-audio-v1 \
+  --dry-run
+```
+
+实际上传并在远端逐文件校验：
+
+```bash
+python release-tools/publish_to_internet_archive.py \
+  --tag new-concept-english-1-us-audio-v1 \
+  --credentials-file /private/path/ia-credentials.json
+```
+
+中断后再次执行会按文件名和字节大小跳过已完成文件。`--verify-only` 不需要凭据，只校验 item 是否完整；脚本默认等待最多 300 秒让 IA metadata 入库，上传和校验通过后才在发布记录写入 IA identifier、item URL，并重建 JSON 索引。
+
 ## 资料包清单
 
 `release-plan.json` 保存资料目录、Release tag 和标题，是整批发布及 AI 协作时使用的公开清单；它不包含本机账号、浏览器配置、SSH 别名或其他私有环境信息。

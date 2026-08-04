@@ -9,6 +9,7 @@ import json
 import re
 from pathlib import Path
 from typing import Any
+from urllib.parse import quote
 
 
 METADATA_PATTERN = re.compile(r"^- (?P<key>[^:]+): (?P<value>.*)$")
@@ -21,6 +22,22 @@ def repository_root() -> Path:
 
 def parse_links(cell: str) -> dict[str, str]:
     return {label.lstrip("."): url for label, url in LINK_PATTERN.findall(cell)}
+
+
+def quote_path(value: str) -> str:
+    return quote(value, safe="/")
+
+
+def quote_filename(value: str) -> str:
+    return quote(value, safe="")
+
+
+def archive_item_url(identifier: str) -> str:
+    return f"https://archive.org/details/{quote_path(identifier)}"
+
+
+def archive_download_url(identifier: str, filename: str) -> str:
+    return f"https://archive.org/download/{quote_path(identifier)}/{quote_filename(filename)}"
 
 
 def parse_record(path: Path) -> dict[str, Any] | None:
@@ -77,6 +94,17 @@ def parse_record(path: Path) -> dict[str, Any] | None:
     if total_size_match is None:
         raise ValueError(f"{path}: invalid total size")
 
+    archive_uploaded = metadata.get("Internet Archive uploaded", "False").lower() == "true"
+    archive_identifier = metadata.get("Internet Archive identifier", "").strip("`")
+    if archive_uploaded and not archive_identifier:
+        raise ValueError(f"{path}: Internet Archive is marked uploaded but has no identifier")
+    archive: dict[str, str] | None = None
+    if archive_uploaded:
+        archive = {
+            "identifier": archive_identifier,
+            "itemUrl": metadata.get("Internet Archive item", archive_item_url(archive_identifier)),
+        }
+
     return {
         "tag": metadata["Tag"].strip("`"),
         "title": lines[0][2:],
@@ -88,6 +116,7 @@ def parse_record(path: Path) -> dict[str, Any] | None:
         "audioCount": expected_count,
         "totalSizeMiB": float(total_size_match.group(1)),
         "audio": audio,
+        "internetArchive": archive,
     }
 
 
@@ -109,8 +138,10 @@ def published_records(records_dir: Path) -> list[dict[str, Any]]:
 
 
 def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
+    archive = record["internetArchive"]
+    archive_platform = [{"provider": "internetArchive", **archive}] if archive is not None else []
     return {
-        "schemaVersion": 2,
+        "schemaVersion": 3,
         "generatedAt": generated_at,
         "tag": record["tag"],
         "title": record["title"],
@@ -120,7 +151,7 @@ def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
         "createdAt": record["createdAt"],
         "platforms": {
             "githubRelease": {"releaseUrl": record["releaseUrl"]},
-            "mirrors": [],
+            "mirrors": archive_platform,
         },
         "audioCount": record["audioCount"],
         "totalSizeMiB": record["totalSizeMiB"],
@@ -130,9 +161,28 @@ def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
                 "sizeMiB": track["sizeMiB"],
                 "audio": {
                     "githubRelease": track["audioUrl"],
-                    "mirrors": [],
+                    "mirrors": (
+                        [{"provider": "internetArchive", "url": archive_download_url(archive["identifier"], track["name"])}]
+                        if archive is not None
+                        else []
+                    ),
                 },
-                "sidecars": track["sidecars"],
+                "sidecars": {
+                    **track["sidecars"],
+                    **(
+                        {
+                            "internetArchive": {
+                                extension: archive_download_url(
+                                    archive["identifier"],
+                                    f"{Path(track['name']).stem}.{extension}",
+                                )
+                                for extension in track["sidecars"]["githubRaw"]
+                            }
+                        }
+                        if archive is not None
+                        else {}
+                    ),
+                },
             }
             for track in record["audio"]
         ],
@@ -142,7 +192,7 @@ def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
 def master_index(records: list[dict[str, Any]], generated_at: str) -> dict[str, Any]:
     repositories = {record["repository"] for record in records}
     return {
-        "schemaVersion": 2,
+        "schemaVersion": 3,
         "generatedAt": generated_at,
         "repository": repositories.pop() if len(repositories) == 1 else None,
         "releases": [
@@ -160,7 +210,11 @@ def master_index(records: list[dict[str, Any]], generated_at: str) -> dict[str, 
                 ),
                 "platforms": {
                     "githubRelease": {"releaseUrl": record["releaseUrl"]},
-                    "mirrors": [],
+                    "mirrors": (
+                        [{"provider": "internetArchive", **record["internetArchive"]}]
+                        if record["internetArchive"] is not None
+                        else []
+                    ),
                 },
             }
             for record in records

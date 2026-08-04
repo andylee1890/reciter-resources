@@ -24,13 +24,14 @@ The Office US S02E01 The Dundies.rec
 
 ## Release Workflow
 
-- Publish audio by folder or season through GitHub Releases.
+- Publish audio by folder or season through GitHub Releases; Internet Archive may be added as an independent mirror.
 - Use the Python script in `release-tools/`; do not add OS-specific publish scripts.
 - Generated release records should include:
   - GitHub Release page.
   - GitHub Release asset URLs for audio.
   - GitHub Raw URLs for text sidecars.
   - jsDelivr URLs for text sidecars.
+  - Internet Archive item and asset URLs when that mirror is uploaded.
 - If a resource is withdrawn, update the relevant record instead of silently replacing links.
 
 ## Copyright And Attribution

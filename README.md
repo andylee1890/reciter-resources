@@ -16,7 +16,7 @@ jsDelivr:
 
 `https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/...`
 
-音频资源不提交到 Git 历史，按资料包或季发布到 GitHub Releases。每次发布的可用链接记录在 [release-records](https://github.com/andylee1890/reciter-resources/tree/main/release-records)。
+音频资源不提交到 Git 历史，按资料包或季发布到 GitHub Releases，并可同步到 Internet Archive 作为独立镜像。每次发布的可用链接记录在 [release-records](https://github.com/andylee1890/reciter-resources/tree/main/release-records)。
 
 ## 机器可读索引
 
@@ -28,7 +28,7 @@ jsDelivr:
 ## 资源边界
 
 - `.srt`、`.lrc`、`.rec`、`.recx` 属于可版本化的文本资产，直接提交到 Git。
-- `.mp3` 等音频文件不进入 Git 历史，按每一季或每个资料包上传到 GitHub Releases。
+- `.mp3` 等音频文件不进入 Git 历史，按每一季或每个资料包上传到 GitHub Releases；已同步的资料包会在索引中提供 Internet Archive 镜像。
 - 音频与文本文件保持同一个 basename，方便前端自动配对，例如：
 
 ```text

@@ -13,8 +13,9 @@
 - 每个文本 sidecar 的 GitHub Raw 链接
 - 每个文本 sidecar 的 jsDelivr CDN 链接
 - 每个音频对应的字幕/rec sidecar 情况
+- 已上传时的 Internet Archive item 标识和页面链接
 - 是否为 dry run
 
-`index.json` 是从已发布记录生成的机器可读主索引，只包含 `Published: True` 的 Release。每个已发布资料包另有同 tag 的 JSON 明细文件；站点先读取主索引，再按 `detailFile` 读取资料包明细。音频的其他平台镜像保留在明细的 `audio.mirrors` 数组中。
+`index.json` 是从已发布记录生成的机器可读主索引，只包含 `Published: True` 的 Release。每个已发布资料包另有同 tag 的 JSON 明细文件；站点先读取主索引，再按 `detailFile` 读取资料包明细。Internet Archive 等资料包页面镜像位于 `platforms.mirrors`，单个 MP3 的直接镜像位于 `audio.mirrors`；已镜像的字幕、LRC、REC、RECX 链接位于对应 `sidecars.internetArchive`。
 
 如果某个资源因权利方要求撤下，也在这里追加处理说明，方便以后追踪替代策略。
