@@ -1,4 +1,7 @@
 # New Concept English Book 4 American Audio v1
+- Internet Archive identifier: `reciter-new-concept-english-4-us-audio-v1`
+- Internet Archive item: https://archive.org/details/reciter-new-concept-english-4-us-audio-v1
+- Internet Archive uploaded: True
 
 - Tag: `new-concept-english-4-us-audio-v1`
 - Repo: `andylee1890/reciter-resources`
