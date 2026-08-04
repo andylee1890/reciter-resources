@@ -287,7 +287,7 @@ def put_file_pycurl(*, identifier: str, path: Path, headers: dict[str, str], ret
             client.setopt(pycurl.CONNECTTIMEOUT, 30)
             client.setopt(pycurl.TIMEOUT, 900)
             client.setopt(pycurl.USERAGENT, "reciter-resources-ia-uploader/1")
-            client.setopt(pycurl.HTTPHEADER, [*header_lines, "Connection: close"])
+            client.setopt(pycurl.HTTPHEADER, [*header_lines, "Connection: close", "Expect:"])
             client.setopt(pycurl.WRITEFUNCTION, lambda data: len(data))
             with path.open("rb") as source:
                 client.setopt(pycurl.READDATA, source)

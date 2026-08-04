@@ -68,6 +68,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--tag", action="append", dest="tags", help="Only publish this tag; repeat to select several.")
     parser.add_argument("--limit", type=int, help="Publish at most this many incomplete packages.")
     parser.add_argument("--retries", type=int, default=10, help="Retries for each failed file, default: %(default)s")
+    parser.add_argument("--direct", action="store_true", help="Bypass HTTP(S) proxy variables for Internet Archive requests.")
     parser.add_argument("--delay-seconds", type=int, default=20, help="Pause between completed packages, default: %(default)s")
     parser.add_argument("--push", action="store_true", help="Commit and push each completed package record before continuing.")
     parser.add_argument("--dry-run", action="store_true", help="List incomplete planned packages without uploading.")
@@ -103,6 +104,8 @@ def main(argv: list[str]) -> int:
     uploader = root / "release-tools" / "publish_to_internet_archive.py"
     for index, entry in enumerate(pending, start=1):
         command = [sys.executable, "-u", str(uploader), "--tag", entry["tag"], "--retries", str(args.retries)]
+        if args.direct:
+            command.append("--direct")
         if args.credentials_file is not None:
             command.extend(["--credentials-file", str(args.credentials_file)])
         print(f"\n[{index}/{len(pending)}] Publishing {entry['tag']}", flush=True)
