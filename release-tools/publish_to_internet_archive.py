@@ -114,7 +114,13 @@ def load_credentials(path: Path | None) -> tuple[str, str]:
 
 
 def fetch_metadata(identifier: str) -> dict[str, Any] | None:
-    request = Request(ARCHIVE_METADATA_URL.format(identifier=quote_component(identifier)))
+    request = Request(
+        ARCHIVE_METADATA_URL.format(identifier=quote_component(identifier)),
+        headers={
+            "Connection": "close",
+            "User-Agent": "reciter-resources-ia-uploader/1",
+        },
+    )
     try:
         with urlopen(request, timeout=30) as response:
             return json.loads(response.read().decode("utf-8"))
