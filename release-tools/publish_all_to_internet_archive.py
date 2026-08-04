@@ -67,14 +67,15 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--credentials-file", type=Path, help="Private IA credentials file outside the repository.")
     parser.add_argument("--tag", action="append", dest="tags", help="Only publish this tag; repeat to select several.")
     parser.add_argument("--limit", type=int, help="Publish at most this many incomplete packages.")
+    parser.add_argument("--retries", type=int, default=10, help="Retries for each failed file, default: %(default)s")
     parser.add_argument("--delay-seconds", type=int, default=20, help="Pause between completed packages, default: %(default)s")
     parser.add_argument("--push", action="store_true", help="Commit and push each completed package record before continuing.")
     parser.add_argument("--dry-run", action="store_true", help="List incomplete planned packages without uploading.")
     args = parser.parse_args(argv)
     if args.limit is not None and args.limit <= 0:
         parser.error("--limit must be positive")
-    if args.delay_seconds < 0:
-        parser.error("--delay-seconds must be non-negative")
+    if args.delay_seconds < 0 or args.retries < 0:
+        parser.error("--delay-seconds and --retries must be non-negative")
     return args
 
 
@@ -101,7 +102,7 @@ def main(argv: list[str]) -> int:
         run_git(root, "push")
     uploader = root / "release-tools" / "publish_to_internet_archive.py"
     for index, entry in enumerate(pending, start=1):
-        command = [sys.executable, str(uploader), "--tag", entry["tag"]]
+        command = [sys.executable, str(uploader), "--tag", entry["tag"], "--retries", str(args.retries)]
         if args.credentials_file is not None:
             command.extend(["--credentials-file", str(args.credentials_file)])
         print(f"\n[{index}/{len(pending)}] Publishing {entry['tag']}", flush=True)

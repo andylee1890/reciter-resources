@@ -107,7 +107,7 @@ python release-tools/publish_to_internet_archive.py \
   --credentials-file /private/path/ia-credentials.json
 ```
 
-中断后再次执行会按文件名和字节大小跳过已完成文件。`--verify-only` 不需要凭据，只校验 item 是否完整；脚本默认等待最多 300 秒让 IA metadata 入库，上传和校验通过后才在发布记录写入 IA identifier、item URL，并重建 JSON 索引。
+中断后再次执行会按文件名和字节大小跳过已完成文件。上传使用 256 KiB 分块、单请求单连接和指数退避，默认每个文件重试 10 次；`--verify-only` 不需要凭据，只校验 item 是否完整。脚本默认等待最多 300 秒让 IA metadata 入库，上传和校验通过后才在发布记录写入 IA identifier、item URL，并重建 JSON 索引。
 
 ## 批量发布
 

@@ -28,6 +28,7 @@ ARCHIVE_HOST = "s3.us.archive.org"
 ARCHIVE_METADATA_URL = "https://archive.org/metadata/{identifier}"
 IDENTIFIER_PATTERN = re.compile(r"^[a-z0-9][a-z0-9._-]{2,99}$")
 RETRYABLE_STATUS = {408, 429, 500, 502, 503, 504}
+UPLOAD_CHUNK_SIZE = 256 * 1024
 SIDECAR_EXTENSIONS = (".srt", ".lrc", ".rec", ".recx")
 CONTENT_TYPES = {
     ".mp3": "audio/mpeg",
@@ -154,9 +155,11 @@ def put_file(*, identifier: str, path: Path, headers: dict[str, str], retries: i
             for name, value in headers.items():
                 connection.putheader(name, value)
             connection.putheader("Content-Length", str(path.stat().st_size))
+            connection.putheader("Connection", "close")
+            connection.putheader("User-Agent", "reciter-resources-ia-uploader/1")
             connection.endheaders()
             with path.open("rb") as source:
-                while chunk := source.read(1024 * 1024):
+                while chunk := source.read(UPLOAD_CHUNK_SIZE):
                     connection.send(chunk)
             response = connection.getresponse()
             body = response.read(500).decode("utf-8", errors="replace")
@@ -164,12 +167,12 @@ def put_file(*, identifier: str, path: Path, headers: dict[str, str], retries: i
                 return
             if response.status not in RETRYABLE_STATUS or attempt == retries:
                 raise SystemExit(f"Upload failed for {path.name} ({response.status}): {body}")
-            delay = min(60, 2**attempt)
+            delay = min(120, 5 * 2**attempt)
             print(f"{path.name}: server returned {response.status}; retrying in {delay}s", file=sys.stderr)
         except (OSError, http.client.HTTPException) as exc:
             if attempt == retries:
                 raise SystemExit(f"Upload failed for {path.name}: {exc}") from exc
-            delay = min(60, 2**attempt)
+            delay = min(120, 5 * 2**attempt)
             print(f"{path.name}: {exc}; retrying in {delay}s", file=sys.stderr)
         finally:
             connection.close()
@@ -232,7 +235,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--credentials-file", type=Path, help="Private JSON credentials file outside the repository.")
     parser.add_argument("--collection", default="opensource_audio", help="IA collection metadata, default: %(default)s")
     parser.add_argument("--creator", default="Reciter Resources", help="IA creator metadata, default: %(default)s")
-    parser.add_argument("--retries", type=int, default=4, help="Retries per failed file, default: %(default)s")
+    parser.add_argument("--retries", type=int, default=10, help="Retries per failed file, default: %(default)s")
     parser.add_argument(
         "--verify-wait-seconds",
         type=int,
