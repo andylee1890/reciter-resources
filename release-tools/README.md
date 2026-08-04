@@ -2,7 +2,7 @@
 
 这里保存维护者使用的发布脚本。根目录 `README.md` 面向外部使用者，本目录只记录脚本、依赖和发布流程。
 
-脚本使用 Python、Internet Archive 官方 `internetarchive` 库和 GitHub CLI，避免 PowerShell、CMD、Bash 等操作系统相关发布脚本。
+脚本使用 Python、`pycurl`、Internet Archive 官方 `internetarchive` 库和 GitHub CLI，避免 PowerShell、CMD、Bash 等操作系统相关发布脚本。
 
 ## 前置条件
 
@@ -88,7 +88,7 @@ python release-tools/generate_release_index.py
 安装官方 Python 客户端：
 
 ```bash
-python -m pip install internetarchive
+python -m pip install pycurl internetarchive
 ```
 
 凭据不进入仓库。通过环境变量 `IA_ACCESS_KEY`、`IA_SECRET_KEY`，或仓库外的 JSON 文件提供：
@@ -113,7 +113,7 @@ python release-tools/publish_to_internet_archive.py \
   --credentials-file /private/path/ia-credentials.json
 ```
 
-中断后再次执行会按文件名和字节大小跳过已完成文件。默认采用官方 `internetarchive` 客户端并为每个文件重试 10 次；`--transport stdlib` 可回退到内置分块 HTTPS 上传。`--verify-only` 不需要凭据，只校验 item 是否完整。脚本默认等待最多 300 秒让 IA metadata 入库，上传和校验通过后才在发布记录写入 IA identifier、item URL，并重建 JSON 索引。
+中断后再次执行会按文件名和字节大小跳过已完成文件。默认使用 `pycurl` 直连 IA S3 并为每个文件重试 10 次；`--transport internetarchive` 使用 IA 官方客户端，`--transport stdlib` 可回退到内置分块 HTTPS 上传。`--direct` 仅作用于后两种 Python HTTP 传输。`--verify-only` 不需要凭据，只校验 item 是否完整。脚本默认等待最多 300 秒让 IA metadata 入库，上传和校验通过后才在发布记录写入 IA identifier、item URL，并重建 JSON 索引。
 
 ## 批量发布
 

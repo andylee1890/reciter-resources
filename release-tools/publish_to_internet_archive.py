@@ -21,7 +21,7 @@ from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
 from urllib.parse import quote
-from urllib.request import Request, urlopen
+from urllib.request import ProxyHandler, Request, build_opener, urlopen
 
 
 ARCHIVE_HOST = "s3.us.archive.org"
@@ -113,7 +113,43 @@ def load_credentials(path: Path | None) -> tuple[str, str]:
     return access_key, secret_key
 
 
-def fetch_metadata(identifier: str) -> dict[str, Any] | None:
+def fetch_metadata_pycurl(identifier: str) -> dict[str, Any] | None:
+    try:
+        import io
+        import pycurl
+    except ImportError as exc:
+        raise SystemExit(
+            "The pycurl package is required for the default transport. "
+            "Install it with `python -m pip install pycurl`, or choose another transport."
+        ) from exc
+    body = io.BytesIO()
+    client = pycurl.Curl()
+    try:
+        client.setopt(pycurl.URL, ARCHIVE_METADATA_URL.format(identifier=quote_component(identifier)))
+        client.setopt(pycurl.NOPROXY, "*")
+        client.setopt(pycurl.CONNECTTIMEOUT, 30)
+        client.setopt(pycurl.TIMEOUT, 60)
+        client.setopt(pycurl.USERAGENT, "reciter-resources-ia-uploader/1")
+        client.setopt(pycurl.WRITEDATA, body)
+        client.perform()
+        status = client.getinfo(pycurl.RESPONSE_CODE)
+    except pycurl.error as exc:
+        raise SystemExit(f"Internet Archive metadata request failed: {exc}") from exc
+    finally:
+        client.close()
+    if status == 404:
+        return None
+    if status >= 400:
+        raise SystemExit(f"Internet Archive metadata request failed ({status})")
+    try:
+        return json.loads(body.getvalue().decode("utf-8"))
+    except json.JSONDecodeError as exc:
+        raise SystemExit("Internet Archive metadata response was not valid JSON") from exc
+
+
+def fetch_metadata(identifier: str, direct: bool = False, transport: str = "pycurl") -> dict[str, Any] | None:
+    if transport == "pycurl":
+        return fetch_metadata_pycurl(identifier)
     request = Request(
         ARCHIVE_METADATA_URL.format(identifier=quote_component(identifier)),
         headers={
@@ -122,7 +158,9 @@ def fetch_metadata(identifier: str) -> dict[str, Any] | None:
         },
     )
     try:
-        with urlopen(request, timeout=30) as response:
+        opener = build_opener(ProxyHandler({})) if direct else None
+        response_context = opener.open(request, timeout=30) if opener is not None else urlopen(request, timeout=30)
+        with response_context as response:
             return json.loads(response.read().decode("utf-8"))
     except HTTPError as exc:
         if exc.code == 404:
@@ -133,8 +171,8 @@ def fetch_metadata(identifier: str) -> dict[str, Any] | None:
         raise SystemExit(f"Internet Archive metadata request failed: {exc}") from exc
 
 
-def remote_sizes(identifier: str) -> dict[str, int]:
-    metadata = fetch_metadata(identifier)
+def remote_sizes(identifier: str, direct: bool = False, transport: str = "pycurl") -> dict[str, int]:
+    metadata = fetch_metadata(identifier, direct=direct, transport=transport)
     if metadata is None:
         return {}
     result: dict[str, int] = {}
@@ -185,7 +223,7 @@ def put_file_stdlib(*, identifier: str, path: Path, headers: dict[str, str], ret
         time.sleep(delay)
 
 
-def open_official_item(identifier: str) -> Any:
+def open_official_item(identifier: str, direct: bool = False) -> Any:
     try:
         import internetarchive
     except ImportError as exc:
@@ -193,7 +231,9 @@ def open_official_item(identifier: str) -> Any:
             "The internetarchive package is required for the default transport. "
             "Install it with `python -m pip install internetarchive`, or use --transport stdlib."
         ) from exc
-    return internetarchive.get_item(identifier)
+    session = internetarchive.ArchiveSession()
+    session.trust_env = not direct
+    return internetarchive.get_item(identifier, archive_session=session)
 
 
 def put_file_official(
@@ -224,6 +264,49 @@ def put_file_official(
     if failures:
         status = getattr(failures[0], "status_code", "unknown")
         raise SystemExit(f"Upload failed for {path.name} ({status})")
+
+
+def put_file_pycurl(*, identifier: str, path: Path, headers: dict[str, str], retries: int) -> None:
+    try:
+        import pycurl
+    except ImportError as exc:
+        raise SystemExit(
+            "The pycurl package is required for the default transport. "
+            "Install it with `python -m pip install pycurl`, or choose another transport."
+        ) from exc
+    target = f"https://{ARCHIVE_HOST}/{quote_component(identifier)}/{quote_component(path.name)}"
+    header_lines = [f"{name}: {value}" for name, value in headers.items()]
+    for attempt in range(retries + 1):
+        client = pycurl.Curl()
+        try:
+            client.setopt(pycurl.URL, target)
+            client.setopt(pycurl.NOPROXY, "*")
+            client.setopt(pycurl.UPLOAD, 1)
+            client.setopt(pycurl.CUSTOMREQUEST, "PUT")
+            client.setopt(pycurl.INFILESIZE_LARGE, path.stat().st_size)
+            client.setopt(pycurl.CONNECTTIMEOUT, 30)
+            client.setopt(pycurl.TIMEOUT, 900)
+            client.setopt(pycurl.USERAGENT, "reciter-resources-ia-uploader/1")
+            client.setopt(pycurl.HTTPHEADER, [*header_lines, "Connection: close"])
+            client.setopt(pycurl.WRITEFUNCTION, lambda data: len(data))
+            with path.open("rb") as source:
+                client.setopt(pycurl.READDATA, source)
+                client.perform()
+            status = client.getinfo(pycurl.RESPONSE_CODE)
+            if 200 <= status < 300:
+                return
+            if status not in RETRYABLE_STATUS or attempt == retries:
+                raise SystemExit(f"Upload failed for {path.name} ({status})")
+            delay = min(120, 5 * 2**attempt)
+            print(f"{path.name}: server returned {status}; retrying in {delay}s", file=sys.stderr)
+        except pycurl.error as exc:
+            if attempt == retries:
+                raise SystemExit(f"Upload failed for {path.name}: {exc}") from exc
+            delay = min(120, 5 * 2**attempt)
+            print(f"{path.name}: {exc}; retrying in {delay}s", file=sys.stderr)
+        finally:
+            client.close()
+        time.sleep(delay)
 
 
 def update_record(root: Path, tag: str, identifier: str) -> None:
@@ -257,15 +340,22 @@ def generate_index(root: Path) -> None:
     subprocess.run([sys.executable, str(root / "release-tools" / "generate_release_index.py")], cwd=root, check=True)
 
 
-def verify_files(identifier: str, audio: list[Path]) -> list[str]:
-    sizes = remote_sizes(identifier)
+def verify_files(identifier: str, audio: list[Path], direct: bool = False, transport: str = "pycurl") -> list[str]:
+    sizes = remote_sizes(identifier, direct=direct, transport=transport)
     return [path.name for path in audio if sizes.get(path.name) != path.stat().st_size]
 
 
-def wait_for_files(identifier: str, audio: list[Path], wait_seconds: int, poll_seconds: int) -> list[str]:
+def wait_for_files(
+    identifier: str,
+    audio: list[Path],
+    wait_seconds: int,
+    poll_seconds: int,
+    direct: bool = False,
+    transport: str = "pycurl",
+) -> list[str]:
     deadline = time.monotonic() + wait_seconds
     while True:
-        missing = verify_files(identifier, audio)
+        missing = verify_files(identifier, audio, direct=direct, transport=transport)
         if not missing or time.monotonic() >= deadline:
             return missing
         print(
@@ -282,9 +372,14 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--credentials-file", type=Path, help="Private JSON credentials file outside the repository.")
     parser.add_argument(
         "--transport",
-        choices=("internetarchive", "stdlib"),
-        default="internetarchive",
+        choices=("pycurl", "internetarchive", "stdlib"),
+        default="pycurl",
         help="Upload implementation, default: %(default)s",
+    )
+    parser.add_argument(
+        "--direct",
+        action="store_true",
+        help="Bypass HTTP(S) proxy environment variables for Internet Archive requests.",
     )
     parser.add_argument("--collection", default="opensource_audio", help="IA collection metadata, default: %(default)s")
     parser.add_argument("--creator", default="Reciter Resources", help="IA creator metadata, default: %(default)s")
@@ -319,7 +414,7 @@ def main(argv: list[str]) -> int:
         raise SystemExit("Identifier must contain 3-100 lowercase letters, digits, dots, underscores, or hyphens.")
     folder, audio, package_files = resolve_package(root, entry)
     total_size = sum(path.stat().st_size for path in package_files)
-    existing = remote_sizes(identifier)
+    existing = remote_sizes(identifier, direct=args.direct, transport=args.transport)
     pending = package_files if args.force else [path for path in package_files if existing.get(path.name) != path.stat().st_size]
 
     print(f"Internet Archive item: {item_url(identifier)}")
@@ -345,11 +440,30 @@ def main(argv: list[str]) -> int:
             "x-archive-size-hint": str(total_size),
             "x-archive-queue-derive": "0",
         }
-        item = open_official_item(identifier) if args.transport == "internetarchive" else None
+        raw_metadata_headers = {
+            **metadata_headers,
+            "x-archive-meta01-collection": args.collection,
+            "x-archive-meta-mediatype": "audio",
+            "x-archive-meta-title": entry["title"],
+            "x-archive-meta-creator": args.creator,
+            "x-archive-meta-description": metadata["description"],
+        }
+        item = open_official_item(identifier, direct=args.direct) if args.transport == "internetarchive" else None
         for index, path in enumerate(pending, start=1):
             print(f"[{index}/{len(pending)}] Uploading {path.name} ({path.stat().st_size / 1024 / 1024:.2f} MiB)")
             headers = {**metadata_headers, "Content-Type": CONTENT_TYPES[path.suffix.lower()]}
-            if item is not None:
+            if args.transport == "pycurl":
+                put_file_pycurl(
+                    identifier=identifier,
+                    path=path,
+                    headers={
+                        **raw_metadata_headers,
+                        "Content-Type": CONTENT_TYPES[path.suffix.lower()],
+                        "Authorization": f"LOW {access_key}:{secret_key}",
+                    },
+                    retries=args.retries,
+                )
+            elif item is not None:
                 put_file_official(
                     item=item,
                     path=path,
@@ -367,7 +481,14 @@ def main(argv: list[str]) -> int:
                     retries=args.retries,
                 )
 
-    missing = wait_for_files(identifier, package_files, args.verify_wait_seconds, args.verify_poll_seconds)
+    missing = wait_for_files(
+        identifier,
+        package_files,
+        args.verify_wait_seconds,
+        args.verify_poll_seconds,
+        direct=args.direct,
+        transport=args.transport,
+    )
     if missing:
         print("Remote verification incomplete:", *missing, sep="\n", file=sys.stderr)
         return 2
