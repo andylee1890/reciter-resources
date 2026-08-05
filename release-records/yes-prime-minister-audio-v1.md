@@ -1,4 +1,5 @@
 # Yes Prime Minister Audio v1
+- Internet Archive bundle: https://archive.org/download/reciter-yes-prime-minister-audio-v1/yes-prime-minister-audio-v1.zip
 
 - Tag: `yes-prime-minister-audio-v1`
 - Repo: `andylee1890/reciter-resources`
