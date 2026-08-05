@@ -1,6 +1,6 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-05T17:20:16.496259Z",
+  "generatedAt": "2026-08-05T17:30:49.737522Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -444,7 +444,12 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s07-audio-v1"
         },
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "bundleUrl": "https://archive.org/download/reciter-the-big-bang-theory-s07-audio-v1/the-big-bang-theory-s07-audio-v1.zip"
+          }
+        ]
       }
     },
     {
