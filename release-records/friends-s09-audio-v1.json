@@ -11,7 +11,12 @@
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s09-audio-v1"
     },
-    "mirrors": []
+    "mirrors": [
+      {
+        "provider": "internetArchive",
+        "bundleUrl": "https://archive.org/download/reciter-friends-s09-audio-v1/friends-s09-audio-v1.zip"
+      }
+    ]
   },
   "audioCount": 23,
   "totalSizeMiB": 537.17,
