@@ -94,7 +94,7 @@ python release-tools/publish_ia_bundle.py \
   --artifact-dir /artifact/path
 ```
 
-元数据入库延迟时，使用 `--verify-only` 只检查已上传 ZIP，绝不重传：
+元数据入库延迟时，使用 `--verify-only` 只检查已上传 ZIP，绝不重传也不重建已有 ZIP：
 
 ```bash
 python release-tools/publish_ia_bundle.py \

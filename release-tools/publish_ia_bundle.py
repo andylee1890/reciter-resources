@@ -12,6 +12,24 @@ from urllib.parse import quote
 import publish_to_internet_archive as ia
 
 
+def bundle_matches_files(bundle: Path, files: list[Path]) -> bool:
+    if not bundle.is_file():
+        return False
+    expected = {path.name: path.stat().st_size for path in files}
+    try:
+        with zipfile.ZipFile(bundle) as archive:
+            actual = {entry.filename: entry.file_size for entry in archive.infolist()}
+    except (OSError, zipfile.BadZipFile):
+        return False
+    return actual == expected and len(actual) == len(files)
+
+
+def create_bundle(bundle: Path, files: list[Path]) -> None:
+    with zipfile.ZipFile(bundle, "w", compression=zipfile.ZIP_STORED, allowZip64=True) as archive:
+        for path in files:
+            archive.write(path, arcname=path.name)
+
+
 def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(description="Upload a complete package ZIP beside IA's per-file mirror.")
     parser.add_argument("--tag", required=True)
@@ -28,9 +46,10 @@ def main(argv: list[str]) -> int:
     artifact_dir = args.artifact_dir.expanduser().resolve()
     artifact_dir.mkdir(parents=True, exist_ok=True)
     bundle = artifact_dir / f"{args.tag}.zip"
-    with zipfile.ZipFile(bundle, "w", compression=zipfile.ZIP_STORED, allowZip64=True) as archive:
-        for path in files:
-            archive.write(path, arcname=path.name)
+    if not bundle_matches_files(bundle, files):
+        if args.verify_only:
+            raise SystemExit(f"Bundle artifact is missing or does not match the package: {bundle}")
+        create_bundle(bundle, files)
     identifier = f"reciter-{args.tag}"
     remote = ia.remote_sizes(identifier)
     if remote.get(bundle.name) != bundle.stat().st_size and not args.verify_only:
