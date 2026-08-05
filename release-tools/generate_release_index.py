@@ -96,6 +96,7 @@ def parse_record(path: Path) -> dict[str, Any] | None:
 
     archive_uploaded = metadata.get("Internet Archive uploaded", "False").lower() == "true"
     archive_identifier = metadata.get("Internet Archive identifier", "").strip("`")
+    archive_bundle = metadata.get("Internet Archive bundle", "").strip()
     if archive_uploaded and not archive_identifier:
         raise ValueError(f"{path}: Internet Archive is marked uploaded but has no identifier")
     archive: dict[str, str] | None = None
@@ -103,7 +104,12 @@ def parse_record(path: Path) -> dict[str, Any] | None:
         archive = {
             "identifier": archive_identifier,
             "itemUrl": metadata.get("Internet Archive item", archive_item_url(archive_identifier)),
+            "directFiles": "true",
         }
+    if archive_bundle:
+        if archive is None:
+            archive = {}
+        archive["bundleUrl"] = archive_bundle
 
     return {
         "tag": metadata["Tag"].strip("`"),
@@ -139,9 +145,14 @@ def published_records(records_dir: Path) -> list[dict[str, Any]]:
 
 def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
     archive = record["internetArchive"]
-    archive_platform = [{"provider": "internetArchive", **archive}] if archive is not None else []
+    archive_platform = (
+        [{"provider": "internetArchive", **{key: value for key, value in archive.items() if key != "directFiles"}}]
+        if archive is not None
+        else []
+    )
+    archive_has_direct_files = archive is not None and archive.get("directFiles") == "true"
     return {
-        "schemaVersion": 3,
+        "schemaVersion": 4,
         "generatedAt": generated_at,
         "tag": record["tag"],
         "title": record["title"],
@@ -163,7 +174,7 @@ def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
                     "githubRelease": track["audioUrl"],
                     "mirrors": (
                         [{"provider": "internetArchive", "url": archive_download_url(archive["identifier"], track["name"])}]
-                        if archive is not None
+                        if archive_has_direct_files
                         else []
                     ),
                 },
@@ -179,7 +190,7 @@ def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
                                 for extension in track["sidecars"]["githubRaw"]
                             }
                         }
-                        if archive is not None
+                        if archive_has_direct_files
                         else {}
                     ),
                 },
@@ -192,7 +203,7 @@ def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
 def master_index(records: list[dict[str, Any]], generated_at: str) -> dict[str, Any]:
     repositories = {record["repository"] for record in records}
     return {
-        "schemaVersion": 3,
+        "schemaVersion": 4,
         "generatedAt": generated_at,
         "repository": repositories.pop() if len(repositories) == 1 else None,
         "releases": [
@@ -211,7 +222,16 @@ def master_index(records: list[dict[str, Any]], generated_at: str) -> dict[str, 
                 "platforms": {
                     "githubRelease": {"releaseUrl": record["releaseUrl"]},
                     "mirrors": (
-                        [{"provider": "internetArchive", **record["internetArchive"]}]
+                        [
+                            {
+                                "provider": "internetArchive",
+                                **{
+                                    key: value
+                                    for key, value in record["internetArchive"].items()
+                                    if key != "directFiles"
+                                },
+                            }
+                        ]
                         if record["internetArchive"] is not None
                         else []
                     ),

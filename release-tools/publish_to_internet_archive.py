@@ -479,15 +479,22 @@ def put_file_pycurl(*, identifier: str, path: Path, headers: dict[str, str], ret
 
 
 def update_record(root: Path, tag: str, identifier: str) -> None:
+    update_record_metadata(
+        root,
+        tag,
+        {
+            "Internet Archive identifier": f"`{identifier}`",
+            "Internet Archive item": item_url(identifier),
+            "Internet Archive uploaded": "True",
+        },
+    )
+
+
+def update_record_metadata(root: Path, tag: str, replacements: dict[str, str]) -> None:
     path = root / "release-records" / f"{tag}.md"
     if not path.is_file():
         raise SystemExit(f"Release record not found: {path}")
     lines = path.read_text(encoding="utf-8").splitlines()
-    replacements = {
-        "Internet Archive identifier": f"`{identifier}`",
-        "Internet Archive item": item_url(identifier),
-        "Internet Archive uploaded": "True",
-    }
     seen: set[str] = set()
     for index, line in enumerate(lines):
         for key, value in replacements.items():

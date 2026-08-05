@@ -7,6 +7,7 @@ import argparse
 import sys
 import zipfile
 from pathlib import Path
+from urllib.parse import quote
 
 import publish_to_internet_archive as ia
 
@@ -14,10 +15,13 @@ import publish_to_internet_archive as ia
 def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(description="Upload a complete package ZIP beside IA's per-file mirror.")
     parser.add_argument("--tag", required=True)
-    parser.add_argument("--credentials-file", type=Path, required=True)
+    parser.add_argument("--credentials-file", type=Path, help="Private JSON credentials file outside the repository.")
     parser.add_argument("--artifact-dir", type=Path, required=True, help="Directory outside the repository.")
     parser.add_argument("--retries", type=int, default=10)
+    parser.add_argument("--verify-only", action="store_true", help="Check the remote ZIP without uploading it.")
     args = parser.parse_args(argv)
+    if not args.verify_only and args.credentials_file is None:
+        parser.error("--credentials-file is required unless --verify-only is used")
     root = ia.repository_root()
     entry = ia.load_plan_entry(root, args.tag)
     _, _, files = ia.resolve_package(root, entry)
@@ -29,7 +33,8 @@ def main(argv: list[str]) -> int:
             archive.write(path, arcname=path.name)
     identifier = f"reciter-{args.tag}"
     remote = ia.remote_sizes(identifier)
-    if remote.get(bundle.name) != bundle.stat().st_size:
+    if remote.get(bundle.name) != bundle.stat().st_size and not args.verify_only:
+        assert args.credentials_file is not None
         access_key, secret_key = ia.load_credentials(args.credentials_file)
         ia.put_file_pycurl(
             identifier=identifier,
@@ -48,6 +53,11 @@ def main(argv: list[str]) -> int:
     missing = ia.wait_for_files(identifier, [bundle], 600, 15)
     if missing:
         raise SystemExit(f"Bundle verification incomplete: {bundle.name}")
+    bundle_url = (
+        f"https://archive.org/download/{quote(identifier, safe='')}/"
+        f"{quote(bundle.name, safe='')}"
+    )
+    ia.update_record_metadata(root, args.tag, {"Internet Archive bundle": bundle_url})
     print(f"Verified bundle: {ia.item_url(identifier)} {bundle.name}")
     return 0
 

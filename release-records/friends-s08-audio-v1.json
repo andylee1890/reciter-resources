@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "generatedAt": "2026-08-03T21:41:00.242735Z",
   "tag": "friends-s08-audio-v1",
   "title": "Friends Season 08 Audio v1",
@@ -11,7 +11,12 @@
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s08-audio-v1"
     },
-    "mirrors": []
+    "mirrors": [
+      {
+        "provider": "internetArchive",
+        "bundleUrl": "https://archive.org/download/reciter-friends-s08-audio-v1/friends-s08-audio-v1.zip"
+      }
+    ]
   },
   "audioCount": 24,
   "totalSizeMiB": 482.66,
