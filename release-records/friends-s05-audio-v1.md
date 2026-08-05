@@ -1,4 +1,5 @@
 # Friends Season 05 Audio v1
+- Internet Archive bundle: https://archive.org/download/reciter-friends-s05-audio-v1/friends-s05-audio-v1.zip
 
 - Tag: `friends-s05-audio-v1`
 - Repo: `andylee1890/reciter-resources`
