@@ -11,7 +11,12 @@
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s03-audio-v1"
     },
-    "mirrors": []
+    "mirrors": [
+      {
+        "provider": "internetArchive",
+        "bundleUrl": "https://archive.org/download/reciter-the-big-bang-theory-s03-audio-v1/the-big-bang-theory-s03-audio-v1.zip"
+      }
+    ]
   },
   "audioCount": 23,
   "totalSizeMiB": 216.61,
