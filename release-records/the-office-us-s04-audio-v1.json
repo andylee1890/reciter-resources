@@ -11,7 +11,12 @@
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s04-audio-v1"
     },
-    "mirrors": []
+    "mirrors": [
+      {
+        "provider": "internetArchive",
+        "bundleUrl": "https://archive.org/download/reciter-the-office-us-s04-audio-v1/the-office-us-s04-audio-v1.zip"
+      }
+    ]
   },
   "audioCount": 14,
   "totalSizeMiB": 370.96,
