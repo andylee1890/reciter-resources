@@ -1,6 +1,6 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-05T10:19:27.077755Z",
+  "generatedAt": "2026-08-05T10:31:51.586674Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -494,7 +494,12 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s01-audio-v1"
         },
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "bundleUrl": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/the-office-us-s01-audio-v1.zip"
+          }
+        ]
       }
     },
     {
