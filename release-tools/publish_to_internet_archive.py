@@ -414,6 +414,7 @@ def put_file_pycurl_multipart(*, identifier: str, path: Path, headers: dict[str,
             if not etag:
                 raise SystemExit(f"Multipart upload did not return an ETag for {path.name} part {part_number}")
             parts.append((part_number, etag))
+            print(f"{path.name}: uploaded part {part_number}", flush=True)
             part_number += 1
     complete_body = "<CompleteMultipartUpload>" + "".join(
         f"<Part><PartNumber>{number}</PartNumber><ETag>{html.escape(etag)}</ETag></Part>"
