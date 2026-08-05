@@ -1,6 +1,6 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-05T10:05:01.352944Z",
+  "generatedAt": "2026-08-05T10:19:27.077755Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -299,7 +299,8 @@
           {
             "provider": "internetArchive",
             "identifier": "reciter-new-concept-english-4-us-audio-v1",
-            "itemUrl": "https://archive.org/details/reciter-new-concept-english-4-us-audio-v1"
+            "itemUrl": "https://archive.org/details/reciter-new-concept-english-4-us-audio-v1",
+            "bundleUrl": "https://archive.org/download/reciter-new-concept-english-4-us-audio-v1/new-concept-english-4-us-audio-v1.zip"
           }
         ]
       }
