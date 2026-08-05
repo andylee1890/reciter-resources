@@ -145,6 +145,15 @@ python release-tools/publish_all_to_internet_archive.py \
 
 `--push` 会在每个资料包完成远端逐文件校验后，仅提交该资料包记录、明细 JSON 和主索引，再推送到当前 Git remote。网络中断后直接重跑同一命令即可继续；用 `--dry-run` 查看剩余队列，或用 `--tag <tag>` 只处理指定资料包。
 
+`publish_all_ia_bundles.py` 是完整 ZIP 镜像的顺序队列。它只处理发布记录中尚未有 `Internet Archive bundle` 的计划项；每个 ZIP 都含音频和对应 `.srt`、`.lrc`、`.rec`、`.recx`，远端字节校验成功后才更新索引。以 `--push` 运行时，每包完成后都会提交并推送，网络中断后直接重跑即可跳过已完成的包。
+
+```bash
+python release-tools/publish_all_ia_bundles.py \
+  --credentials-file /private/path/ia-credentials.json \
+  --artifact-dir /artifact/path \
+  --push
+```
+
 ## 资料包清单
 
 `release-plan.json` 保存资料目录、Release tag 和标题，是整批发布及 AI 协作时使用的公开清单；它不包含本机账号、浏览器配置、SSH 别名或其他私有环境信息。

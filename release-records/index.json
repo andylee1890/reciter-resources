@@ -1,6 +1,6 @@
 {
   "schemaVersion": 4,
-  "generatedAt": "2026-08-05T08:56:09.813369Z",
+  "generatedAt": "2026-08-05T09:27:27.192630Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -200,7 +200,12 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s10-audio-v1"
         },
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "bundleUrl": "https://archive.org/download/reciter-friends-s10-audio-v1/friends-s10-audio-v1.zip"
+          }
+        ]
       }
     },
     {
