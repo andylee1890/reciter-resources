@@ -15,7 +15,8 @@
       {
         "provider": "internetArchive",
         "identifier": "reciter-new-concept-english-3-us-audio-v1",
-        "itemUrl": "https://archive.org/details/reciter-new-concept-english-3-us-audio-v1"
+        "itemUrl": "https://archive.org/details/reciter-new-concept-english-3-us-audio-v1",
+        "bundleUrl": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/new-concept-english-3-us-audio-v1.zip"
       }
     ]
   },

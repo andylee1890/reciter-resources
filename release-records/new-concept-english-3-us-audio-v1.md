@@ -2,6 +2,7 @@
 - Internet Archive identifier: `reciter-new-concept-english-3-us-audio-v1`
 - Internet Archive item: https://archive.org/details/reciter-new-concept-english-3-us-audio-v1
 - Internet Archive uploaded: True
+- Internet Archive bundle: https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/new-concept-english-3-us-audio-v1.zip
 
 - Tag: `new-concept-english-3-us-audio-v1`
 - Repo: `andylee1890/reciter-resources`
