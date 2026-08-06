@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "generatedAt": "2026-08-06T20:35:29.450542Z",
+  "generatedAt": "2026-08-06T21:03:59.453170Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -324,7 +324,13 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s01-audio-v1"
         },
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "identifier": "reciter-the-big-bang-theory-s01-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-the-big-bang-theory-s01-audio-v1"
+          }
+        ]
       }
     },
     {
