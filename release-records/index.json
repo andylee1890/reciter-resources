@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "generatedAt": "2026-08-06T18:42:16.398284Z",
+  "generatedAt": "2026-08-06T19:49:04.900145Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -670,7 +670,13 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s09-audio-v1"
         },
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "identifier": "reciter-the-office-us-s09-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-the-office-us-s09-audio-v1"
+          }
+        ]
       }
     },
     {
