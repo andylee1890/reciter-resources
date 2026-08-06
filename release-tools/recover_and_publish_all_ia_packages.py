@@ -59,6 +59,12 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
         default=900,
         help="Maximum Archive metadata-ingestion wait after each package, default: %(default)s",
     )
+    parser.add_argument(
+        "--metadata-verification-attempts",
+        type=int,
+        default=8,
+        help="Additional verification-only attempts after a completed upload awaits metadata, default: %(default)s",
+    )
     parser.add_argument("--direct", action="store_true", help="Bypass HTTP(S) proxy variables for Internet Archive operations.")
     parser.add_argument("--delay-seconds", type=int, default=30, help="Pause between completed packages, default: %(default)s")
     parser.add_argument("--push", action="store_true", help="Commit and push each package after remote file verification.")
@@ -66,8 +72,13 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     args = parser.parse_args(argv)
     if args.limit is not None and args.limit <= 0:
         parser.error("--limit must be positive")
-    if args.retries < 0 or args.delay_seconds < 0 or args.verify_wait_seconds < 0:
-        parser.error("--retries, --delay-seconds, and --verify-wait-seconds must be non-negative")
+    if (
+        args.retries < 0
+        or args.delay_seconds < 0
+        or args.verify_wait_seconds < 0
+        or args.metadata_verification_attempts < 0
+    ):
+        parser.error("retry, delay, metadata wait, and verification attempt values must be non-negative")
     return args
 
 
@@ -92,6 +103,7 @@ def main(argv: list[str]) -> int:
     if args.push:
         subprocess.run(["git", "push"], cwd=root, check=True)
     recovery = root / "release-tools" / "recover_and_publish_ia_package.py"
+    verifier = root / "release-tools" / "publish_to_internet_archive.py"
     for index, entry in enumerate(pending, start=1):
         command = [
             sys.executable,
@@ -111,7 +123,36 @@ def main(argv: list[str]) -> int:
         if args.direct:
             command.append("--direct")
         print(f"\n[{index}/{len(pending)}] Publishing {entry['tag']}", flush=True)
-        subprocess.run(command, cwd=root, check=True)
+        result = subprocess.run(command, cwd=root).returncode
+        if result == 2:
+            verify_command = [
+                sys.executable,
+                "-u",
+                str(verifier),
+                "--tag",
+                entry["tag"],
+                "--source-folder",
+                str(args.staging_dir / entry["tag"]),
+                "--verify-only",
+                "--verify-wait-seconds",
+                str(args.verify_wait_seconds),
+            ]
+            if args.direct:
+                verify_command.append("--direct")
+            for verification_attempt in range(1, args.metadata_verification_attempts + 1):
+                print(
+                    f"Metadata is pending for {entry['tag']}; verification-only attempt "
+                    f"{verification_attempt}/{args.metadata_verification_attempts}.",
+                    flush=True,
+                )
+                if subprocess.run(verify_command, cwd=root).returncode == 0:
+                    result = 0
+                    break
+                if verification_attempt < args.metadata_verification_attempts and args.delay_seconds:
+                    print(f"Waiting {args.delay_seconds}s before the next metadata check.", flush=True)
+                    time.sleep(args.delay_seconds)
+        if result != 0:
+            raise SystemExit(f"Publishing {entry['tag']} failed with exit code {result}")
         if args.push:
             push_record(root, entry["tag"])
         if index < len(pending) and args.delay_seconds:
