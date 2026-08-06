@@ -11,7 +11,13 @@
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/yes-prime-minister-audio-v1"
     },
-    "mirrors": []
+    "mirrors": [
+      {
+        "provider": "internetArchive",
+        "identifier": "reciter-yes-prime-minister-audio-v1",
+        "itemUrl": "https://archive.org/details/reciter-yes-prime-minister-audio-v1"
+      }
+    ]
   },
   "audioCount": 16,
   "totalSizeMiB": 217.18,
@@ -21,7 +27,12 @@
       "sizeMiB": 13.57,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-prime-minister-audio-v1/Yes.Prime.Minister.S01E01.The.Grand.Design.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E01%20The%20Grand%20Design.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -33,6 +44,11 @@
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S01E01%20The%20Grand%20Design.srt",
           "lrc": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S01E01%20The%20Grand%20Design.lrc",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S01E01%20The%20Grand%20Design.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E01%20The%20Grand%20Design.srt",
+          "lrc": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E01%20The%20Grand%20Design.lrc",
+          "rec": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E01%20The%20Grand%20Design.rec"
         }
       }
     },
@@ -41,7 +57,12 @@
       "sizeMiB": 13.52,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-prime-minister-audio-v1/Yes.Prime.Minister.S01E02.The.Ministerial.Broadcast.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E02%20The%20Ministerial%20Broadcast.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -51,6 +72,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S01E02%20The%20Ministerial%20Broadcast.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S01E02%20The%20Ministerial%20Broadcast.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E02%20The%20Ministerial%20Broadcast.srt",
+          "rec": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E02%20The%20Ministerial%20Broadcast.rec"
         }
       }
     },
@@ -59,7 +84,12 @@
       "sizeMiB": 13.54,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-prime-minister-audio-v1/Yes.Prime.Minister.S01E03.The.Smoke.Screen.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E03%20The%20Smoke%20Screen.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -69,6 +99,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S01E03%20The%20Smoke%20Screen.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S01E03%20The%20Smoke%20Screen.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E03%20The%20Smoke%20Screen.srt",
+          "rec": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E03%20The%20Smoke%20Screen.rec"
         }
       }
     },
@@ -77,7 +111,12 @@
       "sizeMiB": 13.51,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-prime-minister-audio-v1/Yes.Prime.Minister.S01E04.The.Key.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E04%20The%20Key.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -87,6 +126,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S01E04%20The%20Key.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S01E04%20The%20Key.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E04%20The%20Key.srt",
+          "rec": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E04%20The%20Key.rec"
         }
       }
     },
@@ -95,7 +138,12 @@
       "sizeMiB": 13.74,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-prime-minister-audio-v1/Yes.Prime.Minister.S01E05.A.Real.Partnership.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E05%20A%20Real%20Partnership.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -105,6 +153,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S01E05%20A%20Real%20Partnership.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S01E05%20A%20Real%20Partnership.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E05%20A%20Real%20Partnership.srt",
+          "rec": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E05%20A%20Real%20Partnership.rec"
         }
       }
     },
@@ -113,7 +165,12 @@
       "sizeMiB": 13.86,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-prime-minister-audio-v1/Yes.Prime.Minister.S01E06.A.Victory.For.Democracy.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E06%20A%20Victory%20For%20Democracy.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -123,6 +180,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S01E06%20A%20Victory%20For%20Democracy.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S01E06%20A%20Victory%20For%20Democracy.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E06%20A%20Victory%20For%20Democracy.srt",
+          "rec": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E06%20A%20Victory%20For%20Democracy.rec"
         }
       }
     },
@@ -131,7 +192,12 @@
       "sizeMiB": 13.93,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-prime-minister-audio-v1/Yes.Prime.Minister.S01E07.The.Bishops.Gambit.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E07%20The%20Bishops%20Gambit.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -141,6 +207,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S01E07%20The%20Bishops%20Gambit.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S01E07%20The%20Bishops%20Gambit.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E07%20The%20Bishops%20Gambit.srt",
+          "rec": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E07%20The%20Bishops%20Gambit.rec"
         }
       }
     },
@@ -149,7 +219,12 @@
       "sizeMiB": 13.56,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-prime-minister-audio-v1/Yes.Prime.Minister.S01E08.One.Of.Us.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E08%20One%20Of%20Us.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -159,6 +234,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S01E08%20One%20Of%20Us.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S01E08%20One%20Of%20Us.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E08%20One%20Of%20Us.srt",
+          "rec": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S01E08%20One%20Of%20Us.rec"
         }
       }
     },
@@ -167,7 +246,12 @@
       "sizeMiB": 13.78,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-prime-minister-audio-v1/Yes.Prime.Minister.S02E01.Man.Overboard.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E01%20Man%20Overboard.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -177,6 +261,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S02E01%20Man%20Overboard.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S02E01%20Man%20Overboard.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E01%20Man%20Overboard.srt",
+          "rec": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E01%20Man%20Overboard.rec"
         }
       }
     },
@@ -185,7 +273,12 @@
       "sizeMiB": 13.8,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-prime-minister-audio-v1/Yes.Prime.Minister.S02E02.Official.Secrets.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E02%20Official%20Secrets.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -195,6 +288,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S02E02%20Official%20Secrets.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S02E02%20Official%20Secrets.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E02%20Official%20Secrets.srt",
+          "rec": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E02%20Official%20Secrets.rec"
         }
       }
     },
@@ -203,7 +300,12 @@
       "sizeMiB": 12.93,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-prime-minister-audio-v1/Yes.Prime.Minister.S02E03.A.Diplomatic.Incident.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E03%20A%20Diplomatic%20Incident.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -213,6 +315,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S02E03%20A%20Diplomatic%20Incident.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S02E03%20A%20Diplomatic%20Incident.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E03%20A%20Diplomatic%20Incident.srt",
+          "rec": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E03%20A%20Diplomatic%20Incident.rec"
         }
       }
     },
@@ -221,7 +327,12 @@
       "sizeMiB": 13.76,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-prime-minister-audio-v1/Yes.Prime.Minister.S02E04.A.Conflict.Of.Interest.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E04%20A%20Conflict%20Of%20Interest.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -231,6 +342,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S02E04%20A%20Conflict%20Of%20Interest.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S02E04%20A%20Conflict%20Of%20Interest.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E04%20A%20Conflict%20Of%20Interest.srt",
+          "rec": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E04%20A%20Conflict%20Of%20Interest.rec"
         }
       }
     },
@@ -239,7 +354,12 @@
       "sizeMiB": 14.0,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-prime-minister-audio-v1/Yes.Prime.Minister.S02E05.Power.To.The.People.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E05%20Power%20To%20The%20People.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -249,6 +369,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S02E05%20Power%20To%20The%20People.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S02E05%20Power%20To%20The%20People.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E05%20Power%20To%20The%20People.srt",
+          "rec": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E05%20Power%20To%20The%20People.rec"
         }
       }
     },
@@ -257,7 +381,12 @@
       "sizeMiB": 12.9,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-prime-minister-audio-v1/Yes.Prime.Minister.S02E06.The.Patron.Of.The.Arts.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E06%20The%20Patron%20Of%20The%20Arts.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -267,6 +396,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S02E06%20The%20Patron%20Of%20The%20Arts.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S02E06%20The%20Patron%20Of%20The%20Arts.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E06%20The%20Patron%20Of%20The%20Arts.srt",
+          "rec": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E06%20The%20Patron%20Of%20The%20Arts.rec"
         }
       }
     },
@@ -275,7 +408,12 @@
       "sizeMiB": 13.78,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-prime-minister-audio-v1/Yes.Prime.Minister.S02E07.The.National.Education.Service.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E07%20The%20National%20Education%20Service.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -285,6 +423,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S02E07%20The%20National%20Education%20Service.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S02E07%20The%20National%20Education%20Service.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E07%20The%20National%20Education%20Service.srt",
+          "rec": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E07%20The%20National%20Education%20Service.rec"
         }
       }
     },
@@ -293,7 +435,12 @@
       "sizeMiB": 13.0,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/yes-prime-minister-audio-v1/Yes.Prime.Minister.S02E08.The.Tangled.Web.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E08%20The%20Tangled%20Web.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -303,6 +450,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S02E08%20The%20Tangled%20Web.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E5%A4%A7%E8%87%A3%E9%A6%96%E7%9B%B8-%E6%98%AF%E9%A6%96%E7%9B%B8/Yes%20Prime%20Minister%20S02E08%20The%20Tangled%20Web.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E08%20The%20Tangled%20Web.srt",
+          "rec": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/Yes%20Prime%20Minister%20S02E08%20The%20Tangled%20Web.rec"
         }
       }
     }

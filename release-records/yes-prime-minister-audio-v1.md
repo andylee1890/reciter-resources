@@ -1,4 +1,7 @@
 # Yes Prime Minister Audio v1
+- Internet Archive identifier: `reciter-yes-prime-minister-audio-v1`
+- Internet Archive item: https://archive.org/details/reciter-yes-prime-minister-audio-v1
+- Internet Archive uploaded: True
 
 - Tag: `yes-prime-minister-audio-v1`
 - Repo: `andylee1890/reciter-resources`
