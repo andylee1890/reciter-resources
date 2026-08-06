@@ -10,7 +10,6 @@
 - Dry run: False
 - Published: True
 - Release: https://github.com/andylee1890/reciter-resources/releases/tag/friends-s07-audio-v1
-- Internet Archive bundle: https://archive.org/download/reciter-friends-s07-audio-v1/friends-s07-audio-v1.zip
 
 ## Link Bases
 

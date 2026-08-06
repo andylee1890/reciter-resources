@@ -73,7 +73,7 @@ python release-tools/publish_season_release.py \
 ## 索引生成
 
 `generate_release_index.py` 从 `release-records/*.md` 生成站点可直接消费的 `release-records/index.json`，以及每个已发布资料包的 `release-records/<tag>.json`。
-它只收录 `Published: True` 的记录。主索引只列资料包摘要和明细文件名；每个资料包 JSON 保留音频的 GitHub Release 地址、镜像数组、GitHub Raw sidecar 和 jsDelivr sidecar 链接。只有远端逐文件校验通过的 Internet Archive 条目才会进入 `platforms.mirrors` 和每首音频的 `audio.mirrors`。ZIP 归档不会进入播放镜像字段，避免前端把 ZIP 误当作 MP3 直链。
+它只收录 `Published: True` 的记录。主索引只列资料包摘要和明细文件名；每个资料包 JSON 保留音频的 GitHub Release 地址、镜像数组、GitHub Raw sidecar 和 jsDelivr sidecar 链接。只有远端逐文件校验通过的 Internet Archive 条目才会进入 `platforms.mirrors` 和每首音频的 `audio.mirrors`。
 
 ```bash
 python release-tools/generate_release_index.py
@@ -81,27 +81,11 @@ python release-tools/generate_release_index.py
 
 每次新增、撤回或修改发布记录后，都应重新生成并提交该索引。
 
-## Internet Archive 完整资料包镜像
+## Internet Archive 逐文件镜像
 
 `publish_to_internet_archive.py` 把一个 `release-plan.json` 资料包的 `.mp3`、`.srt`、`.lrc`、`.rec`、`.recx` 一起上传为一个 Internet Archive item。默认 identifier 是 `reciter-<tag>`；GitHub Raw 和 jsDelivr 链接继续保留为文本 sidecar 的备用入口。
 
-对于大资料包，`publish_ia_bundle.py` 可在同一个 IA item 上传 ZIP 作为归档备份。ZIP 不属于网页逐条播放资源，也不会被索引生成器写入播放镜像；网页播放应使用 `publish_to_internet_archive.py` 上传并校验每个 MP3 文件后生成的逐文件直链。临时 ZIP 只能保存在仓库外的 artifact 目录。
-
-```bash
-python release-tools/publish_ia_bundle.py \
-  --tag friends-s09-audio-v1 \
-  --credentials-file /private/path/ia-credentials.json \
-  --artifact-dir /artifact/path
-```
-
-元数据入库延迟时，使用 `--verify-only` 只检查已上传 ZIP，绝不重传也不重建已有 ZIP：
-
-```bash
-python release-tools/publish_ia_bundle.py \
-  --tag friends-s09-audio-v1 \
-  --artifact-dir /artifact/path \
-  --verify-only
-```
+Archive 条目只允许逐文件上传。每个 `.mp3`、`.srt`、`.lrc`、`.rec`、`.recx` 都必须有可引用的 Archive 直链；不使用压缩包作为发布或播放交付方式。
 
 安装官方 Python 客户端：
 
@@ -144,15 +128,6 @@ python release-tools/publish_all_to_internet_archive.py \
 ```
 
 `--push` 会在每个资料包完成远端逐文件校验后，仅提交该资料包记录、明细 JSON 和主索引，再推送到当前 Git remote。网络中断后直接重跑同一命令即可继续；用 `--dry-run` 查看剩余队列，或用 `--tag <tag>` 只处理指定资料包。
-
-`publish_all_ia_bundles.py` 是完整 ZIP 镜像的顺序队列。它只处理发布记录中尚未有 `Internet Archive bundle` 的计划项；每个 ZIP 都含音频和对应 `.srt`、`.lrc`、`.rec`、`.recx`，远端字节校验成功后才更新索引。以 `--push` 运行时，每包完成后都会提交并推送，网络中断后直接重跑即可跳过已完成的包。
-
-```bash
-python release-tools/publish_all_ia_bundles.py \
-  --credentials-file /private/path/ia-credentials.json \
-  --artifact-dir /artifact/path \
-  --push
-```
 
 ## 资料包清单
 

@@ -1,5 +1,4 @@
 # The Office US Season 02 Audio v1
-- Internet Archive bundle: https://archive.org/download/reciter-the-office-us-s02-audio-v1/the-office-us-s02-audio-v1.zip
 - Internet Archive identifier: `reciter-the-office-us-s02-audio-v1`
 - Internet Archive item: https://archive.org/details/reciter-the-office-us-s02-audio-v1
 - Internet Archive uploaded: True

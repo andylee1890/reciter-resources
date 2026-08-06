@@ -1,5 +1,4 @@
 # Friends Season 09 Audio v1
-- Internet Archive bundle: https://archive.org/download/reciter-friends-s09-audio-v1/friends-s09-audio-v1.zip
 
 - Tag: `friends-s09-audio-v1`
 - Repo: `andylee1890/reciter-resources`

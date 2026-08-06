@@ -321,7 +321,7 @@ def pycurl_request(
             client.setopt(pycurl.UPLOAD, 1)
             client.setopt(pycurl.INFILESIZE_LARGE, len(body))
             client.setopt(pycurl.READDATA, io.BytesIO(body))
-        else:
+        elif method == "POST":
             client.setopt(pycurl.POST, 1)
             client.setopt(pycurl.POSTFIELDS, body)
         client.perform()
@@ -477,6 +477,22 @@ def put_file_pycurl(*, identifier: str, path: Path, headers: dict[str, str], ret
         finally:
             client.close()
         time.sleep(delay)
+
+
+def delete_file_pycurl(*, identifier: str, filename: str, access_key: str, secret_key: str, retries: int) -> None:
+    """Delete one exact IA file through the same direct transport as uploads."""
+    target = f"https://{ARCHIVE_HOST}/{quote_component(identifier)}/{quote_component(filename)}"
+    pycurl_request_with_retries(
+        label=f"Delete {identifier}/{filename}",
+        url=target,
+        method="DELETE",
+        headers=[
+            f"Authorization: LOW {access_key}:{secret_key}",
+            "x-archive-cascade-delete: 0",
+        ],
+        body=b"",
+        retries=retries,
+    )
 
 
 def update_record(root: Path, tag: str, identifier: str) -> None:

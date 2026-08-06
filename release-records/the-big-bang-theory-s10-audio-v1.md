@@ -1,5 +1,4 @@
 # The Big Bang Theory Season 10 Audio v1
-- Internet Archive bundle: https://archive.org/download/reciter-the-big-bang-theory-s10-audio-v1/the-big-bang-theory-s10-audio-v1.zip
 
 - Tag: `the-big-bang-theory-s10-audio-v1`
 - Repo: `andylee1890/reciter-resources`
