@@ -11,7 +11,13 @@
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s05-audio-v1"
     },
-    "mirrors": []
+    "mirrors": [
+      {
+        "provider": "internetArchive",
+        "identifier": "reciter-the-office-us-s05-audio-v1",
+        "itemUrl": "https://archive.org/details/reciter-the-office-us-s05-audio-v1"
+      }
+    ]
   },
   "audioCount": 26,
   "totalSizeMiB": 556.41,
@@ -21,7 +27,12 @@
       "sizeMiB": 38.48,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E01.Weight.Loss.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E01%20Weight%20Loss.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -31,6 +42,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E01%20Weight%20Loss.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E01%20Weight%20Loss.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E01%20Weight%20Loss.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E01%20Weight%20Loss.recx"
         }
       }
     },
@@ -39,7 +54,12 @@
       "sizeMiB": 19.83,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E02.Business.Ethics.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E02%20Business%20Ethics.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -49,6 +69,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E02%20Business%20Ethics.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E02%20Business%20Ethics.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E02%20Business%20Ethics.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E02%20Business%20Ethics.recx"
         }
       }
     },
@@ -57,7 +81,12 @@
       "sizeMiB": 19.79,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E03.Baby.Shower.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E03%20Baby%20Shower.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -67,6 +96,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E03%20Baby%20Shower.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E03%20Baby%20Shower.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E03%20Baby%20Shower.srt",
+          "rec": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E03%20Baby%20Shower.rec"
         }
       }
     },
@@ -75,7 +108,12 @@
       "sizeMiB": 19.79,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E04.Crime.Aid.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E04%20Crime%20Aid.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -85,6 +123,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E04%20Crime%20Aid.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E04%20Crime%20Aid.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E04%20Crime%20Aid.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E04%20Crime%20Aid.recx"
         }
       }
     },
@@ -93,7 +135,12 @@
       "sizeMiB": 19.81,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E05.Employee.Transfer.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E05%20Employee%20Transfer.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -103,6 +150,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E05%20Employee%20Transfer.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E05%20Employee%20Transfer.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E05%20Employee%20Transfer.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E05%20Employee%20Transfer.recx"
         }
       }
     },
@@ -111,7 +162,12 @@
       "sizeMiB": 19.96,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E06.Customer.Survey.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E06%20Customer%20Survey.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -121,6 +177,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E06%20Customer%20Survey.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E06%20Customer%20Survey.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E06%20Customer%20Survey.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E06%20Customer%20Survey.recx"
         }
       }
     },
@@ -129,7 +189,12 @@
       "sizeMiB": 19.84,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E07.Business.Trip.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E07%20Business%20Trip.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -139,6 +204,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E07%20Business%20Trip.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E07%20Business%20Trip.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E07%20Business%20Trip.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E07%20Business%20Trip.recx"
         }
       }
     },
@@ -147,7 +216,12 @@
       "sizeMiB": 23.64,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E08.Frame.Toby.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E08%20Frame%20Toby.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -157,6 +231,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E08%20Frame%20Toby.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E08%20Frame%20Toby.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E08%20Frame%20Toby.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E08%20Frame%20Toby.recx"
         }
       }
     },
@@ -165,7 +243,12 @@
       "sizeMiB": 20.02,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E09.The.Surplus.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E09%20The%20Surplus.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -175,6 +258,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E09%20The%20Surplus.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E09%20The%20Surplus.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E09%20The%20Surplus.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E09%20The%20Surplus.recx"
         }
       }
     },
@@ -183,7 +270,12 @@
       "sizeMiB": 19.82,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E10.Moroccan.Christmas.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E10%20Moroccan%20Christmas.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -193,6 +285,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E10%20Moroccan%20Christmas.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E10%20Moroccan%20Christmas.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E10%20Moroccan%20Christmas.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E10%20Moroccan%20Christmas.recx"
         }
       }
     },
@@ -201,7 +297,12 @@
       "sizeMiB": 19.81,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E11.The.Duel.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E11%20The%20Duel.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -211,6 +312,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E11%20The%20Duel.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E11%20The%20Duel.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E11%20The%20Duel.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E11%20The%20Duel.recx"
         }
       }
     },
@@ -219,7 +324,12 @@
       "sizeMiB": 19.83,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E12.Prince.Family.Paper.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E12%20Prince%20Family%20Paper.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -229,6 +339,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E12%20Prince%20Family%20Paper.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E12%20Prince%20Family%20Paper.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E12%20Prince%20Family%20Paper.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E12%20Prince%20Family%20Paper.recx"
         }
       }
     },
@@ -237,7 +351,12 @@
       "sizeMiB": 38.08,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E13.Stress.Relief.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E13%20Stress%20Relief.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -247,6 +366,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E13%20Stress%20Relief.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E13%20Stress%20Relief.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E13%20Stress%20Relief.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E13%20Stress%20Relief.recx"
         }
       }
     },
@@ -255,7 +378,12 @@
       "sizeMiB": 19.83,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E14.Lecture.Circuit.Part.1.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E14%20Lecture%20Circuit%20Part%201.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -265,6 +393,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E14%20Lecture%20Circuit%20Part%201.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E14%20Lecture%20Circuit%20Part%201.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E14%20Lecture%20Circuit%20Part%201.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E14%20Lecture%20Circuit%20Part%201.recx"
         }
       }
     },
@@ -273,7 +405,12 @@
       "sizeMiB": 20.05,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E15.Lecture.Circuit.Part.2.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E15%20Lecture%20Circuit%20Part%202.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -283,6 +420,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E15%20Lecture%20Circuit%20Part%202.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E15%20Lecture%20Circuit%20Part%202.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E15%20Lecture%20Circuit%20Part%202.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E15%20Lecture%20Circuit%20Part%202.recx"
         }
       }
     },
@@ -291,7 +432,12 @@
       "sizeMiB": 19.83,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E16.Blood.Drive.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E16%20Blood%20Drive.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -301,6 +447,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E16%20Blood%20Drive.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E16%20Blood%20Drive.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E16%20Blood%20Drive.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E16%20Blood%20Drive.recx"
         }
       }
     },
@@ -309,7 +459,12 @@
       "sizeMiB": 19.82,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E17.Golden.Ticket.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E17%20Golden%20Ticket.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -319,6 +474,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E17%20Golden%20Ticket.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E17%20Golden%20Ticket.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E17%20Golden%20Ticket.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E17%20Golden%20Ticket.recx"
         }
       }
     },
@@ -327,7 +486,12 @@
       "sizeMiB": 19.83,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E18.New.Boss.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E18%20New%20Boss.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -337,6 +501,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E18%20New%20Boss.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E18%20New%20Boss.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E18%20New%20Boss.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E18%20New%20Boss.recx"
         }
       }
     },
@@ -345,7 +513,12 @@
       "sizeMiB": 19.8,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E19.Two.Weeks.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E19%20Two%20Weeks.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -355,6 +528,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E19%20Two%20Weeks.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E19%20Two%20Weeks.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E19%20Two%20Weeks.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E19%20Two%20Weeks.recx"
         }
       }
     },
@@ -363,7 +540,12 @@
       "sizeMiB": 19.64,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E20.Dream.Team.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E20%20Dream%20Team.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -373,6 +555,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E20%20Dream%20Team.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E20%20Dream%20Team.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E20%20Dream%20Team.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E20%20Dream%20Team.recx"
         }
       }
     },
@@ -381,7 +567,12 @@
       "sizeMiB": 19.82,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E21.Michael.Scott.Paper.Company.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E21%20Michael%20Scott%20Paper%20Company.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -391,6 +582,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E21%20Michael%20Scott%20Paper%20Company.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E21%20Michael%20Scott%20Paper%20Company.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E21%20Michael%20Scott%20Paper%20Company.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E21%20Michael%20Scott%20Paper%20Company.recx"
         }
       }
     },
@@ -399,7 +594,12 @@
       "sizeMiB": 19.82,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E22.Heavy.Competition.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E22%20Heavy%20Competition.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -409,6 +609,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E22%20Heavy%20Competition.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E22%20Heavy%20Competition.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E22%20Heavy%20Competition.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E22%20Heavy%20Competition.recx"
         }
       }
     },
@@ -417,7 +621,12 @@
       "sizeMiB": 19.82,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E23.Broke.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E23%20Broke.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -427,6 +636,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E23%20Broke.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E23%20Broke.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E23%20Broke.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E23%20Broke.recx"
         }
       }
     },
@@ -435,7 +648,12 @@
       "sizeMiB": 19.82,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E24.Casual.Friday.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E24%20Casual%20Friday.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -445,6 +663,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E24%20Casual%20Friday.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E24%20Casual%20Friday.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E24%20Casual%20Friday.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E24%20Casual%20Friday.recx"
         }
       }
     },
@@ -453,7 +675,12 @@
       "sizeMiB": 19.83,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E25.Cafe.Disco.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E25%20Cafe%20Disco.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -463,6 +690,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E25%20Cafe%20Disco.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E25%20Cafe%20Disco.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E25%20Cafe%20Disco.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E25%20Cafe%20Disco.recx"
         }
       }
     },
@@ -471,7 +702,12 @@
       "sizeMiB": 19.82,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s05-audio-v1/The.Office.US.S05E26.Company.Picnic.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E26%20Company%20Picnic.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -481,6 +717,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E26%20Company%20Picnic.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS05/The%20Office%20US%20S05E26%20Company%20Picnic.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E26%20Company%20Picnic.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/The%20Office%20US%20S05E26%20Company%20Picnic.recx"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "generatedAt": "2026-08-06T15:50:43.127295Z",
+  "generatedAt": "2026-08-06T16:45:15.285718Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -588,7 +588,13 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s05-audio-v1"
         },
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "identifier": "reciter-the-office-us-s05-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-the-office-us-s05-audio-v1"
+          }
+        ]
       }
     },
     {
