@@ -11,7 +11,13 @@
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s10-audio-v1"
     },
-    "mirrors": []
+    "mirrors": [
+      {
+        "provider": "internetArchive",
+        "identifier": "reciter-friends-s10-audio-v1",
+        "itemUrl": "https://archive.org/details/reciter-friends-s10-audio-v1"
+      }
+    ]
   },
   "audioCount": 16,
   "totalSizeMiB": 380.29,
@@ -21,7 +27,12 @@
       "sizeMiB": 26.85,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s10-audio-v1/FriendsS10E01.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E01.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -31,6 +42,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E01.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E01.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E01.srt",
+          "recx": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E01.recx"
         }
       }
     },
@@ -39,7 +54,12 @@
       "sizeMiB": 21.97,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s10-audio-v1/FriendsS10E02.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E02.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -49,6 +69,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E02.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E02.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E02.srt",
+          "recx": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E02.recx"
         }
       }
     },
@@ -57,7 +81,12 @@
       "sizeMiB": 22.18,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s10-audio-v1/FriendsS10E03.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E03.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -67,6 +96,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E03.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E03.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E03.srt",
+          "recx": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E03.recx"
         }
       }
     },
@@ -75,7 +108,12 @@
       "sizeMiB": 21.02,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s10-audio-v1/FriendsS10E04.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E04.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -85,6 +123,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E04.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E04.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E04.srt",
+          "recx": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E04.recx"
         }
       }
     },
@@ -93,7 +135,12 @@
       "sizeMiB": 25.91,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s10-audio-v1/FriendsS10E05.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E05.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -103,6 +150,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E05.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E05.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E05.srt",
+          "recx": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E05.recx"
         }
       }
     },
@@ -111,7 +162,12 @@
       "sizeMiB": 22.41,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s10-audio-v1/FriendsS10E06.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E06.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -121,6 +177,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E06.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E06.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E06.srt",
+          "recx": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E06.recx"
         }
       }
     },
@@ -129,7 +189,12 @@
       "sizeMiB": 21.25,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s10-audio-v1/FriendsS10E07.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E07.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -139,6 +204,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E07.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E07.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E07.srt",
+          "recx": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E07.recx"
         }
       }
     },
@@ -147,7 +216,12 @@
       "sizeMiB": 21.17,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s10-audio-v1/FriendsS10E08.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E08.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -157,6 +231,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E08.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E08.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E08.srt",
+          "recx": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E08.recx"
         }
       }
     },
@@ -165,7 +243,12 @@
       "sizeMiB": 22.77,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s10-audio-v1/FriendsS10E09.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E09.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -175,6 +258,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E09.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E09.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E09.srt",
+          "recx": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E09.recx"
         }
       }
     },
@@ -183,7 +270,12 @@
       "sizeMiB": 21.03,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s10-audio-v1/FriendsS10E10.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E10.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -193,6 +285,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E10.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E10.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E10.srt",
+          "recx": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E10.recx"
         }
       }
     },
@@ -201,7 +297,12 @@
       "sizeMiB": 25.21,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s10-audio-v1/FriendsS10E11.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E11.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -211,6 +312,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E11.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E11.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E11.srt",
+          "recx": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E11.recx"
         }
       }
     },
@@ -219,7 +324,12 @@
       "sizeMiB": 21.63,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s10-audio-v1/FriendsS10E13.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E13.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -229,6 +339,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E13.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E13.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E13.srt",
+          "recx": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E13.recx"
         }
       }
     },
@@ -237,7 +351,12 @@
       "sizeMiB": 21.24,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s10-audio-v1/FriendsS10E14.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E14.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -247,6 +366,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E14.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E14.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E14.srt",
+          "recx": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E14.recx"
         }
       }
     },
@@ -255,7 +378,12 @@
       "sizeMiB": 21.26,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s10-audio-v1/FriendsS10E15.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E15.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -265,6 +393,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E15.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E15.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E15.srt",
+          "recx": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E15.recx"
         }
       }
     },
@@ -273,7 +405,12 @@
       "sizeMiB": 20.8,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s10-audio-v1/FriendsS10E16.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E16.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -283,6 +420,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E16.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E16.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E16.srt",
+          "recx": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E16.recx"
         }
       }
     },
@@ -291,7 +432,12 @@
       "sizeMiB": 43.58,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s10-audio-v1/FriendsS10E17.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E17.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -301,6 +447,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E17.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS10/FriendsS10E17.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E17.srt",
+          "recx": "https://archive.org/download/reciter-friends-s10-audio-v1/FriendsS10E17.recx"
         }
       }
     }
