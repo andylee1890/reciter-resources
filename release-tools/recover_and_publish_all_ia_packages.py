@@ -53,6 +53,12 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--tag", action="append", dest="tags", help="Only publish this tag; repeatable.")
     parser.add_argument("--limit", type=int, help="Publish at most this many incomplete packages.")
     parser.add_argument("--retries", type=int, default=5, help="Retries per download or upload, default: %(default)s")
+    parser.add_argument(
+        "--verify-wait-seconds",
+        type=int,
+        default=900,
+        help="Maximum Archive metadata-ingestion wait after each package, default: %(default)s",
+    )
     parser.add_argument("--direct", action="store_true", help="Bypass HTTP(S) proxy variables for Internet Archive operations.")
     parser.add_argument("--delay-seconds", type=int, default=30, help="Pause between completed packages, default: %(default)s")
     parser.add_argument("--push", action="store_true", help="Commit and push each package after remote file verification.")
@@ -60,8 +66,8 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     args = parser.parse_args(argv)
     if args.limit is not None and args.limit <= 0:
         parser.error("--limit must be positive")
-    if args.retries < 0 or args.delay_seconds < 0:
-        parser.error("--retries and --delay-seconds must be non-negative")
+    if args.retries < 0 or args.delay_seconds < 0 or args.verify_wait_seconds < 0:
+        parser.error("--retries, --delay-seconds, and --verify-wait-seconds must be non-negative")
     return args
 
 
@@ -99,6 +105,8 @@ def main(argv: list[str]) -> int:
             str(args.credentials_file),
             "--retries",
             str(args.retries),
+            "--verify-wait-seconds",
+            str(args.verify_wait_seconds),
         ]
         if args.direct:
             command.append("--direct")

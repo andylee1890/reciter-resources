@@ -78,12 +78,18 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--staging-dir", type=Path, required=True, help="Directory outside the repository for temporary individual files.")
     parser.add_argument("--credentials-file", type=Path, help="Private IA credentials file outside the repository.")
     parser.add_argument("--retries", type=int, default=5, help="Retries per download or upload, default: %(default)s")
+    parser.add_argument(
+        "--verify-wait-seconds",
+        type=int,
+        default=900,
+        help="Maximum Archive metadata-ingestion wait after upload, default: %(default)s",
+    )
     parser.add_argument("--direct", action="store_true", help="Bypass HTTP(S) proxy variables for Internet Archive operations.")
     parser.add_argument("--keep-staging", action="store_true", help="Keep recovered files after remote verification succeeds.")
     parser.add_argument("--dry-run", action="store_true", help="List expected public source files without downloading or uploading.")
     args = parser.parse_args(argv)
-    if args.retries < 0:
-        parser.error("--retries must be non-negative")
+    if args.retries < 0 or args.verify_wait_seconds < 0:
+        parser.error("--retries and --verify-wait-seconds must be non-negative")
     return args
 
 
@@ -110,6 +116,8 @@ def main(argv: list[str]) -> int:
         str(package_dir),
         "--retries",
         str(args.retries),
+        "--verify-wait-seconds",
+        str(args.verify_wait_seconds),
     ]
     if args.credentials_file is not None:
         command.extend(["--credentials-file", str(args.credentials_file)])

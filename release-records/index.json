@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "generatedAt": "2026-08-06T07:39:15.055914Z",
+  "generatedAt": "2026-08-06T10:21:25.828414Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -126,7 +126,13 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s06-audio-v1"
         },
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "identifier": "reciter-friends-s06-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-friends-s06-audio-v1"
+          }
+        ]
       }
     },
     {
