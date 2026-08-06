@@ -11,7 +11,13 @@
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s03-audio-v1"
     },
-    "mirrors": []
+    "mirrors": [
+      {
+        "provider": "internetArchive",
+        "identifier": "reciter-the-office-us-s03-audio-v1",
+        "itemUrl": "https://archive.org/details/reciter-the-office-us-s03-audio-v1"
+      }
+    ]
   },
   "audioCount": 22,
   "totalSizeMiB": 525.49,
@@ -21,7 +27,12 @@
       "sizeMiB": 20.2,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E01.Gay.Witch.Hunt.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E01%20Gay%20Witch%20Hunt.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -31,6 +42,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E01%20Gay%20Witch%20Hunt.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E01%20Gay%20Witch%20Hunt.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E01%20Gay%20Witch%20Hunt.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E01%20Gay%20Witch%20Hunt.recx"
         }
       }
     },
@@ -39,7 +54,12 @@
       "sizeMiB": 19.75,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E02.The.Convention.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E02%20The%20Convention.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -49,6 +69,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E02%20The%20Convention.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E02%20The%20Convention.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E02%20The%20Convention.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E02%20The%20Convention.recx"
         }
       }
     },
@@ -57,7 +81,12 @@
       "sizeMiB": 19.42,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E03.The.Coup.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E03%20The%20Coup.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -67,6 +96,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E03%20The%20Coup.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E03%20The%20Coup.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E03%20The%20Coup.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E03%20The%20Coup.recx"
         }
       }
     },
@@ -75,7 +108,12 @@
       "sizeMiB": 19.56,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E04.Grief.Counseling.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E04%20Grief%20Counseling.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -85,6 +123,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E04%20Grief%20Counseling.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E04%20Grief%20Counseling.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E04%20Grief%20Counseling.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E04%20Grief%20Counseling.recx"
         }
       }
     },
@@ -93,7 +135,12 @@
       "sizeMiB": 19.53,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E05.Initiation.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E05%20Initiation.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -103,6 +150,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E05%20Initiation.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E05%20Initiation.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E05%20Initiation.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E05%20Initiation.recx"
         }
       }
     },
@@ -111,7 +162,12 @@
       "sizeMiB": 19.51,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E06.Diwali.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E06%20Diwali.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -121,6 +177,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E06%20Diwali.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E06%20Diwali.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E06%20Diwali.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E06%20Diwali.recx"
         }
       }
     },
@@ -129,7 +189,12 @@
       "sizeMiB": 27.8,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E07.Branch.Closing.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E07%20Branch%20Closing.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -139,6 +204,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E07%20Branch%20Closing.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E07%20Branch%20Closing.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E07%20Branch%20Closing.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E07%20Branch%20Closing.recx"
         }
       }
     },
@@ -147,7 +216,12 @@
       "sizeMiB": 27.33,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E08.The.Merger.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E08%20The%20Merger.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -157,6 +231,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E08%20The%20Merger.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E08%20The%20Merger.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E08%20The%20Merger.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E08%20The%20Merger.recx"
         }
       }
     },
@@ -165,7 +243,12 @@
       "sizeMiB": 19.52,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E09.The.Convict.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E09%20The%20Convict.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -175,6 +258,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E09%20The%20Convict.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E09%20The%20Convict.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E09%20The%20Convict.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E09%20The%20Convict.recx"
         }
       }
     },
@@ -183,7 +270,12 @@
       "sizeMiB": 38.49,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E10.A.Benihana.Christmas.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E10%20A%20Benihana%20Christmas.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -193,6 +285,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E10%20A%20Benihana%20Christmas.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E10%20A%20Benihana%20Christmas.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E10%20A%20Benihana%20Christmas.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E10%20A%20Benihana%20Christmas.recx"
         }
       }
     },
@@ -201,7 +297,12 @@
       "sizeMiB": 19.5,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E11.Back.From.Vacation.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E11%20Back%20From%20Vacation.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -211,6 +312,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E11%20Back%20From%20Vacation.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E11%20Back%20From%20Vacation.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E11%20Back%20From%20Vacation.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E11%20Back%20From%20Vacation.recx"
         }
       }
     },
@@ -219,7 +324,12 @@
       "sizeMiB": 39.12,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E12E13.Traveling.Salesmen.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E12E13%20Traveling%20Salesmen.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -229,6 +339,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E12E13%20Traveling%20Salesmen.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E12E13%20Traveling%20Salesmen.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E12E13%20Traveling%20Salesmen.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E12E13%20Traveling%20Salesmen.recx"
         }
       }
     },
@@ -237,7 +351,12 @@
       "sizeMiB": 19.5,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E14.Ben.Franklin.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E14%20Ben%20Franklin.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -247,6 +366,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E14%20Ben%20Franklin.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E14%20Ben%20Franklin.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E14%20Ben%20Franklin.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E14%20Ben%20Franklin.recx"
         }
       }
     },
@@ -255,7 +378,12 @@
       "sizeMiB": 19.52,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E15.Phyllis.Wedding.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E15%20Phyllis%20Wedding.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -265,6 +393,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E15%20Phyllis%20Wedding.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E15%20Phyllis%20Wedding.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E15%20Phyllis%20Wedding.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E15%20Phyllis%20Wedding.recx"
         }
       }
     },
@@ -273,7 +405,12 @@
       "sizeMiB": 19.97,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E16.Business.School.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E16%20Business%20School.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -283,6 +420,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E16%20Business%20School.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E16%20Business%20School.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E16%20Business%20School.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E16%20Business%20School.recx"
         }
       }
     },
@@ -291,7 +432,12 @@
       "sizeMiB": 19.51,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E17.Cocktails.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E17%20Cocktails.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -301,6 +447,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E17%20Cocktails.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E17%20Cocktails.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E17%20Cocktails.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E17%20Cocktails.recx"
         }
       }
     },
@@ -309,7 +459,12 @@
       "sizeMiB": 27.09,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E18.The.Negotiation.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E18%20The%20Negotiation.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -319,6 +474,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E18%20The%20Negotiation.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E18%20The%20Negotiation.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E18%20The%20Negotiation.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E18%20The%20Negotiation.recx"
         }
       }
     },
@@ -327,7 +486,12 @@
       "sizeMiB": 19.5,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E19.Safety.Training.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E19%20Safety%20Training.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -337,6 +501,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E19%20Safety%20Training.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E19%20Safety%20Training.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E19%20Safety%20Training.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E19%20Safety%20Training.recx"
         }
       }
     },
@@ -345,7 +513,12 @@
       "sizeMiB": 19.46,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E20.Product.Recall.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E20%20Product%20Recall.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -355,6 +528,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E20%20Product%20Recall.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E20%20Product%20Recall.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E20%20Product%20Recall.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E20%20Product%20Recall.recx"
         }
       }
     },
@@ -363,7 +540,12 @@
       "sizeMiB": 26.57,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E21.Womens.Appreciation.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E21%20Womens%20Appreciation.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -373,6 +555,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E21%20Womens%20Appreciation.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E21%20Womens%20Appreciation.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E21%20Womens%20Appreciation.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E21%20Womens%20Appreciation.recx"
         }
       }
     },
@@ -381,7 +567,12 @@
       "sizeMiB": 25.68,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E22.Beach.Games.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E22%20Beach%20Games.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -391,6 +582,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E22%20Beach%20Games.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E22%20Beach%20Games.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E22%20Beach%20Games.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E22%20Beach%20Games.recx"
         }
       }
     },
@@ -399,7 +594,12 @@
       "sizeMiB": 38.96,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s03-audio-v1/The.Office.US.S03E23.The.Job.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E23%20The%20Job.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -409,6 +609,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E23%20The%20Job.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS03/The%20Office%20US%20S03E23%20The%20Job.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E23%20The%20Job.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/The%20Office%20US%20S03E23%20The%20Job.recx"
         }
       }
     }
