@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "generatedAt": "2026-08-06T10:21:25.828414Z",
+  "generatedAt": "2026-08-06T11:21:55.997463Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -148,7 +148,13 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s07-audio-v1"
         },
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "identifier": "reciter-friends-s07-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-friends-s07-audio-v1"
+          }
+        ]
       }
     },
     {

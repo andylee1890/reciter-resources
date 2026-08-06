@@ -1,4 +1,7 @@
 # Friends Season 07 Audio v1
+- Internet Archive identifier: `reciter-friends-s07-audio-v1`
+- Internet Archive item: https://archive.org/details/reciter-friends-s07-audio-v1
+- Internet Archive uploaded: True
 
 - Tag: `friends-s07-audio-v1`
 - Repo: `andylee1890/reciter-resources`
