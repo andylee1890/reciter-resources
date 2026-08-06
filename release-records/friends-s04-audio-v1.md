@@ -1,4 +1,7 @@
 # Friends Season 04 Audio v1
+- Internet Archive identifier: `reciter-friends-s04-audio-v1`
+- Internet Archive item: https://archive.org/details/reciter-friends-s04-audio-v1
+- Internet Archive uploaded: True
 
 - Tag: `friends-s04-audio-v1`
 - Repo: `andylee1890/reciter-resources`

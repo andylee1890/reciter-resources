@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 4,
-  "generatedAt": "2026-08-05T19:00:52.566462Z",
+  "schemaVersion": 5,
+  "generatedAt": "2026-08-06T06:21:01.401408Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -19,7 +19,8 @@
         "mirrors": [
           {
             "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-friends-s01-audio-v1/friends-s01-audio-v1.zip"
+            "identifier": "reciter-friends-s01-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-friends-s01-audio-v1"
           }
         ]
       }
@@ -40,7 +41,8 @@
         "mirrors": [
           {
             "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-friends-s02-audio-v1/friends-s02-audio-v1.zip"
+            "identifier": "reciter-friends-s02-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-friends-s02-audio-v1"
           }
         ]
       }
@@ -61,7 +63,8 @@
         "mirrors": [
           {
             "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-friends-s03-audio-v1/friends-s03-audio-v1.zip"
+            "identifier": "reciter-friends-s03-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-friends-s03-audio-v1"
           }
         ]
       }
@@ -82,7 +85,8 @@
         "mirrors": [
           {
             "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-friends-s04-audio-v1/friends-s04-audio-v1.zip"
+            "identifier": "reciter-friends-s04-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-friends-s04-audio-v1"
           }
         ]
       }
@@ -103,7 +107,8 @@
         "mirrors": [
           {
             "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-friends-s05-audio-v1/friends-s05-audio-v1.zip"
+            "identifier": "reciter-friends-s05-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-friends-s05-audio-v1"
           }
         ]
       }
@@ -121,12 +126,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s06-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-friends-s06-audio-v1/friends-s06-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -142,12 +142,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s07-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-friends-s07-audio-v1/friends-s07-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -163,12 +158,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s08-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-friends-s08-audio-v1/friends-s08-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -184,12 +174,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s09-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-friends-s09-audio-v1/friends-s09-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -205,12 +190,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s10-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-friends-s10-audio-v1/friends-s10-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -230,8 +210,7 @@
           {
             "provider": "internetArchive",
             "identifier": "reciter-new-concept-english-1-us-audio-v1",
-            "itemUrl": "https://archive.org/details/reciter-new-concept-english-1-us-audio-v1",
-            "bundleUrl": "https://archive.org/download/reciter-new-concept-english-1-us-audio-v1/new-concept-english-1-us-audio-v1.zip"
+            "itemUrl": "https://archive.org/details/reciter-new-concept-english-1-us-audio-v1"
           }
         ]
       }
@@ -253,8 +232,7 @@
           {
             "provider": "internetArchive",
             "identifier": "reciter-new-concept-english-2-us-audio-v1",
-            "itemUrl": "https://archive.org/details/reciter-new-concept-english-2-us-audio-v1",
-            "bundleUrl": "https://archive.org/download/reciter-new-concept-english-2-us-audio-v1/new-concept-english-2-us-audio-v1.zip"
+            "itemUrl": "https://archive.org/details/reciter-new-concept-english-2-us-audio-v1"
           }
         ]
       }
@@ -276,8 +254,7 @@
           {
             "provider": "internetArchive",
             "identifier": "reciter-new-concept-english-3-us-audio-v1",
-            "itemUrl": "https://archive.org/details/reciter-new-concept-english-3-us-audio-v1",
-            "bundleUrl": "https://archive.org/download/reciter-new-concept-english-3-us-audio-v1/new-concept-english-3-us-audio-v1.zip"
+            "itemUrl": "https://archive.org/details/reciter-new-concept-english-3-us-audio-v1"
           }
         ]
       }
@@ -299,8 +276,7 @@
           {
             "provider": "internetArchive",
             "identifier": "reciter-new-concept-english-4-us-audio-v1",
-            "itemUrl": "https://archive.org/details/reciter-new-concept-english-4-us-audio-v1",
-            "bundleUrl": "https://archive.org/download/reciter-new-concept-english-4-us-audio-v1/new-concept-english-4-us-audio-v1.zip"
+            "itemUrl": "https://archive.org/details/reciter-new-concept-english-4-us-audio-v1"
           }
         ]
       }
@@ -318,12 +294,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s01-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-big-bang-theory-s01-audio-v1/the-big-bang-theory-s01-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -339,12 +310,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s02-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-big-bang-theory-s02-audio-v1/the-big-bang-theory-s02-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -360,12 +326,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s03-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-big-bang-theory-s03-audio-v1/the-big-bang-theory-s03-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -381,12 +342,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s04-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-big-bang-theory-s04-audio-v1/the-big-bang-theory-s04-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -402,12 +358,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s05-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-big-bang-theory-s05-audio-v1/the-big-bang-theory-s05-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -423,12 +374,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s06-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-big-bang-theory-s06-audio-v1/the-big-bang-theory-s06-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -444,12 +390,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s07-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-big-bang-theory-s07-audio-v1/the-big-bang-theory-s07-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -465,12 +406,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s08-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-big-bang-theory-s08-audio-v1/the-big-bang-theory-s08-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -486,12 +422,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s09-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/the-big-bang-theory-s09-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -507,12 +438,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s10-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-big-bang-theory-s10-audio-v1/the-big-bang-theory-s10-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -528,12 +454,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s11-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-big-bang-theory-s11-audio-v1/the-big-bang-theory-s11-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -552,7 +473,8 @@
         "mirrors": [
           {
             "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/the-office-us-s01-audio-v1.zip"
+            "identifier": "reciter-the-office-us-s01-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-the-office-us-s01-audio-v1"
           }
         ]
       }
@@ -573,7 +495,8 @@
         "mirrors": [
           {
             "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-office-us-s02-audio-v1/the-office-us-s02-audio-v1.zip"
+            "identifier": "reciter-the-office-us-s02-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-the-office-us-s02-audio-v1"
           }
         ]
       }
@@ -591,12 +514,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s03-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/the-office-us-s03-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -612,12 +530,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s04-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-office-us-s04-audio-v1/the-office-us-s04-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -633,12 +546,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s05-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-office-us-s05-audio-v1/the-office-us-s05-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -654,12 +562,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s06-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-office-us-s06-audio-v1/the-office-us-s06-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -675,12 +578,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s07-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-office-us-s07-audio-v1/the-office-us-s07-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -696,12 +594,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s08-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/the-office-us-s08-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -717,12 +610,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s09-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-the-office-us-s09-audio-v1/the-office-us-s09-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -738,12 +626,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/yes-minister-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-yes-minister-audio-v1/yes-minister-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     },
     {
@@ -759,12 +642,7 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/yes-prime-minister-audio-v1"
         },
-        "mirrors": [
-          {
-            "provider": "internetArchive",
-            "bundleUrl": "https://archive.org/download/reciter-yes-prime-minister-audio-v1/yes-prime-minister-audio-v1.zip"
-          }
-        ]
+        "mirrors": []
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "generatedAt": "2026-08-03T21:41:00.242735Z",
   "tag": "friends-s04-audio-v1",
   "title": "Friends Season 04 Audio v1",
@@ -14,7 +14,8 @@
     "mirrors": [
       {
         "provider": "internetArchive",
-        "bundleUrl": "https://archive.org/download/reciter-friends-s04-audio-v1/friends-s04-audio-v1.zip"
+        "identifier": "reciter-friends-s04-audio-v1",
+        "itemUrl": "https://archive.org/details/reciter-friends-s04-audio-v1"
       }
     ]
   },
@@ -26,7 +27,12 @@
       "sizeMiB": 20.85,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E01.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E01.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -36,6 +42,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E01.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E01.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E01.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E01.recx"
         }
       }
     },
@@ -44,7 +54,12 @@
       "sizeMiB": 20.45,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E02.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E02.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -54,6 +69,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E02.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E02.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E02.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E02.recx"
         }
       }
     },
@@ -62,7 +81,12 @@
       "sizeMiB": 20.36,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E03.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E03.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -72,6 +96,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E03.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E03.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E03.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E03.recx"
         }
       }
     },
@@ -80,7 +108,12 @@
       "sizeMiB": 20.4,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E04.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E04.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -90,6 +123,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E04.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E04.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E04.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E04.recx"
         }
       }
     },
@@ -98,7 +135,12 @@
       "sizeMiB": 20.37,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E05.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E05.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -108,6 +150,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E05.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E05.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E05.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E05.recx"
         }
       }
     },
@@ -116,7 +162,12 @@
       "sizeMiB": 20.59,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E06.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E06.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -126,6 +177,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E06.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E06.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E06.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E06.recx"
         }
       }
     },
@@ -134,7 +189,12 @@
       "sizeMiB": 20.38,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E07.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E07.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -144,6 +204,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E07.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E07.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E07.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E07.recx"
         }
       }
     },
@@ -152,7 +216,12 @@
       "sizeMiB": 20.83,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E08.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E08.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -162,6 +231,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E08.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E08.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E08.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E08.recx"
         }
       }
     },
@@ -170,7 +243,12 @@
       "sizeMiB": 20.38,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E09.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E09.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -180,6 +258,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E09.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E09.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E09.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E09.recx"
         }
       }
     },
@@ -188,7 +270,12 @@
       "sizeMiB": 20.41,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E10.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E10.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -198,6 +285,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E10.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E10.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E10.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E10.recx"
         }
       }
     },
@@ -206,7 +297,12 @@
       "sizeMiB": 20.38,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E11.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E11.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -216,6 +312,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E11.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E11.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E11.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E11.recx"
         }
       }
     },
@@ -224,7 +324,12 @@
       "sizeMiB": 20.37,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E12.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E12.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -234,6 +339,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E12.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E12.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E12.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E12.recx"
         }
       }
     },
@@ -242,7 +351,12 @@
       "sizeMiB": 20.36,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E13.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E13.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -252,6 +366,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E13.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E13.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E13.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E13.recx"
         }
       }
     },
@@ -260,7 +378,12 @@
       "sizeMiB": 20.35,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E14.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E14.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -270,6 +393,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E14.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E14.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E14.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E14.recx"
         }
       }
     },
@@ -278,7 +405,12 @@
       "sizeMiB": 20.39,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E15.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E15.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -288,6 +420,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E15.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E15.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E15.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E15.recx"
         }
       }
     },
@@ -296,7 +432,12 @@
       "sizeMiB": 20.36,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E16.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E16.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -306,6 +447,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E16.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E16.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E16.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E16.recx"
         }
       }
     },
@@ -314,7 +459,12 @@
       "sizeMiB": 20.33,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E17.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E17.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -324,6 +474,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E17.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E17.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E17.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E17.recx"
         }
       }
     },
@@ -332,7 +486,12 @@
       "sizeMiB": 20.42,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E18.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E18.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -342,6 +501,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E18.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E18.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E18.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E18.recx"
         }
       }
     },
@@ -350,7 +513,12 @@
       "sizeMiB": 20.42,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E19.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E19.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -360,6 +528,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E19.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E19.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E19.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E19.recx"
         }
       }
     },
@@ -368,7 +540,12 @@
       "sizeMiB": 20.42,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E20.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E20.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -378,6 +555,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E20.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E20.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E20.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E20.recx"
         }
       }
     },
@@ -386,7 +567,12 @@
       "sizeMiB": 20.39,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E21.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E21.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -396,6 +582,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E21.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E21.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E21.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E21.recx"
         }
       }
     },
@@ -404,7 +594,12 @@
       "sizeMiB": 20.45,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E22.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E22.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -414,6 +609,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E22.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E22.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E22.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E22.recx"
         }
       }
     },
@@ -422,7 +621,12 @@
       "sizeMiB": 20.45,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E23.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E23.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -432,6 +636,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E23.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E23.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E23.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E23.recx"
         }
       }
     },
@@ -440,7 +648,12 @@
       "sizeMiB": 20.38,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s04-audio-v1/FriendsS04E24.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E24.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -450,6 +663,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E24.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS04/FriendsS04E24.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E24.srt",
+          "recx": "https://archive.org/download/reciter-friends-s04-audio-v1/FriendsS04E24.recx"
         }
       }
     }

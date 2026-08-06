@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "generatedAt": "2026-08-03T21:41:00.242735Z",
   "tag": "the-office-us-s01-audio-v1",
   "title": "The Office US Season 01 Audio v1",
@@ -14,7 +14,8 @@
     "mirrors": [
       {
         "provider": "internetArchive",
-        "bundleUrl": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/the-office-us-s01-audio-v1.zip"
+        "identifier": "reciter-the-office-us-s01-audio-v1",
+        "itemUrl": "https://archive.org/details/reciter-the-office-us-s01-audio-v1"
       }
     ]
   },
@@ -26,7 +27,12 @@
       "sizeMiB": 21.45,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s01-audio-v1/The.Office.US.S01E01.Pilot.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E01%20Pilot.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -36,6 +42,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E01%20Pilot.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E01%20Pilot.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E01%20Pilot.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E01%20Pilot.recx"
         }
       }
     },
@@ -44,7 +54,12 @@
       "sizeMiB": 20.3,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s01-audio-v1/The.Office.US.S01E02.Diversity.Day.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E02%20Diversity%20Day.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -54,6 +69,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E02%20Diversity%20Day.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E02%20Diversity%20Day.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E02%20Diversity%20Day.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E02%20Diversity%20Day.recx"
         }
       }
     },
@@ -62,7 +81,12 @@
       "sizeMiB": 20.54,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s01-audio-v1/The.Office.US.S01E03.Health.Care.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E03%20Health%20Care.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -72,6 +96,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E03%20Health%20Care.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E03%20Health%20Care.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E03%20Health%20Care.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E03%20Health%20Care.recx"
         }
       }
     },
@@ -80,7 +108,12 @@
       "sizeMiB": 20.48,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s01-audio-v1/The.Office.US.S01E04.The.Alliance.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E04%20The%20Alliance.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -90,6 +123,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E04%20The%20Alliance.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E04%20The%20Alliance.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E04%20The%20Alliance.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E04%20The%20Alliance.recx"
         }
       }
     },
@@ -98,7 +135,12 @@
       "sizeMiB": 20.55,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s01-audio-v1/The.Office.US.S01E05.Basketball.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E05%20Basketball.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -108,6 +150,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E05%20Basketball.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E05%20Basketball.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E05%20Basketball.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E05%20Basketball.recx"
         }
       }
     },
@@ -116,7 +162,12 @@
       "sizeMiB": 20.58,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s01-audio-v1/The.Office.US.S01E06.Hot.Girl.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E06%20Hot%20Girl.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -126,6 +177,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E06%20Hot%20Girl.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS01/The%20Office%20US%20S01E06%20Hot%20Girl.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E06%20Hot%20Girl.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s01-audio-v1/The%20Office%20US%20S01E06%20Hot%20Girl.recx"
         }
       }
     }

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "generatedAt": "2026-08-03T22:08:06.140369Z",
   "tag": "yes-minister-audio-v1",
   "title": "Yes Minister Audio v1",
@@ -11,12 +11,7 @@
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/yes-minister-audio-v1"
     },
-    "mirrors": [
-      {
-        "provider": "internetArchive",
-        "bundleUrl": "https://archive.org/download/reciter-yes-minister-audio-v1/yes-minister-audio-v1.zip"
-      }
-    ]
+    "mirrors": []
   },
   "audioCount": 22,
   "totalSizeMiB": 308.42,

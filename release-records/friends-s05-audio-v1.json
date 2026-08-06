@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "generatedAt": "2026-08-03T21:41:00.242735Z",
   "tag": "friends-s05-audio-v1",
   "title": "Friends Season 05 Audio v1",
@@ -14,7 +14,8 @@
     "mirrors": [
       {
         "provider": "internetArchive",
-        "bundleUrl": "https://archive.org/download/reciter-friends-s05-audio-v1/friends-s05-audio-v1.zip"
+        "identifier": "reciter-friends-s05-audio-v1",
+        "itemUrl": "https://archive.org/details/reciter-friends-s05-audio-v1"
       }
     ]
   },
@@ -26,7 +27,12 @@
       "sizeMiB": 20.36,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E01.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E01.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -36,6 +42,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E01.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E01.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E01.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E01.recx"
         }
       }
     },
@@ -44,7 +54,12 @@
       "sizeMiB": 20.36,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E02.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E02.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -54,6 +69,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E02.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E02.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E02.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E02.recx"
         }
       }
     },
@@ -62,7 +81,12 @@
       "sizeMiB": 20.35,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E03.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E03.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -72,6 +96,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E03.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E03.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E03.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E03.recx"
         }
       }
     },
@@ -80,7 +108,12 @@
       "sizeMiB": 20.34,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E04.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E04.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -90,6 +123,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E04.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E04.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E04.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E04.recx"
         }
       }
     },
@@ -98,7 +135,12 @@
       "sizeMiB": 20.35,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E05.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E05.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -108,6 +150,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E05.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E05.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E05.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E05.recx"
         }
       }
     },
@@ -116,7 +162,12 @@
       "sizeMiB": 20.35,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E06.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E06.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -126,6 +177,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E06.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E06.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E06.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E06.recx"
         }
       }
     },
@@ -134,7 +189,12 @@
       "sizeMiB": 20.33,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E07.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E07.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -144,6 +204,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E07.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E07.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E07.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E07.recx"
         }
       }
     },
@@ -152,7 +216,12 @@
       "sizeMiB": 20.35,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E08.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E08.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -162,6 +231,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E08.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E08.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E08.srt",
+          "rec": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E08.rec"
         }
       }
     },
@@ -170,7 +243,12 @@
       "sizeMiB": 20.36,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E09.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E09.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -180,6 +258,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E09.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E09.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E09.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E09.recx"
         }
       }
     },
@@ -188,7 +270,12 @@
       "sizeMiB": 20.35,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E10.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E10.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -198,6 +285,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E10.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E10.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E10.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E10.recx"
         }
       }
     },
@@ -206,7 +297,12 @@
       "sizeMiB": 20.36,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E11.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E11.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -216,6 +312,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E11.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E11.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E11.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E11.recx"
         }
       }
     },
@@ -224,7 +324,12 @@
       "sizeMiB": 20.36,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E12.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E12.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -234,6 +339,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E12.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E12.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E12.srt",
+          "rec": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E12.rec"
         }
       }
     },
@@ -242,7 +351,12 @@
       "sizeMiB": 20.35,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E13.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E13.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -252,6 +366,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E13.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E13.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E13.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E13.recx"
         }
       }
     },
@@ -260,7 +378,12 @@
       "sizeMiB": 20.36,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E14.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E14.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -268,6 +391,9 @@
         },
         "jsDelivr": {
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E14.recx"
+        },
+        "internetArchive": {
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E14.recx"
         }
       }
     },
@@ -276,7 +402,12 @@
       "sizeMiB": 20.33,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E15.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E15.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -286,6 +417,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E15.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E15.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E15.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E15.recx"
         }
       }
     },
@@ -294,7 +429,12 @@
       "sizeMiB": 20.26,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E16.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E16.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -304,6 +444,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E16.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E16.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E16.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E16.recx"
         }
       }
     },
@@ -312,7 +456,12 @@
       "sizeMiB": 20.36,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E17.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E17.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -322,6 +471,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E17.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E17.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E17.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E17.recx"
         }
       }
     },
@@ -330,7 +483,12 @@
       "sizeMiB": 20.36,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E18.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E18.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -340,6 +498,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E18.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E18.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E18.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E18.recx"
         }
       }
     },
@@ -348,7 +510,12 @@
       "sizeMiB": 20.36,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E19.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E19.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -358,6 +525,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E19.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E19.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E19.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E19.recx"
         }
       }
     },
@@ -366,7 +537,12 @@
       "sizeMiB": 20.36,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E20.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E20.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -376,6 +552,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E20.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E20.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E20.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E20.recx"
         }
       }
     },
@@ -384,7 +564,12 @@
       "sizeMiB": 20.33,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E21.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E21.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -394,6 +579,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E21.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E21.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E21.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E21.recx"
         }
       }
     },
@@ -402,7 +591,12 @@
       "sizeMiB": 20.29,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E22.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E22.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -412,6 +606,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E22.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E22.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E22.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E22.recx"
         }
       }
     },
@@ -420,7 +618,12 @@
       "sizeMiB": 20.34,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E23.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E23.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -430,6 +633,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E23.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E23.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E23.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E23.recx"
         }
       }
     },
@@ -438,7 +645,12 @@
       "sizeMiB": 20.33,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/friends-s05-audio-v1/FriendsS05E24.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E24.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -448,6 +660,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E24.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/FriendsS05/FriendsS05E24.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E24.srt",
+          "recx": "https://archive.org/download/reciter-friends-s05-audio-v1/FriendsS05E24.recx"
         }
       }
     }

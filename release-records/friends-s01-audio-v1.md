@@ -1,4 +1,7 @@
 # Friends Season 01 Audio v1
+- Internet Archive identifier: `reciter-friends-s01-audio-v1`
+- Internet Archive item: https://archive.org/details/reciter-friends-s01-audio-v1
+- Internet Archive uploaded: True
 
 - Tag: `friends-s01-audio-v1`
 - Repo: `andylee1890/reciter-resources`

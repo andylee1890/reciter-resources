@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "generatedAt": "2026-08-03T21:41:00.242735Z",
   "tag": "new-concept-english-1-us-audio-v1",
   "title": "New Concept English Book 1 American Audio v1",
@@ -15,8 +15,7 @@
       {
         "provider": "internetArchive",
         "identifier": "reciter-new-concept-english-1-us-audio-v1",
-        "itemUrl": "https://archive.org/details/reciter-new-concept-english-1-us-audio-v1",
-        "bundleUrl": "https://archive.org/download/reciter-new-concept-english-1-us-audio-v1/new-concept-english-1-us-audio-v1.zip"
+        "itemUrl": "https://archive.org/details/reciter-new-concept-english-1-us-audio-v1"
       }
     ]
   },

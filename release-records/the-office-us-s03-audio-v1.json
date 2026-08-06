@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "generatedAt": "2026-08-03T21:41:00.242735Z",
   "tag": "the-office-us-s03-audio-v1",
   "title": "The Office US Season 03 Audio v1",
@@ -11,12 +11,7 @@
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s03-audio-v1"
     },
-    "mirrors": [
-      {
-        "provider": "internetArchive",
-        "bundleUrl": "https://archive.org/download/reciter-the-office-us-s03-audio-v1/the-office-us-s03-audio-v1.zip"
-      }
-    ]
+    "mirrors": []
   },
   "audioCount": 22,
   "totalSizeMiB": 525.49,

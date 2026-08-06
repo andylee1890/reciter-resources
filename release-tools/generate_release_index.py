@@ -96,7 +96,6 @@ def parse_record(path: Path) -> dict[str, Any] | None:
 
     archive_uploaded = metadata.get("Internet Archive uploaded", "False").lower() == "true"
     archive_identifier = metadata.get("Internet Archive identifier", "").strip("`")
-    archive_bundle = metadata.get("Internet Archive bundle", "").strip()
     if archive_uploaded and not archive_identifier:
         raise ValueError(f"{path}: Internet Archive is marked uploaded but has no identifier")
     archive: dict[str, str] | None = None
@@ -106,11 +105,6 @@ def parse_record(path: Path) -> dict[str, Any] | None:
             "itemUrl": metadata.get("Internet Archive item", archive_item_url(archive_identifier)),
             "directFiles": "true",
         }
-    if archive_bundle:
-        if archive is None:
-            archive = {}
-        archive["bundleUrl"] = archive_bundle
-
     return {
         "tag": metadata["Tag"].strip("`"),
         "title": lines[0][2:],
@@ -151,8 +145,22 @@ def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
         else []
     )
     archive_has_direct_files = archive is not None and archive.get("directFiles") == "true"
+
+    def track_mirrors(track: dict[str, Any]) -> list[dict[str, str]]:
+        if archive is None:
+            return []
+        mirrors: list[dict[str, str]] = []
+        if archive_has_direct_files:
+            mirrors.append(
+                {
+                    "provider": "internetArchive",
+                    "url": archive_download_url(archive["identifier"], track["name"]),
+                }
+            )
+        return mirrors
+
     return {
-        "schemaVersion": 4,
+        "schemaVersion": 5,
         "generatedAt": generated_at,
         "tag": record["tag"],
         "title": record["title"],
@@ -172,11 +180,7 @@ def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
                 "sizeMiB": track["sizeMiB"],
                 "audio": {
                     "githubRelease": track["audioUrl"],
-                    "mirrors": (
-                        [{"provider": "internetArchive", "url": archive_download_url(archive["identifier"], track["name"])}]
-                        if archive_has_direct_files
-                        else []
-                    ),
+                    "mirrors": track_mirrors(track),
                 },
                 "sidecars": {
                     **track["sidecars"],
@@ -203,7 +207,7 @@ def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
 def master_index(records: list[dict[str, Any]], generated_at: str) -> dict[str, Any]:
     repositories = {record["repository"] for record in records}
     return {
-        "schemaVersion": 4,
+        "schemaVersion": 5,
         "generatedAt": generated_at,
         "repository": repositories.pop() if len(repositories) == 1 else None,
         "releases": [
