@@ -11,7 +11,13 @@
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s08-audio-v1"
     },
-    "mirrors": []
+    "mirrors": [
+      {
+        "provider": "internetArchive",
+        "identifier": "reciter-the-office-us-s08-audio-v1",
+        "itemUrl": "https://archive.org/details/reciter-the-office-us-s08-audio-v1"
+      }
+    ]
   },
   "audioCount": 24,
   "totalSizeMiB": 499.94,
@@ -21,7 +27,12 @@
       "sizeMiB": 20.28,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E01.The.List.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E01%20The%20List.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -31,6 +42,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E01%20The%20List.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E01%20The%20List.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E01%20The%20List.srt",
+          "rec": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E01%20The%20List.rec"
         }
       }
     },
@@ -39,7 +54,12 @@
       "sizeMiB": 20.29,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E02.The.Incentive.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E02%20The%20Incentive.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -49,6 +69,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E02%20The%20Incentive.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E02%20The%20Incentive.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E02%20The%20Incentive.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E02%20The%20Incentive.recx"
         }
       }
     },
@@ -57,7 +81,12 @@
       "sizeMiB": 20.25,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E03.Lotto.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E03%20Lotto.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -67,6 +96,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E03%20Lotto.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E03%20Lotto.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E03%20Lotto.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E03%20Lotto.recx"
         }
       }
     },
@@ -75,7 +108,12 @@
       "sizeMiB": 20.24,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E04.Garden.Party.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E04%20Garden%20Party.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -85,6 +123,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E04%20Garden%20Party.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E04%20Garden%20Party.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E04%20Garden%20Party.srt",
+          "rec": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E04%20Garden%20Party.rec"
         }
       }
     },
@@ -93,7 +135,12 @@
       "sizeMiB": 20.25,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E05.Spooked.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E05%20Spooked.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -103,6 +150,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E05%20Spooked.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E05%20Spooked.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E05%20Spooked.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E05%20Spooked.recx"
         }
       }
     },
@@ -111,7 +162,12 @@
       "sizeMiB": 20.24,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E06.Doomsday.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E06%20Doomsday.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -121,6 +177,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E06%20Doomsday.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E06%20Doomsday.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E06%20Doomsday.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E06%20Doomsday.recx"
         }
       }
     },
@@ -129,7 +189,12 @@
       "sizeMiB": 20.28,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E07.Pams.Replacement.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E07%20Pams%20Replacement.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -139,6 +204,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E07%20Pams%20Replacement.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E07%20Pams%20Replacement.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E07%20Pams%20Replacement.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E07%20Pams%20Replacement.recx"
         }
       }
     },
@@ -147,7 +216,12 @@
       "sizeMiB": 20.27,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E08.Gettysburg.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E08%20Gettysburg.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -157,6 +231,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E08%20Gettysburg.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E08%20Gettysburg.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E08%20Gettysburg.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E08%20Gettysburg.recx"
         }
       }
     },
@@ -165,7 +243,12 @@
       "sizeMiB": 20.27,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E09.Mrs.California.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E09%20Mrs%20California.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -175,6 +258,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E09%20Mrs%20California.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E09%20Mrs%20California.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E09%20Mrs%20California.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E09%20Mrs%20California.recx"
         }
       }
     },
@@ -183,7 +270,12 @@
       "sizeMiB": 20.28,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E10.Christmas.Wishes.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E10%20Christmas%20Wishes.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -193,6 +285,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E10%20Christmas%20Wishes.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E10%20Christmas%20Wishes.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E10%20Christmas%20Wishes.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E10%20Christmas%20Wishes.recx"
         }
       }
     },
@@ -201,7 +297,12 @@
       "sizeMiB": 20.28,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E11.Trivia.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E11%20Trivia.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -211,6 +312,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E11%20Trivia.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E11%20Trivia.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E11%20Trivia.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E11%20Trivia.recx"
         }
       }
     },
@@ -219,7 +324,12 @@
       "sizeMiB": 20.25,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E12.Pool.Party.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E12%20Pool%20Party.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -229,6 +339,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E12%20Pool%20Party.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E12%20Pool%20Party.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E12%20Pool%20Party.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E12%20Pool%20Party.recx"
         }
       }
     },
@@ -237,7 +351,12 @@
       "sizeMiB": 20.24,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E13.Jury.Duty.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E13%20Jury%20Duty.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -247,6 +366,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E13%20Jury%20Duty.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E13%20Jury%20Duty.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E13%20Jury%20Duty.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E13%20Jury%20Duty.recx"
         }
       }
     },
@@ -255,7 +378,12 @@
       "sizeMiB": 20.27,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E14.Special.Project.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E14%20Special%20Project.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -265,6 +393,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E14%20Special%20Project.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E14%20Special%20Project.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E14%20Special%20Project.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E14%20Special%20Project.recx"
         }
       }
     },
@@ -273,7 +405,12 @@
       "sizeMiB": 20.23,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E15.Tallahassee.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E15%20Tallahassee.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -283,6 +420,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E15%20Tallahassee.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E15%20Tallahassee.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E15%20Tallahassee.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E15%20Tallahassee.recx"
         }
       }
     },
@@ -291,7 +432,12 @@
       "sizeMiB": 20.27,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E16.After.Hours.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E16%20After%20Hours.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -301,6 +447,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E16%20After%20Hours.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E16%20After%20Hours.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E16%20After%20Hours.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E16%20After%20Hours.recx"
         }
       }
     },
@@ -309,7 +459,12 @@
       "sizeMiB": 20.29,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E17.Test.the.Store.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E17%20Test%20the%20Store.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -319,6 +474,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E17%20Test%20the%20Store.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E17%20Test%20the%20Store.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E17%20Test%20the%20Store.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E17%20Test%20the%20Store.recx"
         }
       }
     },
@@ -327,7 +486,12 @@
       "sizeMiB": 20.25,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E18.Last.Day.in.Florida.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E18%20Last%20Day%20in%20Florida.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -337,6 +501,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E18%20Last%20Day%20in%20Florida.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E18%20Last%20Day%20in%20Florida.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E18%20Last%20Day%20in%20Florida.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E18%20Last%20Day%20in%20Florida.recx"
         }
       }
     },
@@ -345,7 +513,12 @@
       "sizeMiB": 20.27,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E19.Get.the.Girl.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E19%20Get%20the%20Girl.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -355,6 +528,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E19%20Get%20the%20Girl.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E19%20Get%20the%20Girl.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E19%20Get%20the%20Girl.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E19%20Get%20the%20Girl.recx"
         }
       }
     },
@@ -363,7 +540,12 @@
       "sizeMiB": 20.26,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E20.Welcome.Party.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E20%20Welcome%20Party.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -373,6 +555,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E20%20Welcome%20Party.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E20%20Welcome%20Party.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E20%20Welcome%20Party.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E20%20Welcome%20Party.recx"
         }
       }
     },
@@ -381,7 +567,12 @@
       "sizeMiB": 30.53,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E21.Angry.Andy.Extended.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E21%20Angry%20Andy%20Extended.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -391,6 +582,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E21%20Angry%20Andy%20Extended.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E21%20Angry%20Andy%20Extended.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E21%20Angry%20Andy%20Extended.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E21%20Angry%20Andy%20Extended.recx"
         }
       }
     },
@@ -399,7 +594,12 @@
       "sizeMiB": 23.65,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E22.Fundraiser.Extended.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E22%20Fundraiser%20Extended.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -409,6 +609,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E22%20Fundraiser%20Extended.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E22%20Fundraiser%20Extended.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E22%20Fundraiser%20Extended.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E22%20Fundraiser%20Extended.recx"
         }
       }
     },
@@ -417,7 +621,12 @@
       "sizeMiB": 20.24,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E23.Turf.War.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E23%20Turf%20War.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -427,6 +636,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E23%20Turf%20War.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E23%20Turf%20War.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E23%20Turf%20War.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E23%20Turf%20War.recx"
         }
       }
     },
@@ -435,7 +648,12 @@
       "sizeMiB": 20.26,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-office-us-s08-audio-v1/The.Office.US.S08E24.Free.Family.Portrait.Studio.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E24%20Free%20Family%20Portrait%20Studio.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -445,6 +663,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E24%20Free%20Family%20Portrait%20Studio.srt",
           "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/TheOfficeS08/The%20Office%20US%20S08E24%20Free%20Family%20Portrait%20Studio.recx"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E24%20Free%20Family%20Portrait%20Studio.srt",
+          "recx": "https://archive.org/download/reciter-the-office-us-s08-audio-v1/The%20Office%20US%20S08E24%20Free%20Family%20Portrait%20Studio.recx"
         }
       }
     }

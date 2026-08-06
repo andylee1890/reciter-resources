@@ -1,4 +1,7 @@
 # The Office US Season 08 Audio v1
+- Internet Archive identifier: `reciter-the-office-us-s08-audio-v1`
+- Internet Archive item: https://archive.org/details/reciter-the-office-us-s08-audio-v1
+- Internet Archive uploaded: True
 
 - Tag: `the-office-us-s08-audio-v1`
 - Repo: `andylee1890/reciter-resources`
