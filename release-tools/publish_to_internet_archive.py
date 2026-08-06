@@ -71,12 +71,17 @@ def load_plan_entry(root: Path, tag: str) -> dict[str, str]:
     return entry
 
 
-def resolve_package(root: Path, entry: dict[str, str]) -> tuple[Path, list[Path], list[Path]]:
-    folder = (root / entry["folder"]).resolve()
-    try:
-        folder.relative_to(root)
-    except ValueError as exc:
-        raise SystemExit(f"Plan folder is outside repository: {folder}") from exc
+def resolve_package(
+    root: Path,
+    entry: dict[str, str],
+    source_folder: Path | None = None,
+) -> tuple[Path, list[Path], list[Path]]:
+    folder = source_folder.expanduser().resolve() if source_folder is not None else (root / entry["folder"]).resolve()
+    if source_folder is None:
+        try:
+            folder.relative_to(root)
+        except ValueError as exc:
+            raise SystemExit(f"Plan folder is outside repository: {folder}") from exc
     if not folder.is_dir():
         raise SystemExit(f"Plan folder does not exist: {folder}")
     audio = sorted(folder.glob("*.mp3"), key=lambda path: path.name.lower())
@@ -562,6 +567,11 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Upload one release-plan audio and sidecar package to Internet Archive.")
     parser.add_argument("--tag", required=True, help="Existing release-plan tag to upload.")
     parser.add_argument("--identifier", help="IA item identifier, default: reciter-<tag>.")
+    parser.add_argument(
+        "--source-folder",
+        type=Path,
+        help="Explicit package directory outside the repository; it must contain only the planned MP3 and sidecar files.",
+    )
     parser.add_argument("--credentials-file", type=Path, help="Private JSON credentials file outside the repository.")
     parser.add_argument(
         "--transport",
@@ -605,16 +615,17 @@ def main(argv: list[str]) -> int:
     identifier = args.identifier or f"reciter-{args.tag}"
     if not IDENTIFIER_PATTERN.fullmatch(identifier):
         raise SystemExit("Identifier must contain 3-100 lowercase letters, digits, dots, underscores, or hyphens.")
-    folder, audio, package_files = resolve_package(root, entry)
+    folder, audio, package_files = resolve_package(root, entry, args.source_folder)
     total_size = sum(path.stat().st_size for path in package_files)
     existing = remote_sizes(identifier, direct=args.direct, transport=args.transport)
     pending = package_files if args.force else [path for path in package_files if existing.get(path.name) != path.stat().st_size]
 
     print(f"Internet Archive item: {item_url(identifier)}")
-    print(
-        f"Package: {folder.relative_to(root).as_posix()} "
-        f"({len(audio)} MP3 + {len(package_files) - len(audio)} sidecars, {total_size / 1024 / 1024:.2f} MiB)"
-    )
+    try:
+        folder_label = folder.relative_to(root).as_posix()
+    except ValueError:
+        folder_label = str(folder)
+    print(f"Package: {folder_label} ({len(audio)} MP3 + {len(package_files) - len(audio)} sidecars, {total_size / 1024 / 1024:.2f} MiB)")
     print(f"Remote files already matching: {len(package_files) - len(pending)}; pending: {len(pending)}")
     if args.dry_run:
         return 0

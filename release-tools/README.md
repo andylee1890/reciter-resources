@@ -115,6 +115,24 @@ python release-tools/publish_to_internet_archive.py \
   --credentials-file /private/path/ia-credentials.json
 ```
 
+当本地资料目录不可用、但已发布的 GitHub Release 音频和 GitHub Raw sidecar 仍可访问时，`recover_and_publish_ia_package.py` 会把每个公开文件恢复到仓库外的临时目录，再逐文件上传并校验 Archive。恢复成功后默认删除临时文件。
+
+```bash
+python release-tools/recover_and_publish_ia_package.py \
+  --tag new-concept-english-1-us-audio-v1 \
+  --staging-dir /artifact/path \
+  --credentials-file /private/path/ia-credentials.json
+```
+
+`recover_and_publish_all_ia_packages.py` 按发布计划顺序处理尚未完成逐文件 Archive 镜像的资料包。每套完成远端字节校验后可立即提交并推送该套记录与索引；网络中断后重跑同一命令会跳过已完成的 IA 文件和资料包。
+
+```bash
+python release-tools/recover_and_publish_all_ia_packages.py \
+  --staging-dir /artifact/path \
+  --credentials-file /private/path/ia-credentials.json \
+  --push
+```
+
 中断后再次执行会按文件名和字节大小跳过已完成文件。默认使用 `pycurl` 直连 IA S3 并为每个文件重试 10 次；`--transport internetarchive` 使用 IA 官方客户端，`--transport stdlib` 可回退到内置分块 HTTPS 上传。`--direct` 仅作用于后两种 Python HTTP 传输。`--verify-only` 不需要凭据，只校验 item 是否完整。脚本默认等待最多 300 秒让 IA metadata 入库，上传和校验通过后才在发布记录写入 IA identifier、item URL，并重建 JSON 索引。
 
 ## 批量发布
