@@ -601,10 +601,17 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     )
     parser.add_argument("--dry-run", action="store_true", help="List the upload without changing Internet Archive or records.")
     parser.add_argument("--verify-only", action="store_true", help="Verify remote files and update local links only when complete.")
+    parser.add_argument(
+        "--max-pending-files",
+        type=int,
+        help="Upload at most this many currently missing files, then perform normal whole-package verification.",
+    )
     parser.add_argument("--force", action="store_true", help="Re-upload files even when an equal-size remote file exists.")
     args = parser.parse_args(argv)
     if args.retries < 0 or args.verify_wait_seconds < 0 or args.verify_poll_seconds <= 0:
         parser.error("retry and wait values must be non-negative; polling interval must be positive")
+    if args.max_pending_files is not None and args.max_pending_files <= 0:
+        parser.error("max-pending-files must be positive")
     return args
 
 
@@ -618,7 +625,10 @@ def main(argv: list[str]) -> int:
     folder, audio, package_files = resolve_package(root, entry, args.source_folder)
     total_size = sum(path.stat().st_size for path in package_files)
     existing = remote_sizes(identifier, direct=args.direct, transport=args.transport)
-    pending = package_files if args.force else [path for path in package_files if existing.get(path.name) != path.stat().st_size]
+    missing_paths = package_files if args.force else [path for path in package_files if existing.get(path.name) != path.stat().st_size]
+    pending = missing_paths
+    if args.max_pending_files is not None:
+        pending = pending[: args.max_pending_files]
 
     print(f"Internet Archive item: {item_url(identifier)}")
     try:
@@ -626,7 +636,7 @@ def main(argv: list[str]) -> int:
     except ValueError:
         folder_label = str(folder)
     print(f"Package: {folder_label} ({len(audio)} MP3 + {len(package_files) - len(audio)} sidecars, {total_size / 1024 / 1024:.2f} MiB)")
-    print(f"Remote files already matching: {len(package_files) - len(pending)}; pending: {len(pending)}")
+    print(f"Remote files already matching: {len(package_files) - len(missing_paths)}; pending: {len(pending)}")
     if args.dry_run:
         return 0
 

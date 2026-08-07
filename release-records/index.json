@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "generatedAt": "2026-08-07T10:46:43.648997Z",
+  "generatedAt": "2026-08-07T11:35:32.513567Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -412,7 +412,13 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s05-audio-v1"
         },
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "identifier": "reciter-the-big-bang-theory-s05-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-the-big-bang-theory-s05-audio-v1"
+          }
+        ]
       }
     },
     {
