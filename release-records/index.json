@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "generatedAt": "2026-08-07T09:24:28.179410Z",
+  "generatedAt": "2026-08-07T09:42:37.942411Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -368,7 +368,13 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s03-audio-v1"
         },
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "identifier": "reciter-the-big-bang-theory-s03-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-the-big-bang-theory-s03-audio-v1"
+          }
+        ]
       }
     },
     {
