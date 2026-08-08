@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "generatedAt": "2026-08-08T05:41:51.338682Z",
+  "generatedAt": "2026-08-08T10:58:32.695823Z",
   "repository": "andylee1890/reciter-resources",
   "releases": [
     {
@@ -456,7 +456,13 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s07-audio-v1"
         },
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "identifier": "reciter-the-big-bang-theory-s07-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-the-big-bang-theory-s07-audio-v1"
+          }
+        ]
       }
     },
     {
@@ -472,7 +478,13 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s08-audio-v1"
         },
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "identifier": "reciter-the-big-bang-theory-s08-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-the-big-bang-theory-s08-audio-v1"
+          }
+        ]
       }
     },
     {
@@ -488,7 +500,13 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s09-audio-v1"
         },
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "identifier": "reciter-the-big-bang-theory-s09-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-the-big-bang-theory-s09-audio-v1"
+          }
+        ]
       }
     },
     {
@@ -520,7 +538,13 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s11-audio-v1"
         },
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "identifier": "reciter-the-big-bang-theory-s11-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-the-big-bang-theory-s11-audio-v1"
+          }
+        ]
       }
     },
     {
@@ -646,7 +670,13 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-office-us-s06-audio-v1"
         },
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "identifier": "reciter-the-office-us-s06-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-the-office-us-s06-audio-v1"
+          }
+        ]
       }
     },
     {
@@ -728,7 +758,13 @@
         "githubRelease": {
           "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/yes-minister-audio-v1"
         },
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "identifier": "reciter-yes-minister-audio-v1",
+            "itemUrl": "https://archive.org/details/reciter-yes-minister-audio-v1"
+          }
+        ]
       }
     },
     {

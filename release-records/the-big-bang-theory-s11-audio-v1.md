@@ -1,4 +1,7 @@
 # The Big Bang Theory Season 11 Audio v1
+- Internet Archive identifier: `reciter-the-big-bang-theory-s11-audio-v1`
+- Internet Archive item: https://archive.org/details/reciter-the-big-bang-theory-s11-audio-v1
+- Internet Archive uploaded: True
 
 - Tag: `the-big-bang-theory-s11-audio-v1`
 - Repo: `andylee1890/reciter-resources`

@@ -11,7 +11,13 @@
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s09-audio-v1"
     },
-    "mirrors": []
+    "mirrors": [
+      {
+        "provider": "internetArchive",
+        "identifier": "reciter-the-big-bang-theory-s09-audio-v1",
+        "itemUrl": "https://archive.org/details/reciter-the-big-bang-theory-s09-audio-v1"
+      }
+    ]
   },
   "audioCount": 24,
   "totalSizeMiB": 214.47,
@@ -21,7 +27,12 @@
       "sizeMiB": 9.36,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E01.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E01.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -31,6 +42,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E01.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E01.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E01.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E01.rec"
         }
       }
     },
@@ -39,7 +54,12 @@
       "sizeMiB": 8.82,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E02.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E02.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -49,6 +69,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E02.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E02.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E02.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E02.rec"
         }
       }
     },
@@ -57,7 +81,12 @@
       "sizeMiB": 8.95,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E03.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E03.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -67,6 +96,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E03.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E03.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E03.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E03.rec"
         }
       }
     },
@@ -75,7 +108,12 @@
       "sizeMiB": 8.59,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E04.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E04.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -85,6 +123,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E04.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E04.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E04.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E04.rec"
         }
       }
     },
@@ -93,7 +135,12 @@
       "sizeMiB": 8.55,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E05.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E05.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -103,6 +150,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E05.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E05.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E05.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E05.rec"
         }
       }
     },
@@ -111,7 +162,12 @@
       "sizeMiB": 8.77,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E06.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E06.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -121,6 +177,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E06.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E06.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E06.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E06.rec"
         }
       }
     },
@@ -129,7 +189,12 @@
       "sizeMiB": 8.55,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E07.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E07.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -139,6 +204,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E07.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E07.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E07.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E07.rec"
         }
       }
     },
@@ -147,7 +216,12 @@
       "sizeMiB": 8.8,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E08.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E08.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -157,6 +231,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E08.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E08.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E08.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E08.rec"
         }
       }
     },
@@ -165,7 +243,12 @@
       "sizeMiB": 9.65,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E09.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E09.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -175,6 +258,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E09.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E09.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E09.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E09.rec"
         }
       }
     },
@@ -183,7 +270,12 @@
       "sizeMiB": 9.81,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E10.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E10.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -193,6 +285,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E10.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E10.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E10.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E10.rec"
         }
       }
     },
@@ -201,7 +297,12 @@
       "sizeMiB": 9.84,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E11.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E11.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -211,6 +312,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E11.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E11.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E11.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E11.rec"
         }
       }
     },
@@ -219,7 +324,12 @@
       "sizeMiB": 8.49,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E12.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E12.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -229,6 +339,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E12.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E12.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E12.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E12.rec"
         }
       }
     },
@@ -237,7 +351,12 @@
       "sizeMiB": 8.65,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E13.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E13.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -247,6 +366,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E13.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E13.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E13.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E13.rec"
         }
       }
     },
@@ -255,7 +378,12 @@
       "sizeMiB": 8.64,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E14.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E14.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -265,6 +393,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E14.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E14.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E14.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E14.rec"
         }
       }
     },
@@ -273,7 +405,12 @@
       "sizeMiB": 9.05,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E15.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E15.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -283,6 +420,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E15.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E15.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E15.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E15.rec"
         }
       }
     },
@@ -291,7 +432,12 @@
       "sizeMiB": 8.96,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E16.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E16.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -301,6 +447,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E16.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E16.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E16.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E16.rec"
         }
       }
     },
@@ -309,7 +459,12 @@
       "sizeMiB": 8.69,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E17.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E17.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -319,6 +474,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E17.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E17.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E17.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E17.rec"
         }
       }
     },
@@ -327,7 +486,12 @@
       "sizeMiB": 8.85,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E18.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E18.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -337,6 +501,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E18.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E18.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E18.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E18.rec"
         }
       }
     },
@@ -345,7 +513,12 @@
       "sizeMiB": 9.49,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E19.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E19.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -355,6 +528,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E19.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E19.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E19.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E19.rec"
         }
       }
     },
@@ -363,7 +540,12 @@
       "sizeMiB": 8.7,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E20.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E20.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -373,6 +555,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E20.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E20.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E20.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E20.rec"
         }
       }
     },
@@ -381,7 +567,12 @@
       "sizeMiB": 8.52,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E21.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E21.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -391,6 +582,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E21.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E21.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E21.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E21.rec"
         }
       }
     },
@@ -399,7 +594,12 @@
       "sizeMiB": 9.17,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E22.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E22.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -409,6 +609,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E22.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E22.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E22.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E22.rec"
         }
       }
     },
@@ -417,7 +621,12 @@
       "sizeMiB": 8.52,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E23.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E23.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -427,6 +636,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E23.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E23.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E23.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E23.rec"
         }
       }
     },
@@ -435,7 +648,12 @@
       "sizeMiB": 9.06,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/the-big-bang-theory-s09-audio-v1/S09E24.mp3",
-        "mirrors": []
+        "mirrors": [
+          {
+            "provider": "internetArchive",
+            "url": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E24.mp3"
+          }
+        ]
       },
       "sidecars": {
         "githubRaw": {
@@ -445,6 +663,10 @@
         "jsDelivr": {
           "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E24.srt",
           "rec": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8S09/S09E24.rec"
+        },
+        "internetArchive": {
+          "srt": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E24.srt",
+          "rec": "https://archive.org/download/reciter-the-big-bang-theory-s09-audio-v1/S09E24.rec"
         }
       }
     }
