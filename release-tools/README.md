@@ -135,6 +135,8 @@ python release-tools/recover_and_publish_all_ia_packages.py \
 
 中断后再次执行会按文件名和字节大小跳过已完成文件。默认使用 `pycurl` 直连 IA S3 并为每个文件重试 10 次；`--transport internetarchive` 使用 IA 官方客户端，`--transport stdlib` 可回退到内置分块 HTTPS 上传。`--direct` 仅作用于后两种 Python HTTP 传输。`--verify-only` 不需要凭据，只校验 item 是否完整。脚本默认等待最多 300 秒让 IA metadata 入库，上传和校验通过后才在发布记录写入 IA identifier、item URL，并重建 JSON 索引。
 
+网络不稳定时可加 `--continue-on-error`，让单个文件重试耗尽后继续队列；命令仍会因最终逐文件校验不完整而返回失败，便于下一次只补传缺失文件。
+
 ## Internet Archive-only 资料包
 
 当 `release-plan.json` 的资料包指定 `"audioDelivery": "internetArchive"` 时，先生成不包含 GitHub Release 的发布记录：

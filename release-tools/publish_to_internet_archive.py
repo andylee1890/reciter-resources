@@ -603,6 +603,11 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--dry-run", action="store_true", help="List the upload without changing Internet Archive or records.")
     parser.add_argument("--verify-only", action="store_true", help="Verify remote files and update local links only when complete.")
     parser.add_argument(
+        "--continue-on-error",
+        action="store_true",
+        help="Record a failed file and continue the queue; the command still fails if final verification is incomplete.",
+    )
+    parser.add_argument(
         "--max-pending-files",
         type=int,
         help="Upload at most this many currently missing files, then perform normal whole-package verification.",
@@ -664,37 +669,47 @@ def main(argv: list[str]) -> int:
             "x-archive-meta-description": metadata["description"],
         }
         item = open_official_item(identifier, direct=args.direct) if args.transport == "internetarchive" else None
+        failed_uploads: list[str] = []
         for index, path in enumerate(pending, start=1):
             print(f"[{index}/{len(pending)}] Uploading {path.name} ({path.stat().st_size / 1024 / 1024:.2f} MiB)")
             headers = {**metadata_headers, "Content-Type": CONTENT_TYPES[path.suffix.lower()]}
-            if args.transport == "pycurl":
-                put_file_pycurl(
-                    identifier=identifier,
-                    path=path,
-                    headers={
-                        **raw_metadata_headers,
-                        "Content-Type": CONTENT_TYPES[path.suffix.lower()],
-                        "Authorization": f"LOW {access_key}:{secret_key}",
-                    },
-                    retries=args.retries,
-                )
-            elif item is not None:
-                put_file_official(
-                    item=item,
-                    path=path,
-                    metadata=metadata,
-                    headers=headers,
-                    access_key=access_key,
-                    secret_key=secret_key,
-                    retries=args.retries,
-                )
-            else:
-                put_file_stdlib(
-                    identifier=identifier,
-                    path=path,
-                    headers={**headers, "Authorization": f"LOW {access_key}:{secret_key}"},
-                    retries=args.retries,
-                )
+            try:
+                if args.transport == "pycurl":
+                    put_file_pycurl(
+                        identifier=identifier,
+                        path=path,
+                        headers={
+                            **raw_metadata_headers,
+                            "Content-Type": CONTENT_TYPES[path.suffix.lower()],
+                            "Authorization": f"LOW {access_key}:{secret_key}",
+                        },
+                        retries=args.retries,
+                    )
+                elif item is not None:
+                    put_file_official(
+                        item=item,
+                        path=path,
+                        metadata=metadata,
+                        headers=headers,
+                        access_key=access_key,
+                        secret_key=secret_key,
+                        retries=args.retries,
+                    )
+                else:
+                    put_file_stdlib(
+                        identifier=identifier,
+                        path=path,
+                        headers={**headers, "Authorization": f"LOW {access_key}:{secret_key}"},
+                        retries=args.retries,
+                    )
+            except SystemExit as exc:
+                if not args.continue_on_error:
+                    raise
+                failed_uploads.append(path.name)
+                print(f"Continuing after failed file: {path.name}: {exc}", file=sys.stderr)
+                continue
+        if failed_uploads:
+            print(f"Files skipped after upload errors: {len(failed_uploads)}", file=sys.stderr)
 
     missing = wait_for_files(
         identifier,
