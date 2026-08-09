@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:07,300
+Exercise 2-17 Creating Word Groups Break the paragraph into natural word groups.
+
+2
+00:00:07,740 --> 00:00:13,280
+Mark every place where you think a pause is needed with a slash. Note, in the
+
+3
+00:00:13,280 --> 00:00:16,960
+beginning, your word group should be very short. It'll be a sign of your growing
+
+4
+00:00:16,960 --> 00:00:18,820
+sophistication when they get longer.

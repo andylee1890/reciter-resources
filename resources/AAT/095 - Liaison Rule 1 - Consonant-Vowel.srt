@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:05,480
+Liaison rule one, consonant, vowel. Words are connected when a word ends in a
+
+2
+00:00:05,480 --> 00:00:09,280
+consonant sound and the next word starts with a vowel sound, including the
+
+3
+00:00:09,280 --> 00:00:11,620
+semivowels W, Y, and R.

@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:06,020
+Liaison Rule 2, Consonant, Consonant. Words are connected when a word ends in a
+
+2
+00:00:06,020 --> 00:00:09,740
+consonant sound and the next one starts with a consonant that's in a similar
+
+3
+00:00:09,740 --> 00:00:13,820
+position. What's a similar position? Let's find out.

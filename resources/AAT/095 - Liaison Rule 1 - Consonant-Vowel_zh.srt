@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:05,480
+连读规则一：辅音加元音。当前一个词以
+Liaison rule one, consonant, vowel. Words are connected when a word ends in a
+
+2
+00:00:05,480 --> 00:00:09,280
+辅音音结尾、下一个词以元音音开头时，包括：
+consonant sound and the next word starts with a vowel sound, including the
+
+3
+00:00:09,280 --> 00:00:11,620
+半元音 W、Y 和 R。
+semivowels W, Y, and R.

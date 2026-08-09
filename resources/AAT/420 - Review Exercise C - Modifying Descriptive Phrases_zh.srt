@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:07,760
+复习练习 C：修饰描述性短语。
+Review exercise C, modifying descriptive phrases. It's a black cat. It's a dark
+
+2
+00:00:07,760 --> 00:00:14,480
+black cat. It's a scrambled egg. It's a totally scrambled egg. It's a fast car.
+
+3
+00:00:15,020 --> 00:00:16,480
+It's a really fast car.

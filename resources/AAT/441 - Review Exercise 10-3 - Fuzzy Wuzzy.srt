@@ -1,0 +1,7 @@
+1
+00:00:00,000 --> 00:00:10,560
+Review exercise 10-3. Fuzzy wuzzy. Fuzzy wuzzy was a bear. Fuzzy wuzzy had no hair.
+
+2
+00:00:12,020 --> 00:00:14,220
+Fuzzy wuzzy wasn't fuzzy, was he?

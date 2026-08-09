@@ -1,0 +1,7 @@
+1
+00:00:00,000 --> 00:00:07,640
+Exercise 9-7, your own application steps with S and Z. Write your own sentence,
+
+2
+00:00:07,860 --> 00:00:10,900
+then build it up, adding each aspect one at a time.

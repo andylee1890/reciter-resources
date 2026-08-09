@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:05,020
+Since so many people are familiar with the binary system, let's do a quick review of
+
+2
+00:00:05,020 --> 00:00:14,100
+how complex intonation can be viewed with zeroes and ones. Pot, new, new pot, brand
+
+3
+00:00:14,100 --> 00:00:24,620
+new, brand new pot, teapot, new teapot, brand new teapot, teapot lid, new teapot
+
+4
+00:00:24,620 --> 00:00:31,380
+lid, brand new teapot lid. Do a global search all and replace for these patterns.
