@@ -36,6 +36,7 @@
     {"folder": "resources/生活大爆炸S08", "tag": "the-big-bang-theory-s08-audio-v1", "title": "The Big Bang Theory Season 08 Audio v1"},
     {"folder": "resources/生活大爆炸S09", "tag": "the-big-bang-theory-s09-audio-v1", "title": "The Big Bang Theory Season 09 Audio v1"},
     {"folder": "resources/生活大爆炸S10", "tag": "the-big-bang-theory-s10-audio-v1", "title": "The Big Bang Theory Season 10 Audio v1"},
-    {"folder": "resources/生活大爆炸S11", "tag": "the-big-bang-theory-s11-audio-v1", "title": "The Big Bang Theory Season 11 Audio v1"}
+    {"folder": "resources/生活大爆炸S11", "tag": "the-big-bang-theory-s11-audio-v1", "title": "The Big Bang Theory Season 11 Audio v1"},
+    {"folder": "resources/AAT", "tag": "american-accent-training-4e-audio-v1", "title": "American Accent Training 4e Audio", "audioDelivery": "internetArchive"}
   ]
 }

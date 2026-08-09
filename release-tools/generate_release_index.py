@@ -14,6 +14,8 @@ from urllib.parse import quote
 
 METADATA_PATTERN = re.compile(r"^- (?P<key>[^:]+): (?P<value>.*)$")
 LINK_PATTERN = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
+RELEASE_TABLE_HEADER = "| Audio | Size MiB | Release asset | GitHub Raw sidecars | jsDelivr sidecars |"
+ARCHIVE_TABLE_HEADER = "| Audio | Size MiB | Internet Archive file | GitHub Raw sidecars | jsDelivr sidecars |"
 
 
 def repository_root() -> Path:
@@ -51,11 +53,16 @@ def parse_record(path: Path) -> dict[str, Any] | None:
         match = METADATA_PATTERN.match(line)
         if match:
             metadata[match.group("key")] = match.group("value")
-        if line == "| Audio | Size MiB | Release asset | GitHub Raw sidecars | jsDelivr sidecars |":
+        if line in (RELEASE_TABLE_HEADER, ARCHIVE_TABLE_HEADER):
             table_start = index + 2
             break
 
-    required_metadata = ("Tag", "Repo", "Branch", "Folder", "Created at", "Audio files", "Total size", "Dry run", "Release")
+    audio_delivery = metadata.get("Audio delivery", "githubRelease")
+    if audio_delivery not in ("githubRelease", "internetArchive"):
+        raise ValueError(f"{path}: unsupported audio delivery: {audio_delivery}")
+    required_metadata = ("Tag", "Repo", "Branch", "Folder", "Created at", "Audio files", "Total size", "Dry run")
+    if audio_delivery == "githubRelease":
+        required_metadata += ("Release",)
     missing = [key for key in required_metadata if key not in metadata]
     if missing:
         raise ValueError(f"{path}: missing metadata: {', '.join(missing)}")
@@ -112,7 +119,8 @@ def parse_record(path: Path) -> dict[str, Any] | None:
         "branch": metadata["Branch"].strip("`"),
         "folder": metadata["Folder"].strip("`"),
         "createdAt": metadata["Created at"],
-        "releaseUrl": metadata["Release"],
+        "audioDelivery": audio_delivery,
+        "releaseUrl": metadata.get("Release"),
         "audioCount": expected_count,
         "totalSizeMiB": float(total_size_match.group(1)),
         "audio": audio,
@@ -137,13 +145,25 @@ def published_records(records_dir: Path) -> list[dict[str, Any]]:
     return releases
 
 
-def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
+def platforms_for(record: dict[str, Any]) -> dict[str, Any]:
     archive = record["internetArchive"]
-    archive_platform = (
-        [{"provider": "internetArchive", **{key: value for key, value in archive.items() if key != "directFiles"}}]
+    mirrors = (
+        [
+            {
+                "provider": "internetArchive",
+                **{key: value for key, value in archive.items() if key != "directFiles"},
+            }
+        ]
         if archive is not None
         else []
     )
+    if record["audioDelivery"] == "githubRelease":
+        return {"githubRelease": {"releaseUrl": record["releaseUrl"]}, "mirrors": mirrors}
+    return {"mirrors": mirrors}
+
+
+def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
+    archive = record["internetArchive"]
     archive_has_direct_files = archive is not None and archive.get("directFiles") == "true"
 
     def track_mirrors(track: dict[str, Any]) -> list[dict[str, str]]:
@@ -159,6 +179,12 @@ def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
             )
         return mirrors
 
+    def archive_sidecar_filename(track: dict[str, Any], key: str) -> str:
+        stem = Path(track["name"]).stem
+        if key == "srtZh":
+            return f"{stem}_zh.srt"
+        return f"{stem}.{key}"
+
     return {
         "schemaVersion": 5,
         "generatedAt": generated_at,
@@ -168,20 +194,18 @@ def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
         "branch": record["branch"],
         "folder": record["folder"],
         "createdAt": record["createdAt"],
-        "platforms": {
-            "githubRelease": {"releaseUrl": record["releaseUrl"]},
-            "mirrors": archive_platform,
-        },
+        "platforms": platforms_for(record),
         "audioCount": record["audioCount"],
         "totalSizeMiB": record["totalSizeMiB"],
         "audio": [
             {
                 "name": track["name"],
                 "sizeMiB": track["sizeMiB"],
-                "audio": {
-                    "githubRelease": track["audioUrl"],
-                    "mirrors": track_mirrors(track),
-                },
+                "audio": (
+                    {"githubRelease": track["audioUrl"], "mirrors": track_mirrors(track)}
+                    if record["audioDelivery"] == "githubRelease"
+                    else {"mirrors": track_mirrors(track)}
+                ),
                 "sidecars": {
                     **track["sidecars"],
                     **(
@@ -189,7 +213,7 @@ def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
                             "internetArchive": {
                                 extension: archive_download_url(
                                     archive["identifier"],
-                                    f"{Path(track['name']).stem}.{extension}",
+                                    archive_sidecar_filename(track, extension),
                                 )
                                 for extension in track["sidecars"]["githubRaw"]
                             }
@@ -215,7 +239,6 @@ def master_index(records: list[dict[str, Any]], generated_at: str) -> dict[str, 
                 "tag": record["tag"],
                 "title": record["title"],
                 "createdAt": record["createdAt"],
-                "releaseUrl": record["releaseUrl"],
                 "audioCount": record["audioCount"],
                 "totalSizeMiB": record["totalSizeMiB"],
                 "detailFile": f"{record['tag']}.json",
@@ -223,23 +246,12 @@ def master_index(records: list[dict[str, Any]], generated_at: str) -> dict[str, 
                     f"https://raw.githubusercontent.com/{record['repository']}/"
                     f"{record['branch']}/release-records/{record['tag']}.json"
                 ),
-                "platforms": {
-                    "githubRelease": {"releaseUrl": record["releaseUrl"]},
-                    "mirrors": (
-                        [
-                            {
-                                "provider": "internetArchive",
-                                **{
-                                    key: value
-                                    for key, value in record["internetArchive"].items()
-                                    if key != "directFiles"
-                                },
-                            }
-                        ]
-                        if record["internetArchive"] is not None
-                        else []
-                    ),
-                },
+                "platforms": platforms_for(record),
+                **(
+                    {"releaseUrl": record["releaseUrl"]}
+                    if record["audioDelivery"] == "githubRelease"
+                    else {}
+                ),
             }
             for record in records
         ],

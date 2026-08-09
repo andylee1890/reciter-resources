@@ -508,6 +508,7 @@ def update_record(root: Path, tag: str, identifier: str) -> None:
             "Internet Archive identifier": f"`{identifier}`",
             "Internet Archive item": item_url(identifier),
             "Internet Archive uploaded": "True",
+            "Published": "True",
         },
     )
 

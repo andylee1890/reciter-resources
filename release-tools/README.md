@@ -73,7 +73,7 @@ python release-tools/publish_season_release.py \
 ## 索引生成
 
 `generate_release_index.py` 从 `release-records/*.md` 生成站点可直接消费的 `release-records/index.json`，以及每个已发布资料包的 `release-records/<tag>.json`。
-它只收录 `Published: True` 的记录。主索引只列资料包摘要和明细文件名；每个资料包 JSON 保留音频的 GitHub Release 地址、镜像数组、GitHub Raw sidecar 和 jsDelivr sidecar 链接。只有远端逐文件校验通过的 Internet Archive 条目才会进入 `platforms.mirrors` 和每首音频的 `audio.mirrors`。
+它只收录 `Published: True` 的记录。主索引只列资料包摘要和明细文件名；每个资料包 JSON 保留实际配置的音频投递方式、镜像数组、GitHub Raw sidecar 和 jsDelivr sidecar 链接。只有远端逐文件校验通过的 Internet Archive 条目才会进入 `platforms.mirrors` 和每首音频的 `audio.mirrors`。
 
 ```bash
 python release-tools/generate_release_index.py
@@ -134,6 +134,17 @@ python release-tools/recover_and_publish_all_ia_packages.py \
 ```
 
 中断后再次执行会按文件名和字节大小跳过已完成文件。默认使用 `pycurl` 直连 IA S3 并为每个文件重试 10 次；`--transport internetarchive` 使用 IA 官方客户端，`--transport stdlib` 可回退到内置分块 HTTPS 上传。`--direct` 仅作用于后两种 Python HTTP 传输。`--verify-only` 不需要凭据，只校验 item 是否完整。脚本默认等待最多 300 秒让 IA metadata 入库，上传和校验通过后才在发布记录写入 IA identifier、item URL，并重建 JSON 索引。
+
+## Internet Archive-only 资料包
+
+当 `release-plan.json` 的资料包指定 `"audioDelivery": "internetArchive"` 时，先生成不包含 GitHub Release 的发布记录：
+
+```bash
+python release-tools/publish_archive_only_package.py \
+  --tag american-accent-training-4e-audio-v1
+```
+
+然后使用 `publish_to_internet_archive.py` 上传。音频和所有配套字幕均逐文件上传、校验，并在索引中只提供 Internet Archive 音频直链；不会创建 GitHub Release。
 
 ## 批量发布
 
