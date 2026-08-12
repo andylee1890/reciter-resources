@@ -8,6 +8,8 @@ This repository is a public static resource repository for reciter-style English
 - Keep operational details, CLI usage, release workflow, and maintainer notes under `release-tools/` or this file.
 - Keep release link indexes and takedown notes under `release-records/`.
 - Keep versioned learning resources under `resources/`.
+- Keep catalog-facing posters under `artwork/posters/`, with the source and
+  resource mapping recorded in `artwork/posters/index.json`.
 
 ## Resource Rules
 
@@ -46,3 +48,6 @@ The Office US S02E01 The Dundies.rec
 - Preserve the existing folder layout unless the user asks to reorganize it.
 - Use cross-platform Python for repository automation.
 - Do not move, delete, normalize, or rewrite user resource files without an explicit request.
+- Do not treat third-party poster images as official artwork or project-owned
+  material. Preserve their source record and handle a valid removal request at
+  the individual asset level.
