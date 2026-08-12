@@ -41,7 +41,6 @@ The Office US S02E01 The Dundies.rec
 
 - [resources](https://github.com/andylee1890/reciter-resources/tree/main/resources)：字幕、LRC、REC、RECX 等文本资源。
 - [release-records](https://github.com/andylee1890/reciter-resources/tree/main/release-records)：音频发布、链接索引和撤回记录。
-- [artwork/posters](https://github.com/andylee1890/reciter-resources/tree/main/artwork/posters)：课程与剧集目录卡可引用的海报资产和来源清单。
 
 ## 使用说明
 
