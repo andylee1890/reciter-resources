@@ -1,0 +1,1189 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-13T08:19:35.971669Z",
+  "repository": "andylee1890/reciter-resources",
+  "posterIndex": {
+    "path": "artwork/posters/index.json",
+    "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/index.json",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/index.json"
+  },
+  "posters": [
+    {
+      "id": "the-office-us-s01",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-office-us-s01.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-office-us-s01.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-office-us-s01.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-office-us-s01.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-office-us-s01.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-office-us-s01.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8759
+        },
+        "sourceSize": {
+          "width": 757,
+          "height": 1080
+        }
+      },
+      "usedBy": "the-office-us-s01-audio-v1"
+    },
+    {
+      "id": "the-office-us-s02",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-office-us-s02.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-office-us-s02.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-office-us-s02.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-office-us-s02.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-office-us-s02.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-office-us-s02.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0009,
+          "width": 1.0,
+          "height": 0.8759
+        },
+        "sourceSize": {
+          "width": 757,
+          "height": 1080
+        }
+      },
+      "usedBy": "the-office-us-s02-audio-v1"
+    },
+    {
+      "id": "the-office-us-s03",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-office-us-s03.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-office-us-s03.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-office-us-s03.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-office-us-s03.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-office-us-s03.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-office-us-s03.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8759
+        },
+        "sourceSize": {
+          "width": 757,
+          "height": 1080
+        }
+      },
+      "usedBy": "the-office-us-s03-audio-v1"
+    },
+    {
+      "id": "the-office-us-s04",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-office-us-s04.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-office-us-s04.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-office-us-s04.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-office-us-s04.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-office-us-s04.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-office-us-s04.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0009,
+          "width": 1.0,
+          "height": 0.8759
+        },
+        "sourceSize": {
+          "width": 757,
+          "height": 1080
+        }
+      },
+      "usedBy": "the-office-us-s04-audio-v1"
+    },
+    {
+      "id": "the-office-us-s05",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-office-us-s05.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-office-us-s05.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-office-us-s05.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-office-us-s05.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-office-us-s05.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-office-us-s05.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8759
+        },
+        "sourceSize": {
+          "width": 757,
+          "height": 1080
+        }
+      },
+      "usedBy": "the-office-us-s05-audio-v1"
+    },
+    {
+      "id": "the-office-us-s06",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-office-us-s06.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-office-us-s06.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-office-us-s06.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-office-us-s06.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-office-us-s06.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-office-us-s06.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0009,
+          "width": 1.0,
+          "height": 0.8759
+        },
+        "sourceSize": {
+          "width": 757,
+          "height": 1080
+        }
+      },
+      "usedBy": "the-office-us-s06-audio-v1"
+    },
+    {
+      "id": "the-office-us-s07",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-office-us-s07.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-office-us-s07.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-office-us-s07.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-office-us-s07.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-office-us-s07.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-office-us-s07.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8759
+        },
+        "sourceSize": {
+          "width": 757,
+          "height": 1080
+        }
+      },
+      "usedBy": "the-office-us-s07-audio-v1"
+    },
+    {
+      "id": "the-office-us-s08",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-office-us-s08.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-office-us-s08.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-office-us-s08.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-office-us-s08.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-office-us-s08.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-office-us-s08.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0009,
+          "width": 1.0,
+          "height": 0.8759
+        },
+        "sourceSize": {
+          "width": 757,
+          "height": 1080
+        }
+      },
+      "usedBy": "the-office-us-s08-audio-v1"
+    },
+    {
+      "id": "the-office-us-s09",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-office-us-s09.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-office-us-s09.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-office-us-s09.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-office-us-s09.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-office-us-s09.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-office-us-s09.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8759
+        },
+        "sourceSize": {
+          "width": 757,
+          "height": 1080
+        }
+      },
+      "usedBy": "the-office-us-s09-audio-v1"
+    },
+    {
+      "id": "the-big-bang-theory-s01",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-big-bang-theory-s01.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-big-bang-theory-s01.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-big-bang-theory-s01.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-big-bang-theory-s01.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-big-bang-theory-s01.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-big-bang-theory-s01.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8641
+        },
+        "sourceSize": {
+          "width": 300,
+          "height": 434
+        }
+      },
+      "usedBy": "the-big-bang-theory-s01-audio-v1"
+    },
+    {
+      "id": "the-big-bang-theory-s02",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-big-bang-theory-s02.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-big-bang-theory-s02.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-big-bang-theory-s02.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-big-bang-theory-s02.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-big-bang-theory-s02.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-big-bang-theory-s02.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0022,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 300,
+          "height": 450
+        }
+      },
+      "usedBy": "the-big-bang-theory-s02-audio-v1"
+    },
+    {
+      "id": "the-big-bang-theory-s03",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-big-bang-theory-s03.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-big-bang-theory-s03.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-big-bang-theory-s03.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-big-bang-theory-s03.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-big-bang-theory-s03.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-big-bang-theory-s03.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 300,
+          "height": 450
+        }
+      },
+      "usedBy": "the-big-bang-theory-s03-audio-v1"
+    },
+    {
+      "id": "the-big-bang-theory-s04",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-big-bang-theory-s04.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-big-bang-theory-s04.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-big-bang-theory-s04.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-big-bang-theory-s04.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-big-bang-theory-s04.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-big-bang-theory-s04.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0022,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 300,
+          "height": 450
+        }
+      },
+      "usedBy": "the-big-bang-theory-s04-audio-v1"
+    },
+    {
+      "id": "the-big-bang-theory-s05",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-big-bang-theory-s05.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-big-bang-theory-s05.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-big-bang-theory-s05.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-big-bang-theory-s05.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-big-bang-theory-s05.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-big-bang-theory-s05.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 300,
+          "height": 450
+        }
+      },
+      "usedBy": "the-big-bang-theory-s05-audio-v1"
+    },
+    {
+      "id": "the-big-bang-theory-s06",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-big-bang-theory-s06.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-big-bang-theory-s06.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-big-bang-theory-s06.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-big-bang-theory-s06.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-big-bang-theory-s06.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-big-bang-theory-s06.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.9308
+        },
+        "sourceSize": {
+          "width": 312,
+          "height": 419
+        }
+      },
+      "usedBy": "the-big-bang-theory-s06-audio-v1"
+    },
+    {
+      "id": "the-big-bang-theory-s07",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-big-bang-theory-s07.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-big-bang-theory-s07.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-big-bang-theory-s07.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-big-bang-theory-s07.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-big-bang-theory-s07.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-big-bang-theory-s07.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.9112
+        },
+        "sourceSize": {
+          "width": 312,
+          "height": 428
+        }
+      },
+      "usedBy": "the-big-bang-theory-s07-audio-v1"
+    },
+    {
+      "id": "the-big-bang-theory-s08",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-big-bang-theory-s08.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-big-bang-theory-s08.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-big-bang-theory-s08.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-big-bang-theory-s08.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-big-bang-theory-s08.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-big-bang-theory-s08.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 300,
+          "height": 450
+        }
+      },
+      "usedBy": "the-big-bang-theory-s08-audio-v1"
+    },
+    {
+      "id": "the-big-bang-theory-s09",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-big-bang-theory-s09.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-big-bang-theory-s09.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-big-bang-theory-s09.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-big-bang-theory-s09.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-big-bang-theory-s09.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-big-bang-theory-s09.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8651
+        },
+        "sourceSize": {
+          "width": 400,
+          "height": 578
+        }
+      },
+      "usedBy": "the-big-bang-theory-s09-audio-v1"
+    },
+    {
+      "id": "the-big-bang-theory-s10",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-big-bang-theory-s10.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-big-bang-theory-s10.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-big-bang-theory-s10.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-big-bang-theory-s10.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-big-bang-theory-s10.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-big-bang-theory-s10.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0017,
+          "width": 1.0,
+          "height": 0.8651
+        },
+        "sourceSize": {
+          "width": 400,
+          "height": 578
+        }
+      },
+      "usedBy": "the-big-bang-theory-s10-audio-v1"
+    },
+    {
+      "id": "the-big-bang-theory-s11",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/the-big-bang-theory-s11.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-big-bang-theory-s11.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-big-bang-theory-s11.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-big-bang-theory-s11.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-big-bang-theory-s11.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-big-bang-theory-s11.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8651
+        },
+        "sourceSize": {
+          "width": 400,
+          "height": 578
+        }
+      },
+      "usedBy": "the-big-bang-theory-s11-audio-v1"
+    },
+    {
+      "id": "friends-s01",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/friends-s01.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/friends-s01.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/friends-s01.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/friends-s01.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/friends-s01.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/friends-s01.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8927
+        },
+        "sourceSize": {
+          "width": 998,
+          "height": 1398
+        }
+      },
+      "source": "https://movie.douban.com/subject/1393859/photos?type=R",
+      "sourceImage": "https://img1.doubanio.com/view/photo/l/public/p2186920269.webp",
+      "usedBy": "friends-s01-audio-v1"
+    },
+    {
+      "id": "friends-s02",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/friends-s02.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/friends-s02.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/friends-s02.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/friends-s02.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/friends-s02.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/friends-s02.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0014,
+          "width": 1.0,
+          "height": 0.8927
+        },
+        "sourceSize": {
+          "width": 998,
+          "height": 1398
+        }
+      },
+      "source": "https://movie.douban.com/subject/3286528/photos?type=R",
+      "sourceImage": "https://img9.doubanio.com/view/photo/l/public/p2200410776.webp",
+      "usedBy": "friends-s02-audio-v1"
+    },
+    {
+      "id": "friends-s03",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/friends-s03.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/friends-s03.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/friends-s03.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/friends-s03.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/friends-s03.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/friends-s03.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8927
+        },
+        "sourceSize": {
+          "width": 998,
+          "height": 1398
+        }
+      },
+      "source": "https://movie.douban.com/subject/3286531/photos?type=R",
+      "sourceImage": "https://img9.doubanio.com/view/photo/l/public/p2195389285.webp",
+      "usedBy": "friends-s03-audio-v1"
+    },
+    {
+      "id": "friends-s04",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/friends-s04.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/friends-s04.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/friends-s04.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/friends-s04.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/friends-s04.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/friends-s04.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0014,
+          "width": 1.0,
+          "height": 0.8927
+        },
+        "sourceSize": {
+          "width": 998,
+          "height": 1398
+        }
+      },
+      "source": "https://movie.douban.com/subject/3286536/photos?type=R",
+      "sourceImage": "https://img3.doubanio.com/view/photo/l/public/p2375152053.webp",
+      "usedBy": "friends-s04-audio-v1"
+    },
+    {
+      "id": "friends-s05",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/friends-s05.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/friends-s05.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/friends-s05.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/friends-s05.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/friends-s05.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/friends-s05.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8927
+        },
+        "sourceSize": {
+          "width": 998,
+          "height": 1398
+        }
+      },
+      "source": "https://movie.douban.com/subject/3286538/photos?type=R",
+      "sourceImage": "https://img1.doubanio.com/view/photo/l/public/p2330977709.webp",
+      "usedBy": "friends-s05-audio-v1"
+    },
+    {
+      "id": "friends-s06",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/friends-s06.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/friends-s06.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/friends-s06.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/friends-s06.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/friends-s06.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/friends-s06.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0014,
+          "width": 1.0,
+          "height": 0.8927
+        },
+        "sourceSize": {
+          "width": 998,
+          "height": 1398
+        }
+      },
+      "source": "https://movie.douban.com/subject/3286543/photos?type=R",
+      "sourceImage": "https://img1.doubanio.com/view/photo/l/public/p2228920659.webp",
+      "usedBy": "friends-s06-audio-v1"
+    },
+    {
+      "id": "friends-s07",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/friends-s07.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/friends-s07.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/friends-s07.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/friends-s07.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/friends-s07.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/friends-s07.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8927
+        },
+        "sourceSize": {
+          "width": 998,
+          "height": 1398
+        }
+      },
+      "source": "https://movie.douban.com/subject/3286547/photos?type=R",
+      "sourceImage": "https://img1.doubanio.com/view/photo/l/public/p2607463440.webp",
+      "usedBy": "friends-s07-audio-v1"
+    },
+    {
+      "id": "friends-s08",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/friends-s08.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/friends-s08.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/friends-s08.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/friends-s08.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/friends-s08.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/friends-s08.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0014,
+          "width": 1.0,
+          "height": 0.8927
+        },
+        "sourceSize": {
+          "width": 998,
+          "height": 1398
+        }
+      },
+      "source": "https://movie.douban.com/subject/3286548/photos?type=R",
+      "sourceImage": "https://img9.doubanio.com/view/photo/l/public/p2607457445.webp",
+      "usedBy": "friends-s08-audio-v1"
+    },
+    {
+      "id": "friends-s09",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/friends-s09.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/friends-s09.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/friends-s09.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/friends-s09.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/friends-s09.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/friends-s09.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8927
+        },
+        "sourceSize": {
+          "width": 998,
+          "height": 1398
+        }
+      },
+      "source": "https://movie.douban.com/subject/3286549/photos?type=R",
+      "sourceImage": "https://img3.doubanio.com/view/photo/l/public/p2341525352.webp",
+      "usedBy": "friends-s09-audio-v1"
+    },
+    {
+      "id": "friends-s10",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/friends-s10.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/friends-s10.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/friends-s10.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/friends-s10.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/friends-s10.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/friends-s10.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0014,
+          "width": 1.0,
+          "height": 0.8927
+        },
+        "sourceSize": {
+          "width": 998,
+          "height": 1398
+        }
+      },
+      "source": "https://movie.douban.com/subject/3286552/photos?type=R",
+      "sourceImage": "https://img3.doubanio.com/view/photo/l/public/p2187822907.webp",
+      "usedBy": "friends-s10-audio-v1"
+    },
+    {
+      "id": "american-accent-training",
+      "kind": "textbook-cover",
+      "sourceType": "local-source-material",
+      "original": {
+        "path": "artwork/posters/american-accent-training-4e.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/american-accent-training-4e.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/american-accent-training-4e.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/american-accent-training-4e.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/american-accent-training-4e.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/american-accent-training-4e.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.9003
+        },
+        "sourceSize": {
+          "width": 686,
+          "height": 953
+        }
+      },
+      "usedBy": "american-accent-training-4e-audio-v1"
+    },
+    {
+      "id": "new-concept-english-1",
+      "kind": "textbook-cover",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/new-concept-english-1-official.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/new-concept-english-1-official.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/new-concept-english-1-official.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/new-concept-english-1-official.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/new-concept-english-1-official.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/new-concept-english-1-official.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.858
+        },
+        "sourceSize": {
+          "width": 343,
+          "height": 500
+        }
+      },
+      "source": "https://book.douban.com/subject/1006720/",
+      "sourceImage": "https://img3.doubanio.com/view/subject/l/public/s10401903.jpg",
+      "usedBy": "new-concept-english-1-us-audio-v1"
+    },
+    {
+      "id": "new-concept-english-2",
+      "kind": "textbook-cover",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/new-concept-english-2-official.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/new-concept-english-2-official.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/new-concept-english-2-official.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/new-concept-english-2-official.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/new-concept-english-2-official.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/new-concept-english-2-official.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.9025
+        },
+        "sourceSize": {
+          "width": 200,
+          "height": 277
+        }
+      },
+      "source": "https://book.douban.com/subject/1025721/",
+      "sourceImage": "https://img9.doubanio.com/view/subject/l/public/s1148774.jpg",
+      "usedBy": "new-concept-english-2-us-audio-v1"
+    },
+    {
+      "id": "new-concept-english-3",
+      "kind": "textbook-cover",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/new-concept-english-3-official.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/new-concept-english-3-official.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/new-concept-english-3-official.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/new-concept-english-3-official.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/new-concept-english-3-official.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/new-concept-english-3-official.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0017,
+          "width": 1.0,
+          "height": 0.8647
+        },
+        "sourceSize": {
+          "width": 404,
+          "height": 584
+        }
+      },
+      "source": "https://book.douban.com/subject/1039389/",
+      "sourceImage": "https://img1.doubanio.com/view/subject/l/public/s1072510.jpg",
+      "usedBy": "new-concept-english-3-us-audio-v1"
+    },
+    {
+      "id": "new-concept-english-4",
+      "kind": "textbook-cover",
+      "sourceType": "local-source-material",
+      "original": {
+        "path": "artwork/posters/new-concept-english-4.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/new-concept-english-4.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/new-concept-english-4.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/new-concept-english-4.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/new-concept-english-4.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/new-concept-english-4.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.9057
+        },
+        "sourceSize": {
+          "width": 768,
+          "height": 1060
+        }
+      },
+      "usedBy": "new-concept-english-4-us-audio-v1"
+    },
+    {
+      "id": "yes-minister",
+      "kind": "series-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/yes-minister.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/yes-minister.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/yes-minister.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/yes-minister.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/yes-minister.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/yes-minister.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.002,
+          "width": 1.0,
+          "height": 0.85
+        },
+        "sourceSize": {
+          "width": 680,
+          "height": 1000
+        }
+      },
+      "source": "https://www.tvmaze.com/shows/1606/yes-minister",
+      "sourceImage": "https://static.tvmaze.com/uploads/images/original_untouched/206/517241.jpg",
+      "usedBy": "yes-minister-audio-v1"
+    },
+    {
+      "id": "yes-prime-minister",
+      "kind": "series-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/yes-prime-minister.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/yes-prime-minister.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/yes-prime-minister.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/yes-prime-minister.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/yes-prime-minister.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/yes-prime-minister.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.85
+        },
+        "sourceSize": {
+          "width": 680,
+          "height": 1000
+        }
+      },
+      "source": "https://www.tvmaze.com/shows/6647/yes-prime-minister",
+      "sourceImage": "https://static.tvmaze.com/uploads/images/original_untouched/25/62845.jpg",
+      "usedBy": "yes-prime-minister-audio-v1"
+    }
+  ]
+}

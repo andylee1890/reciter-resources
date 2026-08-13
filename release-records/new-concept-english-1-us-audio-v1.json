@@ -7,6 +7,38 @@
   "branch": "main",
   "folder": "resources/NCE1-美音-(MP3+LRC)",
   "createdAt": "2026-08-03 18:33:02 +0800",
+  "poster": {
+    "id": "new-concept-english-1",
+    "kind": "textbook-cover",
+    "sourceType": "third-party-catalog-image",
+    "original": {
+      "path": "artwork/posters/new-concept-english-1-official.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/new-concept-english-1-official.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/new-concept-english-1-official.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/new-concept-english-1-official.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/new-concept-english-1-official.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/new-concept-english-1-official.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.858
+      },
+      "sourceSize": {
+        "width": 343,
+        "height": 500
+      }
+    },
+    "source": "https://book.douban.com/subject/1006720/",
+    "sourceImage": "https://img3.doubanio.com/view/subject/l/public/s10401903.jpg"
+  },
   "platforms": {
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/new-concept-english-1-us-audio-v1"

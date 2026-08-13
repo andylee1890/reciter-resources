@@ -7,6 +7,36 @@
   "branch": "main",
   "folder": "resources/AAT",
   "createdAt": "2026-08-09 17:05:40 +0800",
+  "poster": {
+    "id": "american-accent-training",
+    "kind": "textbook-cover",
+    "sourceType": "local-source-material",
+    "original": {
+      "path": "artwork/posters/american-accent-training-4e.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/american-accent-training-4e.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/american-accent-training-4e.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/american-accent-training-4e.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/american-accent-training-4e.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/american-accent-training-4e.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.9003
+      },
+      "sourceSize": {
+        "width": 686,
+        "height": 953
+      }
+    }
+  },
   "platforms": {
     "mirrors": [
       {

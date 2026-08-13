@@ -7,6 +7,38 @@
   "branch": "main",
   "folder": "resources/大臣首相-是首相",
   "createdAt": "2026-08-04 06:11:24 +0800",
+  "poster": {
+    "id": "yes-prime-minister",
+    "kind": "series-poster",
+    "sourceType": "third-party-catalog-image",
+    "original": {
+      "path": "artwork/posters/yes-prime-minister.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/yes-prime-minister.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/yes-prime-minister.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/yes-prime-minister.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/yes-prime-minister.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/yes-prime-minister.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.85
+      },
+      "sourceSize": {
+        "width": 680,
+        "height": 1000
+      }
+    },
+    "source": "https://www.tvmaze.com/shows/6647/yes-prime-minister",
+    "sourceImage": "https://static.tvmaze.com/uploads/images/original_untouched/25/62845.jpg"
+  },
   "platforms": {
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/yes-prime-minister-audio-v1"

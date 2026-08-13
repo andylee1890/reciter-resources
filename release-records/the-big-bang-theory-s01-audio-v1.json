@@ -7,6 +7,36 @@
   "branch": "main",
   "folder": "resources/生活大爆炸S01",
   "createdAt": "2026-08-04 06:14:40 +0800",
+  "poster": {
+    "id": "the-big-bang-theory-s01",
+    "kind": "season-poster",
+    "sourceType": "third-party-catalog-image",
+    "original": {
+      "path": "artwork/posters/the-big-bang-theory-s01.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-big-bang-theory-s01.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-big-bang-theory-s01.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/the-big-bang-theory-s01.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-big-bang-theory-s01.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-big-bang-theory-s01.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.8641
+      },
+      "sourceSize": {
+        "width": 300,
+        "height": 434
+      }
+    }
+  },
   "platforms": {
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/the-big-bang-theory-s01-audio-v1"

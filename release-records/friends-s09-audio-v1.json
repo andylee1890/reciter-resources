@@ -7,6 +7,38 @@
   "branch": "main",
   "folder": "resources/FriendsS09",
   "createdAt": "2026-08-04 05:30:53 +0800",
+  "poster": {
+    "id": "friends-s09",
+    "kind": "season-poster",
+    "sourceType": "third-party-catalog-image",
+    "original": {
+      "path": "artwork/posters/friends-s09.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/friends-s09.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/friends-s09.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/friends-s09.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/friends-s09.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/friends-s09.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.8927
+      },
+      "sourceSize": {
+        "width": 998,
+        "height": 1398
+      }
+    },
+    "source": "https://movie.douban.com/subject/3286549/photos?type=R",
+    "sourceImage": "https://img3.doubanio.com/view/photo/l/public/p2341525352.webp"
+  },
   "platforms": {
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s09-audio-v1"

@@ -22,6 +22,10 @@ def repository_root() -> Path:
     return Path(__file__).resolve().parents[1]
 
 
+def poster_index_path(root: Path) -> Path:
+    return root / "artwork" / "posters" / "index.local.json"
+
+
 def parse_links(cell: str) -> dict[str, str]:
     return {label.lstrip("."): url for label, url in LINK_PATTERN.findall(cell)}
 
@@ -162,7 +166,7 @@ def platforms_for(record: dict[str, Any]) -> dict[str, Any]:
     return {"mirrors": mirrors}
 
 
-def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
+def release_detail(record: dict[str, Any], generated_at: str, poster: dict[str, Any]) -> dict[str, Any]:
     archive = record["internetArchive"]
     archive_has_direct_files = archive is not None and archive.get("directFiles") == "true"
 
@@ -194,6 +198,7 @@ def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
         "branch": record["branch"],
         "folder": record["folder"],
         "createdAt": record["createdAt"],
+        "poster": poster,
         "platforms": platforms_for(record),
         "audioCount": record["audioCount"],
         "totalSizeMiB": record["totalSizeMiB"],
@@ -228,12 +233,15 @@ def release_detail(record: dict[str, Any], generated_at: str) -> dict[str, Any]:
     }
 
 
-def master_index(records: list[dict[str, Any]], generated_at: str) -> dict[str, Any]:
+def master_index(
+    records: list[dict[str, Any]], generated_at: str, posters_by_tag: dict[str, dict[str, Any]]
+) -> dict[str, Any]:
     repositories = {record["repository"] for record in records}
     return {
         "schemaVersion": 5,
         "generatedAt": generated_at,
         "repository": repositories.pop() if len(repositories) == 1 else None,
+        "posterIndex": poster_index_reference(records),
         "releases": [
             {
                 "tag": record["tag"],
@@ -246,6 +254,7 @@ def master_index(records: list[dict[str, Any]], generated_at: str) -> dict[str, 
                     f"https://raw.githubusercontent.com/{record['repository']}/"
                     f"{record['branch']}/release-records/{record['tag']}.json"
                 ),
+                "poster": posters_by_tag[record["tag"]],
                 "platforms": platforms_for(record),
                 **(
                     {"releaseUrl": record["releaseUrl"]}
@@ -256,6 +265,86 @@ def master_index(records: list[dict[str, Any]], generated_at: str) -> dict[str, 
             for record in records
         ],
     }
+
+
+def poster_urls(repository: str, branch: str, path: str) -> dict[str, str]:
+    quoted_path = quote_path(path)
+    return {
+        "path": path,
+        "githubRaw": f"https://raw.githubusercontent.com/{repository}/{branch}/{quoted_path}",
+        "jsDelivr": f"https://cdn.jsdelivr.net/gh/{repository}@{branch}/{quoted_path}",
+    }
+
+
+def poster_index_reference(records: list[dict[str, Any]]) -> dict[str, str]:
+    repositories = {record["repository"] for record in records}
+    branches = {record["branch"] for record in records}
+    if len(repositories) != 1 or len(branches) != 1:
+        raise ValueError("Cannot create a single poster index reference for multiple repositories or branches")
+    return poster_urls(repositories.pop(), branches.pop(), "artwork/posters/index.json")
+
+
+def published_posters(records: list[dict[str, Any]], root: Path) -> tuple[list[dict[str, Any]], dict[str, dict[str, Any]]]:
+    path = poster_index_path(root)
+    if not path.is_file():
+        raise ValueError(f"Poster source index not found: {path}")
+    source = json.loads(path.read_text(encoding="utf-8"))
+    if source.get("schemaVersion") != 1 or not isinstance(source.get("items"), list):
+        raise ValueError(f"{path}: unsupported poster source index")
+
+    tags = {record["tag"] for record in records}
+    linked: dict[str, dict[str, Any]] = {}
+    public_items: list[dict[str, Any]] = []
+    for item in source["items"]:
+        item_tags = item.get("usedBy")
+        card = item.get("card")
+        if item_tags == []:
+            continue
+        if not isinstance(item_tags, list) or len(item_tags) != 1:
+            raise ValueError(f"{path}: poster {item.get('id')} must reference exactly one release")
+        if not isinstance(card, dict) or not isinstance(card.get("file"), str):
+            raise ValueError(f"{path}: poster {item.get('id')} has no generated card")
+        tag = item_tags[0]
+        if tag not in tags:
+            raise ValueError(f"{path}: poster {item.get('id')} references unknown release {tag}")
+        if tag in linked:
+            raise ValueError(f"{path}: release {tag} has multiple posters")
+        record = next(record for record in records if record["tag"] == tag)
+        asset = {
+            "id": item["id"],
+            "kind": item["kind"],
+            "sourceType": item["sourceType"],
+            "original": poster_urls(record["repository"], record["branch"], f"artwork/posters/{item['file']}"),
+            "card": {
+                **poster_urls(record["repository"], record["branch"], f"artwork/posters/{card['file']}"),
+                **{key: value for key, value in card.items() if key != "file"},
+            },
+        }
+        for key in ("source", "sourceImage"):
+            if key in item:
+                asset[key] = item[key]
+        linked[tag] = asset
+        public_items.append({**asset, "usedBy": tag})
+
+    missing = sorted(tags - linked.keys())
+    if missing:
+        raise ValueError(f"Missing posters for published releases: {', '.join(missing)}")
+    return public_items, linked
+
+
+def write_poster_index(
+    records: list[dict[str, Any]], posters: list[dict[str, Any]], generated_at: str, root: Path
+) -> None:
+    reference = poster_index_reference(records)
+    target = root / reference["path"]
+    payload = {
+        "schemaVersion": 1,
+        "generatedAt": generated_at,
+        "repository": records[0]["repository"],
+        "posterIndex": reference,
+        "posters": posters,
+    }
+    target.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
 
 
 def existing_generated_at(path: Path, fallback: str) -> str:
@@ -285,12 +374,15 @@ def main() -> int:
         raise SystemExit(f"Records directory not found: {records_dir}")
 
     records = published_records(records_dir)
+    root = repository_root()
     generated_at = dt.datetime.now(dt.timezone.utc).isoformat().replace("+00:00", "Z")
+    posters, posters_by_tag = published_posters(records, root)
+    write_poster_index(records, posters, generated_at, root)
     for record in records:
         detail_path = records_dir / f"{record['tag']}.json"
         detail_path.write_text(
             json.dumps(
-                release_detail(record, existing_generated_at(detail_path, generated_at)),
+                release_detail(record, existing_generated_at(detail_path, generated_at), posters_by_tag[record["tag"]]),
                 ensure_ascii=False,
                 indent=2,
             )
@@ -299,7 +391,7 @@ def main() -> int:
             newline="\n",
         )
 
-    index = master_index(records, generated_at)
+    index = master_index(records, generated_at, posters_by_tag)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
     print(f"Wrote {len(records)} published releases to {output_path}")
