@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/andylee1890/reciter-resources">
-    <strong>Reciter Resources</strong>
+    <img src="./artwork/icons/icon-192.png" alt="Reciter Resources" width="144" />
   </a>
 </p>
 
