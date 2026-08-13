@@ -23,7 +23,7 @@ def repository_root() -> Path:
 
 
 def poster_index_path(root: Path) -> Path:
-    return root / "artwork" / "posters" / "index.local.json"
+    return root / "artwork" / "posters" / "index.json"
 
 
 def parse_links(cell: str) -> dict[str, str]:
@@ -234,7 +234,10 @@ def release_detail(record: dict[str, Any], generated_at: str, poster: dict[str, 
 
 
 def master_index(
-    records: list[dict[str, Any]], generated_at: str, posters_by_tag: dict[str, dict[str, Any]]
+    records: list[dict[str, Any]],
+    posters: list[dict[str, Any]],
+    generated_at: str,
+    posters_by_tag: dict[str, dict[str, Any]],
 ) -> dict[str, Any]:
     repositories = {record["repository"] for record in records}
     return {
@@ -242,6 +245,7 @@ def master_index(
         "generatedAt": generated_at,
         "repository": repositories.pop() if len(repositories) == 1 else None,
         "posterIndex": poster_index_reference(records),
+        "posters": posters,
         "releases": [
             {
                 "tag": record["tag"],
@@ -289,20 +293,28 @@ def published_posters(records: list[dict[str, Any]], root: Path) -> tuple[list[d
     if not path.is_file():
         raise ValueError(f"Poster source index not found: {path}")
     source = json.loads(path.read_text(encoding="utf-8"))
-    if source.get("schemaVersion") != 1 or not isinstance(source.get("items"), list):
+    if source.get("schemaVersion") != 1:
         raise ValueError(f"{path}: unsupported poster source index")
+
+    # The public poster index is also the durable source now. Accept the old
+    # local `items` shape for compatibility with older working copies.
+    source_items = source.get("items", source.get("posters"))
+    if not isinstance(source_items, list):
+        raise ValueError(f"{path}: poster list is missing")
 
     tags = {record["tag"] for record in records}
     linked: dict[str, dict[str, Any]] = {}
     public_items: list[dict[str, Any]] = []
-    for item in source["items"]:
+    for item in source_items:
         item_tags = item.get("usedBy")
         card = item.get("card")
-        if item_tags == []:
+        if item_tags == [] or item_tags is None:
             continue
+        if isinstance(item_tags, str):
+            item_tags = [item_tags]
         if not isinstance(item_tags, list) or len(item_tags) != 1:
             raise ValueError(f"{path}: poster {item.get('id')} must reference exactly one release")
-        if not isinstance(card, dict) or not isinstance(card.get("file"), str):
+        if not isinstance(card, dict):
             raise ValueError(f"{path}: poster {item.get('id')} has no generated card")
         tag = item_tags[0]
         if tag not in tags:
@@ -310,14 +322,23 @@ def published_posters(records: list[dict[str, Any]], root: Path) -> tuple[list[d
         if tag in linked:
             raise ValueError(f"{path}: release {tag} has multiple posters")
         record = next(record for record in records if record["tag"] == tag)
+        original = item.get("original", {})
+        original_path = original.get("path") or f"artwork/posters/{item.get('file', '')}"
+        card_path = card.get("path") or f"artwork/posters/{card.get('file', '')}"
+        if not original_path or not card_path or original_path.endswith("/") or card_path.endswith("/"):
+            raise ValueError(f"{path}: poster {item.get('id')} has invalid asset paths")
         asset = {
             "id": item["id"],
             "kind": item["kind"],
             "sourceType": item["sourceType"],
-            "original": poster_urls(record["repository"], record["branch"], f"artwork/posters/{item['file']}"),
+            "original": poster_urls(record["repository"], record["branch"], original_path),
             "card": {
-                **poster_urls(record["repository"], record["branch"], f"artwork/posters/{card['file']}"),
-                **{key: value for key, value in card.items() if key != "file"},
+                **poster_urls(record["repository"], record["branch"], card_path),
+                **{
+                    key: value
+                    for key, value in card.items()
+                    if key not in {"file", "path", "githubRaw", "jsDelivr"}
+                },
             },
         }
         for key in ("source", "sourceImage"):
@@ -391,7 +412,7 @@ def main() -> int:
             newline="\n",
         )
 
-    index = master_index(records, generated_at, posters_by_tag)
+    index = master_index(records, posters, generated_at, posters_by_tag)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
     print(f"Wrote {len(records)} published releases to {output_path}")

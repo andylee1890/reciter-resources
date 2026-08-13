@@ -20,7 +20,7 @@
 
 这个仓库保存复读、跟读、字幕对齐等学习场景可直接引用的公开文本资源。
 
-[**资源索引**](https://github.com/andylee1890/reciter-resources/tree/main/release-records) · [**JSON 索引**](https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/index.json) · [**封面索引**](https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/index.json)
+[**资源索引**](https://github.com/andylee1890/reciter-resources/tree/main/release-records) · [**课程与封面主索引**](https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/index.json)
 
 ## 如何引用
 
@@ -38,10 +38,11 @@ jsDelivr:
 
 ## 机器可读索引
 
-已发布的资料包、音频下载地址和配套文本链接汇总在 JSON 索引中；未实际发布的 dry run 记录不会进入索引。
+已发布的资料包、音频下载地址、配套文本链接和课程封面均汇总在同一个 JSON 主索引中；未实际发布的 dry run 记录不会进入索引。
 
 - GitHub Raw：`https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/index.json`
 - jsDelivr：`https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/release-records/index.json`
+- 独立海报索引（兼容入口）：`https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/index.json`
 
 ## 资源边界
 
