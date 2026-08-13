@@ -1,8 +1,26 @@
-# Reciter Resources
+<p align="center">
+  <a href="https://github.com/andylee1890/reciter-resources">
+    <strong>Reciter Resources</strong>
+  </a>
+</p>
+
+<h1 align="center">复读机英语学习资源库</h1>
+
+<p align="center">
+  <strong>Reciter Resources · 可直接引用的英语学习资源</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/andylee1890/reciter-resources/tree/main/release-records"><strong>资源索引</strong></a>
+  ·
+  <a href="https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/index.json"><strong>JSON 索引</strong></a>
+  ·
+  <a href="https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/index.json"><strong>封面索引</strong></a>
+</p>
+
+---
 
 这个仓库保存复读、跟读、字幕对齐等学习场景可直接引用的公开文本资源。
-
-仓库地址：[https://github.com/andylee1890/reciter-resources](https://github.com/andylee1890/reciter-resources)
 
 ## 如何引用
 
