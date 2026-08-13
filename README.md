@@ -11,16 +11,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/andylee1890/reciter-resources/tree/main/release-records"><strong>资源索引</strong></a>
-  ·
-  <a href="https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/index.json"><strong>JSON 索引</strong></a>
-  ·
-  <a href="https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/index.json"><strong>封面索引</strong></a>
+  <a href="https://englishanchor.online"><strong>EnglishAnchor 官网</strong></a>
+  <br/>
+  <a href="https://t.me/+zUqHQVAF42xlODgx"><strong>Telegram 交流群</strong></a>
 </p>
 
 ---
 
 这个仓库保存复读、跟读、字幕对齐等学习场景可直接引用的公开文本资源。
+
+[**资源索引**](https://github.com/andylee1890/reciter-resources/tree/main/release-records) · [**JSON 索引**](https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/index.json) · [**封面索引**](https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/index.json)
 
 ## 如何引用
 
