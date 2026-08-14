@@ -25,6 +25,30 @@
 
 默认不会上传已存在的同名 asset。需要覆盖时使用 `--clobber`。
 
+## RECX 波形生成
+
+`generate_recx.py` 为音频生成兼容 EasyTyeReciter 的 `.recx` sidecar。它使用
+FFmpeg 解码为 44.1kHz 双声道 PCM，再按 100ms 峰值波形、99.5% 分位归一化和
+0.55 gamma 压缩生成 legacy Float64 little-endian wave data。生成文件只包含共享的
+音频波形与同名字幕，不包含任何用户播放、复读或学习状态。
+
+支持单个音频或整个目录，目录默认递归扫描 `.mp3`、`.wav`、`.m4a`、`.aac`、
+`.ogg`、`.flac`、`.opus`、`.wma`、`.aiff` 和 `.aif`。输出始终是音频同目录下的
+同 basename `.recx`，默认跳过已经存在的 `.recx`；加入 `--overwrite` 才会覆盖。
+若存在同 basename `.srt`、`.vtt` 或 `.lrc`，会自动写入字幕 tag。
+
+```bash
+# 单个文件
+python release-tools/generate_recx.py "resources/TheOfficeS01/example.mp3"
+
+# 整个目录（默认递归）
+python release-tools/generate_recx.py "resources/TheOfficeS01"
+
+# 先查看将处理的文件，或只扫描目录顶层
+python release-tools/generate_recx.py "resources/TheOfficeS01" --dry-run
+python release-tools/generate_recx.py "resources/TheOfficeS01" --no-recursive
+```
+
 ## 示例
 
 ```bash
