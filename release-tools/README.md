@@ -172,6 +172,32 @@ python release-tools/publish_archive_only_package.py \
 
 然后使用 `publish_to_internet_archive.py` 上传。音频和所有配套字幕均逐文件上传、校验，并在索引中只提供 Internet Archive 音频直链；不会创建 GitHub Release。
 
+## AAT 分段 GitHub Release
+
+`publish_aat_github_release_parts.py` 将 `resources/AAT` 的 459 个 MP3 顺序拆为 7 个 GitHub Release：前 6 个各 70 文件，最后一个 39 文件。它使用标准库 GitHub API，凭据只从 `GITHUB_TOKEN` 环境变量读取，不写入仓库或发布记录。
+
+脚本对每个 part 逐文件按名称（或上传 label）和字节数校验。中断后重跑会跳过已校验文件；它从不删除、覆盖或移动本地资源。只有七个 part 都远端校验通过，才会将 AAT 的发布记录改为 GitHub Release 优先、Internet Archive 镜像，并重建 `release-records/index.json` 与 README 资料包表格。
+
+先检查拆分计划：
+
+```bash
+python release-tools/publish_aat_github_release_parts.py --dry-run
+```
+
+实际发布：
+
+在已设置 `GITHUB_TOKEN` 环境变量的终端中运行：
+
+```bash
+python release-tools/publish_aat_github_release_parts.py
+```
+
+仅检查已上传 part 而不上传：
+
+```bash
+python release-tools/publish_aat_github_release_parts.py --verify-only
+```
+
 ## 批量发布
 
 `publish_all_to_internet_archive.py` 顺序处理 `release-plan.json` 中尚未完成 IA 镜像的资料包。它只以发布计划为输入，不会扫描或处理计划外目录；已在发布记录中标记 `Internet Archive uploaded: True` 的资料包会自动跳过。

@@ -53,6 +53,9 @@ def download_link(release: dict[str, Any]) -> str:
     release_url = release.get("releaseUrl")
     if isinstance(release_url, str) and release_url:
         return f"[GitHub Release]({release_url})"
+    release_urls = release.get("platforms", {}).get("githubRelease", {}).get("releaseUrls", [])
+    if isinstance(release_urls, list) and release_urls and isinstance(release_urls[0], str):
+        return f"[GitHub Releases]({release_urls[0]})"
     mirrors = release.get("platforms", {}).get("mirrors", [])
     for mirror in mirrors:
         if mirror.get("provider") == "internetArchive" and isinstance(mirror.get("itemUrl"), str):

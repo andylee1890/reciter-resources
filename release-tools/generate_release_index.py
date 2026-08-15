@@ -16,6 +16,9 @@ METADATA_PATTERN = re.compile(r"^- (?P<key>[^:]+): (?P<value>.*)$")
 LINK_PATTERN = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 RELEASE_TABLE_HEADER = "| Audio | Size MiB | Release asset | GitHub Raw sidecars | jsDelivr sidecars |"
 ARCHIVE_TABLE_HEADER = "| Audio | Size MiB | Internet Archive file | GitHub Raw sidecars | jsDelivr sidecars |"
+PART_RELEASE_TABLE_HEADER = (
+    "| Audio | Size MiB | GitHub Release asset | Internet Archive file | GitHub Raw sidecars | jsDelivr sidecars |"
+)
 
 
 def repository_root() -> Path:
@@ -57,16 +60,18 @@ def parse_record(path: Path) -> dict[str, Any] | None:
         match = METADATA_PATTERN.match(line)
         if match:
             metadata[match.group("key")] = match.group("value")
-        if line in (RELEASE_TABLE_HEADER, ARCHIVE_TABLE_HEADER):
+        if line in (RELEASE_TABLE_HEADER, ARCHIVE_TABLE_HEADER, PART_RELEASE_TABLE_HEADER):
             table_start = index + 2
             break
 
     audio_delivery = metadata.get("Audio delivery", "githubRelease")
-    if audio_delivery not in ("githubRelease", "internetArchive"):
+    if audio_delivery not in ("githubRelease", "githubReleaseParts", "internetArchive"):
         raise ValueError(f"{path}: unsupported audio delivery: {audio_delivery}")
     required_metadata = ("Tag", "Repo", "Branch", "Folder", "Created at", "Audio files", "Total size", "Dry run")
     if audio_delivery == "githubRelease":
         required_metadata += ("Release",)
+    if audio_delivery == "githubReleaseParts":
+        required_metadata += ("GitHub Release parts",)
     missing = [key for key in required_metadata if key not in metadata]
     if missing:
         raise ValueError(f"{path}: missing metadata: {', '.join(missing)}")
@@ -80,19 +85,23 @@ def parse_record(path: Path) -> dict[str, Any] | None:
         if not line.startswith("| "):
             continue
         cells = [cell.strip() for cell in line.strip().strip("|").split("|")]
-        if len(cells) != 5:
+        expected_cells = 6 if audio_delivery == "githubReleaseParts" else 5
+        if len(cells) != expected_cells:
             raise ValueError(f"{path}: malformed files table row")
-        asset_links = parse_links(cells[2])
-        if "mp3" not in asset_links:
+        primary_links = parse_links(cells[2])
+        if "mp3" not in primary_links:
             raise ValueError(f"{path}: missing mp3 link for {cells[0]}")
+        archive_links = parse_links(cells[3]) if audio_delivery == "githubReleaseParts" else {}
+        sidecar_offset = 4 if audio_delivery == "githubReleaseParts" else 3
         audio.append(
             {
                 "name": cells[0].replace(r"\|", "|"),
                 "sizeMiB": float(cells[1]),
-                "audioUrl": asset_links["mp3"],
+                "audioUrl": primary_links["mp3"],
+                "archiveAudioUrl": archive_links.get("mp3"),
                 "sidecars": {
-                    "githubRaw": parse_links(cells[3]),
-                    "jsDelivr": parse_links(cells[4]),
+                    "githubRaw": parse_links(cells[sidecar_offset]),
+                    "jsDelivr": parse_links(cells[sidecar_offset + 1]),
                 },
             }
         )
@@ -125,6 +134,9 @@ def parse_record(path: Path) -> dict[str, Any] | None:
         "createdAt": metadata["Created at"],
         "audioDelivery": audio_delivery,
         "releaseUrl": metadata.get("Release"),
+        "releaseUrls": [
+            url.strip() for url in metadata.get("GitHub Release parts", "").split(",") if url.strip()
+        ],
         "audioCount": expected_count,
         "totalSizeMiB": float(total_size_match.group(1)),
         "audio": audio,
@@ -163,6 +175,8 @@ def platforms_for(record: dict[str, Any]) -> dict[str, Any]:
     )
     if record["audioDelivery"] == "githubRelease":
         return {"githubRelease": {"releaseUrl": record["releaseUrl"]}, "mirrors": mirrors}
+    if record["audioDelivery"] == "githubReleaseParts":
+        return {"githubRelease": {"releaseUrls": record["releaseUrls"]}, "mirrors": mirrors}
     return {"mirrors": mirrors}
 
 
@@ -208,7 +222,7 @@ def release_detail(record: dict[str, Any], generated_at: str, poster: dict[str, 
                 "sizeMiB": track["sizeMiB"],
                 "audio": (
                     {"githubRelease": track["audioUrl"], "mirrors": track_mirrors(track)}
-                    if record["audioDelivery"] == "githubRelease"
+                    if record["audioDelivery"] in ("githubRelease", "githubReleaseParts")
                     else {"mirrors": track_mirrors(track)}
                 ),
                 "sidecars": {
