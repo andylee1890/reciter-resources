@@ -22,10 +22,10 @@
 
 [**资源索引**](https://github.com/andylee1890/reciter-resources/tree/main/release-records) · [**课程与封面主索引**](https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/index.json)
 
-## 资料包目录
+## 卡组目录
 
 <!-- RESOURCE_CATALOG_START -->
-| 资料包 | 介绍 | 更新日期 | 版本 | 下载链接 |
+| 卡组 | 介绍 | 更新日期 | 版本 | 下载链接 |
 | --- | --- | --- | --- | --- |
 | <img src="./artwork/posters/card/american-accent-training-4e.webp" alt="American Accent Training 4e" width="72" /><br/>**American Accent Training 4e** | 459 条音频；可用 SRT / 中译 SRT 文本。 | 2026-08-09 | `v1` | [Internet Archive](https://archive.org/details/reciter-american-accent-training-4e-audio-v1) |
 | <img src="./artwork/posters/card/friends-s01.webp" alt="Friends Season 01" width="72" /><br/>**Friends Season 01** | 24 条音频；可用 SRT / REC / RECX 文本。 | 2026-08-04 | `v1` | [GitHub Release](https://github.com/andylee1890/reciter-resources/releases/tag/friends-s01-audio-v1) |

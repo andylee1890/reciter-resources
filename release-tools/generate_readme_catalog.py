@@ -84,7 +84,7 @@ def catalog_row(root: Path, release: dict[str, Any]) -> str:
 def catalog_markdown(root: Path, index: dict[str, Any]) -> str:
     lines = [
         CATALOG_START,
-        "| 资料包 | 介绍 | 更新日期 | 版本 | 下载链接 |",
+        "| 卡组 | 介绍 | 更新日期 | 版本 | 下载链接 |",
         "| --- | --- | --- | --- | --- |",
     ]
     lines.extend(f"| {catalog_row(root, release)} |" for release in index["releases"])
