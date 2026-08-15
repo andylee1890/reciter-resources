@@ -6,7 +6,7 @@
   "repository": "andylee1890/reciter-resources",
   "branch": "main",
   "folder": "resources/AAT",
-  "createdAt": "2026-08-09 17:05:40 +0800",
+  "createdAt": "2026-08-16 03:16:49 +0800",
   "poster": {
     "id": "american-accent-training",
     "kind": "textbook-cover",
@@ -38,6 +38,17 @@
     }
   },
   "platforms": {
+    "githubRelease": {
+      "releaseUrls": [
+        "https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-01-v1",
+        "https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-02-v1",
+        "https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-03-v1",
+        "https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-04-v1",
+        "https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-05-v1",
+        "https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-06-v1",
+        "https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-07-v1"
+      ]
+    },
     "mirrors": [
       {
         "provider": "internetArchive",
@@ -53,6 +64,7 @@
       "name": "001 - Read This First.mp3",
       "sizeMiB": 9.92,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/001.-.Read.This.First.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -79,6 +91,7 @@
       "name": "002 - A Few Words on Pronunciation.mp3",
       "sizeMiB": 9.36,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/002.-.A.Few.Words.on.Pronunciation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -105,6 +118,7 @@
       "name": "003 - We don't have some of those sounds.mp3",
       "sizeMiB": 2.79,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/003.-.We.don.t.have.some.of.those.sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -131,6 +145,7 @@
       "name": "004 - Vowel & Consonant Overview.mp3",
       "sizeMiB": 1.17,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/004.-.Vowel.Consonant.Overview.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -157,6 +172,7 @@
       "name": "005 - Vowel & Consonant Chart.mp3",
       "sizeMiB": 11.02,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/005.-.Vowel.Consonant.Chart.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -183,6 +199,7 @@
       "name": "006 - Vowel & Consonant Overview 2.mp3",
       "sizeMiB": 22.59,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/006.-.Vowel.Consonant.Overview.2.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -209,6 +226,7 @@
       "name": "007 - Preliminary Diagnostic Analysis.mp3",
       "sizeMiB": 1.26,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/007.-.Preliminary.Diagnostic.Analysis.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -235,6 +253,7 @@
       "name": "008 - Exercise 1-1.mp3",
       "sizeMiB": 2.96,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/008.-.Exercise.1-1.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -261,6 +280,7 @@
       "name": "009 - Exercise 1-2 - Combining Sounds.mp3",
       "sizeMiB": 1.13,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/009.-.Exercise.1-2.-.Combining.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -287,6 +307,7 @@
       "name": "010 - Exercise 1-3 - Pronunciation & Cadence.mp3",
       "sizeMiB": 1.25,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/010.-.Exercise.1-3.-.Pronunciation.Cadence.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -313,6 +334,7 @@
       "name": "011 - Exercise 1-4 - Pure Sound.mp3",
       "sizeMiB": 2.3,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/011.-.Exercise.1-4.-.Pure.Sound.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -339,6 +361,7 @@
       "name": "012 - Exercise 1-5 - Regular English.mp3",
       "sizeMiB": 1.12,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/012.-.Exercise.1-5.-.Regular.English.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -365,6 +388,7 @@
       "name": "013 - Exercise 1-6 - Pure Sound.mp3",
       "sizeMiB": 2.44,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/013.-.Exercise.1-6.-.Pure.Sound.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -391,6 +415,7 @@
       "name": "014 - Voice Quality.mp3",
       "sizeMiB": 5.09,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/014.-.Voice.Quality.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -417,6 +442,7 @@
       "name": "015 - Music.mp3",
       "sizeMiB": 1.59,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/015.-.Music.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -443,6 +469,7 @@
       "name": "016 - Exercise 1-1 - Pitch-Sound.mp3",
       "sizeMiB": 2.47,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/016.-.Exercise.1-1.-.Pitch-Sound.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -469,6 +496,7 @@
       "name": "017 - The Daddy Voice.mp3",
       "sizeMiB": 1.61,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/017.-.The.Daddy.Voice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -495,6 +523,7 @@
       "name": "018 - The American Speech Music - Change pitch on important information.mp3",
       "sizeMiB": 7.81,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/018.-.The.American.Speech.Music.-.Change.pitch.on.important.information.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -521,6 +550,7 @@
       "name": "019 - Exercise 1-7 - Rubber Band Practice with Nonsense Syllables.mp3",
       "sizeMiB": 5.42,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/019.-.Exercise.1-7.-.Rubber.Band.Practice.with.Nonsense.Syllables.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -547,6 +577,7 @@
       "name": "020 - The American Speech Music.mp3",
       "sizeMiB": 2.28,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/020.-.The.American.Speech.Music.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -573,6 +604,7 @@
       "name": "021 - Staircase Intonation.mp3",
       "sizeMiB": 1.39,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/021.-.Staircase.Intonation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -599,6 +631,7 @@
       "name": "022 - Exercise 1-8 - Noun Intonation.mp3",
       "sizeMiB": 3.36,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/022.-.Exercise.1-8.-.Noun.Intonation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -625,6 +658,7 @@
       "name": "023 - Statement Intonation with Pronouns.mp3",
       "sizeMiB": 0.9,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/023.-.Statement.Intonation.with.Pronouns.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -651,6 +685,7 @@
       "name": "024 - Exercise 1-9 - Noun and Pronoun Intonation.mp3",
       "sizeMiB": 3.65,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/024.-.Exercise.1-9.-.Noun.and.Pronoun.Intonation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -677,6 +712,7 @@
       "name": "025 - Statement Versus Question Intonation.mp3",
       "sizeMiB": 1.88,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/025.-.Statement.Versus.Question.Intonation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -703,6 +739,7 @@
       "name": "026 - Exercise 1-10 - Sentence Intonation Test.mp3",
       "sizeMiB": 0.34,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/026.-.Exercise.1-10.-.Sentence.Intonation.Test.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -729,6 +766,7 @@
       "name": "027 - Exercise 1-11 - Four Main Reasons for Intonation.mp3",
       "sizeMiB": 4.24,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/027.-.Exercise.1-11.-.Four.Main.Reasons.for.Intonation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -755,6 +793,7 @@
       "name": "028 - Exercise 1-12 - Pitch and Meaning Change.mp3",
       "sizeMiB": 1.13,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/028.-.Exercise.1-12.-.Pitch.and.Meaning.Change.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -781,6 +820,7 @@
       "name": "029 - Exercise 1-13 - Individual Practice.mp3",
       "sizeMiB": 2.47,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/029.-.Exercise.1-13.-.Individual.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -807,6 +847,7 @@
       "name": "030 - Exercise 1-14 - Meaning of Pretty.mp3",
       "sizeMiB": 1.05,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/030.-.Exercise.1-14.-.Meaning.of.Pretty.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -833,6 +874,7 @@
       "name": "031 - Exercise 1-15 - Inflection.mp3",
       "sizeMiB": 3.57,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/031.-.Exercise.1-15.-.Inflection.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -859,6 +901,7 @@
       "name": "032 - Exercise 1-16 - Individual Practice.mp3",
       "sizeMiB": 4.62,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/032.-.Exercise.1-16.-.Individual.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -885,6 +928,7 @@
       "name": "033 - Exercise 1-17 - Sticky Note Exercise.mp3",
       "sizeMiB": 1.82,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/033.-.Exercise.1-17.-.Sticky.Note.Exercise.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -911,6 +955,7 @@
       "name": "034 - Overdo It.mp3",
       "sizeMiB": 1.57,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/034.-.Overdo.It.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -937,6 +982,7 @@
       "name": "035 - Exercise 1-18 - Translation.mp3",
       "sizeMiB": 0.59,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/035.-.Exercise.1-18.-.Translation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -963,6 +1009,7 @@
       "name": "036 - In Your Own Language.mp3",
       "sizeMiB": 4.17,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/036.-.In.Your.Own.Language.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -989,6 +1036,7 @@
       "name": "037 - Intonation Contrast.mp3",
       "sizeMiB": 1.21,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/037.-.Intonation.Contrast.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1015,6 +1063,7 @@
       "name": "038 - Exercise 1-19 - Create Your Own Intonation Contrast.mp3",
       "sizeMiB": 0.61,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/038.-.Exercise.1-19.-.Create.Your.Own.Intonation.Contrast.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1041,6 +1090,7 @@
       "name": "039 - Question Types.mp3",
       "sizeMiB": 2.19,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/039.-.Question.Types.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1067,6 +1117,7 @@
       "name": "040 - Exercise 1-20 - Variable Stress.mp3",
       "sizeMiB": 2.42,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/040.-.Exercise.1-20.-.Variable.Stress.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1093,6 +1144,7 @@
       "name": "041 - Exercise 1-21 - Make a Variable Stress Sentence.mp3",
       "sizeMiB": 0.84,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/041.-.Exercise.1-21.-.Make.a.Variable.Stress.Sentence.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1119,6 +1171,7 @@
       "name": "042 - Exercise 1-22 - Yes, You Can or No, You Can't_.mp3",
       "sizeMiB": 1.72,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/042.-.Exercise.1-22.-.Yes.You.Can.or.No.You.Can.t_.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1145,6 +1198,7 @@
       "name": "043 - Exercise 1-23 - Can or Can't Quiz.mp3",
       "sizeMiB": 1.69,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/043.-.Exercise.1-23.-.Can.or.Can.t.Quiz.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1171,6 +1225,7 @@
       "name": "044 - Application of Intonation.mp3",
       "sizeMiB": 1.51,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/044.-.Application.of.Intonation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1197,6 +1252,7 @@
       "name": "045 - Exercise 1-24 - Application of Stress.mp3",
       "sizeMiB": 2.7,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/045.-.Exercise.1-24.-.Application.of.Stress.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1223,6 +1279,7 @@
       "name": "046 - How You Talk Indicates to People How You Are.mp3",
       "sizeMiB": 2.35,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/046.-.How.You.Talk.Indicates.to.People.How.You.Are.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1249,6 +1306,7 @@
       "name": "047 - Exercise 1-25 - Paragraph Intonation Practice.mp3",
       "sizeMiB": 0.77,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/047.-.Exercise.1-25.-.Paragraph.Intonation.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1275,6 +1333,7 @@
       "name": "048 - Intonation & Attitude.mp3",
       "sizeMiB": 1.19,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/048.-.Intonation.Attitude.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1301,6 +1360,7 @@
       "name": "049 - Exercise 1-26 - Nonverbal Intonation.mp3",
       "sizeMiB": 1.97,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/049.-.Exercise.1-26.-.Nonverbal.Intonation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1327,6 +1387,7 @@
       "name": "050 - Exercise 1-27 - Sounds of Empathy.mp3",
       "sizeMiB": 2.47,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/050.-.Exercise.1-27.-.Sounds.of.Empathy.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1353,6 +1414,7 @@
       "name": "051 - Warm Up with Run-Up Phrases.mp3",
       "sizeMiB": 0.98,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/051.-.Warm.Up.with.Run-Up.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1379,6 +1441,7 @@
       "name": "052 - Variety.mp3",
       "sizeMiB": 1.32,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/052.-.Variety.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1405,6 +1468,7 @@
       "name": "053 - Exercise 1-28 - Reading with Staircase Intonation.mp3",
       "sizeMiB": 3.31,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/053.-.Exercise.1-28.-.Reading.with.Staircase.Intonation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1431,6 +1495,7 @@
       "name": "054 - Exercise 1-29 - Spelling and Numbers.mp3",
       "sizeMiB": 3.34,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/054.-.Exercise.1-29.-.Spelling.and.Numbers.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1457,6 +1522,7 @@
       "name": "055 - Exercise 1-30 - Sound & Meaning Shifts.mp3",
       "sizeMiB": 1.99,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/055.-.Exercise.1-30.-.Sound.Meaning.Shifts.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1483,6 +1549,7 @@
       "name": "056 - Exercise 1-31 - Squeezed-Out Syllables.mp3",
       "sizeMiB": 4.07,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/056.-.Exercise.1-31.-.Squeezed-Out.Syllables.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1509,6 +1576,7 @@
       "name": "057 - Exercise 1-32 - Regular Transitions of Nouns and Verbs.mp3",
       "sizeMiB": 5.04,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/057.-.Exercise.1-32.-.Regular.Transitions.of.Nouns.and.Verbs.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1535,6 +1603,7 @@
       "name": "058 - Exercise 1-33 - Regular Transitions of Adjectives and Verbs.mp3",
       "sizeMiB": 3.04,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/058.-.Exercise.1-33.-.Regular.Transitions.of.Adjectives.and.Verbs.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1561,6 +1630,7 @@
       "name": "059 - Exercise 1-34 - Regular Transitions of Adjectives and Verbs.mp3",
       "sizeMiB": 1.85,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/059.-.Exercise.1-34.-.Regular.Transitions.of.Adjectives.and.Verbs.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1587,6 +1657,7 @@
       "name": "060 - Syllable Stress.mp3",
       "sizeMiB": 1.0,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/060.-.Syllable.Stress.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1613,6 +1684,7 @@
       "name": "061 - Exercise 1-35 - Syllable Patterns.mp3",
       "sizeMiB": 20.1,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/061.-.Exercise.1-35.-.Syllable.Patterns.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1639,6 +1711,7 @@
       "name": "062 - Syllable Stress- Rule of Thumb.mp3",
       "sizeMiB": 0.95,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/062.-.Syllable.Stress-.Rule.of.Thumb.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1665,6 +1738,7 @@
       "name": "063 - Exercise 1-36 - Syllable Stress.mp3",
       "sizeMiB": 0.95,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/063.-.Exercise.1-36.-.Syllable.Stress.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1691,6 +1765,7 @@
       "name": "064 - Exercise 1-37 - The 5% Rule - Stress the last syllable.mp3",
       "sizeMiB": 0.78,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/064.-.Exercise.1-37.-.The.5.Rule.-.Stress.the.last.syllable.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1717,6 +1792,7 @@
       "name": "065 - Exercise 1-38 - Intonation Shifts.mp3",
       "sizeMiB": 3.42,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/065.-.Exercise.1-38.-.Intonation.Shifts.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1743,6 +1819,7 @@
       "name": "066 - Complex Intonation.mp3",
       "sizeMiB": 3.0,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/066.-.Complex.Intonation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1769,6 +1846,7 @@
       "name": "067 - Exercise 1-39 - Single-Word Phrases.mp3",
       "sizeMiB": 2.25,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/067.-.Exercise.1-39.-.Single-Word.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1795,6 +1873,7 @@
       "name": "068 - Two-Word Phrases.mp3",
       "sizeMiB": 0.58,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/068.-.Two-Word.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1821,6 +1900,7 @@
       "name": "069 - Exercise 1-40 - Sentence Stess with Descriptive Phrases.mp3",
       "sizeMiB": 2.27,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/069.-.Exercise.1-40.-.Sentence.Stess.with.Descriptive.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1847,6 +1927,7 @@
       "name": "070 - Exercise 1-41 - Two Types of Descriptive Phrases.mp3",
       "sizeMiB": 2.22,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-01-v1/070.-.Exercise.1-41.-.Two.Types.of.Descriptive.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1873,6 +1954,7 @@
       "name": "071 - Exercise 1-42 - Descriptive Phrase Story - The Ugly Duckling.mp3",
       "sizeMiB": 3.27,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/071.-.Exercise.1-42.-.Descriptive.Phrase.Story.-.The.Ugly.Duckling.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1899,6 +1981,7 @@
       "name": "072 - Set Phrases.mp3",
       "sizeMiB": 5.24,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/072.-.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1925,6 +2008,7 @@
       "name": "073 - Exercise 1-43 - Sentence Stress with Set Phrases.mp3",
       "sizeMiB": 2.74,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/073.-.Exercise.1-43.-.Sentence.Stress.with.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1951,6 +2035,7 @@
       "name": "074 - Exercise 1-44 - Making Set Phrases.mp3",
       "sizeMiB": 0.34,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/074.-.Exercise.1-44.-.Making.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -1977,6 +2062,7 @@
       "name": "075 - Exercise 1-45 - Set Phrase Story - The Little Match Girl.mp3",
       "sizeMiB": 4.31,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/075.-.Exercise.1-45.-.Set.Phrase.Story.-.The.Little.Match.Girl.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2003,6 +2089,7 @@
       "name": "076 - Exercise 1-46 - Contrasting Descriptive and Set Phrases.mp3",
       "sizeMiB": 2.08,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/076.-.Exercise.1-46.-.Contrasting.Descriptive.and.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2029,6 +2116,7 @@
       "name": "077 - Exercise 1-47 - Two-Word Stress.mp3",
       "sizeMiB": 4.14,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/077.-.Exercise.1-47.-.Two-Word.Stress.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2055,6 +2143,7 @@
       "name": "078 - Summary of Stress in Two-Word Phrases.mp3",
       "sizeMiB": 3.03,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/078.-.Summary.of.Stress.in.Two-Word.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2081,6 +2170,7 @@
       "name": "079 - Nationalities.mp3",
       "sizeMiB": 0.84,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/079.-.Nationalities.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2107,6 +2197,7 @@
       "name": "080 - Exercise 1-48 - Nationality Intonation Quiz.mp3",
       "sizeMiB": 0.95,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/080.-.Exercise.1-48.-.Nationality.Intonation.Quiz.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2133,6 +2224,7 @@
       "name": "081 - Nationality Intonation.mp3",
       "sizeMiB": 4.0,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/081.-.Nationality.Intonation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2159,6 +2251,7 @@
       "name": "082 - Exercise 1-49 - Contrasting Descriptive and Set Phrases.mp3",
       "sizeMiB": 2.63,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/082.-.Exercise.1-49.-.Contrasting.Descriptive.and.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2185,6 +2278,7 @@
       "name": "083 - Exercise 1-50 - Contrast of Compound Nouns.mp3",
       "sizeMiB": 8.38,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/083.-.Exercise.1-50.-.Contrast.of.Compound.Nouns.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2211,6 +2305,7 @@
       "name": "084 - Exercise 1-51 - Description and Set Phrase Test.mp3",
       "sizeMiB": 5.51,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/084.-.Exercise.1-51.-.Description.and.Set.Phrase.Test.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2237,6 +2332,7 @@
       "name": "085 - Exercise 1-52 - Descriptions and Set Phrases - Goldilocks.mp3",
       "sizeMiB": 5.23,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/085.-.Exercise.1-52.-.Descriptions.and.Set.Phrases.-.Goldilocks.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2263,6 +2359,7 @@
       "name": "086 -  Sound-Pronunciation.mp3",
       "sizeMiB": 1.7,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/086.-.Sound-Pronunciation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2289,6 +2386,7 @@
       "name": "087 -  Phrasal Verbs.mp3",
       "sizeMiB": 3.88,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/087.-.Phrasal.Verbs.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2315,6 +2413,7 @@
       "name": "088 -  Exercise 1-53 - Phrasal Verb Quiz.mp3",
       "sizeMiB": 5.0,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/088.-.Exercise.1-53.-.Phrasal.Verb.Quiz.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2341,6 +2440,7 @@
       "name": "089 -  Exercise 1-54 - Shifting Your Voice Position.mp3",
       "sizeMiB": 3.91,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/089.-.Exercise.1-54.-.Shifting.Your.Voice.Position.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2367,6 +2467,7 @@
       "name": "090 - The Underlying Hum.mp3",
       "sizeMiB": 1.3,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/090.-.The.Underlying.Hum.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2393,6 +2494,7 @@
       "name": "091 -  I Closed My Eyes and Listened Carefully.mp3",
       "sizeMiB": 1.23,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/091.-.I.Closed.My.Eyes.and.Listened.Carefully.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2419,6 +2521,7 @@
       "name": "092 -  Go-To Phrase.mp3",
       "sizeMiB": 1.6,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/092.-.Go-To.Phrase.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2445,6 +2548,7 @@
       "name": "092a - Exercise 1-55 - Mr. Thingamajig.mp3",
       "sizeMiB": 5.52,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/092a.-.Exercise.1-55.-.Mr.Thingamajig.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2471,6 +2575,7 @@
       "name": "093 - Chapter 2 - Word Linking & Phrasing.mp3",
       "sizeMiB": 2.98,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/093.-.Chapter.2.-.Word.Linking.Phrasing.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2497,6 +2602,7 @@
       "name": "094 - Exercise 2-1 - Spelling and Pronunciation.mp3",
       "sizeMiB": 1.07,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/094.-.Exercise.2-1.-.Spelling.and.Pronunciation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2523,6 +2629,7 @@
       "name": "095 - Liaison Rule 1 - Consonant-Vowel.mp3",
       "sizeMiB": 0.49,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/095.-.Liaison.Rule.1.-.Consonant-Vowel.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2549,6 +2656,7 @@
       "name": "096 - Exercise 2-2 - Word Connections.mp3",
       "sizeMiB": 1.0,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/096.-.Exercise.2-2.-.Word.Connections.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2575,6 +2683,7 @@
       "name": "097 - Exercise 2-3 - Spelling and Number Connections.mp3",
       "sizeMiB": 1.54,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/097.-.Exercise.2-3.-.Spelling.and.Number.Connections.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2601,6 +2710,7 @@
       "name": "098 - Exercise 2-4 - Consonant-Vowel Liaison Practice.mp3",
       "sizeMiB": 1.87,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/098.-.Exercise.2-4.-.Consonant-Vowel.Liaison.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2627,6 +2737,7 @@
       "name": "099 - Liaison Rule 2 - Consonant-Consonant.mp3",
       "sizeMiB": 0.57,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/099.-.Liaison.Rule.2.-.Consonant-Consonant.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2653,6 +2764,7 @@
       "name": "100 - Exercise 2-5 - Consonant-Consonant Liaisons.mp3",
       "sizeMiB": 2.4,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/100.-.Exercise.2-5.-.Consonant-Consonant.Liaisons.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2679,6 +2791,7 @@
       "name": "101 - Exercise 2-6 - Consonant-Consonant Liaisons.mp3",
       "sizeMiB": 4.68,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/101.-.Exercise.2-6.-.Consonant-Consonant.Liaisons.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2705,6 +2818,7 @@
       "name": "102 - Exercise 2-7 - Liaisons with TH Combination.mp3",
       "sizeMiB": 1.56,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/102.-.Exercise.2-7.-.Liaisons.with.TH.Combination.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2731,6 +2845,7 @@
       "name": "103 - Exercise 2-8 - Consonant-Consonant Liaison Practice.mp3",
       "sizeMiB": 1.84,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/103.-.Exercise.2-8.-.Consonant-Consonant.Liaison.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2757,6 +2872,7 @@
       "name": "104 - Liaison Rule 3 - VowelVowel.mp3",
       "sizeMiB": 2.42,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/104.-.Liaison.Rule.3.-.Vowel.Vowel.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2783,6 +2899,7 @@
       "name": "105 - Exercise 2-9 - Vowel-Vowel Liaison Practice.mp3",
       "sizeMiB": 1.91,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/105.-.Exercise.2-9.-.Vowel-Vowel.Liaison.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2809,6 +2926,7 @@
       "name": "106 - Liaison Rule 4 - T, D, S, or Z + Y.mp3",
       "sizeMiB": 0.78,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/106.-.Liaison.Rule.4.-.T.D.S.or.Z.%2B.Y.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2835,6 +2953,7 @@
       "name": "107 - Exercise 2-10 - T, D, S, or Z + Y Liaisons.mp3",
       "sizeMiB": 4.21,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/107.-.Exercise.2-10.-.T.D.S.or.Z.%2B.Y.Liaisons.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2861,6 +2980,7 @@
       "name": "108 - Exercise 2-11 - T, D, S, or Z + Y Liaison Practice.mp3",
       "sizeMiB": 1.96,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/108.-.Exercise.2-11.-.T.D.S.or.Z.%2B.Y.Liaison.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2887,6 +3007,7 @@
       "name": "109 - Exercise 2-12 - Finding Liaisons and Glides.mp3",
       "sizeMiB": 4.95,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/109.-.Exercise.2-12.-.Finding.Liaisons.and.Glides.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2913,6 +3034,7 @@
       "name": "110 - Exercise 2-13 - Practicing Liaisons.mp3",
       "sizeMiB": 0.68,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/110.-.Exercise.2-13.-.Practicing.Liaisons.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2939,6 +3061,7 @@
       "name": "111 - Exercise 2-14 - Additional Liaison Practice.mp3",
       "sizeMiB": 1.37,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/111.-.Exercise.2-14.-.Additional.Liaison.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2965,6 +3088,7 @@
       "name": "112 - Exercise 2-15 - Colloquial Reducations and Liaisons.mp3",
       "sizeMiB": 3.74,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/112.-.Exercise.2-15.-.Colloquial.Reducations.and.Liaisons.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -2991,6 +3115,7 @@
       "name": "113 - Spoon or Sboon.mp3",
       "sizeMiB": 2.3,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/113.-.Spoon.or.Sboon.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3017,6 +3142,7 @@
       "name": "114 - Word Groups and Phrasing.mp3",
       "sizeMiB": 2.36,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/114.-.Word.Groups.and.Phrasing.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3043,6 +3169,7 @@
       "name": "115 - Exercise 2-16 - Phrasing.mp3",
       "sizeMiB": 2.75,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/115.-.Exercise.2-16.-.Phrasing.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3069,6 +3196,7 @@
       "name": "116 - Exercise 2-17 - Creating Word Groups.mp3",
       "sizeMiB": 0.79,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/116.-.Exercise.2-17.-.Creating.Word.Groups.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3095,6 +3223,7 @@
       "name": "117 - Exercise 2-18 - Practicing Word Groups.mp3",
       "sizeMiB": 4.38,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/117.-.Exercise.2-18.-.Practicing.Word.Groups.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3121,6 +3250,7 @@
       "name": "118 - Exercise 2-19 - Punctuation & Phrasing.mp3",
       "sizeMiB": 0.7,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/118.-.Exercise.2-19.-.Punctuation.Phrasing.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3147,6 +3277,7 @@
       "name": "119 - Exercise 2-20 - Tag Endings.mp3",
       "sizeMiB": 0.56,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/119.-.Exercise.2-20.-.Tag.Endings.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3173,6 +3304,7 @@
       "name": "120 - Vowel and Consonant Mouth Positions.mp3",
       "sizeMiB": 0.96,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/120.-.Vowel.and.Consonant.Mouth.Positions.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3199,6 +3331,7 @@
       "name": "121 - Cat_Caught_Cut.mp3",
       "sizeMiB": 6.3,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/121.-.Cat_Caught_Cut.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3225,6 +3358,7 @@
       "name": "122 - Exercise 3-1 - Word-By-Word and In a Sentence.mp3",
       "sizeMiB": 0.67,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/122.-.Exercise.3-1.-.Word-By-Word.and.In.a.Sentence.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3251,6 +3385,7 @@
       "name": "123 - Exercise 3-2 - Finding æ, ä, and ə Sounds.mp3",
       "sizeMiB": 1.49,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/123.-.Exercise.3-2.-.Finding.ae.a.and.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3277,6 +3412,7 @@
       "name": "124 - Exercise 3-3 - Vowel Sound Differentiation.mp3",
       "sizeMiB": 0.2,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/124.-.Exercise.3-3.-.Vowel.Sound.Differentiation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3303,6 +3439,7 @@
       "name": "124a - Exercise 3-3 - Ae down.mp3",
       "sizeMiB": 0.91,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/124a.-.Exercise.3-3.-.Ae.down.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3329,6 +3466,7 @@
       "name": "124b - Exercise 3-3 - Ann across.mp3",
       "sizeMiB": 0.35,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/124b.-.Exercise.3-3.-.Ann.across.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3355,6 +3493,7 @@
       "name": "124c - Exercise 3-3 - gap across.mp3",
       "sizeMiB": 0.37,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/124c.-.Exercise.3-3.-.gap.across.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3381,6 +3520,7 @@
       "name": "124d - Exercise 3-3 - Nan across.mp3",
       "sizeMiB": 0.37,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/124d.-.Exercise.3-3.-.Nan.across.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3407,6 +3547,7 @@
       "name": "124e - Exercise 3-3 - chance across.mp3",
       "sizeMiB": 0.37,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/124e.-.Exercise.3-3.-.chance.across.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3433,6 +3574,7 @@
       "name": "124f - Exercise 3-3 - dock duck dog.mp3",
       "sizeMiB": 0.04,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/124f.-.Exercise.3-3.-.dock.duck.dog.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3459,6 +3601,7 @@
       "name": "125 - Exercise 3-4 - Reading the æ Sound.mp3",
       "sizeMiB": 1.55,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/125.-.Exercise.3-4.-.Reading.the.ae.Sound.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3485,6 +3628,7 @@
       "name": "126 - Exercise 3-5 - Reading the ä Sound.mp3",
       "sizeMiB": 1.8,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/126.-.Exercise.3-5.-.Reading.the.a.Sound.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3511,6 +3655,7 @@
       "name": "127 - Exercise 3-6 - Reading the ə Sound.mp3",
       "sizeMiB": 1.48,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/127.-.Exercise.3-6.-.Reading.the.Sound.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3537,6 +3682,7 @@
       "name": "128 - The Miracle Technique.mp3",
       "sizeMiB": 2.7,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/128.-.The.Miracle.Technique.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3563,6 +3709,7 @@
       "name": "129 - Exercise 3-7 - Tell Me Wədai Say.mp3",
       "sizeMiB": 1.84,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/129.-.Exercise.3-7.-.Tell.Me.W.dai.Say.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3589,6 +3736,7 @@
       "name": "130 - Exercise 3-8 - Listening for Pure Sounds.mp3",
       "sizeMiB": 2.03,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/130.-.Exercise.3-8.-.Listening.for.Pure.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3615,6 +3763,7 @@
       "name": "131 - Exercise 3-9 - Extended Listening Practice.mp3",
       "sizeMiB": 5.55,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/131.-.Exercise.3-9.-.Extended.Listening.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3641,6 +3790,7 @@
       "name": "132 - The American T.mp3",
       "sizeMiB": 0.81,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/132.-.The.American.T.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3667,6 +3817,7 @@
       "name": "133 - Exercise 4-1 - Stressed and Unstressed T.mp3",
       "sizeMiB": 0.68,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-02-v1/133.-.Exercise.4-1.-.Stressed.and.Unstressed.T.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3693,6 +3844,7 @@
       "name": "134 - Exercise 4-2 - Betty Bought a Bit of Better Butter.mp3",
       "sizeMiB": 4.22,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/134.-.Exercise.4-2.-.Betty.Bought.a.Bit.of.Better.Butter.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3719,6 +3871,7 @@
       "name": "135 - Exercise 4-3 - Rule 1 - Top of the Staircase.mp3",
       "sizeMiB": 2.77,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/135.-.Exercise.4-3.-.Rule.1.-.Top.of.the.Staircase.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3745,6 +3898,7 @@
       "name": "136 - Exercise 4-4 - Rule 1 - Top of the Staircase Practice.mp3",
       "sizeMiB": 1.52,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/136.-.Exercise.4-4.-.Rule.1.-.Top.of.the.Staircase.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3771,6 +3925,7 @@
       "name": "137 - Exercise 4-5 - Rule 2 - Middle of the Staircase.mp3",
       "sizeMiB": 2.55,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/137.-.Exercise.4-5.-.Rule.2.-.Middle.of.the.Staircase.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3797,6 +3952,7 @@
       "name": "138 - Exercise 4-6 - Rule 3 - Bottom of the Staircase.mp3",
       "sizeMiB": 2.98,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/138.-.Exercise.4-6.-.Rule.3.-.Bottom.of.the.Staircase.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3823,6 +3979,7 @@
       "name": "139 - Exercise 4-7 - Rule 4 - Held T Before N.mp3",
       "sizeMiB": 5.96,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/139.-.Exercise.4-7.-.Rule.4.-.Held.T.Before.N.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3849,6 +4006,7 @@
       "name": "140 - Exercise 4-8 - Rule 5 - The Silent T.mp3",
       "sizeMiB": 1.83,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/140.-.Exercise.4-8.-.Rule.5.-.The.Silent.T.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3875,6 +4033,7 @@
       "name": "141 - Exercise 4-9 - Rule 5 - The Silent T.mp3",
       "sizeMiB": 1.57,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/141.-.Exercise.4-9.-.Rule.5.-.The.Silent.T.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3901,6 +4060,7 @@
       "name": "142 - Exercise 4-10 - Held T Before Glottal Consonants.mp3",
       "sizeMiB": 2.73,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/142.-.Exercise.4-10.-.Held.T.Before.Glottal.Consonants.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3927,6 +4087,7 @@
       "name": "143 - Exercise 4-11 - T Connections.mp3",
       "sizeMiB": 2.91,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/143.-.Exercise.4-11.-.T.Connections.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3953,6 +4114,7 @@
       "name": "144 - Exercise 4-12 - Combinations in Context.mp3",
       "sizeMiB": 3.18,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/144.-.Exercise.4-12.-.Combinations.in.Context.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -3979,6 +4141,7 @@
       "name": "145 - Exercise 4-13 - Voiced and Unvoiced Sounds with T.mp3",
       "sizeMiB": 2.93,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/145.-.Exercise.4-13.-.Voiced.and.Unvoiced.Sounds.with.T.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4005,6 +4168,7 @@
       "name": "146 - Exercise 4-14 - Finding American T Sounds.mp3",
       "sizeMiB": 0.81,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/146.-.Exercise.4-14.-.Finding.American.T.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4031,6 +4195,7 @@
       "name": "147 - Exercise 4-15 - Rhyme Time.mp3",
       "sizeMiB": 0.8,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/147.-.Exercise.4-15.-.Rhyme.Time.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4057,6 +4222,7 @@
       "name": "148 - Chapter 5 - The American R.mp3",
       "sizeMiB": 6.9,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/148.-.Chapter.5.-.The.American.R.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4083,6 +4249,7 @@
       "name": "149 - Exercise 5-1 - R Location Practice.mp3",
       "sizeMiB": 2.29,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/149.-.Exercise.5-1.-.R.Location.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4109,6 +4276,7 @@
       "name": "150 - Exercise 5-2 - Double Vowel with R.mp3",
       "sizeMiB": 5.42,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/150.-.Exercise.5-2.-.Double.Vowel.with.R.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4135,6 +4303,7 @@
       "name": "151 - Exercise 5-3 - How to Pronounce Troublesome Rs.mp3",
       "sizeMiB": 1.25,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/151.-.Exercise.5-3.-.How.to.Pronounce.Troublesome.Rs.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4161,6 +4330,7 @@
       "name": "152 - AR Combinations.mp3",
       "sizeMiB": 0.64,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/152.-.AR.Combinations.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4187,6 +4357,7 @@
       "name": "153 - Exercise 5-4 - Zbigniew's Epsilon List.mp3",
       "sizeMiB": 2.25,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/153.-.Exercise.5-4.-.Zbigniew.s.Epsilon.List.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4213,6 +4384,7 @@
       "name": "154 - Exercise 5-5 - R Combinations.mp3",
       "sizeMiB": 5.92,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/154.-.Exercise.5-5.-.R.Combinations.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4239,6 +4411,7 @@
       "name": "155 - Exercise 5-6 - The Mirror Store.mp3",
       "sizeMiB": 2.45,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/155.-.Exercise.5-6.-.The.Mirror.Store.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4265,6 +4438,7 @@
       "name": "156 - Exercise 5-7 - Finding the R Sounds.mp3",
       "sizeMiB": 0.8,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/156.-.Exercise.5-7.-.Finding.the.R.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4291,6 +4465,7 @@
       "name": "157 - Voiced Consonants and Reduced Vowels.mp3",
       "sizeMiB": 8.02,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/157.-.Voiced.Consonants.and.Reduced.Vowels.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4317,6 +4492,7 @@
       "name": "158 - The El.mp3",
       "sizeMiB": 2.66,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/158.-.The.El.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4343,6 +4519,7 @@
       "name": "159 - L Compared with T, D, and N.mp3",
       "sizeMiB": 3.44,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/159.-.L.Compared.with.T.D.and.N.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4369,6 +4546,7 @@
       "name": "160 - Exercise 6-1 - Sounds Comparing L with T, D, and N.mp3",
       "sizeMiB": 1.8,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/160.-.Exercise.6-1.-.Sounds.Comparing.L.with.T.D.and.N.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4395,6 +4573,7 @@
       "name": "161 - Exercise 6-2 - Sounds Comparing L with T, D, and N.mp3",
       "sizeMiB": 6.4,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/161.-.Exercise.6-2.-.Sounds.Comparing.L.with.T.D.and.N.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4421,6 +4600,7 @@
       "name": "162 - What Are All Those Extra Sounds I'm Hearing_.mp3",
       "sizeMiB": 1.01,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/162.-.What.Are.All.Those.Extra.Sounds.I.m.Hearing_.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4447,6 +4627,7 @@
       "name": "163 - Exercise 6-3 - Final El with Schwa.mp3",
       "sizeMiB": 1.24,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/163.-.Exercise.6-3.-.Final.El.with.Schwa.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4473,6 +4654,7 @@
       "name": "164 - Exercise 6-4 - Many Final Els.mp3",
       "sizeMiB": 1.3,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/164.-.Exercise.6-4.-.Many.Final.Els.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4499,6 +4681,7 @@
       "name": "165 - Exercise 6-5 - Liaise the Ls.mp3",
       "sizeMiB": 1.67,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/165.-.Exercise.6-5.-.Liaise.the.Ls.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4525,6 +4708,7 @@
       "name": "166 - Exercise 6-6 - Finding L Sounds.mp3",
       "sizeMiB": 0.57,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/166.-.Exercise.6-6.-.Finding.L.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4551,6 +4735,7 @@
       "name": "167 - Exercise 6-7 - Silent Ls.mp3",
       "sizeMiB": 1.86,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/167.-.Exercise.6-7.-.Silent.Ls.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4577,6 +4762,7 @@
       "name": "168 - Tongue Position.mp3",
       "sizeMiB": 1.4,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/168.-.Tongue.Position.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4603,6 +4789,7 @@
       "name": "169 - Exercise 6-8 - Hold Your Tongue.mp3",
       "sizeMiB": 1.96,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/169.-.Exercise.6-8.-.Hold.Your.Tongue.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4629,6 +4816,7 @@
       "name": "170 - Exercise 6-9 - Little Lola.mp3",
       "sizeMiB": 2.72,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/170.-.Exercise.6-9.-.Little.Lola.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4655,6 +4843,7 @@
       "name": "171 - DL Combination.mp3",
       "sizeMiB": 1.8,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/171.-.DL.Combination.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4681,6 +4870,7 @@
       "name": "172 - Exercise 6-10 - Dull versus -dle.mp3",
       "sizeMiB": 1.14,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/172.-.Exercise.6-10.-.Dull.versus.-dle.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4707,6 +4897,7 @@
       "name": "173 - Exercise 6-11 - Final L Practice.mp3",
       "sizeMiB": 3.62,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/173.-.Exercise.6-11.-.Final.L.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4733,6 +4924,7 @@
       "name": "174 - Exercise 6-12 - Thirty Little Turtles in a Bottle of Bottled Water.mp3",
       "sizeMiB": 1.83,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/174.-.Exercise.6-12.-.Thirty.Little.Turtles.in.a.Bottle.of.Bottled.Water.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4759,6 +4951,7 @@
       "name": "175 - Exercise 6-13 - Speed-reading.mp3",
       "sizeMiB": 4.27,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/175.-.Exercise.6-13.-.Speed-reading.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4785,6 +4978,7 @@
       "name": "176 - Exercise 6-14 - Tandem Reading.mp3",
       "sizeMiB": 2.19,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/176.-.Exercise.6-14.-.Tandem.Reading.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4811,6 +5005,7 @@
       "name": "177 - Chapter 7 - Reduced Sounds.mp3",
       "sizeMiB": 7.0,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/177.-.Chapter.7.-.Reduced.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4837,6 +5032,7 @@
       "name": "178 - Exercise 7-1 - Reducing Articles.mp3",
       "sizeMiB": 0.45,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/178.-.Exercise.7-1.-.Reducing.Articles.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4863,6 +5059,7 @@
       "name": "179 - Peaks & Valleys.mp3",
       "sizeMiB": 2.82,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/179.-.Peaks.Valleys.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4889,6 +5086,7 @@
       "name": "180 - Exercise 7-2 - Reduced Sounds.mp3",
       "sizeMiB": 18.05,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/180.-.Exercise.7-2.-.Reduced.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4915,6 +5113,7 @@
       "name": "181 - Exercise 7-3 - Intonation and Pronunciation of That.mp3",
       "sizeMiB": 1.43,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/181.-.Exercise.7-3.-.Intonation.and.Pronunciation.of.That.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4941,6 +5140,7 @@
       "name": "182 - Exercise 7-4 - Crossing Out Reduced Sounds.mp3",
       "sizeMiB": 0.65,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/182.-.Exercise.7-4.-.Crossing.Out.Reduced.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4967,6 +5167,7 @@
       "name": "183 - Exercise 7-5 - Reading Reduced Sounds.mp3",
       "sizeMiB": 3.13,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/183.-.Exercise.7-5.-.Reading.Reduced.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -4993,6 +5194,7 @@
       "name": "184 - Grammar in a Nutshell.mp3",
       "sizeMiB": 3.8,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/184.-.Grammar.in.a.Nutshell.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5019,6 +5221,7 @@
       "name": "185 - Exercise 7-6 - Consistent Noun Stress in Changing Verb Tenses.mp3",
       "sizeMiB": 4.79,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/185.-.Exercise.7-6.-.Consistent.Noun.Stress.in.Changing.Verb.Tenses.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5045,6 +5248,7 @@
       "name": "186 - Exercise 7-7 - Consistent Pronoun Stress in Changing Verb Tenses.mp3",
       "sizeMiB": 3.82,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/186.-.Exercise.7-7.-.Consistent.Pronoun.Stress.in.Changing.Verb.Tenses.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5071,6 +5275,7 @@
       "name": "187 - Exercise 7-8 - Writing Your Own Phonetics.mp3",
       "sizeMiB": 0.55,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/187.-.Exercise.7-8.-.Writing.Your.Own.Phonetics.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5097,6 +5302,7 @@
       "name": "188 - Exercise 7-9 - Supporting Words.mp3",
       "sizeMiB": 2.67,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/188.-.Exercise.7-9.-.Supporting.Words.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5123,6 +5329,7 @@
       "name": "189 - Fixed Word Order.mp3",
       "sizeMiB": 0.79,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/189.-.Fixed.Word.Order.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5149,6 +5356,7 @@
       "name": "190 - Exercise 7-10 - Contrast Practice.mp3",
       "sizeMiB": 1.44,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/190.-.Exercise.7-10.-.Contrast.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5175,6 +5383,7 @@
       "name": "191 - Exercise 7-11 - Building an Intonation Sentence.mp3",
       "sizeMiB": 5.65,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/191.-.Exercise.7-11.-.Building.an.Intonation.Sentence.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5201,6 +5410,7 @@
       "name": "192 - Exercise 7-12 - Building Your Own Intonation Sentences.mp3",
       "sizeMiB": 0.6,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/192.-.Exercise.7-12.-.Building.Your.Own.Intonation.Sentences.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5227,6 +5437,7 @@
       "name": "193 - Breathing Exercises.mp3",
       "sizeMiB": 1.75,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/193.-.Breathing.Exercises.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5253,6 +5464,7 @@
       "name": "194 - Chapter 8 - Tee Aitch.mp3",
       "sizeMiB": 5.6,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/194.-.Chapter.8.-.Tee.Aitch.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5279,6 +5491,7 @@
       "name": "195 - Exercise 8-1 - Targeting the TH Sound.mp3",
       "sizeMiB": 1.68,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/195.-.Exercise.8-1.-.Targeting.the.TH.Sound.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5305,6 +5518,7 @@
       "name": "196 - Exercise 8-2 - The Thuringian Thermometers.mp3",
       "sizeMiB": 2.03,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/196.-.Exercise.8-2.-.The.Thuringian.Thermometers.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5331,6 +5545,7 @@
       "name": "197 - Exercise 8-3 - Tongue Twisters.mp3",
       "sizeMiB": 1.33,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/197.-.Exercise.8-3.-.Tongue.Twisters.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5357,6 +5572,7 @@
       "name": "198 - Chapter 9 - S Or Z.mp3",
       "sizeMiB": 1.39,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/198.-.Chapter.9.-.S.Or.Z.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5383,6 +5599,7 @@
       "name": "199 - Exercise 9-1 - When S Becomes Z.mp3",
       "sizeMiB": 2.77,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/199.-.Exercise.9-1.-.When.S.Becomes.Z.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5409,6 +5626,7 @@
       "name": "200 - Exercise 9-2 - A Surly Sergeant Socked an Insolent Sailor.mp3",
       "sizeMiB": 2.11,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/200.-.Exercise.9-2.-.A.Surly.Sergeant.Socked.an.Insolent.Sailor.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5435,6 +5653,7 @@
       "name": "201 - Exercise 9-3 - Allz Well That Endz Well.mp3",
       "sizeMiB": 2.98,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/201.-.Exercise.9-3.-.Allz.Well.That.Endz.Well.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5461,6 +5680,7 @@
       "name": "202 - Final S.mp3",
       "sizeMiB": 0.81,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/202.-.Final.S.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5487,6 +5707,7 @@
       "name": "203 - Exercise 9-4 - Voiced and Unvoiced Endings in the Past Tense.mp3",
       "sizeMiB": 1.93,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-03-v1/203.-.Exercise.9-4.-.Voiced.and.Unvoiced.Endings.in.the.Past.Tense.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5513,6 +5734,7 @@
       "name": "204 - Exercise 9-5 - Finding S and Z Sounds.mp3",
       "sizeMiB": 0.89,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/204.-.Exercise.9-5.-.Finding.S.and.Z.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5539,6 +5761,7 @@
       "name": "205 - Exercise 9-6 - Application Steps with S and Z.mp3",
       "sizeMiB": 0.56,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/205.-.Exercise.9-6.-.Application.Steps.with.S.and.Z.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5565,6 +5788,7 @@
       "name": "206 - Exercise 9-7 - Your Own Application Steps with S and Z.mp3",
       "sizeMiB": 0.47,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/206.-.Exercise.9-7.-.Your.Own.Application.Steps.with.S.and.Z.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5591,6 +5815,7 @@
       "name": "207 - Telephone Tutoring - Mid-Point Diagnostic Analysis.mp3",
       "sizeMiB": 0.85,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/207.-.Telephone.Tutoring.-.Mid-Point.Diagnostic.Analysis.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5617,6 +5842,7 @@
       "name": "208 - So You're In a Tough Relationship with English, Let's Talk About That!.mp3",
       "sizeMiB": 4.38,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/208.-.So.You.re.In.a.Tough.Relationship.with.English.Let.s.Talk.About.That.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5643,6 +5869,7 @@
       "name": "209 - Let's Get Your Head in the Right Place.mp3",
       "sizeMiB": 2.05,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/209.-.Let.s.Get.Your.Head.in.the.Right.Place.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5669,6 +5896,7 @@
       "name": "210 - Two Methods.mp3",
       "sizeMiB": 2.79,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/210.-.Two.Methods.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5695,6 +5923,7 @@
       "name": "211 - Review Exercise 1 - Pure Mimicry.mp3",
       "sizeMiB": 0.39,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/211.-.Review.Exercise.1.-.Pure.Mimicry.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5721,6 +5950,7 @@
       "name": "212 - Please Call Stella.mp3",
       "sizeMiB": 0.27,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/212.-.Please.Call.Stella.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5747,6 +5977,7 @@
       "name": "213 - Did It Match.mp3",
       "sizeMiB": 0.52,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/213.-.Did.It.Match.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5773,6 +6004,7 @@
       "name": "214 - Review Exercise 2 - Are You Steadfast or Freewheeling.mp3",
       "sizeMiB": 2.34,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/214.-.Review.Exercise.2.-.Are.You.Steadfast.or.Freewheeling.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5799,6 +6031,7 @@
       "name": "215 - Review Exercise 3 - Mimicry.mp3",
       "sizeMiB": 0.28,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/215.-.Review.Exercise.3.-.Mimicry.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5825,6 +6058,7 @@
       "name": "216 - There was a time when people really had a way with words.mp3",
       "sizeMiB": 0.27,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/216.-.There.was.a.time.when.people.really.had.a.way.with.words.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5851,6 +6085,7 @@
       "name": "217 - Persistence.mp3",
       "sizeMiB": 6.13,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/217.-.Persistence.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5877,6 +6112,7 @@
       "name": "218 - Think, Then Act.mp3",
       "sizeMiB": 2.62,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/218.-.Think.Then.Act.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5903,6 +6139,7 @@
       "name": "219 - Review Exercise 4 - Correlating Sounds & Phonetic Transcription.mp3",
       "sizeMiB": 0.45,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/219.-.Review.Exercise.4.-.Correlating.Sounds.Phonetic.Transcription.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5929,6 +6166,7 @@
       "name": "220 - Gäddit.mp3",
       "sizeMiB": 0.67,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/220.-.Gaddit.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5955,6 +6193,7 @@
       "name": "221 - Review Exercise 5 - Correlating Phonetic Transcription & Regular Spelling.mp3",
       "sizeMiB": 0.88,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/221.-.Review.Exercise.5.-.Correlating.Phonetic.Transcription.Regular.Spelling.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -5981,6 +6220,7 @@
       "name": "222 - Skidiz.mp3",
       "sizeMiB": 3.72,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/222.-.Skidiz.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6007,6 +6247,7 @@
       "name": "223 - Review Exercise 6 - Gathering That Empirical Evidence.mp3",
       "sizeMiB": 1.8,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/223.-.Review.Exercise.6.-.Gathering.That.Empirical.Evidence.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6033,6 +6274,7 @@
       "name": "224 - Phonetic Transcription - Mathematical Notation.mp3",
       "sizeMiB": 4.4,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/224.-.Phonetic.Transcription.-.Mathematical.Notation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6059,6 +6301,7 @@
       "name": "225 - Over-Confidence.mp3",
       "sizeMiB": 2.0,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/225.-.Over-Confidence.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6085,6 +6328,7 @@
       "name": "226 - The - What - Factor.mp3",
       "sizeMiB": 3.91,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/226.-.The.-.What.-.Factor.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6111,6 +6355,7 @@
       "name": "227 - Go On, Change Your Name.mp3",
       "sizeMiB": 3.74,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/227.-.Go.On.Change.Your.Name.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6137,6 +6382,7 @@
       "name": "228 - Motivation.mp3",
       "sizeMiB": 3.97,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/228.-.Motivation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6163,6 +6409,7 @@
       "name": "229 - Go To Extremes.mp3",
       "sizeMiB": 2.52,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/229.-.Go.To.Extremes.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6189,6 +6436,7 @@
       "name": "230 - Your Own True Voice.mp3",
       "sizeMiB": 1.81,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/230.-.Your.Own.True.Voice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6215,6 +6463,7 @@
       "name": "231 - 7 Steps to a Perfect Accent.mp3",
       "sizeMiB": 1.89,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/231.-.7.Steps.to.a.Perfect.Accent.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6241,6 +6490,7 @@
       "name": "232 - Review and Expansion.mp3",
       "sizeMiB": 14.01,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/232.-.Review.and.Expansion.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6267,6 +6517,7 @@
       "name": "233 - Review Exercise 7 - To have a friend, be a friend.mp3",
       "sizeMiB": 0.25,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/233.-.Review.Exercise.7.-.To.have.a.friend.be.a.friend.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6293,6 +6544,7 @@
       "name": "234 - Review Exercise 8  - To have a friend, be a friend.mp3",
       "sizeMiB": 0.69,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/234.-.Review.Exercise.8.-.To.have.a.friend.be.a.friend.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6319,6 +6571,7 @@
       "name": "235 - Review Exercise 9 - Get a Better Water Heater!.mp3",
       "sizeMiB": 1.79,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/235.-.Review.Exercise.9.-.Get.a.Better.Water.Heater.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6345,6 +6598,7 @@
       "name": "236 - Review Exercise 10 - Your Own Sentence.mp3",
       "sizeMiB": 0.29,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/236.-.Review.Exercise.10.-.Your.Own.Sentence.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6371,6 +6625,7 @@
       "name": "237 - Getting Okay With Putting On An Accent.mp3",
       "sizeMiB": 1.78,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/237.-.Getting.Okay.With.Putting.On.An.Accent.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6397,6 +6652,7 @@
       "name": "238 - Review Exercise 11 - Varying Emotions.mp3",
       "sizeMiB": 1.47,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/238.-.Review.Exercise.11.-.Varying.Emotions.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6423,6 +6679,7 @@
       "name": "239 - Review Exercise 12 - Really_Maybe!.mp3",
       "sizeMiB": 1.99,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/239.-.Review.Exercise.12.-.Really_Maybe.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6449,6 +6706,7 @@
       "name": "240 - Review Exercise 13 - Who Did It_I Don't Know!.mp3",
       "sizeMiB": 2.5,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/240.-.Review.Exercise.13.-.Who.Did.It_I.Don.t.Know.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6475,6 +6733,7 @@
       "name": "241 - Review Exercise 14 - Russian Rebellion.mp3",
       "sizeMiB": 2.56,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/241.-.Review.Exercise.14.-.Russian.Rebellion.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6501,6 +6760,7 @@
       "name": "242 - Review Exercise A - Contrasting Descriptive and Set Phrases.mp3",
       "sizeMiB": 2.62,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/242.-.Review.Exercise.A.-.Contrasting.Descriptive.and.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6527,6 +6787,7 @@
       "name": "243 - Review Exercise B - Intonation Review Test.mp3",
       "sizeMiB": 2.65,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/243.-.Review.Exercise.B.-.Intonation.Review.Test.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6553,6 +6814,7 @@
       "name": "244 - Review Exercise C - Modifying Descriptive Phrases.mp3",
       "sizeMiB": 2.33,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/244.-.Review.Exercise.C.-.Modifying.Descriptive.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6579,6 +6841,7 @@
       "name": "245 - Review Exercise D - Modifying Set Phrases.mp3",
       "sizeMiB": 1.87,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/245.-.Review.Exercise.D.-.Modifying.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6605,6 +6868,7 @@
       "name": "246 - Review Exercise E - Two- and Three-Word Set Phrases.mp3",
       "sizeMiB": 2.87,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/246.-.Review.Exercise.E.-.Two-.and.Three-Word.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6631,6 +6895,7 @@
       "name": "247 - Review Exercise F - Three-Word Phrase Summary.mp3",
       "sizeMiB": 3.07,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/247.-.Review.Exercise.F.-.Three-Word.Phrase.Summary.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6657,6 +6922,7 @@
       "name": "248 - Review Exercise G - Three-Word Phrases - Three Little Pigs.mp3",
       "sizeMiB": 4.95,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/248.-.Review.Exercise.G.-.Three-Word.Phrases.-.Three.Little.Pigs.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6683,6 +6949,7 @@
       "name": "249 - Review Exercise H - Sentence Balance - Goldilocks.mp3",
       "sizeMiB": 6.16,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/249.-.Review.Exercise.H.-.Sentence.Balance.-.Goldilocks.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6709,6 +6976,7 @@
       "name": "250 - Review Exercise I - Multiple Modifiers with Set Phrases.mp3",
       "sizeMiB": 2.63,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/250.-.Review.Exercise.I.-.Multiple.Modifiers.with.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6735,6 +7003,7 @@
       "name": "251 - Review Exercise J - Compound Intonation of Numbers.mp3",
       "sizeMiB": 1.33,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/251.-.Review.Exercise.J.-.Compound.Intonation.of.Numbers.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6761,6 +7030,7 @@
       "name": "252 - Review Exercise K - Modifying Three-Word Set Phrases.mp3",
       "sizeMiB": 2.34,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/252.-.Review.Exercise.K.-.Modifying.Three-Word.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6787,6 +7057,7 @@
       "name": "253 - Review Exercise L - Four-Word Phrase Story - Little Red Riding Hood.mp3",
       "sizeMiB": 4.76,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/253.-.Review.Exercise.L.-.Four-Word.Phrase.Story.-.Little.Red.Riding.Hood.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6813,6 +7084,7 @@
       "name": "254 - Review Exercise M - Building Up to Five-Word Phrases.mp3",
       "sizeMiB": 1.61,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/254.-.Review.Exercise.M.-.Building.Up.to.Five-Word.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6839,6 +7111,7 @@
       "name": "255 - The Binary System.mp3",
       "sizeMiB": 1.24,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/255.-.The.Binary.System.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6865,6 +7138,7 @@
       "name": "256 - Review Exercise 15 - Ignorance on Parade.mp3",
       "sizeMiB": 1.48,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/256.-.Review.Exercise.15.-.Ignorance.on.Parade.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6891,6 +7165,7 @@
       "name": "257 - Chapter 10 - More Reduced Sounds.mp3",
       "sizeMiB": 1.82,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/257.-.Chapter.10.-.More.Reduced.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6917,6 +7192,7 @@
       "name": "258 - Exercise 10-1 - Comparing u and ü.mp3",
       "sizeMiB": 4.35,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/258.-.Exercise.10-1.-.Comparing.u.and.u.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6943,6 +7219,7 @@
       "name": "259 - Exercise 10-2 - Lax Vowels.mp3",
       "sizeMiB": 6.97,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/259.-.Exercise.10-2.-.Lax.Vowels.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6969,6 +7246,7 @@
       "name": "260 - Exercise 10-3 - Bit or Beat.mp3",
       "sizeMiB": 1.87,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/260.-.Exercise.10-3.-.Bit.or.Beat.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -6995,6 +7273,7 @@
       "name": "261 - Exercise 10-4 - Bit or Beat_Bid or Bead.mp3",
       "sizeMiB": 4.66,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/261.-.Exercise.10-4.-.Bit.or.Beat_Bid.or.Bead.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7021,6 +7300,7 @@
       "name": "262 - Bit-Beat-Bid-Bead Across.mp3",
       "sizeMiB": 2.6,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/262.-.Bit-Beat-Bid-Bead.Across.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7047,6 +7327,7 @@
       "name": "263 - Exercise 10-5 - Tense and Lax Vowel Exercise.mp3",
       "sizeMiB": 6.53,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/263.-.Exercise.10-5.-.Tense.and.Lax.Vowel.Exercise.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7073,6 +7354,7 @@
       "name": "264 - Your Own Speech Style.mp3",
       "sizeMiB": 0.77,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/264.-.Your.Own.Speech.Style.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7099,6 +7381,7 @@
       "name": "265 - Exercise 10-6 - The Middle I List.mp3",
       "sizeMiB": 8.22,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/265.-.Exercise.10-6.-.The.Middle.I.List.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7125,6 +7408,7 @@
       "name": "266 - Exercise 10-7 - Reduction Options.mp3",
       "sizeMiB": 1.46,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/266.-.Exercise.10-7.-.Reduction.Options.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7151,6 +7435,7 @@
       "name": "267 - Exercise 10-8 - Finding Reduced Sounds.mp3",
       "sizeMiB": 1.15,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/267.-.Exercise.10-8.-.Finding.Reduced.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7177,6 +7462,7 @@
       "name": "268 - All Prefixes Have a Schwa.mp3",
       "sizeMiB": 2.11,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/268.-.All.Prefixes.Have.a.Schwa.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7203,6 +7489,7 @@
       "name": "269 - Exercise 10-9 - How Much Wood Would a Woodchuck Chuck.mp3",
       "sizeMiB": 0.77,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/269.-.Exercise.10-9.-.How.Much.Wood.Would.a.Woodchuck.Chuck.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7229,6 +7516,7 @@
       "name": "270 - Exercise 10-10 - Büker Wülsey's Cükbük.mp3",
       "sizeMiB": 1.74,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/270.-.Exercise.10-10.-.Buker.Wulsey.s.Cukbuk.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7255,6 +7543,7 @@
       "name": "271 - Exercise 10-11 - A True Fool.mp3",
       "sizeMiB": 0.92,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/271.-.Exercise.10-11.-.A.True.Fool.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7281,6 +7570,7 @@
       "name": "272 - Yod Dropping.mp3",
       "sizeMiB": 0.66,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/272.-.Yod.Dropping.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7307,6 +7597,7 @@
       "name": "273 - Chapter 11 - V As In Victory.mp3",
       "sizeMiB": 3.93,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-04-v1/273.-.Chapter.11.-.V.As.In.Victory.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7333,6 +7624,7 @@
       "name": "274 - Exercise 11-1 - Mind Your Vees.mp3",
       "sizeMiB": 2.85,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/274.-.Exercise.11-1.-.Mind.Your.Vees.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7359,6 +7651,7 @@
       "name": "275 - Exercise 11-2 - The Vile VIP.mp3",
       "sizeMiB": 3.96,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/275.-.Exercise.11-2.-.The.Vile.VIP.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7385,6 +7678,7 @@
       "name": "276 - Exercise 11-3 - Finding V Sounds.mp3",
       "sizeMiB": 0.48,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/276.-.Exercise.11-3.-.Finding.V.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7411,6 +7705,7 @@
       "name": "277 - Exercise 11-4 - W, V & F.mp3",
       "sizeMiB": 2.01,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/277.-.Exercise.11-4.-.W.V.F.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7437,6 +7732,7 @@
       "name": "278 - Victor Vickerson.mp3",
       "sizeMiB": 1.22,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/278.-.Victor.Vickerson.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7463,6 +7759,7 @@
       "name": "279 - Fred's Fried Fish.mp3",
       "sizeMiB": 0.27,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/279.-.Fred.s.Fried.Fish.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7489,6 +7786,7 @@
       "name": "280 - Complete Vowel and Consonant Chart.mp3",
       "sizeMiB": 18.39,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/280.-.Complete.Vowel.and.Consonant.Chart.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7515,6 +7813,7 @@
       "name": "281 - Chapter 12 - Tense And Lax Vowels.mp3",
       "sizeMiB": 0.98,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/281.-.Chapter.12.-.Tense.And.Lax.Vowels.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7541,6 +7840,7 @@
       "name": "282 - Exercise 12-1 - Tense Vowels.mp3",
       "sizeMiB": 10.54,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/282.-.Exercise.12-1.-.Tense.Vowels.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7567,6 +7867,7 @@
       "name": "283 - Exercise 12-2 - Tense Vowels Practice Paragraph.mp3",
       "sizeMiB": 0.74,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/283.-.Exercise.12-2.-.Tense.Vowels.Practice.Paragraph.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7593,6 +7894,7 @@
       "name": "284 - Exercise 12-3 - Lax Vowels.mp3",
       "sizeMiB": 2.85,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/284.-.Exercise.12-3.-.Lax.Vowels.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7619,6 +7921,7 @@
       "name": "285 - Exercise 12-4 - Lax Vowels Practice Paragraph.mp3",
       "sizeMiB": 1.12,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/285.-.Exercise.12-4.-.Lax.Vowels.Practice.Paragraph.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7645,6 +7948,7 @@
       "name": "286 - Exercise 12-5 - Take a High-Tech Tack.mp3",
       "sizeMiB": 1.6,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/286.-.Exercise.12-5.-.Take.a.High-Tech.Tack.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7671,6 +7975,7 @@
       "name": "287 - ā-æ-Ɛ.mp3",
       "sizeMiB": 0.74,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/287.-.a-ae-.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7697,6 +8002,7 @@
       "name": "288 - Exercise 12-6 - Pick a Peak.mp3",
       "sizeMiB": 2.89,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/288.-.Exercise.12-6.-.Pick.a.Peak.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7723,6 +8029,7 @@
       "name": "289 - eeh & ih.mp3",
       "sizeMiB": 0.53,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/289.-.eeh.ih.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7749,6 +8056,7 @@
       "name": "290 - Chapter 13 - The Ridge.mp3",
       "sizeMiB": 0.93,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/290.-.Chapter.13.-.The.Ridge.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7775,6 +8083,7 @@
       "name": "291 - Exercise 13-1 - It's So Sad.mp3",
       "sizeMiB": 1.7,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/291.-.Exercise.13-1.-.It.s.So.Sad.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7801,6 +8110,7 @@
       "name": "292 - Exercise 13-2 - Allz Well That Endz Well.mp3",
       "sizeMiB": 2.26,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/292.-.Exercise.13-2.-.Allz.Well.That.Endz.Well.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7827,6 +8137,7 @@
       "name": "293 - Sharp Ts.mp3",
       "sizeMiB": 0.56,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/293.-.Sharp.Ts.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7853,6 +8164,7 @@
       "name": "294 - Exercise 13-3 - Ted Took Ten Tasty Tacos.mp3",
       "sizeMiB": 1.81,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/294.-.Exercise.13-3.-.Ted.Took.Ten.Tasty.Tacos.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7879,6 +8191,7 @@
       "name": "295 - Exercise 13-4 - Trudy Tried to Trill in Trinidad.mp3",
       "sizeMiB": 0.9,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/295.-.Exercise.13-4.-.Trudy.Tried.to.Trill.in.Trinidad.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7905,6 +8218,7 @@
       "name": "296 - Exercise 13-5 - Eddie Oughtta Wait a Little Longer.mp3",
       "sizeMiB": 0.54,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/296.-.Exercise.13-5.-.Eddie.Oughtta.Wait.a.Little.Longer.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7931,6 +8245,7 @@
       "name": "297 - Exercise 13-6 - Little League in Little Italy.mp3",
       "sizeMiB": 0.94,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/297.-.Exercise.13-6.-.Little.League.in.Little.Italy.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7957,6 +8272,7 @@
       "name": "298 - Exercise 13-7 - No! No! Not Nine!.mp3",
       "sizeMiB": 0.62,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/298.-.Exercise.13-7.-.No.No.Not.Nine.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -7983,6 +8299,7 @@
       "name": "299 - Exercise 13-8 - Chester's Chocolate Cherries.mp3",
       "sizeMiB": 1.22,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/299.-.Exercise.13-8.-.Chester.s.Chocolate.Cherries.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8009,6 +8326,7 @@
       "name": "300 - Exercise 13-9 - She Should Share Sherman's Shoes.mp3",
       "sizeMiB": 1.26,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/300.-.Exercise.13-9.-.She.Should.Share.Sherman.s.Shoes.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8035,6 +8353,7 @@
       "name": "301 - Exercise 13-10 - George Judged Jenny's Jewelry.mp3",
       "sizeMiB": 1.76,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/301.-.Exercise.13-10.-.George.Judged.Jenny.s.Jewelry.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8061,6 +8380,7 @@
       "name": "302 - Exercise 13-11 - Was Your Usual Menage in the Beige Garage.mp3",
       "sizeMiB": 1.23,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/302.-.Exercise.13-11.-.Was.Your.Usual.Menage.in.the.Beige.Garage.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8087,6 +8407,7 @@
       "name": "303 - Ch-J Sh-Zh Rules.mp3",
       "sizeMiB": 1.01,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/303.-.Ch-J.Sh-Zh.Rules.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8113,6 +8434,7 @@
       "name": "304 - Ch-J Sh-Zh Chart.mp3",
       "sizeMiB": 2.25,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/304.-.Ch-J.Sh-Zh.Chart.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8139,6 +8461,7 @@
       "name": "305 - The Verb Map.mp3",
       "sizeMiB": 0.27,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/305.-.The.Verb.Map.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8165,6 +8488,7 @@
       "name": "306 - Chapter 14 - Grammar in a Bigger Nutshell.mp3",
       "sizeMiB": 0.79,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/306.-.Chapter.14.-.Grammar.in.a.Bigger.Nutshell.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8191,6 +8515,7 @@
       "name": "307 - Exercise 14-1 - Compound Nouns and Complex Verbs.mp3",
       "sizeMiB": 1.82,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/307.-.Exercise.14-1.-.Compound.Nouns.and.Complex.Verbs.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8217,6 +8542,7 @@
       "name": "308 - The Texas Millionaires.mp3",
       "sizeMiB": 11.2,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/308.-.The.Texas.Millionaires.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8243,6 +8569,7 @@
       "name": "309 - Exercise 14-2 - Your Own Compound Nouns.mp3",
       "sizeMiB": 0.4,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/309.-.Exercise.14-2.-.Your.Own.Compound.Nouns.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8269,6 +8596,7 @@
       "name": "310 - Exercise 14-3 - Your Own Compound Nouns & Complex Verbs.mp3",
       "sizeMiB": 0.83,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/310.-.Exercise.14-3.-.Your.Own.Compound.Nouns.Complex.Verbs.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8295,6 +8623,7 @@
       "name": "311 - Exercise 15-1 - Practical Application - U.S.-Japan Trade Friction.mp3",
       "sizeMiB": 2.43,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/311.-.Exercise.15-1.-.Practical.Application.-.U.S.-Japan.Trade.Friction.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8321,6 +8650,7 @@
       "name": "312 - The Letter A.mp3",
       "sizeMiB": 2.11,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/312.-.The.Letter.A.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8347,6 +8677,7 @@
       "name": "313 - Exercise 15-2 - Practical Application - Presidential Candidates' Debate.mp3",
       "sizeMiB": 4.74,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/313.-.Exercise.15-2.-.Practical.Application.-.Presidential.Candidates.Debate.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8373,6 +8704,7 @@
       "name": "314 - Nasal Consonants.mp3",
       "sizeMiB": 1.09,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/314.-.Nasal.Consonants.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8399,6 +8731,7 @@
       "name": "315 - Exercise 16-1 - Nasal Consonants.mp3",
       "sizeMiB": 1.36,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/315.-.Exercise.16-1.-.Nasal.Consonants.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8425,6 +8758,7 @@
       "name": "316 - Exercise 16-2 - Ending Nasal Consonants.mp3",
       "sizeMiB": 1.42,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/316.-.Exercise.16-2.-.Ending.Nasal.Consonants.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8451,6 +8785,7 @@
       "name": "317 - Exercise 16-3 - Reading Nasal Consonant Sounds.mp3",
       "sizeMiB": 2.69,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/317.-.Exercise.16-3.-.Reading.Nasal.Consonant.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8477,6 +8812,7 @@
       "name": "318 - Exercise 16-4 - Finding n and ng Sounds.mp3",
       "sizeMiB": 0.42,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/318.-.Exercise.16-4.-.Finding.n.and.ng.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8503,6 +8839,7 @@
       "name": "319 - Chapter 17 - Throaty Consonants.mp3",
       "sizeMiB": 0.9,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/319.-.Chapter.17.-.Throaty.Consonants.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8529,6 +8866,7 @@
       "name": "320 - Exercise 17-1 - Throaty Consonants.mp3",
       "sizeMiB": 3.42,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/320.-.Exercise.17-1.-.Throaty.Consonants.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8555,6 +8893,7 @@
       "name": "321 - Exercise 17-2 - The Letter X.mp3",
       "sizeMiB": 1.32,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/321.-.Exercise.17-2.-.The.Letter.X.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8581,6 +8920,7 @@
       "name": "322 - Exercise 17-3 - Reading the H, K, G, NG, and R Sounds.mp3",
       "sizeMiB": 1.56,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/322.-.Exercise.17-3.-.Reading.the.H.K.G.NG.and.R.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8607,6 +8947,7 @@
       "name": "323 - K.mp3",
       "sizeMiB": 1.79,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/323.-.K.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8633,6 +8974,7 @@
       "name": "324 - G.mp3",
       "sizeMiB": 1.4,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/324.-.G.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8659,6 +9001,7 @@
       "name": "325 - NG.mp3",
       "sizeMiB": 1.94,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/325.-.NG.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8685,6 +9028,7 @@
       "name": "326 - R.mp3",
       "sizeMiB": 2.06,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/326.-.R.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8711,6 +9055,7 @@
       "name": "327 - Exercise 17-4 - Glottal Consonant Practice Paragraph.mp3",
       "sizeMiB": 0.5,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/327.-.Exercise.17-4.-.Glottal.Consonant.Practice.Paragraph.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8737,6 +9082,7 @@
       "name": "328 - Telephone Tutoring - Final Diagnostic Analysis.mp3",
       "sizeMiB": 1.2,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/328.-.Telephone.Tutoring.-.Final.Diagnostic.Analysis.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8763,6 +9109,7 @@
       "name": "329 - Chapters 1-17 - Review And Expansion.mp3",
       "sizeMiB": 0.94,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/329.-.Chapters.1-17.-.Review.And.Expansion.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8789,6 +9136,7 @@
       "name": "330 - Review Exercise 1-1 - Rubber Band Practice with Nonsense Syllables.mp3",
       "sizeMiB": 2.22,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/330.-.Review.Exercise.1-1.-.Rubber.Band.Practice.with.Nonsense.Syllables.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8815,6 +9163,7 @@
       "name": "331 - Review Exercise 1-2 - Noun Intonation.mp3",
       "sizeMiB": 0.98,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/331.-.Review.Exercise.1-2.-.Noun.Intonation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8841,6 +9190,7 @@
       "name": "332 - Review Exercise 1-3 - Noun and Pronoun Intonation.mp3",
       "sizeMiB": 1.04,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/332.-.Review.Exercise.1-3.-.Noun.and.Pronoun.Intonation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8867,6 +9217,7 @@
       "name": "333 - Review Exercise 1-4 - Sentence Intonation Test.mp3",
       "sizeMiB": 1.19,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/333.-.Review.Exercise.1-4.-.Sentence.Intonation.Test.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8893,6 +9244,7 @@
       "name": "334 - Review Exercise 1-6 - Pitch and Meaning Change.mp3",
       "sizeMiB": 0.72,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/334.-.Review.Exercise.1-6.-.Pitch.and.Meaning.Change.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8919,6 +9271,7 @@
       "name": "335 - Review Exercise 1-7 - Individual Practice.mp3",
       "sizeMiB": 1.71,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/335.-.Review.Exercise.1-7.-.Individual.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8945,6 +9298,7 @@
       "name": "336 - Review Exercise 1-8 - Meaning of Pretty, Sort of, Kind of, and Little.mp3",
       "sizeMiB": 1.29,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/336.-.Review.Exercise.1-8.-.Meaning.of.Pretty.Sort.of.Kind.of.and.Little.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8971,6 +9325,7 @@
       "name": "337 - Review Exercise 1-9 - Inflection.mp3",
       "sizeMiB": 2.33,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/337.-.Review.Exercise.1-9.-.Inflection.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -8997,6 +9352,7 @@
       "name": "338 - Review Exercise 1-10 - Individual Practice.mp3",
       "sizeMiB": 4.32,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/338.-.Review.Exercise.1-10.-.Individual.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9023,6 +9379,7 @@
       "name": "339 - Review Exercise 1-11 - Translation.mp3",
       "sizeMiB": 0.54,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/339.-.Review.Exercise.1-11.-.Translation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9049,6 +9406,7 @@
       "name": "340 - Review Exercise 1-12 - Create Your Own Intonation Contrast.mp3",
       "sizeMiB": 0.45,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/340.-.Review.Exercise.1-12.-.Create.Your.Own.Intonation.Contrast.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9075,6 +9433,7 @@
       "name": "341 - Review Exercise 1-13 - Variable Stress.mp3",
       "sizeMiB": 0.58,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/341.-.Review.Exercise.1-13.-.Variable.Stress.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9101,6 +9460,7 @@
       "name": "342 - Review Exercise 1-14 - Make a Variable Stress Sentence.mp3",
       "sizeMiB": 0.33,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/342.-.Review.Exercise.1-14.-.Make.a.Variable.Stress.Sentence.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9127,6 +9487,7 @@
       "name": "343 - Review Exercise 1-15 - Application of Stress.mp3",
       "sizeMiB": 0.3,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-05-v1/343.-.Review.Exercise.1-15.-.Application.of.Stress.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9153,6 +9514,7 @@
       "name": "344 - Review Exercise 1-17 - Staircase Intonation Practice.mp3",
       "sizeMiB": 0.42,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/344.-.Review.Exercise.1-17.-.Staircase.Intonation.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9179,6 +9541,7 @@
       "name": "345 - Review Exercise 1-18 - Reading with Staircase Intonation.mp3",
       "sizeMiB": 0.23,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/345.-.Review.Exercise.1-18.-.Reading.with.Staircase.Intonation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9205,6 +9568,7 @@
       "name": "346 - Review Exercise 1-19 - Spelling and Numbers.mp3",
       "sizeMiB": 1.31,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/346.-.Review.Exercise.1-19.-.Spelling.and.Numbers.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9231,6 +9595,7 @@
       "name": "347 - Review Exercise 1-20 - Sound & Meaning Shifts.mp3",
       "sizeMiB": 1.62,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/347.-.Review.Exercise.1-20.-.Sound.Meaning.Shifts.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9257,6 +9622,7 @@
       "name": "348 - Review Exercise 1-21 - Squeezed-Out Syllables.mp3",
       "sizeMiB": 1.1,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/348.-.Review.Exercise.1-21.-.Squeezed-Out.Syllables.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9283,6 +9649,7 @@
       "name": "349 - Review Exercise 1-22 - Syllable Patterns.mp3",
       "sizeMiB": 2.18,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/349.-.Review.Exercise.1-22.-.Syllable.Patterns.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9309,6 +9676,7 @@
       "name": "350 - Review Exercise 1-23 - Syllable Count Test.mp3",
       "sizeMiB": 2.01,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/350.-.Review.Exercise.1-23.-.Syllable.Count.Test.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9335,6 +9703,7 @@
       "name": "351 - Review Exercise 1-24 - Single-Word Patterns.mp3",
       "sizeMiB": 0.73,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/351.-.Review.Exercise.1-24.-.Single-Word.Patterns.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9361,6 +9730,7 @@
       "name": "352 - Review Exercise 1-25 - Sentence Stress with Descriptive Phrases.mp3",
       "sizeMiB": 0.72,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/352.-.Review.Exercise.1-25.-.Sentence.Stress.with.Descriptive.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9387,6 +9757,7 @@
       "name": "353 - Review Exercise 1-26 - Two Types of Descriptive Phrases.mp3",
       "sizeMiB": 0.77,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/353.-.Review.Exercise.1-26.-.Two.Types.of.Descriptive.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9413,6 +9784,7 @@
       "name": "354 - Review Exercise 1-27 - Descriptive Phrase Story - Snow White & The Seven Dwarves.mp3",
       "sizeMiB": 2.18,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/354.-.Review.Exercise.1-27.-.Descriptive.Phrase.Story.-.Snow.White.The.Seven.Dwarves.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9439,6 +9811,7 @@
       "name": "355 - Review Exercise 1-28 - Sentence Stress with Set Phrases.mp3",
       "sizeMiB": 0.87,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/355.-.Review.Exercise.1-28.-.Sentence.Stress.with.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9465,6 +9838,7 @@
       "name": "356 - Review Exercise 1-29 - Making Set Phrases.mp3",
       "sizeMiB": 0.83,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/356.-.Review.Exercise.1-29.-.Making.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9491,6 +9865,7 @@
       "name": "357 - Review Exercise 1-30 - Set Phrase Story - Our Mailman.mp3",
       "sizeMiB": 1.78,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/357.-.Review.Exercise.1-30.-.Set.Phrase.Story.-.Our.Mailman.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9517,6 +9892,7 @@
       "name": "358 - Review Exercise 1-31 - Contrasting Descriptive and Set Phrases.mp3",
       "sizeMiB": 0.73,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/358.-.Review.Exercise.1-31.-.Contrasting.Descriptive.and.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9543,6 +9919,7 @@
       "name": "359 - Review Exercise 1-32 - Two-Word Stress.mp3",
       "sizeMiB": 1.04,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/359.-.Review.Exercise.1-32.-.Two-Word.Stress.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9569,6 +9946,7 @@
       "name": "360 - Review Exercise 1-33 - Nationality Intonation Quiz.mp3",
       "sizeMiB": 1.17,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/360.-.Review.Exercise.1-33.-.Nationality.Intonation.Quiz.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9595,6 +9973,7 @@
       "name": "361 - Review Exercise 1-34 - Contrasting Descriptive and Set Phrases.mp3",
       "sizeMiB": 1.26,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/361.-.Review.Exercise.1-34.-.Contrasting.Descriptive.and.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9621,6 +10000,7 @@
       "name": "362 - Review Exercise 1-35 - Contrast of Compound Nouns.mp3",
       "sizeMiB": 2.76,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/362.-.Review.Exercise.1-35.-.Contrast.of.Compound.Nouns.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9647,6 +10027,7 @@
       "name": "363 - Review Exercise 1-36 - Description and Set Phrase Test.mp3",
       "sizeMiB": 2.92,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/363.-.Review.Exercise.1-36.-.Description.and.Set.Phrase.Test.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9673,6 +10054,7 @@
       "name": "364 - Review Exercise 1-38 - Consistent Noun Stress in Changing Verb Tenses.mp3",
       "sizeMiB": 4.01,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/364.-.Review.Exercise.1-38.-.Consistent.Noun.Stress.in.Changing.Verb.Tenses.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9699,6 +10081,7 @@
       "name": "365 - Review Exercise 1-39 - Consistent Pronoun Stress in Changing Verb Tenses.mp3",
       "sizeMiB": 3.41,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/365.-.Review.Exercise.1-39.-.Consistent.Pronoun.Stress.in.Changing.Verb.Tenses.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9725,6 +10108,7 @@
       "name": "366 - Review Exercise 1-40 - Intonation in Your Own Sentence.mp3",
       "sizeMiB": 0.46,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/366.-.Review.Exercise.1-40.-.Intonation.in.Your.Own.Sentence.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9751,6 +10135,7 @@
       "name": "367 - Review Exercise 1-41 - Supporting Words.mp3",
       "sizeMiB": 2.27,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/367.-.Review.Exercise.1-41.-.Supporting.Words.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9777,6 +10162,7 @@
       "name": "368 - Review Exercise 1-42 - Contrast Practice.mp3",
       "sizeMiB": 2.45,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/368.-.Review.Exercise.1-42.-.Contrast.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9803,6 +10189,7 @@
       "name": "369 - Review Exercise 1-43 - Yes, You Can or No, You Can't_.mp3",
       "sizeMiB": 0.69,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/369.-.Review.Exercise.1-43.-.Yes.You.Can.or.No.You.Can.t_.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9829,6 +10216,7 @@
       "name": "370 - Review Exercise 1-44 - Building an Intonation Sentence.mp3",
       "sizeMiB": 1.05,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/370.-.Review.Exercise.1-44.-.Building.an.Intonation.Sentence.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9855,6 +10243,7 @@
       "name": "371 - Review Exercise 1-45 - Building Your Own Intonation Sentences.mp3",
       "sizeMiB": 0.53,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/371.-.Review.Exercise.1-45.-.Building.Your.Own.Intonation.Sentences.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9881,6 +10270,7 @@
       "name": "372 - Review Exercise 1-46 - Regular Transitions of Adjectives and Verbs.mp3",
       "sizeMiB": 1.11,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/372.-.Review.Exercise.1-46.-.Regular.Transitions.of.Adjectives.and.Verbs.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9907,6 +10297,7 @@
       "name": "373 - Review Exercise 1-47 - Regular Transitions of Adjectives and Verbs.mp3",
       "sizeMiB": 0.77,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/373.-.Review.Exercise.1-47.-.Regular.Transitions.of.Adjectives.and.Verbs.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9933,6 +10324,7 @@
       "name": "374 - Review Exercise 1-48 - Regular Transitions of Adjectives and Verbs.mp3",
       "sizeMiB": 1.37,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/374.-.Review.Exercise.1-48.-.Regular.Transitions.of.Adjectives.and.Verbs.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9959,6 +10351,7 @@
       "name": "375 - Review Exercise 1-51 - Extended Listening Practice.mp3",
       "sizeMiB": 2.86,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/375.-.Review.Exercise.1-51.-.Extended.Listening.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -9985,6 +10378,7 @@
       "name": "376 - Review Exercise 1-53 - Reduced Sounds.mp3",
       "sizeMiB": 5.33,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/376.-.Review.Exercise.1-53.-.Reduced.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10011,6 +10405,7 @@
       "name": "377 - Review Exercise 1-54 - Intonation and Pronunciation of That.mp3",
       "sizeMiB": 0.8,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/377.-.Review.Exercise.1-54.-.Intonation.and.Pronunciation.of.That.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10037,6 +10432,7 @@
       "name": "378 - Review Exercise 1-55 - Crossing Out Reduced Sounds.mp3",
       "sizeMiB": 0.35,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/378.-.Review.Exercise.1-55.-.Crossing.Out.Reduced.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10063,6 +10459,7 @@
       "name": "379 - Review Exercise 1-56 - Reading Reduced Sounds.mp3",
       "sizeMiB": 2.64,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/379.-.Review.Exercise.1-56.-.Reading.Reduced.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10089,6 +10486,7 @@
       "name": "380 - Review Exercise 1-57 - Phrasing.mp3",
       "sizeMiB": 1.42,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/380.-.Review.Exercise.1-57.-.Phrasing.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10115,6 +10513,7 @@
       "name": "381 - Review Exercise 1-60 - Tag Endings.mp3",
       "sizeMiB": 1.7,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/381.-.Review.Exercise.1-60.-.Tag.Endings.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10141,6 +10540,7 @@
       "name": "382 - Review Exercise 2-1 - Spelling and Pronunciation.mp3",
       "sizeMiB": 0.68,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/382.-.Review.Exercise.2-1.-.Spelling.and.Pronunciation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10167,6 +10567,7 @@
       "name": "383 - Review Exercise 2-4 - Consonant-Vowel Liaison Practice.mp3",
       "sizeMiB": 1.05,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/383.-.Review.Exercise.2-4.-.Consonant-Vowel.Liaison.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10193,6 +10594,7 @@
       "name": "384 - Review Exercise 2-8 - Consonant-Consonant Liaison Practice.mp3",
       "sizeMiB": 0.72,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/384.-.Review.Exercise.2-8.-.Consonant-Consonant.Liaison.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10219,6 +10621,7 @@
       "name": "385 - Review Exercise 2-9 - Vowel-Vowel Liaison Practice.mp3",
       "sizeMiB": 1.26,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/385.-.Review.Exercise.2-9.-.Vowel-Vowel.Liaison.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10245,6 +10648,7 @@
       "name": "386 - Review Exercise 2-11 - T, D, S, or Z & Y Liaison Practice.mp3",
       "sizeMiB": 0.8,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/386.-.Review.Exercise.2-11.-.T.D.S.or.Z.Y.Liaison.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10271,6 +10675,7 @@
       "name": "387 - Review Exercise 2-12 - Finding Liaisons and Glides.mp3",
       "sizeMiB": 2.61,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/387.-.Review.Exercise.2-12.-.Finding.Liaisons.and.Glides.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10297,6 +10702,7 @@
       "name": "388 - Review Exercise 2-13 - Practicing Liaisons.mp3",
       "sizeMiB": 3.18,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/388.-.Review.Exercise.2-13.-.Practicing.Liaisons.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10323,6 +10729,7 @@
       "name": "389 - Review Exercise 3-1 - Word-by-Word and in a Sentence.mp3",
       "sizeMiB": 1.59,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/389.-.Review.Exercise.3-1.-.Word-by-Word.and.in.a.Sentence.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10349,6 +10756,7 @@
       "name": "390 - Review Exercise 3-3 - Vowel-Sound Differentiation.mp3",
       "sizeMiB": 1.7,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/390.-.Review.Exercise.3-3.-.Vowel-Sound.Differentiation.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10375,6 +10783,7 @@
       "name": "391 - Review Exercise 3-4 - Finding the æ, ä, and ə Sounds.mp3",
       "sizeMiB": 2.65,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/391.-.Review.Exercise.3-4.-.Finding.the.ae.a.and.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10401,6 +10810,7 @@
       "name": "392 - Review Exercise 3-5 - Reading the æ Sound.mp3",
       "sizeMiB": 1.31,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/392.-.Review.Exercise.3-5.-.Reading.the.ae.Sound.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10427,6 +10837,7 @@
       "name": "393 - Review Exercise 3-6 - Reading the ä Sound.mp3",
       "sizeMiB": 1.75,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/393.-.Review.Exercise.3-6.-.Reading.the.a.Sound.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10453,6 +10864,7 @@
       "name": "394 - Review Exercise 3-7 - Reading the ə Sound.mp3",
       "sizeMiB": 1.18,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/394.-.Review.Exercise.3-7.-.Reading.the.Sound.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10479,6 +10891,7 @@
       "name": "395 - Review Exercise 4-1 - Stressed and Unstressed T.mp3",
       "sizeMiB": 0.49,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/395.-.Review.Exercise.4-1.-.Stressed.and.Unstressed.T.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10505,6 +10918,7 @@
       "name": "396 - Review Exercise 4-3 - Rule 1 - Top of the Staircase.mp3",
       "sizeMiB": 1.15,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/396.-.Review.Exercise.4-3.-.Rule.1.-.Top.of.the.Staircase.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10531,6 +10945,7 @@
       "name": "397 - Review Exercise 4-4 - Rule 2 - Middle of the Staircase.mp3",
       "sizeMiB": 0.71,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/397.-.Review.Exercise.4-4.-.Rule.2.-.Middle.of.the.Staircase.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10557,6 +10972,7 @@
       "name": "398 - Review Exercise 4-5 - Rule 3 - Bottom of the Staircase.mp3",
       "sizeMiB": 0.75,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/398.-.Review.Exercise.4-5.-.Rule.3.-.Bottom.of.the.Staircase.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10583,6 +10999,7 @@
       "name": "399 - Review Exercise 4-6 - Rule 4 - Held T Before N.mp3",
       "sizeMiB": 0.85,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/399.-.Review.Exercise.4-6.-.Rule.4.-.Held.T.Before.N.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10609,6 +11026,7 @@
       "name": "400 - Review Exercise 4-7 - Rule 5 - The Silent T.mp3",
       "sizeMiB": 0.73,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/400.-.Review.Exercise.4-7.-.Rule.5.-.The.Silent.T.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10635,6 +11053,7 @@
       "name": "401 - Review Exercise 4-10 - T Combinations in Context.mp3",
       "sizeMiB": 0.69,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/401.-.Review.Exercise.4-10.-.T.Combinations.in.Context.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10661,6 +11080,7 @@
       "name": "402 - Review Exercise 4-11 - Voiced and Unvoiced Sounds with T.mp3",
       "sizeMiB": 1.19,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/402.-.Review.Exercise.4-11.-.Voiced.and.Unvoiced.Sounds.with.T.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10687,6 +11107,7 @@
       "name": "403 - Review Exercise 5-2 - Sounds Comparing L with T, D, and N.mp3",
       "sizeMiB": 2.04,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/403.-.Review.Exercise.5-2.-.Sounds.Comparing.L.with.T.D.and.N.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10713,6 +11134,7 @@
       "name": "404 - Review Exercise 5-3 - Final El with ə.mp3",
       "sizeMiB": 0.95,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/404.-.Review.Exercise.5-3.-.Final.El.with.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10739,6 +11161,7 @@
       "name": "405 - Review Exercise 5-4 - Many Final Els.mp3",
       "sizeMiB": 0.77,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/405.-.Review.Exercise.5-4.-.Many.Final.Els.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10765,6 +11188,7 @@
       "name": "406 - Review Exercise 5-5 - Liaise the Ls.mp3",
       "sizeMiB": 0.4,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/406.-.Review.Exercise.5-5.-.Liaise.the.Ls.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10791,6 +11215,7 @@
       "name": "407 - Review Exercise 5-7 - Silent Ls.mp3",
       "sizeMiB": 0.71,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/407.-.Review.Exercise.5-7.-.Silent.Ls.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10817,6 +11242,7 @@
       "name": "408 - Review Exercise 5-8 - Hold Your Tongue!.mp3",
       "sizeMiB": 0.42,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/408.-.Review.Exercise.5-8.-.Hold.Your.Tongue.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10843,6 +11269,7 @@
       "name": "409 - Review Exercise 5-9 - Bill and Ellie.mp3",
       "sizeMiB": 1.61,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/409.-.Review.Exercise.5-9.-.Bill.and.Ellie.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10869,6 +11296,7 @@
       "name": "410 - Review Exercise 5-11 - Final L Practice.mp3",
       "sizeMiB": 1.49,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/410.-.Review.Exercise.5-11.-.Final.L.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10895,6 +11323,7 @@
       "name": "411 - Review Exercise 5-12 - A Frontal Lobotomy.mp3",
       "sizeMiB": 1.42,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/411.-.Review.Exercise.5-12.-.A.Frontal.Lobotomy.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10921,6 +11350,7 @@
       "name": "412 - Review Exercise 5-13 - Speed-reading.mp3",
       "sizeMiB": 1.96,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/412.-.Review.Exercise.5-13.-.Speed-reading.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10947,6 +11377,7 @@
       "name": "413 - Review Exercise 5-14 - Tandem Reading.mp3",
       "sizeMiB": 1.89,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-06-v1/413.-.Review.Exercise.5-14.-.Tandem.Reading.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10973,6 +11404,7 @@
       "name": "414 - Review Exercise 6-1 - R Location Practice.mp3",
       "sizeMiB": 1.26,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/414.-.Review.Exercise.6-1.-.R.Location.Practice.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -10999,6 +11431,7 @@
       "name": "415 - Review Exercise 6-2 - Double Vowel Sounds with R.mp3",
       "sizeMiB": 1.54,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/415.-.Review.Exercise.6-2.-.Double.Vowel.Sounds.with.R.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11025,6 +11458,7 @@
       "name": "416 - Review Exercise 6-3 - How to Pronounce Troublesome Rs.mp3",
       "sizeMiB": 0.75,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/416.-.Review.Exercise.6-3.-.How.to.Pronounce.Troublesome.Rs.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11051,6 +11485,7 @@
       "name": "417 - Review Exercise 6-4 - Zbigniew's Epsilon List.mp3",
       "sizeMiB": 0.92,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/417.-.Review.Exercise.6-4.-.Zbigniew.s.Epsilon.List.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11077,6 +11512,7 @@
       "name": "418 - Review Exercise 6-5 - R Combinations.mp3",
       "sizeMiB": 1.28,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/418.-.Review.Exercise.6-5.-.R.Combinations.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11103,6 +11539,7 @@
       "name": "419 - Review Exercise 6-6 - Roy the Rancher.mp3",
       "sizeMiB": 4.32,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/419.-.Review.Exercise.6-6.-.Roy.the.Rancher.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11129,6 +11566,7 @@
       "name": "420 - Review Exercise C - Modifying Descriptive Phrases.mp3",
       "sizeMiB": 0.7,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/420.-.Review.Exercise.C.-.Modifying.Descriptive.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11155,6 +11593,7 @@
       "name": "421 - Review Exercise D - Modifying Set Phrases.mp3",
       "sizeMiB": 0.68,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/421.-.Review.Exercise.D.-.Modifying.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11181,6 +11620,7 @@
       "name": "422 - Review Exercise E -Two- and Three-Word Set Phrases.mp3",
       "sizeMiB": 0.7,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/422.-.Review.Exercise.E.-Two-.and.Three-Word.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11207,6 +11647,7 @@
       "name": "423 - Review Exercise F - Three-Word Phrase Summary.mp3",
       "sizeMiB": 1.0,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/423.-.Review.Exercise.F.-.Three-Word.Phrase.Summary.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11233,6 +11674,7 @@
       "name": "424 - Review Exercise I - Multiple Modifiers with Set Phrases.mp3",
       "sizeMiB": 0.94,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/424.-.Review.Exercise.I.-.Multiple.Modifiers.with.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11259,6 +11701,7 @@
       "name": "425 - Review Exercise J - Compound Intonation of Numbers.mp3",
       "sizeMiB": 0.9,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/425.-.Review.Exercise.J.-.Compound.Intonation.of.Numbers.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11285,6 +11728,7 @@
       "name": "426 - Review Exercise K - Modifying Three-Word Set Phrases.mp3",
       "sizeMiB": 0.81,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/426.-.Review.Exercise.K.-.Modifying.Three-Word.Set.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11311,6 +11755,7 @@
       "name": "427 - Review Exercise L - Three Word Phrase Story - The Amazing Rock Soup.mp3",
       "sizeMiB": 4.21,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/427.-.Review.Exercise.L.-.Three.Word.Phrase.Story.-.The.Amazing.Rock.Soup.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11337,6 +11782,7 @@
       "name": "428 - Review Exercise M - Building Up to Five-Word Phrases.mp3",
       "sizeMiB": 1.14,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/428.-.Review.Exercise.M.-.Building.Up.to.Five-Word.Phrases.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11363,6 +11809,7 @@
       "name": "429 - Review Exercise 7-1 - The Thing.mp3",
       "sizeMiB": 2.21,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/429.-.Review.Exercise.7-1.-.The.Thing.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11389,6 +11836,7 @@
       "name": "430 - Noun Intonation Summary.mp3",
       "sizeMiB": 5.77,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/430.-.Noun.Intonation.Summary.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11415,6 +11863,7 @@
       "name": "431 - Review Exercise 8-1 - Comparing u and ü.mp3",
       "sizeMiB": 0.73,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/431.-.Review.Exercise.8-1.-.Comparing.u.and.u.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11441,6 +11890,7 @@
       "name": "432 - Review Exercise 8-2 - Lax Vowels.mp3",
       "sizeMiB": 0.92,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/432.-.Review.Exercise.8-2.-.Lax.Vowels.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11467,6 +11917,7 @@
       "name": "433 - Review Exercise 8-4 - Bit or Beat_Bid or Bead.mp3",
       "sizeMiB": 0.88,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/433.-.Review.Exercise.8-4.-.Bit.or.Beat_Bid.or.Bead.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11493,6 +11944,7 @@
       "name": "434 - Review Exercise 8-5 - Tense and Lax Vowel Review Exercise.mp3",
       "sizeMiB": 0.88,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/434.-.Review.Exercise.8-5.-.Tense.and.Lax.Vowel.Review.Exercise.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11519,6 +11971,7 @@
       "name": "435 - Review Exercise 8-6 - Middle I List.mp3",
       "sizeMiB": 0.81,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/435.-.Review.Exercise.8-6.-.Middle.I.List.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11545,6 +11998,7 @@
       "name": "436 - Review Exercise 8-10 - ü Paragraph.mp3",
       "sizeMiB": 1.08,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/436.-.Review.Exercise.8-10.-.u.Paragraph.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11571,6 +12025,7 @@
       "name": "437 - Review Exercise 8-11 - u Paragraph.mp3",
       "sizeMiB": 1.38,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/437.-.Review.Exercise.8-11.-.u.Paragraph.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11597,6 +12052,7 @@
       "name": "438 - Review Exercise 9-1 - Mind Your Vees.mp3",
       "sizeMiB": 4.26,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/438.-.Review.Exercise.9-1.-.Mind.Your.Vees.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11623,6 +12079,7 @@
       "name": "439 - Review Exercise 10-1 - S or Z.mp3",
       "sizeMiB": 0.83,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/439.-.Review.Exercise.10-1.-.S.or.Z.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11649,6 +12106,7 @@
       "name": "440 - Review Exercise 10-2 - Sally at the Seashore.mp3",
       "sizeMiB": 1.05,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/440.-.Review.Exercise.10-2.-.Sally.at.the.Seashore.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11675,6 +12133,7 @@
       "name": "441 - Review Exercise 10-3 - Fuzzy Wuzzy.mp3",
       "sizeMiB": 0.58,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/441.-.Review.Exercise.10-3.-.Fuzzy.Wuzzy.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11701,6 +12160,7 @@
       "name": "442 - Review Exercise 11-1 - Tense Vowels.mp3",
       "sizeMiB": 1.41,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/442.-.Review.Exercise.11-1.-.Tense.Vowels.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11727,6 +12187,7 @@
       "name": "443 - Review Exercise 11-3 - Lax Vowels.mp3",
       "sizeMiB": 0.88,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/443.-.Review.Exercise.11-3.-.Lax.Vowels.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11753,6 +12214,7 @@
       "name": "444 - Review Exercise 11-7 - Compound Nouns and Complex Verbs.mp3",
       "sizeMiB": 10.18,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/444.-.Review.Exercise.11-7.-.Compound.Nouns.and.Complex.Verbs.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11779,6 +12241,7 @@
       "name": "445 - Review Exercise 11-8 - Your Own Compound Nouns.mp3",
       "sizeMiB": 0.4,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/445.-.Review.Exercise.11-8.-.Your.Own.Compound.Nouns.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11805,6 +12268,7 @@
       "name": "446 - Review Exercise 11-9 - Your Own Compound Nouns and Complex Verbs.mp3",
       "sizeMiB": 0.35,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/446.-.Review.Exercise.11-9.-.Your.Own.Compound.Nouns.and.Complex.Verbs.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11831,6 +12295,7 @@
       "name": "447 - Review Exercise 12-1 - Nasal Consonants.mp3",
       "sizeMiB": 1.09,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/447.-.Review.Exercise.12-1.-.Nasal.Consonants.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11857,6 +12322,7 @@
       "name": "448 - Review Exercise 12-2 - Ending Nasal Consonants.mp3",
       "sizeMiB": 0.7,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/448.-.Review.Exercise.12-2.-.Ending.Nasal.Consonants.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11883,6 +12349,7 @@
       "name": "449 - Review Exercise 12-3 - Reading Nasal Consonant Sounds.mp3",
       "sizeMiB": 1.01,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/449.-.Review.Exercise.12-3.-.Reading.Nasal.Consonant.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11909,6 +12376,7 @@
       "name": "450 - Review Exercise 13-1 - Throaty Consonants.mp3",
       "sizeMiB": 1.02,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/450.-.Review.Exercise.13-1.-.Throaty.Consonants.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11935,6 +12403,7 @@
       "name": "451 - Review Exercise 13-2 - The Letter X.mp3",
       "sizeMiB": 0.59,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/451.-.Review.Exercise.13-2.-.The.Letter.X.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",
@@ -11961,6 +12430,7 @@
       "name": "452 - Review Exercise 13-3 - Reading the H, K, G, NG, and R Sounds.mp3",
       "sizeMiB": 2.8,
       "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/american-accent-training-4e-audio-part-07-v1/452.-.Review.Exercise.13-3.-.Reading.the.H.K.G.NG.and.R.Sounds.mp3",
         "mirrors": [
           {
             "provider": "internetArchive",

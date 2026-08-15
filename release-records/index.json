@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "generatedAt": "2026-08-13T10:02:54.460169Z",
+  "generatedAt": "2026-08-15T19:20:37.161093Z",
   "repository": "andylee1890/reciter-resources",
   "posterIndex": {
     "path": "artwork/posters/index.json",
@@ -1190,7 +1190,7 @@
     {
       "tag": "american-accent-training-4e-audio-v1",
       "title": "American Accent Training 4e Audio",
-      "createdAt": "2026-08-09 17:05:40 +0800",
+      "createdAt": "2026-08-16 03:16:49 +0800",
       "audioCount": 459,
       "totalSizeMiB": 1055.82,
       "detailFile": "american-accent-training-4e-audio-v1.json",
@@ -1226,6 +1226,17 @@
         }
       },
       "platforms": {
+        "githubRelease": {
+          "releaseUrls": [
+            "https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-01-v1",
+            "https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-02-v1",
+            "https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-03-v1",
+            "https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-04-v1",
+            "https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-05-v1",
+            "https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-06-v1",
+            "https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-07-v1"
+          ]
+        },
         "mirrors": [
           {
             "provider": "internetArchive",

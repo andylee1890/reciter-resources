@@ -55,7 +55,7 @@ def download_link(release: dict[str, Any]) -> str:
         return f"[GitHub Release]({release_url})"
     release_urls = release.get("platforms", {}).get("githubRelease", {}).get("releaseUrls", [])
     if isinstance(release_urls, list) and release_urls and isinstance(release_urls[0], str):
-        return f"[GitHub Releases]({release_urls[0]})"
+        return f"[GitHub Releases ({len(release_urls)} parts)]({release_urls[0]})"
     mirrors = release.get("platforms", {}).get("mirrors", [])
     for mirror in mirrors:
         if mirror.get("provider") == "internetArchive" and isinstance(mirror.get("itemUrl"), str):
@@ -72,7 +72,7 @@ def catalog_row(root: Path, release: dict[str, Any]) -> str:
     updated_at = release["createdAt"].split(" ", 1)[0]
     return " | ".join(
         (
-            f"{poster}<br/>**{title}**",
+            f'<div align="center">{poster}<br/><strong>{html.escape(title)}</strong></div>',
             content,
             updated_at,
             f"`{version_from_tag(release['tag'])}`",
@@ -84,8 +84,10 @@ def catalog_row(root: Path, release: dict[str, Any]) -> str:
 def catalog_markdown(root: Path, index: dict[str, Any]) -> str:
     lines = [
         CATALOG_START,
+        "资源海报、介绍、更新日期、版本和下载入口会保持同步。",
+        "",
         "| 卡组 | 介绍 | 更新日期 | 版本 | 下载链接 |",
-        "| --- | --- | --- | --- | --- |",
+        "| :---: | --- | :---: | :---: | :---: |",
     ]
     lines.extend(f"| {catalog_row(root, release)} |" for release in index["releases"])
     lines.append(CATALOG_END)

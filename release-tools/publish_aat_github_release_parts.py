@@ -95,10 +95,11 @@ def request_json(
     data = json.dumps(payload).encode("utf-8") if payload is not None else None
     headers = {
         "Accept": "application/vnd.github+json",
-        "Authorization": f"Bearer {token}",
         "User-Agent": "reciter-resources-aat-publisher",
         "X-GitHub-Api-Version": "2022-11-28",
     }
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
     if data is not None:
         headers["Content-Type"] = "application/json"
     for attempt in range(1, retries + 1):
@@ -189,7 +190,7 @@ def github_web_asset_name(filename: str) -> str:
         decomposed = unicodedata.normalize("NFKD", character)
         ascii_characters = "".join(part for part in decomposed if ord(part) < 128 and not unicodedata.combining(part))
         transliterated.append(ascii_characters or character)
-    normalized = re.sub(r"[^A-Za-z0-9_.-]+", ".", "".join(transliterated))
+    normalized = re.sub(r"[^A-Za-z0-9_.+-]+", ".", "".join(transliterated))
     return re.sub(r"\.{2,}", ".", normalized)
 
 
@@ -383,8 +384,8 @@ def main() -> int:
     if args.dry_run:
         return 0
 
-    token = os.environ.get(args.token_env)
-    if not token:
+    token = os.environ.get(args.token_env, "")
+    if not token and not args.verify_only:
         raise SystemExit(f"Missing GitHub API token in environment variable {args.token_env}")
 
     completed: list[tuple[dict[str, Any], list[Path], dict[str, dict[str, Any]]]] = []

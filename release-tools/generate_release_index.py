@@ -56,9 +56,12 @@ def parse_record(path: Path) -> dict[str, Any] | None:
 
     metadata: dict[str, str] = {}
     table_start: int | None = None
+    metadata_section = True
     for index, line in enumerate(lines[1:], start=1):
+        if line == "## Link Bases":
+            metadata_section = False
         match = METADATA_PATTERN.match(line)
-        if match:
+        if metadata_section and match:
             metadata[match.group("key")] = match.group("value")
         if line in (RELEASE_TABLE_HEADER, ARCHIVE_TABLE_HEADER, PART_RELEASE_TABLE_HEADER):
             table_start = index + 2
