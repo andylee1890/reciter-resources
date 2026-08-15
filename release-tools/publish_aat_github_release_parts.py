@@ -17,6 +17,7 @@ import re
 import subprocess
 import sys
 import time
+import unicodedata
 from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
@@ -179,7 +180,16 @@ def asset_map(assets: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
 
 def github_web_asset_name(filename: str) -> str:
     """Match the filename rewriting performed by the GitHub release web form."""
-    normalized = re.sub(r"[^A-Za-z0-9_.-]+", ".", filename)
+    special_transliterations = {"æ": "ae", "Æ": "AE"}
+    transliterated: list[str] = []
+    for character in filename:
+        if character in special_transliterations:
+            transliterated.append(special_transliterations[character])
+            continue
+        decomposed = unicodedata.normalize("NFKD", character)
+        ascii_characters = "".join(part for part in decomposed if ord(part) < 128 and not unicodedata.combining(part))
+        transliterated.append(ascii_characters or character)
+    normalized = re.sub(r"[^A-Za-z0-9_.-]+", ".", "".join(transliterated))
     return re.sub(r"\.{2,}", ".", normalized)
 
 
