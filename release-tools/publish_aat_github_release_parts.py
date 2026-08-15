@@ -177,6 +177,17 @@ def asset_map(assets: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
     return mapped
 
 
+def github_web_asset_name(filename: str) -> str:
+    """Match the filename rewriting performed by the GitHub release web form."""
+    normalized = re.sub(r"[^A-Za-z0-9_.-]+", ".", filename)
+    return re.sub(r"\.{2,}", ".", normalized)
+
+
+def find_remote_asset(mapped: dict[str, dict[str, Any]], local_name: str) -> dict[str, Any] | None:
+    """Find an asset by its API name/label or the web form's normalized filename."""
+    return mapped.get(local_name) or mapped.get(github_web_asset_name(local_name))
+
+
 def get_or_create_release(
     repo: str, tag: str, title: str, notes: str, token: str, retries: int
 ) -> dict[str, Any]:
@@ -216,7 +227,7 @@ def verify_part(
     mapped = asset_map(list_assets(release, repo, token, retries))
     verified: dict[str, dict[str, Any]] = {}
     for item in files:
-        asset = mapped.get(item.name)
+        asset = find_remote_asset(mapped, item.name)
         if asset is None:
             raise RuntimeError(f"Release {release['tag_name']} is missing asset: {item.name}")
         if asset.get("size") != item.stat().st_size:
@@ -378,7 +389,7 @@ def main() -> int:
         )
         current = asset_map(list_assets(release, args.repo, token, args.retries))
         for item in files:
-            remote = current.get(item.name)
+            remote = find_remote_asset(current, item.name)
             if remote is not None and remote.get("size") == item.stat().st_size:
                 print(f"{tag}: already verified {item.name}")
                 continue
