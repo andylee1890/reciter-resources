@@ -11,7 +11,7 @@
 - Dry run: False
 - Published: True
 - Internet Archive uploaded: True
-- Internet Archive RECX uploaded: False
+- Internet Archive RECX uploaded: True
 - Internet Archive identifier: `reciter-american-accent-training-4e-audio-v1`
 - Internet Archive item: https://archive.org/details/reciter-american-accent-training-4e-audio-v1
 - GitHub Release parts: https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-01-v1, https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-02-v1, https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-03-v1, https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-04-v1, https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-05-v1, https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-06-v1, https://github.com/andylee1890/reciter-resources/releases/tag/american-accent-training-4e-audio-part-07-v1
