@@ -17,6 +17,12 @@ def recx_link(base: str, filename: str) -> str:
     return f"[recx]({base}resources/AAT/{quote(filename)})"
 
 
+def with_one_recx_link(value: str, link: str) -> str:
+    """Keep every non-RECX sidecar link and append the canonical RECX link once."""
+    parts = [part for part in value.split("<br>") if not part.strip().startswith("[recx](")]
+    return "<br>".join([*parts, link])
+
+
 def refresh(path: Path) -> int:
     lines = path.read_text(encoding="utf-8").splitlines()
     updated: list[str] = []
@@ -26,8 +32,8 @@ def refresh(path: Path) -> int:
             cells = [cell.strip() for cell in line.strip().strip("|").split("|")]
             if len(cells) == 6 and cells[0].strip().endswith(".mp3"):
                 filename = cells[0].strip()
-                cells[4] = cells[4].strip() + "<br>" + recx_link(RAW_BASE, filename[:-4] + ".recx")
-                cells[5] = cells[5].strip() + "<br>" + recx_link(CDN_BASE, filename[:-4] + ".recx")
+                cells[4] = with_one_recx_link(cells[4].strip(), recx_link(RAW_BASE, filename[:-4] + ".recx"))
+                cells[5] = with_one_recx_link(cells[5].strip(), recx_link(CDN_BASE, filename[:-4] + ".recx"))
                 line = "| " + " | ".join(cells) + " |"
                 rows += 1
         updated.append(line)
