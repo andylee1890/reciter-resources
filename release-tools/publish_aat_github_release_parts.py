@@ -366,6 +366,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--dry-run", action="store_true", help="Print the seven-part plan without GitHub API calls.")
     parser.add_argument("--verify-only", action="store_true", help="Verify remote parts and do not create or upload assets.")
     parser.add_argument(
+        "--record-only",
+        action="store_true",
+        help="Rebuild the public record from existing MP3 Release assets without uploading anything.",
+    )
+    parser.add_argument(
         "--no-update-index",
         action="store_true",
         help="Do not rewrite the AAT record or indexes after complete verification.",
@@ -402,7 +407,7 @@ def main() -> int:
         return 0
 
     token = os.environ.get(args.token_env, "")
-    if not token and not args.verify_only:
+    if not token and not args.verify_only and not args.record_only:
         raise SystemExit(f"Missing GitHub API token in environment variable {args.token_env}")
 
     completed: list[tuple[dict[str, Any], list[Path], dict[str, dict[str, Any]]]] = []
@@ -412,9 +417,14 @@ def main() -> int:
         notes = f"{args.title} - part {number:02d} of 07. Contains {len(files)} individual audio files."
         release = (
             get_release(args.repo, tag, token, args.retries)
-            if args.verify_only
+            if args.verify_only or args.record_only
             else get_or_create_release(args.repo, tag, title, notes, token, args.retries)
         )
+        if args.record_only:
+            verified = verify_part(release, files, args.repo, token, args.retries)
+            completed.append((release, files, verified))
+            print(f"{tag}: existing MP3 assets verified for record refresh")
+            continue
         current = asset_map(list_assets(release, args.repo, token, args.retries))
         assets = release_assets(files)
         for item in assets:

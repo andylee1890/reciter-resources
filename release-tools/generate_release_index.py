@@ -127,6 +127,7 @@ def parse_record(path: Path) -> dict[str, Any] | None:
             "identifier": archive_identifier,
             "itemUrl": metadata.get("Internet Archive item", archive_item_url(archive_identifier)),
             "directFiles": "true",
+            "recxUploaded": metadata.get("Internet Archive RECX uploaded", "False").lower(),
         }
     return {
         "tag": metadata["Tag"].strip("`"),
@@ -170,7 +171,7 @@ def platforms_for(record: dict[str, Any]) -> dict[str, Any]:
         [
             {
                 "provider": "internetArchive",
-                **{key: value for key, value in archive.items() if key != "directFiles"},
+                **{key: value for key, value in archive.items() if key not in ("directFiles", "recxUploaded")},
             }
         ]
         if archive is not None
@@ -238,6 +239,7 @@ def release_detail(record: dict[str, Any], generated_at: str, poster: dict[str, 
                                     archive_sidecar_filename(track, extension),
                                 )
                                 for extension in track["sidecars"]["githubRaw"]
+                                if extension != "recx" or archive.get("recxUploaded") == "true"
                             }
                         }
                         if archive_has_direct_files
