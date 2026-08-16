@@ -38,6 +38,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--dry-run", action="store_true", help="Report planned outputs without writing files.")
     parser.add_argument("--no-recursive", action="store_true", help="For a folder, scan only its top level.")
     parser.add_argument("--subtitle", type=Path, help="Explicit subtitle file; valid only for a single audio input.")
+    parser.add_argument(
+        "--subtitle-suffix",
+        default="",
+        help="Use subtitles named <audio stem><suffix>.<ext>, for example --subtitle-suffix _zh.",
+    )
     parser.add_argument("--no-subtitles", action="store_true", help="Do not search for same-name subtitle files.")
     parser.add_argument("--ffmpeg", default=os.environ.get("FFMPEG", "ffmpeg"), help="ffmpeg executable.")
     parser.add_argument("--ffprobe", default=os.environ.get("FFPROBE", "ffprobe"), help="ffprobe executable.")
@@ -120,7 +125,7 @@ def parse_lrc(text: str, duration: float | None) -> list[tuple[float, float, str
     ]
 
 
-def subtitle_path(audio: Path, explicit: Path | None, enabled: bool) -> Path | None:
+def subtitle_path(audio: Path, explicit: Path | None, enabled: bool, suffix: str = "") -> Path | None:
     if explicit:
         if not explicit.is_file():
             raise ValueError(f"Subtitle path does not exist: {explicit}")
@@ -128,7 +133,7 @@ def subtitle_path(audio: Path, explicit: Path | None, enabled: bool) -> Path | N
     if not enabled:
         return None
     for extension in SUBTITLE_EXTENSIONS:
-        candidate = audio.with_suffix(extension)
+        candidate = audio.with_name(f"{audio.stem}{suffix}{extension}")
         if candidate.is_file():
             return candidate
     return None
@@ -255,7 +260,7 @@ def main() -> int:
             skipped += 1
             continue
         try:
-            subtitle = subtitle_path(audio, args.subtitle, not args.no_subtitles)
+            subtitle = subtitle_path(audio, args.subtitle, not args.no_subtitles, args.subtitle_suffix)
             if args.dry_run:
                 print(f"PLAN  {audio} -> {output}" + (f" (subtitle: {subtitle})" if subtitle else ""))
                 continue

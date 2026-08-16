@@ -35,7 +35,9 @@ FFmpeg 解码为 44.1kHz 双声道 PCM，再按 100ms 峰值波形、99.5% 分�
 支持单个音频或整个目录，目录默认递归扫描 `.mp3`、`.wav`、`.m4a`、`.aac`、
 `.ogg`、`.flac`、`.opus`、`.wma`、`.aiff` 和 `.aif`。输出始终是音频同目录下的
 同 basename `.recx`，默认跳过已经存在的 `.recx`；加入 `--overwrite` 才会覆盖。
-若存在同 basename `.srt`、`.vtt` 或 `.lrc`，会自动写入字幕 tag。
+若存在同 basename `.srt`、`.vtt` 或 `.lrc`，会自动写入字幕 tag。也可以用
+`--subtitle-suffix` 指定字幕文件名后缀；AAT 使用已经准备好的双语字幕
+`<音频名>_zh.srt`：
 
 ```bash
 # 单个文件
@@ -43,6 +45,9 @@ python release-tools/generate_recx.py "resources/TheOfficeS01/example.mp3"
 
 # 整个目录（默认递归）
 python release-tools/generate_recx.py "resources/TheOfficeS01"
+
+# AAT 使用同名 _zh.srt 作为 RECX 字幕来源
+python release-tools/generate_recx.py "resources/AAT" --subtitle-suffix _zh
 
 # 先查看将处理的文件，或只扫描目录顶层
 python release-tools/generate_recx.py "resources/TheOfficeS01" --dry-run
@@ -174,7 +179,7 @@ python release-tools/publish_archive_only_package.py \
 
 ## AAT 分段 GitHub Release
 
-`publish_aat_github_release_parts.py` 将 `resources/AAT` 的 459 个 MP3 顺序拆为 7 个 GitHub Release：前 6 个各 70 文件，最后一个 39 文件。它使用标准库 GitHub API，凭据只从 `GITHUB_TOKEN` 环境变量读取，不写入仓库或发布记录。
+`publish_aat_github_release_parts.py` 将 `resources/AAT` 的 459 个 MP3 顺序拆为 7 个 GitHub Release：前 6 个各 70 文件，最后一个 39 文件；每个分卷同时上传对应的 `.recx` 波形字幕资产。它使用标准库 GitHub API，凭据只从 `GITHUB_TOKEN` 环境变量读取，不写入仓库或发布记录。
 
 脚本对每个 part 逐文件按名称（或上传 label）和字节数校验。中断后重跑会跳过已校验文件；它从不删除、覆盖或移动本地资源。只有七个 part 都远端校验通过，才会将 AAT 的发布记录改为 GitHub Release 优先、Internet Archive 镜像，并重建 `release-records/index.json` 与 README 资料包表格。
 
