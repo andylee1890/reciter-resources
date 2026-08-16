@@ -1,0 +1,12 @@
+Beyond two or three days, the world's best weather forecasts are speculative, and beyond six or seven they are worthless.
+The Butterfly Effect is the reason.
+For small pieces of weather -- and to a global forecaster, small can mean thunderstorms and blizzards -- any prediction deteriorates rapidly.
+Errors and uncertainties multiply, cascading upward through a chain of turbulent features, from dust devils and squalls up to continent-size eddies that only satellites can see.
+The modern weather models work with a grid of points of the order of 60 miles apart, and even so, some starting data has to be guessed, since ground stations and satellites cannot see everywhere.
+But suppose the earth could be covered with sensors spaced one foot apart, rising at one-foot intervals all the way to the top of the atmosphere.
+Suppose every sensor gives perfectly accurate readings of temperature, pressure, humidity, and any other quantity a meteorologist would want.
+Precisely at noon an infinitely powerful computer takes all the data and calculates what will happen at each point at 12.01, then 12.02, then 12.03...
+The computer will still be unable to predict whether Princeton, New Jersey, will have sun or rain on a day one month away.
+At noon the spaces between the sensors will hide fluctuations that the computer will not know about, tiny deviations from the average.
+By 12.01, those fluctuations will already have created small errors one foot away.
+Soon the errors will have multiplied to the ten-foot scale, and so on up to the size of the globe.

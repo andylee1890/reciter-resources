@@ -1,0 +1,370 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-16T15:31:46.977576Z",
+  "tag": "new-concept-english-3-us-audio-course-v1",
+  "title": "New Concept English Book 3 American Course Subtitles",
+  "folder": "resources/NCE3-美音-(MP3+LRC)/courses",
+  "srtCount": 60,
+  "srt": [
+    {
+      "name": "01－A Puma at Large.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/01－A Puma at Large.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/01%EF%BC%8DA%20Puma%20at%20Large.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/01%EF%BC%8DA%20Puma%20at%20Large.srt"
+    },
+    {
+      "name": "02－Thirteen Equals One.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/02－Thirteen Equals One.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/02%EF%BC%8DThirteen%20Equals%20One.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/02%EF%BC%8DThirteen%20Equals%20One.srt"
+    },
+    {
+      "name": "03－An Unknown Goddess.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/03－An Unknown Goddess.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/03%EF%BC%8DAn%20Unknown%20Goddess.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/03%EF%BC%8DAn%20Unknown%20Goddess.srt"
+    },
+    {
+      "name": "04－The Double Life of Alfred Bloggs.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/04－The Double Life of Alfred Bloggs.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/04%EF%BC%8DThe%20Double%20Life%20of%20Alfred%20Bloggs.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/04%EF%BC%8DThe%20Double%20Life%20of%20Alfred%20Bloggs.srt"
+    },
+    {
+      "name": "05－The Facts.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/05－The Facts.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/05%EF%BC%8DThe%20Facts.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/05%EF%BC%8DThe%20Facts.srt"
+    },
+    {
+      "name": "06－Smash-and-Grab.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/06－Smash-and-Grab.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/06%EF%BC%8DSmash-and-Grab.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/06%EF%BC%8DSmash-and-Grab.srt"
+    },
+    {
+      "name": "07－Mutilated Ladies.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/07－Mutilated Ladies.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/07%EF%BC%8DMutilated%20Ladies.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/07%EF%BC%8DMutilated%20Ladies.srt"
+    },
+    {
+      "name": "08－A Famous Monastery.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/08－A Famous Monastery.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/08%EF%BC%8DA%20Famous%20Monastery.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/08%EF%BC%8DA%20Famous%20Monastery.srt"
+    },
+    {
+      "name": "09－Flying Cats.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/09－Flying Cats.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/09%EF%BC%8DFlying%20Cats.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/09%EF%BC%8DFlying%20Cats.srt"
+    },
+    {
+      "name": "10－The Loss of the Titanic.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/10－The Loss of the Titanic.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/10%EF%BC%8DThe%20Loss%20of%20the%20Titanic.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/10%EF%BC%8DThe%20Loss%20of%20the%20Titanic.srt"
+    },
+    {
+      "name": "11－Not Guilty.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/11－Not Guilty.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/11%EF%BC%8DNot%20Guilty.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/11%EF%BC%8DNot%20Guilty.srt"
+    },
+    {
+      "name": "12－Life on a Desert Island.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/12－Life on a Desert Island.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/12%EF%BC%8DLife%20on%20a%20Desert%20Island.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/12%EF%BC%8DLife%20on%20a%20Desert%20Island.srt"
+    },
+    {
+      "name": "13－It's Only Me.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/13－It's Only Me.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/13%EF%BC%8DIt%27s%20Only%20Me.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/13%EF%BC%8DIt%27s%20Only%20Me.srt"
+    },
+    {
+      "name": "14－A Noble Gangster.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/14－A Noble Gangster.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/14%EF%BC%8DA%20Noble%20Gangster.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/14%EF%BC%8DA%20Noble%20Gangster.srt"
+    },
+    {
+      "name": "15－Fifty Pence Worth of Trouble.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/15－Fifty Pence Worth of Trouble.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/15%EF%BC%8DFifty%20Pence%20Worth%20of%20Trouble.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/15%EF%BC%8DFifty%20Pence%20Worth%20of%20Trouble.srt"
+    },
+    {
+      "name": "16－Mary Had a Little Lamb.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/16－Mary Had a Little Lamb.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/16%EF%BC%8DMary%20Had%20a%20Little%20Lamb.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/16%EF%BC%8DMary%20Had%20a%20Little%20Lamb.srt"
+    },
+    {
+      "name": "17－The Longest Suspension Bridge in the World.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/17－The Longest Suspension Bridge in the World.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/17%EF%BC%8DThe%20Longest%20Suspension%20Bridge%20in%20the%20World.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/17%EF%BC%8DThe%20Longest%20Suspension%20Bridge%20in%20the%20World.srt"
+    },
+    {
+      "name": "18－Electric Currents in Modern Art.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/18－Electric Currents in Modern Art.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/18%EF%BC%8DElectric%20Currents%20in%20Modern%20Art.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/18%EF%BC%8DElectric%20Currents%20in%20Modern%20Art.srt"
+    },
+    {
+      "name": "19－A Very Dear Cat.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/19－A Very Dear Cat.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/19%EF%BC%8DA%20Very%20Dear%20Cat.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/19%EF%BC%8DA%20Very%20Dear%20Cat.srt"
+    },
+    {
+      "name": "20－Pioneer Pilots.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/20－Pioneer Pilots.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/20%EF%BC%8DPioneer%20Pilots.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/20%EF%BC%8DPioneer%20Pilots.srt"
+    },
+    {
+      "name": "21－Daniel Mendoza.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/21－Daniel Mendoza.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/21%EF%BC%8DDaniel%20Mendoza.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/21%EF%BC%8DDaniel%20Mendoza.srt"
+    },
+    {
+      "name": "22－By Heart.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/22－By Heart.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/22%EF%BC%8DBy%20Heart.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/22%EF%BC%8DBy%20Heart.srt"
+    },
+    {
+      "name": "23－One Man's Meat is Another Man's Poison.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/23－One Man's Meat is Another Man's Poison.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/23%EF%BC%8DOne%20Man%27s%20Meat%20is%20Another%20Man%27s%20Poison.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/23%EF%BC%8DOne%20Man%27s%20Meat%20is%20Another%20Man%27s%20Poison.srt"
+    },
+    {
+      "name": "24－A Skeleton in the Cupboard.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/24－A Skeleton in the Cupboard.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/24%EF%BC%8DA%20Skeleton%20in%20the%20Cupboard.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/24%EF%BC%8DA%20Skeleton%20in%20the%20Cupboard.srt"
+    },
+    {
+      "name": "25－The Cutty Sark.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/25－The Cutty Sark.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/25%EF%BC%8DThe%20Cutty%20Sark.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/25%EF%BC%8DThe%20Cutty%20Sark.srt"
+    },
+    {
+      "name": "26－Wanted a Large Biscuit Tin.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/26－Wanted a Large Biscuit Tin.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/26%EF%BC%8DWanted%20a%20Large%20Biscuit%20Tin.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/26%EF%BC%8DWanted%20a%20Large%20Biscuit%20Tin.srt"
+    },
+    {
+      "name": "27－Nothing to Sell and Nothing to Buy.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/27－Nothing to Sell and Nothing to Buy.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/27%EF%BC%8DNothing%20to%20Sell%20and%20Nothing%20to%20Buy.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/27%EF%BC%8DNothing%20to%20Sell%20and%20Nothing%20to%20Buy.srt"
+    },
+    {
+      "name": "28－Five Pounds Too Dear.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/28－Five Pounds Too Dear.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/28%EF%BC%8DFive%20Pounds%20Too%20Dear.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/28%EF%BC%8DFive%20Pounds%20Too%20Dear.srt"
+    },
+    {
+      "name": "29－Funny or Not.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/29－Funny or Not.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/29%EF%BC%8DFunny%20or%20Not.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/29%EF%BC%8DFunny%20or%20Not.srt"
+    },
+    {
+      "name": "30－The Death of a Ghost.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/30－The Death of a Ghost.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/30%EF%BC%8DThe%20Death%20of%20a%20Ghost.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/30%EF%BC%8DThe%20Death%20of%20a%20Ghost.srt"
+    },
+    {
+      "name": "31－A Lovable Eccentric.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/31－A Lovable Eccentric.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/31%EF%BC%8DA%20Lovable%20Eccentric.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/31%EF%BC%8DA%20Lovable%20Eccentric.srt"
+    },
+    {
+      "name": "32－A Lost Ship.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/32－A Lost Ship.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/32%EF%BC%8DA%20Lost%20Ship.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/32%EF%BC%8DA%20Lost%20Ship.srt"
+    },
+    {
+      "name": "33－A Day to Remember.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/33－A Day to Remember.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/33%EF%BC%8DA%20Day%20to%20Remember.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/33%EF%BC%8DA%20Day%20to%20Remember.srt"
+    },
+    {
+      "name": "34－A Happy Discovery.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/34－A Happy Discovery.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/34%EF%BC%8DA%20Happy%20Discovery.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/34%EF%BC%8DA%20Happy%20Discovery.srt"
+    },
+    {
+      "name": "35－Justice was Done.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/35－Justice was Done.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/35%EF%BC%8DJustice%20was%20Done.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/35%EF%BC%8DJustice%20was%20Done.srt"
+    },
+    {
+      "name": "36－A Chance in a Million.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/36－A Chance in a Million.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/36%EF%BC%8DA%20Chance%20in%20a%20Million.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/36%EF%BC%8DA%20Chance%20in%20a%20Million.srt"
+    },
+    {
+      "name": "37－The Westhaven Express.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/37－The Westhaven Express.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/37%EF%BC%8DThe%20Westhaven%20Express.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/37%EF%BC%8DThe%20Westhaven%20Express.srt"
+    },
+    {
+      "name": "38－The First Calendar.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/38－The First Calendar.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/38%EF%BC%8DThe%20First%20Calendar.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/38%EF%BC%8DThe%20First%20Calendar.srt"
+    },
+    {
+      "name": "39－Nothing to Worry About.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/39－Nothing to Worry About.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/39%EF%BC%8DNothing%20to%20Worry%20About.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/39%EF%BC%8DNothing%20to%20Worry%20About.srt"
+    },
+    {
+      "name": "40－Who's Who.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/40－Who's Who.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/40%EF%BC%8DWho%27s%20Who.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/40%EF%BC%8DWho%27s%20Who.srt"
+    },
+    {
+      "name": "41－Illusions of Pastoral Peace.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/41－Illusions of Pastoral Peace.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/41%EF%BC%8DIllusions%20of%20Pastoral%20Peace.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/41%EF%BC%8DIllusions%20of%20Pastoral%20Peace.srt"
+    },
+    {
+      "name": "42－Modern Cavemen.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/42－Modern Cavemen.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/42%EF%BC%8DModern%20Cavemen.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/42%EF%BC%8DModern%20Cavemen.srt"
+    },
+    {
+      "name": "43－Fully Insured.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/43－Fully Insured.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/43%EF%BC%8DFully%20Insured.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/43%EF%BC%8DFully%20Insured.srt"
+    },
+    {
+      "name": "44－Speed and Comfort.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/44－Speed and Comfort.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/44%EF%BC%8DSpeed%20and%20Comfort.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/44%EF%BC%8DSpeed%20and%20Comfort.srt"
+    },
+    {
+      "name": "45－The Power of the Press.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/45－The Power of the Press.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/45%EF%BC%8DThe%20Power%20of%20the%20Press.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/45%EF%BC%8DThe%20Power%20of%20the%20Press.srt"
+    },
+    {
+      "name": "46－Do It Yourself.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/46－Do It Yourself.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/46%EF%BC%8DDo%20It%20Yourself.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/46%EF%BC%8DDo%20It%20Yourself.srt"
+    },
+    {
+      "name": "47－Too High a Price.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/47－Too High a Price.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/47%EF%BC%8DToo%20High%20a%20Price.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/47%EF%BC%8DToo%20High%20a%20Price.srt"
+    },
+    {
+      "name": "48－The Silent Village.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/48－The Silent Village.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/48%EF%BC%8DThe%20Silent%20Village.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/48%EF%BC%8DThe%20Silent%20Village.srt"
+    },
+    {
+      "name": "49－The Ideal Servant.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/49－The Ideal Servant.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/49%EF%BC%8DThe%20Ideal%20Servant.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/49%EF%BC%8DThe%20Ideal%20Servant.srt"
+    },
+    {
+      "name": "50－New Year Resolutions.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/50－New Year Resolutions.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/50%EF%BC%8DNew%20Year%20Resolutions.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/50%EF%BC%8DNew%20Year%20Resolutions.srt"
+    },
+    {
+      "name": "51－Predicting the Future.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/51－Predicting the Future.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/51%EF%BC%8DPredicting%20the%20Future.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/51%EF%BC%8DPredicting%20the%20Future.srt"
+    },
+    {
+      "name": "52－Mud is Mud.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/52－Mud is Mud.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/52%EF%BC%8DMud%20is%20Mud.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/52%EF%BC%8DMud%20is%20Mud.srt"
+    },
+    {
+      "name": "53－In the Public Interest.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/53－In the Public Interest.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/53%EF%BC%8DIn%20the%20Public%20Interest.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/53%EF%BC%8DIn%20the%20Public%20Interest.srt"
+    },
+    {
+      "name": "54－Instinct or Cleverness.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/54－Instinct or Cleverness.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/54%EF%BC%8DInstinct%20or%20Cleverness.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/54%EF%BC%8DInstinct%20or%20Cleverness.srt"
+    },
+    {
+      "name": "55－From the Earth Greetings.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/55－From the Earth Greetings.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/55%EF%BC%8DFrom%20the%20Earth%20Greetings.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/55%EF%BC%8DFrom%20the%20Earth%20Greetings.srt"
+    },
+    {
+      "name": "56－Our Neighbour, the River.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/56－Our Neighbour, the River.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/56%EF%BC%8DOur%20Neighbour%2C%20the%20River.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/56%EF%BC%8DOur%20Neighbour%2C%20the%20River.srt"
+    },
+    {
+      "name": "57－Back in the Old Country.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/57－Back in the Old Country.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/57%EF%BC%8DBack%20in%20the%20Old%20Country.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/57%EF%BC%8DBack%20in%20the%20Old%20Country.srt"
+    },
+    {
+      "name": "58－A Spot of Bother.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/58－A Spot of Bother.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/58%EF%BC%8DA%20Spot%20of%20Bother.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/58%EF%BC%8DA%20Spot%20of%20Bother.srt"
+    },
+    {
+      "name": "59－Collecting.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/59－Collecting.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/59%EF%BC%8DCollecting.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/59%EF%BC%8DCollecting.srt"
+    },
+    {
+      "name": "60－Too Early and Too Late.srt",
+      "path": "resources/NCE3-美音-(MP3+LRC)/courses/60－Too Early and Too Late.srt",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/60%EF%BC%8DToo%20Early%20and%20Too%20Late.srt",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/NCE3-%E7%BE%8E%E9%9F%B3-%28MP3%2BLRC%29/courses/60%EF%BC%8DToo%20Early%20and%20Too%20Late.srt"
+    }
+  ]
+}

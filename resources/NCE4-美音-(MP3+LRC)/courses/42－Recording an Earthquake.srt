@@ -1,0 +1,139 @@
+﻿1
+00:00:18,950 --> 00:00:23,690
+An earthquake comes like a thief in the night, without warning.
+
+2
+00:00:23,690 --> 00:00:29,840
+It was necessary, therefore, to invent instruments that neither slumbered nor slept.
+
+3
+00:00:29,840 --> 00:00:32,360
+Some devices were quite simple.
+
+4
+00:00:32,360 --> 00:00:41,060
+One, for instance, consisted of rods of various lengths and thicknesses which would stand up on end like ninepins.
+
+5
+00:00:41,060 --> 00:00:46,360
+When a shock came, it shook the rigid table upon which these stood.
+
+6
+00:00:46,360 --> 00:00:53,990
+If it were gentle, only the more unstable rods fell. If it were severe, they all fell.
+
+7
+00:00:53,990 --> 00:01:08,990
+Thus the rods, by falling, and by the direction in which they fell, recorded for the slumbering scientist the strength of a shock that was too weak to waken him, and the direction from which it came.
+
+8
+00:01:08,990 --> 00:01:15,870
+But instruments far more delicate than that were needed if any really serious advance was to be made.
+
+9
+00:01:15,870 --> 00:01:28,240
+The ideal to be aimed at was to devise an instrument that could record with a pen on paper, the movements of the ground or of the table as the quake passed by.
+
+10
+00:01:28,240 --> 00:01:32,570
+While I write my pen moves, but the paper keeps still.
+
+11
+00:01:32,570 --> 00:01:39,750
+With practice, no doubt, I could in time learn to write by holding the pen still while the paper moved.
+
+12
+00:01:39,750 --> 00:01:51,700
+That sounds a silly suggestion, but that was precisely the idea adopted in some of the early instruments (seismometers) for recording earthquake waves.
+
+13
+00:01:51,700 --> 00:01:59,020
+But when table, penholder and paper are all moving, how is it possible to write legibly?
+
+14
+00:01:59,020 --> 00:02:04,180
+The key to a solution of that problem lay in an everyday observation.
+
+15
+00:02:04,180 --> 00:02:10,590
+Why does a person standing in a bus or train tend to fall when a sudden start is made?
+
+16
+00:02:10,590 --> 00:02:15,180
+It is because his feet move on, but his head stays still.
+
+17
+00:02:15,180 --> 00:02:18,390
+A simple experiment will help us a little further.
+
+18
+00:02:18,390 --> 00:02:22,240
+Tie a heavy weight at the end of a long piece of string.
+
+19
+00:02:22,240 --> 00:02:28,780
+With the hand held high in the air, hold the string so that the weight nearly touches the ground.
+
+20
+00:02:28,780 --> 00:02:33,760
+Now move the hand to and fro and around but not up and down.
+
+21
+00:02:33,760 --> 00:02:38,340
+It will be found that the weight moves but slightly or not at all.
+
+22
+00:02:38,340 --> 00:02:51,420
+Imagine a pen attached to the weight in such a way that its point rests upon a piece of paper on the floor. Imagine an earthquake shock shaking the floor, the paper, you and your hand.
+
+23
+00:02:51,420 --> 00:02:55,970
+In the midst of all this movement, the weight and the pen would be still.
+
+24
+00:02:55,970 --> 00:03:04,180
+But as the paper moved from side to side under the pen point, its movement would be recorded in ink upon its surface.
+
+25
+00:03:04,180 --> 00:03:13,200
+It was upon this principle that the first instruments were made, but the paper was wrapped round a drum which rotated slowly.
+
+26
+00:03:13,200 --> 00:03:25,180
+As long as all was still, the pen drew a straight line, but while the drum was being shaken, the line that the pen was drawing wriggled from side to side.
+
+27
+00:03:25,180 --> 00:03:35,210
+The apparatus thus described, however, records only the horizontal component of the wave movement, which is, in fact, much more complicated.
+
+28
+00:03:35,210 --> 00:03:50,540
+If we could actually see the path described by a particle, such as a sand grain in the rock, it would be more like that of a bluebottle buzzing round the room; it would be up and down, to and fro and from side to side.
+
+29
+00:03:50,540 --> 00:03:58,840
+Instruments have been devised and can be so placed that all three elements can be recorded in different graphs.
+
+30
+00:03:58,840 --> 00:04:10,630
+When the instrument is situated at more than 700 miles from the earthquake centre, the graphic record shows three waves arriving one after the other at short intervals.
+
+31
+00:04:10,630 --> 00:04:15,560
+The first records the arrival of longitudinal vibrations.
+
+32
+00:04:15,560 --> 00:04:25,160
+The second marks the arrival of transverse vibrations which travel more slowly and arrive several minutes after the first.
+
+33
+00:04:25,160 --> 00:04:27,870
+These two have travelled through the earth.
+
+34
+00:04:27,870 --> 00:04:33,660
+It was from the study of these that so much was learnt about the interior of the earth.
+
+35
+00:04:33,660 --> 00:04:36,660
+The third, or main wave is the slowest and has travelled round the earth through the surface rocks.

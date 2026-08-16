@@ -1,0 +1,47 @@
+﻿1
+00:00:18,100 --> 00:00:35,970
+Not all sounds made by animals serve as language, and we have only to turn to that extraordinary discovery of echo-location in bats to see a case in which the voice plays a strictly utilitarian role.
+
+2
+00:00:35,970 --> 00:00:44,330
+To get a full appreciation of what this means we must turn first to some recent human inventions.
+
+3
+00:00:44,330 --> 00:00:52,710
+Everyone knows that if he shouts in the vicinity of a wall or a mountainside, an echo will come back.
+
+4
+00:00:52,710 --> 00:01:01,270
+The further off this solid obstruction, the longer time will elapse for the return of the echo.
+
+5
+00:01:01,270 --> 00:01:19,360
+A sound made by tapping on the hull of a ship will be reflected from the sea bottom, and by measuring the time interval between the taps and the receipt of the echoes the depth of the sea at that point can be calculated.
+
+6
+00:01:19,360 --> 00:01:26,480
+So was born the echo-sounding apparatus, now in general use in ships.
+
+7
+00:01:26,480 --> 00:01:34,940
+Every solid object will reflect a sound, varying according to the size and nature of the object.
+
+8
+00:01:34,940 --> 00:01:37,580
+A shoal of fish will do this.
+
+9
+00:01:37,580 --> 00:01:45,890
+So it is a comparatively simple step from locating the sea bottom to locating a shoal of fish.
+
+10
+00:01:45,890 --> 00:02:01,550
+With experience, and with improved apparatus, it is now possible not only to locate a shoal but to tell if it is herring, cod, or other well-known fish, by the pattern of its echo.
+
+11
+00:02:01,550 --> 00:02:15,810
+It has been found that certain bats emit squeaks and by receiving the echoes, they can locate and steer clear of obstacles -- or locate flying insects on which they feed.
+
+12
+00:02:15,810 --> 00:02:32,617
+This echo-location in bats is often compared with radar, the principle of which is similar.

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "generatedAt": "2026-08-16T10:00:25.003030Z",
+  "generatedAt": "2026-08-16T15:31:46.977576Z",
   "repository": "andylee1890/reciter-resources",
   "posterIndex": {
     "path": "artwork/posters/index.json",
@@ -1184,6 +1184,32 @@
       "source": "https://www.tvmaze.com/shows/6647/yes-prime-minister",
       "sourceImage": "https://static.tvmaze.com/uploads/images/original_untouched/25/62845.jpg",
       "usedBy": "yes-prime-minister-audio-v1"
+    }
+  ],
+  "courses": [
+    {
+      "tag": "new-concept-english-2-us-audio-course-v1",
+      "title": "New Concept English Book 2 American Course Subtitles",
+      "srtCount": 96,
+      "detailFile": "release-records/courses/new-concept-english-2-us-audio-course-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/courses/new-concept-english-2-us-audio-course-v1.json",
+      "detailJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/release-records/courses/new-concept-english-2-us-audio-course-v1.json"
+    },
+    {
+      "tag": "new-concept-english-3-us-audio-course-v1",
+      "title": "New Concept English Book 3 American Course Subtitles",
+      "srtCount": 60,
+      "detailFile": "release-records/courses/new-concept-english-3-us-audio-course-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/courses/new-concept-english-3-us-audio-course-v1.json",
+      "detailJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/release-records/courses/new-concept-english-3-us-audio-course-v1.json"
+    },
+    {
+      "tag": "new-concept-english-4-us-audio-course-v1",
+      "title": "New Concept English Book 4 American Course Subtitles",
+      "srtCount": 48,
+      "detailFile": "release-records/courses/new-concept-english-4-us-audio-course-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/courses/new-concept-english-4-us-audio-course-v1.json",
+      "detailJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/release-records/courses/new-concept-english-4-us-audio-course-v1.json"
     }
   ],
   "releases": [

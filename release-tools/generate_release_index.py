@@ -29,6 +29,14 @@ def poster_index_path(root: Path) -> Path:
     return root / "artwork" / "posters" / "index.json"
 
 
+def course_sources_path(root: Path) -> Path:
+    return root / "release-records" / "course-sources.json"
+
+
+def course_detail_relative_path(tag: str) -> str:
+    return f"courses/{tag}.json"
+
+
 def parse_links(cell: str) -> dict[str, str]:
     return {label.lstrip("."): url for label, url in LINK_PATTERN.findall(cell)}
 
@@ -257,6 +265,7 @@ def master_index(
     posters: list[dict[str, Any]],
     generated_at: str,
     posters_by_tag: dict[str, dict[str, Any]],
+    courses: list[dict[str, Any]],
 ) -> dict[str, Any]:
     repositories = {record["repository"] for record in records}
     return {
@@ -265,6 +274,7 @@ def master_index(
         "repository": repositories.pop() if len(repositories) == 1 else None,
         "posterIndex": poster_index_reference(records),
         "posters": posters,
+        "courses": course_summaries(courses),
         "releases": [
             {
                 "tag": record["tag"],
@@ -297,6 +307,98 @@ def poster_urls(repository: str, branch: str, path: str) -> dict[str, str]:
         "githubRaw": f"https://raw.githubusercontent.com/{repository}/{branch}/{quoted_path}",
         "jsDelivr": f"https://cdn.jsdelivr.net/gh/{repository}@{branch}/{quoted_path}",
     }
+
+
+def published_courses(root: Path) -> list[dict[str, Any]]:
+    source_path = course_sources_path(root)
+    if not source_path.is_file():
+        return []
+
+    source = json.loads(source_path.read_text(encoding="utf-8"))
+    if source.get("schemaVersion") != 1:
+        raise ValueError(f"{source_path}: unsupported schema version")
+    repository = source.get("repository")
+    branch = source.get("branch")
+    items = source.get("courses")
+    if not isinstance(repository, str) or not isinstance(branch, str) or not isinstance(items, list):
+        raise ValueError(f"{source_path}: repository, branch, and courses are required")
+
+    courses: list[dict[str, Any]] = []
+    seen_tags: set[str] = set()
+    for item in items:
+        if not isinstance(item, dict):
+            raise ValueError(f"{source_path}: course entry must be an object")
+        tag = item.get("tag")
+        title = item.get("title")
+        folder = item.get("folder")
+        if not isinstance(tag, str) or not isinstance(title, str) or not isinstance(folder, str):
+            raise ValueError(f"{source_path}: course tag, title, and folder are required")
+        if tag in seen_tags:
+            raise ValueError(f"{source_path}: duplicate course tag: {tag}")
+        seen_tags.add(tag)
+
+        folder_path = (root / folder).resolve()
+        try:
+            folder_path.relative_to(root.resolve())
+        except ValueError as exc:
+            raise ValueError(f"{source_path}: course folder escapes repository: {folder}") from exc
+        if not folder_path.is_dir():
+            raise ValueError(f"{source_path}: course folder not found: {folder}")
+
+        srt_files = sorted(path for path in folder_path.iterdir() if path.is_file() and path.suffix.lower() == ".srt")
+        if not srt_files:
+            raise ValueError(f"{source_path}: no SRT files found in {folder}")
+        courses.append(
+            {
+                "tag": tag,
+                "title": title,
+                "folder": folder,
+                "repository": repository,
+                "branch": branch,
+                "srtFiles": srt_files,
+            }
+        )
+    return courses
+
+
+def course_detail(course: dict[str, Any], generated_at: str) -> dict[str, Any]:
+    return {
+        "schemaVersion": 1,
+        "generatedAt": generated_at,
+        "tag": course["tag"],
+        "title": course["title"],
+        "folder": course["folder"],
+        "srtCount": len(course["srtFiles"]),
+        "srt": [
+            {
+                "name": path.name,
+                **poster_urls(
+                    course["repository"],
+                    course["branch"],
+                    f"{course['folder']}/{path.name}",
+                ),
+            }
+            for path in course["srtFiles"]
+        ],
+    }
+
+
+def course_summaries(courses: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    return [
+        {
+            "tag": course["tag"],
+            "title": course["title"],
+            "srtCount": len(course["srtFiles"]),
+            "detailFile": f"release-records/{course_detail_relative_path(course['tag'])}",
+            "detailRaw": poster_urls(
+                course["repository"], course["branch"], f"release-records/{course_detail_relative_path(course['tag'])}"
+            )["githubRaw"],
+            "detailJsDelivr": poster_urls(
+                course["repository"], course["branch"], f"release-records/{course_detail_relative_path(course['tag'])}"
+            )["jsDelivr"],
+        }
+        for course in courses
+    ]
 
 
 def poster_index_reference(records: list[dict[str, Any]]) -> dict[str, str]:
@@ -384,6 +486,15 @@ def write_poster_index(
         "posterIndex": reference,
         "posters": posters,
     }
+    if target.is_file():
+        try:
+            existing = json.loads(target.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            existing = None
+        if isinstance(existing, dict) and all(
+            existing.get(key) == payload[key] for key in ("schemaVersion", "repository", "posterIndex", "posters")
+        ):
+            return
     target.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
 
 
@@ -417,6 +528,7 @@ def main() -> int:
     root = repository_root()
     generated_at = dt.datetime.now(dt.timezone.utc).isoformat().replace("+00:00", "Z")
     posters, posters_by_tag = published_posters(records, root)
+    courses = published_courses(root)
     write_poster_index(records, posters, generated_at, root)
     for record in records:
         detail_path = records_dir / f"{record['tag']}.json"
@@ -428,10 +540,21 @@ def main() -> int:
             )
             + "\n",
             encoding="utf-8",
+                newline="\n",
+            )
+    for course in courses:
+        detail_path = root / "release-records" / course_detail_relative_path(course["tag"])
+        detail_path.parent.mkdir(parents=True, exist_ok=True)
+        detail_path.write_text(
+            json.dumps(
+                course_detail(course, existing_generated_at(detail_path, generated_at)), ensure_ascii=False, indent=2
+            )
+            + "\n",
+            encoding="utf-8",
             newline="\n",
         )
 
-    index = master_index(records, posters, generated_at, posters_by_tag)
+    index = master_index(records, posters, generated_at, posters_by_tag, courses)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
     print(f"Wrote {len(records)} published releases to {output_path}")

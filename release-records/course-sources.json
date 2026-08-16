@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "courses": [
+    {
+      "tag": "new-concept-english-2-us-audio-course-v1",
+      "title": "New Concept English Book 2 American Course Subtitles",
+      "folder": "resources/NCE2-美音-(MP3+LRC)/courses"
+    },
+    {
+      "tag": "new-concept-english-3-us-audio-course-v1",
+      "title": "New Concept English Book 3 American Course Subtitles",
+      "folder": "resources/NCE3-美音-(MP3+LRC)/courses"
+    },
+    {
+      "tag": "new-concept-english-4-us-audio-course-v1",
+      "title": "New Concept English Book 4 American Course Subtitles",
+      "folder": "resources/NCE4-美音-(MP3+LRC)/courses"
+    }
+  ]
+}
