@@ -129,7 +129,7 @@ def upload_asset(upload_url: str, asset: Path, token: str, retries: int) -> dict
     headers = {
         "Accept": "application/vnd.github+json",
         "Authorization": f"Bearer {token}",
-        "Content-Type": "audio/mpeg",
+        "Content-Type": content_type(asset),
         "User-Agent": "reciter-resources-aat-publisher",
         "X-GitHub-Api-Version": "2022-11-28",
     }
@@ -150,6 +150,13 @@ def upload_asset(upload_url: str, asset: Path, token: str, retries: int) -> dict
                 raise RuntimeError(f"Upload failed for {asset.name}: {exc}") from exc
         time.sleep(min(60, attempt * 5))
     raise AssertionError("unreachable")
+
+
+def content_type(path: Path) -> str:
+    return {
+        ".mp3": "audio/mpeg",
+        ".recx": "application/xml",
+    }.get(path.suffix.lower(), "application/octet-stream")
 
 
 def list_assets(release: dict[str, Any], repo: str, token: str, retries: int) -> list[dict[str, Any]]:
@@ -262,6 +269,16 @@ def sidecars_for(audio: Path) -> list[tuple[str, Path]]:
     if chinese_srt.is_file():
         sidecars.append(("srtZh", chinese_srt))
     return sidecars
+
+
+def release_assets(audio_files: list[Path]) -> list[Path]:
+    assets: list[Path] = []
+    for audio in audio_files:
+        assets.append(audio)
+        recx = audio.with_suffix(".recx")
+        if recx.is_file():
+            assets.append(recx)
+    return assets
 
 
 def sidecar_links(root: Path, audio: Path, repo: str, branch: str, cdn: bool) -> str:
@@ -399,7 +416,8 @@ def main() -> int:
             else get_or_create_release(args.repo, tag, title, notes, token, args.retries)
         )
         current = asset_map(list_assets(release, args.repo, token, args.retries))
-        for item in files:
+        assets = release_assets(files)
+        for item in assets:
             remote = find_remote_asset(current, item.name)
             if remote is not None and remote.get("size") == item.stat().st_size:
                 print(f"{tag}: already verified {item.name}")
@@ -413,7 +431,7 @@ def main() -> int:
                 upload_asset(str(release["upload_url"]), item, token, args.retries)
             except FileExistsError:
                 pass
-        verified = verify_part(release, files, args.repo, token, args.retries)
+        verified = verify_part(release, assets, args.repo, token, args.retries)
         completed.append((release, files, verified))
         print(f"{tag}: verified {len(verified)} of {len(files)} assets")
         if number < len(parts) and args.between_parts_seconds:
