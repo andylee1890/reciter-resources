@@ -38,5 +38,24 @@
     {"folder": "resources/生活大爆炸S10", "tag": "the-big-bang-theory-s10-audio-v1", "title": "The Big Bang Theory Season 10 Audio v1"},
     {"folder": "resources/生活大爆炸S11", "tag": "the-big-bang-theory-s11-audio-v1", "title": "The Big Bang Theory Season 11 Audio v1"},
     {"folder": "resources/AAT", "tag": "american-accent-training-4e-audio-v1", "title": "American Accent Training 4e Audio", "audioDelivery": "githubReleaseParts"}
+    ,{"folder": "resources/剑桥雅思听力/剑雅5", "tag": "cambridge-ielts-05-listening-v1", "title": "Cambridge IELTS 05 Listening v1"}
+    ,{"folder": "resources/剑桥雅思听力/剑雅6", "tag": "cambridge-ielts-06-listening-v1", "title": "Cambridge IELTS 06 Listening v1"}
+    ,{"folder": "resources/剑桥雅思听力/剑雅7", "tag": "cambridge-ielts-07-listening-v1", "title": "Cambridge IELTS 07 Listening v1"}
+    ,{"folder": "resources/剑桥雅思听力/剑雅8", "tag": "cambridge-ielts-08-listening-v1", "title": "Cambridge IELTS 08 Listening v1"}
+    ,{"folder": "resources/剑桥雅思听力/剑雅9", "tag": "cambridge-ielts-09-listening-v1", "title": "Cambridge IELTS 09 Listening v1"}
+    ,{"folder": "resources/剑桥雅思听力/剑雅10", "tag": "cambridge-ielts-10-listening-v1", "title": "Cambridge IELTS 10 Listening v1"}
+    ,{"folder": "resources/剑桥雅思听力/剑雅11", "tag": "cambridge-ielts-11-listening-v1", "title": "Cambridge IELTS 11 Listening v1"}
+    ,{"folder": "resources/剑桥雅思听力/剑雅12", "tag": "cambridge-ielts-12-listening-v1", "title": "Cambridge IELTS 12 Listening v1"}
+    ,{"folder": "resources/剑桥雅思听力/剑雅13", "tag": "cambridge-ielts-13-listening-v1", "title": "Cambridge IELTS 13 Listening v1"}
+    ,{"folder": "resources/剑桥雅思听力/剑雅14", "tag": "cambridge-ielts-14-listening-v1", "title": "Cambridge IELTS 14 Listening v1"}
+    ,{"folder": "resources/剑桥雅思听力/剑雅15", "tag": "cambridge-ielts-15-listening-v1", "title": "Cambridge IELTS 15 Listening v1"}
+    ,{"folder": "resources/剑桥雅思听力/剑雅16", "tag": "cambridge-ielts-16-listening-v1", "title": "Cambridge IELTS 16 Listening v1"}
+    ,{"folder": "resources/剑桥雅思听力/剑雅17", "tag": "cambridge-ielts-17-listening-v1", "title": "Cambridge IELTS 17 Listening v1"}
+    ,{"folder": "resources/剑桥雅思听力/剑雅18", "tag": "cambridge-ielts-18-listening-v1", "title": "Cambridge IELTS 18 Listening v1"}
+    ,{"folder": "resources/剑桥雅思听力/剑雅19", "tag": "cambridge-ielts-19-listening-v1", "title": "Cambridge IELTS 19 Listening v1"}
+    ,{"folder": "resources/剑桥雅思听力/剑雅20", "tag": "cambridge-ielts-20-listening-v1", "title": "Cambridge IELTS 20 Listening v1"}
+    ,{"folder": "resources/托福听力/对话", "tag": "toefl-listening-dialogues-v1", "title": "TOEFL Listening Dialogues v1"}
+    ,{"folder": "resources/托福听力/公告", "tag": "toefl-listening-announcements-v1", "title": "TOEFL Listening Announcements v1"}
+    ,{"folder": "resources/托福听力/学术讲座", "tag": "toefl-listening-lectures-v1", "title": "TOEFL Listening Lectures v1"}
   ]
 }

@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:00,887
+Woman:
+
+2
+00:00:00,887 --> 00:00:05,160
+Listen to an announcement on the university radio station.
+
+3
+00:00:05,160 --> 00:00:07,529
+Attention students.
+
+4
+00:00:07,529 --> 00:00:13,030
+Due to unforeseen circumstances, the delivery of textbooks for several courses has been delayed.
+
+5
+00:00:13,030 --> 00:00:17,040
+The campus bookstore will be sending out daily updates about the delivery status.
+
+6
+00:00:17,040 --> 00:00:21,299
+In the meantime, course instructors will be scanning the required chapters
+
+7
+00:00:21,299 --> 00:00:24,010
+and sending them out as email attachments.

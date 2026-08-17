@@ -1,0 +1,63 @@
+1
+00:00:00,000 --> 00:00:01,611
+Man:
+
+2
+00:00:01,611 --> 00:00:06,020
+Hi Lisa, have you managed to set up the new software on your computer?
+
+3
+00:00:06,020 --> 00:00:06,181
+Woman:
+
+4
+00:00:06,181 --> 00:00:06,524
+Not yet.
+
+5
+00:00:06,524 --> 00:00:10,070
+I tried installing it but I keep getting an error message.
+
+6
+00:00:10,070 --> 00:00:10,120
+Man:
+
+7
+00:00:10,120 --> 00:00:13,180
+Did you check if your system meets the software requirements?
+
+8
+00:00:13,180 --> 00:00:13,230
+Woman:
+
+9
+00:00:13,230 --> 00:00:18,190
+Yes, my computer is definitely compatible so I think it might be a network issue.
+
+10
+00:00:18,190 --> 00:00:18,240
+Man:
+
+11
+00:00:18,240 --> 00:00:22,000
+You should contact IT support, they can help you sort it out.
+
+12
+00:00:22,000 --> 00:00:22,050
+Woman:
+
+13
+00:00:22,050 --> 00:00:22,903
+Good idea.
+
+14
+00:00:22,903 --> 00:00:25,010
+I'll give them a call this afternoon.
+
+15
+00:00:25,010 --> 00:00:25,310
+Man:
+
+16
+00:00:25,310 --> 00:00:27,110
+Let me know how it goes.

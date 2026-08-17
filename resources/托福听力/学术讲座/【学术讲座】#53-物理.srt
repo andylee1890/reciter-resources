@@ -1,0 +1,103 @@
+1
+00:00:00,000 --> 00:00:03,020
+Listen to talk in a physics class.
+
+2
+00:00:03,020 --> 00:00:04,232
+M:
+
+3
+00:00:04,232 --> 00:00:06,150
+We've been talking about the law of inertia.
+
+4
+00:00:06,150 --> 00:00:10,652
+An object moving in a straight line will continue to move in a straight
+
+5
+00:00:10,652 --> 00:00:14,230
+line unless it is acted upon by another force.
+
+6
+00:00:14,230 --> 00:00:17,070
+So what does this mean in the real world?
+
+7
+00:00:17,070 --> 00:00:22,210
+Let's look at something many people do all the time, riding a bicycle.
+
+8
+00:00:22,210 --> 00:00:25,100
+Think about riding along in a straight line.
+
+9
+00:00:25,100 --> 00:00:29,070
+Once the bike is moving, inertia will keep it going in a straight line.
+
+10
+00:00:29,070 --> 00:00:31,290
+But we don't just ride in straight lines, do we?
+
+11
+00:00:31,290 --> 00:00:35,220
+We turn at corners and steer around things that are in our way.
+
+12
+00:00:35,220 --> 00:00:38,270
+So how do you get the bicycle not to go straight?
+
+13
+00:00:38,270 --> 00:00:40,064
+Easy, right?
+
+14
+00:00:40,064 --> 00:00:43,290
+Don't you just need to turn the front wheel in the direction you want to turn?
+
+15
+00:00:43,290 --> 00:00:49,150
+In fact, if you only turn the front wheel, you're likely to end up on the pavement.
+
+16
+00:00:49,150 --> 00:00:50,383
+The wheel will turn,
+
+17
+00:00:50,383 --> 00:00:54,699
+but because of inertia, your body and the rest of the bike will want
+
+18
+00:00:54,699 --> 00:00:56,240
+to keep moving straight ahead.
+
+19
+00:00:56,240 --> 00:00:59,363
+So how does a cyclist avoid this?
+
+20
+00:00:59,363 --> 00:01:02,040
+The key is to lean in.
+
+21
+00:01:02,040 --> 00:01:05,070
+Weight needs to shift in the direction of the turn
+
+22
+00:01:05,070 --> 00:01:09,010
+so that the force of gravity can work against the force of inertia.
+
+23
+00:01:09,010 --> 00:01:14,125
+Professional cyclists who move at high speeds need to hit a sweet spot, lean
+
+24
+00:01:14,125 --> 00:01:17,779
+more to keep their bicycles from sliding out of turns,
+
+25
+00:01:17,779 --> 00:01:19,240
+but not too much.
+
+26
+00:01:19,240 --> 00:01:25,190
+At a certain point, gravity will bring both rider and bicycle down to the ground.

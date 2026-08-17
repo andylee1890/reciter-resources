@@ -1,0 +1,659 @@
+1
+00:00:00,000 --> 00:00:01,000
+Part 1
+
+2
+00:00:01,000 --> 00:00:01,623
+Man:
+
+3
+00:00:01,623 --> 00:00:01,884
+Hello.
+
+4
+00:00:01,884 --> 00:00:06,207
+Do you mind if I ask you some questions about your journey today?
+
+5
+00:00:06,207 --> 00:00:08,290
+We're doing a customer satisfaction survey.
+
+6
+00:00:08,290 --> 00:00:08,618
+Sophie:
+
+7
+00:00:08,618 --> 00:00:08,946
+Yes.
+
+8
+00:00:08,946 --> 00:00:09,273
+OK.
+
+9
+00:00:09,273 --> 00:00:12,551
+I've got about ten minutes before my train home leaves.
+
+10
+00:00:12,551 --> 00:00:14,190
+I'm on a day trip.
+
+11
+00:00:14,190 --> 00:00:14,514
+Man:
+
+12
+00:00:14,514 --> 00:00:14,839
+Great.
+
+13
+00:00:14,839 --> 00:00:15,487
+Thank you.
+
+14
+00:00:15,487 --> 00:00:18,730
+So first of all, could you tell me your name?
+
+15
+00:00:18,730 --> 00:00:19,225
+Sophie:
+
+16
+00:00:19,225 --> 00:00:20,710
+It's Sophie Bird.
+
+17
+00:00:20,710 --> 00:00:21,022
+Man:
+
+18
+00:00:21,022 --> 00:00:21,648
+Thank you.
+
+19
+00:00:21,648 --> 00:00:24,460
+And would you mind telling me what you do?
+
+20
+00:00:24,460 --> 00:00:24,822
+Sophie:
+
+21
+00:00:24,822 --> 00:00:25,910
+I'm a journalist.
+
+22
+00:00:25,910 --> 00:00:26,237
+Man:
+
+23
+00:00:26,237 --> 00:00:26,891
+Oh really?
+
+24
+00:00:26,891 --> 00:00:28,200
+That must be interesting.
+
+25
+00:00:28,200 --> 00:00:28,540
+Sophie:
+
+26
+00:00:28,540 --> 00:00:28,880
+Yes.
+
+27
+00:00:28,880 --> 00:00:29,560
+It is.
+
+28
+00:00:29,560 --> 00:00:29,906
+Man:
+
+29
+00:00:29,906 --> 00:00:33,370
+So was the reason for your visit here today work?
+
+30
+00:00:33,370 --> 00:00:33,675
+Sophie:
+
+31
+00:00:33,675 --> 00:00:35,198
+Actually, it's my day off.
+
+32
+00:00:35,198 --> 00:00:37,330
+I came here to do some shopping.
+
+33
+00:00:37,330 --> 00:00:37,687
+Man:
+
+34
+00:00:37,687 --> 00:00:38,400
+Oh right.
+
+35
+00:00:38,400 --> 00:00:38,697
+Sophie:
+
+36
+00:00:38,697 --> 00:00:41,070
+But I do sometimes come here for work.
+
+37
+00:00:41,070 --> 00:00:41,400
+Man:
+
+38
+00:00:41,400 --> 00:00:41,730
+OK.
+
+39
+00:00:41,730 --> 00:00:46,350
+Now I'd like to ask some questions about your journey today, if that's OK.
+
+40
+00:00:46,350 --> 00:00:46,658
+Sophie:
+
+41
+00:00:46,658 --> 00:00:46,965
+Yes.
+
+42
+00:00:46,965 --> 00:00:47,580
+No problem.
+
+43
+00:00:47,580 --> 00:00:47,920
+Man:
+
+44
+00:00:47,920 --> 00:00:48,260
+Right,
+
+45
+00:00:48,260 --> 00:00:52,000
+so can you tell me which station you're travelling back to?
+
+46
+00:00:52,000 --> 00:00:52,472
+Sophie:
+
+47
+00:00:52,472 --> 00:00:54,360
+Staunfirth, where I live.
+
+48
+00:00:54,360 --> 00:00:55,571
+Man:
+
+49
+00:00:55,571 --> 00:01:02,839
+Can I just check the spelling?
+
+50
+00:01:02,839 --> 00:01:04,050
+S-T-A-U-N-F-I-R-T-H?
+
+51
+00:01:04,050 --> 00:01:04,297
+Sophie:
+
+52
+00:01:04,297 --> 00:01:04,790
+That's right.
+
+53
+00:01:04,790 --> 00:01:05,244
+Man:
+
+54
+00:01:05,244 --> 00:01:08,420
+And you travelled from there this morning?
+
+55
+00:01:08,420 --> 00:01:08,870
+Sophie:
+
+56
+00:01:08,870 --> 00:01:09,320
+Yes.
+
+57
+00:01:09,320 --> 00:01:09,640
+Man:
+
+58
+00:01:09,640 --> 00:01:10,281
+OK, good.
+
+59
+00:01:10,281 --> 00:01:13,485
+Next, can I ask what kind of ticket you bought?
+
+60
+00:01:13,485 --> 00:01:17,650
+I assume it wasn't a season ticket, as you don't travel every day.
+
+61
+00:01:17,650 --> 00:01:18,018
+Sophie:
+
+62
+00:01:18,018 --> 00:01:18,755
+That's right.
+
+63
+00:01:18,755 --> 00:01:21,701
+No, I just got a normal return ticket.
+
+64
+00:01:21,701 --> 00:01:26,120
+I don't have a rail card so I didn't get any discount.
+
+65
+00:01:26,120 --> 00:01:29,080
+I keep meaning to get one because it's a lot cheaper.
+
+66
+00:01:29,080 --> 00:01:29,435
+Man:
+
+67
+00:01:29,435 --> 00:01:32,627
+Yes – you'd have saved 20% on your ticket today.
+
+68
+00:01:32,627 --> 00:01:35,820
+So you paid the full price for your ticket?
+
+69
+00:01:35,820 --> 00:01:36,310
+Sophie:
+
+70
+00:01:36,310 --> 00:01:38,270
+I paid ￡23.70.
+
+71
+00:01:38,270 --> 00:01:38,562
+Man:
+
+72
+00:01:38,562 --> 00:01:38,854
+OK.
+
+73
+00:01:38,854 --> 00:01:41,190
+Do you think that's good value for money?
+
+74
+00:01:41,190 --> 00:01:41,472
+Sophie:
+
+75
+00:01:41,472 --> 00:01:42,038
+Not really.
+
+76
+00:01:42,038 --> 00:01:45,710
+I think it's too much for a journey that only takes 45 minutes.
+
+77
+00:01:45,710 --> 00:01:46,027
+Man:
+
+78
+00:01:46,027 --> 00:01:46,344
+Yes,
+
+79
+00:01:46,344 --> 00:01:48,882
+that's one of the main complaints we get.
+
+80
+00:01:48,882 --> 00:01:51,420
+So, you didn't buy your ticket in advance?
+
+81
+00:01:51,420 --> 00:01:51,672
+Sophie:
+
+82
+00:01:51,672 --> 00:01:51,924
+No.
+
+83
+00:01:51,924 --> 00:01:54,695
+I know it's cheaper if you buy a week in advance
+
+84
+00:01:54,695 --> 00:01:56,710
+but I didn't know I was coming then.
+
+85
+00:01:56,710 --> 00:01:57,086
+Man:
+
+86
+00:01:57,086 --> 00:01:57,838
+I know.
+
+87
+00:01:57,838 --> 00:01:59,718
+You can't always plan ahead.
+
+88
+00:01:59,718 --> 00:02:02,350
+So, did you buy it this morning?
+
+89
+00:02:02,350 --> 00:02:02,780
+Sophie:
+
+90
+00:02:02,780 --> 00:02:04,500
+No, it was yesterday.
+
+91
+00:02:04,500 --> 00:02:04,849
+Man:
+
+92
+00:02:04,849 --> 00:02:05,198
+Right.
+
+93
+00:02:05,198 --> 00:02:08,690
+And do you usually buy your tickets at the station?
+
+94
+00:02:08,690 --> 00:02:09,055
+Sophie:
+
+95
+00:02:09,055 --> 00:02:12,702
+Well, I do usually but the ticket office closes early
+
+96
+00:02:12,702 --> 00:02:14,890
+and I hate using ticket machines.
+
+97
+00:02:14,890 --> 00:02:17,764
+I think ticket offices should be open for longer hours.
+
+98
+00:02:17,764 --> 00:02:21,500
+There's always a queue for the machines and they're often out of order.
+
+99
+00:02:21,500 --> 00:02:21,783
+Man:
+
+100
+00:02:21,783 --> 00:02:24,330
+A lot of customers are saying the same thing.
+
+101
+00:02:24,330 --> 00:02:24,777
+Sophie:
+
+102
+00:02:24,777 --> 00:02:29,250
+So to answer your question … I got an e-ticket online.
+
+103
+00:02:29,250 --> 00:02:29,622
+Man:
+
+104
+00:02:29,622 --> 00:02:29,994
+OK.
+
+105
+00:02:29,994 --> 00:02:30,739
+Thank you.
+
+106
+00:02:30,739 --> 00:02:35,206
+Now I'd like to ask you about your satisfaction with your journey.
+
+107
+00:02:35,206 --> 00:02:39,300
+So what would you say you were most satisfied with today?
+
+108
+00:02:39,300 --> 00:02:39,624
+Sophie:
+
+109
+00:02:39,624 --> 00:02:42,216
+Well, I like the wifi on the train.
+
+110
+00:02:42,216 --> 00:02:43,512
+It's improved a lot.
+
+111
+00:02:43,512 --> 00:02:47,400
+It makes it easier for me to work if I want to.
+
+112
+00:02:47,400 --> 00:02:47,686
+Man:
+
+113
+00:02:47,686 --> 00:02:49,975
+That's the first time today anyone's mentioned that.
+
+114
+00:02:49,975 --> 00:02:52,550
+It's good to get some positive feedback on that.
+
+115
+00:02:52,550 --> 00:02:52,945
+Sophie:
+
+116
+00:02:52,945 --> 00:02:53,340
+Mmm.
+
+117
+00:02:53,340 --> 00:02:53,794
+Man:
+
+118
+00:02:53,794 --> 00:02:57,430
+And, is there anything you weren't satisfied with?
+
+119
+00:02:57,430 --> 00:02:57,840
+Sophie:
+
+120
+00:02:57,840 --> 00:03:02,350
+Well, normally, the trains run on time and are pretty reliable
+
+121
+00:03:02,350 --> 00:03:04,810
+but today there was a delay;
+
+122
+00:03:04,810 --> 00:03:08,090
+the train was about 15 minutes behind schedule.
+
+123
+00:03:08,090 --> 00:03:08,474
+Man:
+
+124
+00:03:08,474 --> 00:03:08,859
+OK.
+
+125
+00:03:08,859 --> 00:03:10,397
+I'll put that down.
+
+126
+00:03:10,397 --> 00:03:15,010
+Now I'd also like to ask about the facilities at this station.
+
+127
+00:03:15,010 --> 00:03:18,976
+You've probably noticed that the whole station's been upgraded.
+
+128
+00:03:18,976 --> 00:03:21,620
+What are you most satisfied with?
+
+129
+00:03:21,620 --> 00:03:22,007
+Sophie:
+
+130
+00:03:22,007 --> 00:03:27,422
+I think the best thing is that they've improved the amount of information about
+
+131
+00:03:27,422 --> 00:03:28,583
+train times etc.
+
+132
+00:03:28,583 --> 00:03:30,130
+that's given to passengers.
+
+133
+00:03:30,130 --> 00:03:33,574
+– it's much clearer – before there was only one board
+
+134
+00:03:33,574 --> 00:03:37,400
+and I couldn't always see it properly – which was frustrating.
+
+135
+00:03:37,400 --> 00:03:37,767
+Man:
+
+136
+00:03:37,767 --> 00:03:38,502
+That's good.
+
+137
+00:03:38,502 --> 00:03:41,440
+And is there anything you're not satisfied with?
+
+138
+00:03:41,440 --> 00:03:41,856
+Sophie:
+
+139
+00:03:41,856 --> 00:03:46,012
+Let's see … I think things have generally improved a lot.
+
+140
+00:03:46,012 --> 00:03:51,000
+The trains are much more modern and I like the new café.
+
+141
+00:03:51,000 --> 00:03:55,935
+But one thing is that there aren't enough places to sit down, especially on
+
+142
+00:03:55,935 --> 00:03:56,640
+the platforms.
+
+143
+00:03:56,640 --> 00:03:56,989
+Man:
+
+144
+00:03:56,989 --> 00:04:01,531
+OK – so I'll put 'seating' down, shall I, as the thing you're least
+
+145
+00:04:01,531 --> 00:04:02,230
+satisfied with?
+
+146
+00:04:02,230 --> 00:04:02,777
+Sophie:
+
+147
+00:04:02,777 --> 00:04:03,323
+Yes.
+
+148
+00:04:03,323 --> 00:04:03,870
+OK.
+
+149
+00:04:03,870 --> 00:04:04,302
+Man:
+
+150
+00:04:04,302 --> 00:04:09,048
+Can I ask your opinion about some of the other facilities?
+
+151
+00:04:09,048 --> 00:04:15,090
+We'd like feedback on whether people are satisfied, dissatisfied or neither satisfied nor dissatisfied.
+
+152
+00:04:15,090 --> 00:04:15,675
+Sophie:
+
+153
+00:04:15,675 --> 00:04:16,260
+OK.
+
+154
+00:04:16,260 --> 00:04:16,665
+Man:
+
+155
+00:04:16,665 --> 00:04:19,500
+What about the parking at the station?
+
+156
+00:04:19,500 --> 00:04:19,791
+Sophie:
+
+157
+00:04:19,791 --> 00:04:23,869
+Well to be honest, I don't really have an opinion as I never use
+
+158
+00:04:23,869 --> 00:04:24,160
+it.
+
+159
+00:04:24,160 --> 00:04:24,571
+Man:
+
+160
+00:04:24,571 --> 00:04:27,860
+So, neither satisfied nor dissatisfied for that then.
+
+161
+00:04:27,860 --> 00:04:28,330
+Sophie:
+
+162
+00:04:28,330 --> 00:04:30,210
+Yes, I suppose so …
+
+163
+00:04:30,210 --> 00:04:30,368
+Man:
+
+164
+00:04:30,368 --> 00:04:30,526
+OK,
+
+165
+00:04:30,526 --> 00:04:31,000
+and what about …?

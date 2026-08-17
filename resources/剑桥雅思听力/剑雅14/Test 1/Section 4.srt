@@ -1,0 +1,299 @@
+1
+00:00:00,000 --> 00:00:02,000
+Section 4
+
+2
+00:00:02,000 --> 00:00:07,200
+Producing enough energy to meet our needs has become a serious problem.
+
+3
+00:00:07,200 --> 00:00:09,669
+Demand is rising rapidly,
+
+4
+00:00:09,669 --> 00:00:15,190
+because of the world's increasing population and expanding industry.
+
+5
+00:00:15,190 --> 00:00:21,617
+Burning fossil fuels, like gas, coal and oil, seriously damages the environment
+
+6
+00:00:21,617 --> 00:00:24,850
+and they'll eventually run out.
+
+7
+00:00:24,850 --> 00:00:29,605
+For a number of years now, scientists have been working out how we can
+
+8
+00:00:29,605 --> 00:00:37,230
+derive energy from renewable sources, such as the sun and wind, without causing pollution.
+
+9
+00:00:37,230 --> 00:00:43,989
+Today I'll outline marine renewable energy - also called ocean energy - which harnesses
+
+10
+00:00:43,989 --> 00:00:47,760
+the movement of the oceans.
+
+11
+00:00:47,760 --> 00:00:53,494
+Marine renewable energy can be divided into three main categories:
+
+12
+00:00:53,494 --> 00:01:00,330
+wave energy, tidal energy and ocean thermal energy conversion,
+
+13
+00:01:00,330 --> 00:01:04,460
+and I'll say a few words about each one.
+
+14
+00:01:04,460 --> 00:01:07,186
+First, wave energy.
+
+15
+00:01:07,186 --> 00:01:14,671
+Numerous devices have been invented to harvest wave energy, with names such as Wave Dragon, the Penguin
+
+16
+00:01:14,671 --> 00:01:16,202
+and Mighty Whale,
+
+17
+00:01:16,202 --> 00:01:23,349
+and research is going on to try and come up with a really efficient
+
+18
+00:01:23,349 --> 00:01:23,860
+method.
+
+19
+00:01:23,860 --> 00:01:29,467
+This form of energy has plenty of potential, as the source is constant,
+
+20
+00:01:29,467 --> 00:01:33,780
+and there's no danger of waves coming to a standstill.
+
+21
+00:01:33,780 --> 00:01:41,234
+Electricity can be generated using onshore systems, using a reservoir,
+
+22
+00:01:41,234 --> 00:01:43,470
+or offshore systems.
+
+23
+00:01:43,470 --> 00:01:50,175
+But the problem with ocean waves is that they're erratic, with the wind making
+
+24
+00:01:50,175 --> 00:01:52,570
+them travel in every direction.
+
+25
+00:01:52,570 --> 00:01:57,622
+This adds to the difficulty of creating efficient technology:
+
+26
+00:01:57,622 --> 00:02:05,480
+ideally all the waves would travel smoothly and regularly along the same straight line.
+
+27
+00:02:05,480 --> 00:02:12,568
+Another drawback is that sand and other sediment on the ocean floor might be
+
+28
+00:02:12,568 --> 00:02:14,592
+stopped from flowing normally,
+
+29
+00:02:14,592 --> 00:02:17,630
+which can lead to environmental problems.
+
+30
+00:02:17,630 --> 00:02:24,000
+The second category of marine energy that I'll mention is tidal energy.
+
+31
+00:02:24,000 --> 00:02:30,559
+One major advantage of using the tide, rather than waves, as a source of
+
+32
+00:02:30,559 --> 00:02:32,901
+energy is that it's predictable:
+
+33
+00:02:32,901 --> 00:02:39,460
+we know the exact times of high and low tides for years to come.
+
+34
+00:02:39,460 --> 00:02:44,637
+For tidal energy to be effective, the difference between high
+
+35
+00:02:44,637 --> 00:02:49,815
+and low tides needs to be at least five metres,
+
+36
+00:02:49,815 --> 00:02:55,510
+and this occurs naturally in only about forty places on Earth.
+
+37
+00:02:55,510 --> 00:03:02,783
+But the right conditions can be created by constructing a tidal lagoon, an area
+
+38
+00:03:02,783 --> 00:03:06,420
+of sea water separated from the sea.
+
+39
+00:03:06,420 --> 00:03:12,870
+One current plan is to create a tidal lagoon on the coast of Wales.
+
+40
+00:03:12,870 --> 00:03:19,683
+This will be an area of water within a bay at Swansea, sheltered by
+
+41
+00:03:19,683 --> 00:03:21,143
+a U-shaped breakwater,
+
+42
+00:03:21,143 --> 00:03:24,550
+or dam, built out from the coast.
+
+43
+00:03:24,550 --> 00:03:28,815
+The breakwater will contain sixteen hydro turbines,
+
+44
+00:03:28,815 --> 00:03:36,735
+and as the tide rises, water rushes through the breakwater, activating the turbines,
+
+45
+00:03:36,735 --> 00:03:41,000
+which turn a generator to produce electricity.
+
+46
+00:03:41,000 --> 00:03:46,891
+Then, for three hours as the tide goes out, the water is held back
+
+47
+00:03:46,891 --> 00:03:52,783
+within the break water, increasing the difference in water level, until it's several metres
+
+48
+00:03:52,783 --> 00:03:56,570
+higher within the lagoon than in the open sea.
+
+49
+00:03:56,570 --> 00:04:04,600
+Then, in order to release the stored water, gates in the breakwater are opened.
+
+50
+00:04:04,600 --> 00:04:13,508
+It pours powerfully out of the lagoon, driving the turbines in the breakwater in the opposite direction
+
+51
+00:04:13,508 --> 00:04:17,700
+and again generating thousands of megawatts of electricity.
+
+52
+00:04:17,700 --> 00:04:25,260
+As there are two high tides a day, this lagoon scheme would generate electricity
+
+53
+00:04:25,260 --> 00:04:33,900
+four times a day, every day, for a total of around 14 hours in every 24 -
+
+54
+00:04:33,900 --> 00:04:38,220
+and enough electricity for over 150,000 homes.
+
+55
+00:04:38,220 --> 00:04:41,979
+This system has quite a lot in its favour:
+
+56
+00:04:41,979 --> 00:04:46,573
+unlike solar and wind energy it doesn't depend on the weather;
+
+57
+00:04:46,573 --> 00:04:50,333
+the turbines are operated without the need for fuel,
+
+58
+00:04:50,333 --> 00:04:53,674
+so it doesn't create any greenhouse gas emissions;
+
+59
+00:04:53,674 --> 00:04:56,180
+and very little maintenance is needed.
+
+60
+00:04:56,180 --> 00:05:01,859
+It's estimated that electricity generated in this way will be relatively cheap,
+
+61
+00:05:01,859 --> 00:05:08,957
+and that manufacturing the components would create more than 2,000 jobs, a big boost
+
+62
+00:05:08,957 --> 00:05:10,850
+to the local economy.
+
+63
+00:05:10,850 --> 00:05:17,796
+On the other hand, there are fears that lagoons might harm both fish
+
+64
+00:05:17,796 --> 00:05:22,071
+and birds, for example by disturbing migration patterns,
+
+65
+00:05:22,071 --> 00:05:26,880
+and causing a build-up of silt, affecting local ecosystems.
+
+66
+00:05:26,880 --> 00:05:30,364
+There are other forms of tidal energy,
+
+67
+00:05:30,364 --> 00:05:35,839
+but I'll go on to the third category of marine energy:
+
+68
+00:05:35,839 --> 00:05:37,830
+ocean thermal energy conversion.
+
+69
+00:05:37,830 --> 00:05:44,339
+This depends on there being a big difference in temperature between surface water
+
+70
+00:05:44,339 --> 00:05:49,345
+and the water a couple of kilometres below the surface,
+
+71
+00:05:49,345 --> 00:05:52,850
+and this occurs in tropical coastal areas.
+
+72
+00:05:52,850 --> 00:05:59,523
+The idea is to bring cold water up to the surface using a submerged
+
+73
+00:05:59,523 --> 00:06:00,000
+pipe.
+
+74
+00:06:00,000 --> 00:06:04,877
+The concept dates back to 1881,
+
+75
+00:06:04,877 --> 00:06:05,690
+when ...

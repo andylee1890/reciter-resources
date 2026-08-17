@@ -73,9 +73,12 @@ def release_asset_url(repo: str, tag: str, filename: str) -> str:
 
 
 def github_release_asset_name(filename: str) -> str:
-    """Match GitHub's normalized display name for browser-uploaded assets."""
+    """Create a stable, collision-free flat name for a Release asset."""
     path = Path(filename)
-    normalized_stem = re.sub(r"[^A-Za-z0-9]+", ".", path.stem).strip(".")
+    parts = path.with_suffix("").parts
+    normalized_stem = ".".join(
+        re.sub(r"[^A-Za-z0-9]+", ".", part).strip(".") for part in parts
+    )
     return f"{normalized_stem}{path.suffix}"
 
 
@@ -94,7 +97,7 @@ def resolve_folder(repo_root: Path, folder: str) -> Path:
 
 
 def collect_audio(folder_path: Path) -> list[Path]:
-    files = sorted(folder_path.glob("*.mp3"), key=lambda p: p.name.lower())
+    files = sorted(folder_path.rglob("*.mp3"), key=lambda p: str(p).lower())
     if not files:
         raise SystemExit(f"No .mp3 files found in {folder_path}")
     return files
@@ -159,9 +162,11 @@ def write_release_record(
     ]
 
     for audio in audio_files:
-        asset_url = release_asset_url(repo, tag, github_release_asset_name(audio.name))
+        relative_audio = audio.relative_to(folder_path)
+        asset_name = github_release_asset_name(relative_audio.as_posix())
+        asset_url = release_asset_url(repo, tag, asset_name)
         lines.append(
-            f"| {markdown_cell(audio.name)} | {audio.stat().st_size / 1024 / 1024:.2f} | "
+            f"| {markdown_cell(relative_audio.as_posix())} | {audio.stat().st_size / 1024 / 1024:.2f} | "
             f"{markdown_link('mp3', asset_url)} | "
             f"{sidecar_links(repo_root, audio, repo, branch, cdn=False)} | "
             f"{sidecar_links(repo_root, audio, repo, branch, cdn=True)} |"
@@ -185,7 +190,15 @@ def release_exists(tag: str, repo: str) -> bool:
     return result.returncode == 0
 
 
-def publish_release(tag: str, title: str, repo: str, record_path: Path, audio_files: list[Path], clobber: bool) -> None:
+def publish_release(
+    tag: str,
+    title: str,
+    repo: str,
+    record_path: Path,
+    folder_path: Path,
+    audio_files: list[Path],
+    clobber: bool,
+) -> None:
     ensure_gh_available()
     if not release_exists(tag, repo):
         subprocess.run(
@@ -198,7 +211,10 @@ def publish_release(tag: str, title: str, repo: str, record_path: Path, audio_fi
     args = ["gh", "release", "upload", tag, "--repo", repo]
     if clobber:
         args.append("--clobber")
-    args.extend(str(path) for path in audio_files)
+    args.extend(
+        f"{path}#{github_release_asset_name(path.relative_to(folder_path).as_posix())}"
+        for path in audio_files
+    )
     subprocess.run(args, check=True)
 
 
@@ -262,7 +278,7 @@ def main(argv: list[str]) -> int:
         print("Release creation and upload were skipped.")
         return 0
 
-    publish_release(args.tag, args.title, args.repo, record_path, audio_files, args.clobber)
+    publish_release(args.tag, args.title, args.repo, record_path, folder_path, audio_files, args.clobber)
     record_path = write_release_record(
         repo_root=repo_root,
         folder_path=folder_path,

@@ -1,0 +1,95 @@
+1
+00:00:00,000 --> 00:00:03,050
+Listen to a talk in a chemistry class.
+
+2
+00:00:03,050 --> 00:00:03,391
+Woman:
+
+3
+00:00:03,391 --> 00:00:06,380
+Today, I want to talk about a fascinating topic in chemistry:
+
+4
+00:00:06,380 --> 00:00:13,000
+catalysts— substances that speed up chemical reactions without being used up.
+
+5
+00:00:13,000 --> 00:00:21,080
+Think of them as helpful assistants that make reactions happen faster and more efficiently, while staying unchanged.
+
+6
+00:00:21,080 --> 00:00:24,513
+This means they don’t become part of the final product,
+
+7
+00:00:24,513 --> 00:00:29,090
+so they can be reused again and again in multiple reactions.
+
+8
+00:00:29,090 --> 00:00:31,618
+Catalysts are everywhere.
+
+9
+00:00:31,618 --> 00:00:38,240
+In our bodies, enzymes act as natural catalysts, helping with digestion and metabolism.
+
+10
+00:00:38,240 --> 00:00:44,150
+In industry, they’re essential for making plastics, medicines, and fuels.
+
+11
+00:00:44,150 --> 00:00:51,130
+What makes catalysts powerful is that they lower the energy needed for a reaction to happen.
+
+12
+00:00:51,130 --> 00:00:52,806
+Imagine baking a cake:
+
+13
+00:00:52,806 --> 00:00:56,996
+the recipe says to heat the oven to 400°F,
+
+14
+00:00:56,996 --> 00:01:03,280
+but someone gives you a special pan that lets it bake perfectly at 300°F.
+
+15
+00:01:03,280 --> 00:01:11,080
+That pan is like a catalyst—it helps the ingredients become a cake, a product, using less energy.
+
+16
+00:01:11,080 --> 00:01:16,090
+Now, let’s look at something even more advanced:
+
+17
+00:01:16,090 --> 00:01:16,647
+nanozymes.
+
+18
+00:01:16,647 --> 00:01:21,100
+These are tiny, artificial materials that mimic enzymes.
+
+19
+00:01:21,100 --> 00:01:26,440
+They’re more stable in harsh conditions like heat or acidity, cheaper to produce,
+
+20
+00:01:26,440 --> 00:01:29,110
+and can be tailored for specific tasks.
+
+21
+00:01:29,110 --> 00:01:34,058
+For example, nanozymes are used in environmental cleanup efforts.
+
+22
+00:01:34,058 --> 00:01:40,654
+They can break down harmful pollutants in extreme conditions—like polluted water
+
+23
+00:01:40,654 --> 00:01:44,503
+or industrial waste—things like pesticides, dyes,
+
+24
+00:01:44,503 --> 00:01:50,000
+or heavy metals—turning them into safer, less toxic substances.

@@ -1,0 +1,71 @@
+1
+00:00:00,000 --> 00:00:00,502
+M:
+
+2
+00:00:00,502 --> 00:00:07,010
+Hi, I need to return this sweater.
+
+3
+00:00:07,010 --> 00:00:08,165
+I bought it yesterday,
+
+4
+00:00:08,165 --> 00:00:10,050
+but it's too small for me.
+
+5
+00:00:10,050 --> 00:00:10,476
+W:
+
+6
+00:00:10,476 --> 00:00:10,761
+Sure.
+
+7
+00:00:10,761 --> 00:00:12,080
+Do you have the receipt?
+
+8
+00:00:12,080 --> 00:00:12,130
+M:
+
+9
+00:00:12,130 --> 00:00:14,110
+Yes, I have it right here.
+
+10
+00:00:14,110 --> 00:00:14,160
+W:
+
+11
+00:00:14,160 --> 00:00:16,190
+Great, we can process the return.
+
+12
+00:00:16,190 --> 00:00:19,210
+Do you want to exchange it for a larger size or get a refund?
+
+13
+00:00:19,210 --> 00:00:19,260
+M:
+
+14
+00:00:19,260 --> 00:00:21,230
+I'd like to exchange it, please.
+
+15
+00:00:21,230 --> 00:00:21,280
+W:
+
+16
+00:00:21,280 --> 00:00:22,089
+No problem.
+
+17
+00:00:22,089 --> 00:00:25,240
+I'll get another in that color for you from our stock.
+
+18
+00:00:25,240 --> 00:00:27,030
+M: Thank you.

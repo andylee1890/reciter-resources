@@ -1,0 +1,331 @@
+1
+00:00:05,060 --> 00:00:05,545
+Hello...
+
+2
+00:00:05,545 --> 00:00:07,730
+motor insurance department...
+
+3
+00:00:07,730 --> 00:00:08,677
+Oh hello...
+
+4
+00:00:08,677 --> 00:00:11,600
+I'd like to ask about insurance for my car.
+
+5
+00:00:11,600 --> 00:00:12,892
+Yes, of course.
+
+6
+00:00:12,892 --> 00:00:15,478
+I'll just take a few details.
+
+7
+00:00:15,478 --> 00:00:16,770
+What's your name?
+
+8
+00:00:16,770 --> 00:00:18,240
+Patrick Jones.
+
+9
+00:00:18,240 --> 00:00:20,000
+And your address?
+
+10
+00:00:20,000 --> 00:00:22,290
+It's 27 Bank Road.
+
+11
+00:00:22,290 --> 00:00:24,553
+27 Bank Road.
+
+12
+00:00:24,553 --> 00:00:27,570
+Is that in Greendale?
+
+13
+00:00:27,570 --> 00:00:28,220
+Yes.
+
+14
+00:00:28,220 --> 00:00:31,060
+And what's your daytime phone number?
+
+15
+00:00:31,060 --> 00:00:35,950
+My work number is 730453.
+
+16
+00:00:35,950 --> 00:00:39,430
+And could I ask what your occupation is?
+
+17
+00:00:39,430 --> 00:00:40,360
+Dentist.
+
+18
+00:00:40,360 --> 00:00:40,940
+OK...
+
+19
+00:00:40,940 --> 00:00:45,000
+now a few details about your car...
+
+20
+00:00:45,000 --> 00:00:47,900
+What size is the engine?
+
+21
+00:00:47,900 --> 00:00:49,880
+It's 1200 CCS.
+
+22
+00:00:49,880 --> 00:00:50,931
+Thank you...
+
+23
+00:00:50,931 --> 00:00:53,560
+and the make and model?
+
+24
+00:00:53,560 --> 00:00:55,490
+It's a Hewton Sable.
+
+25
+00:00:55,490 --> 00:00:59,170
+Could you spell the model name please?
+
+26
+00:00:59,170 --> 00:01:01,085
+Yes...
+
+27
+00:01:01,085 --> 00:01:03,000
+S-A-B-L-E.
+
+28
+00:01:03,000 --> 00:01:04,984
+Ah yes.., thanks.
+
+29
+00:01:04,984 --> 00:01:08,290
+And when was it made?
+
+30
+00:01:08,290 --> 00:01:09,910
+1997.
+
+31
+00:01:09,910 --> 00:01:10,626
+Lovely...
+
+32
+00:01:10,626 --> 00:01:11,341
+right...
+
+33
+00:01:11,341 --> 00:01:16,350
+I presume you've had a previous insurer?
+
+34
+00:01:16,350 --> 00:01:17,000
+Yes.
+
+35
+00:01:17,000 --> 00:01:17,415
+Right...
+
+36
+00:01:17,415 --> 00:01:21,150
+we need to know the name of the company.
+
+37
+00:01:21,150 --> 00:01:21,832
+Yes...
+
+38
+00:01:21,832 --> 00:01:24,560
+it was Northern Star.
+
+39
+00:01:24,560 --> 00:01:25,509
+Thank you,
+
+40
+00:01:25,509 --> 00:01:31,200
+and have you made any insurance claims in the last five years?
+
+41
+00:01:31,200 --> 00:01:32,228
+Yes...
+
+42
+00:01:32,228 --> 00:01:35,310
+one in 1999.
+
+43
+00:01:35,310 --> 00:01:37,060
+And what was the problem?
+
+44
+00:01:37,060 --> 00:01:38,702
+It was stolen...
+
+45
+00:01:38,702 --> 00:01:39,250
+but...
+
+46
+00:01:39,250 --> 00:01:40,638
+That's fine, Mr Jones...
+
+47
+00:01:40,638 --> 00:01:43,760
+that's all we need to know at the moment...
+
+48
+00:01:43,760 --> 00:01:48,000
+And will there be any other named drivers?
+
+49
+00:01:48,000 --> 00:01:49,150
+Just the one...
+
+50
+00:01:49,150 --> 00:01:51,100
+And his name?
+
+51
+00:01:51,100 --> 00:01:52,870
+Simon Paynter.
+
+52
+00:01:52,870 --> 00:01:56,200
+Could you spell the surname please?
+
+53
+00:01:56,200 --> 00:02:00,800
+P-A-Y-N-T-E-R.
+
+54
+00:02:00,800 --> 00:02:02,759
+OK thank you...
+
+55
+00:02:02,759 --> 00:02:07,330
+And what relationship is he to you?
+
+56
+00:02:07,330 --> 00:02:09,000
+He's my brother-in-law.
+
+57
+00:02:09,000 --> 00:02:14,000
+And what will you or Mr Paynter be using the car for?
+
+58
+00:02:14,000 --> 00:02:14,754
+Well...
+
+59
+00:02:14,754 --> 00:02:17,770
+mainly for social use...
+
+60
+00:02:17,770 --> 00:02:19,338
+Social use (murmuring).
+
+61
+00:02:19,338 --> 00:02:24,040
+Will you be using it to travel to work?
+
+62
+00:02:24,040 --> 00:02:26,905
+Yes...
+
+63
+00:02:26,905 --> 00:02:29,770
+sometimes.
+
+64
+00:02:29,770 --> 00:02:31,500
+...Anything else?
+
+65
+00:02:31,500 --> 00:02:32,050
+No.
+
+66
+00:02:32,050 --> 00:02:33,150
+That's it...
+
+67
+00:02:33,150 --> 00:02:34,120
+And finally...
+
+68
+00:02:34,120 --> 00:02:38,000
+when would you like to start the insurance?
+
+69
+00:02:38,000 --> 00:02:40,600
+I'll need it from the 31st of January.
+
+70
+00:02:40,600 --> 00:02:41,121
+Right...
+
+71
+00:02:41,121 --> 00:02:42,164
+Mr Jones...
+
+72
+00:02:42,164 --> 00:02:48,421
+I'm getting a couple of quotes coming up on the computer now...
+
+73
+00:02:48,421 --> 00:02:55,200
+and the best bet looks like being with a company called Red Flag.
+
+74
+00:02:55,200 --> 00:02:55,860
+Yeah.
+
+75
+00:02:55,860 --> 00:03:01,600
+And that comes out at $450 per year...
+
+76
+00:03:01,600 --> 00:03:01,994
+Well...
+
+77
+00:03:01,994 --> 00:03:03,178
+that seems OK...
+
+78
+00:03:03,178 --> 00:03:07,910
+it's quite a bit lower than I've been paying up to now...
+
+79
+00:03:07,910 --> 00:03:08,269
+Great...
+
+80
+00:03:08,269 --> 00:03:11,860
+so would you like me to go ahead with that?
+
+81
+00:03:11,860 --> 00:03:12,290
+Sure...
+
+82
+00:03:12,290 --> 00:03:13,150
+why not?
+
+83
+00:03:13,150 --> 00:03:15,560
+How would you like to pay?

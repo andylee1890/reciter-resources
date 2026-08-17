@@ -1,0 +1,87 @@
+1
+00:00:00,000 --> 00:00:00,402
+MAN:
+
+2
+00:00:00,402 --> 00:00:00,703
+Hello.
+
+3
+00:00:00,703 --> 00:00:04,173
+This morning, I received a box of clothes I ordered from your company,
+
+4
+00:00:04,173 --> 00:00:05,564
+but there's a slight problem.
+
+5
+00:00:05,564 --> 00:00:09,180
+When I opened the box, one of the items I ordered was missing.
+
+6
+00:00:09,180 --> 00:00:09,549
+WOMAN:
+
+7
+00:00:09,549 --> 00:00:12,135
+I'm terribly sorry to hear that, sir.
+
+8
+00:00:12,135 --> 00:00:15,090
+Could you give me your personal information, please?
+
+9
+00:00:15,090 --> 00:00:15,720
+MAN:
+
+10
+00:00:15,720 --> 00:00:18,870
+My name is Ian Caldwell,
+
+11
+00:00:18,870 --> 00:00:22,650
+and my order number was 98449-12.
+
+12
+00:00:22,650 --> 00:00:27,060
+The missing item was product number CR403.
+
+13
+00:00:27,060 --> 00:00:27,343
+WOMAN:
+
+14
+00:00:27,343 --> 00:00:27,910
+All right.
+
+15
+00:00:27,910 --> 00:00:30,743
+We're going to send you the item by express mail.
+
+16
+00:00:30,743 --> 00:00:32,160
+It should arrive by Thursday.
+
+17
+00:00:32,160 --> 00:00:32,512
+MAN:
+
+18
+00:00:32,512 --> 00:00:32,863
+Excellent.
+
+19
+00:00:32,863 --> 00:00:34,270
+I really appreciate it.
+
+20
+00:00:34,270 --> 00:00:34,685
+WOMAN:
+
+21
+00:00:34,685 --> 00:00:40,499
+I'll also include a coupon good for twenty percent off your next order as
+
+22
+00:00:40,499 --> 00:00:42,160
+our way of apologizing.

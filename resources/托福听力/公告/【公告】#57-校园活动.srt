@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:04,020
+Listen to an announcement at a university event.
+
+2
+00:00:04,020 --> 00:00:05,928
+Attention everyone.
+
+3
+00:00:05,928 --> 00:00:09,870
+We are pleased to announce that the university's annual drama festival will be held
+
+4
+00:00:09,870 --> 00:00:13,160
+next Friday at 6 p.m. in the auditorium.
+
+5
+00:00:13,160 --> 00:00:16,150
+There will be performances by various student groups.
+
+6
+00:00:16,150 --> 00:00:17,270
+We hope to see you there.

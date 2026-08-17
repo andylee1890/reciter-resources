@@ -1,0 +1,463 @@
+1
+00:00:00,000 --> 00:00:01,210
+Section 1
+
+2
+00:00:01,210 --> 00:00:02,180
+LINDA:
+
+3
+00:00:02,180 --> 00:00:04,220
+Hello, Linda speaking.
+
+4
+00:00:04,220 --> 00:00:05,323
+MATT:
+
+5
+00:00:05,323 --> 00:00:06,145
+Oh hi, Linda.
+
+6
+00:00:06,145 --> 00:00:07,269
+This is Matt Brooks.
+
+7
+00:00:07,269 --> 00:00:09,555
+Alex White gave me your number.
+
+8
+00:00:09,555 --> 00:00:14,890
+He said you'd be able to give me some advice about moving to Banford.
+
+9
+00:00:14,890 --> 00:00:15,467
+LINDA:
+
+10
+00:00:15,467 --> 00:00:18,352
+Yes, Alex did mention you.
+
+11
+00:00:18,352 --> 00:00:20,660
+How can I help?
+
+12
+00:00:20,660 --> 00:00:21,146
+MATT:
+
+13
+00:00:21,146 --> 00:00:25,520
+Well, first of all - which area to live in?
+
+14
+00:00:25,520 --> 00:00:26,126
+LINDA:
+
+15
+00:00:26,126 --> 00:00:29,155
+Well, I live in Dalton,
+
+16
+00:00:29,155 --> 00:00:34,001
+which is a really nice suburb-not too expensive,
+
+17
+00:00:34,001 --> 00:00:37,030
+and there's a nice park.
+
+18
+00:00:37,030 --> 00:00:37,373
+MATT:
+
+19
+00:00:37,373 --> 00:00:38,060
+Sounds good.
+
+20
+00:00:38,060 --> 00:00:42,867
+Do you know how much it would be to rent a two bedroom flat
+
+21
+00:00:42,867 --> 00:00:43,210
+there?
+
+22
+00:00:43,210 --> 00:00:43,782
+LINDA:
+
+23
+00:00:43,782 --> 00:00:51,789
+Yeah, you should be able to get something reasonable for 850 pounds per month.
+
+24
+00:00:51,789 --> 00:00:54,649
+That's what people typically pay.
+
+25
+00:00:54,649 --> 00:01:00,368
+You certainly wouldn't want to pay more than 900 pounds.
+
+26
+00:01:00,368 --> 00:01:03,800
+That doesn't include bills or anything.
+
+27
+00:01:03,800 --> 00:01:04,252
+MATT:
+
+28
+00:01:04,252 --> 00:01:04,704
+No.
+
+29
+00:01:04,704 --> 00:01:06,060
+That sounds alright.
+
+30
+00:01:06,060 --> 00:01:08,772
+I'll definitely have a look there.
+
+31
+00:01:08,772 --> 00:01:12,840
+Are the transport links easy from where you live?
+
+32
+00:01:12,840 --> 00:01:13,346
+LINDA:
+
+33
+00:01:13,346 --> 00:01:15,368
+Well, I'm very lucky.
+
+34
+00:01:15,368 --> 00:01:22,447
+I work in the city centre so I don't have to use public transport.
+
+35
+00:01:22,447 --> 00:01:24,470
+I go by bike.
+
+36
+00:01:24,470 --> 00:01:24,824
+MATT:
+
+37
+00:01:24,824 --> 00:01:27,300
+Oh, I wish I could do that.
+
+38
+00:01:27,300 --> 00:01:30,130
+Is it safe to cycle around the city?
+
+39
+00:01:30,130 --> 00:01:30,702
+LINDA:
+
+40
+00:01:30,702 --> 00:01:32,419
+Yes, it's fine.
+
+41
+00:01:32,419 --> 00:01:35,280
+And it keeps me fit.
+
+42
+00:01:35,280 --> 00:01:42,147
+Anyway, driving to work in the city centre would be a nightmare
+
+43
+00:01:42,147 --> 00:01:45,008
+because there's hardly any parking.
+
+44
+00:01:45,008 --> 00:01:50,730
+And the traffic during the rush hour can be bad.
+
+45
+00:01:50,730 --> 00:01:51,065
+MATT:
+
+46
+00:01:51,065 --> 00:01:55,424
+I'd be working from home but I'd have to go to London one
+
+47
+00:01:55,424 --> 00:01:57,100
+or two days a week.
+
+48
+00:01:57,100 --> 00:01:57,745
+LINDA:
+
+49
+00:01:57,745 --> 00:01:58,391
+Oh,
+
+50
+00:01:58,391 --> 00:01:59,682
+that's perfect.
+
+51
+00:01:59,682 --> 00:02:03,555
+Getting to London is no problem.
+
+52
+00:02:03,555 --> 00:02:11,300
+There's a fast train every 30 minutes which only takes 45 minutes.
+
+53
+00:02:11,300 --> 00:02:11,873
+MATT:
+
+54
+00:02:11,873 --> 00:02:13,020
+That's good.
+
+55
+00:02:13,020 --> 00:02:13,558
+LINDA:
+
+56
+00:02:13,558 --> 00:02:18,404
+Yeah, the train service isn't bad during the week.
+
+57
+00:02:18,404 --> 00:02:22,172
+And they run quite late at night.
+
+58
+00:02:22,172 --> 00:02:25,402
+It's weekends that are a problem.
+
+59
+00:02:25,402 --> 00:02:32,939
+They're always doing engineering work and you have to take a bus to Hadham
+
+60
+00:02:32,939 --> 00:02:36,170
+and pick up the train there,
+
+61
+00:02:36,170 --> 00:02:38,323
+which is really slow.
+
+62
+00:02:38,323 --> 00:02:43,707
+But other than that, Banford's a great place to live.
+
+63
+00:02:43,707 --> 00:02:45,860
+I've never been happier.
+
+64
+00:02:45,860 --> 00:02:46,318
+LINDA:
+
+65
+00:02:46,318 --> 00:02:52,730
+There are some nice restaurants in the city centre and a brand new cinema
+
+66
+00:02:52,730 --> 00:02:56,852
+which has only been open a couple of months.
+
+67
+00:02:56,852 --> 00:02:59,600
+There's a good arts centre too.
+
+68
+00:02:59,600 --> 00:03:00,051
+MATT:
+
+69
+00:03:00,051 --> 00:03:02,760
+Sounds like Banford's got it all.
+
+70
+00:03:02,760 --> 00:03:03,272
+LINDA:
+
+71
+00:03:03,272 --> 00:03:03,783
+Yes!
+
+72
+00:03:03,783 --> 00:03:05,318
+We're really lucky.
+
+73
+00:03:05,318 --> 00:03:10,433
+There are lots of really good aspects to living here.
+
+74
+00:03:10,433 --> 00:03:17,595
+The schools are good and the hospital here is one of the best in
+
+75
+00:03:17,595 --> 00:03:18,618
+the country.
+
+76
+00:03:18,618 --> 00:03:23,734
+Everyone I know who's been there's had a positive experience.
+
+77
+00:03:23,734 --> 00:03:30,895
+Oh, I can give you the name of my dentist too in Bridge Street,
+
+78
+00:03:30,895 --> 00:03:32,430
+if you're interested.
+
+79
+00:03:32,430 --> 00:03:39,080
+I've been going to him for years and I've never had any problems.
+
+80
+00:03:39,080 --> 00:03:39,860
+MATT:
+
+81
+00:03:39,860 --> 00:03:41,420
+Oh, OK.
+
+82
+00:03:41,420 --> 00:03:42,200
+Thanks!
+
+83
+00:03:42,200 --> 00:03:42,635
+LINDA:
+
+84
+00:03:42,635 --> 00:03:46,550
+I'll find his number and send it to you.
+
+85
+00:03:46,550 --> 00:03:47,057
+MATT:
+
+86
+00:03:47,057 --> 00:03:47,564
+Thanks,
+
+87
+00:03:47,564 --> 00:03:50,100
+that would be really helpful.
+
+88
+00:03:50,100 --> 00:03:50,592
+LINDA:
+
+89
+00:03:50,592 --> 00:03:54,040
+Are you planning to visit Banford soon?
+
+90
+00:03:54,040 --> 00:03:54,440
+MATT:
+
+91
+00:03:54,440 --> 00:03:54,840
+Yes.
+
+92
+00:03:54,840 --> 00:03:58,440
+My wife and I are both coming next week.
+
+93
+00:03:58,440 --> 00:04:02,040
+We want to make some appointments with estate agents.
+
+94
+00:04:02,040 --> 00:04:02,418
+LINDA:
+
+95
+00:04:02,418 --> 00:04:06,570
+I could meet you if you like and show you around.
+
+96
+00:04:06,570 --> 00:04:07,078
+MATT:
+
+97
+00:04:07,078 --> 00:04:08,600
+Are you sure?
+
+98
+00:04:08,600 --> 00:04:10,630
+We'd really appreciate that.
+
+99
+00:04:10,630 --> 00:04:11,201
+LINDA:
+
+100
+00:04:11,201 --> 00:04:18,050
+Either a Tuesday or Thursday is good for me, after 5.30.
+
+101
+00:04:18,050 --> 00:04:18,603
+MATT:
+
+102
+00:04:18,603 --> 00:04:24,680
+Thursday's preferable - Tuesday I need to get home before 6 pm.
+
+103
+00:04:24,680 --> 00:04:25,263
+LINDA:
+
+104
+00:04:25,263 --> 00:04:25,846
+OK.
+
+105
+00:04:25,846 --> 00:04:26,430
+Great.
+
+106
+00:04:26,430 --> 00:04:34,595
+Let me know which train you're catching and I'll meet you in the cafe
+
+107
+00:04:34,595 --> 00:04:35,178
+outside.
+
+108
+00:04:35,178 --> 00:04:37,511
+You can't miss it.
+
+109
+00:04:37,511 --> 00:04:42,760
+It's opposite the station and next to the museum.
+
+110
+00:04:42,760 --> 00:04:43,289
+MATT:
+
+111
+00:04:43,289 --> 00:04:43,819
+Brilliant.
+
+112
+00:04:43,819 --> 00:04:46,995
+I'll text you next week then.
+
+113
+00:04:46,995 --> 00:04:50,700
+Thanks so much for all the advice.
+
+114
+00:04:50,700 --> 00:04:51,211
+LINDA:
+
+115
+00:04:51,211 --> 00:04:52,234
+No problem.
+
+116
+00:04:52,234 --> 00:04:54,790
+I'll see you next week.

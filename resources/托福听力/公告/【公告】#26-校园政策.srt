@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:01,200
+Man: Attention everyone!
+
+2
+00:00:01,200 --> 00:00:06,080
+The student lounge will be closed next week from Monday to Friday for renovations.
+
+3
+00:00:06,080 --> 00:00:10,140
+Please use the library or other study areas during this time.
+
+4
+00:00:10,140 --> 00:00:13,050
+We apologize for any inconvenience.

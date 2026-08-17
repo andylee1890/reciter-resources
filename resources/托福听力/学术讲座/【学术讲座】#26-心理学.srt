@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:02,280
+Listen to a talk in an economics class.
+
+2
+00:00:02,280 --> 00:00:03,303
+Professor:
+
+3
+00:00:03,303 --> 00:00:07,497
+Behavioral economics is a field that combines insights from psychology
+
+4
+00:00:07,497 --> 00:00:11,230
+and economics to understand how people make economic decisions.
+
+5
+00:00:11,230 --> 00:00:13,996
+Unlike traditional economics,
+
+6
+00:00:13,996 --> 00:00:24,220
+which assumes that individuals act rationally, behavioral economics recognizes that people often behave irrationally due to cognitive biases and emotional factors.
+
+7
+00:00:24,220 --> 00:00:29,518
+One key concept in behavioral economics is the idea of heuristics,
+
+8
+00:00:29,518 --> 00:00:33,270
+which are mental shortcuts that people use to make decisions quickly.
+
+9
+00:00:33,270 --> 00:00:39,240
+While heuristics can be helpful, they can also lead to systematic errors in judgment.
+
+10
+00:00:39,240 --> 00:00:46,001
+For example, the availability heuristic causes people to overestimate the likelihood of events that
+
+11
+00:00:46,001 --> 00:00:48,749
+are widely reported, such as plane crashes,
+
+12
+00:00:48,749 --> 00:00:52,240
+while underestimating more common risks like car accidents.
+
+13
+00:00:52,240 --> 00:00:56,036
+Another important concept is loss aversion,
+
+14
+00:00:56,036 --> 00:01:02,000
+which suggests that people experience the pain of loss more intensely than the pleasure of gain.
+
+15
+00:01:02,000 --> 00:01:06,981
+This can lead to risk-averse behavior, where individuals are more likely to avoid losses
+
+16
+00:01:06,981 --> 00:01:09,150
+than to pursue equivalent gains.
+
+17
+00:01:09,150 --> 00:01:14,698
+For instance, investors might hold onto losing stocks for too long, hoping they will
+
+18
+00:01:14,698 --> 00:01:17,170
+rebound, rather than cutting their losses.
+
+19
+00:01:17,170 --> 00:01:25,060
+Understanding these and other behavioral biases can help policymakers design better economic policies and interventions.
+
+20
+00:01:25,060 --> 00:01:27,169
+Next, we will examine how nudges,
+
+21
+00:01:27,169 --> 00:01:32,210
+or subtle changes in the way choices are presented, can help people reach better decisions.

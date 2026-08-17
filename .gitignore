@@ -18,3 +18,5 @@ __pycache__/
 
 # Generated release logs can be kept locally unless copied into release-records/.
 release-tools/logs/
+bak/
+resources/rec-generation-manifest.json

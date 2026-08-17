@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:02,220
+Listen to an announcement in a student lounge.
+
+2
+00:00:02,220 --> 00:00:04,290
+Man: Attention everyone!
+
+3
+00:00:04,290 --> 00:00:09,079
+The student lounge will be closed tomorrow from one P.M.
+
+4
+00:00:09,079 --> 00:00:11,010
+to three P.M. for maintenance.
+
+5
+00:00:11,010 --> 00:00:14,270
+We will be repairing a broken pipe in the ceiling.
+
+6
+00:00:14,270 --> 00:00:18,270
+We apologize for any inconvenience this may cause.
+
+7
+00:00:18,270 --> 00:00:26,210
+Please plan accordingly and consider using the library or the campus café during this time.

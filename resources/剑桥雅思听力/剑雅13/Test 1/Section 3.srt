@@ -1,0 +1,483 @@
+1
+00:00:00,000 --> 00:00:01,900
+Section 3
+
+2
+00:00:01,900 --> 00:00:02,242
+Emma:
+
+3
+00:00:02,242 --> 00:00:05,679
+We've got to choose a topic for our experiment, haven't we, Jack?
+
+4
+00:00:05,679 --> 00:00:09,700
+Were you thinking of something to do with seeds?
+
+5
+00:00:09,700 --> 00:00:09,750
+Jack:
+
+6
+00:00:09,750 --> 00:00:11,059
+That's right.
+
+7
+00:00:11,059 --> 00:00:17,400
+I thought we could look at seed germination - how a seed begins to grow.
+
+8
+00:00:17,400 --> 00:00:17,880
+Emma:
+
+9
+00:00:17,880 --> 00:00:18,360
+OK.
+
+10
+00:00:18,360 --> 00:00:19,800
+Any particular reason?
+
+11
+00:00:19,800 --> 00:00:24,600
+I know you're hoping to work in plant science eventually...
+
+12
+00:00:24,600 --> 00:00:24,990
+Jack:
+
+13
+00:00:24,990 --> 00:00:25,381
+Yeah,
+
+14
+00:00:25,381 --> 00:00:29,674
+but practically everything we do is going to feed into that.
+
+15
+00:00:29,674 --> 00:00:35,139
+No, there's an optional module on seed structure and function in the third year
+
+16
+00:00:35,139 --> 00:00:36,700
+that I might do,
+
+17
+00:00:36,700 --> 00:00:40,545
+so I thought it might be useful for that.
+
+18
+00:00:40,545 --> 00:00:46,100
+If I choose that option, I don't have to do a dissertation module.
+
+19
+00:00:46,100 --> 00:00:46,700
+Emma:
+
+20
+00:00:46,700 --> 00:00:47,900
+Good idea.
+
+21
+00:00:47,900 --> 00:00:48,332
+Jack:
+
+22
+00:00:48,332 --> 00:00:54,805
+Well, I thought for this experiment we could look at the relationship between seed size
+
+23
+00:00:54,805 --> 00:00:57,826
+and the way the seeds are planted.
+
+24
+00:00:57,826 --> 00:01:02,142
+So, we could plant different sized seeds in different ways,
+
+25
+00:01:02,142 --> 00:01:04,300
+and see which grow best.
+
+26
+00:01:04,300 --> 00:01:04,685
+Emma:
+
+27
+00:01:04,685 --> 00:01:05,069
+OK.
+
+28
+00:01:05,069 --> 00:01:09,300
+We'd need to allow time for the seeds to come up.
+
+29
+00:01:09,300 --> 00:01:09,681
+Jack:
+
+30
+00:01:09,681 --> 00:01:12,729
+That should be fine if we start now.
+
+31
+00:01:12,729 --> 00:01:17,300
+A lot of the other possible experiments need quite a bit longer.
+
+32
+00:01:17,300 --> 00:01:17,713
+Emma:
+
+33
+00:01:17,713 --> 00:01:21,428
+So that'd make it a good one to choose.
+
+34
+00:01:21,428 --> 00:01:24,731
+And I don't suppose it'd need much equipment;
+
+35
+00:01:24,731 --> 00:01:27,621
+we're not doing chemical analysis or anything.
+
+36
+00:01:27,621 --> 00:01:33,400
+Though that's not really an issue, we've got plenty of equipment in the laboratory.
+
+37
+00:01:33,400 --> 00:01:33,760
+Jack:
+
+38
+00:01:33,760 --> 00:01:34,120
+Yeah.
+
+39
+00:01:34,120 --> 00:01:39,160
+We need to have a word with the tutor if we're going to go
+
+40
+00:01:39,160 --> 00:01:40,600
+ahead with it though.
+
+41
+00:01:40,600 --> 00:01:42,400
+I'm sure our aim's OK.
+
+42
+00:01:42,400 --> 00:01:48,350
+It's not very ambitious but the assignment's only ten percent of our final mark,
+
+43
+00:01:48,350 --> 00:01:49,200
+isn't it?
+
+44
+00:01:49,200 --> 00:01:54,300
+But we need to be sure we're the only ones doing it.
+
+45
+00:01:54,300 --> 00:01:54,739
+Emma:
+
+46
+00:01:54,739 --> 00:01:57,372
+Yeah, it's only five percent actually,
+
+47
+00:01:57,372 --> 00:02:02,200
+but it'd be a bit boring if everyone was doing it.
+
+48
+00:02:02,200 --> 00:02:02,585
+Jack:
+
+49
+00:02:02,585 --> 00:02:07,200
+Did you read that book on seed germination on our reading list?
+
+50
+00:02:07,200 --> 00:02:07,605
+Emma:
+
+51
+00:02:07,605 --> 00:02:09,224
+The one by Graves?
+
+52
+00:02:09,224 --> 00:02:14,890
+I looked through it for my last experiment, though it wasn't all that relevant
+
+53
+00:02:14,890 --> 00:02:15,295
+there.
+
+54
+00:02:15,295 --> 00:02:18,129
+It would be for this experiment, though.
+
+55
+00:02:18,129 --> 00:02:22,581
+I found it quite hard to follow - lots about the theory,
+
+56
+00:02:22,581 --> 00:02:24,200
+which I hadn't expected.
+
+57
+00:02:24,200 --> 00:02:24,719
+Jack:
+
+58
+00:02:24,719 --> 00:02:28,871
+Yes, I'd been hoping for something more practical.
+
+59
+00:02:28,871 --> 00:02:35,100
+It does include references to the recent findings on genetically-modified seeds, though.
+
+60
+00:02:35,100 --> 00:02:35,660
+Emma:
+
+61
+00:02:35,660 --> 00:02:36,220
+Yes,
+
+62
+00:02:36,220 --> 00:02:37,900
+that was interesting.
+
+63
+00:02:37,900 --> 00:02:38,327
+Jack:
+
+64
+00:02:38,327 --> 00:02:42,600
+I read an article about seed germination by Lee Hall.
+
+65
+00:02:42,600 --> 00:02:43,006
+Emma:
+
+66
+00:02:43,006 --> 00:02:48,694
+About seeds that lie in the ground for ages and only germinate after a
+
+67
+00:02:48,694 --> 00:02:49,100
+fire?
+
+68
+00:02:49,100 --> 00:02:49,540
+Jack:
+
+69
+00:02:49,540 --> 00:02:50,862
+That's the one.
+
+70
+00:02:50,862 --> 00:02:53,945
+I knew a bit about it already,
+
+71
+00:02:53,945 --> 00:02:56,148
+but not about this research.
+
+72
+00:02:56,148 --> 00:03:00,552
+His analysis of figures comparing the times of the fires
+
+73
+00:03:00,552 --> 00:03:06,719
+and the proportion of seeds that germinated was done in a lot of detail
+
+74
+00:03:06,719 --> 00:03:07,600
+- very impressive.
+
+75
+00:03:07,600 --> 00:03:08,050
+Emma:
+
+76
+00:03:08,050 --> 00:03:13,900
+Was that the article with the illustrations of early stages of plant development?
+
+77
+00:03:13,900 --> 00:03:15,700
+They were very clear.
+
+78
+00:03:15,700 --> 00:03:16,178
+Jack:
+
+79
+00:03:16,178 --> 00:03:20,000
+I think those diagrams were in another article.
+
+80
+00:03:20,000 --> 00:03:20,332
+Emma:
+
+81
+00:03:20,332 --> 00:03:24,314
+Anyway, shall we have a look at the procedure for our experiment?
+
+82
+00:03:24,314 --> 00:03:27,300
+We'll need to get going with it quite soon.
+
+83
+00:03:27,300 --> 00:03:27,759
+Jack:
+
+84
+00:03:27,759 --> 00:03:28,217
+Right.
+
+85
+00:03:28,217 --> 00:03:33,720
+So the first thing we have to do is find our seeds.
+
+86
+00:03:33,720 --> 00:03:36,929
+I think vegetable seeds would be best.
+
+87
+00:03:36,929 --> 00:03:41,056
+And obviously they mustn't all be the same size.
+
+88
+00:03:41,056 --> 00:03:44,266
+So, how many sorts do we need?
+
+89
+00:03:44,266 --> 00:03:46,100
+About four different ones?
+
+90
+00:03:46,100 --> 00:03:46,417
+Emma:
+
+91
+00:03:46,417 --> 00:03:48,317
+I think that would be enough.
+
+92
+00:03:48,317 --> 00:03:51,800
+There'll be quite a large number of seeds for each one.
+
+93
+00:03:51,800 --> 00:03:52,203
+Jack:
+
+94
+00:03:52,203 --> 00:03:57,447
+Then, for each seed we need to find out how much it weighs,
+
+95
+00:03:57,447 --> 00:03:59,463
+and also measure its dimensions,
+
+96
+00:03:59,463 --> 00:04:03,900
+and we need to keep a careful record of all that.
+
+97
+00:04:03,900 --> 00:04:04,317
+Emma:
+
+98
+00:04:04,317 --> 00:04:05,983
+That'll be quite time-consuming.
+
+99
+00:04:05,983 --> 00:04:11,817
+And we also need to decide how deep we're going to plant the seeds
+
+100
+00:04:11,817 --> 00:04:15,150
+- right on the surface, a few millimetres down,
+
+101
+00:04:15,150 --> 00:04:16,400
+or several centimetres.
+
+102
+00:04:16,400 --> 00:04:16,824
+Jack:
+
+103
+00:04:16,824 --> 00:04:17,248
+OK.
+
+104
+00:04:17,248 --> 00:04:19,367
+So then we get planting.
+
+105
+00:04:19,367 --> 00:04:25,300
+Do you think we can plant several seeds together in the same plant pot?
+
+106
+00:04:25,300 --> 00:04:25,717
+Emma:
+
+107
+00:04:25,717 --> 00:04:26,133
+No.
+
+108
+00:04:26,133 --> 00:04:30,300
+I think we need a different one for each seed.
+
+109
+00:04:30,300 --> 00:04:30,793
+Jack:
+
+110
+00:04:30,793 --> 00:04:31,286
+Right.
+
+111
+00:04:31,286 --> 00:04:37,200
+And we'll need to label them - we can use different coloured labels.
+
+112
+00:04:37,200 --> 00:04:42,365
+Then we wait for the seeds to germinate - I reckon that'll be about
+
+113
+00:04:42,365 --> 00:04:45,543
+three weeks, depending on what the weather's like.
+
+114
+00:04:45,543 --> 00:04:49,119
+Then we see if our plants have come up,
+
+115
+00:04:49,119 --> 00:04:51,900
+and write down how tall they've grown.
+
+116
+00:04:51,900 --> 00:04:52,200
+Emma:
+
+117
+00:04:52,200 --> 00:04:55,500
+Then all we have to do is look at our numbers,
+
+118
+00:04:55,500 --> 00:04:57,900
+and see if there's any relation between them.
+
+119
+00:04:57,900 --> 00:04:59,425
+Jack:
+
+120
+00:04:59,425 --> 00:05:02,475
+That's right.
+
+121
+00:05:02,475 --> 00:05:04,000
+So ...

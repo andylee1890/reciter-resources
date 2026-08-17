@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:03,240
+Listen to an announcement by a university administration.
+
+2
+00:00:03,240 --> 00:00:09,070
+We apologize for the cold temperatures in campus buildings today.
+
+3
+00:00:09,070 --> 00:00:12,080
+Overnight, a large steam pipe failed.
+
+4
+00:00:12,080 --> 00:00:18,180
+The entire steam distribution system must be temporarily shut down to allow for repairs to the pipe.
+
+5
+00:00:18,180 --> 00:00:23,260
+Unfortunately, this means that most buildings are currently without heat and hot water.
+
+6
+00:00:23,260 --> 00:00:28,290
+Science Lab buildings have their own backup systems and should be unaffected.
+
+7
+00:00:28,290 --> 00:00:33,090
+Please remember that the use of electric heaters is prohibited.
+
+8
+00:00:33,090 --> 00:00:35,796
+These can overload buildings, electrical systems,
+
+9
+00:00:35,796 --> 00:00:37,270
+and cause a power outage.
+
+10
+00:00:37,270 --> 00:00:41,160
+We'll update everyone when Steam service is restored.

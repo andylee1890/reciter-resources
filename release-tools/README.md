@@ -15,7 +15,8 @@
 `publish_season_release.py` 会：
 
 - 检查目标文件夹是否存在。
-- 收集该文件夹内的 `.mp3`。
+- 递归收集该文件夹内的 `.mp3`；适用于剑雅的 `Test N/Section N` 目录。
+- 对嵌套目录生成不冲突的扁平 Release asset 名称，例如 `Test.1.Section.1.mp3`。
 - 检查是否有同 basename 的 `.srt`、`.lrc`、`.rec` 或 `.recx`。
 - 为文本 sidecar 生成 GitHub Raw 和 jsDelivr 链接。
 - 为音频生成 GitHub Release 下载链接。
