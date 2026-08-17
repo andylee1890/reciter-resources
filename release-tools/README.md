@@ -38,6 +38,18 @@ Release asset 的显示名分隔符。也避免使用 `?`、`%`、`&`、`+`、`:
 跨上传系统更稳定的名称，并同步重命名同 basename 的 `.srt` 和 `.recx`。默认只预览，
 确认映射后使用 `--write` 执行；该脚本只重命名，不删除文件。
 
+`audit_transport_filenames.py` 是提交或发布前的只读检查。`#` 和 Release asset
+名冲突会直接失败；历史资料中可经 URL 编码安全传输的 `%`、`&`、`+`、`?` 等会显示为
+警告。不要为已发布资料直接改名，因为 Archive、GitHub Raw 和旧索引的永久链接会失效；
+应保留源名，继续使用发布器生成的 ASCII 传输名。新资料在发布前可用 `--strict` 要求
+源 basename 也不含这些保留字符：
+
+```bash
+python release-tools/audit_transport_filenames.py --root resources
+python release-tools/audit_transport_filenames.py --root resources --verbose
+python release-tools/audit_transport_filenames.py --root resources --strict
+```
+
 发布器会把嵌套路径转换成稳定的 ASCII Release asset 名，并在写发布记录或上传前检查
 同一 Release 内的 asset 重名。发布记录保存“源相对路径 -> Release asset URL”的映射；
 文本链接按原始 Git 路径做 URL 编码。对已经发布的资源，不可原地改名或替换 asset，
