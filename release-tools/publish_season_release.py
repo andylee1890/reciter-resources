@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import hashlib
 import os
 import re
 import shutil
@@ -75,15 +76,35 @@ def release_asset_url(repo: str, tag: str, filename: str) -> str:
 def github_release_asset_name(filename: str) -> str:
     """Create a stable, collision-free flat name for a Release asset."""
     path = Path(filename)
-    # gh parses a trailing ``#label`` as an upload label. Preserve source
-    # names containing ``#`` and upload those files without a label.
-    if "#" in path.name:
-        return path.name
     parts = path.with_suffix("").parts
-    normalized_stem = ".".join(
+    normalized_parts = [
         re.sub(r"[^A-Za-z0-9]+", ".", part).strip(".") for part in parts
-    )
+    ]
+    normalized_stem = ".".join(part for part in normalized_parts if part)
+    if not normalized_stem:
+        # Keep the externally published name portable even when a source name
+        # contains no ASCII letters or digits. The mapping is written to the
+        # release record and index, so this remains deterministic and traceable.
+        digest = hashlib.sha256(filename.encode("utf-8")).hexdigest()[:12]
+        normalized_stem = f"asset-{digest}"
     return f"{normalized_stem}{path.suffix}"
+
+
+def validate_release_asset_names(audio_files: list[Path], folder_path: Path) -> None:
+    """Reject collisions before a release record or remote upload is created."""
+    names: dict[str, list[Path]] = {}
+    for audio in audio_files:
+        relative_name = audio.relative_to(folder_path).as_posix()
+        asset_name = github_release_asset_name(relative_name)
+        names.setdefault(asset_name.casefold(), []).append(audio)
+
+    collisions = [items for items in names.values() if len(items) > 1]
+    if collisions:
+        details = "\n".join(
+            "  " + ", ".join(str(path.relative_to(folder_path)) for path in items)
+            for items in collisions
+        )
+        raise SystemExit(f"Release asset-name collision(s) detected:\n{details}")
 
 
 def resolve_folder(repo_root: Path, folder: str) -> Path:
@@ -219,13 +240,7 @@ def publish_release(
     for path in audio_files:
         relative_name = path.relative_to(folder_path).as_posix()
         asset_name = github_release_asset_name(relative_name)
-        # A source path containing # cannot be followed by gh's #label
-        # syntax. Without a label gh uses the original basename, which is
-        # also the name written to the release record above.
-        if "#" in relative_name:
-            upload_args.append(str(path))
-        else:
-            upload_args.append(f"{path}#{asset_name}")
+        upload_args.append(f"{path}#{asset_name}")
     args.extend(upload_args)
     subprocess.run(args, check=True)
 
@@ -268,6 +283,7 @@ def main(argv: list[str]) -> int:
     repo_root = repository_root()
     folder_path = resolve_folder(repo_root, args.folder)
     audio_files = collect_audio(folder_path)
+    validate_release_asset_names(audio_files, folder_path)
     record_path = write_release_record(
         repo_root=repo_root,
         folder_path=folder_path,

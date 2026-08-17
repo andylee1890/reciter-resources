@@ -26,12 +26,29 @@
 
 默认不会上传已存在的同名 asset。需要覆盖时使用 `--clobber`。
 
-`normalize_toefl_filenames.py` 用于将 TOEFL 资源中带 `#` 的原始 basename
-批量改成跨上传系统更稳定的名称，并同步重命名同 basename 的 `.srt` 和 `.recx`。
-默认只预览，确认映射后使用 `--write` 执行；该脚本只重命名，不删除文件。
+## 命名与传输兼容性
+
+源文件的 basename 是资源在 GitHub、Internet Archive、Hugging Face 和 CDN 之间的
+共同标识。新资源不得使用 `#`：它是 URL fragment 标识，且 GitHub CLI 将其解释为
+Release asset 的显示名分隔符。也避免使用 `?`、`%`、`&`、`+`、`:`、`<`、`>`、`|`、
+`*`、`/`、`\\` 和控制字符。音频及其 `.srt`、`.lrc`、`.rec`、`.recx` sidecar 必须保留
+相同 basename。
+
+`normalize_toefl_filenames.py` 用于将 TOEFL 资源中带 `#` 的原始 basename 批量改成
+跨上传系统更稳定的名称，并同步重命名同 basename 的 `.srt` 和 `.recx`。默认只预览，
+确认映射后使用 `--write` 执行；该脚本只重命名，不删除文件。
+
+发布器会把嵌套路径转换成稳定的 ASCII Release asset 名，并在写发布记录或上传前检查
+同一 Release 内的 asset 重名。发布记录保存“源相对路径 -> Release asset URL”的映射；
+文本链接按原始 Git 路径做 URL 编码。对已经发布的资源，不可原地改名或替换 asset，
+应创建新版本 Release、重新生成记录和索引，以免已有直链失效。
 
 `prepare_new_release_records.py` 根据 `release-plan.json` 重新生成剑桥雅思和 TOEFL
 的本地记录。它只写入 `release-records/`，不会创建 Release 或上传音频。
+
+`prepare_release_upload_assets.py` 为一个资料包在仓库外创建零拷贝硬链接，解决
+嵌套目录在网页上传时会丢失路径、导致同名 asset 冲突的问题。链接文件使用发布记录
+中的稳定 Release asset 名称；源音频保持原位且不被修改。
 
 ## RECX 波形生成
 
