@@ -26,6 +26,13 @@
 
 默认不会上传已存在的同名 asset。需要覆盖时使用 `--clobber`。
 
+`normalize_toefl_filenames.py` 用于将 TOEFL 资源中带 `#` 的原始 basename
+批量改成跨上传系统更稳定的名称，并同步重命名同 basename 的 `.srt` 和 `.recx`。
+默认只预览，确认映射后使用 `--write` 执行；该脚本只重命名，不删除文件。
+
+`prepare_new_release_records.py` 根据 `release-plan.json` 重新生成剑桥雅思和 TOEFL
+的本地记录。它只写入 `release-records/`，不会创建 Release 或上传音频。
+
 ## RECX 波形生成
 
 `generate_recx.py` 为音频生成兼容 EasyTyeReciter 的 `.recx` sidecar。它使用

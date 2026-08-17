@@ -75,6 +75,10 @@ def release_asset_url(repo: str, tag: str, filename: str) -> str:
 def github_release_asset_name(filename: str) -> str:
     """Create a stable, collision-free flat name for a Release asset."""
     path = Path(filename)
+    # gh parses a trailing ``#label`` as an upload label. Preserve source
+    # names containing ``#`` and upload those files without a label.
+    if "#" in path.name:
+        return path.name
     parts = path.with_suffix("").parts
     normalized_stem = ".".join(
         re.sub(r"[^A-Za-z0-9]+", ".", part).strip(".") for part in parts
@@ -211,10 +215,18 @@ def publish_release(
     args = ["gh", "release", "upload", tag, "--repo", repo]
     if clobber:
         args.append("--clobber")
-    args.extend(
-        f"{path}#{github_release_asset_name(path.relative_to(folder_path).as_posix())}"
-        for path in audio_files
-    )
+    upload_args: list[str] = []
+    for path in audio_files:
+        relative_name = path.relative_to(folder_path).as_posix()
+        asset_name = github_release_asset_name(relative_name)
+        # A source path containing # cannot be followed by gh's #label
+        # syntax. Without a label gh uses the original basename, which is
+        # also the name written to the release record above.
+        if "#" in relative_name:
+            upload_args.append(str(path))
+        else:
+            upload_args.append(f"{path}#{asset_name}")
+    args.extend(upload_args)
     subprocess.run(args, check=True)
 
 
