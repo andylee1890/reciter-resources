@@ -1,0 +1,1382 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-08-17T19:50:58.188326Z",
+  "tag": "toefl-listening-announcements-v1",
+  "title": "TOEFL Listening Announcements v1",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/托福听力/公告",
+  "createdAt": "2026-08-18 03:50:14 +0800",
+  "poster": {
+    "id": "toefl-listening-announcements",
+    "kind": "collection-cover",
+    "sourceType": "publisher-cover-image",
+    "original": {
+      "path": "artwork/posters/toefl-listening-announcements.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/toefl-listening-announcements.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/toefl-listening-announcements.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/toefl-listening-announcements.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/toefl-listening-announcements.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/toefl-listening-announcements.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.9382
+      },
+      "sourceSize": {
+        "width": 510,
+        "height": 680
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/toefl-listening-announcements-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 74,
+  "totalSizeMiB": 38.13,
+  "audio": [
+    {
+      "name": "toefl-announcement-001-校园活动.mp3",
+      "sizeMiB": 0.44,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.001.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-001-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-001-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-001-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-001-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-002-校园政策.mp3",
+      "sizeMiB": 0.35,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.002.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-002-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-002-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-002-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-002-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-003-校园政策.mp3",
+      "sizeMiB": 0.45,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.003.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-003-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-003-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-003-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-003-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-004-校园活动.mp3",
+      "sizeMiB": 0.43,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.004.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-004-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-004-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-004-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-004-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-005-校园活动.mp3",
+      "sizeMiB": 0.46,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.005.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-005-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-005-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-005-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-005-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-006-校园活动.mp3",
+      "sizeMiB": 0.46,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.006.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-006-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-006-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-006-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-006-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-007-校园活动.mp3",
+      "sizeMiB": 0.46,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.007.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-007-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-007-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-007-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-007-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-008-校园政策.mp3",
+      "sizeMiB": 0.39,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.008.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-008-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-008-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-008-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-008-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-009-校园政策.mp3",
+      "sizeMiB": 0.39,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.009.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-009-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-009-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-009-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-009-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-010-校园活动.mp3",
+      "sizeMiB": 0.38,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.010.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-010-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-010-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-010-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-010-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-011-校园活动.mp3",
+      "sizeMiB": 0.39,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.011.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-011-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-011-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-011-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-011-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-012-校园活动.mp3",
+      "sizeMiB": 0.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.012.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-012-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-012-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-012-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-012-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-013-校园政策.mp3",
+      "sizeMiB": 0.47,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.013.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-013-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-013-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-013-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-013-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-014-校园活动.mp3",
+      "sizeMiB": 0.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.014.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-014-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-014-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-014-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-014-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-015-校园政策.mp3",
+      "sizeMiB": 0.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.015.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-015-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-015-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-015-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-015-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-016-校园政策.mp3",
+      "sizeMiB": 0.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.016.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-016-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-016-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-016-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-016-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-017-校园活动.mp3",
+      "sizeMiB": 0.57,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.017.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-017-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-017-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-017-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-017-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-018-校园政策.mp3",
+      "sizeMiB": 0.46,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.018.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-018-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-018-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-018-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-018-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-019-校园活动.mp3",
+      "sizeMiB": 0.49,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.019.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-019-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-019-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-019-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-019-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-020-校园活动.mp3",
+      "sizeMiB": 0.38,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-020-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-020-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-020-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-020-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-021-校园政策.mp3",
+      "sizeMiB": 0.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-021-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-021-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-021-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-021-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-022-校园政策.mp3",
+      "sizeMiB": 0.61,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-022-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-022-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-022-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-022-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-023-校园活动.mp3",
+      "sizeMiB": 0.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-023-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-023-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-023-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-023-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-024-校园政策.mp3",
+      "sizeMiB": 0.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-024-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-024-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-024-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-024-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-025-校园活动.mp3",
+      "sizeMiB": 0.37,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.025.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-025-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-025-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-025-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-025-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-026-校园政策.mp3",
+      "sizeMiB": 0.2,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.026.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-026-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-026-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-026-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-026-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-027-学术.mp3",
+      "sizeMiB": 0.42,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.027.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-027-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-027-%E5%AD%A6%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-027-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-027-%E5%AD%A6%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-028-校园政策.mp3",
+      "sizeMiB": 0.54,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.028.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-028-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-028-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-028-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-028-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-029-学术.mp3",
+      "sizeMiB": 0.68,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.029.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-029-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-029-%E5%AD%A6%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-029-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-029-%E5%AD%A6%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-030-校园政策.mp3",
+      "sizeMiB": 0.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.030.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-030-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-030-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-030-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-030-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-031-日程安排.mp3",
+      "sizeMiB": 0.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.031.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-031-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-031-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-031-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-031-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-032-校园活动.mp3",
+      "sizeMiB": 0.79,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.032.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-032-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-032-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-032-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-032-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-033-校园活动.mp3",
+      "sizeMiB": 0.77,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.033.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-033-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-033-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-033-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-033-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-034-校园活动.mp3",
+      "sizeMiB": 0.87,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.034.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-034-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-034-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-034-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-034-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-035-校园活动.mp3",
+      "sizeMiB": 0.77,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.035.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-035-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-035-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-035-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-035-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-036-校园活动.mp3",
+      "sizeMiB": 0.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.036.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-036-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-036-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-036-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-036-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-037-校园活动.mp3",
+      "sizeMiB": 0.47,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.037.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-037-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-037-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-037-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-037-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-038-校园政策.mp3",
+      "sizeMiB": 0.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.038.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-038-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-038-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-038-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-038-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-039-学术.mp3",
+      "sizeMiB": 0.56,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.039.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-039-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-039-%E5%AD%A6%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-039-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-039-%E5%AD%A6%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-040-校园活动.mp3",
+      "sizeMiB": 0.67,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.040.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-040-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-040-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-040-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-040-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-041-学术.mp3",
+      "sizeMiB": 0.53,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.041.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-041-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-041-%E5%AD%A6%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-041-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-041-%E5%AD%A6%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-042-校园活动.mp3",
+      "sizeMiB": 0.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.042.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-042-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-042-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-042-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-042-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-043-校园活动.mp3",
+      "sizeMiB": 0.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.043.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-043-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-043-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-043-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-043-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-044-社会学.mp3",
+      "sizeMiB": 0.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.044.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-044-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-044-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-044-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-044-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-045-校园活动.mp3",
+      "sizeMiB": 0.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.045.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-045-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-045-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-045-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-045-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-046-校园活动.mp3",
+      "sizeMiB": 0.37,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.046.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-046-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-046-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-046-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-046-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-047-学术.mp3",
+      "sizeMiB": 0.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.047.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-047-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-047-%E5%AD%A6%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-047-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-047-%E5%AD%A6%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-048-校园活动.mp3",
+      "sizeMiB": 0.75,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.048.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-048-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-048-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-048-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-048-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-049-校园活动.mp3",
+      "sizeMiB": 0.8,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.049.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-049-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-049-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-049-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-049-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-050-课程注册.mp3",
+      "sizeMiB": 0.94,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.050.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-050-%E8%AF%BE%E7%A8%8B%E6%B3%A8%E5%86%8C.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-050-%E8%AF%BE%E7%A8%8B%E6%B3%A8%E5%86%8C.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-050-%E8%AF%BE%E7%A8%8B%E6%B3%A8%E5%86%8C.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-050-%E8%AF%BE%E7%A8%8B%E6%B3%A8%E5%86%8C.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-051-校园政策.mp3",
+      "sizeMiB": 0.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.051.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-051-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-051-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-051-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-051-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-052-校园活动.mp3",
+      "sizeMiB": 0.68,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.052.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-052-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-052-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-052-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-052-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-053-校园活动.mp3",
+      "sizeMiB": 0.46,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.053.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-053-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-053-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-053-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-053-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-054-校园活动.mp3",
+      "sizeMiB": 0.42,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.054.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-054-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-054-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-054-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-054-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-055-校园活动.mp3",
+      "sizeMiB": 0.76,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.055.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-055-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-055-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-055-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-055-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-056-校园活动.mp3",
+      "sizeMiB": 0.46,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.056.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-056-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-056-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-056-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-056-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-057-校园活动.mp3",
+      "sizeMiB": 0.41,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.057.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-057-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-057-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-057-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-057-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-058-校园活动.mp3",
+      "sizeMiB": 0.72,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.058.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-058-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-058-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-058-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-058-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-059-校园活动.mp3",
+      "sizeMiB": 0.47,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.059.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-059-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-059-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-059-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-059-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-060-校园活动.mp3",
+      "sizeMiB": 0.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.060.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-060-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-060-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-060-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-060-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-061-校园活动.mp3",
+      "sizeMiB": 0.33,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.061.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-061-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-061-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-061-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-061-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-062-校园活动.mp3",
+      "sizeMiB": 0.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.062.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-062-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-062-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-062-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-062-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-063-校园活动.mp3",
+      "sizeMiB": 0.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.063.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-063-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-063-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-063-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-063-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-064-学术.mp3",
+      "sizeMiB": 0.35,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.064.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-064-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-064-%E5%AD%A6%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-064-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-064-%E5%AD%A6%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-065-校园活动.mp3",
+      "sizeMiB": 0.47,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.065.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-065-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-065-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-065-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-065-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-066-日程安排.mp3",
+      "sizeMiB": 0.48,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.066.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-066-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-066-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-066-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-066-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-067-校园政策.mp3",
+      "sizeMiB": 0.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.067.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-067-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-067-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-067-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-067-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-068-校园活动.mp3",
+      "sizeMiB": 0.51,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.068.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-068-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-068-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-068-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-068-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-069-日程安排.mp3",
+      "sizeMiB": 0.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.069.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-069-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-069-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-069-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-069-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-070-学术.mp3",
+      "sizeMiB": 0.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.070.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-070-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-070-%E5%AD%A6%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-070-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-070-%E5%AD%A6%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-071-校园活动.mp3",
+      "sizeMiB": 0.35,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.071.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-071-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-071-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-071-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-071-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-072-商业.mp3",
+      "sizeMiB": 0.55,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.072.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-072-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-072-%E5%95%86%E4%B8%9A.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-072-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-072-%E5%95%86%E4%B8%9A.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-073-校园活动.mp3",
+      "sizeMiB": 0.27,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.073.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-073-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-073-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-073-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-073-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-announcement-074-商业.mp3",
+      "sizeMiB": 0.29,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-announcements-v1/toefl.announcement.074.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-074-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-074-%E5%95%86%E4%B8%9A.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-074-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%85%AC%E5%91%8A/toefl-announcement-074-%E5%95%86%E4%B8%9A.recx"
+        }
+      }
+    }
+  ]
+}

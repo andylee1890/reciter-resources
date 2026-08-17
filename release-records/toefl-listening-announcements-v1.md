@@ -4,11 +4,11 @@
 - Repo: `andylee1890/reciter-resources`
 - Branch: `main`
 - Folder: `resources/托福听力/公告`
-- Created at: 2026-08-18 01:32:28 +0800
+- Created at: 2026-08-18 03:50:14 +0800
 - Audio files: 74
 - Total size: 38.13 MiB
 - Dry run: False
-- Published: False
+- Published: True
 - Release: https://github.com/andylee1890/reciter-resources/releases/tag/toefl-listening-announcements-v1
 
 ## Link Bases
