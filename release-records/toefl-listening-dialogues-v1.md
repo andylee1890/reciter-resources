@@ -4,11 +4,11 @@
 - Repo: `andylee1890/reciter-resources`
 - Branch: `main`
 - Folder: `resources/托福听力/对话`
-- Created at: 2026-08-18 01:32:27 +0800
+- Created at: 2026-08-18 03:43:55 +0800
 - Audio files: 122
 - Total size: 65.55 MiB
 - Dry run: False
-- Published: False
+- Published: True
 - Release: https://github.com/andylee1890/reciter-resources/releases/tag/toefl-listening-dialogues-v1
 
 ## Link Bases

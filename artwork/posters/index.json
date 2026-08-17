@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T19:37:05.155575Z",
+  "generatedAt": "2026-08-17T19:44:35.230409Z",
   "repository": "andylee1890/reciter-resources",
   "posterIndex": {
     "path": "artwork/posters/index.json",
@@ -1680,6 +1680,37 @@
         }
       },
       "usedBy": "cambridge-ielts-20-listening-v1"
+    },
+    {
+      "id": "toefl-listening-dialogues",
+      "kind": "collection-cover",
+      "sourceType": "publisher-cover-image",
+      "original": {
+        "path": "artwork/posters/toefl-listening-dialogues.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/toefl-listening-dialogues.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/toefl-listening-dialogues.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/toefl-listening-dialogues.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/toefl-listening-dialogues.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/toefl-listening-dialogues.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.9733
+        },
+        "sourceSize": {
+          "width": 467,
+          "height": 600
+        }
+      },
+      "usedBy": "toefl-listening-dialogues-v1"
     }
   ]
 }

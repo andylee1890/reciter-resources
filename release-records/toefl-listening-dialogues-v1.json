@@ -1,0 +1,2246 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-08-17T19:44:35.230409Z",
+  "tag": "toefl-listening-dialogues-v1",
+  "title": "TOEFL Listening Dialogues v1",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/托福听力/对话",
+  "createdAt": "2026-08-18 03:43:55 +0800",
+  "poster": {
+    "id": "toefl-listening-dialogues",
+    "kind": "collection-cover",
+    "sourceType": "publisher-cover-image",
+    "original": {
+      "path": "artwork/posters/toefl-listening-dialogues.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/toefl-listening-dialogues.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/toefl-listening-dialogues.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/toefl-listening-dialogues.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/toefl-listening-dialogues.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/toefl-listening-dialogues.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.9733
+      },
+      "sourceSize": {
+        "width": 467,
+        "height": 600
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/toefl-listening-dialogues-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 122,
+  "totalSizeMiB": 65.55,
+  "audio": [
+    {
+      "name": "toefl-dialogue-001-技术求助.mp3",
+      "sizeMiB": 0.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.001.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-001-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-001-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-001-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-001-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-002-技术求助.mp3",
+      "sizeMiB": 0.44,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.002.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-002-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-002-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-002-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-002-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-003-银行.mp3",
+      "sizeMiB": 0.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.003.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-003-%E9%93%B6%E8%A1%8C.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-003-%E9%93%B6%E8%A1%8C.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-003-%E9%93%B6%E8%A1%8C.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-003-%E9%93%B6%E8%A1%8C.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-004-图书馆.mp3",
+      "sizeMiB": 0.61,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.004.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-004-%E5%9B%BE%E4%B9%A6%E9%A6%86.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-004-%E5%9B%BE%E4%B9%A6%E9%A6%86.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-004-%E5%9B%BE%E4%B9%A6%E9%A6%86.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-004-%E5%9B%BE%E4%B9%A6%E9%A6%86.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-005-人际.mp3",
+      "sizeMiB": 0.53,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.005.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-005-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-005-%E4%BA%BA%E9%99%85.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-005-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-005-%E4%BA%BA%E9%99%85.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-006-商业.mp3",
+      "sizeMiB": 0.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.006.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-006-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-006-%E5%95%86%E4%B8%9A.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-006-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-006-%E5%95%86%E4%B8%9A.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-007-工作场合.mp3",
+      "sizeMiB": 0.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.007.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-007-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-007-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-007-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-007-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-008-课程注册.mp3",
+      "sizeMiB": 0.56,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.008.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-008-%E8%AF%BE%E7%A8%8B%E6%B3%A8%E5%86%8C.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-008-%E8%AF%BE%E7%A8%8B%E6%B3%A8%E5%86%8C.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-008-%E8%AF%BE%E7%A8%8B%E6%B3%A8%E5%86%8C.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-008-%E8%AF%BE%E7%A8%8B%E6%B3%A8%E5%86%8C.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-009-健康.mp3",
+      "sizeMiB": 0.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.009.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-009-%E5%81%A5%E5%BA%B7.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-009-%E5%81%A5%E5%BA%B7.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-009-%E5%81%A5%E5%BA%B7.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-009-%E5%81%A5%E5%BA%B7.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-010-工作场合.mp3",
+      "sizeMiB": 0.39,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.010.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-010-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-010-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-010-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-010-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-011-工作场合.mp3",
+      "sizeMiB": 0.4,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.011.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-011-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-011-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-011-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-011-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-012-工作场合.mp3",
+      "sizeMiB": 0.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.012.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-012-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-012-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-012-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-012-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-013-工作场合.mp3",
+      "sizeMiB": 0.48,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.013.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-013-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-013-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-013-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-013-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-014-工作场合.mp3",
+      "sizeMiB": 0.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.014.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-014-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-014-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-014-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-014-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-015-工作场合.mp3",
+      "sizeMiB": 0.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.015.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-015-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-015-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-015-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-015-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-016-商业.mp3",
+      "sizeMiB": 0.77,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.016.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-016-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-016-%E5%95%86%E4%B8%9A.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-016-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-016-%E5%95%86%E4%B8%9A.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-017-校园活动.mp3",
+      "sizeMiB": 0.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.017.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-017-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-017-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-017-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-017-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-018-商业.mp3",
+      "sizeMiB": 0.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.018.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-018-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-018-%E5%95%86%E4%B8%9A.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-018-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-018-%E5%95%86%E4%B8%9A.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-019-人际.mp3",
+      "sizeMiB": 0.42,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.019.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-019-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-019-%E4%BA%BA%E9%99%85.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-019-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-019-%E4%BA%BA%E9%99%85.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-020-技术求助.mp3",
+      "sizeMiB": 0.49,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-020-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-020-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-020-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-020-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-021-校园活动.mp3",
+      "sizeMiB": 0.51,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-021-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-021-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-021-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-021-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-022-酒店.mp3",
+      "sizeMiB": 0.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-022-%E9%85%92%E5%BA%97.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-022-%E9%85%92%E5%BA%97.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-022-%E9%85%92%E5%BA%97.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-022-%E9%85%92%E5%BA%97.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-023-商业.mp3",
+      "sizeMiB": 0.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-023-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-023-%E5%95%86%E4%B8%9A.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-023-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-023-%E5%95%86%E4%B8%9A.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-024-人际.mp3",
+      "sizeMiB": 0.37,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-024-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-024-%E4%BA%BA%E9%99%85.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-024-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-024-%E4%BA%BA%E9%99%85.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-025-工作场合.mp3",
+      "sizeMiB": 0.51,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.025.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-025-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-025-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-025-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-025-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-026-校园活动.mp3",
+      "sizeMiB": 0.67,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.026.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-026-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-026-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-026-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-026-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-027-学术.mp3",
+      "sizeMiB": 0.56,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.027.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-027-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-027-%E5%AD%A6%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-027-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-027-%E5%AD%A6%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-029-技术求助.mp3",
+      "sizeMiB": 0.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.029.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-029-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-029-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-029-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-029-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-030-工作场合.mp3",
+      "sizeMiB": 0.63,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.030.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-030-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-030-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-030-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-030-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-031-图书馆.mp3",
+      "sizeMiB": 0.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.031.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-031-%E5%9B%BE%E4%B9%A6%E9%A6%86.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-031-%E5%9B%BE%E4%B9%A6%E9%A6%86.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-031-%E5%9B%BE%E4%B9%A6%E9%A6%86.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-031-%E5%9B%BE%E4%B9%A6%E9%A6%86.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-032-人际.mp3",
+      "sizeMiB": 0.82,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.032.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-032-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-032-%E4%BA%BA%E9%99%85.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-032-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-032-%E4%BA%BA%E9%99%85.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-033-工作场合.mp3",
+      "sizeMiB": 0.75,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.033.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-033-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-033-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-033-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-033-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-034-商业.mp3",
+      "sizeMiB": 0.7,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.034.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-034-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-034-%E5%95%86%E4%B8%9A.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-034-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-034-%E5%95%86%E4%B8%9A.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-035-技术求助.mp3",
+      "sizeMiB": 0.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.035.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-035-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-035-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-035-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-035-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-036-工作场合.mp3",
+      "sizeMiB": 0.46,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.036.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-036-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-036-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-036-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-036-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-037-日程安排.mp3",
+      "sizeMiB": 0.39,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.037.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-037-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-037-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-037-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-037-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-038-艺术.mp3",
+      "sizeMiB": 0.38,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.038.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-038-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-038-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-038-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-038-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-039-工作场合.mp3",
+      "sizeMiB": 0.45,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.039.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-039-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-039-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-039-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-039-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-040-日程安排.mp3",
+      "sizeMiB": 0.42,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.040.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-040-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-040-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-040-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-040-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-041-商业.mp3",
+      "sizeMiB": 0.54,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.041.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-041-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-041-%E5%95%86%E4%B8%9A.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-041-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-041-%E5%95%86%E4%B8%9A.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-042-人际.mp3",
+      "sizeMiB": 0.56,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.042.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-042-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-042-%E4%BA%BA%E9%99%85.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-042-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-042-%E4%BA%BA%E9%99%85.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-043-人际.mp3",
+      "sizeMiB": 0.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.043.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-043-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-043-%E4%BA%BA%E9%99%85.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-043-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-043-%E4%BA%BA%E9%99%85.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-044-食宿.mp3",
+      "sizeMiB": 0.25,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.044.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-044-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-044-%E9%A3%9F%E5%AE%BF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-044-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-044-%E9%A3%9F%E5%AE%BF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-045-健康.mp3",
+      "sizeMiB": 0.16,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.045.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-045-%E5%81%A5%E5%BA%B7.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-045-%E5%81%A5%E5%BA%B7.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-045-%E5%81%A5%E5%BA%B7.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-045-%E5%81%A5%E5%BA%B7.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-046-食宿.mp3",
+      "sizeMiB": 0.16,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.046.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-046-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-046-%E9%A3%9F%E5%AE%BF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-046-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-046-%E9%A3%9F%E5%AE%BF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-047-工作场合.mp3",
+      "sizeMiB": 0.21,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.047.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-047-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-047-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-047-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-047-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-048-食宿.mp3",
+      "sizeMiB": 0.18,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.048.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-048-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-048-%E9%A3%9F%E5%AE%BF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-048-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-048-%E9%A3%9F%E5%AE%BF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-049-艺术.mp3",
+      "sizeMiB": 0.74,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.049.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-049-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-049-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-049-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-049-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-050-工作场合.mp3",
+      "sizeMiB": 0.75,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.050.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-050-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-050-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-050-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-050-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-051-食宿.mp3",
+      "sizeMiB": 0.8,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.051.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-051-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-051-%E9%A3%9F%E5%AE%BF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-051-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-051-%E9%A3%9F%E5%AE%BF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-052-食宿.mp3",
+      "sizeMiB": 0.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.052.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-052-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-052-%E9%A3%9F%E5%AE%BF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-052-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-052-%E9%A3%9F%E5%AE%BF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-053-日程安排.mp3",
+      "sizeMiB": 0.47,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.053.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-053-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-053-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-053-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-053-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-054-食宿.mp3",
+      "sizeMiB": 0.54,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.054.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-054-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-054-%E9%A3%9F%E5%AE%BF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-054-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-054-%E9%A3%9F%E5%AE%BF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-055-技术求助.mp3",
+      "sizeMiB": 0.42,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.055.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-055-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-055-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-055-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-055-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-056-日程安排.mp3",
+      "sizeMiB": 0.41,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.056.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-056-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-056-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-056-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-056-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-057-校园活动.mp3",
+      "sizeMiB": 0.37,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.057.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-057-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-057-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-057-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-057-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-058-商业.mp3",
+      "sizeMiB": 0.79,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.058.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-058-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-058-%E5%95%86%E4%B8%9A.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-058-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-058-%E5%95%86%E4%B8%9A.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-059-健康.mp3",
+      "sizeMiB": 1.04,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.059.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-059-%E5%81%A5%E5%BA%B7.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-059-%E5%81%A5%E5%BA%B7.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-059-%E5%81%A5%E5%BA%B7.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-059-%E5%81%A5%E5%BA%B7.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-060-校园活动.mp3",
+      "sizeMiB": 0.56,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.060.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-060-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-060-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-060-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-060-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-061-校园活动.mp3",
+      "sizeMiB": 0.62,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.061.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-061-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-061-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-061-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-061-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-062-食宿.mp3",
+      "sizeMiB": 0.48,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.062.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-062-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-062-%E9%A3%9F%E5%AE%BF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-062-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-062-%E9%A3%9F%E5%AE%BF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-063-艺术.mp3",
+      "sizeMiB": 0.48,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.063.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-063-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-063-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-063-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-063-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-064-技术求助.mp3",
+      "sizeMiB": 0.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.064.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-064-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-064-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-064-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-064-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-065-艺术.mp3",
+      "sizeMiB": 0.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.065.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-065-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-065-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-065-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-065-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-066-艺术.mp3",
+      "sizeMiB": 0.53,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.066.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-066-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-066-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-066-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-066-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-067-人际.mp3",
+      "sizeMiB": 0.54,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.067.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-067-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-067-%E4%BA%BA%E9%99%85.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-067-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-067-%E4%BA%BA%E9%99%85.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-068-技术求助.mp3",
+      "sizeMiB": 0.49,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.068.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-068-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-068-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-068-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-068-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-069-工作场合.mp3",
+      "sizeMiB": 0.57,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.069.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-069-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-069-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-069-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-069-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-070-商业.mp3",
+      "sizeMiB": 0.33,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.070.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-070-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-070-%E5%95%86%E4%B8%9A.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-070-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-070-%E5%95%86%E4%B8%9A.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-071-校园活动.mp3",
+      "sizeMiB": 0.72,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.071.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-071-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-071-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-071-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-071-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-072-校园活动.mp3",
+      "sizeMiB": 0.61,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.072.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-072-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-072-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-072-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-072-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-073-商业.mp3",
+      "sizeMiB": 0.63,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.073.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-073-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-073-%E5%95%86%E4%B8%9A.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-073-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-073-%E5%95%86%E4%B8%9A.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-074-人际.mp3",
+      "sizeMiB": 0.62,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.074.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-074-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-074-%E4%BA%BA%E9%99%85.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-074-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-074-%E4%BA%BA%E9%99%85.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-075-日程安排.mp3",
+      "sizeMiB": 0.71,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.075.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-075-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-075-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-075-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-075-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-076-校园活动.mp3",
+      "sizeMiB": 0.78,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.076.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-076-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-076-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-076-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-076-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-077-日程安排.mp3",
+      "sizeMiB": 0.74,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.077.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-077-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-077-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-077-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-077-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-078-技术求助.mp3",
+      "sizeMiB": 0.87,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.078.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-078-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-078-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-078-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-078-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-079-校园活动.mp3",
+      "sizeMiB": 0.87,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.079.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-079-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-079-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-079-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-079-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-080-校园政策.mp3",
+      "sizeMiB": 0.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.080.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-080-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-080-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-080-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-080-%E6%A0%A1%E5%9B%AD%E6%94%BF%E7%AD%96.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-081-日程安排.mp3",
+      "sizeMiB": 0.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.081.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-081-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-081-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-081-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-081-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-082-技术求助.mp3",
+      "sizeMiB": 0.51,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.082.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-082-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-082-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-082-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-082-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-083-校园活动.mp3",
+      "sizeMiB": 0.66,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.083.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-083-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-083-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-083-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-083-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-084-日程安排.mp3",
+      "sizeMiB": 0.7,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.084.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-084-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-084-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-084-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-084-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-085-日程安排.mp3",
+      "sizeMiB": 0.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.085.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-085-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-085-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-085-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-085-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-086-校园活动.mp3",
+      "sizeMiB": 0.54,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.086.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-086-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-086-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-086-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-086-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-087-食宿.mp3",
+      "sizeMiB": 0.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.087.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-087-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-087-%E9%A3%9F%E5%AE%BF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-087-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-087-%E9%A3%9F%E5%AE%BF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-088-校园活动.mp3",
+      "sizeMiB": 0.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.088.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-088-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-088-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-088-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-088-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-089-校园活动.mp3",
+      "sizeMiB": 0.47,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.089.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-089-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-089-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-089-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-089-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-090-校园活动.mp3",
+      "sizeMiB": 0.75,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.090.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-090-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-090-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-090-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-090-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-091-食宿.mp3",
+      "sizeMiB": 0.61,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.091.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-091-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-091-%E9%A3%9F%E5%AE%BF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-091-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-091-%E9%A3%9F%E5%AE%BF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-092-校园活动.mp3",
+      "sizeMiB": 0.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.092.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-092-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-092-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-092-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-092-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-093-图书馆.mp3",
+      "sizeMiB": 0.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.093.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-093-%E5%9B%BE%E4%B9%A6%E9%A6%86.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-093-%E5%9B%BE%E4%B9%A6%E9%A6%86.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-093-%E5%9B%BE%E4%B9%A6%E9%A6%86.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-093-%E5%9B%BE%E4%B9%A6%E9%A6%86.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-094-日程安排.mp3",
+      "sizeMiB": 0.33,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.094.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-094-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-094-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-094-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-094-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-095-食宿.mp3",
+      "sizeMiB": 0.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.095.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-095-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-095-%E9%A3%9F%E5%AE%BF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-095-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-095-%E9%A3%9F%E5%AE%BF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-096-日程安排.mp3",
+      "sizeMiB": 0.42,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.096.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-096-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-096-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-096-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-096-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-097-技术求助.mp3",
+      "sizeMiB": 0.38,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.097.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-097-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-097-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-097-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-097-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-098-健康.mp3",
+      "sizeMiB": 0.43,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.098.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-098-%E5%81%A5%E5%BA%B7.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-098-%E5%81%A5%E5%BA%B7.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-098-%E5%81%A5%E5%BA%B7.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-098-%E5%81%A5%E5%BA%B7.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-099-校园活动.mp3",
+      "sizeMiB": 0.55,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.099.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-099-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-099-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-099-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-099-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-100-校园活动.mp3",
+      "sizeMiB": 0.53,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.100.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-100-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-100-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-100-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-100-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-101-健康.mp3",
+      "sizeMiB": 0.48,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.101.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-101-%E5%81%A5%E5%BA%B7.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-101-%E5%81%A5%E5%BA%B7.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-101-%E5%81%A5%E5%BA%B7.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-101-%E5%81%A5%E5%BA%B7.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-102-工作场合.mp3",
+      "sizeMiB": 0.61,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.102.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-102-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-102-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-102-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-102-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-103-技术求助.mp3",
+      "sizeMiB": 0.56,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.103.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-103-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-103-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-103-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-103-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-104-日程安排.mp3",
+      "sizeMiB": 0.63,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.104.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-104-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-104-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-104-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-104-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-105-食宿.mp3",
+      "sizeMiB": 0.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.105.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-105-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-105-%E9%A3%9F%E5%AE%BF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-105-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-105-%E9%A3%9F%E5%AE%BF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-106-工作场合.mp3",
+      "sizeMiB": 0.49,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.106.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-106-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-106-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-106-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-106-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-107-工作场合.mp3",
+      "sizeMiB": 0.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.107.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-107-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-107-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-107-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-107-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-108-图书馆.mp3",
+      "sizeMiB": 0.57,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.108.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-108-%E5%9B%BE%E4%B9%A6%E9%A6%86.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-108-%E5%9B%BE%E4%B9%A6%E9%A6%86.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-108-%E5%9B%BE%E4%B9%A6%E9%A6%86.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-108-%E5%9B%BE%E4%B9%A6%E9%A6%86.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-109-技术求助.mp3",
+      "sizeMiB": 0.47,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.109.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-109-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-109-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-109-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-109-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-110-食宿.mp3",
+      "sizeMiB": 0.47,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.110.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-110-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-110-%E9%A3%9F%E5%AE%BF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-110-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-110-%E9%A3%9F%E5%AE%BF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-111-日程安排.mp3",
+      "sizeMiB": 0.41,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.111.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-111-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-111-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-111-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-111-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-112-技术求助.mp3",
+      "sizeMiB": 0.37,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.112.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-112-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-112-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-112-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-112-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-113-校园活动.mp3",
+      "sizeMiB": 0.41,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.113.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-113-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-113-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-113-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-113-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-114-校园活动.mp3",
+      "sizeMiB": 0.53,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.114.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-114-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-114-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-114-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-114-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-115-图书馆.mp3",
+      "sizeMiB": 0.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.115.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-115-%E5%9B%BE%E4%B9%A6%E9%A6%86.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-115-%E5%9B%BE%E4%B9%A6%E9%A6%86.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-115-%E5%9B%BE%E4%B9%A6%E9%A6%86.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-115-%E5%9B%BE%E4%B9%A6%E9%A6%86.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-116-工作场合.mp3",
+      "sizeMiB": 0.71,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.116.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-116-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-116-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-116-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-116-%E5%B7%A5%E4%BD%9C%E5%9C%BA%E5%90%88.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-117-日程安排.mp3",
+      "sizeMiB": 0.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.117.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-117-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-117-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-117-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-117-%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-118-校园活动.mp3",
+      "sizeMiB": 0.48,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.118.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-118-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-118-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-118-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-118-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-119-校园活动.mp3",
+      "sizeMiB": 0.33,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.119.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-119-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-119-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-119-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-119-%E6%A0%A1%E5%9B%AD%E6%B4%BB%E5%8A%A8.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-120-课程注册.mp3",
+      "sizeMiB": 0.38,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.120.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-120-%E8%AF%BE%E7%A8%8B%E6%B3%A8%E5%86%8C.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-120-%E8%AF%BE%E7%A8%8B%E6%B3%A8%E5%86%8C.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-120-%E8%AF%BE%E7%A8%8B%E6%B3%A8%E5%86%8C.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-120-%E8%AF%BE%E7%A8%8B%E6%B3%A8%E5%86%8C.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-121-技术求助.mp3",
+      "sizeMiB": 0.42,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.121.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-121-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-121-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-121-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-121-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-122-技术求助.mp3",
+      "sizeMiB": 0.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.122.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-122-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-122-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-122-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-122-%E6%8A%80%E6%9C%AF%E6%B1%82%E5%8A%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-dialogue-123-食宿.mp3",
+      "sizeMiB": 0.55,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-dialogues-v1/toefl.dialogue.123.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-123-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-123-%E9%A3%9F%E5%AE%BF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-123-%E9%A3%9F%E5%AE%BF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AF%B9%E8%AF%9D/toefl-dialogue-123-%E9%A3%9F%E5%AE%BF.recx"
+        }
+      }
+    }
+  ]
+}
