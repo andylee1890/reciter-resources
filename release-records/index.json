@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "generatedAt": "2026-08-17T18:22:58.512606Z",
+  "generatedAt": "2026-08-17T18:28:32.681974Z",
   "repository": "andylee1890/reciter-resources",
   "posterIndex": {
     "path": "artwork/posters/index.json",
@@ -1308,6 +1308,37 @@
         }
       },
       "usedBy": "cambridge-ielts-08-listening-v1"
+    },
+    {
+      "id": "cambridge-ielts-09",
+      "kind": "book-cover",
+      "sourceType": "publisher-cover-image",
+      "original": {
+        "path": "artwork/posters/cambridge-ielts-09.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cambridge-ielts-09.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/cambridge-ielts-09.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/cambridge-ielts-09.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cambridge-ielts-09.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cambridge-ielts-09.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 1200,
+          "height": 900
+        }
+      },
+      "usedBy": "cambridge-ielts-09-listening-v1"
     }
   ],
   "courses": [
@@ -1579,6 +1610,52 @@
         "mirrors": []
       },
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/cambridge-ielts-08-listening-v1"
+    },
+    {
+      "tag": "cambridge-ielts-09-listening-v1",
+      "title": "Cambridge IELTS 09 Listening v1",
+      "createdAt": "2026-08-18 02:28:09 +0800",
+      "audioCount": 16,
+      "totalSizeMiB": 61.47,
+      "detailFile": "cambridge-ielts-09-listening-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/cambridge-ielts-09-listening-v1.json",
+      "poster": {
+        "id": "cambridge-ielts-09",
+        "kind": "book-cover",
+        "sourceType": "publisher-cover-image",
+        "original": {
+          "path": "artwork/posters/cambridge-ielts-09.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cambridge-ielts-09.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/cambridge-ielts-09.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/cambridge-ielts-09.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cambridge-ielts-09.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cambridge-ielts-09.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 1200,
+            "height": 900
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/cambridge-ielts-09-listening-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/cambridge-ielts-09-listening-v1"
     },
     {
       "tag": "friends-s01-audio-v1",
