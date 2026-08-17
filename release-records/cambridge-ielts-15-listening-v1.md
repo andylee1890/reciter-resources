@@ -4,11 +4,11 @@
 - Repo: `andylee1890/reciter-resources`
 - Branch: `main`
 - Folder: `resources/剑桥雅思听力/剑雅15`
-- Created at: 2026-08-18 01:32:27 +0800
+- Created at: 2026-08-18 03:02:39 +0800
 - Audio files: 16
 - Total size: 90.80 MiB
 - Dry run: False
-- Published: False
+- Published: True
 - Release: https://github.com/andylee1890/reciter-resources/releases/tag/cambridge-ielts-15-listening-v1
 
 ## Link Bases
