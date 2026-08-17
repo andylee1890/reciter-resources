@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "generatedAt": "2026-08-16T16:50:07.529596Z",
+  "generatedAt": "2026-08-17T17:57:39.838775Z",
   "repository": "andylee1890/reciter-resources",
   "posterIndex": {
     "path": "artwork/posters/index.json",
@@ -1184,6 +1184,37 @@
       "source": "https://www.tvmaze.com/shows/6647/yes-prime-minister",
       "sourceImage": "https://static.tvmaze.com/uploads/images/original_untouched/25/62845.jpg",
       "usedBy": "yes-prime-minister-audio-v1"
+    },
+    {
+      "id": "cambridge-ielts-05",
+      "kind": "book-cover",
+      "sourceType": "publisher-cover-image",
+      "original": {
+        "path": "artwork/posters/cambridge-ielts-05.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cambridge-ielts-05.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/cambridge-ielts-05.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/cambridge-ielts-05.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cambridge-ielts-05.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cambridge-ielts-05.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.96
+        },
+        "sourceSize": {
+          "width": 384,
+          "height": 500
+        }
+      },
+      "usedBy": "cambridge-ielts-05-listening-v1"
     }
   ],
   "courses": [
@@ -1271,6 +1302,52 @@
           }
         ]
       }
+    },
+    {
+      "tag": "cambridge-ielts-05-listening-v1",
+      "title": "Cambridge IELTS 05 Listening v1",
+      "createdAt": "2026-08-18 01:52:26 +0800",
+      "audioCount": 16,
+      "totalSizeMiB": 65.27,
+      "detailFile": "cambridge-ielts-05-listening-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/cambridge-ielts-05-listening-v1.json",
+      "poster": {
+        "id": "cambridge-ielts-05",
+        "kind": "book-cover",
+        "sourceType": "publisher-cover-image",
+        "original": {
+          "path": "artwork/posters/cambridge-ielts-05.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cambridge-ielts-05.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/cambridge-ielts-05.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/cambridge-ielts-05.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cambridge-ielts-05.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cambridge-ielts-05.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.96
+          },
+          "sourceSize": {
+            "width": 384,
+            "height": 500
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/cambridge-ielts-05-listening-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/cambridge-ielts-05-listening-v1"
     },
     {
       "tag": "friends-s01-audio-v1",

@@ -50,6 +50,11 @@ Release asset 的显示名分隔符。也避免使用 `?`、`%`、`&`、`+`、`:
 嵌套目录在网页上传时会丢失路径、导致同名 asset 冲突的问题。链接文件使用发布记录
 中的稳定 Release asset 名称；源音频保持原位且不被修改。
 
+`register_resource_posters.py` 在对应 Release 已发布后，将已准备好的剑雅或 TOEFL
+原图和卡片登记到公共封面索引。每次只传入本次已发布的 `--tag`，再运行
+`generate_release_index.py`；未发布资料的封面文件保留在 `artwork/posters/`，但不进入
+生产索引。
+
 ## RECX 波形生成
 
 `generate_recx.py` 为音频生成兼容 EasyTyeReciter 的 `.recx` sidecar。它使用
