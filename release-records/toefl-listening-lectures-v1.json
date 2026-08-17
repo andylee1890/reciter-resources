@@ -1,0 +1,1508 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-08-17T19:58:12.027864Z",
+  "tag": "toefl-listening-lectures-v1",
+  "title": "TOEFL Listening Lectures v1",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/托福听力/学术讲座",
+  "createdAt": "2026-08-18 03:57:32 +0800",
+  "poster": {
+    "id": "toefl-listening-lectures",
+    "kind": "collection-cover",
+    "sourceType": "publisher-cover-image",
+    "original": {
+      "path": "artwork/posters/toefl-listening-lectures.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/toefl-listening-lectures.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/toefl-listening-lectures.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/toefl-listening-lectures.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/toefl-listening-lectures.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/toefl-listening-lectures.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.8333
+      },
+      "sourceSize": {
+        "width": 400,
+        "height": 600
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/toefl-listening-lectures-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 81,
+  "totalSizeMiB": 141.95,
+  "audio": [
+    {
+      "name": "toefl-lecture-001-健康.mp3",
+      "sizeMiB": 1.57,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.001.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-001-%E5%81%A5%E5%BA%B7.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-001-%E5%81%A5%E5%BA%B7.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-001-%E5%81%A5%E5%BA%B7.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-001-%E5%81%A5%E5%BA%B7.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-002-历史.mp3",
+      "sizeMiB": 2.16,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.002.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-002-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-002-%E5%8E%86%E5%8F%B2.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-002-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-002-%E5%8E%86%E5%8F%B2.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-003-心理学.mp3",
+      "sizeMiB": 0.24,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.003.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-003-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-003-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-003-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-003-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-004-历史.mp3",
+      "sizeMiB": 3.11,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.004.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-004-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-004-%E5%8E%86%E5%8F%B2.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-004-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-004-%E5%8E%86%E5%8F%B2.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-005-艺术.mp3",
+      "sizeMiB": 2.27,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.005.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-005-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-005-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-005-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-005-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-006-地球科学.mp3",
+      "sizeMiB": 1.94,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.006.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-006-%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-006-%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-006-%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-006-%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-007-历史.mp3",
+      "sizeMiB": 1.89,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.007.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-007-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-007-%E5%8E%86%E5%8F%B2.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-007-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-007-%E5%8E%86%E5%8F%B2.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-008-生态.mp3",
+      "sizeMiB": 2.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.008.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-008-%E7%94%9F%E6%80%81.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-008-%E7%94%9F%E6%80%81.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-008-%E7%94%9F%E6%80%81.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-008-%E7%94%9F%E6%80%81.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-009-生物.mp3",
+      "sizeMiB": 1.81,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.009.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-009-%E7%94%9F%E7%89%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-009-%E7%94%9F%E7%89%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-009-%E7%94%9F%E7%89%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-009-%E7%94%9F%E7%89%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-010-天文.mp3",
+      "sizeMiB": 0.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.010.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-010-%E5%A4%A9%E6%96%87.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-010-%E5%A4%A9%E6%96%87.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-010-%E5%A4%A9%E6%96%87.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-010-%E5%A4%A9%E6%96%87.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-011-历史.mp3",
+      "sizeMiB": 0.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.011.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-011-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-011-%E5%8E%86%E5%8F%B2.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-011-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-011-%E5%8E%86%E5%8F%B2.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-012-历史.mp3",
+      "sizeMiB": 0.38,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.012.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-012-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-012-%E5%8E%86%E5%8F%B2.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-012-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-012-%E5%8E%86%E5%8F%B2.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-013-社会学.mp3",
+      "sizeMiB": 0.44,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.013.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-013-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-013-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-013-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-013-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-014-生物.mp3",
+      "sizeMiB": 0.33,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.014.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-014-%E7%94%9F%E7%89%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-014-%E7%94%9F%E7%89%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-014-%E7%94%9F%E7%89%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-014-%E7%94%9F%E7%89%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-015-艺术.mp3",
+      "sizeMiB": 0.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.015.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-015-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-015-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-015-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-015-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-016-生物.mp3",
+      "sizeMiB": 0.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.016.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-016-%E7%94%9F%E7%89%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-016-%E7%94%9F%E7%89%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-016-%E7%94%9F%E7%89%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-016-%E7%94%9F%E7%89%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-017-天文.mp3",
+      "sizeMiB": 0.37,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.017.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-017-%E5%A4%A9%E6%96%87.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-017-%E5%A4%A9%E6%96%87.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-017-%E5%A4%A9%E6%96%87.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-017-%E5%A4%A9%E6%96%87.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-018-环境科学.mp3",
+      "sizeMiB": 0.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.018.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-018-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-018-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-018-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-018-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-019-物理.mp3",
+      "sizeMiB": 1.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.019.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-019-%E7%89%A9%E7%90%86.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-019-%E7%89%A9%E7%90%86.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-019-%E7%89%A9%E7%90%86.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-019-%E7%89%A9%E7%90%86.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-020-环境科学.mp3",
+      "sizeMiB": 1.8,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-020-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-020-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-020-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-020-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-021-心理学.mp3",
+      "sizeMiB": 2.29,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-021-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-021-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-021-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-021-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-022-环境科学.mp3",
+      "sizeMiB": 2.01,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-022-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-022-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-022-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-022-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-023-生物.mp3",
+      "sizeMiB": 2.01,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-023-%E7%94%9F%E7%89%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-023-%E7%94%9F%E7%89%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-023-%E7%94%9F%E7%89%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-023-%E7%94%9F%E7%89%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-024-商业.mp3",
+      "sizeMiB": 1.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-024-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-024-%E5%95%86%E4%B8%9A.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-024-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-024-%E5%95%86%E4%B8%9A.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-025-心理学.mp3",
+      "sizeMiB": 1.84,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.025.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-025-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-025-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-025-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-025-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-026-心理学.mp3",
+      "sizeMiB": 2.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.026.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-026-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-026-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-026-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-026-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-027-生物.mp3",
+      "sizeMiB": 2.81,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.027.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-027-%E7%94%9F%E7%89%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-027-%E7%94%9F%E7%89%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-027-%E7%94%9F%E7%89%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-027-%E7%94%9F%E7%89%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-028-环境科学.mp3",
+      "sizeMiB": 2.53,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.028.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-028-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-028-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-028-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-028-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-029-人际.mp3",
+      "sizeMiB": 2.27,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.029.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-029-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-029-%E4%BA%BA%E9%99%85.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-029-%E4%BA%BA%E9%99%85.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-029-%E4%BA%BA%E9%99%85.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-030-环境科学.mp3",
+      "sizeMiB": 1.85,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.030.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-030-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-030-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-030-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-030-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-031-心理学.mp3",
+      "sizeMiB": 2.18,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.031.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-031-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-031-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-031-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-031-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-032-生态.mp3",
+      "sizeMiB": 2.39,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.032.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-032-%E7%94%9F%E6%80%81.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-032-%E7%94%9F%E6%80%81.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-032-%E7%94%9F%E6%80%81.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-032-%E7%94%9F%E6%80%81.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-033-社会学.mp3",
+      "sizeMiB": 2.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.033.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-033-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-033-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-033-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-033-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-034-心理学.mp3",
+      "sizeMiB": 2.07,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.034.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-034-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-034-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-034-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-034-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-035-艺术.mp3",
+      "sizeMiB": 3.07,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.035.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-035-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-035-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-035-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-035-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-036-学术.mp3",
+      "sizeMiB": 2.21,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.036.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-036-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-036-%E5%AD%A6%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-036-%E5%AD%A6%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-036-%E5%AD%A6%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-037-商业.mp3",
+      "sizeMiB": 1.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.037.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-037-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-037-%E5%95%86%E4%B8%9A.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-037-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-037-%E5%95%86%E4%B8%9A.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-038-环境科学.mp3",
+      "sizeMiB": 1.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.038.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-038-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-038-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-038-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-038-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-039-生态.mp3",
+      "sizeMiB": 1.7,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.039.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-039-%E7%94%9F%E6%80%81.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-039-%E7%94%9F%E6%80%81.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-039-%E7%94%9F%E6%80%81.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-039-%E7%94%9F%E6%80%81.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-040-艺术.mp3",
+      "sizeMiB": 1.71,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.040.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-040-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-040-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-040-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-040-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-041-心理学.mp3",
+      "sizeMiB": 1.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.041.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-041-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-041-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-041-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-041-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-042-心理学.mp3",
+      "sizeMiB": 1.9,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.042.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-042-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-042-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-042-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-042-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-043-艺术.mp3",
+      "sizeMiB": 1.68,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.043.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-043-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-043-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-043-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-043-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-044-商业.mp3",
+      "sizeMiB": 2.01,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.044.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-044-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-044-%E5%95%86%E4%B8%9A.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-044-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-044-%E5%95%86%E4%B8%9A.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-045-艺术.mp3",
+      "sizeMiB": 1.66,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.045.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-045-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-045-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-045-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-045-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-046-历史.mp3",
+      "sizeMiB": 1.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.046.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-046-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-046-%E5%8E%86%E5%8F%B2.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-046-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-046-%E5%8E%86%E5%8F%B2.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-047-生态.mp3",
+      "sizeMiB": 1.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.047.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-047-%E7%94%9F%E6%80%81.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-047-%E7%94%9F%E6%80%81.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-047-%E7%94%9F%E6%80%81.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-047-%E7%94%9F%E6%80%81.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-048-历史.mp3",
+      "sizeMiB": 2.09,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.048.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-048-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-048-%E5%8E%86%E5%8F%B2.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-048-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-048-%E5%8E%86%E5%8F%B2.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-049-艺术.mp3",
+      "sizeMiB": 1.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.049.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-049-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-049-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-049-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-049-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-050-历史.mp3",
+      "sizeMiB": 1.75,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.050.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-050-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-050-%E5%8E%86%E5%8F%B2.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-050-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-050-%E5%8E%86%E5%8F%B2.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-051-社会学.mp3",
+      "sizeMiB": 2.2,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.051.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-051-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-051-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-051-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-051-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-052-心理学.mp3",
+      "sizeMiB": 1.94,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.052.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-052-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-052-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-052-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-052-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-053-物理.mp3",
+      "sizeMiB": 1.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.053.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-053-%E7%89%A9%E7%90%86.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-053-%E7%89%A9%E7%90%86.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-053-%E7%89%A9%E7%90%86.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-053-%E7%89%A9%E7%90%86.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-054-商业.mp3",
+      "sizeMiB": 2.83,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.054.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-054-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-054-%E5%95%86%E4%B8%9A.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-054-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-054-%E5%95%86%E4%B8%9A.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-055-环境科学.mp3",
+      "sizeMiB": 3.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.055.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-055-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-055-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-055-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-055-%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-056-生物.mp3",
+      "sizeMiB": 2.44,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.056.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-056-%E7%94%9F%E7%89%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-056-%E7%94%9F%E7%89%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-056-%E7%94%9F%E7%89%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-056-%E7%94%9F%E7%89%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-057-艺术.mp3",
+      "sizeMiB": 2.95,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.057.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-057-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-057-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-057-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-057-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-058-社会学.mp3",
+      "sizeMiB": 3.18,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.058.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-058-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-058-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-058-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-058-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-059-生物.mp3",
+      "sizeMiB": 1.46,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.059.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-059-%E7%94%9F%E7%89%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-059-%E7%94%9F%E7%89%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-059-%E7%94%9F%E7%89%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-059-%E7%94%9F%E7%89%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-060-生态.mp3",
+      "sizeMiB": 1.85,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.060.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-060-%E7%94%9F%E6%80%81.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-060-%E7%94%9F%E6%80%81.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-060-%E7%94%9F%E6%80%81.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-060-%E7%94%9F%E6%80%81.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-061-历史.mp3",
+      "sizeMiB": 2.17,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.061.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-061-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-061-%E5%8E%86%E5%8F%B2.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-061-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-061-%E5%8E%86%E5%8F%B2.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-062-社会学.mp3",
+      "sizeMiB": 1.89,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.062.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-062-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-062-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-062-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-062-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-063-生物.mp3",
+      "sizeMiB": 2.07,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.063.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-063-%E7%94%9F%E7%89%A9.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-063-%E7%94%9F%E7%89%A9.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-063-%E7%94%9F%E7%89%A9.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-063-%E7%94%9F%E7%89%A9.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-064-艺术.mp3",
+      "sizeMiB": 1.83,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.064.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-064-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-064-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-064-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-064-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-065-商业.mp3",
+      "sizeMiB": 2.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.065.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-065-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-065-%E5%95%86%E4%B8%9A.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-065-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-065-%E5%95%86%E4%B8%9A.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-066-心理学.mp3",
+      "sizeMiB": 1.25,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.066.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-066-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-066-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-066-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-066-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-067-艺术.mp3",
+      "sizeMiB": 1.79,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.067.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-067-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-067-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-067-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-067-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-068-历史.mp3",
+      "sizeMiB": 1.11,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.068.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-068-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-068-%E5%8E%86%E5%8F%B2.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-068-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-068-%E5%8E%86%E5%8F%B2.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-069-历史.mp3",
+      "sizeMiB": 1.18,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.069.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-069-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-069-%E5%8E%86%E5%8F%B2.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-069-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-069-%E5%8E%86%E5%8F%B2.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-070-历史.mp3",
+      "sizeMiB": 1.37,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.070.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-070-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-070-%E5%8E%86%E5%8F%B2.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-070-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-070-%E5%8E%86%E5%8F%B2.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-071-社会学.mp3",
+      "sizeMiB": 2.43,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.071.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-071-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-071-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-071-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-071-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-072-艺术.mp3",
+      "sizeMiB": 1.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.072.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-072-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-072-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-072-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-072-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-073-艺术.mp3",
+      "sizeMiB": 1.44,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.073.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-073-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-073-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-073-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-073-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-074-心理学.mp3",
+      "sizeMiB": 1.57,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.074.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-074-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-074-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-074-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-074-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-075-社会学.mp3",
+      "sizeMiB": 1.34,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.075.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-075-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-075-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-075-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-075-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-076-生态.mp3",
+      "sizeMiB": 1.49,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.076.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-076-%E7%94%9F%E6%80%81.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-076-%E7%94%9F%E6%80%81.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-076-%E7%94%9F%E6%80%81.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-076-%E7%94%9F%E6%80%81.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-077-社会学.mp3",
+      "sizeMiB": 1.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.077.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-077-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-077-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-077-%E7%A4%BE%E4%BC%9A%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-077-%E7%A4%BE%E4%BC%9A%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-078-商业.mp3",
+      "sizeMiB": 1.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.078.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-078-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-078-%E5%95%86%E4%B8%9A.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-078-%E5%95%86%E4%B8%9A.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-078-%E5%95%86%E4%B8%9A.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-079-心理学.mp3",
+      "sizeMiB": 1.34,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.079.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-079-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-079-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-079-%E5%BF%83%E7%90%86%E5%AD%A6.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-079-%E5%BF%83%E7%90%86%E5%AD%A6.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-080-历史.mp3",
+      "sizeMiB": 1.38,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.080.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-080-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-080-%E5%8E%86%E5%8F%B2.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-080-%E5%8E%86%E5%8F%B2.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-080-%E5%8E%86%E5%8F%B2.recx"
+        }
+      }
+    },
+    {
+      "name": "toefl-lecture-081-艺术.mp3",
+      "sizeMiB": 1.16,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/toefl-listening-lectures-v1/toefl.lecture.081.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-081-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-081-%E8%89%BA%E6%9C%AF.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-081-%E8%89%BA%E6%9C%AF.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%89%98%E7%A6%8F%E5%90%AC%E5%8A%9B/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/toefl-lecture-081-%E8%89%BA%E6%9C%AF.recx"
+        }
+      }
+    }
+  ]
+}

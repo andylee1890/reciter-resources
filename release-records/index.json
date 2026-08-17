@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "generatedAt": "2026-08-17T19:50:58.188326Z",
+  "generatedAt": "2026-08-17T19:58:12.027864Z",
   "repository": "andylee1890/reciter-resources",
   "posterIndex": {
     "path": "artwork/posters/index.json",
@@ -1742,6 +1742,37 @@
         }
       },
       "usedBy": "toefl-listening-announcements-v1"
+    },
+    {
+      "id": "toefl-listening-lectures",
+      "kind": "collection-cover",
+      "sourceType": "publisher-cover-image",
+      "original": {
+        "path": "artwork/posters/toefl-listening-lectures.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/toefl-listening-lectures.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/toefl-listening-lectures.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/toefl-listening-lectures.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/toefl-listening-lectures.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/toefl-listening-lectures.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 400,
+          "height": 600
+        }
+      },
+      "usedBy": "toefl-listening-lectures-v1"
     }
   ],
   "courses": [
@@ -4451,6 +4482,52 @@
         "mirrors": []
       },
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/toefl-listening-dialogues-v1"
+    },
+    {
+      "tag": "toefl-listening-lectures-v1",
+      "title": "TOEFL Listening Lectures v1",
+      "createdAt": "2026-08-18 03:57:32 +0800",
+      "audioCount": 81,
+      "totalSizeMiB": 141.95,
+      "detailFile": "toefl-listening-lectures-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/toefl-listening-lectures-v1.json",
+      "poster": {
+        "id": "toefl-listening-lectures",
+        "kind": "collection-cover",
+        "sourceType": "publisher-cover-image",
+        "original": {
+          "path": "artwork/posters/toefl-listening-lectures.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/toefl-listening-lectures.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/toefl-listening-lectures.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/toefl-listening-lectures.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/toefl-listening-lectures.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/toefl-listening-lectures.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 400,
+            "height": 600
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/toefl-listening-lectures-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/toefl-listening-lectures-v1"
     },
     {
       "tag": "yes-minister-audio-v1",
