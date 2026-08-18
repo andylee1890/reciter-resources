@@ -1,0 +1,41 @@
+# rclone filter for publishing the public resource tree to R2.
+# Run from the repository root, for example:
+# rclone copy . r2:bucket --filter-from filter.txt
+#
+# rclone does not read .gitignore automatically. These rules keep repository
+# metadata and maintainer-only files out of the public object store.
+
+# Git metadata and repository-local control files.
+- .git/**
+- .git
+- **/.git/**
+- **/.git
+- .gitignore
+- **/.gitignore
+
+# Maintainer-only directories and files.
+- bak/**
+- **/bak/**
+- release-tools/**
+- **/release-tools/**
+- AGENTS.md
+- filter.txt
+- resources/rec-generation-manifest.json
+
+# Common local operating-system and Python artifacts.
+- .DS_Store
+- **/.DS_Store
+- Thumbs.db
+- **/Thumbs.db
+- desktop.ini
+- **/desktop.ini
+- __pycache__/**
+- **/__pycache__/**
+- *.pyc
+- **/*.pyc
+- *.pyo
+- **/*.pyo
+- *.tmp
+- **/*.tmp
+- *.temp
+- **/*.temp
