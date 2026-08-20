@@ -1,75 +1,39 @@
 1
-00:00:00,000 --> 00:00:01,728
-Woman:
+00:00:00,000 --> 00:00:06,110
+Woman: Customer support. How may I help you?
 
 2
-00:00:01,728 --> 00:00:04,924
-Customer support.
+00:00:06,110 --> 00:00:10,040
+Man: Well, my computer keeps overheating and shutting down.
 
 3
-00:00:04,924 --> 00:00:06,110
-How may I help you?
+00:00:10,040 --> 00:00:12,640
+Woman: Have you checked if the fans are working properly
 
 4
-00:00:06,110 --> 00:00:06,160
-Man:
-
-5
-00:00:06,160 --> 00:00:10,040
-Well, my computer keeps overheating and shutting down.
-
-6
-00:00:10,040 --> 00:00:10,090
-Woman:
-
-7
-00:00:10,090 --> 00:00:13,105
-Have you checked if the fans are working properly?
-
-8
-00:00:13,105 --> 00:00:15,250
+00:00:13,500 --> 00:00:15,250
 Dust can accumulate and block air flow.
 
+5
+00:00:15,250 --> 00:00:18,030
+Man: I haven't looked at that.
+
+6
+00:00:18,030 --> 00:00:19,800
+Woman: You can get a can of compressed air
+
+7
+00:00:19,800 --> 00:00:23,080
+and spray it into the vents and the fans to blow out the dust.
+
+8
+00:00:23,080 --> 00:00:25,140
+Man: OK I'll try that.
+
 9
-00:00:15,250 --> 00:00:15,713
-Man:
+00:00:25,140 --> 00:00:27,160
+Woman: Hopefully that'll take care of the problem.
 
 10
-00:00:15,713 --> 00:00:18,030
-I haven't looked at that.
-
-11
-00:00:18,030 --> 00:00:18,250
-Woman:
-
-12
-00:00:18,250 --> 00:00:21,323
-You can get a can of compressed air and spray it into the vents
-
-13
-00:00:21,323 --> 00:00:23,080
-and the fans to blow out the dust.
-
-14
-00:00:23,080 --> 00:00:23,492
-Man:
-
-15
-00:00:23,492 --> 00:00:25,140
-OK I'll try that.
-
-16
-00:00:25,140 --> 00:00:25,393
-Woman:
-
-17
-00:00:25,393 --> 00:00:27,160
-Hopefully that'll take care of the problem.
-
-18
-00:00:27,160 --> 00:00:29,685
-If not, you'll probably need to ship it to us
-
-19
-00:00:29,685 --> 00:00:31,200
-so we can take a look.
+00:00:27,160 --> 00:00:31,200
+If not, you'll probably need to ship it to us so we can take a look.

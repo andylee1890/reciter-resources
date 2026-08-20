@@ -1,287 +1,251 @@
 1
-00:00:00,000 --> 00:00:05,857
-Well, my group has been doing a project on how household waste is recycled
+00:00:00,000 --> 00:00:06,380
+Well, my group has been doing a project on how household waste is recycled in Britain.
 
 2
-00:00:05,857 --> 00:00:06,380
-in Britain.
+00:00:06,380 --> 00:00:15,500
+We were quite shocked to discover that only 9% of people here in the UK make an effort to recycle their household waste.
 
 3
-00:00:06,380 --> 00:00:11,824
-We were quite shocked to discover that only 9% of people here in the
-
-4
-00:00:11,824 --> 00:00:15,500
-UK make an effort to recycle their household waste.
-
-5
-00:00:15,500 --> 00:00:19,611
+00:00:15,500 --> 00:00:19,364
 This is a lower figure than in most other European countries,
 
+4
+00:00:19,364 --> 00:00:23,200
+and needs to increase dramatically in the next few years
+
+5
+00:00:23,200 --> 00:00:26,390
+if the government is going to meet its recycling targets.
+
 6
-00:00:19,611 --> 00:00:24,425
-and needs to increase dramatically in the next few years if the government is
+00:00:26,390 --> 00:00:37,910
+The agreed targets for the UK mean that by 2008 we must reduce our carbon dioxide emissions by 12.5%, compared with 1990.
 
 7
-00:00:24,425 --> 00:00:26,390
-going to meet its recycling targets.
-
-8
-00:00:26,390 --> 00:00:32,692
-The agreed targets for the UK mean that by 2008 we must reduce our
-
-9
-00:00:32,692 --> 00:00:37,910
-carbon dioxide emissions by 12.5%, compared with 1990.
-
-10
-00:00:37,910 --> 00:00:43,778
+00:00:37,910 --> 00:00:43,919
 And recycling can help to achieve that goal, in two main ways:
 
-11
-00:00:43,778 --> 00:00:50,087
-the production of recycled glass and paper uses much less energy than producing them
+8
+00:00:43,919 --> 00:00:46,640
+the production of recycled glass
 
-12
-00:00:50,087 --> 00:00:51,489
-from virgin materials,
+9
+00:00:46,640 --> 00:00:52,431
+and paper uses much less energy than producing them from virgin materials,
 
-13
-00:00:51,489 --> 00:00:58,940
+10
+00:00:52,431 --> 00:00:58,940
 and also recycling reduces greenhouse gas emissions from landfill sites and incineration plants.
 
+11
+00:00:58,940 --> 00:01:01,780
+As part of our project
+
+12
+00:01:02,080 --> 00:01:07,122
+we carried out a survey of people in the street, and the thing that came up over
+
+13
+00:01:07,122 --> 00:01:12,700
+and over again is that people don't think it's easy enough to recycle their waste.
+
 14
-00:00:58,940 --> 00:01:04,195
-As part of our project, we carried out a survey of people in the
-
-15
-00:01:04,195 --> 00:01:04,536
-street,
-
-16
-00:01:04,536 --> 00:01:09,571
-and the thing that came up over and over again is that people don't
-
-17
-00:01:09,571 --> 00:01:12,700
-think it's easy enough to recycle their waste.
-
-18
-00:01:12,700 --> 00:01:16,515
+00:01:12,700 --> 00:01:15,838
 One problem is that there aren't enough 'drop-off' sites,
 
-19
-00:01:16,515 --> 00:01:20,370
+15
+00:01:15,838 --> 00:01:20,370
 that is, the places where the public are supposed to take their waste.
 
+16
+00:01:20,370 --> 00:01:27,519
+We also discovered that waste that's collected from householders is taken to places called 'bring banks',
+
+17
+00:01:27,519 --> 00:01:30,200
+for sorting and baling into loads.
+
+18
+00:01:30,200 --> 00:01:36,770
+One problem here is taking out everything that shouldn't have been placed in the recycling containers:
+
+19
+00:01:36,770 --> 00:01:40,220
+people put all sorts of things into bottle banks
+
 20
-00:01:20,370 --> 00:01:28,976
-We also discovered that waste that's collected from householders is taken to places called 'bring banks', for sorting
+00:01:40,220 --> 00:01:43,340
+like plastic bags and even broken umbrellas.
 
 21
-00:01:28,976 --> 00:01:30,200
-and baling into loads.
-
-22
-00:01:30,200 --> 00:01:35,436
-One problem here is taking out everything that shouldn't have been placed in the
-
-23
-00:01:35,436 --> 00:01:36,760
-recycling containers:
-
-24
-00:01:36,760 --> 00:01:41,795
-people put all sorts of things into bottle banks, like plastic bags
-
-25
-00:01:41,795 --> 00:01:43,340
-and even broken umbrellas.
-
-26
 00:01:43,340 --> 00:01:46,250
 All this has to be removed by hand.
 
-27
-00:01:46,250 --> 00:01:52,652
-Another difficulty is that toughened glass used for cooking doesn't fully melt at the
+22
+00:01:46,250 --> 00:01:53,546
+Another difficulty is that toughened glass used for cooking doesn't fully melt at the temperature required for other glass,
 
-28
-00:01:52,652 --> 00:01:54,418
-temperature required for other glass,
-
-29
-00:01:54,418 --> 00:01:57,770
+23
+00:01:53,546 --> 00:01:57,770
 and so that also has to be picked out by hand.
 
-30
-00:01:57,770 --> 00:02:02,451
+24
+00:01:57,770 --> 00:02:02,480
 Glass is easy to recycle because it can be reused over
 
-31
-00:02:02,451 --> 00:02:04,560
+25
+00:02:02,480 --> 00:02:04,560
 and over again without becoming weaker.
 
-32
-00:02:04,560 --> 00:02:08,950
-Two million tons of glass is thrown away each year,
+26
+00:02:04,560 --> 00:02:09,120
+Two million tons of glass is thrown away each year
 
-33
-00:02:08,950 --> 00:02:12,899
+27
+00:02:09,280 --> 00:02:15,355
 that is, seven billion bottles and jars;
 
-34
-00:02:12,899 --> 00:02:22,340
+28
+00:02:15,355 --> 00:02:22,340
 but only 500,000 tons of that is collected and recycled.
 
-35
-00:02:22,340 --> 00:02:26,857
+29
+00:02:22,340 --> 00:02:25,961
 Oddly enough, half the glass that's collected is green,
 
-36
-00:02:26,857 --> 00:02:29,146
-and a lot of that is imported,
+30
+00:02:25,961 --> 00:02:32,800
+and a lot of that is imported, so more green glass is recycled than the UK needs.
 
-37
-00:02:29,146 --> 00:02:32,800
-so more green glass is recycled than the UK needs.
+31
+00:02:32,800 --> 00:02:38,510
+As a result, new uses are being developed for recycled glass,
 
-38
-00:02:32,800 --> 00:02:42,434
-As a result, new uses are being developed for recycled glass, particularly green glass, for example in fibreglass manufacture
+32
+00:02:38,510 --> 00:02:40,060
+particularly green glass, for example
 
-39
-00:02:42,434 --> 00:02:44,220
-and water filtration.
+33
+00:02:40,580 --> 00:02:44,220
+in fibreglass manufacture and water filtration.
 
-40
-00:02:44,220 --> 00:02:49,198
-A company called CLF Aggregates makes a product for roads,
+34
+00:02:44,220 --> 00:02:49,300
+A company called CLF Aggregates makes a product for roads
 
-41
-00:02:49,198 --> 00:02:52,310
+35
+00:02:49,300 --> 00:02:52,310
 and 30% of the material is crushed glass.
 
-42
+36
 00:02:52,310 --> 00:03:01,570
 For recycling paper, Britain comes second in Europe with 40%, behind Germany's amazing 70%.
 
-43
-00:03:01,570 --> 00:03:06,125
+37
+00:03:01,570 --> 00:03:05,051
 When recycling started, there were quality problems,
 
-44
-00:03:06,125 --> 00:03:10,520
+38
+00:03:05,051 --> 00:03:10,520
 so it was difficult to use recycled paper in office printers.
 
-45
-00:03:10,520 --> 00:03:12,545
+39
+00:03:10,520 --> 00:03:13,592
 But these problems have now been solved,
 
+40
+00:03:13,592 --> 00:03:15,620
+and Martin's, based in South London
+
+41
+00:03:16,040 --> 00:03:20,614
+produces a range of office stationery which is 100% recycled,
+
+42
+00:03:20,614 --> 00:03:25,880
+costs the same as normal paper and is of equally high quality.
+
+43
+00:03:25,880 --> 00:03:32,030
+But this high quality comes at a cost in terms of the waste produced during the process.
+
+44
+00:03:32,030 --> 00:03:36,914
+Over a third of the waste paper that comes in can't be used in the recycled paper,
+
+45
+00:03:36,914 --> 00:03:39,500
+leaving the question of what to do with it.
+
 46
-00:03:12,545 --> 00:03:18,782
-and Martin's, based in South London, produces a range of office stationery which is
+00:03:39,500 --> 00:03:44,569
+One firm, Papersave, currently sells this to farmers as a soil conditioner,
 
 47
-00:03:18,782 --> 00:03:25,880
-100% recycled, costs the same as normal paper and is of equally high quality.
+00:03:44,569 --> 00:03:50,483
+though this practice will soon be banned because of transport costs and the smell,
 
 48
-00:03:25,880 --> 00:03:31,186
-But this high quality comes at a cost in terms of the waste produced
-
-49
-00:03:31,186 --> 00:03:32,030
-during the process.
-
-50
-00:03:32,030 --> 00:03:36,428
-Over a third of the waste paper that comes in can't be used in
-
-51
-00:03:36,428 --> 00:03:39,500
-the recycled paper, leaving the question of what to do with it.
-
-52
-00:03:39,500 --> 00:03:48,397
-One firm, Papersave, currently sells this to farmers as a soil conditioner, though this practice will soon be banned
-
-53
-00:03:48,397 --> 00:03:50,641
-because of transport costs and the smell,
-
-54
-00:03:50,641 --> 00:03:55,130
+00:03:50,483 --> 00:03:55,130
 and the company is looking into the possibility of alternative uses.
 
-55
-00:03:55,130 --> 00:03:58,444
-Plastic causes problems,
+49
+00:03:55,130 --> 00:03:58,960
+Plastic causes problems, because there are
 
-56
-00:03:58,444 --> 00:04:01,678
-because there are so many different types of plastic in use today,
+50
+00:03:58,960 --> 00:04:00,880
+so many different types of plastic in use today,
 
-57
-00:04:01,678 --> 00:04:04,330
+51
+00:04:00,880 --> 00:04:04,330
 and each one has to be dealt with differently.
 
-58
-00:04:04,330 --> 00:04:09,364
+52
+00:04:04,330 --> 00:04:08,730
 Pacrite recycles all sorts of things, from bottles to car bumpers,
 
-59
-00:04:09,364 --> 00:04:15,382
+53
+00:04:08,730 --> 00:04:14,330
 and one of its most successful activities is recycling plastic bottles to make containers
 
-60
-00:04:15,382 --> 00:04:18,330
+54
+00:04:14,330 --> 00:04:18,330
 which are used all over the country to collect waste.
 
+55
+00:04:18,330 --> 00:04:22,440
+The Save-a-Cup scheme was set up by the vending
+
+56
+00:04:22,440 --> 00:04:30,660
+and plastics industries to recycle as many as possible of the three, and-a-half billion polystyrene cups used each year.
+
+57
+00:04:30,660 --> 00:04:35,120
+At the moment 500 million polycups are collected
+
+58
+00:04:35,540 --> 00:04:37,399
+processed and sold on to other businesses,
+
+59
+00:04:37,399 --> 00:04:42,790
+such as Waterford, which turns the cups into pencils, and Johnson & Jones,
+
+60
+00:04:42,790 --> 00:04:49,080
+a Welsh-based firm, which has developed a wide variety of items, including business cards.
+
 61
-00:04:18,330 --> 00:04:24,746
-The Save-a-Cup scheme was set up by the vending and plastics industries to recycle
+00:04:49,080 --> 00:04:57,000
+Well, to sum up, there seems to be plenty of research going on into how to re-use materials,
 
 62
-00:04:24,746 --> 00:04:30,660
-as many as possible of the three-and-a-half billion polystyrene cups used each year.
+00:04:57,000 --> 00:05:04,040
+but the biggest problem is getting people to think about recycling instead of throwing things away.
 
 63
-00:04:30,660 --> 00:04:37,515
-At the moment 500 million polycups are collected, processed and sold on to other
-
-64
-00:04:37,515 --> 00:04:39,639
-businesses, such as Waterford,
-
-65
-00:04:39,639 --> 00:04:41,544
-which turns the cups into pencils,
-
-66
-00:04:41,544 --> 00:04:44,410
-and Johnson & Jones, a Welsh-based firm,
-
-67
-00:04:44,410 --> 00:04:49,080
-which has developed a wide variety of items, including business cards.
-
-68
-00:04:49,080 --> 00:04:55,557
-Well, to sum up, there seems to be plenty of research going on into
-
-69
-00:04:55,557 --> 00:04:57,402
-how to re-use materials,
-
-70
-00:04:57,402 --> 00:05:03,458
-but the biggest problem is getting people to think about recycling instead of throwing
-
-71
-00:05:03,458 --> 00:05:04,040
-things away.
-
-72
 00:05:04,040 --> 00:05:08,550
 At least doing the research made us much more careful.

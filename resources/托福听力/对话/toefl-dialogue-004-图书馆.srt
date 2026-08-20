@@ -1,75 +1,43 @@
 1
-00:00:00,000 --> 00:00:01,228
-MEN:
+00:00:00,000 --> 00:00:04,040
+MEN: Ms. Collins is considering restructuring the manner in
 
 2
-00:00:01,228 --> 00:00:01,369
-Ms.
+00:00:04,040 --> 00:00:06,180
+which we acquire books for the library.
 
 3
-00:00:01,369 --> 00:00:06,180
-Collins is considering restructuring the manner in which we acquire books for the library.
+00:00:06,180 --> 00:00:08,280
+WOMAN: Why is that? Is there a problem?
 
 4
-00:00:06,180 --> 00:00:06,710
-WOMAN:
+00:00:08,280 --> 00:00:11,986
+MEN: Sort of. Take a look at this graph. The section
 
 5
-00:00:06,710 --> 00:00:07,281
-Why is that?
+00:00:11,986 --> 00:00:15,040
+with the least number of books is also the busiest
 
 6
-00:00:07,281 --> 00:00:08,280
-Is there a problem?
-
-7
-00:00:08,280 --> 00:00:08,330
-MEN:
-
-8
-00:00:08,330 --> 00:00:09,291
-Sort of.
-
-9
-00:00:09,291 --> 00:00:11,312
-Take a look at this graph.
-
-10
-00:00:11,312 --> 00:00:15,355
-The section with the least number of books is also the busiest
-
-11
-00:00:15,355 --> 00:00:18,050
+00:00:15,040 --> 00:00:18,050
 because patrons are checking them out so much.
 
-12
-00:00:18,050 --> 00:00:18,451
-WOMAN:
+7
+00:00:18,050 --> 00:00:22,862
+WOMAN: Hmm... We should definitely be spending more money in that case.
 
-13
-00:00:18,451 --> 00:00:22,862
-Hmm...We should definitely be spending more money in that case.
-
-14
+8
 00:00:22,862 --> 00:00:26,070
 How soon can we start purchasing more books?
 
-15
-00:00:26,070 --> 00:00:26,415
-MEN:
+9
+00:00:26,070 --> 00:00:30,207
+MEN: We've almost spent the money allocated for acquisitions for the year,
 
-16
-00:00:26,415 --> 00:00:30,207
-We've almost spent the money allocated for acquisitions for the year,
-
-17
+10
 00:00:30,207 --> 00:00:34,000
 so we should wait two more months before buying anything new.
 
-18
-00:00:34,000 --> 00:00:34,376
-WOMAN:
-
-19
-00:00:34,376 --> 00:00:39,260
-Well, meanwhile, let's compile a list of which books we want to acquire.
+11
+00:00:34,000 --> 00:00:39,260
+WOMAN: Well, meanwhile, let's compile a list of which books we want to acquire.

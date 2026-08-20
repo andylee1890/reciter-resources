@@ -1,731 +1,335 @@
 1
-00:00:00,000 --> 00:00:00,222
-Clare:
+00:00:00,000 --> 00:00:03,850
+Clare: Hi Jake. How are you getting on with the practical teaching?
 
 2
-00:00:00,222 --> 00:00:00,685
-Hi Jake.
+00:00:03,850 --> 00:00:08,700
+Jake: It's harder than I expected, but I've got some great classes. How about you?
 
 3
-00:00:00,685 --> 00:00:03,850
-How are you getting on with the practical teaching?
+00:00:08,700 --> 00:00:13,850
+Clare: Not brilliant. I'm really struggling with my Year 12 science class.
 
 4
-00:00:03,850 --> 00:00:03,900
-Jake:
+00:00:13,850 --> 00:00:15,630
+Jake: Are they hard to control?
 
 5
-00:00:03,900 --> 00:00:05,847
-It’s harder than I expected,
+00:00:15,630 --> 00:00:18,561
+Clare: Well, I don't have discipline problems as such.
 
 6
-00:00:05,847 --> 00:00:07,844
-but I’ve got some great classes.
+00:00:18,561 --> 00:00:25,010
+It's just that they don't seem to think that science has anything to do with their lives. It's depressing.
 
 7
-00:00:07,844 --> 00:00:08,700
-How about you?
+00:00:25,010 --> 00:00:26,935
+Clare: They listen to what I say,
 
 8
-00:00:08,700 --> 00:00:09,096
-Clare:
+00:00:26,935 --> 00:00:30,360
+and I gave them a test last week and the results weren't too bad
 
 9
-00:00:09,096 --> 00:00:09,888
-Not brilliant.
+00:00:30,780 --> 00:00:32,710
+but there's no real engagement.
 
 10
-00:00:09,888 --> 00:00:13,850
-I’m really struggling with my Year 12 science class.
+00:00:32,710 --> 00:00:34,110
+Jake: Right.
 
 11
-00:00:13,850 --> 00:00:14,147
-Jake:
+00:00:34,110 --> 00:00:36,020
+Clare: And as part of my teaching practice
 
 12
-00:00:14,147 --> 00:00:15,630
-Are they hard to control?
+00:00:36,020 --> 00:00:39,610
+I have to design an experiment for them to do.
 
 13
-00:00:15,630 --> 00:00:15,923
-Clare:
+00:00:39,610 --> 00:00:42,542
+Clare: I was wondering about something on the children's diets.
 
 14
-00:00:15,923 --> 00:00:18,561
-Well, I don’t have discipline problems as such.
+00:00:42,542 --> 00:00:45,060
+you know, asking them to record what they eat
 
 15
-00:00:18,561 --> 00:00:23,251
-It’s just that they don’t seem to think that science has anything to do
+00:00:45,060 --> 00:00:47,340
+and maybe linking it to their state of health.
 
 16
-00:00:23,251 --> 00:00:24,131
-with their lives.
+00:00:47,340 --> 00:00:54,570
+Jake: Mmm. Let's think. So your methodology would involve the children recording what they eat.
 
 17
-00:00:24,131 --> 00:00:25,010
-It’s depressing.
+00:00:54,570 --> 00:01:00,345
+Jake: OK, but you'd also need to have access to the children's medical records
 
 18
-00:00:25,010 --> 00:00:25,285
-Clare:
+00:01:00,345 --> 00:01:03,020
+and I don't think people would be happy about that
 
 19
-00:00:25,285 --> 00:00:26,935
-They listen to what I say,
-
-20
-00:00:26,935 --> 00:00:30,785
-and I gave them a test last week and the results weren’t too
-
-21
-00:00:30,785 --> 00:00:31,060
-bad,
-
-22
-00:00:31,060 --> 00:00:32,710
-but there’s no real engagement.
-
-23
-00:00:32,710 --> 00:00:33,410
-Jake:
-
-24
-00:00:33,410 --> 00:00:34,110
-Right.
-
-25
-00:00:34,110 --> 00:00:34,416
-Clare:
-
-26
-00:00:34,416 --> 00:00:38,693
-And as part of my teaching practice, I have to design an experiment for
-
-27
-00:00:38,693 --> 00:00:39,610
-them to do.
-
-28
-00:00:39,610 --> 00:00:39,877
-Clare:
-
-29
-00:00:39,877 --> 00:00:42,542
-I was wondering about something on the children’s diets .
-
-30
-00:00:42,542 --> 00:00:42,592
-.
-
-31
-00:00:42,592 --> 00:00:42,642
-.
-
-32
-00:00:42,642 --> 00:00:46,274
-you know, asking them to record what they eat and maybe linking it to
-
-33
-00:00:46,274 --> 00:00:47,340
-their state of health.
-
-34
-00:00:47,340 --> 00:00:47,792
-Jake:
-
-35
-00:00:47,792 --> 00:00:48,244
-Mmm.
-
-36
-00:00:48,244 --> 00:00:49,599
-Let’s think.
-
-37
-00:00:49,599 --> 00:00:54,570
-So your methodology would involve the children recording what they eat.
-
-38
-00:00:54,570 --> 00:00:54,931
-Jake:
-
-39
-00:00:54,931 --> 00:00:55,292
-OK,
-
-40
-00:00:55,292 --> 00:01:00,345
-but you’d also need to have access to the children’s medical records
-
-41
-00:01:00,345 --> 00:01:04,315
-and I don’t think people would be happy about that;
-
-42
-00:01:04,315 --> 00:01:06,120
+00:01:03,600 --> 00:01:06,120
 confidentiality would be an issue.
 
+20
+00:01:06,120 --> 00:01:08,645
+Jake: If you could get the right data,
+
+21
+00:01:08,645 --> 00:01:13,380
+the conclusions might be significant, but I suspect it's not going to be easy.
+
+22
+00:01:13,380 --> 00:01:13,930
+Clare: Right.
+
+23
+00:01:13,930 --> 00:01:17,660
+Jake: Have you thought about doing an experiment using animals?
+
+24
+00:01:17,660 --> 00:01:20,240
+Clare: Wouldn't that be upsetting for the children?
+
+25
+00:01:20,240 --> 00:01:24,304
+Jake: Well, the animals don't have to be harmed in any way.
+
+26
+00:01:24,304 --> 00:01:25,720
+It could just be an experiment
+
+27
+00:01:25,720 --> 00:01:29,930
+where they're given a certain diet and the effects are observed.
+
+28
+00:01:29,930 --> 00:01:32,690
+Clare: Would I have to get permission to use animals?
+
+29
+00:01:32,690 --> 00:01:38,833
+Jake: Yes, you'd have to submit an outline of the experiment and fill in a form,
+
+30
+00:01:38,833 --> 00:01:40,640
+but it's quite straightforward.
+
+31
+00:01:40,640 --> 00:01:42,540
+Clare: But if we found out that, say
+
+32
+00:01:42,800 --> 00:01:45,457
+a particular diet affects the health of animals,
+
+33
+00:01:45,457 --> 00:01:49,070
+the same thing wouldn't necessarily be true for people, would it?
+
+34
+00:01:49,070 --> 00:01:55,380
+Jake: No that's true, but the findings for any experiment are going to be limited. It's inevitable.
+
+35
+00:01:55,380 --> 00:02:02,860
+Clare: I suppose so. So what animals could I use to investigate the effects of diet? Mice?
+
+36
+00:02:02,860 --> 00:02:05,980
+Jake: Yes. You'd need experimental mice
+
+37
+00:02:06,500 --> 00:02:09,240
+ones that have been specially bred for experiments.
+
+38
+00:02:09,240 --> 00:02:14,010
+Jake: OK, so what will your experiment be investigating exactly?
+
+39
+00:02:14,010 --> 00:02:16,720
+Clare: Well, something to do with nutrition
+
+40
+00:02:16,940 --> 00:02:19,716
+So maybe we could look at food supplements.
+
+41
+00:02:19,716 --> 00:02:24,280
+things like extra iron and extra protein, and their impact on health.
+
+42
+00:02:24,280 --> 00:02:26,978
+Jake: Mmm. That might be rather broad.
+
 43
-00:01:06,120 --> 00:01:06,436
-Jake:
+00:02:26,978 --> 00:02:30,700
+Maybe just look at the effects of one supplement
 
 44
-00:01:06,436 --> 00:01:10,223
-If you could get the right data, the conclusions might be significant,
+00:02:30,700 --> 00:02:33,530
+like sugar, on the health of the mice?
 
 45
-00:01:10,223 --> 00:01:13,380
-but I suspect it’s not going to be easy.
+00:02:33,530 --> 00:02:36,540
+Clare: In fact, maybe the focus could be on
 
 46
-00:01:13,380 --> 00:01:13,655
-Clare:
+00:02:36,540 --> 00:02:38,960
+whether mice can control their own diet....
 
 47
-00:01:13,655 --> 00:01:13,930
-Right.
+00:02:38,960 --> 00:02:42,060
+Jake: So, what happens when they have access to more sugar
 
 48
-00:01:13,930 --> 00:01:14,303
-Jake:
+00:02:42,060 --> 00:02:43,730
+that they don't really need?
 
 49
-00:01:14,303 --> 00:01:17,660
-Have you thought about doing an experiment using animals?
+00:02:43,730 --> 00:02:47,890
+Clare: Exactly. Do they eat it or do they decide to leave it?
 
 50
-00:01:17,660 --> 00:01:17,947
-Clare:
+00:02:47,890 --> 00:02:54,150
+Jake: Great. Then later on, you could do a follow-up experiment adding another variable.
 
 51
-00:01:17,947 --> 00:01:20,240
-Wouldn’t that be upsetting for the children?
+00:02:54,150 --> 00:02:58,800
+Jake: Like, you could give some of the mice the chance to be more active,
 
 52
-00:01:20,240 --> 00:01:20,553
-Jake:
+00:02:58,800 --> 00:03:04,070
+running on a wheel or something, and the others just sit around and don't do much.
 
 53
-00:01:20,553 --> 00:01:24,304
-Well, the animals don’t have to be harmed in any way.
+00:03:04,070 --> 00:03:09,737
+Clare: Or I could repeat the experiment but change the type of food I provided.
 
 54
-00:01:24,304 --> 00:01:28,367
-It could just be an experiment where they’re given a certain diet
-
-55
-00:01:28,367 --> 00:01:29,930
-and the effects are observed.
-
-56
-00:01:29,930 --> 00:01:30,206
-Clare:
-
-57
-00:01:30,206 --> 00:01:32,690
-Would I have to get permission to use animals?
-
-58
-00:01:32,690 --> 00:01:33,051
-Jake:
-
-59
-00:01:33,051 --> 00:01:37,026
-Yes, you’d have to submit an outline of the experiment
-
-60
-00:01:37,026 --> 00:01:38,833
-and fill in a form,
-
-61
-00:01:38,833 --> 00:01:40,640
-but it’s quite straightforward.
-
-62
-00:01:40,640 --> 00:01:40,941
-Clare:
-
-63
-00:01:40,941 --> 00:01:45,156
-But if we found out that, say, a particular diet affects the health of
-
-64
-00:01:45,156 --> 00:01:49,070
-animals, the same thing wouldn’t necessarily be true for people, would it?
-
-65
-00:01:49,070 --> 00:01:49,402
-Jake:
-
-66
-00:01:49,402 --> 00:01:50,731
-No that’s true,
-
-67
-00:01:50,731 --> 00:01:54,384
-but the findings for any experiment are going to be limited.
-
-68
-00:01:54,384 --> 00:01:55,380
-It’s inevitable.
-
-69
-00:01:55,380 --> 00:01:55,820
-Clare:
-
-70
-00:01:55,820 --> 00:01:57,140
-I suppose so.
-
-71
-00:01:57,140 --> 00:02:02,420
-So what animals could I use to investigate the effects of diet?
-
-72
-00:02:02,420 --> 00:02:02,860
-Mice?
-
-73
-00:02:02,860 --> 00:02:03,285
-Jake:
-
-74
-00:02:03,285 --> 00:02:03,711
-Yes.
-
-75
-00:02:03,711 --> 00:02:09,240
-You’d need experimental mice – ones that have been specially bred for experiments.
-
-76
-00:02:09,240 --> 00:02:09,717
-Jake:
-
-77
-00:02:09,717 --> 00:02:10,194
-OK,
-
-78
-00:02:10,194 --> 00:02:14,010
-so what will your experiment be investigating exactly?
-
-79
-00:02:14,010 --> 00:02:14,390
-Clare:
-
-80
-00:02:14,390 --> 00:02:16,673
-Well, something to do with nutrition.
-
-81
-00:02:16,673 --> 00:02:19,716
-So maybe we could look at food supplements .
-
-82
-00:02:19,716 --> 00:02:19,766
-.
-
-83
-00:02:19,766 --> 00:02:19,816
-.
-
-84
-00:02:19,816 --> 00:02:22,378
-things like extra iron and extra protein,
-
-85
-00:02:22,378 --> 00:02:24,280
-and their impact on health.
-
-86
-00:02:24,280 --> 00:02:24,665
-Jake:
-
-87
-00:02:24,665 --> 00:02:25,051
-Mmm.
-
-88
-00:02:25,051 --> 00:02:26,978
-That might be rather broad.
-
-89
-00:02:26,978 --> 00:02:32,374
-Maybe just look at the effects of one supplement, like sugar, on the health
-
-90
-00:02:32,374 --> 00:02:33,530
-of the mice?
-
-91
-00:02:33,530 --> 00:02:33,869
-Clare:
-
-92
-00:02:33,869 --> 00:02:38,621
-In fact, maybe the focus could be on whether mice can control their own
-
-93
-00:02:38,621 --> 00:02:38,960
-diet.
-
-94
-00:02:38,960 --> 00:02:39,010
-.
-
-95
-00:02:39,010 --> 00:02:39,060
-.
-
-96
-00:02:39,060 --> 00:02:39,110
-.
-
-97
-00:02:39,110 --> 00:02:39,241
-Jake:
-
-98
-00:02:39,241 --> 00:02:42,046
-So, what happens when they have access to more sugar,
-
-99
-00:02:42,046 --> 00:02:43,730
-that they don’t really need?
-
-100
-00:02:43,730 --> 00:02:44,050
-Clare:
-
-101
-00:02:44,050 --> 00:02:44,370
-Exactly.
-
-102
-00:02:44,370 --> 00:02:47,890
-Do they eat it or do they decide to leave it?
-
-103
-00:02:47,890 --> 00:02:48,337
-Jake:
-
-104
-00:02:48,337 --> 00:02:48,784
-Great.
-
-105
-00:02:48,784 --> 00:02:54,150
-Then later on, you could do a follow-up experiment adding another variable.
-
-106
-00:02:54,150 --> 00:02:54,460
-Jake:
-
-107
-00:02:54,460 --> 00:03:00,040
-Like, you could give some of the mice the chance to be more active, running on a wheel
-
-108
-00:03:00,040 --> 00:03:00,660
-or something,
-
-109
-00:03:00,660 --> 00:03:04,070
-and the others just sit around and don’t do much.
-
-110
-00:03:04,070 --> 00:03:04,448
-Clare:
-
-111
-00:03:04,448 --> 00:03:09,737
-Or I could repeat the experiment but change the type of food I provided .
-
-112
-00:03:09,737 --> 00:03:09,787
-.
-
-113
-00:03:09,787 --> 00:03:09,837
-.
-
-114
-00:03:09,837 --> 00:03:12,760
+00:03:09,737 --> 00:03:12,760
 or use mice with a different genetic structure.
 
-115
-00:03:12,760 --> 00:03:13,159
-Clare:
+55
+00:03:12,760 --> 00:03:15,520
+Clare: But I think your idea would be more interesting
 
-116
-00:03:13,159 --> 00:03:18,751
-But I think your idea would be more interesting, I might think about that
+56
+00:03:16,160 --> 00:03:19,550
+I might think about that some more.
 
-117
-00:03:18,751 --> 00:03:19,550
-some more.
+57
+00:03:19,550 --> 00:03:22,140
+Clare: So can I talk through a possible procedure for the experiment
 
-118
-00:03:19,550 --> 00:03:19,818
-Clare:
+58
+00:03:22,140 --> 00:03:24,640
+where mice are given a sugar supplement?
 
-119
-00:03:19,818 --> 00:03:23,568
-So can I talk through a possible procedure for the experiment where mice are
+59
+00:03:24,640 --> 00:03:28,110
+Jake: Sure. I did a similar experiment in college actually.
 
-120
-00:03:23,568 --> 00:03:24,640
-given a sugar supplement?
+60
+00:03:28,110 --> 00:03:31,650
+Clare: Great. So how many mice would I need?
 
-121
-00:03:24,640 --> 00:03:24,987
-Jake:
+61
+00:03:31,650 --> 00:03:37,630
+Jake: I'd say about 12. And all young ones, not a mixture of old and young.
 
-122
-00:03:24,987 --> 00:03:25,334
-Sure.
+62
+00:03:37,630 --> 00:03:44,220
+Clare: OK. And I'd need two groups of equal sizes, so six in each group
 
-123
-00:03:25,334 --> 00:03:28,110
-I did a similar experiment in college actually.
-
-124
-00:03:28,110 --> 00:03:28,503
-Clare:
-
-125
-00:03:28,503 --> 00:03:28,897
-Great.
-
-126
-00:03:28,897 --> 00:03:31,650
-So how many mice would I need?
-
-127
-00:03:31,650 --> 00:03:32,002
-Jake:
-
-128
-00:03:32,002 --> 00:03:33,761
-I’d say about 12.
-
-129
-00:03:33,761 --> 00:03:37,630
-And all young ones, not a mixture of old and young.
-
-130
-00:03:37,630 --> 00:03:38,033
-Clare:
-
-131
-00:03:38,033 --> 00:03:38,437
-OK.
-
-132
-00:03:38,437 --> 00:03:42,068
-And I’d need two groups of equal sizes,
-
-133
-00:03:42,068 --> 00:03:44,086
-so six in each group.
-
-134
-00:03:44,086 --> 00:03:46,910
+63
+00:03:44,560 --> 00:03:46,910
 And how would I tell them apart?
 
-135
-00:03:46,910 --> 00:03:47,228
-Clare:
+64
+00:03:46,910 --> 00:03:50,860
+Clare: I suppose I could put some sort of tag on one group
 
-136
-00:03:47,228 --> 00:03:51,050
-I suppose I could put some sort of tag on one group .
-
-137
-00:03:51,050 --> 00:03:51,100
-.
-
-138
-00:03:51,100 --> 00:03:51,151
-.
-
-139
-00:03:51,151 --> 00:03:53,280
+65
+00:03:50,860 --> 00:03:53,280
 or just mark them in some way?
 
-140
-00:03:53,280 --> 00:03:53,542
-Jake:
+66
+00:03:53,280 --> 00:03:56,160
+Jake: You could use food colouring, that wouldn't hurt them.
 
-141
-00:03:53,542 --> 00:03:54,851
-You could use food colouring,
+67
+00:03:56,160 --> 00:04:00,270
+Clare: Perfect. Then each group would go into a separate cage,
 
-142
-00:03:54,851 --> 00:03:56,160
-that wouldn’t hurt them.
-
-143
-00:03:56,160 --> 00:03:56,534
-Clare:
-
-144
-00:03:56,534 --> 00:03:56,907
-Perfect.
-
-145
-00:03:56,907 --> 00:04:00,270
-Then each group would go into a separate cage,
-
-146
+68
 00:04:00,270 --> 00:04:05,500
-and one group, let’s call them group A, would be the control group.
+and one group, let's call them group A, would be the control group.
 
-147
-00:04:05,500 --> 00:04:05,782
-Clare:
+69
+00:04:05,500 --> 00:04:09,730
+Clare: So they'd just have ordinary mouse food. I suppose you can buy that?
 
-148
-00:04:05,782 --> 00:04:08,038
-So they’d just have ordinary mouse food.
+70
+00:04:09,730 --> 00:04:12,110
+Jake: Yes, it comes in dry pellets.
 
-149
-00:04:08,038 --> 00:04:09,730
-I suppose you can buy that?
+71
+00:04:12,110 --> 00:04:14,980
+Clare: And the other group would have the same as the first group
 
-150
-00:04:09,730 --> 00:04:10,070
-Jake:
+72
+00:04:14,980 --> 00:04:17,520
+but they'd also have the extra sugar.
 
-151
-00:04:10,070 --> 00:04:12,110
-Yes, it comes in dry pellets.
+73
+00:04:17,520 --> 00:04:19,860
+Jake: Would you just give them straight sugar?
 
-152
-00:04:12,110 --> 00:04:12,368
-Clare:
+74
+00:04:19,860 --> 00:04:23,140
+Clare: It might be better to give them something like cereal with it.
 
-153
-00:04:12,368 --> 00:04:15,459
-And the other group would have the same as the first group,
+75
+00:04:23,140 --> 00:04:28,608
+Jake: Mmm. Then you'd need to weigh the mice, I should think once a week.
 
-154
-00:04:15,459 --> 00:04:17,520
-but they’d also have the extra sugar.
-
-155
-00:04:17,520 --> 00:04:17,812
-Jake:
-
-156
-00:04:17,812 --> 00:04:19,860
-Would you just give them straight sugar?
-
-157
-00:04:19,860 --> 00:04:20,112
-Clare:
-
-158
-00:04:20,112 --> 00:04:23,140
-It might be better to give them something like cereal with it.
-
-159
-00:04:23,140 --> 00:04:23,482
-Jake:
-
-160
-00:04:23,482 --> 00:04:23,823
-Mmm.
-
-161
-00:04:23,823 --> 00:04:28,608
-Then you’d need to weigh the mice, I should think once a week.
-
-162
+76
 00:04:28,608 --> 00:04:31,000
-And you’d need an electronic balance.
+And you'd need an electronic balance.
 
-163
-00:04:31,000 --> 00:04:31,251
-Clare:
+77
+00:04:31,000 --> 00:04:35,010
+Clare: But we can't hold them on the balance, or it'd affect the reading.
 
-164
-00:04:31,251 --> 00:04:33,506
-But we can’t hold them on the balance,
+78
+00:04:35,010 --> 00:04:41,530
+Jake: Exactly. So you need something called a weighing chamber to stop the mice from running away.
 
-165
-00:04:33,506 --> 00:04:35,010
-or it’d affect the reading.
+79
+00:04:41,530 --> 00:04:47,690
+Jake: It sounds complicated, but actually you can just use a plastic box with holes in the top.
 
-166
-00:04:35,010 --> 00:04:35,394
-Jake:
+80
+00:04:47,690 --> 00:04:55,247
+Clare: OK. So once we've measured the weight gain of each mouse we can work out the average for each group,
 
-167
-00:04:35,394 --> 00:04:35,777
-Exactly.
+81
+00:04:55,247 --> 00:04:57,307
+as well as the standard deviation.
 
-168
-00:04:35,777 --> 00:04:41,146
-So you need something called a weighing chamber to stop the mice from running
+82
+00:04:57,307 --> 00:05:01,060
+And then see where we go from there. That sounds cool
 
-169
-00:04:41,146 --> 00:04:41,530
-away.
+83
+00:05:01,620 --> 00:05:03,490
+I think the students will enjoy it.
 
-170
-00:04:41,530 --> 00:04:41,872
-Jake:
-
-171
-00:04:41,872 --> 00:04:42,899
-It sounds complicated,
-
-172
-00:04:42,899 --> 00:04:47,690
-but actually you can just use a plastic box with holes in the top.
-
-173
-00:04:47,690 --> 00:04:48,033
-Clare:
-
-174
-00:04:48,033 --> 00:04:48,377
-OK.
-
-175
-00:04:48,377 --> 00:04:53,529
-So once we’ve measured the weight gain of each mouse we can work out
-
-176
-00:04:53,529 --> 00:04:57,307
-the average for each group, as well as the standard deviation.
-
-177
-00:04:57,307 --> 00:05:00,055
-And then see where we go from there.
-
-178
-00:05:00,055 --> 00:05:03,490
-That sounds cool, I think the students will enjoy it.
-
-179
-00:05:03,490 --> 00:05:03,861
-Jake:
-
-180
-00:05:03,861 --> 00:05:04,233
-Yes.
-
-181
-00:05:04,233 --> 00:05:06,090
-One thing you must remember .
-
-182
-00:05:06,090 --> 00:05:06,140
-.
-
-183
-00:05:06,140 --> 00:05:06,190
-.
+84
+00:05:03,490 --> 00:05:06,090
+Jake: Yes. One thing you must remember...

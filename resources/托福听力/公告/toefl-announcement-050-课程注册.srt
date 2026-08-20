@@ -3,37 +3,29 @@
 Listen to an announcement in a classroom.
 
 2
-00:00:03,240 --> 00:00:05,292
-W:
+00:00:03,240 --> 00:00:10,120
+W: As you know, this is the final course required for your business degree.
 
 3
-00:00:05,292 --> 00:00:10,120
-As you know, this is the final course required for your business degree.
-
-4
 00:00:10,120 --> 00:00:14,070
 The course will operate as an independent study.
 
-5
+4
 00:00:14,070 --> 00:00:18,200
 You will each select an area of focus that interests you.
 
-6
+5
 00:00:18,200 --> 00:00:22,010
 Some examples are available on my website.
 
+6
+00:00:22,010 --> 00:00:30,170
+Then every week you'll be required to submit short essays that respond to questions I give you on this topic.
+
 7
-00:00:22,010 --> 00:00:28,522
-Then every week you'll be required to submit short essays that respond to questions
-
-8
-00:00:28,522 --> 00:00:30,170
-I give you on this topic.
-
-9
-00:00:30,170 --> 00:00:34,788
+00:00:30,170 --> 00:00:35,587
 You'll need to refer to what you've learned in your other business courses
 
-10
-00:00:34,788 --> 00:00:40,170
+8
+00:00:35,587 --> 00:00:40,170
 so you can cite theories or strategies that support your responses.

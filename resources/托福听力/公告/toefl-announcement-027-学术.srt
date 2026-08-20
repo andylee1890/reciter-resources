@@ -3,37 +3,25 @@
 Listen to an announcement in a classroom.
 
 2
-00:00:02,160 --> 00:00:03,187
-Man:
+00:00:02,160 --> 00:00:08,080
+Man: Before we get started, don't forget that the first draft of your research paper is due on Monday.
 
 3
-00:00:03,187 --> 00:00:06,993
-Before we get started, don't forget that the first draft of your research paper
+00:00:08,080 --> 00:00:11,020
+This draft should include your thesis statement
 
 4
-00:00:06,993 --> 00:00:08,080
-is due on Monday.
+00:00:11,220 --> 00:00:14,080
+main arguments, and a preliminary list of sources.
 
 5
-00:00:08,080 --> 00:00:12,026
-This draft should include your thesis statement, main arguments,
+00:00:14,080 --> 00:00:18,180
+It's only a draft, so it's okay if it's not perfect.
 
 6
-00:00:12,026 --> 00:00:14,080
-and a preliminary list of sources.
-
-7
-00:00:14,080 --> 00:00:16,100
-It's only a draft,
-
-8
-00:00:16,100 --> 00:00:18,180
-so it's okay if it's not perfect.
-
-9
 00:00:18,180 --> 00:00:21,280
 The goal is to get feedback and refine your ideas.
 
-10
+7
 00:00:21,280 --> 00:00:27,240
 Please submit your draft electronically via the course portal by midnight on Monday.

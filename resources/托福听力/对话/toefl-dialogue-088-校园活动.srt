@@ -1,55 +1,19 @@
 1
-00:00:00,000 --> 00:00:01,105
-Man:
+00:00:00,000 --> 00:00:07,130
+Man: Are you interested in going to the book fair this Saturday?
 
 2
-00:00:01,105 --> 00:00:07,130
-Are you interested in going to the book fair this Saturday?
+00:00:07,130 --> 00:00:12,230
+Woman: Absolutely, I love discovering new authors. What time does it start?
 
 3
-00:00:07,130 --> 00:00:07,916
-Woman:
+00:00:12,230 --> 00:00:21,180
+Man: It starts at 10 AM and goes until 4 PM. There will be author readings and book signings.
 
 4
-00:00:07,916 --> 00:00:10,638
-Absolutely, I love discovering new authors.
+00:00:21,180 --> 00:00:25,020
+Woman: Sounds perfect. I'll bring my list of favorite authors.
 
 5
-00:00:10,638 --> 00:00:12,230
-What time does it start?
-
-6
-00:00:12,230 --> 00:00:12,280
-Man:
-
-7
-00:00:12,280 --> 00:00:17,412
-It starts at 10 AM and goes until 4 PM.
-
-8
-00:00:17,412 --> 00:00:21,180
-There will be author readings and book signings.
-
-9
-00:00:21,180 --> 00:00:21,564
-Woman:
-
-10
-00:00:21,564 --> 00:00:22,332
-Sounds perfect.
-
-11
-00:00:22,332 --> 00:00:25,020
-I'll bring my list of favorite authors.
-
-12
-00:00:25,020 --> 00:00:25,323
-Man:
-
-13
-00:00:25,323 --> 00:00:25,626
-Great!
-
-14
-00:00:25,626 --> 00:00:28,050
-Let's meet up at the entrance at ten.
+00:00:25,020 --> 00:00:28,050
+Man: Great! Let's meet up at the entrance at ten.

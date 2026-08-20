@@ -3,293 +3,249 @@
 We've been discussing the factors the architect has to consider when designing domestic buildings.
 
 2
-00:00:08,120 --> 00:00:13,240
+00:00:08,120 --> 00:00:13,355
 I'm going to move on now to consider the design of public buildings,
 
 3
-00:00:13,240 --> 00:00:19,523
-and I'll illustrate this by referring to the new Taylor Concert Hall that's recently
+00:00:13,355 --> 00:00:21,410
+and I'll illustrate this by referring to the new Taylor Concert Hall that's recently been completed here in the city.
 
 4
-00:00:19,523 --> 00:00:21,410
-been completed here in the city.
-
-5
-00:00:21,410 --> 00:00:25,061
+00:00:21,410 --> 00:00:24,400
 So, as with a domestic building,
 
+5
+00:00:24,400 --> 00:00:27,280
+when designing a public building
+
 6
-00:00:25,061 --> 00:00:30,999
-when designing a public building, an architect needs to consider the function of the
+00:00:27,720 --> 00:00:32,873
+an architect needs to consider the function of the building for example,
 
 7
-00:00:30,999 --> 00:00:31,420
-building
+00:00:32,873 --> 00:00:36,200
+is it to be used primarily for entertainment
 
 8
-00:00:31,420 --> 00:00:36,177
-for example, is it to be used primarily for entertainment,
+00:00:36,580 --> 00:00:39,850
+or for education, or for administration?
 
 9
-00:00:36,177 --> 00:00:38,064
-or for education,
+00:00:39,850 --> 00:00:46,165
+The second thing the architect needs to think about is the context of the building,
 
 10
-00:00:38,064 --> 00:00:39,850
-or for administration?
-
-11
-00:00:39,850 --> 00:00:45,658
-The second thing the architect needs to think about is the context of the
-
-12
-00:00:45,658 --> 00:00:46,160
-building,
-
-13
-00:00:46,160 --> 00:00:49,799
+00:00:46,165 --> 00:00:48,691
 this includes its physical location, obviously,
 
+11
+00:00:48,691 --> 00:00:56,690
+but it also includes the social meaning of the building, how it relates to the people it's built for.
+
+12
+00:00:56,690 --> 00:00:59,527
+And finally, for an important public building,
+
+13
+00:00:59,527 --> 00:01:04,080
+the architect may also be looking for a central
+
 14
-00:00:49,799 --> 00:00:53,800
-but it also includes the social meaning of the building,
+00:01:04,280 --> 00:01:06,011
+symbolic idea on which to base the design,
 
 15
-00:00:53,800 --> 00:00:56,690
-how it relates to the people it's built for.
+00:01:06,011 --> 00:01:12,090
+a sort of metaphor for the building and the way in which it is used.
 
 16
-00:00:56,690 --> 00:01:03,255
-And finally, for an important public buildings, the architect may also be looking for
-
-17
-00:01:03,255 --> 00:01:07,370
-a centralsymbolic idea on which to base the design,
-
-18
-00:01:07,370 --> 00:01:11,445
-a sort of metaphor for the building and the way in which it is
-
-19
-00:01:11,445 --> 00:01:12,090
-used.
-
-20
 00:01:12,090 --> 00:01:17,660
 Let's look at the new Taylor Concert Hall in relation to these ideas.
 
-21
-00:01:17,660 --> 00:01:23,422
-The location chosen was a site in a run-down district that has been ignored
+17
+00:01:17,660 --> 00:01:25,370
+The location chosen was a site in a run-down district that has been ignored in previous redevelopment plans.
 
-22
-00:01:23,422 --> 00:01:25,370
-in previous redevelopment plans.
-
-23
+18
 00:01:25,370 --> 00:01:29,760
 It was occupied by a factory that had been empty for some years.
 
-24
-00:01:29,760 --> 00:01:36,506
+19
+00:01:29,760 --> 00:01:35,934
 The whole area was some distance from the high-rise office blocks of the central business district
 
-25
-00:01:36,506 --> 00:01:37,650
-and shopping centre,
+20
+00:01:35,934 --> 00:01:40,950
+and shopping centre, but it was only one kilometre from the ring road.
 
-26
-00:01:37,650 --> 00:01:40,950
-but it was only one kilometre from the ring road.
+21
+00:01:40,950 --> 00:01:44,789
+The site itself was bordered to the north by a canal
 
-27
-00:01:40,950 --> 00:01:45,930
-The site itself was bordered to the north by a canal which had once
+22
+00:01:44,789 --> 00:01:48,640
+which had once been used by boats bringing in raw materials
 
-28
-00:01:45,930 --> 00:01:50,227
-been used by boats bringing in raw materials when the area was used for
+23
+00:01:48,640 --> 00:01:51,070
+when the area was used for manufacturing.
 
-29
-00:01:50,227 --> 00:01:51,070
-manufacturing.
-
-30
+24
 00:01:51,070 --> 00:01:56,220
 The architect chosen for the project was Tom Harrison.
 
-31
-00:01:56,220 --> 00:02:01,257
-He found the main design challenge was the location of the site in an
+25
+00:01:56,220 --> 00:02:04,950
+He found the main design challenge was the location of the site in an area that had no neighbouring buildings of any importance.
 
-32
-00:02:01,257 --> 00:02:04,950
-area that had no neighbouring buildings of any importance.
+26
+00:02:04,950 --> 00:02:12,277
+To reflect the fact that the significance of the building in this quite run-down location was as
 
-33
-00:02:04,950 --> 00:02:10,230
-To reflect the fact that the significance of the building in this quite run-down
+27
+00:02:12,277 --> 00:02:18,742
+yet unknown, he decided to create a building centred around the idea of a mystery -
 
-34
-00:02:10,230 --> 00:02:12,820
-location was as yet unknown,
-
-35
-00:02:12,820 --> 00:02:18,518
-he decided to create a building centred around the idea of a mystery -
-
-36
-00:02:18,518 --> 00:02:22,190
+28
+00:02:18,742 --> 00:02:22,190
 something whose meaning still has to be discovered.
 
-37
+29
 00:02:22,190 --> 00:02:27,020
 So how was this reflected in the design of the building?
 
-38
-00:02:27,020 --> 00:02:32,384
+30
+00:02:27,020 --> 00:02:31,129
 Well, Harrison decided to create pedestrian access to the building
 
-39
-00:02:32,384 --> 00:02:36,060
+31
+00:02:31,129 --> 00:02:36,060
 and to make use of the presence of water on the site.
 
-40
+32
 00:02:36,060 --> 00:02:41,520
 As people approach the entrance, they therefore have to cross over a bridge.
 
+33
+00:02:41,520 --> 00:02:48,513
+He wanted to give people a feeling of suspense as they see the building first from a distance, and then close-up,
+
+34
+00:02:48,513 --> 00:02:55,840
+and the initial impression he wanted to create from the shape of the building as a whole was that of a box.
+
+35
+00:02:55,840 --> 00:02:59,800
+The first side that people see, the southern wall
+
+36
+00:02:59,940 --> 00:03:04,440
+is just a high, flat wall uninterrupted by any windows.
+
+37
+00:03:04,440 --> 00:03:12,390
+This might sound off-putting, but it supports Harrison's concept of the building that the person approaching is intrigued
+
+38
+00:03:12,390 --> 00:03:15,040
+and wonders what will be inside.
+
+39
+00:03:15,040 --> 00:03:19,775
+And this flat wall also has another purpose. At night-time,
+
+40
+00:03:19,775 --> 00:03:25,060
+projectors are switched on and it functions as a huge screen
+
 41
-00:02:41,520 --> 00:02:46,500
-He wanted to give people a feeling of suspense as they see the building
+00:03:25,060 --> 00:03:27,350
+onto which images are projected.
 
 42
-00:02:46,500 --> 00:02:47,825
-first from a distance,
-
-43
-00:02:47,825 --> 00:02:49,010
-and then close-up,
-
-44
-00:02:49,010 --> 00:02:53,570
-and the initial impression he wanted to create from the shape of the building
-
-45
-00:02:53,570 --> 00:02:55,840
-as a whole was that of a box.
-
-46
-00:02:55,840 --> 00:03:01,747
-The first side that people see, the southern wall, is just a high, flat
-
-47
-00:03:01,747 --> 00:03:04,440
-wall uninterrupted by any windows.
-
-48
-00:03:04,440 --> 00:03:06,752
-This might sound off-putting,
-
-49
-00:03:06,752 --> 00:03:10,050
-but it supports Harrison's concept of the building
-
-50
-00:03:10,050 --> 00:03:15,040
-that the person approaching is intrigued and wonders what will be inside.
-
-51
-00:03:15,040 --> 00:03:18,970
-And this flat wall also has another purpose.
-
-52
-00:03:18,970 --> 00:03:25,456
-At night-time, projectors are switched on and it functions as a huge screen, onto
-
-53
-00:03:25,456 --> 00:03:27,350
-which images are projected.
-
-54
 00:03:27,350 --> 00:03:35,510
 The auditorium itself seats 1500 people.
 
-55
+43
 00:03:35,510 --> 00:03:39,340
 The floor's supported by ten massive pads.
 
-56
+44
 00:03:39,340 --> 00:03:41,367
 These are constructed from rubber,
 
-57
-00:03:41,367 --> 00:03:45,422
+45
+00:03:41,367 --> 00:03:45,380
 and so are able to absorb any vibrations from outside
 
-58
-00:03:45,422 --> 00:03:48,260
+46
+00:03:45,380 --> 00:03:48,260
 and prevent them from affecting the auditorium.
 
-59
-00:03:48,260 --> 00:03:54,359
-The walls are made of several layers of honey-coloured wood, all sourced from local
+47
+00:03:48,260 --> 00:03:52,760
+The walls are made of several layers of honey-coloured wood
 
-60
-00:03:54,359 --> 00:03:55,230
-beech trees.
+48
+00:03:52,960 --> 00:03:55,230
+all sourced from local beech trees.
 
-61
-00:03:55,230 --> 00:03:59,339
+49
+00:03:55,230 --> 00:03:59,420
 In order to improve the acoustic properties of the auditorium
 
-62
-00:03:59,339 --> 00:04:04,270
-and to amplify the sound, they are not straight, they are curved.
+50
+00:03:59,420 --> 00:04:01,394
+and to amplify the sound,
 
-63
-00:04:04,270 --> 00:04:08,578
+51
+00:04:01,394 --> 00:04:04,270
+they are not straight, they are curved.
+
+52
+00:04:04,270 --> 00:04:09,180
 The acoustics are also adjustable according to the size of orchestra
 
-64
-00:04:08,578 --> 00:04:11,320
+53
+00:04:09,180 --> 00:04:11,320
 and the type of music being played.
 
-65
-00:04:11,320 --> 00:04:17,200
-In order to achieve this, there are nine movable panels in the ceiling above
+54
+00:04:11,320 --> 00:04:13,386
+In order to achieve this,
 
-66
-00:04:17,200 --> 00:04:20,140
-the orchestra which are all individually motorized,
+55
+00:04:13,386 --> 00:04:17,540
+there are nine movable panels in the ceiling above the orchestra
 
-67
-00:04:20,140 --> 00:04:24,184
-and the walls also have curtains which can be opened
+56
+00:04:17,540 --> 00:04:19,998
+which are all individually motorized,
 
-68
-00:04:24,184 --> 00:04:26,610
-or closed to change the acoustics.
+57
+00:04:19,998 --> 00:04:22,720
+and the walls also have curtains
 
-69
+58
+00:04:22,720 --> 00:04:26,610
+which can be opened or closed to change the acoustics.
+
+59
 00:04:26,610 --> 00:04:32,270
 The reaction of the public to the new building has generally been positive.
 
-70
+60
 00:04:32,270 --> 00:04:37,800
 However, the evaluation of some critics has been less enthusiastic.
 
-71
-00:04:37,800 --> 00:04:43,917
-In spite of Harrison s efforts to use local materials, they criticise the style
+61
+00:04:37,800 --> 00:04:42,210
+In spite of Harrison's efforts to use local materials,
 
-72
-00:04:43,917 --> 00:04:47,850
-of the design as being international rather than local,
+62
+00:04:42,210 --> 00:04:47,944
+they criticise the style of the design as being international rather than local,
 
-73
-00:04:47,850 --> 00:04:54,106
-and say it doesn't reflect features of the landscape or society for which it
-
-74
-00:04:54,106 --> 00:04:55,000
-is built.
+63
+00:04:47,944 --> 00:04:55,000
+and say it doesn't reflect features of the landscape or society for which it is built.

@@ -1,59 +1,19 @@
 1
-00:00:00,000 --> 00:00:00,866
-Man:
+00:00:00,000 --> 00:00:06,080
+Man: Are you going to the book club meeting tonight?
 
 2
-00:00:00,866 --> 00:00:06,080
-Are you going to the book club meeting tonight?
+00:00:06,080 --> 00:00:10,150
+Woman: Yes, I am. I just finished reading the book we're discussing.
 
 3
-00:00:06,080 --> 00:00:06,825
-Woman:
+00:00:10,150 --> 00:00:12,160
+Man: Great. What did you think of it?
 
 4
-00:00:06,825 --> 00:00:07,450
-Yes, I am.
+00:00:12,160 --> 00:00:16,250
+Woman: I loved it. The characters were so well developed. I felt I knew them.
 
 5
-00:00:07,450 --> 00:00:10,150
-I just finished reading the book we're discussing.
-
-6
-00:00:10,150 --> 00:00:10,200
-Man:
-
-7
-00:00:10,200 --> 00:00:10,652
-Great.
-
-8
-00:00:10,652 --> 00:00:12,160
-What did you think of it?
-
-9
-00:00:12,160 --> 00:00:12,433
-Woman:
-
-10
-00:00:12,433 --> 00:00:13,251
-I loved it.
-
-11
-00:00:13,251 --> 00:00:14,887
-The characters were so well developed.
-
-12
-00:00:14,887 --> 00:00:16,250
-I felt I knew them.
-
-13
-00:00:16,250 --> 00:00:16,738
-Man:
-
-14
-00:00:16,738 --> 00:00:17,714
-I agree.
-
-15
-00:00:17,714 --> 00:00:21,130
-I'm looking forward to hearing everyone's thoughts.
+00:00:16,250 --> 00:00:21,130
+Man: I agree. I'm looking forward to hearing everyone's thoughts.

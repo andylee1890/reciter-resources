@@ -1,21 +1,21 @@
 1
 00:00:00,000 --> 00:00:03,200
-Narrator：Listen to a principal talking to a group of students.
+Narrator: Listen to a principal talking to a group of students.
 
 2
 00:00:03,200 --> 00:00:09,020
-Principal：I wanted to tell you that the city is having a mural contest.
+Principal: I wanted to tell you that the city is having a mural contest.
 
 3
 00:00:09,020 --> 00:00:13,030
 A mural will be painted on City Hall sometime this summer.
 
 4
-00:00:13,030 --> 00:00:17,007
+00:00:13,030 --> 00:00:17,060
 Each school in the city is sending in a mural design
 
 5
-00:00:17,007 --> 00:00:20,040
+00:00:17,280 --> 00:00:20,040
 and I'd like you to work as a group to do it.
 
 6

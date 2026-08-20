@@ -3,97 +3,101 @@
 Listen to a talk on a podcast about psychology.
 
 2
-00:00:05,210 --> 00:00:12,070
-Today we'll discuss the psychology of decision making, focusing on the concept of cognitive biases.
+00:00:05,210 --> 00:00:08,860
+Today we'll discuss the psychology of decision making
 
 3
-00:00:12,070 --> 00:00:15,211
-Cognitive bias is a pattern of irrational thinking,
+00:00:09,280 --> 00:00:12,070
+focusing on the concept of cognitive biases.
 
 4
-00:00:15,211 --> 00:00:18,030
-and they often affect the decisions we make every day.
+00:00:12,070 --> 00:00:15,160
+Cognitive bias is a pattern of irrational thinking
 
 5
-00:00:18,030 --> 00:00:21,280
-One common cognitive bias is the confirmation bias
+00:00:15,160 --> 00:00:18,030
+and they often affect the decisions we make every day.
 
 6
-00:00:21,280 --> 00:00:28,881
-where individuals tend to search for and remember information that confirms their pre-existing beliefs while ignoring
+00:00:18,030 --> 00:00:21,640
+One common cognitive bias is the confirmation bias
 
 7
-00:00:28,881 --> 00:00:32,009
-or undervaluing evidence that goes against their beliefs.
+00:00:22,040 --> 00:00:24,146
+where individuals tend to search for
 
 8
-00:00:32,009 --> 00:00:37,802
-This bias can lead to poor decision making as it prevents people from considering alternative viewpoints
+00:00:24,146 --> 00:00:27,641
+and remember information that confirms their pre-existing beliefs
 
 9
-00:00:37,802 --> 00:00:39,270
-or new information objectively.
+00:00:27,641 --> 00:00:32,009
+while ignoring or undervaluing evidence that goes against their beliefs.
 
 10
+00:00:32,009 --> 00:00:34,560
+This bias can lead to poor decision making
+
+11
+00:00:34,880 --> 00:00:39,270
+as it prevents people from considering alternative viewpoints or new information objectively.
+
+12
 00:00:39,270 --> 00:00:42,270
 Another significant bias is the anchoring effect.
 
-11
-00:00:42,270 --> 00:00:47,215
-This refers to people's tendency to rely heavily on the first piece of information
-
-12
-00:00:47,215 --> 00:00:50,190
-they receive, the anchor, when making decisions.
-
 13
-00:00:50,190 --> 00:00:53,935
-For instance, if someone is negotiating to buy a car
+00:00:42,270 --> 00:00:48,304
+This refers to people's tendency to rely heavily on the first piece of information they receive,
 
 14
-00:00:53,935 --> 00:00:56,230
-and the seller sets the initial price very high
+00:00:48,304 --> 00:00:50,190
+the anchor, when making decisions.
 
 15
-00:00:56,230 --> 00:01:00,652
-the buyer is likely to decide to make a higher offer to start regardless
+00:00:50,190 --> 00:00:53,192
+For instance, if someone is negotiating to buy a car
 
 16
-00:01:00,652 --> 00:01:02,200
-of what the car is actually worth.
+00:00:53,192 --> 00:01:02,200
+and the seller sets the initial price very high the buyer is likely to decide to make a higher offer to start regardless of what the car is actually worth.
 
 17
-00:01:02,200 --> 00:01:07,396
-The availability heuristic is another bias that involves making decisions based on the information
+00:01:02,200 --> 00:01:12,010
+The availability heuristic is another bias that involves making decisions based on the information that is most readily available rather than all relevant information.
 
 18
-00:01:07,396 --> 00:01:12,010
-that is most readily available rather than all relevant information.
+00:01:12,010 --> 00:01:14,373
+This can lead to skewed perceptions
 
 19
-00:01:12,010 --> 00:01:15,545
-This can lead to skewed perceptions and choices as easily remembered
+00:01:14,373 --> 00:01:19,100
+and choices as easily remembered or recent events can disproportionately influence decisions.
 
 20
-00:01:15,545 --> 00:01:19,100
-or recent events can disproportionately influence decisions.
-
-21
 00:01:19,100 --> 00:01:24,050
 Understanding cognitive biases is crucial for improving decision making processes.
 
+21
+00:01:24,050 --> 00:01:28,914
+By recognizing these biases, individuals can work to mitigate their effects,
+
 22
-00:01:24,050 --> 00:01:32,010
-By recognizing these biases, individuals can work to mitigate their effects, leading to more rational and effective decisions.
+00:01:28,914 --> 00:01:32,010
+leading to more rational and effective decisions.
 
 23
-00:01:32,010 --> 00:01:34,517
-This knowledge is valuable not just personally,
+00:01:32,010 --> 00:01:34,460
+This knowledge is valuable not just personally
 
 24
-00:01:34,517 --> 00:01:39,532
-but also professionally as businesses and organizations can benefit from more objective
+00:01:34,940 --> 00:01:37,135
+but also professionally as businesses
 
 25
-00:01:39,532 --> 00:01:42,260
+00:01:37,135 --> 00:01:39,460
+and organizations can benefit from more objective
+
+26
+00:01:39,460 --> 00:01:42,260
 and thorough decision making practices.

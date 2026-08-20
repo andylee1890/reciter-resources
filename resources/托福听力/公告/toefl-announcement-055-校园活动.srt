@@ -3,29 +3,25 @@
 Listen to an announcement at a university event.
 
 2
-00:00:03,280 --> 00:00:11,061
-The annual student art exhibition opens this Thursday at 3 PM in the University Gallery, featuring paintings
+00:00:03,280 --> 00:00:09,802
+The annual student art exhibition opens this Thursday at 3 PM in the University Gallery,
 
 3
-00:00:11,061 --> 00:00:14,150
-and sculptures by our incredibly talented art students.
+00:00:09,802 --> 00:00:14,150
+featuring paintings and sculptures by our incredibly talented art students.
 
 4
 00:00:14,150 --> 00:00:18,180
 It's opening a month earlier this year to accommodate the gallery renovation.
 
 5
-00:00:18,180 --> 00:00:22,735
-New this year, you'll have the chance to talk with the artists, hear the
+00:00:18,180 --> 00:00:22,505
+New this year, you'll have the chance to talk with the artists,
 
 6
-00:00:22,735 --> 00:00:24,140
-stories behind their work,
+00:00:22,505 --> 00:00:27,190
+hear the stories behind their work, and gain insight into their creative journeys.
 
 7
-00:00:24,140 --> 00:00:27,190
-and gain insight into their creative journeys.
-
-8
 00:00:27,190 --> 00:00:33,080
 Artists will be on site Fridays from 4 to 5 PM this week and next.

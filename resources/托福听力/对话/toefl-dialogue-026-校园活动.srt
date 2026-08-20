@@ -1,75 +1,39 @@
 1
-00:00:00,000 --> 00:00:02,209
-Woman:
+00:00:00,000 --> 00:00:04,838
+Woman: Our annual cultural festival is just two months away.
 
 2
-00:00:02,209 --> 00:00:07,329
-Our annual cultural festival is just two months away.
-
-3
-00:00:07,329 --> 00:00:10,160
+00:00:04,838 --> 00:00:10,160
 Have you had a chance to look at my layout design?
 
+3
+00:00:10,160 --> 00:00:14,040
+Man: Yeah, looks good. Just one question
+
 4
-00:00:10,160 --> 00:00:10,210
-Man:
-
-5
-00:00:10,210 --> 00:00:11,784
-Yeah, looks good.
-
-6
-00:00:11,784 --> 00:00:13,001
-Just one question.
-
-7
-00:00:13,001 --> 00:00:17,060
+00:00:14,660 --> 00:00:17,060
 Why did you move the location of the vendor booths?
 
-8
+5
 00:00:17,060 --> 00:00:20,140
 They were along the south side of the field last year.
 
-9
-00:00:20,140 --> 00:00:20,460
-Woman:
+6
+00:00:20,140 --> 00:00:25,900
+Woman: Remember, we alternate their positioning year to year to give the grass a chance to fully recover.
 
-10
-00:00:20,460 --> 00:00:24,940
-Remember, we alternate their positioning year to year to give the grass a chance
-
-11
-00:00:24,940 --> 00:00:25,900
-to fully recover.
-
-12
+7
 00:00:25,900 --> 00:00:29,100
 All that concentrated foot traffic does a lot of damage.
 
-13
-00:00:29,100 --> 00:00:29,464
-Man:
+8
+00:00:29,100 --> 00:00:33,120
+Man: Okay, and where are we up to with vendor registration
 
-14
-00:00:29,464 --> 00:00:29,827
-Okay,
-
-15
-00:00:29,827 --> 00:00:33,099
-and where are we up to with vendor registration?
-
-16
-00:00:33,099 --> 00:00:35,280
+9
+00:00:33,760 --> 00:00:35,280
 How many payments have we collected?
 
-17
-00:00:35,280 --> 00:00:35,892
-Woman:
-
-18
-00:00:35,892 --> 00:00:40,784
-Actually, Javier is handling all the vendor business.
-
-19
-00:00:40,784 --> 00:00:43,230
-He's around here somewhere.
+10
+00:00:35,280 --> 00:00:43,230
+Woman: Actually, Javier is handling all the vendor business. He's around here somewhere.

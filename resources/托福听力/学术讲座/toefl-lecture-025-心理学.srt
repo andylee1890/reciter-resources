@@ -3,35 +3,35 @@
 Listen to a talk in a psychology class.
 
 2
-00:00:03,000 --> 00:00:03,804
-Professor:
+00:00:03,000 --> 00:00:06,716
+Professor: The bystander effect is a social psychological theory according to
 
 3
-00:00:03,804 --> 00:00:08,745
-The bystander effect is a social psychological theory according to which individuals are less
+00:00:06,716 --> 00:00:10,400
+which individuals are less likely to offer help to a victim
 
 4
-00:00:08,745 --> 00:00:12,120
-likely to offer help to a victim when other people are present.
+00:00:10,400 --> 00:00:12,120
+when other people are present.
 
 5
 00:00:12,120 --> 00:00:18,040
 The theory was first proposed by researchers in the 1960s, based on observations.
 
 6
-00:00:18,040 --> 00:00:22,223
+00:00:18,040 --> 00:00:22,553
 The bystander effect can be explained through two primary factors:
 
 7
-00:00:22,223 --> 00:00:25,260
+00:00:22,553 --> 00:00:25,260
 diffusion of responsibility and social influence.
 
 8
-00:00:25,260 --> 00:00:31,046
+00:00:25,260 --> 00:00:30,980
 Diffusion of responsibility occurs when people believe that someone else will take action,
 
 9
-00:00:31,046 --> 00:00:34,060
+00:00:30,980 --> 00:00:34,060
 and so they feel less personal responsibility.
 
 10
@@ -39,37 +39,37 @@ and so they feel less personal responsibility.
 Social influence involves looking to others for cues on how to behave, especially in ambiguous situations.
 
 11
-00:00:41,210 --> 00:00:47,260
-If others are not helping, individuals may interpret the situation as non-emergency
+00:00:41,210 --> 00:00:43,691
+If others are not helping,
 
 12
-00:00:47,260 --> 00:00:49,150
-and refrain from intervening.
+00:00:43,691 --> 00:00:49,150
+individuals may interpret the situation as non-emergency and refrain from intervening.
 
 13
-00:00:49,150 --> 00:00:54,952
-More recent studies, however, have disputed the claim that the presence of more bystanders
+00:00:49,150 --> 00:00:57,180
+More recent studies, however, have disputed the claim that the presence of more bystanders can decrease the likelihood of assistance.
 
 14
-00:00:54,952 --> 00:00:57,180
-can decrease the likelihood of assistance.
+00:00:57,180 --> 00:01:03,918
+One study from 2019 that analyzed video footage from multiple cities found that in 9 out of 10 incidents,
 
 15
-00:00:57,180 --> 00:01:02,677
-One study from 2019 that analyzed video footage from multiple cities found that in
+00:01:03,918 --> 00:01:07,110
+at least one bystander did take action to help.
 
 16
-00:01:02,677 --> 00:01:07,110
-9 out of 10 incidents, at least one bystander did take action to help.
+00:01:07,110 --> 00:01:11,300
+This study found that a bystander was actually more likely to intervene
 
 17
-00:01:07,110 --> 00:01:13,180
-This study found that a bystander was actually more likely to intervene when more bystanders were present.
+00:01:11,300 --> 00:01:13,180
+when more bystanders were present.
 
 18
-00:01:13,180 --> 00:01:18,322
+00:01:13,180 --> 00:01:17,813
 Some factors that may influence bystander behavior include the level of danger
 
 19
-00:01:18,322 --> 00:01:20,130
+00:01:17,813 --> 00:01:20,130
 and whether bystanders know each other.

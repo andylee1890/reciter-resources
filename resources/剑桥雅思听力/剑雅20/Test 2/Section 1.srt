@@ -1,427 +1,207 @@
 1
-00:00:00,000 --> 00:00:00,261
-CAROL:
+00:00:00,000 --> 00:00:02,463
+CAROL: It's really good to see you, Tom.
 
 2
-00:00:00,261 --> 00:00:02,463
-It’s really good to see you, Tom.
+00:00:02,463 --> 00:00:07,390
+Since I had to give up work, I feel I'm losing touch with my friends and colleagues.
 
 3
-00:00:02,463 --> 00:00:06,843
-Since I had to give up work, I feel I’m losing touch with my friends
+00:00:07,390 --> 00:00:11,980
+TOM: We really miss you in the office - we were all so sorry you had to leave.
 
 4
-00:00:06,843 --> 00:00:07,390
-and colleagues.
+00:00:11,980 --> 00:00:16,570
+But you must be relieved to have more time to look after your mother. How is she?
 
 5
-00:00:07,390 --> 00:00:07,440
-TOM:
+00:00:16,570 --> 00:00:20,700
+CAROL: Well, she's very cheerful but she needs a lot of help.
 
 6
-00:00:07,440 --> 00:00:10,360
-We really miss you in the office – we were all
+00:00:20,700 --> 00:00:23,650
+TOM: Have you tried to get any support from the local council?
 
 7
-00:00:10,360 --> 00:00:11,980
-so sorry you had to leave.
+00:00:23,650 --> 00:00:26,260
+CAROL: No. I didn't know I could.
 
 8
-00:00:11,980 --> 00:00:15,760
-But you must be relieved to have more time to look after your mother.
+00:00:26,260 --> 00:00:29,285
+TOM: Yes, they offer different kinds of practical support.
 
 9
-00:00:15,760 --> 00:00:16,570
-How is she?
+00:00:29,285 --> 00:00:36,681
+They realise that carers sometimes need time for all the other responsibilities they have apart from the person they're caring for,
 
 10
-00:00:16,570 --> 00:00:16,888
-CAROL:
-
-11
-00:00:16,888 --> 00:00:20,700
-Well, she’s very cheerful but she needs a lot of help.
-
-12
-00:00:20,700 --> 00:00:20,946
-TOM:
-
-13
-00:00:20,946 --> 00:00:23,650
-Have you tried to get any support from the local council?
-
-14
-00:00:23,650 --> 00:00:23,976
-CAROL:
-
-15
-00:00:23,976 --> 00:00:24,302
-No.
-
-16
-00:00:24,302 --> 00:00:26,260
-I didn’t know I could.
-
-17
-00:00:26,260 --> 00:00:26,596
-TOM:
-
-18
-00:00:26,596 --> 00:00:29,285
-Yes, they offer different kinds of practical support.
-
-19
-00:00:29,285 --> 00:00:33,992
-They realise that carers sometimes need time for all the other responsibilities they have
-
-20
-00:00:33,992 --> 00:00:36,681
-apart from the person they’re caring for,
-
-21
 00:00:36,681 --> 00:00:39,370
 and also that they sometimes need a break.
 
-22
-00:00:39,370 --> 00:00:39,917
-CAROL:
+11
+00:00:39,370 --> 00:00:47,580
+CAROL: Absolutely. OK, so tell me more. How do I go about getting this support?
 
-23
-00:00:39,917 --> 00:00:40,465
-Absolutely.
+12
+00:00:47,580 --> 00:00:50,800
+TOM: Well, you'd have to have an assessment of your mother's needs.
 
-24
-00:00:40,465 --> 00:00:41,012
-OK,
+13
+00:00:50,800 --> 00:00:52,500
+TOM: That means someone would come round
 
-25
-00:00:41,012 --> 00:00:43,201
-so tell me more.
+14
+00:00:52,500 --> 00:00:55,390
+and talk to you about the situation and what you need.
 
-26
-00:00:43,201 --> 00:00:47,580
-How do I go about getting this support?
+15
+00:00:55,390 --> 00:01:00,100
+TOM: So for a start they'd want to know the amount of time you spend looking after your mother every day.
 
-27
-00:00:47,580 --> 00:00:47,810
-TOM:
+16
+00:01:00,100 --> 00:01:01,150
+CAROL: OK.
 
-28
-00:00:47,810 --> 00:00:50,800
-Well, you’d have to have an assessment of your mother’s needs.
+17
+00:01:01,150 --> 00:01:06,141
+TOM: Then they'll probably ask you what sorts of tasks you do for your mother during the day.
 
-29
-00:00:50,800 --> 00:00:51,055
-TOM:
-
-30
-00:00:51,055 --> 00:00:54,370
-That means someone would come round and talk to you about the situation
-
-31
-00:00:54,370 --> 00:00:55,390
-and what you need.
-
-32
-00:00:55,390 --> 00:00:55,604
-TOM:
-
-33
-00:00:55,604 --> 00:00:58,815
-So for a start they’d want to know the amount of time you spend
-
-34
-00:00:58,815 --> 00:01:00,100
-looking after your mother every day.
-
-35
-00:01:00,100 --> 00:01:00,625
-CAROL:
-
-36
-00:01:00,625 --> 00:01:01,150
-OK.
-
-37
-00:01:01,150 --> 00:01:01,413
-TOM:
-
-38
-00:01:01,413 --> 00:01:05,353
-Then they’ll probably ask you what sorts of tasks you do for your mother
-
-39
-00:01:05,353 --> 00:01:06,141
-during the day.
-
-40
+18
 00:01:06,141 --> 00:01:09,030
 Things like if she needs help with getting dressed, for example.
 
-41
-00:01:09,030 --> 00:01:09,335
-CAROL:
+19
+00:01:09,030 --> 00:01:11,680
+CAROL: Right. I help her with that
 
-42
-00:01:09,335 --> 00:01:09,641
-Right.
-
-43
-00:01:09,641 --> 00:01:11,167
-I help her with that,
-
-44
-00:01:11,167 --> 00:01:14,830
+20
+00:01:11,840 --> 00:01:14,830
 and also I help her get into the shower in the morning.
 
-45
-00:01:14,830 --> 00:01:15,137
-TOM:
+21
+00:01:14,830 --> 00:01:16,140
+TOM: Yes, that sort of thing
 
-46
-00:01:15,137 --> 00:01:15,445
-Yes,
+22
+00:01:16,720 --> 00:01:20,362
+They'll probably ask you if you do the shopping for her,
 
-47
-00:01:15,445 --> 00:01:16,674
-that sort of thing.
+23
+00:01:20,362 --> 00:01:24,050
+and help her at mealtimes. And whether she can cope using money.
 
-48
-00:01:16,674 --> 00:01:20,362
-They’ll probably ask you if you do the shopping for her,
+24
+00:01:24,050 --> 00:01:26,600
+CAROL: Yes, that's becoming a bit of a problem
 
-49
-00:01:20,362 --> 00:01:21,899
-and help her at mealtimes.
+25
+00:01:27,140 --> 00:01:31,450
+She used to be very good at it, but not any more.
 
-50
-00:01:21,899 --> 00:01:24,050
-And whether she can cope using money.
+26
+00:01:31,450 --> 00:01:37,240
+TOM: And be ready to tell them about anything you find particularly difficult about caring for your mother.
 
-51
-00:01:24,050 --> 00:01:24,386
-CAROL:
+27
+00:01:37,240 --> 00:01:43,000
+CAROL: So recently I've noticed she's started to have quite bad problems with her memory...
 
-52
-00:01:24,386 --> 00:01:24,723
-Yes,
+28
+00:01:43,000 --> 00:01:47,744
+if I wasn't there, I think she'd forget to eat, for example.
 
-53
-00:01:24,723 --> 00:01:27,414
-that’s becoming a bit of a problem.
-
-54
-00:01:27,414 --> 00:01:30,105
-She used to be very good at it,
-
-55
-00:01:30,105 --> 00:01:31,450
-but not any more.
-
-56
-00:01:31,450 --> 00:01:31,772
-TOM:
-
-57
-00:01:31,772 --> 00:01:36,275
-And be ready to tell them about anything you find particularly difficult about caring
-
-58
-00:01:36,275 --> 00:01:37,240
-for your mother.
-
-59
-00:01:37,240 --> 00:01:37,579
-CAROL:
-
-60
-00:01:37,579 --> 00:01:43,000
-So recently I’ve noticed she’s started to have quite bad problems with her memory
-
-61
-00:01:43,000 --> 00:01:43,050
-...
-
-62
-00:01:43,050 --> 00:01:47,744
-if I wasn’t there, I think she’d forget to eat, for example.
-
-63
+29
 00:01:47,744 --> 00:01:51,810
-And often she doesn’t seem quite sure what day it is.
+And often she doesn't seem quite sure what day it is.
 
-64
-00:01:51,810 --> 00:01:52,186
-TOM:
+30
+00:01:51,810 --> 00:01:54,064
+TOM: Yes, tell them about that.
 
-65
-00:01:52,186 --> 00:01:54,064
-Yes, tell them about that.
+31
+00:01:54,064 --> 00:01:59,700
+And are there any physical difficulties you have caring for her? Lifting her, for example?
 
-66
-00:01:54,064 --> 00:01:58,197
-And are there any physical difficulties you have caring for her?
+32
+00:01:59,700 --> 00:02:02,460
+CAROL: Yes. She's quite heavy
 
-67
-00:01:58,197 --> 00:01:59,700
-Lifting her, for example?
+33
+00:02:02,780 --> 00:02:07,900
+and I'm afraid of hurting my back - I'd be in real trouble if that happened.
 
-68
-00:01:59,700 --> 00:02:00,057
-CAROL:
+34
+00:02:07,900 --> 00:02:10,020
+TOM: They can give you advice about that,
 
-69
-00:02:00,057 --> 00:02:00,413
-Yes.
-
-70
-00:02:00,413 --> 00:02:01,839
-She’s quite heavy,
-
-71
-00:02:01,839 --> 00:02:07,187
-and I’m afraid of hurting my back – I’d be in real trouble if
-
-72
-00:02:07,187 --> 00:02:07,900
-that happened.
-
-73
-00:02:07,900 --> 00:02:08,165
-TOM:
-
-74
-00:02:08,165 --> 00:02:10,020
-They can give you advice about that,
-
-75
+35
 00:02:10,020 --> 00:02:13,730
 and also about how to avoid the possibility of your mum having a fall.
 
-76
-00:02:13,730 --> 00:02:14,228
-CAROL:
+36
+00:02:13,730 --> 00:02:17,760
+CAROL: Great. So once they've done this assessment
 
-77
-00:02:14,228 --> 00:02:14,725
-Great.
+37
+00:02:18,260 --> 00:02:21,690
+if I'm eligible, what happens next?
 
-78
-00:02:14,725 --> 00:02:21,690
-So once they’ve done this assessment, if I’m eligible, what happens next?
+38
+00:02:21,690 --> 00:02:23,800
+TOM: Well, they might support you financially
 
-79
-00:02:21,690 --> 00:02:21,979
-TOM:
+39
+00:02:24,300 --> 00:02:26,031
+So they might help you with transport costs,
 
-80
-00:02:21,979 --> 00:02:23,716
-Well, they might support you financially.
+40
+00:02:26,031 --> 00:02:30,950
+like if you have to get a taxi to take your mother for an appointment, for example.
 
-81
-00:02:23,716 --> 00:02:27,767
-So they might help you with transport costs, like if you have to get
+41
+00:02:30,950 --> 00:02:36,640
+CAROL: I usually drive her myself actually. So could I claim for the petrol?
 
-82
-00:02:27,767 --> 00:02:30,950
-a taxi to take your mother for an appointment, for example.
+42
+00:02:36,640 --> 00:02:39,660
+TOM: You could, and you can claim for the insurance too.
 
-83
-00:02:30,950 --> 00:02:31,356
-CAROL:
+43
+00:02:39,660 --> 00:02:40,950
+CAROL: Oh, right.
 
-84
-00:02:31,356 --> 00:02:33,795
-I usually drive her myself actually.
+44
+00:02:40,950 --> 00:02:43,080
+TOM: And if you need help with the housework
 
-85
-00:02:33,795 --> 00:02:36,640
-So could I claim for the petrol?
+45
+00:02:43,180 --> 00:02:46,434
+they can arrange for someone to come along once or twice a week.
 
-86
-00:02:36,640 --> 00:02:36,915
-TOM:
-
-87
-00:02:36,915 --> 00:02:37,464
-You could,
-
-88
-00:02:37,464 --> 00:02:39,660
-and you can claim for the insurance too.
-
-89
-00:02:39,660 --> 00:02:40,090
-CAROL:
-
-90
-00:02:40,090 --> 00:02:40,950
-Oh, right.
-
-91
-00:02:40,950 --> 00:02:41,199
-TOM:
-
-92
-00:02:41,199 --> 00:02:45,437
-And if you need help with the housework, they can arrange for someone to come along once
-
-93
-00:02:45,437 --> 00:02:46,434
-or twice a week.
-
-94
+46
 00:02:46,434 --> 00:02:49,675
-And one other thing, I hope you don’t mind me saying this,
+And one other thing, I hope you don't mind me saying this,
 
-95
-00:02:49,675 --> 00:02:51,669
-but it’s important you look after yourself,
+47
+00:02:49,675 --> 00:02:52,120
+but it's important you look after yourself
 
-96
-00:02:51,669 --> 00:02:54,910
-and it seems to me you’re under quite a bit of stress.
+48
+00:02:52,640 --> 00:02:54,910
+and it seems to me you're under quite a bit of stress.
 
-97
-00:02:54,910 --> 00:02:55,338
-CAROL:
+49
+00:02:54,910 --> 00:02:56,620
+CAROL: I am, yes.
 
-98
-00:02:55,338 --> 00:02:56,620
-I am, yes.
+50
+00:02:56,620 --> 00:03:02,240
+TOM: Well, tell the council, because they may be able to give you some advice on how to minimise it.
 
-99
-00:02:56,620 --> 00:02:56,901
-TOM:
+51
+00:03:02,240 --> 00:03:08,720
+CAROL: Really? Though actually I feel so much better having talked to you.
 
-100
-00:02:56,901 --> 00:02:58,025
-Well, tell the council,
-
-101
-00:02:58,025 --> 00:03:01,959
-because they may be able to give you some advice on how to minimise
-
-102
-00:03:01,959 --> 00:03:02,240
-it.
-
-103
-00:03:02,240 --> 00:03:02,738
-CAROL:
-
-104
-00:03:02,738 --> 00:03:03,237
-Really?
-
-105
-00:03:03,237 --> 00:03:08,720
-Though actually I feel so much better having talked to you.
-
-106
-00:03:08,720 --> 00:03:13,705
-I’ll get in touch with the council straight away.
-
-107
-00:03:13,705 --> 00:03:15,200
-Now shall we ...
+52
+00:03:08,720 --> 00:03:15,200
+I'll get in touch with the council straight away. Now shall we...

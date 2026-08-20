@@ -1,71 +1,35 @@
 1
-00:00:00,000 --> 00:00:02,129
-Man:
+00:00:00,000 --> 00:00:07,130
+Man: Did you end up seeing that movie yesterday with your friend?
 
 2
-00:00:02,129 --> 00:00:07,130
-Did you end up seeing that movie yesterday with your friend?
+00:00:07,130 --> 00:00:10,456
+Woman: Yes, It was a good way to spend some time with her.
 
 3
-00:00:07,130 --> 00:00:07,814
-Woman:
-
-4
-00:00:07,814 --> 00:00:09,908
-Yes, It was a good way to spend some time with her.
-
-5
-00:00:09,908 --> 00:00:13,270
+00:00:10,456 --> 00:00:13,270
 It was an afternoon show and the place was practically empty.
 
+4
+00:00:13,270 --> 00:00:15,050
+Man: How was the movie?
+
+5
+00:00:15,050 --> 00:00:20,190
+Woman: It was okay. There were lots of unexpected twists, but It was too long.
+
 6
-00:00:13,270 --> 00:00:13,320
-Man:
+00:00:20,190 --> 00:00:22,100
+Man: Should I see it?
 
 7
-00:00:13,320 --> 00:00:15,050
-How was the movie?
+00:00:22,100 --> 00:00:25,277
+Woman: I'm not sure I'd pay money to see it in the theater.
 
 8
-00:00:15,050 --> 00:00:15,100
-Woman:
-
-9
-00:00:15,100 --> 00:00:16,421
-It was okay.
-
-10
-00:00:16,421 --> 00:00:18,477
-There were lots of unexpected twists,
-
-11
-00:00:18,477 --> 00:00:20,190
-but It was too long.
-
-12
-00:00:20,190 --> 00:00:20,572
-Man:
-
-13
-00:00:20,572 --> 00:00:22,100
-Should I see it?
-
-14
-00:00:22,100 --> 00:00:22,344
-Woman:
-
-15
-00:00:22,344 --> 00:00:25,277
-I'm not sure I'd pay money to see it in the theater.
-
-16
 00:00:25,277 --> 00:00:28,210
 Just wait a few months and it will be out on streaming.
 
-17
-00:00:28,210 --> 00:00:28,606
-Man:
-
-18
-00:00:28,606 --> 00:00:32,169
-That's usually how I watch movies these days anyway.
+9
+00:00:28,210 --> 00:00:32,169
+Man: That's usually how I watch movies these days anyway.

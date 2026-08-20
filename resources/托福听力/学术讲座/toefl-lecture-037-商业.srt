@@ -3,27 +3,27 @@
 Listen to a talk in an economics class.
 
 2
-00:00:02,280 --> 00:00:06,800
-Imagine that you have a full time job,
+00:00:02,280 --> 00:00:06,860
+Imagine that you have a full time job
 
 3
-00:00:06,800 --> 00:00:09,170
+00:00:07,060 --> 00:00:09,170
 but you want to take a year off to go back to school.
 
 4
-00:00:09,170 --> 00:00:11,002
-What is it going to cost you?
+00:00:09,170 --> 00:00:11,300
+What is it going to cost you
 
 5
-00:00:11,002 --> 00:00:15,210
+00:00:11,880 --> 00:00:15,210
 Of course there's the cost of tuition for your classes, plus living expenses.
 
 6
-00:00:15,210 --> 00:00:18,753
+00:00:15,210 --> 00:00:18,180
 But what about the money you're no longer earning at your job
 
 7
-00:00:18,753 --> 00:00:20,229
+00:00:18,180 --> 00:00:20,229
 because you're now a student?
 
 8
@@ -31,69 +31,57 @@ because you're now a student?
 We call that the opportunity cost.
 
 9
-00:00:22,000 --> 00:00:25,696
-Opportunity cost refers to the value of the next best alternative that must be
+00:00:22,000 --> 00:00:27,280
+Opportunity cost refers to the value of the next best alternative that must be given up when making a choice.
 
 10
-00:00:25,696 --> 00:00:27,280
-given up when making a choice.
+00:00:27,280 --> 00:00:31,140
+It's a fundamental principle in economics that helps individuals
 
 11
-00:00:27,280 --> 00:00:33,284
-It's a fundamental principle in economics that helps individuals and businesses understand the true
+00:00:31,140 --> 00:00:35,000
+and businesses understand the true cost of their decisions.
 
 12
-00:00:33,284 --> 00:00:35,000
-cost of their decisions.
-
-13
 00:00:35,000 --> 00:00:38,308
 My exercise in imagination illustrates a personal decision,
 
-14
+13
 00:00:38,308 --> 00:00:42,030
 but businesses also face opportunity costs in their operations.
 
+14
+00:00:42,030 --> 00:00:48,140
+For instance, a company may choose to invest in new equipment rather than spend money to expand its product line.
+
 15
-00:00:42,030 --> 00:00:46,307
-For instance, a company may choose to invest in new equipment rather than spend
+00:00:48,140 --> 00:00:54,040
+The opportunity cost of this decision is the potential revenue that could have been generated from the new products.
 
 16
-00:00:46,307 --> 00:00:48,140
-money to expand its product line.
+00:00:54,040 --> 00:01:02,240
+Understanding opportunity cost helps individuals as well as businesses make informed decisions that maximize their benefits and minimize their losses.
 
 17
-00:00:48,140 --> 00:00:52,487
-The opportunity cost of this decision is the potential revenue that could have been
-
-18
-00:00:52,487 --> 00:00:54,040
-generated from the new products.
-
-19
-00:00:54,040 --> 00:01:00,600
-Understanding opportunity cost helps individuals as well as businesses make informed decisions that maximize their benefits
-
-20
-00:01:00,600 --> 00:01:02,240
-and minimize their losses.
-
-21
 00:01:02,240 --> 00:01:07,020
 It's important to note that opportunity cost is not always measured in financial terms.
 
-22
+18
 00:01:07,020 --> 00:01:12,050
 It can also be related to factors like time, convenience or personal satisfaction.
 
-23
-00:01:12,050 --> 00:01:18,200
-For that reason, opportunity cost can be difficult to quantify, especially when dealing with non monetary factors.
+19
+00:01:12,050 --> 00:01:15,668
+For that reason, opportunity cost can be difficult to quantify,
 
-24
+20
+00:01:15,668 --> 00:01:18,200
+especially when dealing with non monetary factors.
+
+21
 00:01:18,200 --> 00:01:22,100
 Have you ever had to make a decision that included an opportunity cost?
 
-25
+22
 00:01:22,100 --> 00:01:26,080
 Take a few minutes now to think and then I'll ask for volunteers to share.

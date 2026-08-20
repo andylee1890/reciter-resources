@@ -1,83 +1,55 @@
 1
-00:00:00,000 --> 00:00:01,285
-MEN:
+00:00:00,000 --> 00:00:04,719
+MEN: I can't believe this, but I managed to book a ticket to Singapore.
 
 2
-00:00:01,285 --> 00:00:02,288
-I can't believe this,
-
-3
-00:00:02,288 --> 00:00:04,958
-but I managed to book a ticket to Singapore.
-
-4
-00:00:04,958 --> 00:00:08,090
+00:00:04,719 --> 00:00:08,090
 I will be on the seven o'clock flight tomorrow morning.
 
+3
+00:00:08,090 --> 00:00:11,445
+WOMAN: That's great. Does that mean that you will get to see your friend
+
+4
+00:00:11,445 --> 00:00:15,280
+who moved out there a few years back after you are finished meeting with Mr. Wang?
+
 5
-00:00:08,090 --> 00:00:08,140
-WOMAN:
+00:00:15,280 --> 00:00:17,272
+MEN: I am not sure because Mr.
 
 6
-00:00:08,140 --> 00:00:08,809
-That's great.
-
-7
-00:00:08,809 --> 00:00:12,164
-Does that mean that you will get to see your friend who moved out
-
-8
-00:00:12,164 --> 00:00:15,280
-there a few years back after you are finished meeting with Mr. Wang?
-
-9
-00:00:15,280 --> 00:00:15,565
-MEN:
-
-10
-00:00:15,565 --> 00:00:17,272
-I am not sure because Mr.
-
-11
 00:00:17,272 --> 00:00:22,110
 Wang will probably want to take me around the plant site on the day I arrive there.
 
-12
-00:00:22,110 --> 00:00:25,797
-I am hoping that I will be able to see my friend the day
+7
+00:00:22,110 --> 00:00:26,060
+I am hoping that I will be able to see my friend the day after,
 
-13
-00:00:25,797 --> 00:00:26,060
-after,
-
-14
+8
 00:00:26,060 --> 00:00:29,220
 but he mentioned that he might have to leave town that day.
 
-15
-00:00:29,220 --> 00:00:31,819
-He said he would try to rearrange his trip,
+9
+00:00:29,220 --> 00:00:32,260
+He said he would try to rearrange his trip
 
-16
-00:00:31,819 --> 00:00:34,996
+10
+00:00:32,540 --> 00:00:34,996
 but I have not spoken to him for a few days.
 
-17
+11
 00:00:34,996 --> 00:00:39,040
 I will call him tonight to see if he is able to do that.
 
-18
-00:00:39,040 --> 00:00:39,292
-WOMAN:
+12
+00:00:39,040 --> 00:00:41,020
+WOMAN: You should just take your vacation early
 
-19
-00:00:39,292 --> 00:00:42,820
-You should just take your vacation early and spend a week there after you
+13
+00:00:41,020 --> 00:00:44,080
+and spend a week there after you take care of your business.
 
-20
-00:00:42,820 --> 00:00:44,080
-take care of your business.
-
-21
+14
 00:00:44,080 --> 00:00:47,210
 It's not like you get to travel to the Far East all the time, you know.

@@ -7,33 +7,29 @@ Listen to an announcement in a classroom.
 Man: Good afternoon, everyone.
 
 3
-00:00:05,000 --> 00:00:07,148
-I am excited to inform you that Dr.
+00:00:05,000 --> 00:00:07,180
+I am excited to inform you that Dr
 
 4
-00:00:07,148 --> 00:00:12,627
-Cynthia Palmer, a renowned expert in environmental science, will be giving a guest lecture
+00:00:07,400 --> 00:00:10,898
+Cynthia Palmer, a renowned expert in environmental science,
 
 5
-00:00:12,627 --> 00:00:16,059
-next Monday at 2 PM in Waldman Auditorium.
+00:00:10,898 --> 00:00:16,059
+will be giving a guest lecture next Monday at 2 PM in Waldman Auditorium.
 
 6
-00:00:16,059 --> 00:00:16,883
-Dr.
+00:00:16,059 --> 00:00:20,961
+Dr. Palmer will discuss the latest advancements in sustainable energy solutions
 
 7
-00:00:16,883 --> 00:00:21,246
-Palmer will discuss the latest advancements in sustainable energy solutions
-
-8
-00:00:21,246 --> 00:00:24,080
+00:00:20,961 --> 00:00:24,080
 and their impact on global climate change.
 
-9
-00:00:24,080 --> 00:00:29,603
-Due to her popularity and the high interest in her work, I highly recommend
+8
+00:00:24,080 --> 00:00:28,060
+Due to her popularity and the high interest in her work
 
-10
-00:00:29,603 --> 00:00:31,230
-arriving early to secure a seat.
+9
+00:00:28,640 --> 00:00:31,230
+I highly recommend arriving early to secure a seat.

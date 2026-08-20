@@ -1,639 +1,327 @@
 1
-00:00:00,000 --> 00:00:01,552
-Jane:
+00:00:00,000 --> 00:00:03,750
+Jane: Hello, Jane Fairbanks speaking.
 
 2
-00:00:01,552 --> 00:00:03,750
-Hello, Jane Fairbanks speaking.
+00:00:03,750 --> 00:00:07,120
+Frank: Oh, good morning. My name's Frank Pritchard
 
 3
-00:00:03,750 --> 00:00:04,472
-Frank:
+00:00:07,720 --> 00:00:10,010
+I've just retired and moved to Southoe.
 
 4
-00:00:04,472 --> 00:00:05,094
-Oh, good morning.
+00:00:10,010 --> 00:00:12,080
+I'd like to become a volunteer
 
 5
-00:00:05,094 --> 00:00:07,064
-My name’s Frank Pritchard.
-
-6
-00:00:07,064 --> 00:00:10,010
-I’ve just retired and moved to Southoe.
-
-7
-00:00:10,010 --> 00:00:12,588
-I’d like to become a volunteer,
-
-8
-00:00:12,588 --> 00:00:16,270
+00:00:12,080 --> 00:00:16,270
 and I gather you co-ordinate voluntary work in the village.
 
+6
+00:00:16,270 --> 00:00:17,250
+Jane: That's right.
+
+7
+00:00:17,250 --> 00:00:19,850
+Frank: What sort of thing could I do?
+
+8
+00:00:19,850 --> 00:00:23,382
+Jane: Well, we need help with the village library.
+
 9
-00:00:16,270 --> 00:00:16,515
-Jane:
+00:00:23,382 --> 00:00:28,091
+We borrow books from the town library, and individuals also donate them.
 
 10
-00:00:16,515 --> 00:00:17,250
-That’s right.
+00:00:28,091 --> 00:00:33,660
+So, one thing you could do is get involved in collecting them
 
 11
-00:00:17,250 --> 00:00:17,575
-Frank:
+00:00:33,860 --> 00:00:35,940
+if you've got a car, that is.
 
 12
-00:00:17,575 --> 00:00:19,850
-What sort of thing could I do?
+00:00:35,940 --> 00:00:38,100
+Frank: Yes, that's no problem.
 
 13
-00:00:19,850 --> 00:00:20,242
-Jane:
+00:00:38,100 --> 00:00:42,730
+Jane: The times are pretty flexible so we can arrange it to suit you.
 
 14
-00:00:20,242 --> 00:00:23,382
-Well, we need help with the village library.
+00:00:42,730 --> 00:00:47,360
+Another thing is the records that we keep of the books we're given,
 
 15
-00:00:23,382 --> 00:00:26,129
-We borrow books from the town library,
-
-16
-00:00:26,129 --> 00:00:28,091
-and individuals also donate them.
-
-17
-00:00:28,091 --> 00:00:33,193
-So, one thing you could do is get involved in collecting them – if
-
-18
-00:00:33,193 --> 00:00:35,155
-you’ve got a car,
-
-19
-00:00:35,155 --> 00:00:35,940
-that is.
-
-20
-00:00:35,940 --> 00:00:36,300
-Frank:
-
-21
-00:00:36,300 --> 00:00:36,660
-Yes,
-
-22
-00:00:36,660 --> 00:00:38,100
-that’s no problem.
-
-23
-00:00:38,100 --> 00:00:38,431
-Jane:
-
-24
-00:00:38,431 --> 00:00:42,730
-The times are pretty flexible so we can arrange it to suit you.
-
-25
-00:00:42,730 --> 00:00:47,360
-Another thing is the records that we keep of the books we’re given,
-
-26
 00:00:47,360 --> 00:00:51,329
 and those we borrow and need to return to the town library.
 
-27
-00:00:51,329 --> 00:00:55,959
-It would be very useful to have another person to help keep them up
+16
+00:00:51,329 --> 00:00:56,620
+It would be very useful to have another person to help keep them up to date.
 
-28
-00:00:55,959 --> 00:00:56,620
-to date.
+17
+00:00:56,620 --> 00:01:02,490
+Frank: Right. I'm used to working on a computer - I presume they're computerised?
 
-29
-00:00:56,620 --> 00:00:57,011
-Frank:
+18
+00:01:02,490 --> 00:01:03,810
+Jane: Oh yes.
 
-30
-00:00:57,011 --> 00:00:57,403
-Right.
+19
+00:01:03,810 --> 00:01:07,820
+Frank: Is the library purpose-built? I haven't noticed it
 
-31
-00:00:57,403 --> 00:01:02,490
-I’m used to working on a computer – I presume they’re computerised?
+20
+00:01:07,820 --> 00:01:09,260
+when I've walked round the village.
 
-32
-00:01:02,490 --> 00:01:02,930
-Jane:
+21
+00:01:09,260 --> 00:01:14,458
+Jane: No, we simply have the use of a room in the village hall, the West Room.
 
-33
-00:01:02,930 --> 00:01:03,810
-Oh yes.
-
-34
-00:01:03,810 --> 00:01:04,131
-Frank:
-
-35
-00:01:04,131 --> 00:01:05,413
-Is the library purpose-built?
-
-36
-00:01:05,413 --> 00:01:09,260
-I haven’t noticed it when I’ve walked round the village.
-
-37
-00:01:09,260 --> 00:01:09,566
-Jane:
-
-38
-00:01:09,566 --> 00:01:13,847
-No, we simply have the use of a room in the village hall, the
-
-39
-00:01:13,847 --> 00:01:14,458
-West Room.
-
-40
+22
 00:01:14,458 --> 00:01:17,210
-It’s on the left as you go in.
+It's on the left as you go in.
 
-41
-00:01:17,210 --> 00:01:17,510
-Frank:
+23
+00:01:17,210 --> 00:01:20,510
+Frank: I must go and have a look inside the hall.
 
-42
-00:01:17,510 --> 00:01:20,510
-I must go and have a look inside the hall.
+24
+00:01:20,510 --> 00:01:22,680
+Jane: Yes, it's a nice building.
 
-43
-00:01:20,510 --> 00:01:20,820
-Jane:
+25
+00:01:22,680 --> 00:01:26,640
+Frank: Do you run a lunch club in the village for elderly people
 
-44
-00:01:20,820 --> 00:01:22,680
-Yes, it’s a nice building.
-
-45
-00:01:22,680 --> 00:01:22,996
-Frank:
-
-46
-00:01:22,996 --> 00:01:26,788
-Do you run a lunch club in the village for elderly people?
-
-47
-00:01:26,788 --> 00:01:29,000
+26
+00:01:27,000 --> 00:01:29,000
 I know a lot of places do.
 
+27
+00:01:29,000 --> 00:01:31,810
+Jane: Yes, we have a very successful club.
+
+28
+00:01:31,810 --> 00:01:35,860
+Frank: I could help with transport, if that's of any use.
+
+29
+00:01:35,860 --> 00:01:40,128
+Jane: Oh, definitely. People come to the club from neighbouring villages,
+
+30
+00:01:40,128 --> 00:01:43,620
+and we're always in need of more drivers.
+
+31
+00:01:43,620 --> 00:01:48,906
+Frank: And does the club have groups that focus on a particular hobby, too?
+
+32
+00:01:48,906 --> 00:01:54,570
+I could get involved in one or two, particularly if there are any art groups.
+
+33
+00:01:54,570 --> 00:01:59,890
+Jane: Excellent. I'll find out where we need help and get back to you.
+
+34
+00:01:59,890 --> 00:02:06,380
+Frank: Fine. What about help for individual residents. Do you arrange that at all?
+
+35
+00:02:06,380 --> 00:02:11,498
+Jane: Yes, we do it as a one-off. In fact, there's Mrs.
+
+36
+00:02:11,498 --> 00:02:15,560
+Carroll. She needs a lift to the hospital next week
+
+37
+00:02:15,560 --> 00:02:18,190
+and we're struggling to find someone.
+
+38
+00:02:18,190 --> 00:02:19,860
+Frank: When's her appointment?
+
+39
+00:02:19,860 --> 00:02:23,680
+Jane: On Tuesday. It would take the whole morning.
+
+40
+00:02:23,680 --> 00:02:25,010
+Frank: I could do that.
+
+41
+00:02:25,010 --> 00:02:27,480
+Jane: Oh, that would be great. Thank you
+
+42
+00:02:27,900 --> 00:02:32,721
+And also, next week, we're arranging to have some work done to Mr.
+
+43
+00:02:32,721 --> 00:02:38,329
+Selsbury's house before he moves, as he isn't healthy enough to do it himself.
+
+44
+00:02:38,329 --> 00:02:41,483
+We've got some people to decorate his kitchen,
+
+45
+00:02:41,483 --> 00:02:46,390
+but if you could do some weeding in his garden, that would be wonderful.
+
+46
+00:02:46,390 --> 00:02:52,530
+Frank: OK. I'd enjoy that. And presumably the day and time are flexible.
+
+47
+00:02:52,530 --> 00:02:58,030
+Jane: Oh yes. Just say when would suit you best, and we'll let Mr. Selsbury know.
+
 48
-00:01:29,000 --> 00:01:29,351
-Jane:
+00:02:58,030 --> 00:02:58,940
+Frank: Good.
 
 49
-00:01:29,351 --> 00:01:31,810
-Yes, we have a very successful club.
+00:02:59,640 --> 00:03:02,670
+Jane: The Volunteers Group also organises monthly social events,
 
 50
-00:01:31,810 --> 00:01:32,148
-Frank:
-
-51
-00:01:32,148 --> 00:01:35,860
-I could help with transport, if that’s of any use.
-
-52
-00:01:35,860 --> 00:01:36,248
-Jane:
-
-53
-00:01:36,248 --> 00:01:37,024
-Ooo definitely.
-
-54
-00:01:37,024 --> 00:01:40,128
-People come to the club from neighbouring villages,
-
-55
-00:01:40,128 --> 00:01:43,620
-and we’re always in need of more drivers.
-
-56
-00:01:43,620 --> 00:01:43,998
-Frank:
-
-57
-00:01:43,998 --> 00:01:48,906
-And does the club have groups that focus on a particular hobby, too?
-
-58
-00:01:48,906 --> 00:01:54,192
-I could get involved in one or two, particularly if there are any art
-
-59
-00:01:54,192 --> 00:01:54,570
-groups.
-
-60
-00:01:54,570 --> 00:01:54,925
-Jane:
-
-61
-00:01:54,925 --> 00:01:55,279
-Excellent.
-
-62
-00:01:55,279 --> 00:01:59,890
-I’ll find out where we need help and get back to you.
-
-63
-00:01:59,890 --> 00:02:00,354
-Frank:
-
-64
-00:02:00,354 --> 00:02:00,817
-Fine.
-
-65
-00:02:00,817 --> 00:02:03,599
-What about help for individual residents.
-
-66
-00:02:03,599 --> 00:02:06,380
-Do you arrange that at all?
-
-67
-00:02:06,380 --> 00:02:06,774
-Jane:
-
-68
-00:02:06,774 --> 00:02:09,529
-Yes, we do it as a one-off.
-
-69
-00:02:09,529 --> 00:02:11,498
-In fact, there’s Mrs.
-
-70
-00:02:11,498 --> 00:02:11,891
-Carroll.
-
-71
-00:02:11,891 --> 00:02:15,434
-She needs a lift to the hospital next week,
-
-72
-00:02:15,434 --> 00:02:18,190
-and we’re struggling to find someone.
-
-73
-00:02:18,190 --> 00:02:18,524
-Frank:
-
-74
-00:02:18,524 --> 00:02:19,860
-When’s her appointment?
-
-75
-00:02:19,860 --> 00:02:20,284
-Jane:
-
-76
-00:02:20,284 --> 00:02:21,133
-On Tuesday.
-
-77
-00:02:21,133 --> 00:02:23,680
-It would take the whole morning.
-
-78
-00:02:23,680 --> 00:02:23,946
-Frank:
-
-79
-00:02:23,946 --> 00:02:25,010
-I could do that.
-
-80
-00:02:25,010 --> 00:02:25,360
-Jane:
-
-81
-00:02:25,360 --> 00:02:25,711
-Oh,
-
-82
-00:02:25,711 --> 00:02:27,113
-that would be great.
-
-83
-00:02:27,113 --> 00:02:27,814
-Thank you.
-
-84
-00:02:27,814 --> 00:02:32,721
-And also, next week, we’re arranging to have some work done to Mr.
-
-85
-00:02:32,721 --> 00:02:37,978
-Selsbury’s house before he moves, as he isn’t healthy enough to do it
-
-86
-00:02:37,978 --> 00:02:38,329
-himself.
-
-87
-00:02:38,329 --> 00:02:41,483
-We’ve got some people to decorate his kitchen,
-
-88
-00:02:41,483 --> 00:02:44,988
-but if you could do some weeding in his garden,
-
-89
-00:02:44,988 --> 00:02:46,390
-that would be wonderful.
-
-90
-00:02:46,390 --> 00:02:46,829
-Frank:
-
-91
-00:02:46,829 --> 00:02:47,267
-OK.
-
-92
-00:02:47,267 --> 00:02:49,021
-I’d enjoy that.
-
-93
-00:02:49,021 --> 00:02:52,530
-And presumably the day and time are flexible.
-
-94
-00:02:52,530 --> 00:02:52,854
-Jane:
-
-95
-00:02:52,854 --> 00:02:53,501
-Oh yes.
-
-96
-00:02:53,501 --> 00:02:55,765
-Just say when would suit you best,
-
-97
-00:02:55,765 --> 00:02:57,383
-and we’ll let Mr.
-
-98
-00:02:57,383 --> 00:02:58,030
-Selsbury know.
-
-99
-00:02:58,030 --> 00:02:58,760
-Frank:
-
-100
-00:02:58,760 --> 00:02:59,490
-Good
-
-101
-00:02:59,490 --> 00:02:59,881
-Jane:
-
-102
-00:02:59,881 --> 00:03:03,009
-The volunteers group also organises monthly social events,
-
-103
-00:03:03,009 --> 00:03:07,310
+00:03:02,670 --> 00:03:07,310
 which is a great way to meet other people, of course.
 
-104
-00:03:07,310 --> 00:03:07,730
-Frank:
+51
+00:03:07,310 --> 00:03:08,150
+Frank: Uhuh.
 
-105
-00:03:07,730 --> 00:03:08,150
-Uhuh.
+52
+00:03:08,150 --> 00:03:13,849
+Jane: So next month, on the 19th of October, we're holding a quiz -
 
-106
-00:03:08,150 --> 00:03:08,557
-Jane:
+53
+00:03:13,849 --> 00:03:18,440
+a couple of residents are great at planning unusual ones
 
-107
-00:03:08,557 --> 00:03:14,256
-So next month, on the 19th of October, we’re holding a quiz – a
-
-108
-00:03:14,256 --> 00:03:17,920
-couple of residents are great at planning unusual ones,
-
-109
-00:03:17,920 --> 00:03:20,770
+54
+00:03:18,440 --> 00:03:20,770
 and we always fill the village hall.
 
-110
-00:03:20,770 --> 00:03:21,138
-Frank:
+55
+00:03:20,770 --> 00:03:24,820
+Frank: That sounds like fun. Can I do anything to help?
 
-111
-00:03:21,138 --> 00:03:22,611
-That sounds like fun.
+56
+00:03:24,820 --> 00:03:27,500
+Jane: Well, because of the number of people
 
-112
-00:03:22,611 --> 00:03:24,820
-Can I do anything to help?
+57
+00:03:28,040 --> 00:03:31,214
+we need plenty of refreshments for halfway through.
 
-113
-00:03:24,820 --> 00:03:25,220
-Jane:
-
-114
-00:03:25,220 --> 00:03:25,619
-Well,
-
-115
-00:03:25,619 --> 00:03:31,214
-because of the number of people, we need plenty of refreshments for halfway through.
-
-116
+58
 00:03:31,214 --> 00:03:35,210
-So, if you could provide any, we’d be grateful.
+So, if you could provide any, we'd be grateful.
 
-117
-00:03:35,210 --> 00:03:35,480
-Frank:
+59
+00:03:35,210 --> 00:03:39,800
+Frank: I'm sure I could. I'll think about what to make, and let you know.
 
-118
-00:03:35,480 --> 00:03:36,830
-I’m sure I could.
+60
+00:03:39,800 --> 00:03:45,780
+Jane: Thank you. Then on November the 18th, we're holding a dance
 
-119
-00:03:36,830 --> 00:03:38,720
-I’ll think about what to make,
+61
+00:03:46,120 --> 00:03:47,074
+also in the village hall.
 
-120
-00:03:38,720 --> 00:03:39,800
-and let you know.
+62
+00:03:47,074 --> 00:03:51,924
+We've booked a band that specialises in music of the 1930s -
 
-121
-00:03:39,800 --> 00:03:40,204
-Jane:
+63
+00:03:51,924 --> 00:03:58,390
+they've been before, and we've had a lot of requests to bring them back.
 
-122
-00:03:40,204 --> 00:03:41,012
-Thank you.
+64
+00:03:58,390 --> 00:04:03,030
+Frank: I'm not really a dancer, but I'd like to do something to help.
 
-123
-00:03:41,012 --> 00:03:46,670
-Then on November the 18th, we’re holding a dance, also in the village
+65
+00:04:03,030 --> 00:04:06,200
+Jane: Well, we sell tickets in advance
 
-124
-00:03:46,670 --> 00:03:47,074
-hall.
+66
+00:04:06,200 --> 00:04:09,716
+and having an extra person to check them at the door,
 
-125
-00:03:47,074 --> 00:03:53,136
-We’ve booked a band that specialises in music of the 1930s – they’ve been
+67
+00:04:09,716 --> 00:04:12,040
+as people arrive, would be good
 
-126
-00:03:53,136 --> 00:03:53,540
-before,
+68
+00:04:12,500 --> 00:04:16,030
+it can be quite a bottleneck if everyone arrives at once!
 
-127
-00:03:53,540 --> 00:03:58,390
-and we’ve had a lot of requests to bring them back.
+69
+00:04:16,030 --> 00:04:18,400
+Frank: OK, I'm happy with that.
 
-128
-00:03:58,390 --> 00:03:58,680
-Frank:
+70
+00:04:18,400 --> 00:04:22,215
+Jane: We're also arranging a New Year's Eve party.
 
-129
-00:03:58,680 --> 00:04:00,420
-I’m not really a dancer,
-
-130
-00:04:00,420 --> 00:04:03,030
-but I’d like to do something to help.
-
-131
-00:04:03,030 --> 00:04:03,401
-Jane:
-
-132
-00:04:03,401 --> 00:04:05,630
-Well, we sell tickets in advance,
-
-133
-00:04:05,630 --> 00:04:10,830
-and having an extra person to check them at the door, as people arrive,
-
-134
-00:04:10,830 --> 00:04:16,030
-would be good – it can be quite a bottleneck if everyone arrives at once!
-
-135
-00:04:16,030 --> 00:04:16,369
-Frank:
-
-136
-00:04:16,369 --> 00:04:18,400
-OK, I’m happy with that.
-
-137
-00:04:18,400 --> 00:04:18,747
-Jane:
-
-138
-00:04:18,747 --> 00:04:22,215
-We’re also arranging a New Year’s Eve party.
-
-139
+71
 00:04:22,215 --> 00:04:25,684
-We’re expecting that to be a really big event,
+We're expecting that to be a really big event,
 
-140
+72
 00:04:25,684 --> 00:04:30,540
-so instead of the village hall, it’ll be held in the Mountfort Hotel.
+so instead of the village hall, it'll be held in the Mountfort Hotel.
 
-141
-00:04:30,540 --> 00:04:31,080
-Frank:
+73
+00:04:30,540 --> 00:04:31,620
+Frank: The...?
 
-142
-00:04:31,080 --> 00:04:31,620
-The …?
+74
+00:04:31,620 --> 00:04:41,292
+Jane: Mountfort. M-O-U-N-T-F-O-R-T Hotel. It isn't in Southoe itself, but it's only a couple of miles away.
 
-143
-00:04:31,620 --> 00:04:32,129
-Jane:
-
-144
-00:04:32,129 --> 00:04:32,638
-Mountfort.
-
-145
-00:04:32,638 --> 00:04:33,656
-M-O-U-N-T-F-O-R-T Hotel.
-
-146
-00:04:33,656 --> 00:04:36,711
-It isn’t in Southoe itself,
-
-147
-00:04:36,711 --> 00:04:41,292
-but it’s only a couple of miles away.
-
-148
+75
 00:04:41,292 --> 00:04:47,401
-The hotel will be providing dinner and we’ve booked a band.
+The hotel will be providing dinner and we've booked a band.
 
-149
-00:04:47,401 --> 00:04:53,001
-The one thing we haven’t got yet is a poster.
+76
+00:04:47,401 --> 00:04:55,400
+The one thing we haven't got yet is a poster
 
-150
-00:04:53,001 --> 00:04:59,110
-That isn’t something you could do, by any chance, is it?
+77
+00:04:55,840 --> 00:04:59,110
+That isn't something you could do, by any chance, is it?
 
-151
-00:04:59,110 --> 00:04:59,496
-Frank:
+78
+00:04:59,110 --> 00:05:04,280
+Frank: Well actually, yes. Before I retired I was a graphic designer
 
-152
-00:04:59,496 --> 00:05:00,655
-Well actually, yes.
+79
+00:05:04,400 --> 00:05:06,450
+so that's right up my street.
 
-153
-00:05:00,655 --> 00:05:03,746
-Before I retired I was a graphic designer,
+80
+00:05:06,450 --> 00:05:09,780
+Jane: Oh perfect! I'll give you the details
 
-154
-00:05:03,746 --> 00:05:06,450
-so that’s right up my street.
+81
+00:05:09,780 --> 00:05:12,700
+and then perhaps you could send me a draft...
 
-155
-00:05:06,450 --> 00:05:06,797
-Jane:
-
-156
-00:05:06,797 --> 00:05:07,492
-Oh perfect!
-
-157
-00:05:07,492 --> 00:05:09,575
-I’ll give you the details,
-
-158
-00:05:09,575 --> 00:05:12,700
-and then perhaps you could send me a draft …
-
-159
-00:05:12,700 --> 00:05:13,133
-Frank:
-
-160
-00:05:13,133 --> 00:05:14,000
-Of course.
+82
+00:05:12,700 --> 00:05:14,000
+Frank: Of course.

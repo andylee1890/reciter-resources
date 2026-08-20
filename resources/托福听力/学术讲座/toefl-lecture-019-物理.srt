@@ -3,61 +3,65 @@
 Listen to a talk in a physics class.
 
 2
-00:00:02,010 --> 00:00:05,811
-Dark matter is a type of matter that doesn’t emit, absorb,
+00:00:02,010 --> 00:00:05,750
+Dark matter is a type of matter that doesn't emit,
 
 3
-00:00:05,811 --> 00:00:09,150
-or reflect light, making it invisible to current instruments.
+00:00:05,750 --> 00:00:09,150
+absorb, or reflect light, making it invisible to current instruments.
 
 4
-00:00:09,150 --> 00:00:16,116
-Despite being unobservabl directly, it’s believed to make up about 27 percent of the
+00:00:09,150 --> 00:00:17,260
+Despite being unobservable directly, it's believed to make up about 27 percent of the universe's mass-energy content.
 
 5
-00:00:16,116 --> 00:00:17,260
-universe’s mass-energy content.
-
-6
-00:00:17,260 --> 00:00:20,872
+00:00:17,260 --> 00:00:20,183
 How do scientists know dark matter exists?
 
-7
-00:00:20,872 --> 00:00:26,030
+6
+00:00:20,183 --> 00:00:26,030
 Well, all the stars in a galaxy rotate around the center of their galaxy.
 
+7
+00:00:26,030 --> 00:00:31,180
+According to basic physics, the farther a star is from the center of a galaxy
+
 8
-00:00:26,030 --> 00:00:31,014
-According to basic physics, the farther a star is from the center of a
+00:00:31,420 --> 00:00:33,150
+the slower it should rotate.
 
 9
-00:00:31,014 --> 00:00:33,150
-galaxy, the slower it should rotate.
-
-10
 00:00:33,150 --> 00:00:41,290
 However, observations show that stars in the outer regions of galaxies rotate at unexpectedly high speeds.
 
+10
+00:00:41,290 --> 00:00:44,385
+This anomaly suggests that a massive,
+
 11
-00:00:41,290 --> 00:00:48,511
-This anomaly suggests that a massive, unseen matter is exerting gravitational force, keeping the
+00:00:44,385 --> 00:00:47,860
+unseen matter is exerting gravitational force
 
 12
-00:00:48,511 --> 00:00:51,090
-stars moving faster than expected.
+00:00:48,140 --> 00:00:51,090
+keeping the stars moving faster than expected.
 
 13
-00:00:51,090 --> 00:00:56,826
-Dark matter is hugely important for the structure of the universe.Computer simulations show that
+00:00:51,090 --> 00:00:55,297
+Dark matter is hugely important for the structure of the universe.
 
 14
-00:00:56,826 --> 00:01:02,180
-galaxies wouldn't have formed the way they did if dark matter hadn't been around.
+00:00:55,297 --> 00:01:00,000
+Computer simulations show that galaxies wouldn't have formed the way they did
 
 15
-00:01:02,180 --> 00:01:06,569
-But what does dark matter consist of?Well, there are different theories,
+00:01:00,000 --> 00:01:02,180
+if dark matter hadn't been around.
 
 16
-00:01:06,569 --> 00:01:09,130
-so let's consider a couple of them.
+00:01:02,180 --> 00:01:05,040
+But what does dark matter consist of
+
+17
+00:01:05,680 --> 00:01:09,130
+Well, there are different theories, so let's consider a couple of them.

@@ -3,23 +3,23 @@
 Listen to a lecture in an Earth Science class.
 
 2
-00:00:03,060 --> 00:00:08,120
-Today I’d like to explain the Mohs’ scale, used in what is called the “scratch test.”
+00:00:03,060 --> 00:00:05,978
+Today I'd like to explain the Mohs' scale,
 
 3
-00:00:08,120 --> 00:00:13,110
-This scale is based on the simple fact that harder minerals scratch softer ones.
+00:00:05,978 --> 00:00:07,920
+used in what is called the "scratch test
 
 4
-00:00:13,110 --> 00:00:14,741
-For example, a diamond;
+00:00:08,560 --> 00:00:13,110
+This scale is based on the simple fact that harder minerals scratch softer ones.
 
 5
-00:00:14,741 --> 00:00:17,620
-a quartz crystal can scratch a feldspar crystal,
+00:00:13,110 --> 00:00:17,580
+For example, a diamond; a quartz crystal can scratch a feldspar crystal
 
 6
-00:00:17,620 --> 00:00:19,170
+00:00:17,580 --> 00:00:19,170
 but not the other around.
 
 7
@@ -27,57 +27,65 @@ but not the other around.
 The scale is named for Friedrich Mohs, the mineralogist who devised it in 1812.
 
 8
-00:00:25,100 --> 00:00:31,000
-His scale spans the range of minerals known at that time, from the softest to the hardest.
+00:00:25,100 --> 00:00:28,840
+His scale spans the range of minerals known at that time
 
 9
-00:00:31,000 --> 00:00:35,996
-By performing a scratch test using known minerals and a few common tools, an
+00:00:28,840 --> 00:00:31,000
+from the softest to the hardest.
 
 10
-00:00:35,996 --> 00:00:40,150
-unidentified mineral sample can be placed between two points on the scale.
+00:00:31,000 --> 00:00:35,575
+By performing a scratch test using known minerals and a few common tools,
 
 11
+00:00:35,575 --> 00:00:40,150
+an unidentified mineral sample can be placed between two points on the scale.
+
+12
 00:00:40,150 --> 00:00:44,120
 By referring to the scale, the mineral can then be identified.
 
-12
-00:00:44,120 --> 00:00:48,824
-I have here a collection of the minerals included on the Mohs’ scale, as
-
 13
-00:00:48,824 --> 00:00:52,000
-well as the tools necessary to complete this exercise.
+00:00:44,120 --> 00:00:48,574
+I have here a collection of the minerals included on the Mohs' scale,
 
 14
-00:00:52,000 --> 00:00:56,563
-I’d like you each to take a mineral sample from the basket at the front of the room
+00:00:48,574 --> 00:00:52,000
+as well as the tools necessary to complete this exercise.
 
 15
-00:00:56,563 --> 00:01:00,020
-and classify it according to its place on the Mohs’ scale.
+00:00:52,000 --> 00:00:57,079
+I'd like you each to take a mineral sample from the basket at the front of the room
 
 16
+00:00:57,079 --> 00:01:00,020
+and classify it according to its place on the Mohs' scale.
+
+17
 00:01:00,020 --> 00:01:03,050
 First, however, I should give you a little warning.
 
-17
-00:01:03,050 --> 00:01:07,010
-The hardness of any mineral depends on the strength of the bonds between ions
-
 18
-00:01:07,010 --> 00:01:11,110
-or between atoms – the stronger the bond, the harder the mineral.
+00:01:03,050 --> 00:01:08,531
+The hardness of any mineral depends on the strength of the bonds between ions or between atoms -
 
 19
-00:01:11,110 --> 00:01:15,945
-Because bond strength may differ in various angles of a crystal, the hardness may
+00:01:08,531 --> 00:01:11,110
+the stronger the bond, the harder the mineral.
 
 20
-00:01:15,945 --> 00:01:19,917
-vary slightly depending on the direction in which the mineral sample is scratched,
+00:01:11,110 --> 00:01:14,867
+Because bond strength may differ in various angles of a crystal,
 
 21
-00:01:19,917 --> 00:01:24,090
+00:01:14,867 --> 00:01:18,300
+the hardness may vary slightly depending on the direction in
+
+22
+00:01:18,300 --> 00:01:20,333
+which the mineral sample is scratched,
+
+23
+00:01:20,333 --> 00:01:24,090
 so be sure to scratch each sample in several different directions.

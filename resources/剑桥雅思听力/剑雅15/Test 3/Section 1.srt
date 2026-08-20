@@ -1,619 +1,319 @@
 1
-00:00:00,000 --> 00:00:02,008
-SAIIY:
+00:00:00,000 --> 00:00:06,058
+SAIIY: Good morning. Thanks for coming in to see us here at the agency, JOE.
 
 2
-00:00:02,008 --> 00:00:02,630
-Good morning.
+00:00:06,058 --> 00:00:10,500
+I'm one of the agency representatives, and my name's SALLY Baker.
 
 3
-00:00:02,630 --> 00:00:06,058
-Thanks for coming in to see us here at the agency, JOE.
+00:00:10,500 --> 00:00:13,600
+JOE: Hi SALLY. I think we spoke on the phone, didn't we?
 
 4
-00:00:06,058 --> 00:00:08,481
-I'm one of the agency representatives,
+00:00:13,600 --> 00:00:17,519
+SALLY: That's right, we did. So thank you for sending in your CV.
 
 5
-00:00:08,481 --> 00:00:10,500
-and my name's SALLY Baker.
+00:00:17,519 --> 00:00:20,120
+We've had quite a careful look at it
 
 6
-00:00:10,500 --> 00:00:10,758
-JOE:
+00:00:20,280 --> 00:00:23,850
+and I think we have two jobs that might be suitable for you.
 
 7
-00:00:10,758 --> 00:00:11,275
-Hi SALLY.
+00:00:23,850 --> 00:00:25,150
+JOE: OK.
 
 8
-00:00:11,275 --> 00:00:13,600
-I think we spoke on the phone, didn't we?
+00:00:25,150 --> 00:00:28,160
+SALLY: The first one is in a company based in North London
 
 9
-00:00:13,600 --> 00:00:13,901
-SALLY:
-
-10
-00:00:13,901 --> 00:00:15,107
-That's right, we did.
-
-11
-00:00:15,107 --> 00:00:17,519
-So thank you for sending in your CV.
-
-12
-00:00:17,519 --> 00:00:21,740
-We've had quite a careful look at it and I think we have two
-
-13
-00:00:21,740 --> 00:00:23,850
-jobs that might be suitable for you.
-
-14
-00:00:23,850 --> 00:00:24,500
-JOE:
-
-15
-00:00:24,500 --> 00:00:25,150
-OK.
-
-16
-00:00:25,150 --> 00:00:25,493
-SALLY:
-
-17
-00:00:25,493 --> 00:00:29,270
-The first one is in a company based in North London.
-
-18
-00:00:29,270 --> 00:00:31,330
+00:00:28,820 --> 00:00:31,330
 They're looking for an administrative assistant.
 
-19
-00:00:31,330 --> 00:00:31,720
-JOE:
+10
+00:00:31,330 --> 00:00:34,450
+JOE: OK. What sort of company is it?
 
-20
-00:00:31,720 --> 00:00:32,110
-OK.
+11
+00:00:34,450 --> 00:00:39,390
+SALLY: They're called Home Solutions and they design and make furniture.
 
-21
-00:00:32,110 --> 00:00:34,450
-What sort of company is it?
+12
+00:00:39,390 --> 00:00:43,680
+JOE: Oh, I don't know much about that, but it sounds interesting.
 
-22
-00:00:34,450 --> 00:00:34,899
-SALLY:
+13
+00:00:43,680 --> 00:00:47,299
+SALLY: Yes, well as I said, they want someone in their office,
 
-23
-00:00:34,899 --> 00:00:39,390
-They're called Home Solutions and they design and make furniture.
+14
+00:00:47,299 --> 00:00:50,380
+and looking at your past experience it does look as
 
-24
-00:00:39,390 --> 00:00:39,748
-JOE:
+15
+00:00:50,380 --> 00:00:53,030
+if you fit quite a few of the requirements.
 
-25
-00:00:39,748 --> 00:00:42,250
-Oh, I don't know much about that,
-
-26
-00:00:42,250 --> 00:00:43,680
-but it sounds interesting.
-
-27
-00:00:43,680 --> 00:00:43,982
-SALLY:
-
-28
-00:00:43,982 --> 00:00:47,299
-Yes, well as I said, they want someone in their office,
-
-29
-00:00:47,299 --> 00:00:51,522
-and looking at your past experience it does look as if you fit quite
-
-30
-00:00:51,522 --> 00:00:53,030
-a few of the requirements.
-
-31
+16
 00:00:53,030 --> 00:00:57,250
 So on your CV it appears you've done some data entry?
 
-32
-00:00:57,250 --> 00:00:57,850
-JOE:
+17
+00:00:57,250 --> 00:00:58,450
+JOE: Yes.
 
-33
-00:00:57,850 --> 00:00:58,450
-Yes.
+18
+00:00:58,450 --> 00:01:00,717
+SALLY: So that's one skill they want.
 
-34
-00:00:58,450 --> 00:00:58,774
-SALLY:
-
-35
-00:00:58,774 --> 00:01:00,717
-So that's one skill they want.
-
-36
+19
 00:01:00,717 --> 00:01:05,250
-Then they expect the person they appoint to attend meetings and take notes there …
+Then they expect the person they appoint to attend meetings and take notes there...
 
-37
-00:01:05,250 --> 00:01:05,641
-JOE:
+20
+00:01:05,250 --> 00:01:07,990
+JOE: OK. I've done that before, yes.
 
-38
-00:01:05,641 --> 00:01:06,033
-OK.
+21
+00:01:07,990 --> 00:01:11,390
+SALLY: And you'd need to be able to cope with general admin.
 
-39
-00:01:06,033 --> 00:01:07,990
-I've done that before, yes.
+22
+00:01:11,390 --> 00:01:13,943
+JOE: Filing, and keeping records and so on?
 
-40
-00:01:07,990 --> 00:01:08,273
-SALLY:
+23
+00:01:13,943 --> 00:01:19,050
+That should be OK. And in my last job I also had to manage the diary.
 
-41
-00:01:08,273 --> 00:01:11,390
-And you'd need to be able to cope with general admin.
+24
+00:01:19,050 --> 00:01:21,763
+SALLY: Excellent. That's something they want here too.
 
-42
-00:01:11,390 --> 00:01:11,709
-JOE:
+25
+00:01:21,763 --> 00:01:27,190
+I'd suggest you add it to your CV - I don't think you mentioned that, did you?
 
-43
-00:01:11,709 --> 00:01:12,028
-Filing,
+26
+00:01:27,190 --> 00:01:28,190
+JOE: No.
 
-44
-00:01:12,028 --> 00:01:13,943
-and keeping records and so on?
+27
+00:01:28,190 --> 00:01:31,702
+SALLY: So as far as the requirements go,
 
-45
-00:01:13,943 --> 00:01:15,220
-That should be OK.
+28
+00:01:31,702 --> 00:01:33,400
+they want good computer skills, of course
 
-46
-00:01:15,220 --> 00:01:19,050
-And in my last job I also had to manage the diary.
-
-47
-00:01:19,050 --> 00:01:19,414
-SALLY:
-
-48
-00:01:19,414 --> 00:01:19,779
-Excellent.
-
-49
-00:01:19,779 --> 00:01:21,965
-That's something they want here too.
-
-50
-00:01:21,965 --> 00:01:24,880
-I'd suggest you add it to your CV –
-
-51
-00:01:24,880 --> 00:01:27,190
-I don't think you mentioned that, did you?
-
-52
-00:01:27,190 --> 00:01:27,690
-JOE:
-
-53
-00:01:27,690 --> 00:01:28,190
-No.
-
-54
-00:01:28,190 --> 00:01:28,629
-SALLY:
-
-55
-00:01:28,629 --> 00:01:34,775
-So as far as the requirements go, they want good computer skills, of course,
-
-56
-00:01:34,775 --> 00:01:36,970
+29
+00:01:33,640 --> 00:01:36,970
 and they particularly mention spreadsheets.
 
-57
-00:01:36,970 --> 00:01:37,246
-JOE:
+30
+00:01:36,970 --> 00:01:38,350
+JOE: That should be fine.
 
-58
-00:01:37,246 --> 00:01:38,350
-That should be fine.
+31
+00:01:38,350 --> 00:01:42,960
+SALLY: And interpersonal skills - which would be something they'd check with your references.
 
-59
-00:01:38,350 --> 00:01:38,705
-SALLY:
+32
+00:01:42,960 --> 00:01:45,810
+JOE: I think that should be OK, yes.
 
-60
-00:01:38,705 --> 00:01:42,960
-And interpersonal skills – which would be something they'd check with your references.
+33
+00:01:45,810 --> 00:01:48,280
+SALLY: Then they mention that they want someone
 
-61
-00:01:42,960 --> 00:01:43,316
-JOE:
+34
+00:01:48,280 --> 00:01:51,446
+who is careful and takes care with details -
 
-62
-00:01:43,316 --> 00:01:45,810
-I think that should be OK, yes.
+35
+00:01:51,446 --> 00:01:55,320
+just looking at your CV, I'd say you're probably alright there.
 
-63
-00:01:45,810 --> 00:01:46,162
-SALLY:
+36
+00:01:55,320 --> 00:02:00,210
+JOE: I think so, yes. Do they want any special experience?
 
-64
-00:01:46,162 --> 00:01:49,684
-Then they mention that they want someone who is careful
+37
+00:02:00,210 --> 00:02:03,850
+SALLY: I think they wanted some experience of teleconferencing.
 
-65
-00:01:49,684 --> 00:01:54,263
-and takes care with details – just looking at your CV, I'd say you're
+38
+00:02:03,850 --> 00:02:06,950
+JOE: I've got three years' experience of that.
 
-66
-00:01:54,263 --> 00:01:55,320
-probably alright there.
+39
+00:02:06,950 --> 00:02:13,305
+SALLY: Let's see, yes, good. In fact they're only asking for at least one year, so that's great.
 
-67
-00:01:55,320 --> 00:01:55,765
-JOE:
-
-68
-00:01:55,765 --> 00:01:57,543
-I think so, yes.
-
-69
-00:01:57,543 --> 00:02:00,210
-Do they want any special experience?
-
-70
-00:02:00,210 --> 00:02:00,614
-SALLY:
-
-71
-00:02:00,614 --> 00:02:03,850
-I think they wanted some experience of teleconferencing.
-
-72
-00:02:03,850 --> 00:02:04,238
-JOE:
-
-73
-00:02:04,238 --> 00:02:06,950
-I've got three years' experience of that.
-
-74
-00:02:06,950 --> 00:02:07,303
-SALLY:
-
-75
-00:02:07,303 --> 00:02:08,715
-Let's see, yes, good.
-
-76
-00:02:08,715 --> 00:02:12,246
-In fact they're only asking for at least one year,
-
-77
-00:02:12,246 --> 00:02:13,305
-so that's great.
-
-78
+40
 00:02:13,305 --> 00:02:16,130
 So is that something that might interest you?
 
-79
-00:02:16,130 --> 00:02:16,472
-JOE:
+41
+00:02:16,130 --> 00:02:18,869
+JOE: It is, yes. The only thing is,
 
-80
-00:02:16,472 --> 00:02:17,500
-It is, yes.
+42
+00:02:18,869 --> 00:02:24,690
+you said they were in North London so it would be quite a long commute for me.
 
-81
-00:02:17,500 --> 00:02:21,266
-The only thing is, you said they were in North London
+43
+00:02:24,690 --> 00:02:28,210
+SALLY: OK.
 
-82
-00:02:21,266 --> 00:02:24,690
-so it would be quite a long commute for me.
+44
+00:02:28,210 --> 00:02:32,914
+SALLY: So the second position might suit you better as far as the location goes;
 
-83
-00:02:24,690 --> 00:02:26,450
-SALLY:
-
-84
-00:02:26,450 --> 00:02:28,210
-OK.
-
-85
-00:02:28,210 --> 00:02:28,524
-SALLY:
-
-86
-00:02:28,524 --> 00:02:32,914
-So the second position might suit you better as far as the location goes;
-
-87
+45
 00:02:32,914 --> 00:02:36,050
 that's for a warehouse assistant and that's in South London.
 
-88
-00:02:36,050 --> 00:02:36,389
-JOE:
+46
+00:02:36,050 --> 00:02:38,760
+JOE: Yes, that would be a lot closer.
 
-89
-00:02:36,389 --> 00:02:36,728
-Yes,
+47
+00:02:38,760 --> 00:02:41,140
+SALLY: And you've worked in a warehouse before, haven't you?
 
-90
-00:02:36,728 --> 00:02:38,760
-that would be a lot closer.
+48
+00:02:41,140 --> 00:02:42,240
+JOE: Yes.
 
-91
-00:02:38,760 --> 00:02:38,998
-SALLY:
+49
+00:02:42,240 --> 00:02:46,248
+SALLY: So as far as the responsibilities for this position go,
 
-92
-00:02:38,998 --> 00:02:41,140
-And you've worked in a warehouse before, haven't you?
+50
+00:02:46,248 --> 00:02:50,620
+they want someone who can manage the stock, obviously, and also deliveries.
 
-93
-00:02:41,140 --> 00:02:41,690
-JOE:
+51
+00:02:50,620 --> 00:02:55,020
+JOE: That should be OK. You've got to keep track of stuff
 
-94
-00:02:41,690 --> 00:02:42,240
-Yes.
-
-95
-00:02:42,240 --> 00:02:42,604
-SALLY:
-
-96
-00:02:42,604 --> 00:02:47,705
-So as far as the responsibilities for this position go, they want someone who
-
-97
-00:02:47,705 --> 00:02:49,527
-can manage the stock, obviously,
-
-98
-00:02:49,527 --> 00:02:50,620
-and also deliveries.
-
-99
-00:02:50,620 --> 00:02:50,988
-JOE:
-
-100
-00:02:50,988 --> 00:02:52,458
-That should be OK.
-
-101
-00:02:52,458 --> 00:02:55,030
-You've got to keep track of stuff,
-
-102
-00:02:55,030 --> 00:02:57,970
+52
+00:02:55,440 --> 00:02:57,970
 but I've always been quite good with numbers.
 
-103
-00:02:57,970 --> 00:02:58,333
-SALLY:
+53
+00:02:57,970 --> 00:03:00,147
+SALLY: Good. that's their first requirement.
 
-104
-00:02:58,333 --> 00:02:58,696
-Good.
+54
+00:03:00,147 --> 00:03:04,500
+And they want someone who's computer literate, which we know you are.
 
-105
-00:02:58,696 --> 00:03:00,147
-that's their first requirement.
+55
+00:03:04,500 --> 00:03:06,340
+JOE: Sure.
 
-106
-00:03:00,147 --> 00:03:02,686
-And they want someone who's computer literate,
+56
+00:03:06,340 --> 00:03:08,800
+SALLY: Then they mention organisational skills
 
-107
-00:03:02,686 --> 00:03:04,500
-which we know you are.
-
-108
-00:03:04,500 --> 00:03:05,420
-JOE:
-
-109
-00:03:05,420 --> 00:03:06,340
-Sure.
-
-110
-00:03:06,340 --> 00:03:06,762
-SALLY:
-
-111
-00:03:06,762 --> 00:03:08,875
-Then they mention organisational skills.
-
-112
-00:03:08,875 --> 00:03:11,410
+57
+00:03:09,140 --> 00:03:11,410
 They want someone who's well organised.
 
-113
-00:03:11,410 --> 00:03:11,858
-JOE:
+58
+00:03:11,410 --> 00:03:14,100
+JOE: Yes, I think I am.
 
-114
-00:03:11,858 --> 00:03:14,100
-Yes, I think I am.
+59
+00:03:14,100 --> 00:03:15,630
+SALLY: And tidy?
 
-115
-00:03:14,100 --> 00:03:14,610
-SALLY:
+60
+00:03:15,630 --> 00:03:18,800
+JOE: Yes, they go together really, don't they?
 
-116
-00:03:14,610 --> 00:03:15,630
-And tidy?
+61
+00:03:18,800 --> 00:03:21,140
+SALLY: Sure. Then the usual stuff
 
-117
-00:03:15,630 --> 00:03:16,026
-JOE:
-
-118
-00:03:16,026 --> 00:03:18,800
-Yes, they go together really, don't they?
-
-119
-00:03:18,800 --> 00:03:19,179
-SALLY:
-
-120
-00:03:19,179 --> 00:03:19,558
-Sure.
-
-121
-00:03:19,558 --> 00:03:21,073
-Then the usual stuff;
-
-122
-00:03:21,073 --> 00:03:25,620
+62
+00:03:21,280 --> 00:03:25,620
 they want someone who can communicate well both orally and in writing.
 
-123
-00:03:25,620 --> 00:03:25,961
-JOE:
+63
+00:03:25,620 --> 00:03:29,080
+JOE: OK. And for the last warehouse job I had
 
-124
-00:03:25,961 --> 00:03:26,303
-OK.
+64
+00:03:29,560 --> 00:03:33,470
+one of the things I enjoyed most was being part of a team.
 
-125
-00:03:26,303 --> 00:03:31,081
-And for the last warehouse job I had, one of the things I enjoyed
-
-126
-00:03:31,081 --> 00:03:33,470
-most was being part of a team.
-
-127
+65
 00:03:33,470 --> 00:03:36,150
 I found that was really essential for the job.
 
-128
-00:03:36,150 --> 00:03:36,494
-SALLY:
+66
+00:03:36,150 --> 00:03:41,309
+SALLY: Excellent. Yes, they do mention that they want someone who's used to that, yes.
 
-129
-00:03:36,494 --> 00:03:36,838
-Excellent.
+67
+00:03:41,309 --> 00:03:44,960
+Now when you were working in a warehouse last time
 
-130
-00:03:36,838 --> 00:03:41,309
-Yes, they do mention that they want someone who's used to that, yes.
+68
+00:03:45,440 --> 00:03:47,500
+what sorts of items were you dealing with?
 
-131
-00:03:41,309 --> 00:03:46,124
-Now when you were working in a warehouse last time, what sorts of items
+69
+00:03:47,500 --> 00:03:54,280
+JOE: It was mostly bathroom and kitchen equipment, sinks and stoves and fridges.
 
-132
-00:03:46,124 --> 00:03:47,500
-were you dealing with?
+70
+00:03:54,280 --> 00:03:57,570
+SALLY: So you're OK moving heavy things?
 
-133
-00:03:47,500 --> 00:03:48,022
-JOE:
+71
+00:03:57,570 --> 00:04:01,350
+JOE: Sure. I'm quite strong, and I've had the training.
 
-134
-00:03:48,022 --> 00:03:54,280
-It was mostly bathroom and kitchen equipment, sinks and stoves and fridges.
+72
+00:04:01,350 --> 00:04:05,020
+SALLY: Good. Now as far as experience goes
 
-135
-00:03:54,280 --> 00:03:54,750
-SALLY:
+73
+00:04:05,080 --> 00:04:06,854
+they mention they want someone with a licence,
 
-136
-00:03:54,750 --> 00:03:57,570
-So you're OK moving heavy things?
+74
+00:04:06,854 --> 00:04:11,000
+and that you have experience of driving in London
 
-137
-00:03:57,570 --> 00:03:57,948
-JOE:
-
-138
-00:03:57,948 --> 00:03:58,326
-Sure.
-
-139
-00:03:58,326 --> 00:03:59,460
-I'm quite strong,
-
-140
-00:03:59,460 --> 00:04:01,350
-and I've had the training.
-
-141
-00:04:01,350 --> 00:04:01,717
-SALLY:
-
-142
-00:04:01,717 --> 00:04:02,084
-Good.
-
-143
-00:04:02,084 --> 00:04:07,225
-Now as far as experience goes, they mention they want someone with a licence,
-
-144
-00:04:07,225 --> 00:04:10,530
-and that you have experience of driving in London –
-
-145
-00:04:10,530 --> 00:04:13,390
+75
+00:04:11,020 --> 00:04:13,390
 so you can cope with the traffic and so on.
 
-146
-00:04:13,390 --> 00:04:13,902
-JOE:
+76
+00:04:13,390 --> 00:04:15,440
+JOE: Yes, no problem.
 
-147
-00:04:13,902 --> 00:04:15,440
-Yes, no problem.
+77
+00:04:15,440 --> 00:04:18,080
+SALLY: And you've got experience of warehouse work
 
-148
-00:04:15,440 --> 00:04:15,788
-SALLY:
+78
+00:04:18,580 --> 00:04:21,364
+and the final thing they mention is customer service.
 
-149
-00:04:15,788 --> 00:04:20,318
-And you've got experience of warehouse work … and the final thing they mention
-
-150
-00:04:20,318 --> 00:04:21,364
-is customer service.
-
-151
+79
 00:04:21,364 --> 00:04:24,500
 I think looking at your CV you're OK there.
 
-152
-00:04:24,500 --> 00:04:24,772
-JOE:
-
-153
-00:04:24,772 --> 00:04:25,044
-Right.
-
-154
-00:04:25,044 --> 00:04:26,131
-So what about pay?
-
-155
-00:04:26,131 --> 00:04:28,850
-Can you tell me a bit more about that, please …
+80
+00:04:24,500 --> 00:04:28,850
+JOE: Right. So what about pay? Can you tell me a bit more about that, please...

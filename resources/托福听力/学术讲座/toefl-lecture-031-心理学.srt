@@ -3,93 +3,85 @@
 Listen to a talk on a psychology podcast.
 
 2
-00:00:02,210 --> 00:00:02,651
-Woman:
+00:00:02,210 --> 00:00:08,150
+Woman: The placebo effect occurs when people experience real health improvements after receiving a treatment
 
 3
-00:00:02,651 --> 00:00:08,792
-The placebo effect occurs when people experience real health improvements after receiving a treatment
+00:00:08,150 --> 00:00:14,090
+with no medical value-like a sugar pill-simply because they believe it's real.
 
 4
-00:00:08,792 --> 00:00:13,147
-with no medical value—like a sugar pill—simply
+00:00:14,090 --> 00:00:22,070
+Clinical trials use various placebos, including creams, gels, or even fake devices.
 
 5
-00:00:13,147 --> 00:00:14,090
-because they believe it’s real.
+00:00:22,070 --> 00:00:26,791
+It's important that these are designed to closely resemble actual treatments.
 
 6
-00:00:14,090 --> 00:00:19,939
-Clinical trials use various placebos, including creams, gels,
+00:00:26,791 --> 00:00:29,620
+This ensures that participants can't tell
 
 7
-00:00:19,939 --> 00:00:22,070
-or even fake devices.
+00:00:29,620 --> 00:00:33,479
+whether they're receiving the real treatment or the placebo,
 
 8
-00:00:22,070 --> 00:00:26,791
-It’s important that these are designed to closely resemble actual treatments.
-
-9
-00:00:26,791 --> 00:00:32,299
-This ensures that participants can’t tell whether they’re receiving the real treatment
-
-10
-00:00:32,299 --> 00:00:33,479
-or the placebo,
-
-11
 00:00:33,479 --> 00:00:38,200
 which in turn keeps the study fair and the results scientifically reliable.
 
-12
+9
 00:00:38,200 --> 00:00:42,948
 The placebo effect highlights the powerful connection between mind and body.
 
+10
+00:00:42,948 --> 00:00:46,833
+It's influenced by factors such as patient expectations,
+
+11
+00:00:46,833 --> 00:00:51,150
+how the treatment is delivered, and the provider's credibility.
+
+12
+00:00:51,150 --> 00:00:55,367
+In fact, a recent study found that when people expect relief,
+
 13
-00:00:42,948 --> 00:00:48,992
-It’s influenced by factors such as patient expectations, how the treatment is delivered,
+00:00:55,367 --> 00:00:59,200
+their brains respond as if real medicine has been given.
 
 14
-00:00:48,992 --> 00:00:51,150
-and the provider’s credibility.
+00:00:59,200 --> 00:01:03,600
+This expectation alone can trigger specific brain activity,
 
 15
-00:00:51,150 --> 00:00:56,517
-In fact, a recent study found that when people expect relief, their brains respond
+00:01:03,600 --> 00:01:10,200
+activating a pathway that links regions involved in thought, emotion, and movement.
 
 16
-00:00:56,517 --> 00:00:59,200
-as if real medicine has been given.
+00:01:10,200 --> 00:01:12,210
+When these areas work together,
 
 17
-00:00:59,200 --> 00:01:06,900
-This expectation alone can trigger specific brain activity, activating a pathway that links regions
+00:01:12,210 --> 00:01:14,340
+they create a kind of bridge
 
 18
-00:01:06,900 --> 00:01:10,200
-involved in thought, emotion, and movement.
+00:01:14,640 --> 00:01:18,240
+connecting mind and body-mental belief and physical response.
 
 19
-00:01:10,200 --> 00:01:15,426
-When these areas work together, they create a kind of bridge, connecting mind
+00:01:18,240 --> 00:01:20,853
+While placebos don't actually cure diseases,
 
 20
-00:01:15,426 --> 00:01:18,240
-and body—mental belief and physical response.
+00:01:20,853 --> 00:01:27,200
+the belief that a treatment will work can lead to real improvements in how a patient feels.
 
 21
-00:01:18,240 --> 00:01:23,836
-While placebos don’t actually cure diseases, the belief that a treatment will work can
+00:01:27,200 --> 00:01:30,700
+So, when combined with actual medicine
 
 22
-00:01:23,836 --> 00:01:27,200
-lead to real improvements in how a patient feels.
-
-23
-00:01:27,200 --> 00:01:27,722
-So,
-
-24
-00:01:27,722 --> 00:01:35,030
-when combined with actual medicine, I believe this psychological boost can enhance overall care.
+00:01:31,300 --> 00:01:35,030
+I believe this psychological boost can enhance overall care.

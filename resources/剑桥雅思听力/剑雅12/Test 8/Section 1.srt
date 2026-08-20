@@ -1,507 +1,267 @@
 1
-00:00:00,000 --> 00:00:03,170
-Section 1
+00:00:00,000 --> 00:00:07,500
+BOB: Hello, Pembroke Cycling Holidays, Bob speaking.
 
 2
-00:00:03,170 --> 00:00:03,814
-BOB:
+00:00:07,500 --> 00:00:12,737
+MARGARET: Oh hello. I've seen your advert for people to lead cycle trips.
 
 3
-00:00:03,814 --> 00:00:07,500
-Hello, Pembroke Cycling Holidays, Bob speaking.
-
-4
-00:00:07,500 --> 00:00:08,625
-MARGARET:
-
-5
-00:00:08,625 --> 00:00:09,389
-Oh hello.
-
-6
-00:00:09,389 --> 00:00:12,737
-I've seen your advert for people to lead cycle trips.
-
-7
 00:00:12,737 --> 00:00:15,960
 Are you the right person to speak to?
 
+4
+00:00:15,960 --> 00:00:19,360
+BOB: Yes, I am. Could I have your name, please?
+
+5
+00:00:19,360 --> 00:00:21,850
+MARGARET: It's Margaret Smith.
+
+6
+00:00:21,850 --> 00:00:25,050
+BOB: Are you looking for a permanent job, Margaret?
+
+7
+00:00:25,050 --> 00:00:30,053
+MARGARET: No, temporary. I've got a permanent job starting in a few months' time,
+
 8
-00:00:15,960 --> 00:00:16,300
-BOB:
-
-9
-00:00:16,300 --> 00:00:17,320
-Yes, I am.
-
-10
-00:00:17,320 --> 00:00:19,360
-Could I have your name , please?
-
-11
-00:00:19,360 --> 00:00:19,982
-MARGARET :
-
-12
-00:00:19,982 --> 00:00:21,850
-It's Margaret Smith.
-
-13
-00:00:21,850 --> 00:00:22,206
-BOB:
-
-14
-00:00:22,206 --> 00:00:25,050
-Are you looking for a permanent job, Margaret?
-
-15
-00:00:25,050 --> 00:00:25,407
-MARGARET :
-
-16
-00:00:25,407 --> 00:00:26,122
-No, temporary.
-
-17
-00:00:26,122 --> 00:00:30,053
-I've got a permanent job starting in a few months' time,
-
-18
 00:00:30,053 --> 00:00:33,270
 and I want to do something else until then.
 
-19
-00:00:33,270 --> 00:00:33,610
-BOB:
+9
+00:00:33,270 --> 00:00:35,310
+BOB: What work do you do?
 
-20
-00:00:33,610 --> 00:00:35,310
-What work do you do?
+10
+00:00:35,310 --> 00:00:39,562
+MARGARET: This will probably sound crazy - I used to be a lawyer,
 
-21
-00:00:35,310 --> 00:00:35,664
-MARGARET :
+11
+00:00:39,562 --> 00:00:44,100
+and then I made a complete career change and I'm going to be a doctor
 
-22
-00:00:35,664 --> 00:00:39,562
-This will probably sound crazy - I used to be a lawyer,
-
-23
-00:00:39,562 --> 00:00:44,524
-and then I made a complete career change and I'm going to be a
-
-24
-00:00:44,524 --> 00:00:44,878
-doctor.
-
-25
-00:00:44,878 --> 00:00:46,650
+12
+00:00:44,460 --> 00:00:46,650
 I've just finished my training.
 
-26
-00:00:46,650 --> 00:00:47,088
-BOB:
+13
+00:00:46,650 --> 00:00:51,910
+BOB: Right. And have you had any experience of leading cycle trips?
 
-27
-00:00:47,088 --> 00:00:47,527
-Right.
+14
+00:00:51,910 --> 00:00:55,288
+MARGARET: Yes, I've led several bike tours in Africa.
 
-28
-00:00:47,527 --> 00:00:51,910
-And have you had any experience of leading cycle trips?
+15
+00:00:55,288 --> 00:01:01,294
+The trip to India that I had arranged to lead next month has now been cancelled,
 
-29
-00:00:51,910 --> 00:00:52,285
-MARGARET :
+16
+00:01:01,294 --> 00:01:06,550
+so when I saw you were advertising for tour leaders, I decided to apply.
 
-30
-00:00:52,285 --> 00:00:55,288
-Yes, I've led several bike tours in Africa.
+17
+00:01:06,550 --> 00:01:11,280
+BOB: OK. Now we normally have two or three leaders on a trip
 
-31
-00:00:55,288 --> 00:01:00,544
-The trip to India that I had arranged to lead next month has now
+18
+00:01:11,320 --> 00:01:13,771
+depending on the size of the group.
 
-32
-00:01:00,544 --> 00:01:01,295
-been cancelled,
-
-33
-00:01:01,295 --> 00:01:06,550
-so when I saw you were advertising for tour leaders , I decided to apply.
-
-34
-00:01:06,550 --> 00:01:06,911
-BOB:
-
-35
-00:01:06,911 --> 00:01:07,272
-OK.
-
-36
-00:01:07,272 --> 00:01:12,327
-Now we normally have two or three leaders on a trip, depending on the
-
-37
-00:01:12,327 --> 00:01:13,771
-size of the group.
-
-38
+19
 00:01:13,771 --> 00:01:16,299
-Some tours are for very experienced cyclists ,
+Some tours are for very experienced cyclists,
 
-39
-00:01:16,299 --> 00:01:19,909
-but we've got a tour coming up soon in Spain,
+20
+00:01:16,299 --> 00:01:19,640
+but we've got a tour coming up soon in Spain
 
-40
-00:01:19,909 --> 00:01:23,520
+21
+00:01:19,640 --> 00:01:23,520
 which is proving so popular we need an additional leader.
 
-41
-00:01:23,520 --> 00:01:25,788
-It's a cycling holiday for families.
+22
+00:01:23,520 --> 00:01:27,300
+It's a cycling holiday for families. Would that suit you?
 
-42
-00:01:25,788 --> 00:01:27,300
-Would that suit you?
+23
+00:01:27,300 --> 00:01:30,889
+MARGARET: It certainly would. I enjoy working with children,
 
-43
-00:01:27,300 --> 00:01:27,699
-MARGARET :
+24
+00:01:30,889 --> 00:01:36,870
+and I probably need some more experience before I go on a really challenging trip.
 
-44
-00:01:27,699 --> 00:01:28,895
-It certainly would.
+25
+00:01:36,870 --> 00:01:39,520
+BOB: That tour includes several teenagers
 
-45
-00:01:28,895 --> 00:01:30,889
-I enjoy working with children,
-
-46
-00:01:30,889 --> 00:01:36,471
-and I probably need some more experience before I go on a really challenging
-
-47
-00:01:36,471 --> 00:01:36,870
-trip.
-
-48
-00:01:36,870 --> 00:01:37,257
-BOB:
-
-49
-00:01:37,257 --> 00:01:39,193
-That tour includes several teenagers :
-
-50
-00:01:39,193 --> 00:01:42,290
+26
+00:01:39,680 --> 00:01:42,290
 have you worked with that age group before?
 
-51
-00:01:42,290 --> 00:01:42,652
-MARGARET :
+27
+00:01:42,290 --> 00:01:45,860
+MARGARET: Yes, I'm a volunteer worker in a youth club
 
-52
-00:01:42,652 --> 00:01:47,723
-Yes, I'm a volunteer worker in a youth club, where I help people to
+28
+00:01:45,860 --> 00:01:49,172
+where I help people to improve their cycling skills.
 
-53
-00:01:47,723 --> 00:01:49,172
-improve their cycling skills.
-
-54
+29
 00:01:49,172 --> 00:01:53,880
 Before that I helped out in a cycling club where I taught beginners.
 
-55
-00:01:53,880 --> 00:01:54,233
-BOB:
+30
+00:01:53,880 --> 00:01:58,818
+BOB: Well that's great. Now the trip I mentioned is just for a fortnight,
 
-56
-00:01:54,233 --> 00:01:55,291
-Well that's great.
+31
+00:01:58,818 --> 00:02:03,340
+but there might be the possibility of leading other tours after that
 
-57
-00:01:55,291 --> 00:01:58,818
-Now the trip I mentioned is just for a fortnight,
-
-58
-00:01:58,818 --> 00:02:03,051
-but there might be the possibility of leading other tours after that.
-
-59
-00:02:03,051 --> 00:02:05,520
+32
+00:02:03,600 --> 00:02:05,520
 Would that fit in with your plans?
 
-60
-00:02:05,520 --> 00:02:05,918
-MARGARET:
+33
+00:02:05,520 --> 00:02:09,500
+MARGARET: That'd be fine. I'll be free for five months.
 
-61
-00:02:05,918 --> 00:02:07,112
-That'd be fine.
+34
+00:02:09,500 --> 00:02:13,080
+My job is due to start on October the 2nd
 
-62
-00:02:07,112 --> 00:02:09,500
-I'll be free for five months.
-
-63
-00:02:09,500 --> 00:02:13,480
-My job is due to start on October the 2nd,
-
-64
-00:02:13,480 --> 00:02:17,460
+35
+00:02:13,080 --> 00:02:17,460
 and I'm available from May the 1st until late September.
 
-65
-00:02:17,460 --> 00:02:17,766
-BOB:
+36
+00:02:17,460 --> 00:02:22,044
+BOB: Good. Now is there anything I need to know about the food you eat?
 
-66
-00:02:17,766 --> 00:02:18,071
-Good.
-
-67
-00:02:18,071 --> 00:02:22,044
-Now is there anything I need to know about the food you eat?
-
-68
+37
 00:02:22,044 --> 00:02:26,322
 We usually have one or two people in the group who don't eat meat,
 
-69
-00:02:26,322 --> 00:02:28,461
-or have some sort of food allergy,
+38
+00:02:26,322 --> 00:02:30,600
+or have some sort of food allergy, so we're always very careful about that.
 
-70
-00:02:28,461 --> 00:02:30,600
-so we're always very careful about that.
+39
+00:02:30,600 --> 00:02:35,450
+MARGARET: Yes, I'm allergic to cheese. Would that be a problem?
 
-71
-00:02:30,600 --> 00:02:31,041
-MARGARET :
+40
+00:02:35,450 --> 00:02:39,860
+BOB: No, as long as we have enough notice, we can deal with that.
 
-72
-00:02:31,041 --> 00:02:33,245
-Yes, I'm allergic to cheese.
+41
+00:02:39,860 --> 00:02:41,630
+MARGARET: That's great.
 
-73
-00:02:33,245 --> 00:02:35,450
-Would that be a problem?
+42
+00:02:41,630 --> 00:02:47,240
+MARGARET: It sounds really interesting - would you like me to fill in an application form?
 
-74
-00:02:35,450 --> 00:02:35,765
-BOB:
+43
+00:02:47,240 --> 00:02:51,080
+BOB: Yes, please. Where should I post it to?
 
-75
-00:02:35,765 --> 00:02:39,860
-No, as long as we have enough notice, we can deal with that.
-
-76
-00:02:39,860 --> 00:02:40,450
-MARGARET:
-
-77
-00:02:40,450 --> 00:02:41,630
-That's great.
-
-78
-00:02:41,630 --> 00:02:42,004
-MARGARET :
-
-79
-00:02:42,004 --> 00:02:47,240
-It sounds really interesting - would you like me to fill in an application form?
-
-80
-00:02:47,240 --> 00:02:47,667
-BOB:
-
-81
-00:02:47,667 --> 00:02:48,520
-Yes, please.
-
-82
-00:02:48,520 --> 00:02:51,080
-Where should I post it to?
-
-83
+44
 00:02:51,080 --> 00:03:03,770
-MARGARET:Could you send it to 27 Arbuthnot Place-A-R-B-U-T-H-N-0-T - Place, Dumfries .
+MARGARET: Could you send it to 27 Arbuthnot Place-A-R-B-U-T-H-N-O-T - Place, Dumfries.
 
-84
-00:03:03,770 --> 00:03:04,250
-BOB:
+45
+00:03:03,770 --> 00:03:06,650
+BOB: And what's the postcode, please?
 
-85
-00:03:04,250 --> 00:03:06,650
-And what's the postcode, please?
+46
+00:03:06,650 --> 00:03:10,560
+MARGARET: DG7 4PH.
 
-86
-00:03:06,650 --> 00:03:07,953
-MARGARET:
+47
+00:03:10,560 --> 00:03:14,230
+BOB: Was that P Papa or B Bravo?
 
-87
-00:03:07,953 --> 00:03:10,560
-DG7 4PH.
+48
+00:03:14,230 --> 00:03:15,460
+MARGARET: P Papa.
 
-88
-00:03:10,560 --> 00:03:11,019
-BOB:
+49
+00:03:15,460 --> 00:03:20,798
+BOB: Got that. If you could return the application form by Friday this week,
 
-89
-00:03:11,019 --> 00:03:14,230
-Was that P Papa or B Bravo?
+50
+00:03:20,798 --> 00:03:23,880
+we can interview you on Tuesday next week
 
-90
-00:03:14,230 --> 00:03:14,640
-MARGARET:
+51
+00:03:24,060 --> 00:03:27,660
+Say half past two. Would that be possible for you?
 
-91
-00:03:14,640 --> 00:03:15,460
-P Papa.
+52
+00:03:27,660 --> 00:03:31,640
+MARGARET: Yes, it's fine. You're quite a long way from where I live
 
-92
-00:03:15,460 --> 00:03:15,841
-BOB:
-
-93
-00:03:15,841 --> 00:03:16,604
-Got that.
-
-94
-00:03:16,604 --> 00:03:21,941
-If you could return the application form by Friday this week, we can interview
-
-95
-00:03:21,941 --> 00:03:23,848
-you on Tuesday next week.
-
-96
-00:03:23,848 --> 00:03:25,372
-Say half past two.
-
-97
-00:03:25,372 --> 00:03:27,660
-Would that be possible for you?
-
-98
-00:03:27,660 --> 00:03:27,984
-MARGARET:
-
-99
-00:03:27,984 --> 00:03:28,957
-Yes, it's fine.
-
-100
-00:03:28,957 --> 00:03:31,875
-You're quite a long way from where I live,
-
-101
-00:03:31,875 --> 00:03:33,820
+53
+00:03:31,640 --> 00:03:33,820
 so I'll drive, over on Monday.
 
-102
+54
 00:03:33,820 --> 00:03:36,090
 Should I bring anything to the interview?
 
-103
-00:03:36,090 --> 00:03:36,435
-BOB:
+55
+00:03:36,090 --> 00:03:38,853
+BOB: We'll have your application form, of course,
 
-104
-00:03:36,435 --> 00:03:38,853
-We'll have your application form, of course,
+56
+00:03:38,853 --> 00:03:42,340
+but we'll need to see any certificates you've got that are relevant
 
-105
-00:03:38,853 --> 00:03:43,688
-but we'll need to see any certificates you've got that are relevant, in cycling,
+57
+00:03:42,660 --> 00:03:45,070
+in cycling, first aid, or whatever.
 
-106
-00:03:43,688 --> 00:03:44,379
-first aid,
+58
+00:03:45,070 --> 00:03:46,480
+MARGARET: OK.
 
-107
-00:03:44,379 --> 00:03:45,070
-or whatever.
+59
+00:03:46,480 --> 00:03:52,864
+BOB: And at the interview we'd like to find out about your experience of being a tour guide.
 
-108
-00:03:45,070 --> 00:03:45,775
-MARGARET:
+60
+00:03:52,864 --> 00:03:56,410
+So could you prepare a ten-minute talk about that, please?
 
-109
-00:03:45,775 --> 00:03:46,480
-OK.
-
-110
-00:03:46,480 --> 00:03:46,835
-BOB:
-
-111
-00:03:46,835 --> 00:03:51,800
-And at the interview we'd like to find out about your experience of being
-
-112
-00:03:51,800 --> 00:03:56,410
-a tour guide.So could you prepare a ten-minute talk about that, please?
-
-113
+61
 00:03:56,410 --> 00:04:01,850
 You don't need slides or any complicated equipment - just some notes.
 
-114
-00:04:01,850 --> 00:04:02,361
-MARGARET:
+62
+00:04:01,850 --> 00:04:05,940
+MARGARET: Right. I'll start thinking about that straightaway!
 
-115
-00:04:02,361 --> 00:04:02,872
-Right.
+63
+00:04:05,940 --> 00:04:10,108
+BOB: Good. Well, we'll look forward to receiving your application form,
 
-116
-00:04:02,872 --> 00:04:05,940
-I'll start thinking about that straightaway!
-
-117
-00:04:05,940 --> 00:04:06,319
-BOB:
-
-118
-00:04:06,319 --> 00:04:06,698
-Good.
-
-119
-00:04:06,698 --> 00:04:10,108
-Well, we'll look forward to receiving your application form,
-
-120
+64
 00:04:10,108 --> 00:04:13,140
 and we'll contact you to confirm the interview.
 
-121
-00:04:13,140 --> 00:04:13,638
-MARGARET:
+65
+00:04:13,140 --> 00:04:15,130
+MARGARET: Thanks very much.
 
-122
-00:04:13,638 --> 00:04:15,130
-Thanks very much.
+66
+00:04:15,130 --> 00:04:17,660
+BOB: Thank you, Margaret. Goodbye.
 
-123
-00:04:15,130 --> 00:04:15,636
-BOB :
-
-124
-00:04:15,636 --> 00:04:17,154
-Thank you, Margaret.
-
-125
-00:04:17,154 --> 00:04:17,660
-Goodbye.
-
-126
-00:04:17,660 --> 00:04:18,655
-MARGARET:
-
-127
-00:04:18,655 --> 00:04:19,650
-Bye.
+67
+00:04:17,660 --> 00:04:19,650
+MARGARET: Bye.

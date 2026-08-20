@@ -1,59 +1,31 @@
 1
-00:00:00,000 --> 00:00:01,667
-Woman:
+00:00:00,000 --> 00:00:07,110
+Woman: Hey, did you end up making it to Janet's concert last night?
 
 2
-00:00:01,667 --> 00:00:07,110
-Hey, did you end up making it to Janet's concert last night?
+00:00:07,110 --> 00:00:09,000
+Man: I was planning to go
 
 3
-00:00:07,110 --> 00:00:08,116
-Man:
-
-4
-00:00:08,116 --> 00:00:08,880
-I was planning to go,
-
-5
-00:00:08,880 --> 00:00:12,200
+00:00:09,000 --> 00:00:12,200
 but I got completely sidetracked helping my cousin move into her new apartment.
 
-6
+4
 00:00:12,200 --> 00:00:14,270
 It took way longer than expected.
 
-7
-00:00:14,270 --> 00:00:15,476
-Woman:
+5
+00:00:14,270 --> 00:00:17,080
+Woman: That's too bad, it was incredible
 
-8
-00:00:15,476 --> 00:00:17,104
-That's too bad, it was incredible.
-
-9
-00:00:17,104 --> 00:00:20,280
+6
+00:00:17,360 --> 00:00:20,280
 She added a saxophonist to her band, you would have loved it.
 
-10
-00:00:20,280 --> 00:00:20,330
-Man:
+7
+00:00:20,280 --> 00:00:25,240
+Man: I knew I was missing something special. I hope she'll play again soon.
 
-11
-00:00:20,330 --> 00:00:23,114
-I knew I was missing something special.
-
-12
-00:00:23,114 --> 00:00:25,240
-I hope she'll play again soon.
-
-13
-00:00:25,240 --> 00:00:25,501
-Woman:
-
-14
-00:00:25,501 --> 00:00:28,627
-I think she'll be at the Spring Festival in a couple weeks,
-
-15
-00:00:28,627 --> 00:00:30,190
-so don't make any other plan.
+8
+00:00:25,240 --> 00:00:30,190
+Woman: I think she'll be at the Spring Festival in a couple weeks, so don't make any other plan.

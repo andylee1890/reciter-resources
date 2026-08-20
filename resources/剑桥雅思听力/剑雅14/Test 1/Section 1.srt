@@ -1,567 +1,295 @@
 1
-00:00:00,000 --> 00:00:02,520
-Section 1
+00:00:00,000 --> 00:00:06,000
+OFFICER: Good morning. What can I do for you?
 
 2
-00:00:02,520 --> 00:00:03,430
-OFFICER:
+00:00:06,000 --> 00:00:12,000
+LOUISE: I want to report a theft. I had some things stolen out of my bag yesterday.
 
 3
-00:00:03,430 --> 00:00:04,037
-Good morning.
+00:00:12,000 --> 00:00:17,660
+OFFICER: I'm sorry to hear that. Right, so I'll need to take a few details
 
 4
-00:00:04,037 --> 00:00:06,000
-What can I do for you?
-
-5
-00:00:06,000 --> 00:00:06,050
-LOUISE:
-
-6
-00:00:06,050 --> 00:00:08,471
-I want to report a theft.
-
-7
-00:00:08,471 --> 00:00:12,000
-I had some things stolen out of my bag yesterday.
-
-8
-00:00:12,000 --> 00:00:12,389
-OFFICER:
-
-9
-00:00:12,389 --> 00:00:14,334
-I'm sorry to hear that.
-
-10
-00:00:14,334 --> 00:00:14,723
-Right,
-
-11
-00:00:14,723 --> 00:00:17,836
-so I'll need to take a few details.
-
-12
-00:00:17,836 --> 00:00:20,170
+00:00:18,180 --> 00:00:20,170
 Can I start with your name?
 
+5
+00:00:20,170 --> 00:00:22,620
+LOUISE: Louise Taylor.
+
+6
+00:00:22,620 --> 00:00:27,510
+OFFICER: OK, thank you. And are you resident in the UK?
+
+7
+00:00:27,510 --> 00:00:32,580
+LOUISE: No, I'm actually Canadian, though my mother was British.
+
+8
+00:00:32,580 --> 00:00:35,060
+OFFICER: And your date of birth?
+
+9
+00:00:35,060 --> 00:00:39,480
+LOUISE: December 14th, 1977.
+
+10
+00:00:39,480 --> 00:00:43,000
+OFFICER: So you're just visiting this country?
+
+11
+00:00:43,000 --> 00:00:47,084
+LOUISE: That's right. I come over most summers on business.
+
+12
+00:00:47,084 --> 00:00:53,210
+I'm an interior designer and I come over to buy old furniture, antiques you know.
+
 13
-00:00:20,170 --> 00:00:20,987
-LOUISE:
+00:00:53,210 --> 00:00:56,100
+There are some really lovely things around here
 
 14
-00:00:20,987 --> 00:00:22,620
-Louise Taylor.
-
-15
-00:00:22,620 --> 00:00:23,065
-OFFICER:
-
-16
-00:00:23,065 --> 00:00:24,398
-OK, thank you.
-
-17
-00:00:24,398 --> 00:00:27,510
-And are you resident in the UK?
-
-18
-00:00:27,510 --> 00:00:28,017
-LOUISE:
-
-19
-00:00:28,017 --> 00:00:32,580
-No, I'm actually Canadian, though my mother was British.
-
-20
-00:00:32,580 --> 00:00:32,993
-OFFICER:
-
-21
-00:00:32,993 --> 00:00:35,060
-And your date of birth?
-
-22
-00:00:35,060 --> 00:00:36,165
-LOUISE:
-
-23
-00:00:36,165 --> 00:00:39,480
-December 14th, 1977.
-
-24
-00:00:39,480 --> 00:00:39,983
-OFFICER:
-
-25
-00:00:39,983 --> 00:00:43,000
-So you're just visiting this country?
-
-26
-00:00:43,000 --> 00:00:43,408
-LOUISE:
-
-27
-00:00:43,408 --> 00:00:44,225
-That's right.
-
-28
-00:00:44,225 --> 00:00:47,084
-I come over most summers on business.
-
-29
-00:00:47,084 --> 00:00:52,802
-I'm an interior designer and I come over to buy old furniture, antiques you
-
-30
-00:00:52,802 --> 00:00:53,210
-know.
-
-31
-00:00:53,210 --> 00:00:55,889
-There are some really lovely things around here,
-
-32
-00:00:55,889 --> 00:00:59,237
+00:00:56,100 --> 00:00:59,237
 but you need to get out to the small towns.
 
-33
+15
 00:00:59,237 --> 00:01:02,920
 I've had a really good trip this year, until this happened.
 
-34
-00:01:02,920 --> 00:01:03,373
-OFFICER:
+16
+00:01:02,920 --> 00:01:07,000
+OFFICER: OK. So you've been here quite a while?
 
-35
-00:01:03,373 --> 00:01:03,827
-OK.
+17
+00:01:07,000 --> 00:01:12,210
+LOUISE: Yes, I'm here for two months. I go back next week.
 
-36
-00:01:03,827 --> 00:01:07,000
-So you've been here quite a while?
+18
+00:01:12,210 --> 00:01:15,840
+OFFICER: So may I ask where you're staying now?
 
-37
-00:01:07,000 --> 00:01:07,434
-LOUISE:
+19
+00:01:15,840 --> 00:01:22,500
+LOUISE: Well at present I've got a place at Park Apartments, that's on King Street.
 
-38
-00:01:07,434 --> 00:01:10,039
-Yes, I'm here for two months.
-
-39
-00:01:10,039 --> 00:01:12,210
-I go back next week.
-
-40
-00:01:12,210 --> 00:01:12,613
-OFFICER:
-
-41
-00:01:12,613 --> 00:01:15,840
-So may I ask where you're staying now?
-
-42
-00:01:15,840 --> 00:01:16,284
-LOUISE:
-
-43
-00:01:16,284 --> 00:01:20,724
-Well at present I've got a place at Park Apartments,
-
-44
-00:01:20,724 --> 00:01:22,500
-that's on King Street.
-
-45
+20
 00:01:22,500 --> 00:01:26,625
 I was staying at the Riverside Apartments on the same street,
 
-46
-00:01:26,625 --> 00:01:30,375
+21
+00:01:26,625 --> 00:01:30,160
 but the apartment there was only available for six weeks
 
-47
-00:01:30,375 --> 00:01:33,000
+22
+00:01:30,240 --> 00:01:33,000
 so I had to find another one.
 
-48
-00:01:33,000 --> 00:01:33,578
-OFFICER:
+23
+00:01:33,000 --> 00:01:36,470
+OFFICER: OK. And the apartment number?
 
-49
-00:01:33,578 --> 00:01:34,157
-OK.
+24
+00:01:36,470 --> 00:01:38,570
+LOUISE: Fifteen.
 
-50
-00:01:34,157 --> 00:01:36,470
-And the apartment number?
+25
+00:01:38,570 --> 00:01:40,220
+OFFICER: Right.
 
-51
-00:01:36,470 --> 00:01:37,520
-LOUISE:
+26
+00:01:40,220 --> 00:01:44,510
+OFFICER: Now, I need to take some details of the theft.
 
-52
-00:01:37,520 --> 00:01:38,570
-Fifteen.
-
-53
-00:01:38,570 --> 00:01:39,395
-OFFICER:
-
-54
-00:01:39,395 --> 00:01:40,220
-Right.
-
-55
-00:01:40,220 --> 00:01:40,610
-OFFICER:
-
-56
-00:01:40,610 --> 00:01:44,510
-Now, I need to take some details of the theft.
-
-57
+27
 00:01:44,510 --> 00:01:49,190
 So you said you had some things stolen out of your bag?
 
-58
-00:01:49,190 --> 00:01:49,833
-LOUISE:
+28
+00:01:49,190 --> 00:01:51,120
+LOUISE: That's right.
 
-59
-00:01:49,833 --> 00:01:51,120
-That's right.
+29
+00:01:51,120 --> 00:01:56,660
+OFFICER: And were you actually carrying the bag when the theft took place?
 
-60
-00:01:51,120 --> 00:01:51,546
-OFFICER:
+30
+00:01:56,660 --> 00:02:01,280
+Yes. I really can't understand it. I had my backpack on.
 
-61
-00:01:51,546 --> 00:01:56,660
-And were you actually carrying the bag when the theft took place?
-
-62
-00:01:56,660 --> 00:01:57,080
-Yes.
-
-63
-00:01:57,080 --> 00:01:59,180
-I really can't understand it.
-
-64
-00:01:59,180 --> 00:02:01,280
-I had my backpack on.
-
-65
-00:02:01,280 --> 00:02:05,900
+31
+00:02:01,280 --> 00:02:05,620
 And I went into a supermarket to buy a few things
 
-66
-00:02:05,900 --> 00:02:10,100
-and when I opened it up my wallet wasn't there.
+32
+00:02:06,303 --> 00:02:10,100
+and when I opened it up my wallet wasn't there
 
-67
-00:02:10,100 --> 00:02:10,533
-OFFICER:
+33
+00:02:10,100 --> 00:02:14,000
+OFFICER: And what did your wallet have in it?
 
-68
-00:02:10,533 --> 00:02:14,000
-And what did your wallet have in it?
+34
+00:02:14,000 --> 00:02:18,882
+LOUISE: Well, fortunately I don't keep my credit cards in that wallet -
 
-69
-00:02:14,000 --> 00:02:14,407
-LOUISE:
+35
+00:02:18,882 --> 00:02:24,170
+I keep them with my passport in an inside compartment in my backpack.
 
-70
-00:02:14,407 --> 00:02:19,695
-Well, fortunately I don't keep my credit cards in that wallet - I keep
+36
+00:02:24,170 --> 00:02:32,170
+But there was quite a bit of cash there... about £250 sterling, I should think.
 
-71
-00:02:19,695 --> 00:02:24,170
-them with my passport in an inside compartment in my backpack.
-
-72
-00:02:24,170 --> 00:02:31,637
-But there was quite a bit of cash there...about ￡250 sterling, I should
-
-73
-00:02:31,637 --> 00:02:32,170
-think.
-
-74
+37
 00:02:32,170 --> 00:02:35,422
-I withdrew ￡300 from my account yesterday,
+I withdrew £300 from my account yesterday,
 
-75
-00:02:35,422 --> 00:02:38,674
-but I did a bit of shopping,
+38
+00:02:35,422 --> 00:02:43,320
+but I did a bit of shopping, so I must have already spent about £50 of that.
 
-76
-00:02:38,674 --> 00:02:43,320
-so I must have already spent about ￡50 of that.
+39
+00:02:43,320 --> 00:02:45,170
+OFFICER: OK.
 
-77
-00:02:43,320 --> 00:02:44,245
-OFFICER:
+40
+00:02:45,170 --> 00:02:46,989
+LOUISE: At first I thought,
 
-78
-00:02:44,245 --> 00:02:45,170
-OK.
+41
+00:02:46,989 --> 00:02:50,340
+oh I must have left the wallet back in the apartment
 
-79
-00:02:45,170 --> 00:02:45,534
-LOUISE:
-
-80
-00:02:45,534 --> 00:02:50,628
-At first I thought, oh I must have left the wallet back in the
-
-81
-00:02:50,628 --> 00:02:50,992
-apartment,
-
-82
-00:02:50,992 --> 00:02:54,630
+42
+00:02:50,360 --> 00:02:54,630
 but then I realised my phone had gone as well.
 
-83
-00:02:54,630 --> 00:02:56,993
-It was only a week old,
+43
+00:02:54,630 --> 00:03:00,144
+It was only a week old, and that's when I realised I'd been robbed.
 
-84
-00:02:56,993 --> 00:03:00,144
-and that's when I realised I'd been robbed.
-
-85
+44
 00:03:00,144 --> 00:03:04,870
 Anyway at least they didn't take the keys to my rental car.
 
-86
-00:03:04,870 --> 00:03:05,463
-OFFICER:
+45
+00:03:04,870 --> 00:03:10,210
+OFFICER: Yes. So you say the theft occurred yesterday?
 
-87
-00:03:05,463 --> 00:03:06,057
-Yes.
+46
+00:03:10,210 --> 00:03:12,000
+LOUISE: Yes.
 
-88
-00:03:06,057 --> 00:03:10,210
-So you say the theft occurred yesterday?
+47
+00:03:12,000 --> 00:03:15,007
+OFFICER: So that was September the tenth.
 
-89
-00:03:10,210 --> 00:03:11,105
-LOUISE:
+48
+00:03:15,007 --> 00:03:19,360
+And do you have any idea at all of where or
 
-90
-00:03:11,105 --> 00:03:12,000
-Yes.
+49
+00:03:19,360 --> 00:03:23,170
+when the things might possibly have been stolen?
 
-91
-00:03:12,000 --> 00:03:12,430
-OFFICER:
+50
+00:03:23,170 --> 00:03:26,107
+LOUISE: Well at first I couldn't believe it
 
-92
-00:03:12,430 --> 00:03:15,007
-So that was September the tenth.
+51
+00:03:26,107 --> 00:03:31,980
+because the bag had been on my back ever since I left the apartment after lunch.
 
-93
-00:03:15,007 --> 00:03:19,303
-And do you have any idea at all of where
+52
+00:03:31,980 --> 00:03:34,420
+It's just a small backpack
 
-94
-00:03:19,303 --> 00:03:23,170
-or when the things might possibly have been stolen?
+53
+00:03:34,520 --> 00:03:40,066
+but I generally use it when I'm travelling because it seems safer than a handbag.
 
-95
-00:03:23,170 --> 00:03:23,537
-LOUISE:
+54
+00:03:40,066 --> 00:03:46,940
+Anyway, I met up with a friend, and we spent a couple of hours in the museum.
 
-96
-00:03:23,537 --> 00:03:28,676
-Well at first I couldn't believe it because the bag had been on my
+55
+00:03:46,940 --> 00:03:50,727
+But I do remember that as we were leaving there,
 
-97
-00:03:28,676 --> 00:03:31,980
-back ever since I left the apartment after lunch.
+56
+00:03:50,727 --> 00:03:55,360
+at about 4 o'clock, a group of young boys ran up to us
 
-98
-00:03:31,980 --> 00:03:34,002
-It's just a small backpack,
-
-99
-00:03:34,002 --> 00:03:39,662
-but I generally use it when I'm travelling because it seems safer than a
-
-100
-00:03:39,662 --> 00:03:40,066
-handbag.
-
-101
-00:03:40,066 --> 00:03:42,897
-Anyway, I met up with a friend,
-
-102
-00:03:42,897 --> 00:03:46,940
-and we spent a couple of hours in the museum.
-
-103
-00:03:46,940 --> 00:03:52,242
-But I do remember that as we were leaving there, at about 4 o'clock,
-
-104
-00:03:52,242 --> 00:03:55,651
-a group of young boys ran up to us,
-
-105
-00:03:55,651 --> 00:03:58,302
+57
+00:03:55,500 --> 00:03:58,302
 and they were really crowding round us,
 
-106
-00:03:58,302 --> 00:04:03,604
-and they were asking us what time it was, then all of a sudden
+58
+00:03:58,302 --> 00:04:04,740
+and they were asking us what time it was, then all of a sudden they ran off.
 
-107
-00:04:03,604 --> 00:04:04,740
-they ran off.
+59
+00:04:04,740 --> 00:04:08,440
+OFFICER: Can you remember anything about them?
 
-108
-00:04:04,740 --> 00:04:05,269
-OFFICER:
+60
+00:04:08,440 --> 00:04:15,271
+LOUISE: The one who did most of the talking was wearing a T-shirt
 
-109
-00:04:05,269 --> 00:04:08,440
-Can you remember anything about them?
+61
+00:04:15,271 --> 00:04:20,000
+with a picture of something... let's see... a tiger.
 
-110
-00:04:08,440 --> 00:04:08,965
-LOUISE:
+62
+00:04:20,000 --> 00:04:24,380
+OFFICER: Right. Any idea of how old he might have been?
 
-111
-00:04:08,965 --> 00:04:16,322
-The one who did most of the talking was wearing a T-shirt with a
+63
+00:04:24,380 --> 00:04:27,880
+LOUISE: Around twelve years old?
 
-112
-00:04:16,322 --> 00:04:18,949
-picture of something...let's see...
+64
+00:04:27,880 --> 00:04:32,740
+OFFICER: And can you remember anything else about his appearance?
 
-113
-00:04:18,949 --> 00:04:20,000
-a tiger.
+65
+00:04:32,740 --> 00:04:37,610
+LOUISE: Not much. He was quite thin...
 
-114
-00:04:20,000 --> 00:04:20,398
-OFFICER:
+66
+00:04:37,610 --> 00:04:39,760
+OFFICER: Colour of hair?
 
-115
-00:04:20,398 --> 00:04:20,796
-Right.
+67
+00:04:39,760 --> 00:04:46,330
+LOUISE: I do remember that - he was blond. All the others were dark-haired.
 
-116
-00:04:20,796 --> 00:04:24,380
-Any idea of how old he might have been?
+68
+00:04:46,330 --> 00:04:49,900
+OFFICER: And any details of the others?
 
-117
-00:04:24,380 --> 00:04:25,080
-LOUISE:
+69
+00:04:49,900 --> 00:04:55,130
+LOUISE: Not really. They came and went so quickly.
 
-118
-00:04:25,080 --> 00:04:27,880
-Around twelve years old?
+70
+00:04:55,130 --> 00:05:02,309
+OFFICER: Right. So what I'm going to do now is give you a crime reference number
 
-119
-00:04:27,880 --> 00:04:28,366
-OFFICER:
-
-120
-00:04:28,366 --> 00:04:32,740
-And can you remember anything else about his appearance?
-
-121
-00:04:32,740 --> 00:04:33,436
-LOUISE:
-
-122
-00:04:33,436 --> 00:04:34,827
-Not much.
-
-123
-00:04:34,827 --> 00:04:37,610
-He was quite thin...
-
-124
-00:04:37,610 --> 00:04:38,148
-OFFICER:
-
-125
-00:04:38,148 --> 00:04:39,760
-Colour of hair?
-
-126
-00:04:39,760 --> 00:04:40,265
-LOUISE:
-
-127
-00:04:40,265 --> 00:04:43,803
-I do remember that - he was blond.
-
-128
-00:04:43,803 --> 00:04:46,330
-All the others were dark-haired.
-
-129
-00:04:46,330 --> 00:04:46,840
-OFFICER:
-
-130
-00:04:46,840 --> 00:04:49,900
-And any details of the others?
-
-131
-00:04:49,900 --> 00:04:50,481
-LOUISE:
-
-132
-00:04:50,481 --> 00:04:51,643
-Not really.
-
-133
-00:04:51,643 --> 00:04:55,130
-They came and went so quickly.
-
-134
-00:04:55,130 --> 00:04:55,579
-OFFICER:
-
-135
-00:04:55,579 --> 00:04:56,027
-Right.
-
-136
-00:04:56,027 --> 00:05:02,309
-So what I'm going to do now is give you a crime reference number
-
-137
+71
 00:05:02,309 --> 00:05:05,450
 so you can contact your insurance company.
 
-138
-00:05:05,450 --> 00:05:12,814
-So this is ten digits:
+72
+00:05:05,980 --> 00:05:11,900
+So this is ten digits: 87954
 
-139
-00:05:12,814 --> 00:05:15,760
-87954 82361
+73
+00:05:12,560 --> 00:05:15,080
+82361
 
-140
-00:05:15,760 --> 00:05:16,525
-LOUISE:
-
-141
-00:05:16,525 --> 00:05:18,055
-Thank you.
-
-142
-00:05:18,055 --> 00:05:20,350
-So should I ...
+74
+00:05:16,400 --> 00:05:17,720
+LOUISE: Thank you.

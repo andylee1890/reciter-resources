@@ -1,583 +1,279 @@
 1
-00:00:00,000 --> 00:00:00,585
-WOMAN:
+00:00:00,000 --> 00:00:04,320
+WOMAN: I've been meaning to ask you for some advice about restaurants.
 
 2
-00:00:00,585 --> 00:00:04,320
-I’ve been meaning to ask you for some advice about restaurants.
+00:00:04,320 --> 00:00:08,216
+WOMAN: I need to book somewhere to celebrate my sister's 30th birthday
 
 3
-00:00:04,320 --> 00:00:04,822
-WOMAN:
+00:00:08,216 --> 00:00:13,010
+and I liked the sound of that place you went to for your mum's 50th.
 
 4
-00:00:04,822 --> 00:00:09,157
-I need to book somewhere to celebrate my sister’s 30th birthday
+00:00:13,010 --> 00:00:17,617
+MAN: The Junction? Yeah, I'd definitely recommend that for a special occasion.
 
 5
-00:00:09,157 --> 00:00:12,710
-and I liked the sound of that place you went to for your mum’s
+00:00:17,617 --> 00:00:21,160
+We had a great time there. Everyone really enjoyed it.
 
 6
-00:00:12,710 --> 00:00:13,010
-50th.
+00:00:21,160 --> 00:00:24,270
+WOMAN: Where is it again? I can't remember.
 
 7
-00:00:13,010 --> 00:00:13,090
-MAN:
+00:00:24,270 --> 00:00:29,050
+MAN: It's on Greyson Street, only about a two minute walk from the station.
 
 8
-00:00:13,090 --> 00:00:13,632
-The Junction?
+00:00:29,050 --> 00:00:30,500
+WOMAN: Oh, that's good.
 
 9
-00:00:13,632 --> 00:00:17,617
-Yeah, I’d definitely recommend that for a special occasion.
+00:00:30,500 --> 00:00:32,900
+I'd prefer not to have to drive anywhere
 
 10
-00:00:17,617 --> 00:00:19,743
-We had a great time there.
+00:00:33,440 --> 00:00:36,590
+But I don't want to have to walk too far either.
 
 11
-00:00:19,743 --> 00:00:21,160
-Everyone really enjoyed it.
+00:00:36,590 --> 00:00:42,490
+MAN: Yes, the location's perfect but that's not necessarily why I'd recommend it.
 
 12
-00:00:21,160 --> 00:00:21,506
-WOMAN:
+00:00:42,490 --> 00:00:50,570
+MAN: The food's amazing. If you like fish it's probably the best restaurant in town for that.
 
 13
-00:00:21,506 --> 00:00:22,888
-Where is it again?
+00:00:50,570 --> 00:00:56,128
+MAN: It's always really fresh and there are lots of interesting dishes to choose from.
 
 14
-00:00:22,888 --> 00:00:24,270
-I can’t remember.
-
-15
-00:00:24,270 --> 00:00:24,589
-MAN:
-
-16
-00:00:24,589 --> 00:00:29,050
-It’s on Greyson Street, only about a two minute walk from the station.
-
-17
-00:00:29,050 --> 00:00:29,340
-WOMAN:
-
-18
-00:00:29,340 --> 00:00:29,630
-Oh,
-
-19
-00:00:29,630 --> 00:00:30,500
-that’s good.
-
-20
-00:00:30,500 --> 00:00:33,110
-I’d prefer not to have to drive anywhere.
-
-21
-00:00:33,110 --> 00:00:36,590
-But I don’t want to have to walk too far either.
-
-22
-00:00:36,590 --> 00:00:36,959
-MAN:
-
-23
-00:00:36,959 --> 00:00:42,121
-Yes, the location’s perfect but that’s not necessarily why I’d recommend
-
-24
-00:00:42,121 --> 00:00:42,490
-it.
-
-25
-00:00:42,490 --> 00:00:42,915
-MAN:
-
-26
-00:00:42,915 --> 00:00:44,616
-The food’s amazing.
-
-27
-00:00:44,616 --> 00:00:50,570
-If you like fish it’s probably the best restaurant in town for that.
-
-28
-00:00:50,570 --> 00:00:50,917
-MAN:
-
-29
-00:00:50,917 --> 00:00:55,781
-It’s always really fresh and there are lots of interesting dishes to choose
-
-30
-00:00:55,781 --> 00:00:56,128
-from.
-
-31
 00:00:56,128 --> 00:00:58,560
 But all the food is good there.
 
-32
-00:00:58,560 --> 00:00:59,060
-WOMAN:
+15
+00:00:58,560 --> 00:01:01,060
+WOMAN: Is it really expensive?
 
-33
-00:00:59,060 --> 00:01:01,060
-Is it really expensive?
+16
+00:01:01,060 --> 00:01:06,640
+MAN: It's certainly not cheap but for a special occasion I think it's fine.
 
-34
-00:01:01,060 --> 00:01:01,409
-MAN:
+17
+00:01:06,640 --> 00:01:08,380
+MAN: It's got a great atmosphere
 
-35
-00:01:01,409 --> 00:01:06,291
-It’s certainly not cheap but for a special occasion I think it’s
+18
+00:01:08,900 --> 00:01:13,750
+and before dinner you can go up on the roof and have a drink.
 
-36
-00:01:06,291 --> 00:01:06,640
-fine.
+19
+00:01:13,750 --> 00:01:15,340
+MAN: It's really nice up there
 
-37
-00:01:06,640 --> 00:01:06,979
-MAN:
+20
+00:01:15,520 --> 00:01:21,280
+but you need to book. It's very popular as the views are spectacular.
 
-38
-00:01:06,979 --> 00:01:12,396
-It’s got a great atmosphere and before dinner you can go up on the roof
+21
+00:01:21,280 --> 00:01:25,700
+WOMAN: Sounds good. So that's definitely a possibility then
 
-39
-00:01:12,396 --> 00:01:13,750
-and have a drink.
-
-40
-00:01:13,750 --> 00:01:14,109
-MAN:
-
-41
-00:01:14,109 --> 00:01:18,053
-It’s really nice up there but you need to book.
-
-42
-00:01:18,053 --> 00:01:21,280
-It’s very popular as the views are spectacular.
-
-43
-00:01:21,280 --> 00:01:21,707
-WOMAN:
-
-44
-00:01:21,707 --> 00:01:22,560
-Sounds good.
-
-45
-00:01:22,560 --> 00:01:25,547
-So that’s definitely a possibility then.
-
-46
-00:01:25,547 --> 00:01:28,960
+22
+00:01:26,220 --> 00:01:28,960
 Is there anywhere else you can think of?
 
-47
-00:01:28,960 --> 00:01:29,376
-MAN:
+23
+00:01:28,960 --> 00:01:34,790
+MAN: If you want somewhere a bit less formal then you could try Paloma.
 
-48
-00:01:29,376 --> 00:01:34,790
-If you want somewhere a bit less formal then you could try Paloma.
+24
+00:01:34,790 --> 00:01:36,930
+WOMAN: Where's that? I haven't heard of it.
 
-49
-00:01:34,790 --> 00:01:35,004
-WOMAN:
+25
+00:01:36,930 --> 00:01:38,894
+MAN: No, it's quite new.
 
-50
-00:01:35,004 --> 00:01:35,646
-Where’s that?
+26
+00:01:38,894 --> 00:01:44,130
+It's only been open a few months but it's got a great reputation already.
 
-51
-00:01:35,646 --> 00:01:36,930
-I haven’t heard of it.
-
-52
-00:01:36,930 --> 00:01:37,257
-MAN:
-
-53
-00:01:37,257 --> 00:01:38,894
-No, it’s quite new.
-
-54
-00:01:38,894 --> 00:01:43,803
-It’s only been open a few months but it’s got a great reputation
-
-55
-00:01:43,803 --> 00:01:44,130
-already.
-
-56
+27
 00:01:44,130 --> 00:01:47,730
-It’s in a really beautiful old building on Bow Street.
+It's in a really beautiful old building on Bow Street.
 
-57
-00:01:47,730 --> 00:01:48,117
-WOMAN:
+28
+00:01:47,730 --> 00:01:52,760
+WOMAN: Oh, I think I know where you mean - right beside the cinema?
 
-58
-00:01:48,117 --> 00:01:52,760
-Oh, I think I know where you mean – right beside the cinema?
+29
+00:01:52,760 --> 00:01:56,580
+MAN: Yes, that's it. I've only been there a couple of times
 
-59
-00:01:52,760 --> 00:01:53,092
-MAN:
+30
+00:01:56,580 --> 00:01:59,060
+but I was really impressed.
 
-60
-00:01:53,092 --> 00:01:53,423
-Yes,
+31
+00:01:59,060 --> 00:02:02,360
+MAN: The chef used to work at Don Felipe's, apparently
 
-61
-00:01:53,423 --> 00:01:54,418
-that’s it.
-
-62
-00:01:54,418 --> 00:01:59,060
-I’ve only been there a couple of times but I was really impressed.
-
-63
-00:01:59,060 --> 00:01:59,406
-MAN:
-
-64
-00:01:59,406 --> 00:02:02,869
-The chef used to work at Don Felipe’s, apparently.
-
-65
-00:02:02,869 --> 00:02:05,640
+32
+00:02:02,940 --> 00:02:05,640
 I was really sorry when that closed down.
 
-66
-00:02:05,640 --> 00:02:05,953
-WOMAN:
+33
+00:02:05,640 --> 00:02:08,770
+WOMAN: So is all the food they serve Spanish, then?
 
-67
-00:02:05,953 --> 00:02:08,770
-So is all the food they serve Spanish, then?
+34
+00:02:08,770 --> 00:02:12,260
+MAN: Yeah. You can get lots of small dishes to share
 
-68
-00:02:08,770 --> 00:02:09,077
-MAN:
+35
+00:02:12,720 --> 00:02:15,530
+which always works really well if you're in a group.
 
-69
-00:02:09,077 --> 00:02:09,385
-Yeah.
+36
+00:02:15,530 --> 00:02:17,690
+WOMAN: Mmm. Worth thinking about.
 
-70
-00:02:09,385 --> 00:02:13,379
-You can get lots of small dishes to share – which always works really
+37
+00:02:17,690 --> 00:02:22,491
+MAN: Yeah. There's a lively atmosphere and the waiters are really friendly.
 
-71
-00:02:13,379 --> 00:02:15,530
-well if you’re in a group.
+38
+00:02:22,491 --> 00:02:28,400
+The only thing is that you need to pay a £50 deposit to book a table.
 
-72
-00:02:15,530 --> 00:02:15,962
-WOMAN:
+39
+00:02:28,400 --> 00:02:31,390
+WOMAN: A lot of restaurants are doing that these days.
 
-73
-00:02:15,962 --> 00:02:16,394
-Mmm.
+40
+00:02:31,390 --> 00:02:37,022
+WOMAN: I should have a look at the menu to check there's a good choice of vegetarian dishes.
 
-74
-00:02:16,394 --> 00:02:17,690
-Worth thinking about.
-
-75
-00:02:17,690 --> 00:02:18,059
-MAN:
-
-76
-00:02:18,059 --> 00:02:18,429
-Yeah.
-
-77
-00:02:18,429 --> 00:02:22,491
-There’s a lively atmosphere and the waiters are really friendly.
-
-78
-00:02:22,491 --> 00:02:27,661
-The only thing is that you need to pay a £50 deposit to book
-
-79
-00:02:27,661 --> 00:02:28,400
-a table.
-
-80
-00:02:28,400 --> 00:02:28,699
-WOMAN:
-
-81
-00:02:28,699 --> 00:02:31,390
-A lot of restaurants are doing that these days.
-
-82
-00:02:31,390 --> 00:02:31,686
-WOMAN:
-
-83
-00:02:31,686 --> 00:02:36,133
-I should have a look at the menu to check there’s a good choice
-
-84
-00:02:36,133 --> 00:02:37,022
-of vegetarian dishes.
-
-85
+41
 00:02:37,022 --> 00:02:39,690
 A couple of my friends have stopped eating meat.
 
-86
-00:02:39,690 --> 00:02:40,044
-MAN:
+42
+00:02:39,690 --> 00:02:44,650
+MAN: Not sure. I'd say the selection of those would be quite limited.
 
-87
-00:02:40,044 --> 00:02:40,753
-Not sure.
+43
+00:02:44,650 --> 00:02:48,870
+MAN: I've just thought of another idea. Have you been to The Audley?
 
-88
-00:02:40,753 --> 00:02:44,650
-I’d say the selection of those would be quite limited.
+44
+00:02:48,870 --> 00:02:53,440
+WOMAN: No, don't think I've heard of it. How's it spelt?
 
-89
-00:02:44,650 --> 00:02:44,951
-MAN:
+45
+00:02:53,440 --> 00:02:59,860
+MAN: A-U-D-L-E-Y. You must have heard of it
 
-90
-00:02:44,951 --> 00:02:47,061
-I’ve just thought of another idea.
+46
+00:02:59,920 --> 00:03:02,430
+there's been a lot about it in the press.
 
-91
-00:02:47,061 --> 00:02:48,870
-Have you been to The Audley?
+47
+00:03:02,430 --> 00:03:05,480
+WOMAN: I don't tend to pay much attention to that kind of thing
 
-92
-00:02:48,870 --> 00:02:49,196
-WOMAN:
-
-93
-00:02:49,196 --> 00:02:52,134
-No, don’t think I’ve heard of it.
-
-94
-00:02:52,134 --> 00:02:53,440
-How’s it spelt?
-
-95
-00:02:53,440 --> 00:02:53,939
-MAN:
-
-96
-00:02:53,939 --> 00:02:54,439
-A-U-D-L-E-Y.
-
-97
-00:02:54,439 --> 00:03:01,431
-You must have heard of it – there’s been a lot about it in
-
-98
-00:03:01,431 --> 00:03:02,430
-the press.
-
-99
-00:03:02,430 --> 00:03:02,757
-WOMAN:
-
-100
-00:03:02,757 --> 00:03:07,006
-I don’t tend to pay much attention to that kind of thing.
-
-101
-00:03:07,006 --> 00:03:08,640
+48
+00:03:06,240 --> 00:03:08,640
 So where is it exactly?
 
-102
-00:03:08,640 --> 00:03:08,997
-MAN:
+49
+00:03:08,640 --> 00:03:13,280
+MAN: It's in that hotel near Baxter Bridge - on the top floor.
 
-103
-00:03:08,997 --> 00:03:13,280
-It’s in that hotel near Baxter Bridge – on the top floor.
+50
+00:03:13,280 --> 00:03:16,710
+WOMAN: Oh, the views would be incredible from up there.
 
-104
-00:03:13,280 --> 00:03:13,623
-WOMAN:
+51
+00:03:16,710 --> 00:03:21,897
+MAN: Yeah. I'd love to go. I can't think of the chef's name
 
-105
-00:03:13,623 --> 00:03:16,710
-Oh, the views would be incredible from up there.
+52
+00:03:21,897 --> 00:03:25,180
+but she was a judge on that TV cookery show recently
 
-106
-00:03:16,710 --> 00:03:17,034
-MAN:
+53
+00:03:25,740 --> 00:03:28,380
+And she's written a couple of cookery books.
 
-107
-00:03:17,034 --> 00:03:17,358
-Yeah.
+54
+00:03:28,380 --> 00:03:30,770
+WOMAN: Oh, Angela Frayn.
 
-108
-00:03:17,358 --> 00:03:18,979
-I’d love to go.
+55
+00:03:30,770 --> 00:03:37,010
+MAN: That's the one. Anyway, it's had excellent reviews from all the newspapers.
 
-109
-00:03:18,979 --> 00:03:24,166
-I can’t think of the chef’s name but she was a judge on that
+56
+00:03:37,010 --> 00:03:40,590
+WOMAN: That would be a memorable place for a celebration.
 
-110
-00:03:24,166 --> 00:03:25,462
-TV cookery show recently.
+57
+00:03:40,590 --> 00:03:45,213
+MAN: Definitely. Obviously it's worth going there just for the view
 
-111
-00:03:25,462 --> 00:03:28,380
-And she’s written a couple of cookery books.
+58
+00:03:45,213 --> 00:03:48,680
+but the food is supposed to be really special.
 
-112
-00:03:28,380 --> 00:03:28,978
-WOMAN:
+59
+00:03:48,680 --> 00:03:52,770
+WOMAN: She only likes cooking with local products, doesn't she?
 
-113
-00:03:28,978 --> 00:03:30,770
-Oh, Angela Frayn.
+60
+00:03:52,770 --> 00:03:58,897
+MAN: Yes. Everything at the restaurant has to be sourced within a short distance
 
-114
-00:03:30,770 --> 00:03:31,186
-MAN:
-
-115
-00:03:31,186 --> 00:03:32,850
-That’s the one.
-
-116
-00:03:32,850 --> 00:03:37,010
-Anyway, it’s had excellent reviews from all the newspapers.
-
-117
-00:03:37,010 --> 00:03:37,368
-WOMAN:
-
-118
-00:03:37,368 --> 00:03:40,590
-That would be a memorable place for a celebration.
-
-119
-00:03:40,590 --> 00:03:40,975
-MAN:
-
-120
-00:03:40,975 --> 00:03:41,360
-Definitely.
-
-121
-00:03:41,360 --> 00:03:47,139
-Obviously it’s worth going there just for the view but the food is supposed
-
-122
-00:03:47,139 --> 00:03:48,680
-to be really special.
-
-123
-00:03:48,680 --> 00:03:49,052
-WOMAN:
-
-124
-00:03:49,052 --> 00:03:52,770
-She only likes cooking with local products, doesn’t she?
-
-125
-00:03:52,770 --> 00:03:53,208
-MAN:
-
-126
-00:03:53,208 --> 00:03:53,645
-Yes.
-
-127
-00:03:53,645 --> 00:03:58,897
-Everything at the restaurant has to be sourced within a short distance
-
-128
+61
 00:03:58,897 --> 00:04:01,960
 and absolutely nothing flown in from abroad.
 
-129
-00:04:01,960 --> 00:04:02,346
-WOMAN:
+62
+00:04:01,960 --> 00:04:05,050
+WOMAN: I imagine it's really expensive though.
 
-130
-00:04:02,346 --> 00:04:05,050
-I imagine it’s really expensive though.
+63
+00:04:05,050 --> 00:04:07,660
+MAN: Well, you could go for the set lunch
 
-131
-00:04:05,050 --> 00:04:05,455
-MAN:
+64
+00:04:08,280 --> 00:04:13,548
+That's quite reasonable for a top class restaurant: £30 a head.
 
-132
-00:04:05,455 --> 00:04:08,692
-Well, you could go for the set lunch.
-
-133
-00:04:08,692 --> 00:04:12,334
-That’s quite reasonable for a top class restaurant:
-
-134
-00:04:12,334 --> 00:04:13,548
-£30 a head.
-
-135
+65
 00:04:13,548 --> 00:04:18,000
-In the evening I think it’d be more like £50.
+In the evening I think it'd be more like £50.
 
-136
-00:04:18,000 --> 00:04:18,347
-WOMAN:
+66
+00:04:18,000 --> 00:04:23,198
+WOMAN: At least that, I should think. But I'm sure everyone would enjoy it.
 
-137
-00:04:18,347 --> 00:04:20,426
-At least that, I should think.
+67
+00:04:23,198 --> 00:04:26,080
+It's not the kind of place you leave feeling hungry
 
-138
-00:04:20,426 --> 00:04:23,198
-But I’m sure everyone would enjoy it.
+68
+00:04:26,380 --> 00:04:29,090
+though, is it? With tiny portions?
 
-139
-00:04:23,198 --> 00:04:28,050
-It’s not the kind of place you leave feeling hungry though, is it?
+69
+00:04:29,090 --> 00:04:35,170
+MAN: No, the reviews I've read didn't mention that. I imagine they'd be average.
 
-140
-00:04:28,050 --> 00:04:29,090
-With tiny portions?
-
-141
-00:04:29,090 --> 00:04:29,448
-MAN:
-
-142
-00:04:29,448 --> 00:04:33,024
-No, the reviews I’ve read didn’t mention that.
-
-143
-00:04:33,024 --> 00:04:35,170
-I imagine they’d be average.
-
-144
-00:04:35,170 --> 00:04:35,719
-WOMAN:
-
-145
-00:04:35,719 --> 00:04:36,267
-Well,
-
-146
-00:04:36,267 --> 00:04:39,010
-that’s all great, thanks …
+70
+00:04:35,170 --> 00:04:39,010
+WOMAN: Well, that's all great, thanks...

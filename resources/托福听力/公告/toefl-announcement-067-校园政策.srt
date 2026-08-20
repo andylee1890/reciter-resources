@@ -3,29 +3,41 @@
 Listen to an announcement at a student meeting.
 
 2
-00:00:04,050 --> 00:00:12,292
-Our mentorship program is back this year with some great new features like regularly scheduled one on one sessions
+00:00:04,050 --> 00:00:07,155
+Our mentorship program is back this year
 
 3
-00:00:12,292 --> 00:00:15,140
-and extra resources to support participants.
+00:00:07,155 --> 00:00:12,478
+with some great new features like regularly scheduled one on one sessions
 
 4
+00:00:12,478 --> 00:00:15,140
+and extra resources to support participants.
+
+5
 00:00:15,140 --> 00:00:21,030
 Senior students will once again be paired with freshmen to help them navigate their first year.
 
-5
-00:00:21,030 --> 00:00:28,080
-As a mentor, you'll gain real leadership experience and feel the reward of helping someone succeed.
-
 6
-00:00:28,080 --> 00:00:30,591
-Sign up at the Student Center, Room 104.
+00:00:21,030 --> 00:00:24,460
+As a mentor, you'll gain real leadership experience
 
 7
-00:00:30,591 --> 00:00:35,250
-Fill out a quick application, including a short statement about why you're interested.
+00:00:24,460 --> 00:00:28,080
+and feel the reward of helping someone succeed.
 
 8
+00:00:28,080 --> 00:00:30,811
+Sign up at the Student Center, Room 104.
+
+9
+00:00:30,811 --> 00:00:32,620
+Fill out a quick application
+
+10
+00:00:33,120 --> 00:00:35,250
+including a short statement about why you're interested.
+
+11
 00:00:35,250 --> 00:00:38,150
 Nothing too formal, just a few lines.

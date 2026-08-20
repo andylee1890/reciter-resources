@@ -1,59 +1,35 @@
 1
-00:00:00,000 --> 00:00:00,803
-Man:
+00:00:00,000 --> 00:00:08,290
+Man: Hey, Lisa, have you had a chance to visit that new cafe that just opened on 10th Street?
 
 2
-00:00:00,803 --> 00:00:07,387
-Hey, Lisa, have you had a chance to visit that new cafe that just
+00:00:08,290 --> 00:00:12,040
+Woman: Not yet. I've heard mixed reviews.
 
 3
-00:00:07,387 --> 00:00:08,290
-opened on 10th Street?
+00:00:12,040 --> 00:00:16,160
+Some say it's fantastic, others not so much. Have you been?
 
 4
-00:00:08,290 --> 00:00:09,520
-Woman:
+00:00:16,160 --> 00:00:18,712
+Man: Yes. And I was pleasantly surprised.
 
 5
-00:00:09,520 --> 00:00:09,943
-Not yet.
-
-6
-00:00:09,943 --> 00:00:12,040
-I've heard mixed reviews.
-
-7
-00:00:12,040 --> 00:00:16,160
-ome say it's fantastic, others not so much. Have you been?
-
-8
-00:00:16,160 --> 00:00:16,525
-Man:
-
-9
-00:00:16,525 --> 00:00:16,889
-Yes.
-
-10
-00:00:16,889 --> 00:00:18,712
-And I was pleasantly surprised.
-
-11
 00:00:18,712 --> 00:00:24,180
 The ambiance is cozy and their espresso is probably the best I've had in town.
 
-12
-00:00:24,180 --> 00:00:29,170
-The most disappointing part was their pastries, though maybe it was too late in the day.
+6
+00:00:24,180 --> 00:00:27,340
+The most disappointing part was their pastries, though
 
-13
-00:00:29,170 --> 00:00:29,528
-Woman:
+7
+00:00:27,640 --> 00:00:29,170
+maybe it was too late in the day.
 
-14
-00:00:29,528 --> 00:00:32,036
-Even so, it does sound worth trying.
+8
+00:00:29,170 --> 00:00:32,220
+Woman: Even so, it does sound worth trying
 
-15
-00:00:32,036 --> 00:00:35,260
+9
+00:00:32,560 --> 00:00:35,260
 I'll swing by this weekend after my basketball game.

@@ -3,385 +3,245 @@
 Good morning.
 
 2
-00:00:01,750 --> 00:00:03,539
-Oh, good morning.
+00:00:01,750 --> 00:00:07,740
+Oh, good morning. Is this... er... room number 26?
 
 3
-00:00:03,539 --> 00:00:05,078
-Is this...
+00:00:07,740 --> 00:00:08,770
+Yes, that's right.
 
 4
-00:00:05,078 --> 00:00:05,743
-er...
-
-5
-00:00:05,743 --> 00:00:07,740
-room number 26?
-
-6
-00:00:07,740 --> 00:00:07,790
-Yes,
-
-7
-00:00:07,790 --> 00:00:08,770
-that's right.
-
-8
 00:00:08,770 --> 00:00:11,800
 So is this the Student Job Centre?
 
-9
-00:00:11,800 --> 00:00:12,700
-It certainly is.
+5
+00:00:11,800 --> 00:00:14,200
+It certainly is. How can I help you?
 
-10
-00:00:12,700 --> 00:00:14,200
-How can I help you?
+6
+00:00:14,200 --> 00:00:19,160
+Well, actually I'm looking for a job-a part-time job
 
-11
-00:00:14,200 --> 00:00:18,276
-Well, actually I'm looking for a job-a part-time job.
-
-12
-00:00:18,276 --> 00:00:21,900
+7
+00:00:19,600 --> 00:00:21,900
 Do you have anything available at the moment?
 
-13
-00:00:21,900 --> 00:00:22,698
-Ah, yes...
+8
+00:00:21,900 --> 00:00:25,060
+Ah, yes... Are you a registered student
 
-14
-00:00:22,698 --> 00:00:24,692
-Are you a registered student?
-
-15
-00:00:24,692 --> 00:00:28,680
+9
+00:00:25,440 --> 00:00:28,680
 I'm afraid this service is only available to full-time students.
 
-16
-00:00:28,680 --> 00:00:29,048
-Yes...
+10
+00:00:28,680 --> 00:00:33,830
+Yes... I am. I'm doing a degree in Business Studies. Here's my student card.
 
-17
-00:00:29,048 --> 00:00:29,784
-I am.
-
-18
-00:00:29,784 --> 00:00:32,359
-I'm doing a degree in Business Studies.
-
-19
-00:00:32,359 --> 00:00:33,830
-Here's my student card.
-
-20
+11
 00:00:33,830 --> 00:00:36,300
 Which year are you in?
 
-21
-00:00:36,300 --> 00:00:36,632
-Well...
+12
+00:00:36,300 --> 00:00:39,600
+Well... I've been at university for four years
 
-22
-00:00:36,632 --> 00:00:40,955
-I've been at university for four years but I'm in the Third Year
+13
+00:00:39,640 --> 00:00:42,950
+but I'm in the Third Year because I took last year off.
 
-23
-00:00:40,955 --> 00:00:42,950
-because I took last year off.
+14
+00:00:42,950 --> 00:00:48,529
+Right... well, let's just have a look at what positions are available at the moment.
 
-24
-00:00:42,950 --> 00:00:43,322
-Right...
+15
+00:00:48,529 --> 00:00:52,993
+There's a job working at the reception desk at the Sports Centre,
 
-25
-00:00:43,322 --> 00:00:48,529
-well, let's just have a look at what positions are available at the moment.
+16
+00:00:52,993 --> 00:00:56,340
+for three evenings a week. That's Wednesdays, Thursdays and Fridays.
 
-26
-00:00:48,529 --> 00:00:55,596
-There's a job working at the reception desk at the Sports Centre, for three evenings a week-that's Wednesdays, Thursdays
+17
+00:00:56,340 --> 00:01:01,300
+That sounds like fun but unfortunately I have evening lectures
 
-27
-00:00:55,596 --> 00:00:56,340
-and Fridays.
+18
+00:01:01,380 --> 00:01:03,269
+so that's not possible, I'm afraid.
 
-28
-00:00:56,340 --> 00:01:02,807
-That sounds like fun but unfortunately I have evening lectures-so that's not possible, I'm
-
-29
-00:01:02,807 --> 00:01:03,269
-afraid.
-
-30
+19
 00:01:03,269 --> 00:01:06,040
 Is there anything during the day?
 
-31
-00:01:06,040 --> 00:01:06,498
-OK,
+20
+00:01:06,040 --> 00:01:11,705
+OK, that's no good then. Um. What about cleaning?
 
-32
-00:01:06,498 --> 00:01:08,330
-that's no good then.
+21
+00:01:12,086 --> 00:01:15,200
+There's a position for a cleaner at the Child Care Centre
 
-33
-00:01:08,330 --> 00:01:08,788
-Um.
-
-34
-00:01:08,788 --> 00:01:10,162
-What about cleaning?
-
-35
-00:01:10,162 --> 00:01:15,200
-There's a position for a cleaner at the Child Care Centre.
-
-36
+22
 00:01:15,200 --> 00:01:16,310
 Right...
 
-37
-00:01:16,310 --> 00:01:18,928
-But you'd need to be there at 6 am.
+23
+00:01:16,310 --> 00:01:19,800
+But you'd need to be there at 6 am. Does that appeal?
 
-38
-00:01:18,928 --> 00:01:19,800
-Does that appeal?
-
-39
+24
 00:01:19,800 --> 00:01:21,474
 Six o'clock in the morning!
 
-40
-00:01:21,474 --> 00:01:21,809
-Oh,
+25
+00:01:21,474 --> 00:01:24,840
+Oh, that's far too early for me, I'm afraid
 
-41
-00:01:21,809 --> 00:01:24,487
-that's far too early for me, I'm afraid.
-
-42
-00:01:24,487 --> 00:01:27,500
+26
+00:01:24,840 --> 00:01:27,500
 I'd never make it that early in the morning.
 
-43
-00:01:27,500 --> 00:01:27,900
-Mmm...
+27
+00:01:27,500 --> 00:01:31,496
+Mmm... Well. There was a position going in the Computer Lab.
 
-44
-00:01:27,900 --> 00:01:31,496
-Well-there was a position going in the Computer Lab.
+28
+00:01:31,496 --> 00:01:38,690
+for three days a week that might be OK. Ah, here it is! No, it's in the Library,
 
-45
-00:01:31,496 --> 00:01:35,093
-for three days a week that might be OK.
+29
+00:01:38,690 --> 00:01:41,640
+not the Lab., Clerical Assistant required
 
-46
-00:01:35,093 --> 00:01:36,692
-Ah, here it is!
+30
+00:01:41,880 --> 00:01:45,484
+I think it mostly involves putting the books back on the shelves.
 
-47
-00:01:36,692 --> 00:01:42,287
-No, it's in the Library, not the Lab., Clerical Assistant required-I think it mostly
+31
+00:01:45,484 --> 00:01:49,480
+Oh no-hang on. It's for Wednesday and Friday evenings again.
 
-48
-00:01:42,287 --> 00:01:45,484
-involves putting the books back on the shelves.
-
-49
-00:01:45,484 --> 00:01:46,683
-Oh no-hang on.
-
-50
-00:01:46,683 --> 00:01:49,480
-It's for Wednesday and Friday evenings again.
-
-51
+32
 00:01:49,480 --> 00:01:52,050
-NO-I can't manage that because of the lectures.
+NO. I can't manage that because of the lectures.
 
-52
-00:01:52,050 --> 00:01:53,898
-OK, I'm getting the idea.
+33
+00:01:52,050 --> 00:01:54,268
+OK, I'm getting the idea. Look,
 
-53
-00:01:53,898 --> 00:01:57,595
-Look, I'll just get a few details from you anyway,
+34
+00:01:54,268 --> 00:01:59,220
+I'll just get a few details from you anyway
 
-54
-00:01:57,595 --> 00:02:02,400
+35
+00:01:59,220 --> 00:02:02,400
 and then we can check through the list and see what comes up.
 
-55
+36
 00:02:02,400 --> 00:02:09,150
 We'll fill in the personal details on this application form first, if that's OK?
 
-56
-00:02:09,150 --> 00:02:09,543
-Yes,
+37
+00:02:09,150 --> 00:02:10,330
+Yes, that's fine.
 
-57
-00:02:09,543 --> 00:02:10,330
-that's fine.
-
-58
+38
 00:02:10,330 --> 00:02:12,000
 Now, what's your name again?
 
-59
+39
 00:02:12,000 --> 00:02:16,940
-Anita Newman-that's N-E-W-M-A-N.
+Anita Newman. That's N-E-W-M-A-N.
 
-60
+40
 00:02:16,940 --> 00:02:18,600
 And your address, Anita?
 
-61
-00:02:18,600 --> 00:02:23,397
-I'm in one of the Halls of Residence for post-graduate students, you know, International
+41
+00:02:18,600 --> 00:02:23,740
+I'm in one of the Halls of Residence for post-graduate students, you know, International House.
 
-62
-00:02:23,397 --> 00:02:23,740
-House.
+42
+00:02:23,740 --> 00:02:26,650
+OK. That's easy. What's your room number there?
 
-63
-00:02:23,740 --> 00:02:24,571
-OK-that's easy.
+43
+00:02:26,650 --> 00:02:33,200
+Room B569 - no sorry B659. I always get that wrong
 
-64
-00:02:24,571 --> 00:02:26,650
-What's your room number there?
-
-65
-00:02:26,650 --> 00:02:29,247
-Room B569 - no sorry B659.
-
-66
-00:02:29,247 --> 00:02:31,844
-I always get that wrong.
-
-67
-00:02:31,844 --> 00:02:35,480
+44
+00:02:33,820 --> 00:02:35,480
 I haven't been living there very long.
 
-68
-00:02:35,480 --> 00:02:37,165
-Do you have any other skills?
+45
+00:02:35,480 --> 00:02:38,850
+Do you have any other skills? Typing, languages, that sort of thing?
 
-69
-00:02:37,165 --> 00:02:37,727
-Typing, languages,
-
-70
-00:02:37,727 --> 00:02:38,850
-that sort of thing?
-
-71
+46
 00:02:38,850 --> 00:02:41,160
 Well, I speak some Japanese.
 
-72
+47
 00:02:41,160 --> 00:02:43,983
 Right, I'll make a note of that.
 
-73
+48
 00:02:43,983 --> 00:02:46,403
 Now-let's see what else is available.
 
-74
+49
 00:02:46,403 --> 00:02:49,227
 What do you think of administrative work?
 
-75
+50
 00:02:49,227 --> 00:02:54,470
 There is a position for an Office Assistant at the English Language Centre.
 
-76
+51
 00:02:54,470 --> 00:02:56,420
 That sounds interesting.
 
-77
-00:02:56,420 --> 00:03:01,129
-It's for 3 days a week-Monday, Friday and Saturday mornings.
+52
+00:02:56,420 --> 00:03:01,600
+It's for 3 days a week-Monday, Friday and Saturday mornings. Interested?
 
-78
-00:03:01,129 --> 00:03:01,600
-Interested?
+53
+00:03:01,600 --> 00:03:05,300
+Mmm. I was hoping to have Saturdays free
 
-79
-00:03:01,600 --> 00:03:02,032
-Mmm.
+54
+00:03:05,780 --> 00:03:11,110
+But I need the work so... can you tell me what the job involves?
 
-80
-00:03:02,032 --> 00:03:05,058
-I was hoping to have Saturdays free.
+55
+00:03:11,110 --> 00:03:16,600
+Yes, sure. It says here that you'll be required to deal with student enquiries and answer the phone.
 
-81
-00:03:05,058 --> 00:03:07,652
-But I need the work so ...
-
-82
-00:03:07,652 --> 00:03:11,110
-can you tell me what the job involves?
-
-83
-00:03:11,110 --> 00:03:11,720
-Yes, sure.
-
-84
-00:03:11,720 --> 00:03:15,380
-It says here that you'll be required to deal with student enquiries
-
-85
-00:03:15,380 --> 00:03:16,600
-and answer the phone.
-
-86
+56
 00:03:16,600 --> 00:03:19,440
 I'm sure I can handle all that without a problem.
 
-87
-00:03:19,440 --> 00:03:19,782
-Great.
+57
+00:03:19,440 --> 00:03:23,440
+Great. Well, would you like me to arrange an interview for you
 
-88
-00:03:19,782 --> 00:03:23,541
-Well, would you like me to arrange an interview for you?
-
-89
-00:03:23,541 --> 00:03:25,250
+58
+00:03:23,540 --> 00:03:25,250
 Say, Friday morning, around ten?
 
-90
-00:03:25,250 --> 00:03:27,549
-Could we make it a bit later?
+59
+00:03:25,250 --> 00:03:27,660
+Could we make it a bit later
 
-91
-00:03:27,549 --> 00:03:30,176
-Unfortunately, I've got something to do at ten.
+60
+00:03:28,120 --> 00:03:31,490
+Unfortunately, I've got something to do at ten. Would that be OK?
 
-92
-00:03:30,176 --> 00:03:31,490
-Would that be OK?
+61
+00:03:31,490 --> 00:03:36,600
+Not a problem. How about eleven thirty? Hope it works out for you Anita.
 
-93
-00:03:31,490 --> 00:03:32,585
-Not a problem.
-
-94
-00:03:32,585 --> 00:03:34,045
-How about eleven thirty?
-
-95
-00:03:34,045 --> 00:03:36,600
-Hope it works out for you Anita.
-
-96
-00:03:36,600 --> 00:03:37,138
-Me too.
-
-97
-00:03:37,138 --> 00:03:38,750
-And thanks for all your help.
+62
+00:03:36,600 --> 00:03:38,750
+Me too. And thanks for all your help.

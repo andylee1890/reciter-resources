@@ -1,115 +1,107 @@
 1
-00:00:00,000 --> 00:00:04,280
+00:00:01,260 --> 00:00:04,020
 Listen to a talk in an anthropology class.
 
 2
-00:00:04,280 --> 00:00:06,204
-W:
+00:00:06,260 --> 00:00:09,900
+W: For most of its history, the scientific field of anthropology,
 
 3
-00:00:06,204 --> 00:00:11,437
-For most of its history, the scientific field of anthropology, the study of culture,
+00:00:10,340 --> 00:00:17,140
+the study of culture, put humans at the centre, often in ways that now seem narrow and limiting.
 
 4
-00:00:11,437 --> 00:00:17,170
-put humans at the centre, often in ways that now seem narrow and limiting.
+00:00:17,980 --> 00:00:21,940
+Animals were treated as resources, symbols, or mere background,
 
 5
-00:00:17,170 --> 00:00:20,623
-Animals were treated as resources, symbols,
+00:00:22,280 --> 00:00:25,060
+important only for what they meant to us.
 
 6
-00:00:20,623 --> 00:00:25,060
-or mere background, important only for what they meant to us.
-
-7
-00:00:25,060 --> 00:00:29,876
+00:00:26,060 --> 00:00:29,860
 Classic anthropology focused on how people hunted, herded,
 
-8
-00:00:29,876 --> 00:00:34,170
+7
+00:00:30,320 --> 00:00:34,140
 or mythologized animals, reinforcing a sharp divide.
 
-9
-00:00:34,170 --> 00:00:39,000
+8
+00:00:34,860 --> 00:00:38,620
 Humans belonged to culture, animals to nature.
 
-10
-00:00:39,000 --> 00:00:46,222
+9
+00:00:39,600 --> 00:00:46,220
 For example, early studies of Arctic hunting rituals examined how seals symbolized spiritual beliefs
 
-11
-00:00:46,222 --> 00:00:52,260
+10
+00:00:46,220 --> 00:00:52,540
 and social bonds without asking about the seal's own behaviors or ecological roles.
 
-12
-00:00:52,260 --> 00:00:56,660
+11
+00:00:53,400 --> 00:00:56,640
 This approach gave us insight into human meaning making,
 
-13
-00:00:56,660 --> 00:01:01,080
+12
+00:00:57,380 --> 00:01:01,100
 but it overlooked the complexity of interspecies relationships.
 
-14
-00:01:01,080 --> 00:01:05,089
+13
+00:01:02,720 --> 00:01:04,820
 Multi-species anthropology flips that perspective.
 
+14
+00:01:05,800 --> 00:01:09,800
+It sees humans and other species, animals, plants
+
 15
-00:01:05,089 --> 00:01:14,140
-It sees humans and other species, animals, plants, even fungi, as co-participants in shared worlds.
+00:01:10,300 --> 00:01:14,220
+even fungi, as co-participants in shared worlds.
 
 16
-00:01:14,140 --> 00:01:21,768
-Instead of reducing non-humans to cultural symbols, it highlights their agency, their ability to
+00:01:15,240 --> 00:01:18,320
+Instead of reducing non-humans to cultural symbols,
 
 17
-00:01:21,768 --> 00:01:23,093
-act, adapt,
+00:01:18,740 --> 00:01:25,100
+it highlights their agency, their ability to act, adapt, and influence human lives.
 
 18
-00:01:23,093 --> 00:01:25,120
-and influence human lives.
-
-19
-00:01:25,120 --> 00:01:29,170
+00:01:26,220 --> 00:01:29,060
 Take the studies of mushroom foraging in Siberia.
 
+19
+00:01:29,840 --> 00:01:34,840
+Here, fungi, trees, and humans form interdependent networks.
+
 20
-00:01:29,170 --> 00:01:32,190
-Here, fungi, trees,
+00:01:36,040 --> 00:01:39,200
+The growth of matsutake mushrooms depends on
 
 21
-00:01:32,190 --> 00:01:35,070
-and humans form interdependent networks.
+00:01:39,200 --> 00:01:42,900
+and reflects forest health and human harvesting practices,
 
 22
-00:01:35,070 --> 00:01:40,842
-The growth of matsutake mushrooms depends on and reflects forest health
+00:01:43,540 --> 00:01:49,200
+even as harvesting practices and forest health are influenced by the mushrooms themselves.
 
 23
-00:01:40,842 --> 00:01:49,180
-and human harvesting practices, even as harvesting practices and forest health are influenced by the mushrooms themselves.
+00:01:50,040 --> 00:01:55,480
+The point is, life isn't a human story with animals or plants in the background.
 
 24
-00:01:49,180 --> 00:01:50,600
-The point is, life isn't a human story with animals
-
-25
-00:01:50,600 --> 00:01:51,290
-or plants in the background.
-
-26
-00:01:51,290 --> 00:02:00,100
+00:01:56,280 --> 00:02:00,120
 It's a web of relationships among many kinds of beings.
 
+25
+00:02:01,340 --> 00:02:07,020
+Next I'll explore how this multi-species perspective reshapes research methods,
+
+26
+00:02:07,600 --> 00:02:10,600
+what it means to study not just human cultures
+
 27
-00:02:00,100 --> 00:02:08,576
-Next I'll explore how this multi-species perspective reshapes research methods, what it means to
-
-28
-00:02:08,576 --> 00:02:10,580
-study not just human cultures,
-
-29
-00:02:10,580 --> 00:02:16,070
+00:02:11,060 --> 00:02:14,460
 but the entangled lives of humans and other beings.

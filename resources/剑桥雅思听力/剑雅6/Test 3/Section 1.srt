@@ -1,451 +1,227 @@
 1
-00:00:00,000 --> 00:00:01,093
-Good morning.
+00:00:00,000 --> 00:00:03,400
+Good morning. I'd like to open a bank account, please.
 
 2
-00:00:01,093 --> 00:00:03,400
-I'd like to open a bank account, please.
+00:00:03,400 --> 00:00:07,640
+Certainly. If you'd like to take a seat, I'll just get some details from you
 
 3
-00:00:03,400 --> 00:00:03,450
-Certainly.
+00:00:07,840 --> 00:00:09,750
+It won't take long. Thanks.
 
 4
-00:00:03,450 --> 00:00:08,162
-If you'd like to take a seat, I'll just get some details from you.
+00:00:09,750 --> 00:00:15,200
+Is it a current account or a deposit account you wanted? A current account.
 
 5
-00:00:08,162 --> 00:00:09,432
-It won't take long.
+00:00:15,200 --> 00:00:19,420
+Right. I've got the application form here then
 
 6
-00:00:09,432 --> 00:00:09,750
-Thanks.
+00:00:19,980 --> 00:00:23,360
+We have different types. I see you've got our leaflet there.
 
 7
-00:00:09,750 --> 00:00:14,032
-Is it a current account or a deposit account you wanted?
-
-8
-00:00:14,032 --> 00:00:15,200
-A current account.
-
-9
-00:00:15,200 --> 00:00:15,653
-Right.
-
-10
-00:00:15,653 --> 00:00:18,827
-I've got the application form here then.
-
-11
-00:00:18,827 --> 00:00:23,360
-We have different types-I see you've got our leaflet there.
-
-12
 00:00:23,360 --> 00:00:25,920
 I've decided on the one called 'Select.'
 
-13
-00:00:25,920 --> 00:00:26,249
-Right,
+8
+00:00:25,920 --> 00:00:30,530
+Right, that's fine, so, first of all, can I have your full name please?
 
-14
-00:00:26,249 --> 00:00:26,908
-that's fine,
+9
+00:00:30,530 --> 00:00:35,850
+Yes, it's Pieter Henes. That's P. I-E-T-E-R.
 
-15
-00:00:26,908 --> 00:00:30,530
-so, first of all, can I have your full name please?
-
-16
-00:00:30,530 --> 00:00:34,077
-Yes, it's Pieter Henes.
-
-17
-00:00:34,077 --> 00:00:35,850
-That's P-I-E-T-E-R.
-
-18
+10
 00:00:35,850 --> 00:00:38,600
 Is it H-E-double N-E-S?
 
-19
-00:00:38,600 --> 00:00:40,138
-Uh, only one N actually.
+11
+00:00:38,600 --> 00:00:42,600
+Uh, only one N actually. It's a less common spelling of the name.
 
-20
-00:00:40,138 --> 00:00:42,600
-It's a less common spelling of the name.
+12
+00:00:42,600 --> 00:00:46,910
+Oh, right. OK. And what's your date of birth please?
 
-21
-00:00:42,600 --> 00:00:43,462
-Oh, right.
-
-22
-00:00:43,462 --> 00:00:43,893
-OK.
-
-23
-00:00:43,893 --> 00:00:46,910
-And what's your date of birth please?
-
-24
+13
 00:00:46,910 --> 00:00:50,600
 The twenty-seventh of the first, nineteen seventy-three.
 
+14
+00:00:50,600 --> 00:00:55,870
+Right. And will this be a joint account? No, just myself.
+
+15
+00:00:55,870 --> 00:01:01,700
+OK, fine. And where are you living, Mr. Henes? 15. Riverside.
+
+16
+00:01:01,700 --> 00:01:05,900
+Is that all one word? Yes. Exeter? Yes.
+
+17
+00:01:05,900 --> 00:01:11,340
+How long have you been at your present address? Er, is it more than two years?
+
+18
+00:01:11,340 --> 00:01:13,280
+Ah, just two weeks actually
+
+19
+00:01:13,340 --> 00:01:17,080
+I only arrived in the country a month ago. I'm from Holland.
+
+20
+00:01:17,080 --> 00:01:21,420
+Oh, that's fine. But we normally ask for a previous address in that case.
+
+21
+00:01:21,420 --> 00:01:31,950
+Oh yes, well, it's Rielsdorf 2. That's R. I-E-L-S-D-O-R-F 2, Utrecht.
+
+22
+00:01:31,950 --> 00:01:38,430
+Holland. OK. Thank you. Do you have a daytime telephone number?
+
+23
+00:01:38,430 --> 00:01:46,449
+Yes, I think the number at my office is six-oh-six-two-nine-five. Um, just a minute, I'd better check.
+
+24
+00:01:46,449 --> 00:01:52,840
+Oh no sorry, six- one-six. I'm not used to it yet
+
 25
-00:00:50,600 --> 00:00:51,079
-Right.
-
-26
-00:00:51,079 --> 00:00:54,433
-And will this be a joint account?
-
-27
-00:00:54,433 --> 00:00:55,870
-No, just myself.
-
-28
-00:00:55,870 --> 00:00:56,930
-OK, fine.
-
-29
-00:00:56,930 --> 00:01:00,110
-And where are you living, Mr.
-
-30
-00:01:00,110 --> 00:01:00,640
-Henes?
-
-31
-00:01:00,640 --> 00:01:01,170
-15.
-
-32
-00:01:01,170 --> 00:01:01,700
-Riverside.
-
-33
-00:01:01,700 --> 00:01:04,325
-Is that all one word?
-
-34
-00:01:04,325 --> 00:01:04,850
-Yes.
-
-35
-00:01:04,850 --> 00:01:05,375
-Exeter?
-
-36
-00:01:05,375 --> 00:01:05,900
-Yes.
-
-37
-00:01:05,900 --> 00:01:08,960
-How long have you been at your present address?
-
-38
-00:01:08,960 --> 00:01:11,340
-Er, is it more than two years?
-
-39
-00:01:11,340 --> 00:01:13,028
-Ah, just two weeks actually.
-
-40
-00:01:13,028 --> 00:01:16,067
-I only arrived in the country a month ago.
-
-41
-00:01:16,067 --> 00:01:17,080
-I'm from Holland.
-
-42
-00:01:17,080 --> 00:01:17,390
-Oh,
-
-43
-00:01:17,390 --> 00:01:18,010
-that's fine.
-
-44
-00:01:18,010 --> 00:01:21,420
-But we normally ask for a previous address in that case.
-
-45
-00:01:21,420 --> 00:01:27,738
-Oh yes, well, it's Rielsdorf 2.
-
-46
-00:01:27,738 --> 00:01:31,950
-That's R-I-E-L-S-D-O-R-F 2, Utrecht.
-
-47
-00:01:31,950 --> 00:01:32,539
-Holland.
-
-48
-00:01:32,539 --> 00:01:33,128
-OK.
-
-49
-00:01:33,128 --> 00:01:34,306
-Thank you.
-
-50
-00:01:34,306 --> 00:01:38,430
-Do you have a daytime telephone number?
-
-51
-00:01:38,430 --> 00:01:43,147
-Yes, I think the number at my office is six-oh-six-two-nine-five.
-
-52
-00:01:43,147 --> 00:01:46,449
-Um, just a minute, I'd better check.
-
-53
-00:01:46,449 --> 00:01:48,808
-Oh no sorry, six- one-six.
-
-54
-00:01:48,808 --> 00:01:51,638
-I'm not used to it yet.
-
-55
-00:01:51,638 --> 00:01:54,940
+00:01:53,240 --> 00:01:54,940
 Would you like my home number too?
 
-56
-00:01:54,940 --> 00:01:57,490
-Yes please.
+26
+00:01:54,940 --> 00:02:00,040
+Yes please. It's seven-nine-six-four-three-one.
 
-57
-00:01:57,490 --> 00:02:00,040
-It's seven-nine-six-four-three-one.
+27
+00:02:00,040 --> 00:02:02,830
+Are they both local numbers? Yes.
 
-58
-00:02:00,040 --> 00:02:02,365
-Are they both local numbers?
+28
+00:02:02,830 --> 00:02:07,640
+Right. And your occupation?
 
-59
-00:02:02,365 --> 00:02:02,830
-Yes.
+29
+00:02:07,640 --> 00:02:12,160
+Well, I'm in Britain as a project manager, but that's not my main job
 
-60
-00:02:02,830 --> 00:02:04,032
-Right.
-
-61
-00:02:04,032 --> 00:02:07,640
-And your occupation?
-
-62
-00:02:07,640 --> 00:02:10,469
-Well, I'm in Britain as a project manager,
-
-63
-00:02:10,469 --> 00:02:12,592
-but that's not my main job.
-
-64
-00:02:12,592 --> 00:02:14,360
+30
+00:02:12,380 --> 00:02:14,360
 I'm an engineer by profession.
 
-65
-00:02:14,360 --> 00:02:15,038
-I see.
+31
+00:02:14,360 --> 00:02:17,620
+I see. I think I'll put that then. It's shorter
 
-66
-00:02:15,038 --> 00:02:17,071
-I think I'll put that then.
+32
+00:02:18,400 --> 00:02:20,799
+Now we usually ask for a piece of information
 
-67
-00:02:17,071 --> 00:02:17,749
-It's shorter!
+33
+00:02:20,799 --> 00:02:24,420
+which we can use to check your identity, for security reasons
 
-68
-00:02:17,749 --> 00:02:22,493
-Now we usually ask for a piece of information which we can use to
-
-69
-00:02:22,493 --> 00:02:24,527
-check your identity, for security reasons.
-
-70
-00:02:24,527 --> 00:02:26,560
+34
+00:02:25,000 --> 00:02:26,560
 You know, if you phone us.
 
-71
+35
 00:02:26,560 --> 00:02:28,960
 Like, erm, my wife's first name?
 
-72
-00:02:28,960 --> 00:02:30,392
-Mother's might be better.
+36
+00:02:28,960 --> 00:02:32,540
+Mother's might be better. It's less likely to be known.
 
-73
-00:02:30,392 --> 00:02:32,540
-It's less likely to be known.
+37
+00:02:32,540 --> 00:02:39,600
+OK. Hers is Siti. Siti? Yes, S. I-T. I. It's Indonesian.
 
-74
-00:02:32,540 --> 00:02:33,324
-OK.
+38
+00:02:39,600 --> 00:02:44,020
+Fine. And how much would you like to open your account with?
 
-75
-00:02:33,324 --> 00:02:35,678
-Hers is Siti.
+39
+00:02:44,020 --> 00:02:48,440
+We usually ask for a minimum sum of £50. That's about €75.
 
-76
-00:02:35,678 --> 00:02:36,462
-Siti?
+40
+00:02:48,440 --> 00:02:53,745
+Well, I'm going to transfer €2,000 from my Dutch account, just till I get paid.
 
-77
-00:02:36,462 --> 00:02:38,031
-Yes, S-I-T-I.
+41
+00:02:53,745 --> 00:02:59,050
+In fact, I wanted to ask you about that. What's the best way to do it?
 
-78
-00:02:38,031 --> 00:02:39,600
-It's Indonesian.
-
-79
-00:02:39,600 --> 00:02:39,968
-Fine.
-
-80
-00:02:39,968 --> 00:02:44,020
-And how much would you like to open your account with?
-
-81
-00:02:44,020 --> 00:02:47,335
-We usually ask for a minimum sum of £50.
-
-82
-00:02:47,335 --> 00:02:48,440
-That's about €75.
-
-83
-00:02:48,440 --> 00:02:53,413
-Well, I'm going to transfer €2,000 from my Dutch account, just till I get
-
-84
-00:02:53,413 --> 00:02:53,745
-paid.
-
-85
-00:02:53,745 --> 00:02:56,729
-In fact, I wanted to ask you about that.
-
-86
-00:02:56,729 --> 00:02:59,050
-What's the best way to do it?
-
-87
+42
 00:02:59,050 --> 00:03:01,230
 It depends which bank you're with.
 
-88
+43
 00:03:01,230 --> 00:03:03,620
 It's the Fransen Bank in Utrecht.
 
-89
-00:03:03,620 --> 00:03:04,171
-OK, fine.
+44
+00:03:03,620 --> 00:03:05,920
+OK, fine. I'll check that in a minute
 
-90
-00:03:04,171 --> 00:03:05,824
-I'll check that in a minute.
-
-91
-00:03:05,824 --> 00:03:09,130
+45
+00:03:06,580 --> 00:03:09,130
 If we have links with them we can do a direct transfer.
 
-92
-00:03:09,130 --> 00:03:11,875
-But it's not a big problem either way.
+46
+00:03:09,130 --> 00:03:13,200
+But it's not a big problem either way. Um, let's see
 
-93
-00:03:11,875 --> 00:03:12,905
-Um, let's see.
-
-94
-00:03:12,905 --> 00:03:15,650
+47
+00:03:13,560 --> 00:03:15,650
 How often would you like to receive statements?
 
-95
-00:03:15,650 --> 00:03:17,392
-I haven't really thought.
+48
+00:03:15,650 --> 00:03:19,570
+I haven't really thought. Um, what's the usual thing?
 
-96
-00:03:17,392 --> 00:03:19,570
-Um, what's the usual thing?
+49
+00:03:19,570 --> 00:03:22,030
+It's up to you. Some people like them weekly.
 
-97
-00:03:19,570 --> 00:03:20,663
-It's up to you.
+50
+00:03:22,030 --> 00:03:26,870
+Oh, no, that's too often. Can I have them sent, um, once a month?
 
-98
-00:03:20,663 --> 00:03:22,030
-Some people like them weekly.
+51
+00:03:26,870 --> 00:03:29,710
+Yes, that's fine. Is there anything else?
 
-99
-00:03:22,030 --> 00:03:22,721
-Oh, no,
-
-100
-00:03:22,721 --> 00:03:23,759
-that's too often.
-
-101
-00:03:23,759 --> 00:03:26,870
-Can I have them sent, um, once a month?
-
-102
-00:03:26,870 --> 00:03:27,276
-Yes,
-
-103
-00:03:27,276 --> 00:03:28,087
-that's fine.
-
-104
-00:03:28,087 --> 00:03:29,710
-Is there anything else?
-
-105
+52
 00:03:29,710 --> 00:03:33,870
 I was thinking of registering for your internet service at some stage.
 
-106
-00:03:33,870 --> 00:03:34,559
-Oh, yes.
+53
+00:03:33,870 --> 00:03:38,690
+Oh, yes. Would you like me to send you information about that? Please, yes.
 
-107
-00:03:34,559 --> 00:03:38,001
-Would you like me to send you information about that?
+54
+00:03:38,690 --> 00:03:43,370
+And would you like to receive information about the bank's other services -
 
-108
-00:03:38,001 --> 00:03:38,690
-Please, yes.
+55
+00:03:43,370 --> 00:03:45,320
+insurance, loans, anything like that?
 
-109
-00:03:38,690 --> 00:03:43,760
-And would you like to receive information about the bank's other services - insurance,
-
-110
-00:03:43,760 --> 00:03:45,320
-loans, anything like that?
-
-111
+56
 00:03:45,320 --> 00:03:47,400
 Hmm, I don't think so, thanks.
 
-112
-00:03:47,400 --> 00:03:48,681
-That's OK then.
-
-113
-00:03:48,681 --> 00:03:51,670
-And one last thing, if you agree...
+57
+00:03:47,400 --> 00:03:51,670
+That's OK then. And one last thing, if you agree...

@@ -3,12 +3,12 @@
 Listen to an announcement in a classroom.
 
 2
-00:00:04,270 --> 00:00:07,278
-Attention, everyone.
+00:00:04,270 --> 00:00:08,855
+Attention, everyone. Due to the forecasted severe weather,
 
 3
-00:00:07,278 --> 00:00:15,160
-Due to the forecasted severe weather, the university has decided to cancel all classes and activities tomorrow.
+00:00:08,855 --> 00:00:15,160
+the university has decided to cancel all classes and activities tomorrow.
 
 4
 00:00:15,160 --> 00:00:20,140

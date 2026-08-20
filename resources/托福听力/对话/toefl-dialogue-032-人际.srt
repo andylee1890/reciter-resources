@@ -1,99 +1,39 @@
 1
-00:00:00,000 --> 00:00:00,871
-Woman:
+00:00:00,000 --> 00:00:03,120
+Woman: Need anything from the supermarket?
 
 2
-00:00:00,871 --> 00:00:03,120
-Need anything from the supermarket?
+00:00:03,120 --> 00:00:06,110
+Man: Huh? Aren't we getting ready to go see that play in a few minutes?
 
 3
-00:00:03,120 --> 00:00:04,635
-Man:
+00:00:06,110 --> 00:00:08,029
+Woman: That's tomorrow.
 
 4
-00:00:04,635 --> 00:00:04,736
-Huh?
+00:00:08,029 --> 00:00:11,535
+Man: Oh. Wow, I'd forget my head if it wasn't screwed on....
 
 5
-00:00:04,736 --> 00:00:06,110
-Aren’t we getting ready to go see that play in a few minutes?
+00:00:11,535 --> 00:00:14,290
+Guess I don't need to change my clothes after all.
 
 6
-00:00:06,110 --> 00:00:08,029
-Woman: That’s tomorrow.
+00:00:14,290 --> 00:00:17,270
+Woman: So, you weren't planning to prepare dinner?
 
 7
-00:00:08,029 --> 00:00:08,079
-Man:
+00:00:17,270 --> 00:00:20,170
+Man: No, but I can. What do you want?
 
 8
-00:00:08,079 --> 00:00:08,530
-Oh.
+00:00:20,170 --> 00:00:25,040
+Woman: Just something light and healthy. So, can you go shopping instead?
 
 9
-00:00:08,530 --> 00:00:11,535
-Wow, I’d forget my head if it wasn’t screwed on….
+00:00:25,040 --> 00:00:29,010
+Man: Yeah, sure. How about salmon and salad? Want anything else?
 
 10
-00:00:11,535 --> 00:00:14,290
-Guess I don’t need to change my clothes after all.
-
-11
-00:00:14,290 --> 00:00:14,621
-Woman:
-
-12
-00:00:14,621 --> 00:00:17,270
-So, you weren’t planning to prepare dinner?
-
-13
-00:00:17,270 --> 00:00:17,592
-Man:
-
-14
-00:00:17,592 --> 00:00:17,914
-No,
-
-15
-00:00:17,914 --> 00:00:18,881
-but I can.
-
-16
-00:00:18,881 --> 00:00:20,170
-What do you want?
-
-17
-00:00:20,170 --> 00:00:20,576
-Woman:
-
-18
-00:00:20,576 --> 00:00:22,605
-Just something light and healthy.
-
-19
-00:00:22,605 --> 00:00:25,040
-So, can you go shopping instead?
-
-20
-00:00:25,040 --> 00:00:25,401
-Man:
-
-21
-00:00:25,401 --> 00:00:26,123
-Yeah, sure.
-
-22
-00:00:26,123 --> 00:00:29,010
-How about salmon and salad? Want anything else?
-
-23
-00:00:29,010 --> 00:00:29,363
-Woman:
-
-24
-00:00:29,363 --> 00:00:29,717
-No,
-
-25
-00:00:29,717 --> 00:00:31,130
-that’s good. Thanks!
+00:00:29,010 --> 00:00:31,130
+Woman: No, that's good. Thanks!

@@ -1,59 +1,19 @@
 1
-00:00:00,000 --> 00:00:00,944
-Man:
+00:00:00,000 --> 00:00:09,040
+Man: I'm thinking about buying a new car, but I can't decide on the model.
 
 2
-00:00:00,944 --> 00:00:06,408
-I'm thinking about buying a new car,
+00:00:09,040 --> 00:00:12,000
+Woman: What are you looking for in a car?
 
 3
-00:00:06,408 --> 00:00:09,040
-but I can't decide on the model.
+00:00:12,000 --> 00:00:15,220
+Man: Mainly good fuel and economy.
 
 4
-00:00:09,040 --> 00:00:10,135
-Woman:
+00:00:15,220 --> 00:00:20,030
+Woman: Have you thought about getting in Arnie's? They're known for that.
 
 5
-00:00:10,135 --> 00:00:12,000
-What are you looking for in a car?
-
-6
-00:00:12,000 --> 00:00:12,932
-Man:
-
-7
-00:00:12,932 --> 00:00:15,220
-Mainly good fuel and economy.
-
-8
-00:00:15,220 --> 00:00:16,226
-Woman:
-
-9
-00:00:16,226 --> 00:00:17,856
-Have you thought about getting in Arnie's?
-
-10
-00:00:17,856 --> 00:00:20,030
-They're known for that.
-
-11
-00:00:20,030 --> 00:00:20,080
-Man:
-
-12
-00:00:20,080 --> 00:00:21,041
-No.
-
-13
-00:00:21,041 --> 00:00:22,053
-I haven't.
-
-14
-00:00:22,053 --> 00:00:25,087
-I'll check them out online tonight.
-
-15
-00:00:25,087 --> 00:00:27,110
-Thanks for the suggestion.
+00:00:20,030 --> 00:00:27,110
+Man: No. I haven't. I'll check them out online tonight. Thanks for the suggestion.

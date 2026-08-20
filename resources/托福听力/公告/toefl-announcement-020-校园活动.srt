@@ -3,21 +3,17 @@
 Announcer: Good evening everyone.
 
 2
-00:00:03,290 --> 00:00:09,224
-Just a friendly reminder that the university’s annual charity auction will take place tomorrow
+00:00:03,290 --> 00:00:08,753
+Just a friendly reminder that the university's annual charity auction will take place tomorrow at 7 P.
 
 3
-00:00:09,224 --> 00:00:09,988
-at 7 P.M.
+00:00:08,753 --> 00:00:10,270
+M. in the Main Hall.
 
 4
-00:00:09,988 --> 00:00:10,270
-in the Main Hall.
-
-5
 00:00:10,270 --> 00:00:13,230
 All proceeds will go to local charities.
 
-6
+5
 00:00:13,230 --> 00:00:16,150
 We hope to see you there and appreciate your support!

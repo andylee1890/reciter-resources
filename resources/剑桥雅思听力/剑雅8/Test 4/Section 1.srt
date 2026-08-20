@@ -1,339 +1,219 @@
 1
-00:00:00,000 --> 00:00:01,466
-Hello, West Bay Hotel.
+00:00:00,000 --> 00:00:02,280
+Hello, West Bay Hotel. Can I help you?
 
 2
-00:00:01,466 --> 00:00:02,280
-Can I help you?
+00:00:02,280 --> 00:00:06,800
+Oh, good morning. I'm ringing about your advertisement in the Evening Gazette.
 
 3
-00:00:02,280 --> 00:00:03,410
-Oh, good morning.
-
-4
-00:00:03,410 --> 00:00:06,800
-I'm ringing about your advertisement in the Evening Gazette.
-
-5
 00:00:06,800 --> 00:00:09,390
 Is that the one for temporary staff?
 
-6
+4
 00:00:09,390 --> 00:00:10,100
 That's right.
 
-7
-00:00:10,100 --> 00:00:10,454
-Yes.
+5
+00:00:10,100 --> 00:00:14,349
+Yes. I'm afraid the person who's dealing with that isn't in today,
 
-8
-00:00:10,454 --> 00:00:14,349
-I'm afraid the person who's dealing with that isn't in today,
-
-9
+6
 00:00:14,349 --> 00:00:17,890
 but can give you the main details if you like.
 
-10
-00:00:17,890 --> 00:00:18,510
-Yes please.
+7
+00:00:17,890 --> 00:00:22,230
+Yes please. Could you tell me what kind of staff you are looking for?
 
-11
-00:00:18,510 --> 00:00:22,230
-Could you tell me what kind of staff you are looking for?
-
-12
+8
 00:00:22,230 --> 00:00:24,750
 We're looking for waiters at the moment.
 
-13
-00:00:24,750 --> 00:00:26,856
-There was one post for a cook,
+9
+00:00:24,750 --> 00:00:28,360
+There was one post for a cook, but that's already been taken.
 
-14
-00:00:26,856 --> 00:00:28,360
-but that's already been taken.
+10
+00:00:28,360 --> 00:00:31,940
+Oh right. Erm, what are the hours of work?
 
-15
-00:00:28,360 --> 00:00:29,156
-Oh right.
-
-16
-00:00:29,156 --> 00:00:31,940
-Erm, what are the hours of work?
-
-17
-00:00:31,940 --> 00:00:37,090
+11
+00:00:31,940 --> 00:00:37,060
 There are two different shifts - there's a day shift from 7 to 2
 
-18
-00:00:37,090 --> 00:00:40,260
+12
+00:00:37,060 --> 00:00:40,260
 and a late shift from 4 till 11.
 
-19
+13
 00:00:40,260 --> 00:00:42,900
 And can people choose which one they want to do?
 
-20
-00:00:42,900 --> 00:00:43,602
-Not normally,
+14
+00:00:42,900 --> 00:00:46,760
+Not normally, because everyone would choose the day shift I suppose.
 
-21
-00:00:43,602 --> 00:00:46,760
-because everyone would choose the day shift I suppose.
-
-22
+15
 00:00:46,760 --> 00:00:49,170
 You alternate from one week to another.
 
-23
-00:00:49,170 --> 00:00:49,588
-Okay.
+16
+00:00:49,170 --> 00:00:53,770
+Okay. I'm just writing all this down. What about time off?
 
-24
-00:00:49,588 --> 00:00:52,097
-I'm just writing all this down.
+17
+00:00:53,770 --> 00:00:58,960
+You get one day off and I think you can negotiate which one you want
 
-25
-00:00:52,097 --> 00:00:53,770
-What about time off?
+18
+00:00:59,260 --> 00:01:00,400
+it's more or less up to you.
 
-26
-00:00:53,770 --> 00:00:58,893
-You get one day off and I think you can negotiate which one you want, it's more
-
-27
-00:00:58,893 --> 00:01:00,400
-or less up to you.
-
-28
+19
 00:01:00,400 --> 00:01:02,800
 But it has to be the same one every week.
 
-29
+20
 00:01:02,800 --> 00:01:05,530
 Do you know what the rates of pay are?
 
-30
-00:01:05,530 --> 00:01:10,954
-Yes, I've got them here, You get ￡5.50 an hour,
+21
+00:01:05,530 --> 00:01:13,420
+Yes, I've got them here, You get £5.50 an hour, and that includes a break.
 
-31
-00:01:10,954 --> 00:01:13,420
-and that includes a break.
-
-32
+22
 00:01:13,420 --> 00:01:15,570
 Do I have to go home to eat or...
 
-33
-00:01:15,570 --> 00:01:16,563
-You don't have to.
+23
+00:01:15,570 --> 00:01:19,540
+You don't have to. You can get a meal in the hotel if you want to,
 
-34
-00:01:16,563 --> 00:01:19,540
-You can get a meal in the hotel if you want to,
-
-35
+24
 00:01:19,540 --> 00:01:22,270
-and here's no charge for it so you might as well.
+and there's no charge for it, so you might as well.
 
-36
-00:01:22,270 --> 00:01:22,942
-Oh good.
+25
+00:01:22,270 --> 00:01:24,287
+Oh good. Yes, so let's see.
 
-37
-00:01:22,942 --> 00:01:23,278
-Yes,
+26
+00:01:24,287 --> 00:01:30,000
+I'd get er, two hundred and twenty one, no, two hundred and thirty one pounds a week?
 
-38
-00:01:23,278 --> 00:01:24,287
-so let's see.
-
-39
-00:01:24,287 --> 00:01:27,983
-I'd get er, two hundred and twenty one, no,two hundred
-
-40
-00:01:27,983 --> 00:01:30,000
-and thirty one pounds a week?
-
-41
+27
 00:01:30,000 --> 00:01:33,910
 You'd also get tips - our guests tend to be quite generous.
 
-42
-00:01:33,910 --> 00:01:37,091
-Erm, is there a uniform?
+28
+00:01:33,910 --> 00:01:39,000
+Erm, is there a uniform? What about clothes?
 
-43
-00:01:37,091 --> 00:01:39,000
-What about clothes?
+29
+00:01:39,000 --> 00:01:41,200
+Yes, I forgot to mention that
 
-44
-00:01:39,000 --> 00:01:40,968
-Yes, I forgot to mention that.
+30
+00:01:41,660 --> 00:01:45,560
+You need to wear a white shirt, just a plain one, and dark trousers.
 
-45
-00:01:40,968 --> 00:01:44,576
-You need to wear a white shirt, just a plain one,
+31
+00:01:45,560 --> 00:01:49,730
+You know, not green or anything like that. And we don't supply those.
 
-46
-00:01:44,576 --> 00:01:45,560
-and dark trousers.
-
-47
-00:01:45,560 --> 00:01:48,126
-You know, not green or anything like that.
-
-48
-00:01:48,126 --> 00:01:49,730
-And we don't supply those.
-
-49
+32
 00:01:49,730 --> 00:01:53,440
 That's okay, I've got trousers, I'd just have to buy a couple of shirts.
 
-50
-00:01:53,440 --> 00:01:54,524
-What about anything else?
+33
+00:01:53,440 --> 00:01:56,420
+What about anything else? Do I need a waistcoat or anything?
 
-51
-00:01:54,524 --> 00:01:56,420
-Do I need a waistcoat or anything?
+34
+00:01:56,420 --> 00:01:59,420
+You have to wear a jacket, but the hotel lends you that.
 
-52
-00:01:56,420 --> 00:01:57,920
-You have to wear a jacket,
+35
+00:01:59,420 --> 00:02:04,200
+I see. Er, one last thing - I don't know what the starting date is.
 
-53
-00:01:57,920 --> 00:01:59,420
-but the hotel lends you that.
+36
+00:02:04,200 --> 00:02:09,140
+Just a minute, I think it's some time around the end of June
 
-54
-00:01:59,420 --> 00:02:00,103
-I see.
-
-55
-00:02:00,103 --> 00:02:04,200
-Er, one last thing - I don't know what the starting date is.
-
-56
-00:02:04,200 --> 00:02:09,276
-Just a minute, I think it's some time around the end of June.
-
-57
-00:02:09,276 --> 00:02:12,400
+37
+00:02:09,780 --> 00:02:12,400
 Yes, the 28th, in time for the summer.
 
-58
-00:02:12,400 --> 00:02:13,086
-That's great.
+38
+00:02:12,400 --> 00:02:14,800
+That's great. I'm available from the 10th.
 
-59
-00:02:13,086 --> 00:02:14,800
-I'm available from the 10th.
+39
+00:02:14,800 --> 00:02:19,900
+Oh good. Well, if you can call again you need to speak to the Service Manager.
 
-60
-00:02:14,800 --> 00:02:15,438
-Oh good.
+40
+00:02:19,900 --> 00:02:28,120
+Her name's Jane Urwin, that's U-R-W. I-N, and she'll probably arrange to meet you.
 
-61
-00:02:15,438 --> 00:02:19,900
-Well, if you can call again you need to speak to the Service Manager.
+41
+00:02:28,120 --> 00:02:31,150
+Okay. And when's the best time to ring?
 
-62
-00:02:19,900 --> 00:02:22,429
-Her name's Jane Urwin,
+42
+00:02:31,150 --> 00:02:35,775
+Could you call tomorrow? Urn, she usually starts checking the rooms at midday,
 
-63
-00:02:22,429 --> 00:02:23,694
-that's U-R-W-I-N,
+43
+00:02:35,775 --> 00:02:40,400
+so before then if you can, so she'll have more time to chat.
 
-64
-00:02:23,694 --> 00:02:28,120
-and she'll probably arrange to meet you.
-
-65
-00:02:28,120 --> 00:02:28,499
-Okay.
-
-66
-00:02:28,499 --> 00:02:31,150
-And when's the best time to ring?
-
-67
-00:02:31,150 --> 00:02:32,573
-Could you call tomorrow?
-
-68
-00:02:32,573 --> 00:02:35,775
-Urn, she usually starts checking the rooms at midday,
-
-69
-00:02:35,775 --> 00:02:37,910
-so before then if you can,
-
-70
-00:02:37,910 --> 00:02:40,400
-so she'll have more time to chat.
-
-71
+44
 00:02:40,400 --> 00:02:43,920
 I'll just give you her number because she's got a direct line.
 
-72
+45
 00:02:43,920 --> 00:02:44,560
 Thanks.
 
-73
+46
 00:02:44,560 --> 00:02:48,090
 It's 832 double-0 9.
 
-74
+47
 00:02:48,090 --> 00:02:51,000
 823 double-0 9?
 
-75
+48
 00:02:51,000 --> 00:02:53,200
 832.
 
-76
-00:02:53,200 --> 00:02:54,043
-Oh, okay.
+49
+00:02:53,200 --> 00:02:55,730
+Oh, okay. Yes, I'll do that.
 
-77
-00:02:54,043 --> 00:02:55,730
-Yes, I'll do that.
+50
+00:02:55,730 --> 00:02:58,680
+And by the way, she will ask you for a reference
 
-78
-00:02:55,730 --> 00:02:58,442
-And by the way, she will ask you for a reference,
-
-79
-00:02:58,442 --> 00:03:00,660
+51
+00:02:59,040 --> 00:03:00,660
 so you might like to be thinking about that.
 
-80
+52
 00:03:00,660 --> 00:03:03,720
 You know, just someone who knows you and can vouch for you.
 
-81
-00:03:03,720 --> 00:03:04,683
-Yes, no problem.
+53
+00:03:03,720 --> 00:03:06,930
+Yes, no problem. Well, thanks very much for your help.
 
-82
-00:03:04,683 --> 00:03:06,930
-Well, thanks very much for your help.
+54
+00:03:06,930 --> 00:03:08,400
+You're welcome. Bye.
 
-83
-00:03:06,930 --> 00:03:07,910
-You're welcome.
-
-84
-00:03:07,910 --> 00:03:08,400
-Bye.
-
-85
+55
 00:03:08,400 --> 00:03:09,290
 Bye.

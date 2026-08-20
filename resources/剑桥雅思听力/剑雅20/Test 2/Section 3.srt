@@ -1,571 +1,303 @@
 1
-00:00:00,000 --> 00:00:00,181
-ROSIE:
+00:00:00,000 --> 00:00:04,750
+ROSIE: Colin, I'm really struggling to think of a topic for our human geography assignment.
 
 2
-00:00:00,181 --> 00:00:04,750
-Colin, I’m really struggling to think of a topic for our human geography
+00:00:04,750 --> 00:00:07,060
+COLIN: Me too, Rosie. I'll tell you what
 
 3
-00:00:04,750 --> 00:00:04,800
-assignment.
+00:00:07,220 --> 00:00:10,271
+let's think about the different aspects of human geography,
 
 4
-00:00:04,800 --> 00:00:05,031
-COLIN:
+00:00:10,271 --> 00:00:14,630
+and see if we can narrow the topic down a bit to help us decide.
 
 5
-00:00:05,031 --> 00:00:05,854
-Me too, Rosie.
+00:00:14,630 --> 00:00:17,240
+ROSIE: OK. So one aspect is population
 
 6
-00:00:05,854 --> 00:00:09,981
-I’ll tell you what, let’s think about the different aspects of human
-
-7
-00:00:09,981 --> 00:00:10,271
-geography,
-
-8
-00:00:10,271 --> 00:00:14,339
-and see if we can narrow the topic down a bit to help us
-
-9
-00:00:14,339 --> 00:00:14,630
-decide.
-
-10
-00:00:14,630 --> 00:00:14,680
-ROSIE:
-
-11
-00:00:14,680 --> 00:00:15,356
-OK.
-
-12
-00:00:15,356 --> 00:00:17,170
-So one aspect is population.
-
-13
-00:00:17,170 --> 00:00:21,524
+00:00:17,700 --> 00:00:21,524
 That would be all about population density and migration and so on.
 
-14
+7
 00:00:21,524 --> 00:00:24,790
-Lots of facts and statistics … Maybe a bit boring?
+Lots of facts and statistics... Maybe a bit boring?
 
-15
-00:00:24,790 --> 00:00:25,157
-COLIN:
+8
+00:00:24,790 --> 00:00:28,460
+COLIN: Yeah, but quite straightforward to find on the internet.
 
-16
-00:00:25,157 --> 00:00:25,524
-Yeah,
+9
+00:00:28,460 --> 00:00:33,337
+ROSIE: Suppose so. How about health? I'd never thought about the links between that
 
-17
-00:00:25,524 --> 00:00:28,460
-but quite straightforward to find on the internet.
+10
+00:00:33,337 --> 00:00:36,913
+and geography until Professor Lee gave us that lecture on cholera.
 
-18
-00:00:28,460 --> 00:00:28,785
-ROSIE:
-
-19
-00:00:28,785 --> 00:00:29,435
-Suppose so.
-
-20
-00:00:29,435 --> 00:00:30,411
-How about health?
-
-21
-00:00:30,411 --> 00:00:35,287
-I’d never thought about the links between that and geography until Professor Lee gave
-
-22
-00:00:35,287 --> 00:00:36,913
-us that lecture on cholera.
-
-23
+11
 00:00:36,913 --> 00:00:40,164
 How in the nineteenth century a physician used street plans
 
-24
+12
 00:00:40,164 --> 00:00:44,390
 and plans of water supplies to find the source of a cholera epidemic.
 
-25
-00:00:44,390 --> 00:00:44,847
-COLIN:
+13
+00:00:44,390 --> 00:00:46,420
+COLIN: Yes - fascinating, wasn't it
 
-26
-00:00:44,847 --> 00:00:47,130
-Yes – fascinating, wasn’t it?
+14
+00:00:47,080 --> 00:00:51,240
+Or we could do something more general - like economies.
 
-27
-00:00:47,130 --> 00:00:51,240
-Or we could do something more general – like economies.
+15
+00:00:51,240 --> 00:00:54,950
+ROSIE: So how financial and commercial factors are linked to the physical environment?
 
-28
-00:00:51,240 --> 00:00:51,525
-ROSIE:
+16
+00:00:54,950 --> 00:00:55,900
+COLIN: Yeah.
 
-29
-00:00:51,525 --> 00:00:54,950
-So how financial and commercial factors are linked to the physical environment?
+17
+00:00:55,900 --> 00:00:58,350
+ROSIE: I thought that had been taken off the syllabus for this year.
 
-30
-00:00:54,950 --> 00:00:55,425
-COLIN:
+18
+00:00:58,350 --> 00:00:59,210
+COLIN: Has it?
 
-31
-00:00:55,425 --> 00:00:55,900
-Yeah.
+19
+00:00:59,210 --> 00:01:01,760
+ROSIE: I'm not sure. But it might be best to avoid it.
 
-32
-00:00:55,900 --> 00:00:56,088
-ROSIE:
+20
+00:01:01,760 --> 00:01:05,780
+COLIN: OK. Maybe we could do something on culture
 
-33
-00:00:56,088 --> 00:00:58,350
-I thought that had been taken off the syllabus for this year.
-
-34
-00:00:58,350 --> 00:00:58,637
-COLIN:
-
-35
-00:00:58,637 --> 00:00:59,210
-Has it?
-
-36
-00:00:59,210 --> 00:00:59,406
-ROSIE:
-
-37
-00:00:59,406 --> 00:01:00,191
-I’m not sure.
-
-38
-00:01:00,191 --> 00:01:01,760
-But it might be best to avoid it.
-
-39
-00:01:01,760 --> 00:01:02,201
-COLIN:
-
-40
-00:01:02,201 --> 00:01:02,641
-OK.
-
-41
-00:01:02,641 --> 00:01:05,725
-Maybe we could do something on culture.
-
-42
-00:01:05,725 --> 00:01:10,130
+21
+00:01:06,240 --> 00:01:10,130
 We had that lecture about culture and geography last week.
 
+22
+00:01:10,130 --> 00:01:11,640
+ROSIE: I didn't get much out of that
+
+23
+00:01:11,960 --> 00:01:15,950
+It was all so general and the lecturer didn't give any useful examples.
+
+24
+00:01:15,950 --> 00:01:19,740
+COLIN: Yeah, I hardly took any notes, it didn't seem worth it.
+
+25
+00:01:19,740 --> 00:01:20,910
+ROSIE: Me neither.
+
+26
+00:01:20,910 --> 00:01:25,300
+COLIN: We could focus on poverty. That's something that's a global problem...
+
+27
+00:01:25,300 --> 00:01:29,427
+ROSIE: The trouble is, Dr Lee was saying, that you have to be careful
+
+28
+00:01:29,427 --> 00:01:33,260
+with some of the figures relating to poverty - they're sometimes deliberately manipulated.
+
+29
+00:01:33,260 --> 00:01:37,070
+COLIN: You mean the information gets changed for political reasons?
+
+30
+00:01:37,070 --> 00:01:38,770
+ROSIE: That sort of thing, yes.
+
+31
+00:01:38,770 --> 00:01:42,140
+ROSIE: So what are we going to do our assignment on?
+
+32
+00:01:42,140 --> 00:01:46,735
+I'll tell you what, one of the possibilities we haven't discussed is urbanisation.
+
+33
+00:01:46,735 --> 00:01:51,330
+And now over half the world's population lives in cities, that's really important.
+
+34
+00:01:51,330 --> 00:01:54,210
+COLIN: OK, good idea, Rosie. Let's do that.
+
+35
+00:01:54,210 --> 00:01:57,540
+ROSIE: I love living in a big city, but of course there are problems.
+
+36
+00:01:57,540 --> 00:01:59,770
+COLIN: Things like theft and robbery?
+
+37
+00:01:59,770 --> 00:02:01,618
+ROSIE: Yes, but where I come from,
+
+38
+00:02:01,618 --> 00:02:03,940
+that's linked to another more serious issue
+
+39
+00:02:04,320 --> 00:02:06,634
+which is that a lot of people don't have jobs.
+
+40
+00:02:06,634 --> 00:02:08,218
+That's getting worse and worse.
+
+41
+00:02:08,218 --> 00:02:11,800
+And we also still have quite a lot of people who are homeless
+
+42
+00:02:11,940 --> 00:02:14,290
+though that's not quite so bad as it was.
+
 43
-00:01:10,130 --> 00:01:10,383
-ROSIE:
+00:02:14,290 --> 00:02:17,940
+COLIN: It'd be nice to talk about some positive developments.
 
 44
-00:01:10,383 --> 00:01:12,407
-I didn’t get much out of that.
-
-45
-00:01:12,407 --> 00:01:15,950
-It was all so general and the lecturer didn’t give any useful examples.
-
-46
-00:01:15,950 --> 00:01:16,242
-COLIN:
-
-47
-00:01:16,242 --> 00:01:19,740
-Yeah, I hardly took any notes, it didn’t seem worth it.
-
-48
-00:01:19,740 --> 00:01:20,130
-ROSIE:
-
-49
-00:01:20,130 --> 00:01:20,910
-Me neither.
-
-50
-00:01:20,910 --> 00:01:21,224
-COLIN:
-
-51
-00:01:21,224 --> 00:01:22,791
-We could focus on poverty.
-
-52
-00:01:22,791 --> 00:01:25,300
-That’s something that’s a global problem …
-
-53
-00:01:25,300 --> 00:01:25,595
-ROSIE:
-
-54
-00:01:25,595 --> 00:01:27,659
-The trouble is, Dr Lee was saying,
-
-55
-00:01:27,659 --> 00:01:31,786
-that you have to be careful with some of the figures relating to poverty
-
-56
-00:01:31,786 --> 00:01:33,260
-– they’re sometimes deliberately manipulated.
-
-57
-00:01:33,260 --> 00:01:33,641
-COLIN:
-
-58
-00:01:33,641 --> 00:01:37,070
-You mean the information gets changed for political reasons?
-
-59
-00:01:37,070 --> 00:01:37,353
-ROSIE:
-
-60
-00:01:37,353 --> 00:01:38,770
-That sort of thing, yes.
-
-61
-00:01:38,770 --> 00:01:39,076
-ROSIE:
-
-62
-00:01:39,076 --> 00:01:42,140
-So what are we going to do our assignment on?
-
-63
-00:01:42,140 --> 00:01:46,429
-I’ll tell you what, one of the possibilities we haven’t discussed is
-
-64
-00:01:46,429 --> 00:01:46,735
-urbanisation.
-
-65
-00:01:46,735 --> 00:01:50,105
-And now over half the world’s population lives in cities,
-
-66
-00:01:50,105 --> 00:01:51,330
-that’s really important.
-
-67
-00:01:51,330 --> 00:01:51,650
-COLIN:
-
-68
-00:01:51,650 --> 00:01:52,930
-OK, good idea, Rosie.
-
-69
-00:01:52,930 --> 00:01:54,210
-Let’s do that.
-
-70
-00:01:54,210 --> 00:01:54,448
-ROSIE:
-
-71
-00:01:54,448 --> 00:01:56,113
-I love living in a big city,
-
-72
-00:01:56,113 --> 00:01:57,540
-but of course there are problems.
-
-73
-00:01:57,540 --> 00:01:57,912
-COLIN:
-
-74
-00:01:57,912 --> 00:01:59,770
-Things like theft and robbery?
-
-75
-00:01:59,770 --> 00:02:00,034
-ROSIE:
-
-76
-00:02:00,034 --> 00:02:00,298
-Yes,
-
-77
-00:02:00,298 --> 00:02:01,618
-but where I come from,
-
-78
-00:02:01,618 --> 00:02:03,730
-that’s linked to another more serious issue,
-
-79
-00:02:03,730 --> 00:02:06,634
-which is that a lot of people don’t have jobs.
-
-80
-00:02:06,634 --> 00:02:08,218
-That’s getting worse and worse.
-
-81
-00:02:08,218 --> 00:02:12,970
-And we also still have quite a lot of people who are homeless, though that’s not quite
-
-82
-00:02:12,970 --> 00:02:14,290
-so bad as it was.
-
-83
-00:02:14,290 --> 00:02:14,622
-COLIN:
-
-84
-00:02:14,622 --> 00:02:17,940
-It’d be nice to talk about some positive developments.
-
-85
 00:02:17,940 --> 00:02:21,590
 Like some of the new developments on the outskirts of cities.
 
-86
-00:02:21,590 --> 00:02:21,887
-ROSIE:
+45
+00:02:21,590 --> 00:02:25,450
+ROSIE: Yeah. They've opened some massive new shopping centres outside my city.
 
-87
-00:02:21,887 --> 00:02:22,184
-Yeah.
+46
+00:02:25,450 --> 00:02:26,920
+COLIN: Yeah, the same with mine
 
-88
-00:02:22,184 --> 00:02:25,450
-They’ve opened some massive new shopping centres outside my city.
+47
+00:02:27,200 --> 00:02:32,074
+but it's meant a lot of the shops in the city centre are closing down.
 
-89
-00:02:25,450 --> 00:02:25,751
-COLIN:
+48
+00:02:32,074 --> 00:02:36,891
+But the outskirts are ideal for buildings that need a lot of space, like for conferences.
 
-90
-00:02:25,751 --> 00:02:29,966
-Yeah, the same with mine – but it’s meant a lot of the shops
-
-91
-00:02:29,966 --> 00:02:32,074
-in the city centre are closing down.
-
-92
-00:02:32,074 --> 00:02:36,289
-But the outskirts are ideal for buildings that need a lot of space, like
-
-93
-00:02:36,289 --> 00:02:36,891
-for conferences.
-
-94
+49
 00:02:36,891 --> 00:02:39,300
-They’ve opened a couple of big ones.
+They've opened a couple of big ones.
 
-95
-00:02:39,300 --> 00:02:39,584
-ROSIE:
+50
+00:02:39,300 --> 00:02:41,290
+ROSIE: Yes, we've got some too.
 
-96
-00:02:39,584 --> 00:02:41,290
-Yes, we’ve got some too.
+51
+00:02:41,290 --> 00:02:45,060
+It'd be nicer to have more facilities for things like football too
 
-97
-00:02:41,290 --> 00:02:44,986
-It’d be nicer to have more facilities for things like football too.
+52
+00:02:45,440 --> 00:02:47,260
+But that's not happening where I live.
 
-98
-00:02:44,986 --> 00:02:47,260
-But that’s not happening where I live.
+53
+00:02:47,260 --> 00:02:48,840
+COLIN: Same in my area.
 
-99
-00:02:47,260 --> 00:02:47,576
-COLIN:
+54
+00:02:48,840 --> 00:02:51,951
+ROSIE: We could include something about developing disused industrial sites.
 
-100
-00:02:47,576 --> 00:02:48,840
-Same in my area.
+55
+00:02:51,951 --> 00:02:54,320
+It seems like a good idea
 
-101
-00:02:48,840 --> 00:02:49,151
-ROSIE:
+56
+00:02:54,340 --> 00:02:57,240
+because you're not doing any harm to the natural environment.
 
-102
-00:02:49,151 --> 00:02:51,951
-We could include something about developing disused industrial sites.
+57
+00:02:57,240 --> 00:03:01,620
+COLIN: Yeah, but aren't the buildings architecturally significant?
 
-103
-00:02:51,951 --> 00:02:53,818
-It seems like a good idea,
+58
+00:03:01,620 --> 00:03:06,477
+ROSIE: Not really. And what people forget is that they often used quite dangerous materials -
 
-104
-00:02:53,818 --> 00:02:57,240
-because you’re not doing any harm to the natural environment.
+59
+00:03:06,477 --> 00:03:10,060
+chemicals and things - which haven't been properly cleared away
 
-105
-00:02:57,240 --> 00:02:57,727
-COLIN:
-
-106
-00:02:57,727 --> 00:02:58,213
-Yeah,
-
-107
-00:02:58,213 --> 00:03:01,620
-but aren’t the buildings architecturally significant?
-
-108
-00:03:01,620 --> 00:03:01,944
-ROSIE:
-
-109
-00:03:01,944 --> 00:03:02,591
-Not really.
-
-110
-00:03:02,591 --> 00:03:06,801
-And what people forget is that they often used quite dangerous materials – chemicals
-
-111
-00:03:06,801 --> 00:03:09,716
-and things – which haven’t been properly cleared away,
-
-112
-00:03:09,716 --> 00:03:12,630
+60
+00:03:10,360 --> 00:03:12,630
 so the whole site has to be made safe.
 
-113
-00:03:12,630 --> 00:03:12,883
-COLIN:
+61
+00:03:12,630 --> 00:03:16,680
+COLIN: Mm. That can't be cheap. And I bet it's often not budgeted for.
 
-114
-00:03:12,883 --> 00:03:13,136
-Mm.
+62
+00:03:16,680 --> 00:03:17,790
+ROSIE: You're right.
 
-115
-00:03:13,136 --> 00:03:14,402
-That can’t be cheap.
+63
+00:03:17,790 --> 00:03:19,970
+COLIN: Have you read about Masdar City?
 
-116
-00:03:14,402 --> 00:03:16,680
-And I bet it’s often not budgeted for.
+64
+00:03:19,970 --> 00:03:24,704
+ROSIE: In Abu Dhabi? Yes, it was designed to be a green city, wasn't it?
 
-117
-00:03:16,680 --> 00:03:16,958
-ROSIE:
+65
+00:03:24,704 --> 00:03:26,780
+That might be a good example of a city
 
-118
-00:03:16,958 --> 00:03:17,790
-You’re right.
+66
+00:03:26,780 --> 00:03:30,030
+which set out to depend entirely on renewable energy.
 
-119
-00:03:17,790 --> 00:03:18,101
-COLIN:
+67
+00:03:30,030 --> 00:03:33,279
+COLIN: Yes, we should say something about that.
 
-120
-00:03:18,101 --> 00:03:19,970
-Have you read about Masdar City?
+68
+00:03:33,279 --> 00:03:36,640
+It was designed to be totally pedestrianised too
 
-121
-00:03:19,970 --> 00:03:20,266
-ROSIE:
+69
+00:03:36,640 --> 00:03:39,370
+wasn't it, with the transport underground.
 
-122
-00:03:20,266 --> 00:03:21,154
-In Abu Dhabi?
+70
+00:03:39,370 --> 00:03:44,797
+ROSIE: Yes, and they had big plans for recycling to reduce waste to the lowest possible level.
 
-123
-00:03:21,154 --> 00:03:24,704
-Yes, it was designed to be a green city, wasn’t it?
-
-124
-00:03:24,704 --> 00:03:28,846
-That might be a good example of a city which set out to depend
-
-125
-00:03:28,846 --> 00:03:30,030
-entirely on renewable energy.
-
-126
-00:03:30,030 --> 00:03:30,436
-COLIN:
-
-127
-00:03:30,436 --> 00:03:33,279
-Yes, we should say something about that.
-
-128
-00:03:33,279 --> 00:03:38,964
-It was designed to be totally pedestrianised too, wasn’t it, with the transport
-
-129
-00:03:38,964 --> 00:03:39,370
-underground.
-
-130
-00:03:39,370 --> 00:03:39,689
-ROSIE:
-
-131
-00:03:39,689 --> 00:03:40,008
-Yes,
-
-132
-00:03:40,008 --> 00:03:44,478
-and they had big plans for recycling to reduce waste to the lowest possible
-
-133
-00:03:44,478 --> 00:03:44,797
-level.
-
-134
+71
 00:03:44,797 --> 00:03:47,670
-But let’s stick to talking about power sources.
+But let's stick to talking about power sources.
 
-135
-00:03:47,670 --> 00:03:48,040
-COLIN:
+72
+00:03:47,670 --> 00:03:51,366
+COLIN: Then there's that ecotown in England, Greenhill Abbots.
 
-136
-00:03:48,040 --> 00:03:51,366
-Then there’s that ecotown in England, Greenhill Abbots.
-
-137
+73
 00:03:51,366 --> 00:03:56,171
-It set out to conform to the usual principles – sustainability and so on.
+It set out to conform to the usual principles - sustainability and so on.
 
-138
-00:03:56,171 --> 00:03:59,498
-A lot of people were against it at first;
+74
+00:03:56,171 --> 00:04:01,715
+A lot of people were against it at first; they said the plans were unrealistic.
 
-139
-00:03:59,498 --> 00:04:01,715
-they said the plans were unrealistic.
-
-140
+75
 00:04:01,715 --> 00:04:06,890
-I’m not sure how far they’ve got with it – I’ll check.
+I'm not sure how far they've got with it - I'll check.
 
-141
-00:04:06,890 --> 00:04:07,520
-ROSIE:
-
-142
-00:04:07,520 --> 00:04:08,150
-Right.
-
-143
-00:04:08,150 --> 00:04:10,670
-So it looks as …
+76
+00:04:06,890 --> 00:04:10,670
+ROSIE: Right. So it looks as...

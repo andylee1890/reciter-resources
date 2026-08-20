@@ -3,21 +3,17 @@
 Listen to an announcement at a university club meeting.
 
 2
-00:00:03,190 --> 00:00:05,018
-Welcome everyone.
+00:00:03,190 --> 00:00:10,140
+Welcome everyone. Today we'll be discussing the details for our annual fundraising event.
 
 3
-00:00:05,018 --> 00:00:10,140
-Today we'll be discussing the details for our annual fundraising event.
-
-4
 00:00:10,140 --> 00:00:15,270
 This year we'll be hosting a charity bake sale next Friday in the student center.
 
-5
+4
 00:00:15,270 --> 00:00:19,160
 All proceeds will go to local food banks.
 
-6
+5
 00:00:19,160 --> 00:00:23,270
 We hope you all can participate and make a difference.

@@ -1,427 +1,283 @@
 1
-00:00:00,000 --> 00:00:01,301
-Hi, Rob.
+00:00:00,000 --> 00:00:02,480
+Hi, Rob. How's the course going?
 
 2
-00:00:01,301 --> 00:00:02,480
-How's the course going?
+00:00:02,480 --> 00:00:07,400
+Oh, hi, Mia. Yeah, great. I can't believe the first term's nearly over.
 
 3
-00:00:02,480 --> 00:00:03,615
-Oh, hi, Mia.
+00:00:07,400 --> 00:00:13,350
+I saw your group's performance last night at the student theatre. It was good.
 
 4
-00:00:03,615 --> 00:00:04,372
-Yeah, great.
+00:00:13,350 --> 00:00:19,078
+Really? Yeah... but now we have to write a report on the whole thing, an in-depth analysis.
 
 5
-00:00:04,372 --> 00:00:07,400
-I can't believe the first term's nearly over.
-
-6
-00:00:07,400 --> 00:00:12,075
-I saw your group's performance last night at the student theatre.
-
-7
-00:00:12,075 --> 00:00:13,350
-It was good.
-
-8
-00:00:13,350 --> 00:00:13,687
-Really?
-
-9
-00:00:13,687 --> 00:00:14,024
-Yeah ...
-
-10
-00:00:14,024 --> 00:00:18,741
-but now we have to write a report on the whole thing, an in-depth
-
-11
-00:00:18,741 --> 00:00:19,078
-analysis.
-
-12
 00:00:19,078 --> 00:00:21,100
 I don't know where to start.
 
-13
-00:00:21,100 --> 00:00:25,226
-Like I have to write about the role I played, the doctor, how I
+6
+00:00:21,100 --> 00:00:23,620
+Like I have to write about the role I played
 
-14
-00:00:25,226 --> 00:00:26,110
-developed the character.
+7
+00:00:23,720 --> 00:00:26,110
+the doctor, how I developed the character.
 
-15
+8
 00:00:26,110 --> 00:00:28,540
 Well, what was your starting point?
 
-16
-00:00:28,540 --> 00:00:28,912
-Er...
+9
+00:00:28,540 --> 00:00:34,500
+Er... my grandfather was a doctor before he retired, and I just based it on him.
 
-17
-00:00:28,912 --> 00:00:31,892
-my grandfather was a doctor before he retired,
+10
+00:00:34,500 --> 00:00:38,220
+OK, but how? Did you talk to him about it?
 
-18
-00:00:31,892 --> 00:00:34,500
-and I just based it on him.
+11
+00:00:38,220 --> 00:00:44,269
+He must have all sorts of stories, but he never says much about his work, even now.
 
-19
-00:00:34,500 --> 00:00:34,872
-OK,
-
-20
-00:00:34,872 --> 00:00:35,616
-but how?
-
-21
-00:00:35,616 --> 00:00:38,220
-Did you talk to him about it?
-
-22
-00:00:38,220 --> 00:00:40,711
-He must have all sorts of stories,
-
-23
-00:00:40,711 --> 00:00:44,269
-but he never says much about his work, even now.
-
-24
+12
 00:00:44,269 --> 00:00:46,760
 He has a sort of authority though.
 
-25
+13
 00:00:46,760 --> 00:00:50,780
 So how did you manage to capture that?
 
-26
-00:00:50,780 --> 00:00:51,133
-I'd ...
+14
+00:00:50,780 --> 00:00:55,020
+I'd... I'd visualise what he must have been like in the past,
 
-27
-00:00:51,133 --> 00:00:55,020
-I'd visualise what he must have been like in the past,
-
-28
+15
 00:00:55,020 --> 00:00:59,260
 when he was sitting in his consulting room listening to his patients.
 
-29
-00:00:59,260 --> 00:00:59,692
-OK,
+16
+00:00:59,260 --> 00:01:03,150
+OK, so that's what you explain in your report.
 
-30
-00:00:59,692 --> 00:01:03,150
-so that's what you explain in your report.
-
-31
+17
 00:01:03,150 --> 00:01:04,030
 Right.
 
-32
-00:01:04,030 --> 00:01:08,772
-Then there's the issue of atmosphere - so in the first scene we needed
+18
+00:01:04,030 --> 00:01:06,219
+Then there's the issue of atmosphere -
 
-33
-00:01:08,772 --> 00:01:13,515
-to know how boring life was in the doctor's village in the 1950s,
+19
+00:01:06,219 --> 00:01:13,515
+so in the first scene we needed to know how boring life was in the doctor's village in the 1950s,
 
-34
+20
 00:01:13,515 --> 00:01:18,622
 so when the curtain went up on the first scene in the waiting room,
 
-35
+21
 00:01:18,622 --> 00:01:21,540
 there was that long silence before anyone spoke.
 
-36
-00:01:21,540 --> 00:01:27,168
-And then people kept saving the same thing over and over, like 'Cold, isn't
+22
+00:01:21,540 --> 00:01:27,570
+And then people kept saying the same thing over and over, like 'Cold, isn't it?'
 
-37
-00:01:27,168 --> 00:01:27,570
-it?'
+23
+00:01:27,570 --> 00:01:32,300
+Yes, and everyone wore grey and brown, and just sat in a row.
 
-38
-00:01:27,570 --> 00:01:27,934
-Yes,
-
-39
-00:01:27,934 --> 00:01:30,117
-and everyone wore grey and brown,
-
-40
-00:01:30,117 --> 00:01:32,300
-and just sat in a row.
-
-41
+24
 00:01:32,300 --> 00:01:35,120
 Yes, all those details of the production.
 
-42
-00:01:35,120 --> 00:01:39,258
-And I have to analyse how I functioned in the group - what I
+25
+00:01:35,120 --> 00:01:40,531
+And I have to analyse how I functioned in the group - what I found out about myself.
 
-43
-00:01:39,258 --> 00:01:40,531
-found out about myself.
+26
+00:01:40,531 --> 00:01:44,350
+I know I was so frustrated at times, when we couldn't agree.
 
-44
-00:01:40,531 --> 00:01:43,077
-I know I was so frustrated at times,
+27
+00:01:44,350 --> 00:01:48,730
+Yes. So did one person emerge as the leader?
 
-45
-00:01:43,077 --> 00:01:44,350
-when we couldn't agree.
+28
+00:01:48,730 --> 00:01:53,292
+Sophia did. That was OK, she helped us work out exactly what to do.
 
-46
-00:01:44,350 --> 00:01:44,837
-Yes.
+29
+00:01:53,292 --> 00:01:56,550
+for the production. And that made me feel better, I suppose.
 
-47
-00:01:44,837 --> 00:01:48,730
-So did one person emerge as the leader?
-
-48
-00:01:48,730 --> 00:01:49,382
-Sophia did.
-
-49
-00:01:49,382 --> 00:01:53,292
-That was OK, she helped us work out exactly what to do.
-
-50
-00:01:53,292 --> 00:01:53,943
-forthe production.
-
-51
-00:01:53,943 --> 00:01:55,898
-And that made me feel better.
-
-52
-00:01:55,898 --> 00:01:56,550
-I suppose.
-
-53
+30
 00:01:56,550 --> 00:01:59,090
 When you understood what needed doing?
 
-54
-00:01:59,090 --> 00:01:59,506
-Yes.
+31
+00:01:59,090 --> 00:02:04,920
+Yes. And Sophia did some research, too. That was useful in developing our approach.
 
-55
-00:01:59,506 --> 00:02:02,005
-And Sophia did some research, too.
-
-56
-00:02:02,005 --> 00:02:04,920
-That was useful in developing our approach.
-
-57
+32
 00:02:04,920 --> 00:02:05,930
 Like what?
 
-58
-00:02:05,930 --> 00:02:10,502
-Well, she found these articles from the 1950s about how relationships between children
+33
+00:02:05,930 --> 00:02:11,557
+Well, she found these articles from the 1950s about how relationships between children and their parents,
 
-59
-00:02:10,502 --> 00:02:11,557
-and their parents,
-
-60
+34
 00:02:11,557 --> 00:02:16,480
 or between the public and people like bank managers or the police were shifting.
 
-61
-00:02:16,480 --> 00:02:16,988
-Interesting.
+35
+00:02:16,480 --> 00:02:21,560
+Interesting. And did you have any practical problems to overcome?
 
-62
-00:02:16,988 --> 00:02:21,560
-And did you have any practical problems to overcome?
-
-63
+36
 00:02:21,560 --> 00:02:25,860
 Well, in the final rehearsal everything was going fine until the last scene -
 
-64
+37
 00:02:25,860 --> 00:02:29,830
 that's where the doctor's first patient appears on stage on his own.
 
-65
+38
 00:02:29,830 --> 00:02:31,320
 The one in the wheelchair?
 
-66
-00:02:31,320 --> 00:02:31,640
-Yes,
+39
+00:02:31,320 --> 00:02:34,100
+Yes, and he had this really long speech
 
-67
-00:02:31,640 --> 00:02:36,768
-and he had this really long speech, with the stage all dark except for one spotlight -
+40
+00:02:34,140 --> 00:02:36,768
+with the stage all dark except for one spotlight -
 
-68
-00:02:36,768 --> 00:02:41,255
-and then that stuck somehow so it was shining on the wrong side of
+41
+00:02:36,768 --> 00:02:41,896
+and then that stuck somehow so it was shining on the wrong side of the stage...
 
-69
-00:02:41,255 --> 00:02:41,896
-the stage ...
-
-70
+42
 00:02:41,896 --> 00:02:44,460
 but anyway we got that fixed, thank goodness.
 
-71
+43
 00:02:44,460 --> 00:02:48,890
 Yes, it was fine on the night.
 
-72
-00:02:48,890 --> 00:02:54,434
-But while you're here, Mia, I wanted to ask you about the year abroad
+44
+00:02:48,890 --> 00:02:55,140
+But while you're here, Mia, I wanted to ask you about the year abroad option
 
-73
-00:02:54,434 --> 00:02:54,830
-option.
-
-74
-00:02:54,830 --> 00:02:56,810
+45
+00:02:55,220 --> 00:02:56,810
 Would you recommend doing that?
 
-75
-00:02:56,810 --> 00:02:57,623
-Yes, definitely.
+46
+00:02:56,810 --> 00:03:02,500
+Yes, definitely. It's a fantastic chance to study in another country for a year.
 
-76
-00:02:57,623 --> 00:03:02,500
-It's a fantastic chance to study in another country for a year.
+47
+00:03:02,500 --> 00:03:06,100
+I think I'd like to do it, but it looks very competitive
 
-77
-00:03:02,500 --> 00:03:04,703
-I think I'd like to do it,
+48
+00:03:06,620 --> 00:03:08,480
+there's only a limited number of places.
 
-78
-00:03:04,703 --> 00:03:08,480
-but it looks very competitive - there's only a limited number of places.
+49
+00:03:08,480 --> 00:03:13,262
+Yes, so next year when you are in the second year of the course,
 
-79
-00:03:08,480 --> 00:03:08,822
-Yes,
+50
+00:03:13,262 --> 00:03:17,360
+you need to work really hard in all your theatre studies modules.
 
-80
-00:03:08,822 --> 00:03:13,603
-so next year when you are in the second year of the course, you
+51
+00:03:17,360 --> 00:03:20,340
+Only students with good marks get places
 
-81
-00:03:13,603 --> 00:03:17,360
-need to work really hard in all your theatre studies modules.
+52
+00:03:20,720 --> 00:03:24,120
+you have to prove that you know your subject really well.
 
-82
-00:03:17,360 --> 00:03:22,242
-Only students with good marks get places - you have to prove that you
+53
+00:03:24,120 --> 00:03:27,410
+Right. So how did you choose where to go?
 
-83
-00:03:22,242 --> 00:03:24,120
-know your subject really well.
+54
+00:03:27,410 --> 00:03:34,810
+Well. I decided I wanted a programme that would fit in with what I wanted to do after I graduate,
 
-84
-00:03:24,120 --> 00:03:24,486
-Right.
+55
+00:03:34,810 --> 00:03:40,360
+so I looked for a university with emphasis on acting rather than directing for example.
 
-85
-00:03:24,486 --> 00:03:27,410
-So how did you choose where to go?
+56
+00:03:40,360 --> 00:03:45,095
+It depends on you. Then about six months before you go,
 
-86
-00:03:27,410 --> 00:03:32,960
-Well.I decided I wanted a programme that would fit in with what I wanted
+57
+00:03:45,095 --> 00:03:50,260
+you have to email the scheme coordinator with your top three choices.
 
-87
-00:03:32,960 --> 00:03:34,810
-to do after I graduate,
-
-88
-00:03:34,810 --> 00:03:39,990
-so I looked for a university with emphasis on acting rather than directing for
-
-89
-00:03:39,990 --> 00:03:40,360
-example.
-
-90
-00:03:40,360 --> 00:03:46,817
-It depends on you.Then about six months before you go, you have to email
-
-91
-00:03:46,817 --> 00:03:50,260
-the scheme coordinator with your top three choices.
-
-92
+58
 00:03:50,260 --> 00:03:54,288
 I had a friend who missed the deadline and didn't get her first choice,
 
-93
+59
 00:03:54,288 --> 00:03:57,740
 so you do need to get a move on at that stage.
 
-94
+60
 00:03:57,740 --> 00:04:01,280
 You'll find that certain places are very popular with everyone.
 
-95
+61
 00:04:01,280 --> 00:04:04,690
 And don't you have to write a personal statement at that stage?
 
-96
+62
 00:04:04,690 --> 00:04:05,230
 Yes.
 
-97
-00:04:05,230 --> 00:04:09,065
-Right.I'll get some of the final year students to give me some tips, maybe
+63
+00:04:05,230 --> 00:04:08,820
+Right. I'll get some of the final year students to give me some tips
 
-98
-00:04:09,065 --> 00:04:11,110
-see if I can read what they wrote.
+64
+00:04:09,160 --> 00:04:11,110
+maybe see if I can read what they wrote.
 
-99
-00:04:11,110 --> 00:04:13,034
-I thinkthat's a very good idea.
+65
+00:04:11,110 --> 00:04:15,600
+I think that's a very good idea. I don't mind showing you what I did.
 
-100
-00:04:13,034 --> 00:04:15,600
-I don't mind showing you what I did.
-
-101
+66
 00:04:15,600 --> 00:04:19,440
 And while you're abroad don't make the mistake I made.
 
-102
-00:04:19,440 --> 00:04:23,696
-I got so involved I forgot all about making arrangements for when I came
+67
+00:04:19,440 --> 00:04:23,340
+I got so involved I forgot all about making arrangements for
 
-103
-00:04:23,696 --> 00:04:25,520
-back here for the final year.
+68
+00:04:23,340 --> 00:04:25,520
+when I came back here for the final year.
 
-104
-00:04:25,520 --> 00:04:30,392
-Make sure you stay in touch so they know your choices for the optional
+69
+00:04:25,520 --> 00:04:30,740
+Make sure you stay in touch so they know your choices for the optional modules.
 
-105
-00:04:30,392 --> 00:04:30,740
-modules.
-
-106
+70
 00:04:30,740 --> 00:04:34,410
 You don't want to miss out doing your preferred specialisms.
 
-107
+71
 00:04:34,410 --> 00:04:35,270
 Right.

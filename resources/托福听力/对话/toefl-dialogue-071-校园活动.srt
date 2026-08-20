@@ -1,75 +1,47 @@
 1
-00:00:00,000 --> 00:00:02,809
-Man:
+00:00:00,000 --> 00:00:09,030
+Man: I've been thinking about getting into bird watching, any tips?
 
 2
-00:00:02,809 --> 00:00:09,030
-I've been thinking about getting into bird watching, any tips?
+00:00:09,030 --> 00:00:14,480
+Woman: Sure, a good pair of binoculars is essential and instead of a guidebook
 
 3
-00:00:09,030 --> 00:00:09,913
-Woman:
+00:00:14,700 --> 00:00:16,757
+I'd recommend a mobile app.
 
 4
-00:00:09,913 --> 00:00:15,012
-Sure, a good pair of binoculars is essential and instead of a guidebook, I'd
-
-5
-00:00:15,012 --> 00:00:16,437
-recommend a mobile app.
-
-6
-00:00:16,437 --> 00:00:20,010
+00:00:16,757 --> 00:00:20,010
 It helps you identify species and log sightings.
 
-7
-00:00:20,010 --> 00:00:20,060
-Man:
+5
+00:00:20,010 --> 00:00:21,920
+Man: I actually have an old field guide
 
-8
-00:00:20,060 --> 00:00:22,391
-I actually have an old field guide,
-
-9
-00:00:22,391 --> 00:00:25,070
+6
+00:00:21,920 --> 00:00:25,070
 but it's missing pages and doesn't cover local birds.
 
+7
+00:00:25,070 --> 00:00:26,737
+Woman: Then get an app.
+
+8
+00:00:26,737 --> 00:00:28,180
+Some of them even alert you
+
+9
+00:00:28,180 --> 00:00:32,070
+when there's a rare sighting nearby. That's my favorite feature.
+
 10
-00:00:25,070 --> 00:00:25,120
-Woman:
+00:00:32,070 --> 00:00:36,020
+Man: Impressive, so I'd like to join your group, too.
 
 11
-00:00:25,120 --> 00:00:26,737
-Then get an app.
+00:00:36,020 --> 00:00:37,440
+Woman: We'd love to have you
 
 12
-00:00:26,737 --> 00:00:30,737
-Some of them even alert you when there's a rare sighting nearby.
-
-13
-00:00:30,737 --> 00:00:32,070
-That's my favorite feature.
-
-14
-00:00:32,070 --> 00:00:32,465
-Man:
-
-15
-00:00:32,465 --> 00:00:32,860
-Impressive,
-
-16
-00:00:32,860 --> 00:00:36,020
-so I'd like to join your group, too.
-
-17
-00:00:36,020 --> 00:00:36,555
-Woman:
-
-18
-00:00:36,555 --> 00:00:39,228
-We'd love to have you.
-
-19
-00:00:39,228 --> 00:00:46,180
+00:00:37,820 --> 00:00:46,180
 I'll send you a link to our calendar of events, including local walks.

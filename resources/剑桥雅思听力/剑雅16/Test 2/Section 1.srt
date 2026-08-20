@@ -1,479 +1,255 @@
 1
-00:00:00,000 --> 00:00:02,258
-EMPLOYEE:
+00:00:00,000 --> 00:00:03,730
+EMPLOYEE: Hello, Picturerep. Can I help you?
 
 2
-00:00:02,258 --> 00:00:03,024
-Hello, Picturerep.
+00:00:03,730 --> 00:00:08,384
+WOMAN: Oh, hi. I saw your advertisement about copying pictures to disk
 
 3
-00:00:03,024 --> 00:00:03,730
-Can I help you?
+00:00:08,384 --> 00:00:12,650
+and I'd like a bit more information about what you do.
 
 4
-00:00:03,730 --> 00:00:03,780
-WOMAN:
+00:00:12,650 --> 00:00:15,250
+EMPLOYEE: Sure. What would you like to know?
 
 5
-00:00:03,780 --> 00:00:04,893
-Oh, hi.
+00:00:15,250 --> 00:00:22,080
+WOMAN: Well, I've got a box full of old family photos that's been up in the attic for years
 
 6
-00:00:04,893 --> 00:00:10,323
-I saw your advertisement about copying pictures to disk and I'd like a bit
+00:00:22,540 --> 00:00:25,564
+some of them must be 50 or 60 years old,
 
 7
-00:00:10,323 --> 00:00:12,650
-more information about what you do.
-
-8
-00:00:12,650 --> 00:00:12,975
-EMPLOYEE:
-
-9
-00:00:12,975 --> 00:00:13,300
-Sure.
-
-10
-00:00:13,300 --> 00:00:15,250
-What would you like to know?
-
-11
-00:00:15,250 --> 00:00:15,606
-WOMAN:
-
-12
-00:00:15,606 --> 00:00:20,585
-Well, I've got a box full of old family photos that's been up in
-
-13
-00:00:20,585 --> 00:00:25,564
-the attic for years,some of them must be 50 or 60 years old,
-
-14
 00:00:25,564 --> 00:00:29,120
 and I'd like to get them converted to digital format.
 
-15
-00:00:29,120 --> 00:00:29,381
-EMPLOYEE:
+8
+00:00:29,120 --> 00:00:31,210
+EMPLOYEE: Sure, we can do that for you.
 
-16
-00:00:29,381 --> 00:00:31,210
-Sure, we can do that for you.
+9
+00:00:31,210 --> 00:00:34,430
+WOMAN: Right. And what about size?
 
-17
-00:00:31,210 --> 00:00:31,747
-WOMAN:
-
-18
-00:00:31,747 --> 00:00:32,283
-Right.
-
-19
-00:00:32,283 --> 00:00:34,430
-And what about size?
-
-20
+10
 00:00:34,430 --> 00:00:39,880
-The photos are all sorts of sizes – are there any restrictions?
+The photos are all sorts of sizes - are there any restrictions?
 
-21
-00:00:39,880 --> 00:00:40,259
-EMPLOYEE:
+11
+00:00:39,880 --> 00:00:46,330
+EMPLOYEE: Well the maximum size of photo we can do with our normal service is 30 centimetres.
 
-22
-00:00:40,259 --> 00:00:45,571
-Well the maximum size of photo we can do with our normal service is
+12
+00:00:46,330 --> 00:00:49,780
+And each picture must be at least 4 centimetres
 
-23
-00:00:45,571 --> 00:00:46,330
-30 centimetres.
-
-24
-00:00:46,330 --> 00:00:49,486
-And each picture must be at least 4 centimetres,
-
-25
-00:00:49,486 --> 00:00:51,940
+13
+00:00:49,940 --> 00:00:51,940
 that's the minimum we can cope with.
 
-26
-00:00:51,940 --> 00:00:52,180
-WOMAN:
+14
+00:00:51,940 --> 00:00:53,140
+WOMAN: That should be fine.
 
-27
-00:00:52,180 --> 00:00:53,140
-That should be fine.
+15
+00:00:53,140 --> 00:00:58,800
+And some of them are in a frame - should I take them out before I send them?
 
-28
-00:00:53,140 --> 00:00:57,468
-And some of them are in a frame – should I take them out
+16
+00:00:58,800 --> 00:01:01,710
+EMPLOYEE: Yes please, we can't copy them otherwise.
 
-29
-00:00:57,468 --> 00:00:58,800
-before I send them?
+17
+00:01:01,710 --> 00:01:06,640
+And also the photos must all be separate, they mustn't be stuck into an album.
 
-30
-00:00:58,800 --> 00:00:59,164
-EMPLOYEE:
+18
+00:01:06,640 --> 00:01:09,100
+WOMAN: OK, that's not a problem.
 
-31
-00:00:59,164 --> 00:01:01,710
-Yes please, we can't copy them otherwise.
-
-32
-00:01:01,710 --> 00:01:06,311
-And also the photos must all be separate, they mustn't be stuck into an
-
-33
-00:01:06,311 --> 00:01:06,640
-album.
-
-34
-00:01:06,640 --> 00:01:07,050
-WOMAN:
-
-35
-00:01:07,050 --> 00:01:07,460
-OK,
-
-36
-00:01:07,460 --> 00:01:09,100
-that's not a problem.
-
-37
+19
 00:01:09,100 --> 00:01:13,490
 So can you give me an idea of how much this will cost?
 
-38
+20
 00:01:13,490 --> 00:01:17,850
 I've got about 360 photos I think.
 
-39
-00:01:17,850 --> 00:01:18,391
-EMPLOYEE:
+21
+00:01:17,850 --> 00:01:24,880
+EMPLOYEE: We charge £195 for 300 to 400 photos for the basic service.
 
-40
-00:01:18,391 --> 00:01:24,880
-We charge ￡195 for 300 to 400 photos for the basic service.
+22
+00:01:24,880 --> 00:01:28,590
+WOMAN: OK. And does that include the disk?
 
-41
-00:01:24,880 --> 00:01:25,344
-WOMAN:
+23
+00:01:28,590 --> 00:01:33,410
+EMPLOYEE: Yes, one disk - but you can get extra ones for £5 each.
 
-42
-00:01:25,344 --> 00:01:25,808
-OK.
+24
+00:01:33,410 --> 00:01:38,290
+WOMAN: That's good. So do I need to pay when I send you the photos?
 
-43
-00:01:25,808 --> 00:01:28,590
-And does that include the disk?
+25
+00:01:38,290 --> 00:01:42,690
+EMPLOYEE: No, we won't need anything until we've actually copied the pictures.
 
-44
-00:01:28,590 --> 00:01:28,961
-EMPLOYEE:
+26
+00:01:42,690 --> 00:01:45,620
+Then we'll let you know how much it is
 
-45
-00:01:28,961 --> 00:01:33,410
-Yes, one disk – but you can get extra ones for ￡5 each.
-
-46
-00:01:33,410 --> 00:01:33,735
-WOMAN:
-
-47
-00:01:33,735 --> 00:01:34,386
-That's good.
-
-48
-00:01:34,386 --> 00:01:38,290
-So do I need to pay when I send you the photos?
-
-49
-00:01:38,290 --> 00:01:38,657
-EMPLOYEE:
-
-50
-00:01:38,657 --> 00:01:42,690
-No, we won't need anything until we've actually copied the pictures.
-
-51
-00:01:42,690 --> 00:01:45,500
-Then we'll let you know how much it is,
-
-52
-00:01:45,500 --> 00:01:49,560
+27
+00:01:45,620 --> 00:01:49,560
 and once we've received the payment, we'll send the parcel off to you.
 
-53
-00:01:49,560 --> 00:01:51,635
-WOMAN:
+28
+00:01:49,560 --> 00:01:53,710
+WOMAN: Right.
 
-54
-00:01:51,635 --> 00:01:53,710
-Right.
+29
+00:01:53,710 --> 00:01:57,500
+EMPLOYEE: Is there anything else you'd like to ask about our services?
 
-55
-00:01:53,710 --> 00:01:54,026
-EMPLOYEE:
+30
+00:01:57,500 --> 00:02:01,467
+WOMAN: Yes. I've roughly sorted out the photos into groups,
 
-56
-00:01:54,026 --> 00:01:57,500
-Is there anything else you'd like to ask about our services?
+31
+00:02:01,467 --> 00:02:04,420
+according to what they're about
 
-57
-00:01:57,500 --> 00:01:57,897
-WOMAN:
-
-58
-00:01:57,897 --> 00:01:58,293
-Yes.
-
-59
-00:01:58,293 --> 00:02:03,450
-I've roughly sorted out the photos into groups, according to what they're about –
-
-60
-00:02:03,450 --> 00:02:08,210
+32
+00:02:04,960 --> 00:02:08,210
 so can you keep them in those groups when you copy them.
 
-61
-00:02:08,210 --> 00:02:08,528
-EMPLOYEE:
+33
+00:02:08,210 --> 00:02:13,623
+EMPLOYEE: Sure. We'll save each group in a different folder on the disk and if you like,
 
-62
-00:02:08,528 --> 00:02:08,847
-Sure.
+34
+00:02:13,623 --> 00:02:16,170
+you can suggest a name for each folder.
 
-63
-00:02:08,847 --> 00:02:12,349
-We'll save each group in a different folder on the disk
+35
+00:02:16,170 --> 00:02:20,650
+WOMAN: So I could have one called 'Grandparents' for instance?
 
-64
-00:02:12,349 --> 00:02:16,170
-and if you like, you can suggest a name for each folder.
+36
+00:02:20,650 --> 00:02:22,130
+EMPLOYEE: Exactly.
 
-65
-00:02:16,170 --> 00:02:16,618
-WOMAN:
+37
+00:02:22,130 --> 00:02:26,320
+WOMAN: And do you do anything besides scan the photos
 
-66
-00:02:16,618 --> 00:02:20,650
-So I could have one called ‘Grandparents' for instance?
-
-67
-00:02:20,650 --> 00:02:21,390
-EMPLOYEE:
-
-68
-00:02:21,390 --> 00:02:22,130
-Exactly.
-
-69
-00:02:22,130 --> 00:02:22,581
-WOMAN:
-
-70
-00:02:22,581 --> 00:02:26,636
-And do you do anything besides scan the photos?
-
-71
-00:02:26,636 --> 00:02:29,340
+38
+00:02:27,080 --> 00:02:29,340
 Like, can you make any improvements?
 
-72
-00:02:29,340 --> 00:02:29,713
-EMPLOYEE:
+39
+00:02:29,340 --> 00:02:33,067
+EMPLOYEE: Yes, in the standard service each photo is checked,
 
-73
-00:02:29,713 --> 00:02:33,067
-Yes, in the standard service each photo is checked,
+40
+00:02:33,067 --> 00:02:36,860
+and we can sometimes touch up the colour a bit
 
-74
-00:02:33,067 --> 00:02:36,793
-and we can sometimes touch up the colour a bit,
+41
+00:02:36,880 --> 00:02:40,520
+or improve the contrast - that can make a big difference.
 
-75
-00:02:36,793 --> 00:02:40,520
-or improve the contrast – that can make a big difference.
+42
+00:02:40,520 --> 00:02:44,716
+WOMAN: OK. And some of the photos are actually quite fragile -
 
-76
-00:02:40,520 --> 00:02:40,902
-WOMAN:
+43
+00:02:44,716 --> 00:02:48,150
+they won't get damaged in the process, will they?
 
-77
-00:02:40,902 --> 00:02:41,283
-OK.
+44
+00:02:48,150 --> 00:02:52,890
+EMPLOYEE: No, if any look particularly fragile, we'd do them by hand.
 
-78
-00:02:41,283 --> 00:02:46,242
-And some of the photos are actually quite fragile – they won't get damaged
-
-79
-00:02:46,242 --> 00:02:48,150
-in the process, will they?
-
-80
-00:02:48,150 --> 00:02:48,545
-EMPLOYEE:
-
-81
-00:02:48,545 --> 00:02:52,890
-No, if any look particularly fragile, we'd do them by hand.
-
-82
+45
 00:02:52,890 --> 00:02:56,230
 We do realise how precious these old photos can be.
 
-83
-00:02:56,230 --> 00:02:56,750
-WOMAN:
+46
+00:02:56,230 --> 00:02:57,270
+WOMAN: Sure.
 
-84
-00:02:56,750 --> 00:02:57,270
-Sure.
+47
+00:02:57,270 --> 00:03:02,374
+EMPLOYEE: And another thing is we can make changes to a photo if you want -
 
-85
-00:02:57,270 --> 00:02:57,610
-EMPLOYEE:
+48
+00:03:02,374 --> 00:03:05,440
+so if you want to remove an object from a photo
 
-86
-00:02:57,610 --> 00:03:02,374
-And another thing is we can make changes to a photo if you want –
-
-87
-00:03:02,374 --> 00:03:06,117
-so if you want to remove an object from a photo,
-
-88
-00:03:06,117 --> 00:03:09,180
+49
+00:03:05,700 --> 00:03:09,180
 or maybe alter the background, we can do that.
 
-89
-00:03:09,180 --> 00:03:09,592
-WOMAN:
+50
+00:03:09,180 --> 00:03:12,480
+WOMAN: Really? I might be interested in that.
 
-90
-00:03:09,592 --> 00:03:10,005
-Really?
-
-91
-00:03:10,005 --> 00:03:12,480
-I might be interested in that.
-
-92
+51
 00:03:12,480 --> 00:03:15,500
 I'll have a look through the photos and see.
 
-93
-00:03:15,500 --> 00:03:15,947
-Oh,
+52
+00:03:15,500 --> 00:03:22,210
+Oh, and talking of fixing photos - I've got a few that aren't properly in focus.
 
-94
-00:03:15,947 --> 00:03:22,210
-and talking of fixing photos – I've got a few that aren't properly in focus.
-
-95
+53
 00:03:22,210 --> 00:03:24,720
 Can you do anything to make that better?
 
-96
-00:03:24,720 --> 00:03:25,092
-EMPLOYEE:
+54
+00:03:24,720 --> 00:03:28,440
+EMPLOYEE: No, I'm afraid that's one thing we can't do.
 
-97
-00:03:25,092 --> 00:03:28,440
-No, I'm afraid that's one thing we can't do.
+55
+00:03:28,440 --> 00:03:29,690
+WOMAN: OK.
 
-98
-00:03:28,440 --> 00:03:29,065
-WOMAN:
+56
+00:03:29,690 --> 00:03:31,990
+EMPLOYEE: Any other information I can give you?
 
-99
-00:03:29,065 --> 00:03:29,690
-OK.
+57
+00:03:31,990 --> 00:03:36,160
+WOMAN: Er... oh, how long will it all take?
 
-100
-00:03:29,690 --> 00:03:29,978
-EMPLOYEE:
+58
+00:03:36,160 --> 00:03:39,220
+EMPLOYEE: We aim to get the copying done in ten days.
 
-101
-00:03:29,978 --> 00:03:31,990
-Any other information I can give you?
+59
+00:03:39,220 --> 00:03:44,420
+WOMAN: Fine. Right, well I'll get the photos packed up in a box
 
-102
-00:03:31,990 --> 00:03:32,453
-WOMAN:
-
-103
-00:03:32,453 --> 00:03:36,160
-Er … oh, how long will it all take?
-
-104
-00:03:36,160 --> 00:03:36,438
-EMPLOYEE:
-
-105
-00:03:36,438 --> 00:03:39,220
-We aim to get the copying done in ten days.
-
-106
-00:03:39,220 --> 00:03:39,568
-WOMAN:
-
-107
-00:03:39,568 --> 00:03:39,917
-Fine.
-
-108
-00:03:39,917 --> 00:03:43,749
-Right, well I'll get the photos packed up in a box
-
-109
-00:03:43,749 --> 00:03:45,840
+60
+00:03:44,420 --> 00:03:45,840
 and post them off to you.
 
-110
-00:03:45,840 --> 00:03:46,235
-EMPLOYEE:
+61
+00:03:45,840 --> 00:03:50,188
+EMPLOYEE: Right. If you've got a strong cardboard box, that's best.
 
-111
-00:03:46,235 --> 00:03:46,630
-Right.
-
-112
-00:03:46,630 --> 00:03:49,397
-If you've got a strong cardboard box,
-
-113
-00:03:49,397 --> 00:03:50,188
-that's best.
-
-114
+62
 00:03:50,188 --> 00:03:54,140
 We've found that plastic ones sometimes break in the post.
 
-115
-00:03:54,140 --> 00:03:54,752
-WOMAN:
+63
+00:03:54,140 --> 00:03:59,040
+WOMAN: OK. Right, thanks for your help. Bye.
 
-116
-00:03:54,752 --> 00:03:55,365
-OK.
-
-117
-00:03:55,365 --> 00:03:58,427
-Right, thanks for your help.
-
-118
-00:03:58,427 --> 00:03:59,040
-Bye.
-
-119
-00:03:59,040 --> 00:04:00,020
-EMPLOYEE:
-
-120
-00:04:00,020 --> 00:04:01,000
-Bye.
+64
+00:03:59,040 --> 00:04:01,000
+EMPLOYEE: Bye.

@@ -3,37 +3,29 @@
 Listen to an announcement at a University Club meeting.
 
 2
-00:00:04,230 --> 00:00:05,806
-Man:
+00:00:04,230 --> 00:00:08,090
+Man: I see we have a lot of new members here this evening.
 
 3
-00:00:05,806 --> 00:00:08,090
-I see we have a lot of new members here this evening.
-
-4
-00:00:08,090 --> 00:00:10,415
+00:00:08,090 --> 00:00:11,493
 Tonight we'll focus on getting to know each other,
 
+4
+00:00:11,493 --> 00:00:16,030
+and starting next week we'll be talking about some exciting new projects,
+
 5
-00:00:10,415 --> 00:00:16,107
-and starting next week we'll be talking about some exciting new projects, including volunteering
+00:00:16,030 --> 00:00:18,299
+including volunteering at local elementary schools,
 
 6
-00:00:16,107 --> 00:00:19,555
-at local elementary schools, fundraising for local charities,
+00:00:18,299 --> 00:00:22,080
+fundraising for local charities, and planting trees in City Park.
 
 7
-00:00:19,555 --> 00:00:22,080
-and planting trees in City Park.
+00:00:22,080 --> 00:00:27,210
+I hope you're as excited about giving back to the broader community around our university as I am.
 
 8
-00:00:22,080 --> 00:00:25,802
-I hope you're as excited about giving back to the broader community around our
-
-9
-00:00:25,802 --> 00:00:27,210
-university as I am.
-
-10
 00:00:27,210 --> 00:00:32,080
 I'll start by telling you a bit about myself and then we'll go around the room.

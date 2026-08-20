@@ -1,67 +1,35 @@
 1
-00:00:00,000 --> 00:00:01,287
-Man:
+00:00:00,000 --> 00:00:07,100
+Man: So they updated the meeting agenda for tomorrow.
 
 2
-00:00:01,287 --> 00:00:07,100
-So they updated the meeting agenda for tomorrow.
+00:00:07,100 --> 00:00:09,188
+Woman: Yes, I saw the email.
 
 3
-00:00:07,100 --> 00:00:07,543
-Woman:
-
-4
-00:00:07,543 --> 00:00:08,669
-Yes, I saw the email.
-
-5
-00:00:08,669 --> 00:00:14,060
+00:00:09,188 --> 00:00:14,060
 Apparently the guest speaker from the product strategy team had to cancel last minute.
 
-6
-00:00:14,060 --> 00:00:14,110
-Man:
+4
+00:00:14,060 --> 00:00:16,133
+Man: Really? That's too bad.
 
-7
-00:00:14,110 --> 00:00:14,889
-Really?
-
-8
-00:00:14,889 --> 00:00:16,133
-That's too bad.
-
-9
+5
 00:00:16,133 --> 00:00:23,180
 She was going to present the new timeline for the fourth quarter software release. That's important information.
 
-10
-00:00:23,180 --> 00:00:23,582
-Woman:
+6
+00:00:23,180 --> 00:00:28,010
+Woman: Definitely. But they've replaced her with someone from the marketing team.
 
-11
-00:00:23,582 --> 00:00:23,985
-Definitely.
-
-12
-00:00:23,985 --> 00:00:28,010
-But they've replaced her with someone from the marketing team.
-
-13
+7
 00:00:28,010 --> 00:00:33,070
 He's going to walk us through the upcoming social media campaign for the mobile app launch.
 
-14
-00:00:33,070 --> 00:00:33,436
-Man:
+8
+00:00:33,070 --> 00:00:37,580
+Man: That's useful too. I hope it covers our television ads too
 
-15
-00:00:33,436 --> 00:00:34,534
-That's useful too.
-
-16
-00:00:34,534 --> 00:00:37,461
-I hope it covers our television ads too.
-
-17
-00:00:37,461 --> 00:00:39,290
+9
+00:00:37,880 --> 00:00:39,290
 That concerns me more directly.

@@ -3,25 +3,17 @@
 Listen to an announcement at a university club meeting.
 
 2
-00:00:03,060 --> 00:00:04,167
-Welcome everyone.
+00:00:03,060 --> 00:00:09,280
+Welcome everyone. Today I'm pleased to announce that our club has arranged a guest speaker for next week's meeting.
 
 3
-00:00:04,167 --> 00:00:09,280
-Today I'm pleased to announce that our club has arranged a guest speaker for next week's meeting.
+00:00:09,280 --> 00:00:15,040
+Dr. Rivera will be discussing the impacts of climate change on ocean ecosystems.
 
 4
-00:00:09,280 --> 00:00:09,330
-Dr.
+00:00:15,040 --> 00:00:19,250
+The lecture will be held in room 105 at 5 p. m. on Tuesday.
 
 5
-00:00:09,330 --> 00:00:15,040
-Rivera will be discussing the impacts of climate change on ocean ecosystems.
-
-6
-00:00:15,040 --> 00:00:19,250
-The lecture will be held in room 105 at 5 p.m. on Tuesday.
-
-7
 00:00:19,250 --> 00:00:21,230
 Please mark your calendars.

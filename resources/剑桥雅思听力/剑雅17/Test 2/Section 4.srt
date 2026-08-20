@@ -1,283 +1,259 @@
 1
 00:00:00,000 --> 00:00:03,760
-Right, everyone, let’s make a start.
+Right, everyone, let's make a start.
 
 2
-00:00:03,760 --> 00:00:09,994
-Over the past few sessions, we’ve been considering the reasons why some world languages
+00:00:03,760 --> 00:00:05,980
+Over the past few sessions
 
 3
-00:00:09,994 --> 00:00:11,617
-are in decline,
+00:00:05,980 --> 00:00:11,008
+we've been considering the reasons why some world languages are in decline,
 
 4
-00:00:11,617 --> 00:00:15,726
-and today I’m going to introduce another factor that affects languages,
+00:00:11,008 --> 00:00:15,840
+and today I'm going to introduce another factor that affects languages,
 
 5
-00:00:15,726 --> 00:00:18,072
-and the speakers of those languages,
+00:00:15,840 --> 00:00:17,140
+and the speakers of those languages
 
 6
-00:00:18,072 --> 00:00:21,880
-and that’s technology and, in particular, digital technology.
+00:00:17,140 --> 00:00:21,880
+and that's technology and, in particular, digital technology.
 
 7
-00:00:21,880 --> 00:00:27,231
-In order to illustrate its effect, I’m going to focus on the Icelandic
+00:00:21,880 --> 00:00:28,176
+In order to illustrate its effect, I'm going to focus on the Icelandic language,
 
 8
-00:00:27,231 --> 00:00:27,692
-language,
+00:00:28,176 --> 00:00:32,080
+which is spoken by around 321,000 people
 
 9
-00:00:27,692 --> 00:00:34,425
-which is spoken by around 321,000 people, most of whom live in Iceland –
+00:00:32,260 --> 00:00:36,990
+most of whom live in Iceland - an island in the North Atlantic Ocean.
 
 10
-00:00:34,425 --> 00:00:36,990
-an island in the North Atlantic Ocean.
+00:00:36,990 --> 00:00:40,760
+The problem for this language is not the number of speakers
 
 11
-00:00:36,990 --> 00:00:41,292
-The problem for this language is not the number of speakers – even though
+00:00:41,040 --> 00:00:42,880
+even though this number is small.
 
 12
-00:00:41,292 --> 00:00:42,880
-this number is small.
-
-13
 00:00:42,880 --> 00:00:47,240
 Nor is it about losing words to other languages, such as English.
 
+13
+00:00:47,240 --> 00:00:51,045
+In fact, the vocabulary of Icelandic is continually increasing
+
 14
-00:00:47,240 --> 00:00:54,143
-In fact, the vocabulary of Icelandic is continually increasing because when speakers need a
+00:00:51,045 --> 00:00:54,850
+because when speakers need a new word for something,
 
 15
-00:00:54,143 --> 00:00:58,778
-new word for something, they tend to create one, rather than borrowing from another
+00:00:54,850 --> 00:00:59,500
+they tend to create one, rather than borrowing from another language.
 
 16
-00:00:58,778 --> 00:00:59,500
-language.
+00:00:59,500 --> 00:01:03,060
+All this makes Icelandic quite a special language
 
 17
-00:00:59,500 --> 00:01:05,057
-All this makes Icelandic quite a special language – it’s changed very little in
+00:01:03,780 --> 00:01:06,608
+it's changed very little in the past millennium,
 
 18
-00:01:05,057 --> 00:01:10,954
-the past millennium, yet it can handle twenty-first-century concepts related to the use of computers
+00:01:06,608 --> 00:01:12,880
+yet it can handle twenty-first-century concepts related to the use of computers and digital technology.
 
 19
-00:01:10,954 --> 00:01:12,880
-and digital technology.
+00:01:12,880 --> 00:01:18,372
+Take, for example, the word for web browser... this is vafri in Icelandic,
 
 20
-00:01:12,880 --> 00:01:18,560
-Take, for example, the word for web browser … this is vafri in Icelandic,
+00:01:18,372 --> 00:01:21,330
+which comes from the verb 'to wander'.
 
 21
-00:01:18,560 --> 00:01:21,330
-which comes from the verb ‘to wander’.
+00:01:21,330 --> 00:01:23,903
+I can't think of a more appropriate term
 
 22
-00:01:21,330 --> 00:01:26,153
-I can’t think of a more appropriate term because that’s exactly what you do
+00:01:23,903 --> 00:01:27,620
+because that's exactly what you do mentally when you browse the internet.
 
 23
-00:01:26,153 --> 00:01:27,620
-mentally when you browse the internet.
+00:01:27,620 --> 00:01:30,880
+Then there's an Icelandic word for podcast
 
 24
-00:01:27,620 --> 00:01:32,551
-Then there’s an Icelandic word for podcast – which is too hard to pronounce!
+00:01:30,880 --> 00:01:34,060
+which is too hard to pronounce! And so on.
 
 25
-00:01:32,551 --> 00:01:34,060
-And so on.
+00:01:34,060 --> 00:01:38,887
+Icelandic, then, is alive and growing, but - and it's a big but -
 
 26
-00:01:34,060 --> 00:01:36,288
-Icelandic, then, is alive and growing,
+00:01:38,887 --> 00:01:42,680
+young Icelanders spend a great deal of time in the digital world
 
 27
-00:01:36,288 --> 00:01:41,115
-but – and it’s a big but – young Icelanders spend a great deal
+00:01:42,680 --> 00:01:45,570
+and this world is predominantly English.
 
 28
-00:01:41,115 --> 00:01:45,570
-of time in the digital world and this world is predominantly English.
-
-29
 00:01:45,570 --> 00:01:48,240
 Think about smartphones.
 
-30
+29
 00:01:48,240 --> 00:01:51,352
-They didn’t even exist until comparatively recently,
+They didn't even exist until comparatively recently,
+
+30
+00:01:51,352 --> 00:01:56,021
+but today young people use them all the time to read books,
 
 31
-00:01:51,352 --> 00:01:56,799
-but today young people use them all the time to read books, watch TV
+00:01:56,021 --> 00:02:00,690
+watch TV or films, play games, listen to music, and so on.
 
 32
-00:01:56,799 --> 00:01:59,523
-or films, play games, listen to music,
+00:02:00,690 --> 00:02:04,180
+Obviously, this is a good thing in many respects
 
 33
-00:01:59,523 --> 00:02:00,690
-and so on.
+00:02:04,180 --> 00:02:06,082
+because it promotes their bilingual skills,
 
 34
-00:02:00,690 --> 00:02:05,722
-Obviously, this is a good thing in many respects because it promotes their bilingual
-
-35
-00:02:05,722 --> 00:02:06,082
-skills,
-
-36
 00:02:06,082 --> 00:02:11,114
 but the extent of the influence of English in the virtual world is staggering
 
-37
+35
 00:02:11,114 --> 00:02:13,630
-and it’s all happening really fast.
+and it's all happening really fast.
+
+36
+00:02:13,630 --> 00:02:15,743
+For their parents and grandparents,
+
+37
+00:02:15,743 --> 00:02:18,080
+the change is less concerning
 
 38
-00:02:13,630 --> 00:02:17,856
-For their parents and grandparents, the change is less concerning
-
-39
-00:02:17,856 --> 00:02:21,660
+00:02:18,080 --> 00:02:21,660
 because they already have their native-speaker skills in Icelandic.
 
-40
+39
 00:02:21,660 --> 00:02:26,790
-But for young speakers – well, the outcome is a little troubling.
+But for young speakers - well, the outcome is a little troubling.
+
+40
+00:02:26,790 --> 00:02:33,902
+For example, teachers have found that playground conversations in Icelandic secondary schools can be conducted entirely in English,
 
 41
-00:02:26,790 --> 00:02:32,322
-For example, teachers have found that playground conversations in Icelandic secondary schools can be
+00:02:33,902 --> 00:02:38,594
+while teachers of much younger children have reported situations
 
 42
-00:02:32,322 --> 00:02:33,902
-conducted entirely in English,
+00:02:39,035 --> 00:02:44,570
+where their classes find it easier to say what is in a picture using English, rather than Icelandic
 
 43
-00:02:33,902 --> 00:02:39,434
-while teachers of much younger children have reported situations where their classes find it
+00:02:44,570 --> 00:02:56,790
+The very real and worrying consequence of all this is that the young generation in Iceland is at risk of losing its mother tongue.
 
 44
-00:02:39,434 --> 00:02:44,570
-easier to say what is in a picture using English, rather than Icelandic.
-
-45
-00:02:44,570 --> 00:02:51,698
-The very real and worrying consequence of all this is that the young generation
-
-46
-00:02:51,698 --> 00:02:56,790
-in Iceland is at risk of losing its mother tongue.
-
-47
 00:02:56,790 --> 00:03:00,395
 Of course, this is happening to other European languages too,
 
+45
+00:03:00,395 --> 00:03:05,804
+but while internet companies might be willing to offer, say, French options in their systems,
+
+46
+00:03:05,804 --> 00:03:16,620
+it's much harder for them to justify the expense of doing the same for a language that has a population the size of a French town, such as Nice.
+
+47
+00:03:16,620 --> 00:03:20,000
+The other drawback of Icelandic is the grammar
+
 48
-00:03:00,395 --> 00:03:05,443
-but while internet companies might be willing to offer, say, French options in their
-
-49
-00:03:05,443 --> 00:03:10,851
-systems, it’s much harder for them to justify the expense of doing the same
-
-50
-00:03:10,851 --> 00:03:15,899
-for a language that has a population the size of a French town, such
-
-51
-00:03:15,899 --> 00:03:16,620
-as Nice.
-
-52
-00:03:16,620 --> 00:03:20,102
-The other drawback of Icelandic is the grammar,
-
-53
-00:03:20,102 --> 00:03:24,020
+00:03:20,000 --> 00:03:24,020
 which is significantly more complex than in most languages.
 
-54
+49
 00:03:24,020 --> 00:03:29,090
 At the moment, the tech giants are simply not interested in tackling this.
 
-55
+50
 00:03:29,090 --> 00:03:33,360
 So, what is the Icelandic government doing about this?
 
-56
-00:03:33,360 --> 00:03:38,361
-Well, large sums of money are being allocated to a language technology fund that
+51
+00:03:33,360 --> 00:03:42,647
+Well, large sums of money are being allocated to a language technology fund that it is hoped will lead to the development of Icelandic sourced apps
 
-57
-00:03:38,361 --> 00:03:42,647
-it is hoped will lead to the development of Icelandic sourced apps
+52
+00:03:42,647 --> 00:03:45,080
+and other social media and digital systems
 
-58
-00:03:42,647 --> 00:03:45,148
-and other social media and digital systems,
-
-59
-00:03:45,148 --> 00:03:48,720
+53
+00:03:45,080 --> 00:03:48,720
 but clearly this is going to be an uphill struggle.
 
-60
-00:03:48,720 --> 00:03:54,685
-On the positive side, they know that Icelandic is still the official language of education
+54
+00:03:48,720 --> 00:03:55,480
+On the positive side, they know that Icelandic is still the official language of education and government.
 
-61
-00:03:54,685 --> 00:03:55,480
-and government.
+55
+00:03:55,480 --> 00:03:58,617
+It has survived for well over a thousand years
 
-62
-00:03:55,480 --> 00:04:00,360
-It has survived for well over a thousand years and the experts predict that
+56
+00:03:58,617 --> 00:04:03,160
+and the experts predict that its future in this nation state is sound
 
-63
-00:04:00,360 --> 00:04:05,240
-its future in this nation state is sound and will continue to be so.
+57
+00:04:03,160 --> 00:04:05,240
+and will continue to be so.
 
-64
-00:04:05,240 --> 00:04:11,511
-However, there’s no doubt that it’s becoming an inevitable second choice in young people’s
+58
+00:04:05,240 --> 00:04:11,880
+However, there's no doubt that it's becoming an inevitable second choice in young people's lives.
 
-65
-00:04:11,511 --> 00:04:11,880
-lives.
-
-66
+59
 00:04:11,880 --> 00:04:15,140
 This raises important questions.
 
-67
+60
 00:04:15,140 --> 00:04:19,468
 When you consider how much of the past is tied up in a language,
 
-68
+61
 00:04:19,468 --> 00:04:22,560
 will young Icelanders lose their sense of their own identity?
 
-69
+62
 00:04:22,560 --> 00:04:26,430
 Another issue that concerns the government of Iceland is this.
 
-70
-00:04:26,430 --> 00:04:31,789
-If children are learning two languages through different routes, neither of which they are
+63
+00:04:26,430 --> 00:04:29,875
+If children are learning two languages through different routes,
 
-71
-00:04:31,789 --> 00:04:36,000
-fully fluent in, will they be able to express themselves properly?
+64
+00:04:29,875 --> 00:04:33,200
+neither of which they are fully fluent in
+
+65
+00:04:33,200 --> 00:04:36,000
+will they be able to express themselves properly?

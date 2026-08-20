@@ -1,291 +1,299 @@
 1
-00:00:00,000 --> 00:00:01,910
-Section 4
+00:00:00,000 --> 00:00:07,030
+In this series of lectures about the history of weather forecasting,
 
 2
-00:00:01,910 --> 00:00:08,586
-In this series of lectures about the history of weather forecasting, I'll start by
+00:00:07,030 --> 00:00:14,600
+I'll start by examining its early history - that'll be the subject of today's talk.
 
 3
-00:00:08,586 --> 00:00:14,600
-examining its early history - that'll be the subject of today's talk.
+00:00:14,600 --> 00:00:20,020
+OK, so we'll start by going back thousands of years
 
 4
-00:00:14,600 --> 00:00:15,522
-OK,
-
-5
-00:00:15,522 --> 00:00:19,268
-so we'll start by going back thousands of years.
-
-6
-00:00:19,268 --> 00:00:24,184
+00:00:20,020 --> 00:00:24,184
 Most ancient cultures had weather gods,
 
+5
+00:00:24,184 --> 00:00:27,940
+and weather catastrophes, such as floods
+
+6
+00:00:28,380 --> 00:00:32,570
+played an important role in many creation myths.
+
 7
-00:00:24,184 --> 00:00:32,570
-and weather catastrophes, such as floods, played an important role in many creation myths.
+00:00:32,570 --> 00:00:37,441
+Generally, weather was attributed to the whims of the gods,
 
 8
-00:00:32,570 --> 00:00:39,390
-Generally, weather was attributed to the whims of the gods, as the wide range
+00:00:37,441 --> 00:00:42,800
+as the wide range of weather gods in various cultures shows.
 
 9
-00:00:39,390 --> 00:00:42,800
-of weather gods in various cultures shows.
+00:00:42,800 --> 00:00:47,040
+For instance, there's the Egyptian sun god Ra
 
 10
-00:00:42,800 --> 00:00:47,106
-For instance, there's the Egyptian sun god Ra,
-
-11
-00:00:47,106 --> 00:00:51,950
+00:00:47,480 --> 00:00:51,950
 and Thor, the Norse god of thunder and lightning.
 
+11
+00:00:51,950 --> 00:00:57,320
+Many ancient civilisations developed rites such as dances
+
 12
-00:00:51,950 --> 00:00:59,562
-Many ancient civilisations developed rites such as dances in order to make the weather
+00:00:57,620 --> 00:01:02,280
+in order to make the weather gods look kindly on them.
 
 13
-00:00:59,562 --> 00:01:02,280
-gods look kindly on them.
-
-14
 00:01:02,280 --> 00:01:06,225
 But the weather was of daily importance:
 
-15
+14
 00:01:06,225 --> 00:01:14,115
 observing the skies and drawing the correct conclusions from these observations was really important,
 
-16
+15
 00:01:14,115 --> 00:01:18,060
 in fact their survival depended on it.
 
-17
+16
 00:01:18,060 --> 00:01:24,730
 It isn't known when people first started to observe the skies,
 
+17
+00:01:24,730 --> 00:01:27,080
+but at around 650 BC
+
 18
-00:01:24,730 --> 00:01:36,251
-but at around 650 BC, the Babylonians produced the first short-range weather forecasts, based on their observations of clouds
+00:01:27,780 --> 00:01:32,613
+the Babylonians produced the first short-range weather forecasts,
 
 19
-00:01:36,251 --> 00:01:38,070
-and other phenomena.
+00:01:32,613 --> 00:01:38,070
+based on their observations of clouds and other phenomena.
 
 20
-00:01:38,070 --> 00:01:41,736
-The Chinese also recognised weather patterns,
+00:01:38,070 --> 00:01:42,140
+The Chinese also recognised weather patterns
 
 21
-00:01:41,736 --> 00:01:50,291
-and by 300 BC, astronomers had developed a calendar which divided the year into
+00:01:42,900 --> 00:01:47,236
+and by 300 BC, astronomers had developed a calendar
 
 22
-00:01:50,291 --> 00:01:55,790
-24 festivals, each associated with a different weather phenomenon.
+00:01:47,236 --> 00:01:51,540
+which divided the year into 24 festivals
 
 23
-00:01:55,790 --> 00:02:02,475
-The ancient Greeks were the first to develop a more scientific approach to explaining
+00:01:52,180 --> 00:01:55,790
+each associated with a different weather phenomenon.
 
 24
-00:02:02,475 --> 00:02:03,430
-the weather.
+00:01:55,790 --> 00:02:03,430
+The ancient Greeks were the first to develop a more scientific approach to explaining the weather.
 
 25
-00:02:03,430 --> 00:02:11,152
-The work of the philosopher and scientist Aristotle, in the fourth century BC, is
+00:02:03,430 --> 00:02:07,842
+The work of the philosopher and scientist Aristotle,
 
 26
-00:02:11,152 --> 00:02:17,770
-especially noteworthy, as his ideas held sway for nearly 2,000 years.
+00:02:07,842 --> 00:02:12,040
+in the fourth century BC, is especially noteworthy
 
 27
-00:02:17,770 --> 00:02:25,425
-In 340 BC, he wrote a book in which he attempted to account for
+00:02:12,280 --> 00:02:17,770
+as his ideas held sway for nearly 2,000 years.
 
 28
-00:02:25,425 --> 00:02:29,800
-the formation of rain, clouds, wind and storms.
+00:02:17,770 --> 00:02:22,460
+In 340 BC, he wrote a book in
 
 29
-00:02:29,800 --> 00:02:36,945
-He also described celestial phenomena such as haloes - that is, bright circles of
+00:02:22,460 --> 00:02:29,800
+which he attempted to account for the formation of rain, clouds, wind and storms.
 
 30
-00:02:36,945 --> 00:02:42,990
-light around the sun, the moon and bright stars - and comets.
+00:02:29,800 --> 00:02:34,197
+He also described celestial phenomena such as haloes -
 
 31
+00:02:34,197 --> 00:02:38,480
+that is, bright circles of light around the sun
+
+32
+00:02:38,740 --> 00:02:42,990
+the moon and bright stars - and comets.
+
+33
 00:02:42,990 --> 00:02:48,000
 Many of his observations were surprisingly accurate.
 
-32
+34
 00:02:48,000 --> 00:02:54,960
 For example, he believed that heat could cause water to evaporate.
 
-33
-00:02:54,960 --> 00:03:02,079
-But he also jumped to quite a few wrong conclusions, such as that winds
-
-34
-00:03:02,079 --> 00:03:05,130
-are breathed out by the Earth.
-
 35
+00:02:54,960 --> 00:03:00,075
+But he also jumped to quite a few wrong conclusions,
+
+36
+00:03:00,717 --> 00:03:05,130
+such as that winds are breathed out by the Earth
+
+37
 00:03:05,130 --> 00:03:10,500
 Errors like this were rectified from the Renaissance onwards.
 
-36
-00:03:10,500 --> 00:03:19,163
-For nearly 2,000 years, Aristotle's work was accepted as the chief authority on weather
-
-37
-00:03:19,163 --> 00:03:19,740
-theory.
-
 38
-00:03:19,740 --> 00:03:27,339
-Alongside this, though, in the Middle Ages weather observations were passed on in the
+00:03:10,500 --> 00:03:13,640
+For nearly 2,000 years
 
 39
-00:03:27,339 --> 00:03:33,310
-form of proverbs, such as 'Red sky at night, shepherd's delight;
+00:03:14,120 --> 00:03:19,740
+Aristotle's work was accepted as the chief authority on weather theory.
 
 40
-00:03:33,310 --> 00:03:37,110
-red sky in the morning, shepherd's warning'.
+00:03:19,740 --> 00:03:23,700
+Alongside this, though, in the Middle Ages
 
 41
-00:03:37,110 --> 00:03:45,312
-Many of these are based on very good observations and are accurate as contemporary
+00:03:24,220 --> 00:03:28,968
+weather observations were passed on in the form of proverbs,
 
 42
-00:03:45,312 --> 00:03:47,070
-meteorologists have discovered.
+00:03:28,968 --> 00:03:32,660
+such as 'Red sky at night, shepherd's delight
 
 43
-00:03:47,070 --> 00:03:54,670
-For centuries, any attempt to forecast the weather could only be based on personal
+00:03:33,140 --> 00:03:37,110
+red sky in the morning, shepherd's warning'.
 
 44
-00:03:54,670 --> 00:03:55,213
-observations,
+00:03:37,110 --> 00:03:42,383
+Many of these are based on very good observations
 
 45
+00:03:42,383 --> 00:03:47,070
+and are accurate as contemporary meteorologists have discovered.
+
+46
+00:03:47,070 --> 00:03:55,213
+For centuries, any attempt to forecast the weather could only be based on personal observations,
+
+47
 00:03:55,213 --> 00:04:02,270
 but in the fifteenth century scientists began to see the need for instruments.
 
-46
-00:04:02,270 --> 00:04:10,215
-Until then, the only ones available were weather vanes - to determine the wind direction
-
-47
-00:04:10,215 --> 00:04:13,620
-and early versions of rain gauges.
-
 48
-00:04:13,620 --> 00:04:20,628
-One of the first, invented in the fifteenth century, was a hygrometer,
+00:04:02,270 --> 00:04:07,378
+Until then, the only ones available were weather vanes -
 
 49
-00:04:20,628 --> 00:04:22,380
-which measured humidity.
+00:04:07,378 --> 00:04:13,620
+to determine the wind direction and early versions of rain gauges.
 
 50
+00:04:13,620 --> 00:04:17,880
+One of the first, invented in the fifteenth century
+
+51
+00:04:18,380 --> 00:04:22,380
+was a hygrometer, which measured humidity.
+
+52
 00:04:22,380 --> 00:04:29,830
 This was one of many inventions that contributed to the development of weather forecasting.
 
-51
-00:04:29,830 --> 00:04:40,030
-In 1592, the Italian scientist and inventor Galileo developed the world's first thermometer.
-
-52
-00:04:40,030 --> 00:04:44,575
-His student Torricelli later invented the barometer,
-
 53
-00:04:44,575 --> 00:04:49,120
-which allowed people to measure atmospheric pressure.
+00:04:29,830 --> 00:04:34,660
+In 1592, the Italian scientist
 
 54
+00:04:34,660 --> 00:04:40,030
+and inventor Galileo developed the world's first thermometer.
+
+55
+00:04:40,030 --> 00:04:45,060
+His student Torricelli later invented the barometer
+
+56
+00:04:45,680 --> 00:04:49,120
+which allowed people to measure atmospheric pressure.
+
+57
 00:04:49,120 --> 00:04:57,890
 In 1648, the French philosopher Pascal proved that pressure decreases with altitude.
 
-55
+58
 00:04:57,890 --> 00:05:04,019
 This discovery was verified by English astronomer Halley in 1686;
 
-56
+59
 00:05:04,019 --> 00:05:10,760
 and Halley was also the first person to map trade winds.
 
-57
+60
 00:05:10,760 --> 00:05:19,671
 This increasing ability to measure factors related to weather helped scientists to understand the atmosphere
 
-58
-00:05:19,671 --> 00:05:22,047
-and its processes better,
-
-59
-00:05:22,047 --> 00:05:26,800
-and they started collecting weather observation data systematically.
-
-60
-00:05:26,800 --> 00:05:34,099
-In the eighteenth century, the scientist and politician Benjamin Franklin carried out work on electricity
-
 61
-00:05:34,099 --> 00:05:36,045
-and lightning in particular,
+00:05:19,671 --> 00:05:26,800
+and its processes better, and they started collecting weather observation data systematically.
 
 62
-00:05:36,045 --> 00:05:42,857
-but he was also very interested in weather and studied it throughout most of
+00:05:26,800 --> 00:05:29,719
+In the eighteenth century, the scientist
 
 63
-00:05:42,857 --> 00:05:43,830
-his life.
+00:05:29,719 --> 00:05:36,045
+and politician Benjamin Franklin carried out work on electricity and lightning in particular,
 
 64
+00:05:36,045 --> 00:05:40,560
+but he was also very interested in weather
+
+65
+00:05:40,560 --> 00:05:43,830
+and studied it throughout most of his life.
+
+66
 00:05:43,830 --> 00:05:51,420
 It was Franklin who discovered that storms generally travel from west to east.
 
-65
-00:05:51,420 --> 00:05:59,801
-In addition to new meteorological instruments, other developments contributed to our understanding of the
-
-66
-00:05:59,801 --> 00:06:00,400
-atmosphere.
-
 67
-00:06:00,400 --> 00:06:04,367
-People in different locations began to keep records,
+00:05:51,420 --> 00:05:55,012
+In addition to new meteorological instruments,
 
 68
-00:06:04,367 --> 00:06:11,310
-and in the mid-nineteenth century, the invention of the telegraph made it possible for
+00:05:55,012 --> 00:06:00,400
+other developments contributed to our understanding of the atmosphere.
 
 69
-00:06:11,310 --> 00:06:13,790
-these records to be collated.
+00:06:00,400 --> 00:06:05,220
+People in different locations began to keep records
 
 70
+00:06:05,340 --> 00:06:06,847
+and in the mid-nineteenth century,
+
+71
+00:06:06,847 --> 00:06:13,790
+the invention of the telegraph made it possible for these records to be collated.
+
+72
 00:06:13,790 --> 00:06:20,940
 This led, by the end of the nineteenth century, to the first weather services.
 
-71
-00:06:20,940 --> 00:06:27,269
+73
+00:06:20,940 --> 00:06:26,680
 It was not until the early twentieth century that mathematics
 
-72
-00:06:27,269 --> 00:06:31,067
+74
+00:06:26,680 --> 00:06:31,067
 and physics became part of meteorology,
 
-73
+75
 00:06:31,067 --> 00:06:36,130
 and we'll continue from that point next week.

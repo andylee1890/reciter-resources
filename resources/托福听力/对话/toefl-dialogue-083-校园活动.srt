@@ -1,63 +1,35 @@
 1
-00:00:00,000 --> 00:00:02,806
-Man:
+00:00:00,000 --> 00:00:04,423
+Man: This is Jimmy Clarkin from Rise Bakery calling.
 
 2
-00:00:02,806 --> 00:00:08,038
-This is Jimmy Clarkin from Rise Bakery calling.
+00:00:04,423 --> 00:00:13,270
+I received a message that you'd like to do a story about my shop for your university newspaper.
 
 3
-00:00:08,038 --> 00:00:11,304
-I received a message that you'd like to do a story about my shop
+00:00:13,270 --> 00:00:18,240
+Woman: Yes, you've been a staple in our city for generations now.
 
 4
-00:00:11,304 --> 00:00:13,270
-for your university newspaper.
-
-5
-00:00:13,270 --> 00:00:13,320
-Woman:
-
-6
-00:00:13,320 --> 00:00:18,240
-Yes, you've been a staple in our city for generations now.
-
-7
 00:00:18,240 --> 00:00:23,040
 The grandparents of our current students were customers there when they were young.
 
-8
-00:00:23,040 --> 00:00:23,090
-Man:
+5
+00:00:23,040 --> 00:00:26,940
+Man: It's a family owned business and we're proud of it
 
-9
-00:00:23,090 --> 00:00:26,590
-It's a family owned business and we're proud of it.
-
-10
-00:00:26,590 --> 00:00:30,140
+6
+00:00:26,940 --> 00:00:30,140
 Would you be able to come next Monday at 3 o'clock?
 
-11
-00:00:30,140 --> 00:00:30,582
-Woman:
+7
+00:00:30,140 --> 00:00:35,000
+Woman: Definitely. Is it all right if my photographer comes along?
 
-12
-00:00:30,582 --> 00:00:31,024
-Definitely.
+8
+00:00:35,000 --> 00:00:38,500
+Man: Of course you can get different shots
 
-13
-00:00:31,024 --> 00:00:35,000
-Is it all right if my photographer comes along?
-
-14
-00:00:35,000 --> 00:00:35,382
-Man:
-
-15
-00:00:35,382 --> 00:00:40,724
-Of course you can get different shots even back in our kitchen where we
-
-16
-00:00:40,724 --> 00:00:42,250
-do all the baking.
+9
+00:00:38,900 --> 00:00:42,250
+even back in our kitchen where we do all the baking.

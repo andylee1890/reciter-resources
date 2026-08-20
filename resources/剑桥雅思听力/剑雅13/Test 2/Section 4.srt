@@ -1,271 +1,243 @@
 1
-00:00:00,000 --> 00:00:01,300
-Section 4
-
-2
-00:00:01,300 --> 00:00:10,626
+00:00:00,000 --> 00:00:10,333
 Today, we'll be continuing the series of lectures on memory by focusing on what is called episodic memory
 
-3
-00:00:10,626 --> 00:00:15,500
+2
+00:00:10,333 --> 00:00:15,500
 and what can happen if this is not working properly.
 
-4
-00:00:15,500 --> 00:00:21,537
+3
+00:00:15,500 --> 00:00:21,448
 Episodic memory refers to the memory of an event or 'episode'.
 
+4
+00:00:21,448 --> 00:00:30,100
+Episodic memories allow us to mentally travel back in time to an event from the past.
+
 5
-00:00:21,537 --> 00:00:29,019
-Episodic memories allow us to mentally travel back in time to an event from
+00:00:30,100 --> 00:00:35,510
+Episodic memories include various details about these events,
 
 6
-00:00:29,019 --> 00:00:30,100
-the past.
+00:00:35,510 --> 00:00:44,300
+for example, when an event happened and other information such as the location.
 
 7
-00:00:30,100 --> 00:00:36,862
-Episodic memories include various details about these events, for example,
+00:00:44,300 --> 00:00:47,600
+To help understand this concept
 
 8
-00:00:36,862 --> 00:00:44,300
-when an event happened and other information such as the location.
+00:00:48,120 --> 00:00:52,500
+try to remember the last time you ate dinner at a restaurant.
 
 9
-00:00:44,300 --> 00:00:51,053
-To help understand this concept, try to remember the last time you ate dinner
-
-10
-00:00:51,053 --> 00:00:52,500
-at a restaurant.
-
-11
 00:00:52,500 --> 00:00:55,939
 The ability to remember where you ate,
 
-12
-00:00:55,939 --> 00:01:02,817
-who you were with and the items you ordered are all features of an
+10
+00:00:55,939 --> 00:01:03,800
+who you were with and the items you ordered are all features of an episodic memory.
 
-13
-00:01:02,817 --> 00:01:03,800
-episodic memory.
-
-14
+11
 00:01:03,800 --> 00:01:12,000
 Episodic memory is distinct from another type of memory called semantic memory.
 
+12
+00:01:12,000 --> 00:01:19,630
+This is the type of factual memory that we have in common with everyone else -
+
+13
+00:01:19,630 --> 00:01:23,700
+that is your general knowledge of the world.
+
+14
+00:01:23,700 --> 00:01:26,620
+To build upon a previous example
+
 15
-00:01:12,000 --> 00:01:19,122
-This is the type of factual memory that we have in common with everyone
+00:01:27,160 --> 00:01:33,850
+remembering where you parked your car is an example of episodic memory,
 
 16
-00:01:19,122 --> 00:01:23,700
-else - that is your general knowledge of the world.
+00:01:33,850 --> 00:01:37,880
+but your understanding of what a car is
 
 17
-00:01:23,700 --> 00:01:31,594
-To build upon a previous example, remembering where you parked your car is an
+00:01:37,880 --> 00:01:44,000
+and how an engine works are examples of semantic memory.
 
 18
-00:01:31,594 --> 00:01:33,850
-example of episodic memory,
-
-19
-00:01:33,850 --> 00:01:41,744
-but your understanding of what a car is and how an engine works are
-
-20
-00:01:41,744 --> 00:01:44,000
-examples of semantic memory.
-
-21
 00:01:44,000 --> 00:01:54,000
 Unlike episodic memory, semantic memory isn't dependent on recalling personal experiences.
 
+19
+00:01:54,000 --> 00:02:00,750
+Episodic memory can be thought of as a process
+
+20
+00:02:00,750 --> 00:02:09,000
+with several different steps of memory processing: encoding, consolidation and retrieval.
+
+21
+00:02:09,000 --> 00:02:12,680
+The initial step is called encoding
+
 22
-00:01:54,000 --> 00:02:04,500
-Episodic memory can be thought of as a process with several different steps of
-
-23
-00:02:04,500 --> 00:02:06,000
-memory processing:
-
-24
-00:02:06,000 --> 00:02:09,000
-encoding, consolidation and retrieval.
-
-25
-00:02:09,000 --> 00:02:12,857
-The initial step is called encoding.
-
-26
-00:02:12,857 --> 00:02:18,643
+00:02:14,020 --> 00:02:18,643
 This involves the process of receiving and registering information,
 
-27
+23
 00:02:18,643 --> 00:02:27,000
 which is necessary for creating memories of information or events that you experience.
 
-28
-00:02:27,000 --> 00:02:34,525
-The degree to which you can successfully encode information depends on the level of
+24
+00:02:27,000 --> 00:02:39,900
+The degree to which you can successfully encode information depends on the level of attention you give to an event while it's actually happening.
 
-29
-00:02:34,525 --> 00:02:39,900
-attention you give to an event while it's actually happening.
-
-30
+25
 00:02:39,900 --> 00:02:46,400
 Being distracted can make effective encoding very difficult.
 
-31
+26
 00:02:46,400 --> 00:02:55,000
 Encoding of episodic memories is also influenced by how you process the event.
 
-32
-00:02:55,000 --> 00:03:02,382
-For example, if you were introduced to someone called Charlie, you might make the
+27
+00:02:55,000 --> 00:03:00,273
+For example, if you were introduced to someone called Charlie,
 
-33
-00:03:02,382 --> 00:03:06,600
-connection that your uncle has the same name.
+28
+00:03:00,273 --> 00:03:06,600
+you might make the connection that your uncle has the same name.
 
-34
-00:03:06,600 --> 00:03:13,911
-Future recollection of Charlie's name is much easier if you have a strategy to
+29
+00:03:06,600 --> 00:03:11,540
+Future recollection of Charlie's name is much easier
 
-35
-00:03:13,911 --> 00:03:16,000
-help you encode it.
+30
+00:03:11,540 --> 00:03:16,000
+if you have a strategy to help you encode it.
 
-36
+31
 00:03:16,000 --> 00:03:25,200
 Memory consolidation, the next step in forming an episodic memory, is the process by
 
-37
-00:03:25,200 --> 00:03:34,400
-which memories of encoded information are strengthened, stabilised and stored to facilitate later retrieval.
+32
+00:03:25,200 --> 00:03:28,320
+which memories of encoded information are strengthened
 
-38
-00:03:34,400 --> 00:03:44,122
-Consolidation is most effective when the information being stored can be linked to an
+33
+00:03:29,100 --> 00:03:34,400
+stabilised and stored to facilitate later retrieval.
 
-39
-00:03:44,122 --> 00:03:46,900
-existing network of information.
+34
+00:03:34,400 --> 00:03:46,900
+Consolidation is most effective when the information being stored can be linked to an existing network of information.
 
-40
+35
 00:03:46,900 --> 00:03:55,100
 Consolidation makes it possible for you to store memories for later retrieval indefinitely.
 
-41
-00:03:55,100 --> 00:04:04,100
-Forming strong memories depends on the frequency with which you try to retrieve them.
+36
+00:03:55,100 --> 00:04:01,800
+Forming strong memories depends on the frequency with
 
-42
+37
+00:04:01,800 --> 00:04:04,100
+which you try to retrieve them.
+
+38
 00:04:04,100 --> 00:04:11,800
 Memories can fade or become harder to retrieve if they aren't used very often.
 
-43
+39
 00:04:11,800 --> 00:04:18,522
 The last step in forming episodic memories is called retrieval,
 
-44
+40
 00:04:18,522 --> 00:04:23,900
 which is the conscious recollection of encoded information.
 
-45
-00:04:23,900 --> 00:04:36,600
-Retrieving information from episodic memory depends upon semantic, olfactory, auditory and visual factors.
+41
+00:04:23,900 --> 00:04:31,540
+Retrieving information from episodic memory depends upon semantic
 
-46
+42
+00:04:32,080 --> 00:04:36,600
+olfactory, auditory and visual factors.
+
+43
 00:04:36,600 --> 00:04:43,600
 These help episodic memory retrieval by acting as a prompt.
 
-47
-00:04:43,600 --> 00:04:44,627
-For example,
+44
+00:04:43,600 --> 00:04:49,280
+For example, when recalling where you parked your car
 
-48
-00:04:44,627 --> 00:04:51,818
-when recalling where you parked your car you may use the colour of a
+45
+00:04:49,700 --> 00:04:54,900
+you may use the colour of a sign close to where you parked.
 
-49
-00:04:51,818 --> 00:04:54,900
-sign close to where you parked.
-
-50
+46
 00:04:54,900 --> 00:05:01,300
 You actually have to mentally travel back to the moment you parked.
 
-51
-00:05:01,300 --> 00:05:10,540
-There are a wide range of neurological diseases and conditions that can affect episodic
+47
+00:05:01,300 --> 00:05:06,360
+There are a wide range of neurological diseases
 
-52
-00:05:10,540 --> 00:05:11,200
-memory.
+48
+00:05:06,360 --> 00:05:11,200
+and conditions that can affect episodic memory.
 
-53
+49
 00:05:11,200 --> 00:05:18,200
 These range from Alzheimer's to schizophrenia to autism.
 
-54
+50
 00:05:18,200 --> 00:05:27,300
 An impairment of episodic memory can have a profound effect on individuals' lives.
 
+51
+00:05:27,300 --> 00:05:36,591
+For example, the symptoms of schizophrenia can be reasonably well controlled by medication; however,
+
+52
+00:05:36,591 --> 00:05:43,940
+patients' episodic memory may still be impaired and
+
+53
+00:05:43,940 --> 00:05:49,200
+so they are often unable to return to university or work.
+
+54
+00:05:49,200 --> 00:06:01,100
+Recent studies have shown that computer-assisted games designed to keep the brain active can help improve their episodic memory.
+
 55
-00:05:27,300 --> 00:05:37,100
-For example, the symptoms of schizophrenia can be reasonably well controlled by medication;
+00:06:01,100 --> 00:06:06,572
+Episodic memories can help people connect with others,
 
 56
-00:05:37,100 --> 00:05:47,990
-however, patients' episodic memory may still be impaired and so they are often unable to return to university
+00:06:06,572 --> 00:06:12,728
+for instance by sharing intimate details about their past:
 
 57
-00:05:47,990 --> 00:05:49,200
-or work.
-
-58
-00:05:49,200 --> 00:05:57,968
-Recent studies have shown that computer-assisted games designed to keep the brain active can
-
-59
-00:05:57,968 --> 00:06:01,100
-help improve their episodic memory.
-
-60
-00:06:01,100 --> 00:06:10,676
-Episodic memories can help people connect with others, for instance by sharing intimate details
-
-61
-00:06:10,676 --> 00:06:12,728
-about their past:
-
-62
 00:06:12,728 --> 00:06:18,200
 something individuals with autism often have problems with.
 
-63
+58
 00:06:18,200 --> 00:06:24,600
 This may be caused by an absence of a sense of self.
 
-64
+59
 00:06:24,600 --> 00:06:29,460
 This is essential for the storage of episodic memory,
 
-65
+60
 00:06:29,460 --> 00:06:35,400
 and has been found to be impaired in children with autism.
 
-66
-00:06:35,400 --> 00:06:44,422
-Research has shown that treatments that improve memory may also have a positive impact
-
-67
-00:06:44,422 --> 00:06:47,000
-on children's social development.
-
-68
-00:06:47,000 --> 00:06:49,000
-One study looked at a ...
+61
+00:06:35,400 --> 00:06:47,000
+Research has shown that treatments that improve memory may also have a positive impact on children's social development.

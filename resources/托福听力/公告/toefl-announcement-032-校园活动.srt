@@ -3,37 +3,33 @@
 Listen to an announcement on a campus radio station.
 
 2
-00:00:03,040 --> 00:00:03,181
-Man:
+00:00:03,040 --> 00:00:08,884
+Man: Tickets for this year's spring music extravaganza at Gladstone Auditorium are now available for purchase online
 
 3
-00:00:03,181 --> 00:00:09,463
-Tickets for this year's spring music extravaganza at Gladstone Auditorium are now available for purchase online
-
-4
-00:00:09,463 --> 00:00:11,290
+00:00:08,884 --> 00:00:11,290
 and at the student union box office.
 
+4
+00:00:11,290 --> 00:00:18,855
+As always, the event will feature a lineup of your fellow students performing music from various genres,
+
 5
-00:00:11,290 --> 00:00:16,767
-As always, the event will feature a lineup of your fellow students performing music
+00:00:18,855 --> 00:00:21,080
+including rock, jazz, and country.
 
 6
-00:00:16,767 --> 00:00:21,080
-from various genres, including rock, jazz, and country.
+00:00:21,080 --> 00:00:24,220
+This year features a special guest performer,
 
 7
-00:00:21,080 --> 00:00:26,759
-This year features a special guest performer, internationally renowned cellist Ben Bernal,
+00:00:24,220 --> 00:00:26,700
+internationally renowned cellist Ben Bernal
 
 8
-00:00:26,759 --> 00:00:30,050
+00:00:27,100 --> 00:00:30,050
 who graduated from our university twenty years ago.
 
 9
-00:00:30,050 --> 00:00:32,750
-Tickets are expected to sell out quickly,
-
-10
-00:00:32,750 --> 00:00:34,200
-so make sure to get yours today.
+00:00:30,050 --> 00:00:34,200
+Tickets are expected to sell out quickly, so make sure to get yours today.

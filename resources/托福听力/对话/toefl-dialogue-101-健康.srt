@@ -1,67 +1,31 @@
 1
-00:00:00,000 --> 00:00:00,563
-Man:
+00:00:00,000 --> 00:00:07,060
+Man: Hey Susan, are you planning to hit the gym later today?
 
 2
-00:00:00,563 --> 00:00:07,060
-Hey Susan, are you planning to hit the gym later today?
+00:00:07,060 --> 00:00:10,240
+Woman: I am. But only after I wrap up the quarterly report.
 
 3
-00:00:07,060 --> 00:00:07,485
-Woman:
+00:00:10,240 --> 00:00:16,160
+It's taking longer than expected, so I'll probably head over in the evening. I usually go earlier.
 
 4
-00:00:07,485 --> 00:00:07,789
-I am.
+00:00:16,160 --> 00:00:19,040
+Man: I've been thinking about getting back into a routine myself.
 
 5
-00:00:07,789 --> 00:00:10,240
-But only after I wrap up the quarterly report.
+00:00:19,040 --> 00:00:23,080
+It's been weeks since I last worked out. I could use a bit of motivation.
 
 6
-00:00:10,240 --> 00:00:11,981
-It's taking longer than expected,
+00:00:23,080 --> 00:00:26,602
+Woman: Well, if you're up for it, we could do a session together.
 
 7
-00:00:11,981 --> 00:00:14,767
-so I'll probably head over in the evening.
-
-8
-00:00:14,767 --> 00:00:16,160
-I usually go earlier.
-
-9
-00:00:16,160 --> 00:00:16,422
-Man:
-
-10
-00:00:16,422 --> 00:00:19,040
-I've been thinking about getting back into a routine myself.
-
-11
-00:00:19,040 --> 00:00:21,195
-It's been weeks since I last worked out.
-
-12
-00:00:21,195 --> 00:00:23,080
-I could use a bit of motivation.
-
-13
-00:00:23,080 --> 00:00:23,351
-Woman:
-
-14
-00:00:23,351 --> 00:00:26,602
-Well, if you're up for it, we could do a session together.
-
-15
 00:00:26,602 --> 00:00:29,040
 I was planning to focus on strength training today.
 
-16
-00:00:29,040 --> 00:00:29,337
-Man:
-
-17
-00:00:29,337 --> 00:00:31,120
-That sounds like a good idea.
+8
+00:00:29,040 --> 00:00:31,120
+Man: That sounds like a good idea.

@@ -1,407 +1,275 @@
 1
-00:00:00,000 --> 00:00:00,887
-Good morning.
+00:00:00,000 --> 00:00:03,610
+Good morning. Total Insurance. Judy speaking, how may I help you?
 
 2
-00:00:00,887 --> 00:00:01,313
-Total Insurance.
-
-3
-00:00:01,313 --> 00:00:03,610
-Judy speaking, how may I help you?
-
-4
 00:00:03,610 --> 00:00:07,836
 I recently shipped my belongings from overseas back here to Australia
 
-5
+3
 00:00:07,836 --> 00:00:10,910
 and I took out insurance with your company.
 
-6
+4
 00:00:10,910 --> 00:00:15,230
 Some items were damaged during the move so I need to make a claim.
 
-7
+5
 00:00:15,230 --> 00:00:16,330
 What do I have to do?
 
-8
+6
 00:00:16,330 --> 00:00:20,250
 Okay, well first I need to get a few details about this.
 
-9
+7
 00:00:20,250 --> 00:00:22,420
 Can you give me your name please?
 
+8
+00:00:22,420 --> 00:00:25,110
+Yes. It's Michael Alexander.
+
+9
+00:00:25,110 --> 00:00:28,060
+Okay. And your address please?
+
 10
-00:00:22,420 --> 00:00:23,092
-Yes.
-
-11
-00:00:23,092 --> 00:00:25,110
-It's Michael Alexander.
-
-12
-00:00:25,110 --> 00:00:25,700
-Okay.
-
-13
-00:00:25,700 --> 00:00:28,060
-And your address please?
-
-14
 00:00:28,060 --> 00:00:30,560
 My old address or my current one?
 
-15
+11
 00:00:30,560 --> 00:00:31,670
 Your current one.
 
-16
+12
 00:00:31,670 --> 00:00:36,610
 It's 24 Manly Street, Milperra near Sydney.
 
-17
+13
 00:00:36,610 --> 00:00:38,550
 What was the suburb, sorry?
 
-18
-00:00:38,550 --> 00:00:41,485
-Milperra.
+14
+00:00:38,550 --> 00:00:44,420
+Milperra. M. I-L-P-E-R-R-A.
 
-19
-00:00:41,485 --> 00:00:44,420
-M-I-L-P-E-R-R-A.
+15
+00:00:44,420 --> 00:00:48,460
+Right. Now, who was the shipping agent Mr Alexander?
 
-20
-00:00:44,420 --> 00:00:44,869
-Right.
-
-21
-00:00:44,869 --> 00:00:45,318
-Now,
-
-22
-00:00:45,318 --> 00:00:48,460
-who was the shipping agent Mr Alexander?
-
-23
+16
 00:00:48,460 --> 00:00:51,200
 You mean the company we used?
 
-24
+17
 00:00:51,200 --> 00:00:54,800
 Yes, the company who packed everything up at the point of origin.
 
-25
-00:00:54,800 --> 00:00:57,611
-Oh, it was.., er...
+18
+00:00:54,800 --> 00:00:59,720
+Oh, it was, er... First Class Movers.
 
-26
-00:00:57,611 --> 00:00:59,720
-First Class Movers.
+19
+00:00:59,720 --> 00:01:03,860
+Okay... where were the goods shipped from?
 
-27
-00:00:59,720 --> 00:01:00,311
-Okay...
+20
+00:01:03,860 --> 00:01:09,640
+China, but the ship came via Singapore and was there for about a week.
 
-28
-00:01:00,311 --> 00:01:03,860
-where were the goods shipped from?
-
-29
-00:01:03,860 --> 00:01:04,273
-China,
-
-30
-00:01:04,273 --> 00:01:09,640
-but the ship came via Singapore and was there for about a week.
-
-31
+21
 00:01:09,640 --> 00:01:13,330
 Don't worry, all of that information will be in the documentation.
 
-32
-00:01:13,330 --> 00:01:14,482
-Now, the dates.
+22
+00:01:13,330 --> 00:01:17,170
+Now, the dates. Do you know when the ship arrived?
 
-33
-00:01:14,482 --> 00:01:17,170
-Do you know when the ship arrived?
+23
+00:01:17,170 --> 00:01:22,490
+It left on the 11th of October and got to Sydney on the 28th of November.
 
-34
-00:01:17,170 --> 00:01:21,825
-It left on the 1lth of October and got to Sydney on the 28th
+24
+00:01:22,490 --> 00:01:27,220
+Okay. I need one more thing. There's a reference number.
 
-35
-00:01:21,825 --> 00:01:22,490
-of November.
+25
+00:01:27,220 --> 00:01:31,470
+It should be in the top right-hand corner of the pink form they gave you.
 
-36
-00:01:22,490 --> 00:01:22,963
-Okay.
+26
+00:01:31,470 --> 00:01:41,940
+Let me have a look. I have so many papers. Yes, here it is. It's 601 ACK.
 
-37
-00:01:22,963 --> 00:01:25,328
-I need one more thing.
-
-38
-00:01:25,328 --> 00:01:27,220
-There's a reference number.
-
-39
-00:01:27,220 --> 00:01:31,187
-It should be in the top right-hand corner of the pink form they gave
-
-40
-00:01:31,187 --> 00:01:31,470
-you.
-
-41
-00:01:31,470 --> 00:01:34,549
-Let me have a look.
-
-42
-00:01:34,549 --> 00:01:37,629
-I have so many papers.
-
-43
-00:01:37,629 --> 00:01:40,092
-Yes, here it is.
-
-44
-00:01:40,092 --> 00:01:41,940
-It's 601 ACK.
-
-45
+27
 00:01:41,940 --> 00:01:42,710
 Thanks.
 
-46
-00:01:42,710 --> 00:01:47,012
-I need to take down a few details of the actual damage over the
+28
+00:01:42,710 --> 00:01:49,470
+I need to take down a few details of the actual damage over the phone before you put in a full report.
 
-47
-00:01:47,012 --> 00:01:49,470
-phone before you put in a full report.
-
-48
+29
 00:01:49,470 --> 00:01:53,460
 Can you tell me how many items were damaged and what the damage was?
 
-49
-00:01:53,460 --> 00:01:55,433
-Yes, well four things actually.
+30
+00:01:53,460 --> 00:01:57,800
+Yes, well four things actually. I'll start with the big things.
 
-50
-00:01:55,433 --> 00:01:57,800
-I'll start with the big things.
-
-51
+31
 00:01:57,800 --> 00:02:02,370
-My TV first of all.It's a large one.., very expensive.
+My TV first of all. It's a large one, very expensive.
 
-52
+32
 00:02:02,370 --> 00:02:05,320
 Our insurance doesn't cover electrical problems.
 
-53
+33
 00:02:05,320 --> 00:02:07,040
 It isn't an electrical problem.
 
-54
+34
 00:02:07,040 --> 00:02:10,070
 The screen has a huge crack in it so it's unusable.
 
-55
-00:02:10,070 --> 00:02:10,870
-I see.
+35
+00:02:10,070 --> 00:02:14,070
+I see. Any idea of the price to repair it?
 
-56
-00:02:10,870 --> 00:02:14,070
-Any idea of the price to repair it?
+36
+00:02:14,070 --> 00:02:18,470
+No. Well, I don't think it can be repaired. It will need a new one.
 
-57
-00:02:14,070 --> 00:02:14,363
-No.
+37
+00:02:18,470 --> 00:02:22,340
+Okay. I'll make a note of that and we'll see what we can do
 
-58
-00:02:14,363 --> 00:02:16,710
-Well, I don't think it can be repaired.
-
-59
-00:02:16,710 --> 00:02:18,470
-It will need a new one.
-
-60
-00:02:18,470 --> 00:02:18,780
-Okay.
-
-61
-00:02:18,780 --> 00:02:22,810
-I'll make a note of that and we'll see what we can do.
-
-62
-00:02:22,810 --> 00:02:24,670
+38
+00:02:22,820 --> 00:02:24,670
 Now, what was the second item?
 
-63
+39
 00:02:24,670 --> 00:02:28,490
 The cabinet from the bathroom was damaged as well.
 
-64
+40
 00:02:28,490 --> 00:02:31,650
 It's a lovely cabinet, we use it to keep our towels in.
 
-65
+41
 00:02:31,650 --> 00:02:33,700
 And what is the extent of the damage?
 
-66
-00:02:33,700 --> 00:02:37,999
-Well, the back and the sides seem okay but the door has a huge
+42
+00:02:33,700 --> 00:02:38,920
+Well, the back and the sides seem okay but the door has a huge hole in it.
 
-67
-00:02:37,999 --> 00:02:38,920
-hole in it.
+43
+00:02:38,920 --> 00:02:42,460
+It can't be repaired. I'm really not very happy about it.
 
-68
-00:02:38,920 --> 00:02:40,207
-It can't be repaired.
-
-69
-00:02:40,207 --> 00:02:42,460
-I'm really not very happy about it.
-
-70
+44
 00:02:42,460 --> 00:02:44,840
 And how much do you think it will cost to replace it?
 
-71
-00:02:44,840 --> 00:02:45,295
-Well,
+45
+00:02:44,840 --> 00:02:50,300
+Well, when I bought it last year I paid $125 for it.
 
-72
-00:02:45,295 --> 00:02:50,300
-when I bought it last year I paid $125 for it.
+46
+00:02:50,300 --> 00:02:56,550
+But the one I've seen here in Sydney is a bit more expensive, it's $140.
 
-73
-00:02:50,300 --> 00:02:56,133
-But the one I've seen here in Sydney is a bit more expensive, it's
+47
+00:02:56,550 --> 00:02:58,760
+Right, and what was the third item?
 
-74
-00:02:56,133 --> 00:02:56,550
-$140.
+48
+00:02:58,760 --> 00:03:03,300
+My dining room table. It's a lovely table from Indonesia.
 
-75
-00:02:56,550 --> 00:02:56,866
-Right,
+49
+00:03:03,300 --> 00:03:06,280
+It must have been very hot inside the container
 
-76
-00:02:56,866 --> 00:02:58,760
-and what was the third item?
+50
+00:03:06,280 --> 00:03:09,700
+because one leg has completely split down the middle.
 
-77
-00:02:58,760 --> 00:03:00,576
-My dining room table.
+51
+00:03:09,700 --> 00:03:13,600
+The top and the other three look okay thank goodness
 
-78
-00:03:00,576 --> 00:03:03,300
-It's a lovely table from Indonesia.
-
-79
-00:03:03,300 --> 00:03:08,278
-It must have been very hot inside the container because one leg has completely
-
-80
-00:03:08,278 --> 00:03:09,700
-split down the middle.
-
-81
-00:03:09,700 --> 00:03:13,760
-The top and the other three look okay thank goodness,
-
-82
-00:03:13,760 --> 00:03:15,930
+52
+00:03:13,600 --> 00:03:15,930
 Any idea of the price to repair it?
 
-83
-00:03:15,930 --> 00:03:19,951
-Well, I had an estimate done on this actually because it is a very
+53
+00:03:15,930 --> 00:03:18,740
+Well, I had an estimate done on this actually
 
-84
-00:03:19,951 --> 00:03:21,100
-special table to us.
+54
+00:03:18,740 --> 00:03:21,100
+because it is a very special table to us.
 
-85
-00:03:21,100 --> 00:03:22,756
-They quoted us $200,
+55
+00:03:21,100 --> 00:03:25,860
+They quoted us $200, which is really pricey
 
-86
-00:03:22,756 --> 00:03:28,550
-which is really pricey so I hope the insurance will cover the total cost.
+56
+00:03:25,860 --> 00:03:28,550
+so I hope the insurance will cover the total cost.
 
-87
-00:03:28,550 --> 00:03:30,475
-I'm sure that will be fine.
+57
+00:03:28,550 --> 00:03:32,720
+I'm sure that will be fine. What was the last item, Mr Alexander?
 
-88
-00:03:30,475 --> 00:03:32,720
-What was the last item, Mr Alexander?
+58
+00:03:32,720 --> 00:03:37,080
+Well, we have a lovely set of china plates and dishes
 
-89
-00:03:32,720 --> 00:03:37,804
-Well, we have a lovely set of china plates and dishes, you know, with
+59
+00:03:37,220 --> 00:03:39,620
+you know, with matching cups, saucers, the lot.
 
-90
-00:03:37,804 --> 00:03:39,620
-matching cups, saucers, the lot.
-
-91
-00:03:39,620 --> 00:03:44,028
+60
+00:03:39,620 --> 00:03:43,420
 They were all in the one box which must have got dropped
 
-92
-00:03:44,028 --> 00:03:46,600
+61
+00:03:43,420 --> 00:03:46,600
 because some plates were broken - six actually.
 
-93
+62
 00:03:46,600 --> 00:03:49,350
 And can you tell me the replacement value of these?
 
-94
-00:03:49,350 --> 00:03:52,484
-Well, it's hard to say because they were part of a set
+63
+00:03:49,350 --> 00:03:50,656
+Well, it's hard to say
 
-95
-00:03:52,484 --> 00:03:56,140
+64
+00:03:50,656 --> 00:03:52,320
+because they were part of a set
+
+65
+00:03:52,860 --> 00:03:56,140
 but they can be up to $10 each as it's such a good set.
 
-96
-00:03:56,140 --> 00:03:56,560
-Okay,
+66
+00:03:56,140 --> 00:03:59,500
+Okay, so that would be around $60 altogether?
 
-97
-00:03:56,560 --> 00:03:59,500
-so that would be around $60 altogether?
+67
+00:03:59,500 --> 00:04:00,760
+Yes, that's right.
 
-98
-00:03:59,500 --> 00:03:59,920
-Yes,
-
-99
-00:03:59,920 --> 00:04:00,760
-that's right.
-
-100
+68
 00:04:00,760 --> 00:04:02,700
 And is that all of the items?
 
-101
-00:04:02,700 --> 00:04:03,076
-Yes.
-
-102
-00:04:03,076 --> 00:04:06,080
-So what do I have to do now?
+69
+00:04:02,700 --> 00:04:06,080
+Yes. So what do I have to do now?

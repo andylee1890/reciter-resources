@@ -1,675 +1,331 @@
 1
-00:00:00,000 --> 00:00:00,383
-Kaeden:
+00:00:00,000 --> 00:00:05,460
+Kaeden: Hello Charlotte. I'm Kaeden, one of the supervisors. Welcome to the team.
 
 2
-00:00:00,383 --> 00:00:01,209
-Hello Charlotte.
+00:00:05,460 --> 00:00:07,010
+Charlotte: Hi Aiden.
 
 3
-00:00:01,209 --> 00:00:03,900
-I’m Kaeden, one of the supervisors.
+00:00:07,010 --> 00:00:08,190
+Kaeden: It's Kaeden.
 
 4
-00:00:03,900 --> 00:00:05,460
-Welcome to the team.
+00:00:08,190 --> 00:00:09,870
+Charlotte: I'm so sorry.
 
 5
-00:00:05,460 --> 00:00:05,977
-Charlotte:
+00:00:09,870 --> 00:00:12,200
+Kaeden: Don't worry. People often get my name wrong
 
 6
-00:00:05,977 --> 00:00:07,010
-Hi Aiden.
-
-7
-00:00:07,010 --> 00:00:07,305
-Kaeden:
-
-8
-00:00:07,305 --> 00:00:08,190
-It’s Kaeden.
-
-9
-00:00:08,190 --> 00:00:08,526
-Charlotte:
-
-10
-00:00:08,526 --> 00:00:09,870
-I’m so sorry.
-
-11
-00:00:09,870 --> 00:00:10,286
-Kaeden:
-
-12
-00:00:10,286 --> 00:00:11,536
-Don’t worry.
-
-13
-00:00:11,536 --> 00:00:14,034
-People often get my name wrong;
-
-14
-00:00:14,034 --> 00:00:16,949
+00:00:13,000 --> 00:00:16,949
 they never know how to spell it.
 
-15
+7
 00:00:16,949 --> 00:00:21,530
-It’s K-A-E-D-E-N, in case you ever need to write it.
+It's K-A-E-D-E-N, in case you ever need to write it.
+
+8
+00:00:21,530 --> 00:00:23,700
+Charlotte: I'll try and remember.
+
+9
+00:00:23,700 --> 00:00:28,033
+Kaeden: So, there are a few practical things you need to sort out this morning.
+
+10
+00:00:28,033 --> 00:00:31,500
+Then I'll show you what you're going to do today.
+
+11
+00:00:31,500 --> 00:00:35,617
+Charlotte: The email I received said to go to the front desk,
+
+12
+00:00:35,617 --> 00:00:39,390
+to show my letter of appointment and pick up my badge.
+
+13
+00:00:39,390 --> 00:00:45,050
+Kaeden: You'll need that for the staffroom and other areas of the supermarket where shoppers aren't allowed.
+
+14
+00:00:45,050 --> 00:00:50,490
+Kaeden: So, after you've finished at the front desk, I'll take you to the staffroom.
+
+15
+00:00:50,490 --> 00:00:55,610
+Put your coat and rucksack in one of the lockers there. Take whichever one is free.
 
 16
-00:00:21,530 --> 00:00:21,892
-Charlotte:
+00:00:55,610 --> 00:00:57,620
+Charlotte: Will I have a key?
 
 17
-00:00:21,892 --> 00:00:23,700
-I’ll try and remember.
+00:00:57,620 --> 00:01:01,240
+Kaeden: Yes. Try not to lose it. At the end of the day
 
 18
-00:00:23,700 --> 00:00:23,989
-Kaeden:
+00:01:01,420 --> 00:01:04,080
+leave it in the door for the next person to use.
 
 19
-00:00:23,989 --> 00:00:28,033
-So, there are a few practical things you need to sort out this morning.
+00:01:04,080 --> 00:01:05,370
+Charlotte: Will do.
 
 20
-00:00:28,033 --> 00:00:31,500
-Then I’ll show you what you’re going to do today.
+00:01:05,370 --> 00:01:10,510
+Kaeden: You also need to go to the HR department to see Tiffany. She's really helpful.
 
 21
-00:00:31,500 --> 00:00:31,843
-Charlotte:
+00:01:10,510 --> 00:01:13,680
+Charlotte: I was told to bring my passport with me
 
 22
-00:00:31,843 --> 00:00:37,675
-The email I received said to go to the front desk, to show my letter of appointment
-
-23
-00:00:37,675 --> 00:00:39,390
-and pick up my badge.
-
-24
-00:00:39,390 --> 00:00:39,688
-Kaeden:
-
-25
-00:00:39,688 --> 00:00:44,156
-You’ll need that for the staffroom and other areas of the supermarket where shoppers
-
-26
-00:00:44,156 --> 00:00:45,050
-aren’t allowed.
-
-27
-00:00:45,050 --> 00:00:45,370
-Kaeden:
-
-28
-00:00:45,370 --> 00:00:50,170
-So, after you’ve finished at the front desk, I’ll take you to the
-
-29
-00:00:50,170 --> 00:00:50,490
-staffroom.
-
-30
-00:00:50,490 --> 00:00:54,010
-Put your coat and rucksack in one of the lockers there.
-
-31
-00:00:54,010 --> 00:00:55,610
-Take whichever one is free.
-
-32
-00:00:55,610 --> 00:00:55,945
-Charlotte:
-
-33
-00:00:55,945 --> 00:00:57,620
-Will I have a key?
-
-34
-00:00:57,620 --> 00:00:57,889
-Kaeden:
-
-35
-00:00:57,889 --> 00:00:58,158
-Yes.
-
-36
-00:00:58,158 --> 00:00:59,504
-Try not to lose it.
-
-37
-00:00:59,504 --> 00:01:03,272
-At the end of the day, leave it in the door for the next
-
-38
-00:01:03,272 --> 00:01:04,080
-person to use.
-
-39
-00:01:04,080 --> 00:01:04,510
-Charlotte:
-
-40
-00:01:04,510 --> 00:01:05,370
-Will do.
-
-41
-00:01:05,370 --> 00:01:05,672
-Kaeden:
-
-42
-00:01:05,672 --> 00:01:09,301
-You also need to go to the HR department to see Tiffany.
-
-43
-00:01:09,301 --> 00:01:10,510
-She’s really helpful.
-
-44
-00:01:10,510 --> 00:01:10,824
-Charlotte:
-
-45
-00:01:10,824 --> 00:01:13,653
-I was told to bring my passport with me.
-
-46
-00:01:13,653 --> 00:01:17,110
+00:01:14,080 --> 00:01:17,110
 HR need to take a note of the number in it.
 
-47
-00:01:17,110 --> 00:01:17,360
-Kaeden:
+23
+00:01:17,110 --> 00:01:19,860
+Kaeden: That's right. Or you can show your ID card.
 
-48
-00:01:17,360 --> 00:01:18,110
-That’s right.
+24
+00:01:19,860 --> 00:01:21,620
+Charlotte: I don't have one of those.
 
-49
-00:01:18,110 --> 00:01:19,860
-Or you can show your ID card.
+25
+00:01:21,620 --> 00:01:24,355
+Kaeden: OK. Tiffany will give you a uniform.
 
-50
-00:01:19,860 --> 00:01:20,080
-Charlotte:
+26
+00:01:24,355 --> 00:01:29,140
+They have lots in different sizes, so you just tell her what you need.
 
-51
-00:01:20,080 --> 00:01:21,620
-I don’t have one of those.
+27
+00:01:29,140 --> 00:01:32,920
+Kaeden: I won't come with you to HR - I've got to go and sort something else out
 
-52
-00:01:21,620 --> 00:01:21,962
-Kaeden:
-
-53
-00:01:21,962 --> 00:01:22,304
-OK.
-
-54
-00:01:22,304 --> 00:01:24,355
-Tiffany will give you a uniform.
-
-55
-00:01:24,355 --> 00:01:26,405
-They have lots in different sizes,
-
-56
-00:01:26,405 --> 00:01:29,140
-so you just tell her what you need.
-
-57
-00:01:29,140 --> 00:01:29,410
-Kaeden:
-
-58
-00:01:29,410 --> 00:01:32,914
-I won’t come with you to HR – I’ve got to go
-
-59
-00:01:32,914 --> 00:01:34,262
-and sort something else out.
-
-60
-00:01:34,262 --> 00:01:35,610
+28
+00:01:33,640 --> 00:01:35,610
 Problem with a bread slicer.
 
-61
-00:01:35,610 --> 00:01:36,031
-Charlotte:
+29
+00:01:35,610 --> 00:01:38,980
+Charlotte: Is the HR office near the staffroom?
 
-62
-00:01:36,031 --> 00:01:38,980
-Is the HR office near the staffroom?
+30
+00:01:38,980 --> 00:01:40,680
+Kaeden: The staffroom's on the first floor
 
-63
-00:01:38,980 --> 00:01:39,275
-Kaeden:
-
-64
-00:01:39,275 --> 00:01:41,337
-The staffroom’s on the first floor,
-
-65
-00:01:41,337 --> 00:01:45,167
+31
+00:01:40,680 --> 00:01:45,168
 and HR are a couple of floors above that, on the third floor.
 
-66
-00:01:45,167 --> 00:01:47,230
-There’s a staircase outside the staffroom.
+32
+00:01:45,168 --> 00:01:47,230
+There's a staircase outside the staffroom.
 
-67
-00:01:47,230 --> 00:01:47,870
-Charlotte:
+33
+00:01:47,230 --> 00:01:48,510
+Charlotte: OK.
 
-68
-00:01:47,870 --> 00:01:48,510
-OK.
+34
+00:01:48,510 --> 00:01:49,760
+Kaeden: When you've finished with HR
 
-69
-00:01:48,510 --> 00:01:48,759
-Kaeden:
+35
+00:01:49,880 --> 00:01:52,990
+come and find me in the bakery section of the shop.
 
-70
-00:01:48,759 --> 00:01:52,492
-When you’ve finished with HR, come and find me in the bakery section of
+36
+00:01:52,990 --> 00:01:55,520
+Charlotte: I'm looking forward to getting started.
 
-71
-00:01:52,492 --> 00:01:52,990
-the shop.
+37
+00:01:55,520 --> 00:01:59,120
+Kaeden: I'll just give you my phone number, in case you can't find me
 
-72
-00:01:52,990 --> 00:01:53,306
-Charlotte:
-
-73
-00:01:53,306 --> 00:01:55,520
-I’m looking forward to getting started.
-
-74
-00:01:55,520 --> 00:01:55,780
-Kaeden:
-
-75
-00:01:55,780 --> 00:01:59,420
-I’ll just give you my phone number, in case you can’t find
-
-76
-00:01:59,420 --> 00:01:59,680
-me.
-
-77
-00:01:59,680 --> 00:02:01,240
+38
+00:01:59,720 --> 00:02:01,240
 Have you got your phone there?
 
-78
-00:02:01,240 --> 00:02:02,202
-Charlotte:
+39
+00:02:01,240 --> 00:02:05,090
+Charlotte: Yes... OK, ready.
 
-79
-00:02:02,202 --> 00:02:03,165
-Yes .
+40
+00:02:05,090 --> 00:02:12,550
+Kaeden: It's oh-four-one-two double-six-five nine-oh-three.
 
-80
-00:02:03,165 --> 00:02:03,215
-.
+41
+00:02:12,550 --> 00:02:14,890
+Charlotte: OK, done.
 
-81
-00:02:03,215 --> 00:02:03,265
-.
+42
+00:02:14,890 --> 00:02:19,590
+Kaeden: So, Charlotte, your tasks today are in the bakery section,
 
-82
-00:02:03,265 --> 00:02:05,090
-OK, ready.
+43
+00:02:19,590 --> 00:02:24,290
+on the sushi counter, and on the meat and fish counters.
 
-83
-00:02:05,090 --> 00:02:06,333
-Kaeden:
+44
+00:02:24,290 --> 00:02:28,303
+Kaeden: The first job is to check sell-by dates on the bread and cakes.
 
-84
-00:02:06,333 --> 00:02:12,550
-It’s oh-four-one-two double-six-five nine-oh-three.
+45
+00:02:28,303 --> 00:02:32,890
+If any of the dates are today's, put a new price label on the packaging.
 
-85
-00:02:12,550 --> 00:02:13,330
-Charlotte:
+46
+00:02:32,890 --> 00:02:37,380
+Charlotte: What if any of the labels are yesterday's dates, or older
 
-86
-00:02:13,330 --> 00:02:14,890
-OK, done.
-
-87
-00:02:14,890 --> 00:02:15,317
-Kaeden:
-
-88
-00:02:15,317 --> 00:02:21,299
-So, Charlotte, your tasks today are in the bakery section, on the sushi counter,
-
-89
-00:02:21,299 --> 00:02:24,290
-and on the meat and fish counters.
-
-90
-00:02:24,290 --> 00:02:24,577
-Kaeden:
-
-91
-00:02:24,577 --> 00:02:28,303
-The first job is to check sell-by dates on the bread and cakes.
-
-92
-00:02:28,303 --> 00:02:32,603
-If any of the dates are today’s, put a new price label on the
-
-93
-00:02:32,603 --> 00:02:32,890
-packaging.
-
-94
-00:02:32,890 --> 00:02:33,274
-Charlotte:
-
-95
-00:02:33,274 --> 00:02:37,111
-What if any of the labels are yesterday’s dates,
-
-96
-00:02:37,111 --> 00:02:37,878
-or older?
-
-97
-00:02:37,878 --> 00:02:40,180
+47
+00:02:37,720 --> 00:02:40,180
 Do I throw those items away?
 
-98
-00:02:40,180 --> 00:02:40,470
-Kaeden:
+48
+00:02:40,180 --> 00:02:43,946
+Kaeden: Yes, but that shouldn't happen - we check the stock every day.
 
-99
-00:02:40,470 --> 00:02:40,759
-Yes,
+49
+00:02:43,946 --> 00:02:45,800
+When something needs a new price label
 
-100
-00:02:40,759 --> 00:02:43,946
-but that shouldn’t happen – we check the stock every day.
+50
+00:02:46,240 --> 00:02:49,450
+put a yellow one on the package, next to the original price.
 
-101
-00:02:43,946 --> 00:02:48,002
-When something needs a new price label, put a yellow one on the package,
+51
+00:02:49,450 --> 00:02:50,600
+Charlotte: OK.
 
-102
-00:02:48,002 --> 00:02:49,450
-next to the original price.
+52
+00:02:50,600 --> 00:02:54,490
+Kaeden: After that, you'll go to the sushi takeaway counter.
 
-103
-00:02:49,450 --> 00:02:50,025
-Charlotte:
+53
+00:02:54,490 --> 00:02:57,110
+Charlotte: Will I be preparing boxes of food?
 
-104
-00:02:50,025 --> 00:02:50,600
-OK.
+54
+00:02:57,110 --> 00:03:00,040
+Kaeden: For today, you'll just be helping the staff.
 
-105
-00:02:50,600 --> 00:02:50,954
-Kaeden:
+55
+00:03:00,040 --> 00:03:01,580
+Charlotte: Yes, of course.
 
-106
-00:02:50,954 --> 00:02:54,490
-After that, you’ll go to the sushi takeaway counter.
+56
+00:03:01,580 --> 00:03:05,590
+Kaeden: You'll see lots of flat cardboard boxes at one end of the counter.
 
-107
-00:02:54,490 --> 00:02:54,818
-Charlotte:
+57
+00:03:05,590 --> 00:03:08,730
+Kaeden: Beneath those is where we keep the plastic boxes -
 
-108
-00:02:54,818 --> 00:02:57,110
-Will I be preparing boxes of food?
+58
+00:03:08,730 --> 00:03:13,440
+we run out of those really quickly, so you should bring more from the storeroom.
 
-109
-00:02:57,110 --> 00:02:57,403
-Kaeden:
+59
+00:03:13,440 --> 00:03:16,720
+Charlotte: Is that my only task on the sushi counter?
 
-110
-00:02:57,403 --> 00:03:00,040
-For today, you’ll just be helping the staff.
+60
+00:03:16,720 --> 00:03:20,712
+Kaeden: No. You also need to clean the area where they prepare the dishes.
 
-111
-00:03:00,040 --> 00:03:00,425
-Charlotte:
+61
+00:03:20,712 --> 00:03:22,940
+There are cloths and bottles of spray by the sink
 
-112
-00:03:00,425 --> 00:03:01,580
-Yes, of course.
+62
+00:03:23,640 --> 00:03:26,130
+Oh, and please make sure you clean that too.
 
-113
-00:03:01,580 --> 00:03:01,847
-Kaeden:
+63
+00:03:26,130 --> 00:03:28,820
+Charlotte: Sure. That's important, isn't it?
 
-114
-00:03:01,847 --> 00:03:05,590
-You’ll see lots of flat cardboard boxes at one end of the counter.
+64
+00:03:28,820 --> 00:03:31,489
+Kaeden: Absolutely. But you mustn't wash up knives.
 
-115
-00:03:05,590 --> 00:03:05,904
-Kaeden:
-
-116
-00:03:05,904 --> 00:03:09,986
-Beneath those is where we keep the plastic boxes – we run out of
-
-117
-00:03:09,986 --> 00:03:10,928
-those really quickly,
-
-118
-00:03:10,928 --> 00:03:13,440
-so you should bring more from the storeroom.
-
-119
-00:03:13,440 --> 00:03:13,768
-Charlotte:
-
-120
-00:03:13,768 --> 00:03:16,720
-Is that my only task on the sushi counter?
-
-121
-00:03:16,720 --> 00:03:17,005
-Kaeden:
-
-122
-00:03:17,005 --> 00:03:17,290
-No.
-
-123
-00:03:17,290 --> 00:03:20,712
-You also need to clean the area where they prepare the dishes.
-
-124
-00:03:20,712 --> 00:03:23,564
-There are cloths and bottles of spray by the sink.
-
-125
-00:03:23,564 --> 00:03:23,849
-Oh,
-
-126
-00:03:23,849 --> 00:03:26,130
-and please make sure you clean that too.
-
-127
-00:03:26,130 --> 00:03:26,466
-Charlotte:
-
-128
-00:03:26,466 --> 00:03:26,802
-Sure.
-
-129
-00:03:26,802 --> 00:03:28,820
-That’s important, isn’t it?
-
-130
-00:03:28,820 --> 00:03:29,117
-Kaeden:
-
-131
-00:03:29,117 --> 00:03:29,413
-Absolutely.
-
-132
-00:03:29,413 --> 00:03:31,489
-But you mustn’t wash up knives.
-
-133
+65
 00:03:31,489 --> 00:03:35,640
-You have to do some training before you’re allowed to touch sharp objects.
+You have to do some training before you're allowed to touch sharp objects.
 
-134
-00:03:35,640 --> 00:03:35,923
-Charlotte:
+66
+00:03:35,640 --> 00:03:38,190
+Charlotte: What should I do if there are any?
 
-135
-00:03:35,923 --> 00:03:38,190
-What should I do if there are any?
+67
+00:03:38,190 --> 00:03:40,210
+Kaeden: Ask someone to put them in the dishwasher.
 
-136
-00:03:38,190 --> 00:03:38,414
-Kaeden:
+68
+00:03:40,210 --> 00:03:43,670
+Charlotte: OK, thanks. I don't want to get anything wrong.
 
-137
-00:03:38,414 --> 00:03:40,210
-Ask someone to put them in the dishwasher.
+69
+00:03:43,670 --> 00:03:46,720
+Kaeden: Don't worry. You'll be fine. And I'll be around to help.
 
-138
-00:03:40,210 --> 00:03:40,525
-Charlotte:
+70
+00:03:46,720 --> 00:03:47,750
+Charlotte: Right.
 
-139
-00:03:40,525 --> 00:03:41,154
-OK, thanks.
+71
+00:03:47,750 --> 00:03:50,432
+Kaeden: Finally, the meat and fish counters.
 
-140
-00:03:41,154 --> 00:03:43,670
-I don’t want to get anything wrong.
+72
+00:03:50,432 --> 00:03:53,880
+You need to clean the area where staff serve customers
 
-141
-00:03:43,670 --> 00:03:43,873
-Kaeden:
+73
+00:03:54,240 --> 00:03:56,180
+including wiping the weighing scales.
 
-142
-00:03:43,873 --> 00:03:44,483
-Don’t worry.
+74
+00:03:56,180 --> 00:03:59,280
+Charlotte: OK. Anything else?
 
-143
-00:03:44,483 --> 00:03:45,297
-You’ll be fine.
+75
+00:03:59,280 --> 00:04:01,580
+Kaeden: The fish is laid on ice
 
-144
-00:03:45,297 --> 00:03:46,720
-And I’ll be around to help.
+76
+00:04:01,720 --> 00:04:05,860
+but when that starts to melt, you'll need to get more from the cold-room.
 
-145
-00:03:46,720 --> 00:03:47,235
-Charlotte:
+77
+00:04:05,860 --> 00:04:09,160
+Charlotte: I know the staff on the food counters wear a hat
 
-146
-00:03:47,235 --> 00:03:47,750
-Right.
-
-147
-00:03:47,750 --> 00:03:48,133
-Kaeden:
-
-148
-00:03:48,133 --> 00:03:50,432
-Finally, the meat and fish counters.
-
-149
-00:03:50,432 --> 00:03:55,797
-You need to clean the area where staff serve customers, including wiping the weighing
-
-150
-00:03:55,797 --> 00:03:56,180
-scales.
-
-151
-00:03:56,180 --> 00:03:56,955
-Charlotte:
-
-152
-00:03:56,955 --> 00:03:57,730
-OK.
-
-153
-00:03:57,730 --> 00:03:59,280
-Anything else?
-
-154
-00:03:59,280 --> 00:03:59,579
-Kaeden:
-
-155
-00:03:59,579 --> 00:04:01,374
-The fish is laid on ice,
-
-156
-00:04:01,374 --> 00:04:05,561
-but when that starts to melt, you’ll need to get more from the
-
-157
-00:04:05,561 --> 00:04:05,860
-cold-room.
-
-158
-00:04:05,860 --> 00:04:06,166
-Charlotte:
-
-159
-00:04:06,166 --> 00:04:09,529
-I know the staff on the food counters wear a hat.
-
-160
-00:04:09,529 --> 00:04:11,670
+78
+00:04:09,600 --> 00:04:11,670
 Will that be the same for me?
 
-161
-00:04:11,670 --> 00:04:11,966
-Kaeden:
+79
+00:04:11,670 --> 00:04:14,630
+Kaeden: You won't be serving customers directly, so no.
 
-162
-00:04:11,966 --> 00:04:14,038
-You won’t be serving customers directly,
+80
+00:04:14,630 --> 00:04:16,720
+Kaeden: But make sure you put on thermal gloves
 
-163
-00:04:14,038 --> 00:04:14,630
-so no.
+81
+00:04:16,720 --> 00:04:19,271
+when you take anything out of the cold-room.
 
-164
-00:04:14,630 --> 00:04:14,903
-Kaeden:
-
-165
-00:04:14,903 --> 00:04:18,725
-But make sure you put on thermal gloves when you take anything out of
-
-166
-00:04:18,725 --> 00:04:19,271
-the cold-room.
-
-167
+82
 00:04:19,271 --> 00:04:22,820
-The temperature’s low enough in there to get frostbite from touching things.
+The temperature's low enough in there to get frostbite from touching things.
 
-168
-00:04:22,820 --> 00:04:23,885
-Charlotte:
-
-169
-00:04:23,885 --> 00:04:24,950
-Understoood.
+83
+00:04:22,820 --> 00:04:24,950
+Charlotte: Understoood.

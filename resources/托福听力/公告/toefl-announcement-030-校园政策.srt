@@ -3,20 +3,20 @@
 Listen to an announcement on a campus radio station.
 
 2
-00:00:03,140 --> 00:00:04,225
-Man:
+00:00:03,140 --> 00:00:06,594
+Man: Due to some recent changes in university policy,
 
 3
-00:00:04,225 --> 00:00:08,969
-Due to some recent changes in university policy, we need everyone to update their
+00:00:06,594 --> 00:00:11,200
+we need everyone to update their contact information in the student portal.
 
 4
-00:00:08,969 --> 00:00:11,200
-contact information in the student portal.
+00:00:11,200 --> 00:00:15,661
+Doing so will ensure that you receive important notifications,
 
 5
-00:00:11,200 --> 00:00:19,130
-Doing so will ensure that you receive important notifications, including about class cancellations and emergency alerts.
+00:00:15,661 --> 00:00:19,130
+including about class cancellations and emergency alerts.
 
 6
 00:00:19,130 --> 00:00:22,190

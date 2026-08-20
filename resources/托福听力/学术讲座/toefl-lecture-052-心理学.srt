@@ -11,81 +11,93 @@ The concept of flow is a fascinating area of study in psychology.
 It refers to a state of complete immersion and engagement in an activity.
 
 4
-00:00:16,250 --> 00:00:23,434
-It is characterized by a sense of losing oneself in an activity where time seems to disappear
+00:00:16,250 --> 00:00:21,066
+It is characterized by a sense of losing oneself in an activity
 
 5
-00:00:23,434 --> 00:00:25,280
-and everything feels effortless.
+00:00:21,106 --> 00:00:25,280
+where time seems to disappear and everything feels effortless
 
 6
 00:00:25,280 --> 00:00:31,140
 This state is often associated with high levels of performance and satisfaction.
 
 7
-00:00:31,140 --> 00:00:36,200
-Flow occurs when a person's skill level is perfectly matched to the challenge at
+00:00:31,140 --> 00:00:37,152
+Flow occurs when a person's skill level is perfectly matched to the challenge at hand,
 
 8
-00:00:36,200 --> 00:00:41,160
-hand, creating a balance that leads to deep focus and enjoyment.
+00:00:37,152 --> 00:00:41,160
+creating a balance that leads to deep focus and enjoyment.
 
 9
-00:00:41,160 --> 00:00:48,128
-Athletes often experience flow during peak performance moments where they are fully absorbed in the game
+00:00:41,160 --> 00:00:45,799
+Athletes often experience flow during peak performance moments
 
 10
-00:00:48,128 --> 00:00:51,080
-and executing actions seamlessly.
+00:00:46,281 --> 00:00:51,080
+where they are fully absorbed in the game and executing actions seamlessly
 
 11
-00:00:51,080 --> 00:00:57,180
-Artists also report flow states when they are deeply engaged in the creative process.
+00:00:51,080 --> 00:00:53,920
+Artists also report flow states
 
 12
+00:00:53,920 --> 00:00:57,180
+when they are deeply engaged in the creative process.
+
+13
 00:00:57,180 --> 00:01:01,130
 There are several key components to achieving flow.
 
-13
-00:01:01,130 --> 00:01:08,893
-First, the activity must have clear goals and immediate feedback, allowing individuals to understand their progress
-
 14
-00:01:08,893 --> 00:01:11,220
-and adjust their actions accordingly.
+00:01:01,130 --> 00:01:05,935
+First, the activity must have clear goals and immediate feedback,
 
 15
+00:01:05,935 --> 00:01:08,920
+allowing individuals to understand their progress
+
+16
+00:01:08,920 --> 00:01:11,220
+and adjust their actions accordingly.
+
+17
 00:01:11,220 --> 00:01:18,260
 Second, the person must be fully focused on the activity, minimizing distractions and interruptions.
 
-16
-00:01:18,260 --> 00:01:24,559
-Third, there must be a sense of control over the activity, with the individual
-
-17
-00:01:24,559 --> 00:01:28,110
-feeling capable of meeting the challenges presented.
-
 18
-00:01:28,110 --> 00:01:37,110
-Flow has numerous benefits, including increased productivity, enhanced creativity, and improved well-being.
+00:01:18,260 --> 00:01:23,420
+Third, there must be a sense of control over the activity,
 
 19
-00:01:37,110 --> 00:01:43,495
-People who regularly experience flow are often happier and more fulfilled as they spend
+00:01:23,420 --> 00:01:28,110
+with the individual feeling capable of meeting the challenges presented.
 
 20
-00:01:43,495 --> 00:01:47,290
-time engaged in activities that are meaningful and enjoyable.
+00:01:28,110 --> 00:01:33,280
+Flow has numerous benefits, including increased productivity
 
 21
+00:01:33,840 --> 00:01:37,110
+enhanced creativity, and improved well-being.
+
+22
+00:01:37,110 --> 00:01:40,651
+People who regularly experience flow are often happier
+
+23
+00:01:40,651 --> 00:01:47,290
+and more fulfilled as they spend time engaged in activities that are meaningful and enjoyable.
+
+24
 00:01:47,290 --> 00:01:51,120
 However, achieving flow is not easy.
 
-22
+25
 00:01:51,120 --> 00:01:57,290
 It requires finding activities that match one's skill level to the appropriate level of challenge.
 
-23
+26
 00:01:57,290 --> 00:02:06,110
 Matching an activity with the requisite skill level can be challenging.

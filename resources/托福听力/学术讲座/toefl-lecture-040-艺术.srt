@@ -3,27 +3,27 @@
 Listen to a talk in an art history class.
 
 2
-00:00:03,250 --> 00:00:09,920
-When we think about paintings, we often focus on their subject, their style,
+00:00:03,250 --> 00:00:08,815
+When we think about paintings, we often focus on their subject,
 
 3
-00:00:09,920 --> 00:00:12,050
-or even the type of paint used.
+00:00:09,197 --> 00:00:12,050
+their style, or even the type of paint used
 
 4
-00:00:12,050 --> 00:00:18,010
-What we often overlook is the material underneath the paint, what we call its support
+00:00:12,050 --> 00:00:16,761
+What we often overlook is the material underneath the paint,
 
 5
-00:00:18,010 --> 00:00:21,000
-or sometimes the substrate.
+00:00:16,761 --> 00:00:21,000
+what we call its support or sometimes the substrate.
 
 6
-00:00:21,000 --> 00:00:23,954
-This is the surface on which the paint is applied.
+00:00:21,000 --> 00:00:23,960
+This is the surface on which the paint is applied
 
 7
-00:00:23,954 --> 00:00:27,190
+00:00:24,860 --> 00:00:27,190
 The support is more important than you might think.
 
 8
@@ -31,56 +31,56 @@ The support is more important than you might think.
 Before the 14th century, most paintings were created on wooden panels.
 
 9
-00:00:32,150 --> 00:00:34,658
-Wood was strong and durable,
+00:00:32,150 --> 00:00:37,167
+Wood was strong and durable, but it posed serious challenges.
 
 10
-00:00:34,658 --> 00:00:37,167
-but it posed serious challenges.
-
-11
 00:00:37,167 --> 00:00:41,180
 Large panels were extremely heavy, making transport difficult.
 
-12
+11
 00:00:41,180 --> 00:00:46,090
 Because of this, artists were limited in how big their works could be.
 
-13
+12
 00:00:46,090 --> 00:00:51,158
 Typical subjects for panel paintings were small devotional images, altar pieces,
 
-14
+13
 00:00:51,158 --> 00:00:58,070
 and portraits, works intended for private chapels or fixed locations rather than large public spaces.
 
+14
+00:00:58,070 --> 00:00:59,959
+In the early 14th century,
+
 15
-00:00:58,070 --> 00:01:03,359
-In the early 14th century, artists in Italy, especially in Venice, began turning to
+00:00:59,959 --> 00:01:02,980
+artists in Italy, especially in Venice
 
 16
-00:01:03,359 --> 00:01:06,004
-canvas as a support for their paintings,
+00:01:03,340 --> 00:01:06,004
+began turning to canvas as a support for their paintings,
 
 17
 00:01:06,004 --> 00:01:10,160
 and by the late 15th century its use had spread widely.
 
 18
-00:01:10,160 --> 00:01:12,157
-Canvas was light and flexible,
+00:01:10,160 --> 00:01:12,880
+Canvas was light and flexible
 
 19
-00:01:12,157 --> 00:01:16,150
+00:01:12,880 --> 00:01:16,150
 so paintings could be moved easily and made much larger.
 
 20
-00:01:16,150 --> 00:01:21,986
-This portability meant that monumental works could be displayed in civic buildings, palaces,
+00:01:16,150 --> 00:01:21,537
+This portability meant that monumental works could be displayed in civic buildings,
 
 21
-00:01:21,986 --> 00:01:24,230
-and even transported for festivals.
+00:01:21,537 --> 00:01:24,230
+palaces, and even transported for festivals.
 
 22
 00:01:24,230 --> 00:01:30,020
@@ -99,9 +99,5 @@ It transformed art because it enabled ambitious subjects like vast historical sc
 For example, Paolo Veronese's The Wedding at Cana,
 
 26
-00:01:44,660 --> 00:01:49,500
-which is a massive banquet scene filled with dozens of figures
-
-27
-00:01:49,500 --> 00:01:51,260
-and rich architectural detail.
+00:01:44,660 --> 00:01:51,260
+which is a massive banquet scene filled with dozens of figures and rich architectural detail.

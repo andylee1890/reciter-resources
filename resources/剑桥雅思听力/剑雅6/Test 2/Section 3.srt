@@ -1,423 +1,275 @@
 1
-00:00:00,000 --> 00:00:01,315
-Hello, Sandy.
+00:00:00,000 --> 00:00:03,560
+Hello, Sandy. How have you been getting on with your dissertation?
 
 2
-00:00:01,315 --> 00:00:03,560
-How have you been getting on with your dissertation?
+00:00:03,560 --> 00:00:08,630
+Fine, and I've been working hard on the various action points we agreed on our last tutorial.
 
 3
-00:00:03,560 --> 00:00:03,610
-Fine,
-
-4
-00:00:03,610 --> 00:00:08,034
-and I've been working hard on the various action points we agreed on our
-
-5
-00:00:08,034 --> 00:00:08,630
-last tutorial.
-
-6
 00:00:08,630 --> 00:00:10,800
 Do you want to talk me through what you've done?
 
-7
-00:00:10,800 --> 00:00:11,519
-Yeah, sure.
+4
+00:00:10,800 --> 00:00:15,835
+Yeah, sure. Well, we agreed on three main targets for me to aim for.
 
-8
-00:00:11,519 --> 00:00:15,835
-Well, we agreed on three main targets for me to aim for.
-
-9
+5
 00:00:15,835 --> 00:00:20,150
 The first one was to find out about suitable data analysis software.
 
-10
+6
 00:00:20,150 --> 00:00:20,770
 Yes.
 
-11
+7
 00:00:20,770 --> 00:00:25,060
 And what I decided to do was to look through catalogues specializing in IT.
 
-12
-00:00:25,060 --> 00:00:26,108
-That's a good idea.
+8
+00:00:25,060 --> 00:00:27,680
+That's a good idea. What did you come up with?
 
-13
-00:00:26,108 --> 00:00:27,680
-What did you come up with?
-
-14
+9
 00:00:27,680 --> 00:00:30,310
 I found the names of two promising ones.
 
-15
+10
 00:00:30,310 --> 00:00:30,770
 Right.
 
-16
+11
 00:00:30,770 --> 00:00:34,200
 But I also thought it'd be worthwhile talking to a lecturer.
 
-17
-00:00:34,200 --> 00:00:35,047
-Oh right.
+12
+00:00:34,200 --> 00:00:36,740
+Oh right. Who did you see?
 
-18
-00:00:35,047 --> 00:00:36,740
-Who did you see?
+13
+00:00:36,740 --> 00:00:41,100
+Jane Prince. Do you know her? She's in the Computer Centre.
 
-19
-00:00:36,740 --> 00:00:37,533
-Jane Prince.
-
-20
-00:00:37,533 --> 00:00:39,118
-Do you know her?
-
-21
-00:00:39,118 --> 00:00:41,100
-She's in the Computer Centre.
-
-22
+14
 00:00:41,100 --> 00:00:43,490
 Yes, of course, she's the new Head.
 
-23
-00:00:43,490 --> 00:00:43,808
-Yes.
+15
+00:00:43,490 --> 00:00:45,400
+Yes. Well, she was very helpful.
 
-24
-00:00:43,808 --> 00:00:45,400
-Well, she was very helpful.
+16
+00:00:45,400 --> 00:00:48,800
+Oh, that's good. Did she suggest anything in particular?
 
-25
-00:00:45,400 --> 00:00:45,778
-Oh,
+17
+00:00:48,800 --> 00:00:50,729
+Yeah. She recommended software called Vivat
 
-26
-00:00:45,778 --> 00:00:46,533
-that's good.
+18
+00:00:50,729 --> 00:00:55,230
+and said I should book up for a couple of practice sessions using Vivat.
 
-27
-00:00:46,533 --> 00:00:48,800
-Did she suggest anything in particular?
+19
+00:00:55,230 --> 00:00:57,340
+Great. I'm sure you'll find them useful.
 
-28
-00:00:48,800 --> 00:00:49,122
-Yeah.
+20
+00:00:57,340 --> 00:01:02,580
+And, of course, the second target was to draw up a survey checklist which I...
 
-29
-00:00:49,122 --> 00:00:53,622
-She recommended software called Vivat and said I should book up for a couple
-
-30
-00:00:53,622 --> 00:00:55,230
-of practice sessions using Vivat.
-
-31
-00:00:55,230 --> 00:00:55,531
-Great.
-
-32
-00:00:55,531 --> 00:00:57,340
-I'm sure you'll find them useful.
-
-33
-00:00:57,340 --> 00:01:02,231
-And, of course, the second target was to draw up a survey checklist which
-
-34
-00:01:02,231 --> 00:01:02,580
-I...
-
-35
+21
 00:01:02,580 --> 00:01:05,140
 Yes, you emailed me it last week.
 
-36
+22
 00:01:05,140 --> 00:01:06,630
 Have you had a chance to look...?
 
-37
+23
 00:01:06,630 --> 00:01:09,510
 Of course, um I think it's good.
 
-38
+24
 00:01:09,510 --> 00:01:11,978
 Very much on the right lines.
 
-39
+25
 00:01:11,978 --> 00:01:15,680
 I'd say your first two sections are spot on.
 
-40
+26
 00:01:15,680 --> 00:01:18,971
 I wouldn't suggest that you change anything there,
 
-41
+27
 00:01:18,971 --> 00:01:24,730
 but in section three you really do need to have questions on teaching experience.
 
-42
-00:01:24,730 --> 00:01:25,002
-Yeah.
+28
+00:01:24,730 --> 00:01:27,450
+Yeah. I was thinking that section looked a bit short.
 
-43
-00:01:25,002 --> 00:01:27,450
-I was thinking that section looked a bit short.
-
-44
+29
 00:01:27,450 --> 00:01:28,000
 Right.
 
-45
+30
 00:01:28,000 --> 00:01:33,030
 And my third target was, do further reading on discipline.
 
-46
-00:01:33,030 --> 00:01:33,544
-Oh yes.
+31
+00:01:33,030 --> 00:01:35,600
+Oh yes. I mentioned a couple of writers, didn't I?
 
-47
-00:01:33,544 --> 00:01:35,600
-I mentioned a couple of writers, didn't I?
-
-48
+32
 00:01:35,600 --> 00:01:39,545
 Yes, well I got hold of the Banerjee and I thought that was excellent.
 
-49
-00:01:39,545 --> 00:01:43,490
-But I'm afraid I didn't manage to get hold of the essays about classroom
+33
+00:01:39,545 --> 00:01:44,054
+But I'm afraid I didn't manage to get hold of the essays about classroom management. You know,
 
-50
-00:01:43,490 --> 00:01:45,463
-management-you know, the ones by Simon Ericsson.
+34
+00:01:44,054 --> 00:01:45,463
+the ones by Simon Ericsson.
 
-51
-00:01:45,463 --> 00:01:49,408
-The bookshop said it was out of print and the library doesn't have a
+35
+00:01:45,463 --> 00:01:49,690
+The bookshop said it was out of print and the library doesn't have a copy.
 
-52
-00:01:49,408 --> 00:01:49,690
-copy.
+36
+00:01:49,690 --> 00:01:53,893
+Oh right, and I'm afraid I've lent my copy to another student.
 
-53
-00:01:49,690 --> 00:01:50,390
-Oh right,
+37
+00:01:53,893 --> 00:01:58,120
+What I suggest you do is try the library again
 
-54
-00:01:50,390 --> 00:01:53,893
-and I'm afraid I've lent my copy to another student.
+38
+00:01:58,280 --> 00:02:00,897
+This time apply for it through the service called special loans.
 
-55
-00:01:53,893 --> 00:01:58,796
-What I suggest you do is try the library again-this time apply for it
+39
+00:02:00,897 --> 00:02:05,100
+Have you done that before? You're entitled to six books a year.
 
-56
-00:01:58,796 --> 00:02:00,897
-through the service called special loans.
+40
+00:02:05,100 --> 00:02:08,000
+Yes. No problem. That's what I'll do.
 
-57
-00:02:00,897 --> 00:02:02,648
-Have you done that before?
-
-58
-00:02:02,648 --> 00:02:05,100
-You're entitled to six books a year.
-
-59
-00:02:05,100 --> 00:02:05,514
-Yes.
-
-60
-00:02:05,514 --> 00:02:06,343
-No problem.
-
-61
-00:02:06,343 --> 00:02:08,000
-That's what I'll do.
-
-62
+41
 00:02:08,000 --> 00:02:10,250
 So, lots of useful work done.
 
-63
+42
 00:02:10,250 --> 00:02:13,140
 So, let's look at some new targets.
 
-64
+43
 00:02:13,140 --> 00:02:17,268
 We'll start by having a chat about your Chapter One.
 
-65
+44
 00:02:17,268 --> 00:02:19,745
 I very much enjoyed reading it.
 
-66
-00:02:19,745 --> 00:02:25,525
-Your written style is very clear and you've included lots of interesting descriptions of
+45
+00:02:19,745 --> 00:02:22,222
+Your written style is very clear
 
-67
-00:02:25,525 --> 00:02:27,589
-education in your target area.
+46
+00:02:22,222 --> 00:02:27,589
+and you've included lots of interesting descriptions of education in your target area.
 
-68
+47
 00:02:27,589 --> 00:02:32,130
 I've just got a couple of suggestions for some additional work.
 
-69
-00:02:32,130 --> 00:02:32,759
-Of course.
+48
+00:02:32,130 --> 00:02:36,530
+Of course. Could I just ask - what do you think I should call it?
 
-70
-00:02:32,759 --> 00:02:36,530
-Could I just ask - what do you think I should call it?
+49
+00:02:36,530 --> 00:02:40,900
+Well, I'd go for something like Context Review. What do you think?
 
-71
-00:02:36,530 --> 00:02:39,443
-Well, I'd go for something like Context Review.
-
-72
-00:02:39,443 --> 00:02:40,900
-What do you think?
-
-73
+50
 00:02:40,900 --> 00:02:42,880
 Well, short and to the point.
 
-74
-00:02:42,880 --> 00:02:43,228
-Exactly.
+51
+00:02:42,880 --> 00:02:46,009
+Exactly. Now, as regards specific areas to work on,
 
-75
-00:02:43,228 --> 00:02:48,095
-Now, as regards specific areas to work on, I'd be quite interested to have
+52
+00:02:46,009 --> 00:02:51,920
+I'd be quite interested to have a few more statistics about the schools in the different zones.
 
-76
-00:02:48,095 --> 00:02:51,920
-a few more statistics about the schools in the different zones.
+53
+00:02:51,920 --> 00:02:54,720
+Oh, that wouldn't be a problem. I can get them from the Internet.
 
-77
-00:02:51,920 --> 00:02:52,135
-Oh,
+54
+00:02:54,720 --> 00:02:59,257
+Great, and although you did make a reference to quite a few different writers,
 
-78
-00:02:52,135 --> 00:02:53,212
-that wouldn't be a problem.
+55
+00:02:59,257 --> 00:03:03,470
+I think you should aim to cite more works written later than 2000.
 
-79
-00:02:53,212 --> 00:02:54,720
-I can get them from the Internet.
+56
+00:03:03,470 --> 00:03:09,060
+OK. That's more difficult, but I can try. When do you want that done by?
 
-80
-00:02:54,720 --> 00:02:55,044
-Great,
+57
+00:03:09,060 --> 00:03:13,172
+Oh, it's not urgent. Um I should aim for the end of term.
 
-81
-00:02:55,044 --> 00:02:59,581
-and although you did make a reference to quite a few different writers, I
-
-82
-00:02:59,581 --> 00:03:03,470
-think you should aim to cite more works written later than 2000.
-
-83
-00:03:03,470 --> 00:03:03,843
-OK.
-
-84
-00:03:03,843 --> 00:03:04,961
-That's more difficult,
-
-85
-00:03:04,961 --> 00:03:06,451
-but I can try.
-
-86
-00:03:06,451 --> 00:03:09,060
-When do you want that done by?
-
-87
-00:03:09,060 --> 00:03:10,325
-Oh, it's not urgent.
-
-88
-00:03:10,325 --> 00:03:13,172
-Um I should aim for the end of term.
-
-89
+58
 00:03:13,172 --> 00:03:17,600
 But in the meantime, I think you should also be thinking about Chapter Two.
 
-90
+59
 00:03:17,600 --> 00:03:19,630
 Should I be drafting it already?
 
-91
-00:03:19,630 --> 00:03:19,894
-No,
+60
+00:03:19,630 --> 00:03:22,530
+No, but I think you should note down its main sections.
 
-92
-00:03:19,894 --> 00:03:22,530
-but I think you should note down its main sections.
+61
+00:03:22,530 --> 00:03:26,140
+Yes. You know, I always find that the hardest part.
 
-93
-00:03:22,530 --> 00:03:22,891
-Yes.
-
-94
-00:03:22,891 --> 00:03:26,140
-You know, I always find that the hardest part.
-
-95
+62
 00:03:26,140 --> 00:03:29,600
 I always find it helpful to put some ideas on index cards.
 
-96
+63
 00:03:29,600 --> 00:03:30,200
 Yeah.
 
-97
-00:03:30,200 --> 00:03:30,474
-Um...
+64
+00:03:30,200 --> 00:03:32,560
+Um... and then you can sort them
 
-98
-00:03:30,474 --> 00:03:32,116
-and then you can sort them,
+65
+00:03:32,560 --> 00:03:35,400
+and even lay them out on the floor. It's a real help.
 
-99
-00:03:32,116 --> 00:03:34,305
-and even lay them out on the floor.
+66
+00:03:35,400 --> 00:03:39,630
+Well, I'll certainly try it! When would the deadline be for that?
 
-100
-00:03:34,305 --> 00:03:35,400
-It's a real help.
-
-101
-00:03:35,400 --> 00:03:37,162
-Well, I'll certainly try it!
-
-102
-00:03:37,162 --> 00:03:39,630
-When would the deadline be for that?
-
-103
+67
 00:03:39,630 --> 00:03:44,355
 My advice would be to get it done before you embark upon the research.
 
-104
+68
 00:03:44,355 --> 00:03:47,730
 You can always change it later if you need to.
 
-105
-00:03:47,730 --> 00:03:47,964
-OK.
-
-106
-00:03:47,964 --> 00:03:49,370
-I'll get going on that then.
+69
+00:03:47,730 --> 00:03:49,370
+OK. I'll get going on that then.

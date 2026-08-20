@@ -1,51 +1,27 @@
 1
-00:00:00,000 --> 00:00:01,605
-Man:
+00:00:00,000 --> 00:00:07,520
+Man: I'm looking for a good restaurant to celebrate finishing my thesis
 
 2
-00:00:01,605 --> 00:00:07,322
-I'm looking for a good restaurant to celebrate finishing my thesis.
-
-3
-00:00:07,322 --> 00:00:10,070
+00:00:07,820 --> 00:00:10,070
 Do you have any recommendations?
 
+3
+00:00:10,070 --> 00:00:13,521
+Woman: How about that new French restaurant downtown?
+
 4
-00:00:10,070 --> 00:00:10,120
-Woman:
-
-5
-00:00:10,120 --> 00:00:13,521
-How about that new French restaurant downtown?
-
-6
 00:00:13,521 --> 00:00:19,130
 I went last week and I had a chicken dish that was delicious.
 
-7
-00:00:19,130 --> 00:00:19,606
-Man:
+5
+00:00:19,130 --> 00:00:23,417
+Man: That sounds perfect. My advisor loves French food.
 
-8
-00:00:19,606 --> 00:00:21,035
-That sounds perfect.
-
-9
-00:00:21,035 --> 00:00:23,417
-My advisor loves French food.
-
-10
+6
 00:00:23,417 --> 00:00:28,180
 I'll check if they have any availability for Friday night.
 
-11
-00:00:28,180 --> 00:00:28,606
-Woman:
-
-12
-00:00:28,606 --> 00:00:31,586
-You might want to call them soon.
-
-13
-00:00:31,586 --> 00:00:34,140
-I think they fill up fast.
+7
+00:00:28,180 --> 00:00:34,140
+Woman: You might want to call them soon. I think they fill up fast.

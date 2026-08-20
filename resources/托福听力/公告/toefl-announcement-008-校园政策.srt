@@ -1,21 +1,21 @@
 1
 00:00:00,000 --> 00:00:03,160
-Narrator：Listen to an announcement on the school intercom.
+Narrator: Listen to an announcement on the school intercom.
 
 2
 00:00:03,160 --> 00:00:05,290
-Teacher：Hello, everyone.
+Teacher: Hello, everyone.
 
 3
 00:00:05,290 --> 00:00:09,030
 All student report cards were handed out today.
 
 4
-00:00:09,030 --> 00:00:12,246
+00:00:09,030 --> 00:00:12,240
 These report cards need to be signed by your parents
 
 5
-00:00:12,246 --> 00:00:15,080
+00:00:12,240 --> 00:00:15,080
 and brought back to school as soon as possible.
 
 6

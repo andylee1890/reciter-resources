@@ -1,75 +1,35 @@
 1
-00:00:00,000 --> 00:00:03,232
-Woman:
+00:00:00,000 --> 00:00:08,109
+Woman: Are you all set for the conference next week?
 
 2
-00:00:03,232 --> 00:00:08,109
-Are you all set for the conference next week?
+00:00:08,109 --> 00:00:15,010
+Man: Almost. I just booked my flight this morning, so that's one thing off the list.
 
 3
-00:00:08,109 --> 00:00:08,894
-Man:
+00:00:15,010 --> 00:00:20,040
+Woman: That's great. Did you already register for the conference itself?
 
 4
-00:00:08,894 --> 00:00:09,316
-Almost.
+00:00:20,040 --> 00:00:25,416
+Man: Not yet. I was waiting to confirm my travel plans first.
 
 5
-00:00:09,316 --> 00:00:11,991
-I just booked my flight this morning,
-
-6
-00:00:11,991 --> 00:00:15,010
-so that's one thing off the list.
-
-7
-00:00:15,010 --> 00:00:15,060
-Woman:
-
-8
-00:00:15,060 --> 00:00:16,382
-That's great.
-
-9
-00:00:16,382 --> 00:00:20,040
-Did you already register for the conference itself?
-
-10
-00:00:20,040 --> 00:00:20,488
-Man:
-
-11
-00:00:20,488 --> 00:00:21,384
-Not yet.
-
-12
-00:00:21,384 --> 00:00:25,416
-I was waiting to confirm my travel plans first.
-
-13
 00:00:25,416 --> 00:00:29,000
 I'll take care of the registration this afternoon.
 
-14
+6
 00:00:29,000 --> 00:00:33,050
 Hopefully, there are still spots left for the breakout sessions.
 
-15
-00:00:33,050 --> 00:00:33,411
-Woman:
+7
+00:00:33,050 --> 00:00:38,110
+Woman: If you want, I can forward you the link I used to register.
 
-16
-00:00:33,411 --> 00:00:38,110
-If you want, I can forward you the link I used to register.
-
-17
+8
 00:00:38,110 --> 00:00:42,050
 It also has a list of the sessions that still have space.
 
-18
-00:00:42,050 --> 00:00:42,636
-Man:
-
-19
-00:00:42,636 --> 00:00:46,150
-That would be really helpful. Thanks.
+9
+00:00:42,050 --> 00:00:46,150
+Man: That would be really helpful. Thanks.

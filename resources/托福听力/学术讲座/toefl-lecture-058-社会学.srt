@@ -3,97 +3,109 @@
 Listen to a talk in an anthropology class.
 
 2
-00:00:06,220 --> 00:00:07,403
-Man:
+00:00:06,220 --> 00:00:11,397
+Man: In the first half of the 20th century,
 
 3
-00:00:07,403 --> 00:00:17,150
-In the first half of the 20th century, an anthropological movement emerged, called the Culture and Personality School.
+00:00:11,397 --> 00:00:17,150
+an anthropological movement emerged, called the Culture and Personality School.
 
 4
-00:00:17,150 --> 00:00:24,703
-According to the Culture and Personality school, people's personalities are a result of the
+00:00:17,150 --> 00:00:20,845
+According to the Culture and Personality school,
 
 5
-00:00:24,703 --> 00:00:25,765
-culture they live in,
+00:00:20,845 --> 00:00:26,651
+people's personalities are a result of the culture they live in,
 
 6
-00:00:25,765 --> 00:00:34,040
+00:00:26,651 --> 00:00:34,040
 and not just based on biology, like not just inherited from their biological parents.
 
 7
-00:00:34,040 --> 00:00:40,557
-For example, how children in a culture experience food, the foods they eat, how
+00:00:34,040 --> 00:00:38,427
+For example, how children in a culture experience food,
 
 8
-00:00:40,557 --> 00:00:45,250
-it's prepared, this shapes their individual tastes and preferences.
+00:00:38,427 --> 00:00:41,480
+the foods they eat, how it's prepared
 
 9
+00:00:42,080 --> 00:00:45,250
+this shapes their individual tastes and preferences.
+
+10
 00:00:45,250 --> 00:00:51,290
 One of the anthropologists most associated with this movement was Ruth Benedict.
 
-10
+11
 00:00:51,290 --> 00:00:58,140
 Benedict studied and embraced the principles of cultural relativism.
 
-11
-00:00:58,140 --> 00:01:05,226
-So according to cultural relativism, all cultures should be studied on their own terms
-
 12
-00:01:05,226 --> 00:01:09,160
-and not judged against some external measure.
+00:00:58,140 --> 00:01:00,764
+So according to cultural relativism,
 
 13
-00:01:09,160 --> 00:01:17,264
-So cultures in, say, Egypt, belong to Egypt and shouldn't be the standard of
+00:01:00,764 --> 00:01:05,320
+all cultures should be studied on their own terms
 
 14
-00:01:17,264 --> 00:01:19,270
-what all cultures should try to be.
+00:01:05,320 --> 00:01:09,160
+and not judged against some external measure.
 
 15
-00:01:19,270 --> 00:01:24,888
-Ruth Benedict refuted the dominant anthropology theory at the time,
+00:01:09,160 --> 00:01:11,567
+So cultures in, say, Egypt,
 
 16
-00:01:24,888 --> 00:01:32,090
-which stated that there was a hierarchy of cultures, some advanced, others not.
+00:01:11,567 --> 00:01:19,270
+belong to Egypt and shouldn't be the standard of what all cultures should try to be.
 
 17
+00:01:19,270 --> 00:01:24,844
+Ruth Benedict refuted the dominant anthropology theory at the time,
+
+18
+00:01:24,844 --> 00:01:32,090
+which stated that there was a hierarchy of cultures, some advanced, others not.
+
+19
 00:01:32,090 --> 00:01:34,250
 Rejecting that took courage.
 
-18
+20
 00:01:34,250 --> 00:01:37,240
 And I think the field is better for it.
 
-19
+21
 00:01:37,240 --> 00:01:44,150
 Benedict was also influenced by psychology, especially Gestalt ideas.
 
-20
-00:01:44,150 --> 00:01:53,030
-According to Gestalt psychology, a personality is an integrated whole, not just a list of traits.
-
-21
-00:01:53,030 --> 00:01:57,945
-Like, If you see a painting of a landscape, you're looking at a whole landscape
-
 22
-00:01:57,945 --> 00:02:03,160
-and not just say, a hill, trees and a farmhouse.
+00:01:44,150 --> 00:01:50,020
+According to Gestalt psychology, a personality is an integrated whole
 
 23
-00:02:03,160 --> 00:02:10,901
-Benedict said that cultures were the same way, a whole coherent system with patterns of values
+00:01:50,580 --> 00:01:53,030
+not just a list of traits.
 
 24
-00:02:10,901 --> 00:02:12,064
-and behaviors,
+00:01:53,030 --> 00:01:56,677
+Like, If you see a painting of a landscape,
 
 25
-00:02:12,064 --> 00:02:18,140
-and more than just a set of characteristics.
+00:01:56,677 --> 00:02:03,160
+you're looking at a whole landscape and not just say, a hill, trees and a farmhouse.
+
+26
+00:02:03,160 --> 00:02:07,769
+Benedict said that cultures were the same way,
+
+27
+00:02:07,769 --> 00:02:10,920
+a whole coherent system with patterns of values
+
+28
+00:02:10,920 --> 00:02:18,140
+and behaviors, and more than just a set of characteristics.

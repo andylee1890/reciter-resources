@@ -1,55 +1,27 @@
 1
-00:00:00,000 --> 00:00:00,544
-MEN:
+00:00:00,000 --> 00:00:02,660
+MEN: I'd like to deposit these checks into my account
 
 2
-00:00:00,544 --> 00:00:02,639
-I'd like to deposit these checks into my account,
-
-3
-00:00:02,639 --> 00:00:04,230
+00:00:02,660 --> 00:00:04,230
 and also withdraw 300 dollars.
 
+3
+00:00:04,230 --> 00:00:10,210
+WOMAN: No problem. I'll need you to fill out this deposit slip and this withdrawal form.
+
 4
-00:00:04,230 --> 00:00:04,451
-WOMAN:
+00:00:10,210 --> 00:00:13,300
+MEN: I've already filled out a deposit slip-here you are
 
 5
-00:00:04,451 --> 00:00:05,881
-No problem.
-
-6
-00:00:05,881 --> 00:00:10,210
-I'll need you to fill out this deposit slip and this withdrawal form.
-
-7
-00:00:10,210 --> 00:00:10,260
-MEN:
-
-8
-00:00:10,260 --> 00:00:13,754
-l've already filled out a deposit slip—here you are.
-
-9
-00:00:13,754 --> 00:00:16,010
+00:00:13,740 --> 00:00:16,010
 But I didn't have a withdrawal slip.
 
-10
-00:00:16,010 --> 00:00:16,353
-WOMAN:
+6
+00:00:16,010 --> 00:00:20,120
+WOMAN: That's OK. Please swipe your card and enter your PIN number.
 
-11
-00:00:16,353 --> 00:00:17,038
-That's OK.
-
-12
-00:00:17,038 --> 00:00:20,120
-Please swipe your card and enter your PIN number.
-
-13
-00:00:20,120 --> 00:00:21,903
-WOMAN:I'll take care of the checks first,
-
-14
-00:00:21,903 --> 00:00:23,240
-and then get you your money.
+7
+00:00:20,120 --> 00:00:23,240
+WOMAN: I'll take care of the checks first, and then get you your money.

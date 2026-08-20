@@ -3,29 +3,17 @@
 Listen to an announcement at a university event.
 
 2
-00:00:03,140 --> 00:00:04,825
-Attention everyone.
+00:00:03,140 --> 00:00:10,749
+Attention everyone. We are excited to announce that the university's annual book fair will be held next Friday from 10 a.
 
 3
-00:00:04,825 --> 00:00:08,937
-We are excited to announce that the university's annual book fair will be held
+00:00:10,749 --> 00:00:14,010
+m. to 4 p. m. in the student center.
 
 4
-00:00:08,937 --> 00:00:11,111
-next Friday from 10 a.m.
-
-5
-00:00:11,111 --> 00:00:12,561
-to 4 p.m.
-
-6
-00:00:12,561 --> 00:00:14,010
-in the student center.
-
-7
 00:00:14,010 --> 00:00:18,060
 There will be author signings, book sales and workshops.
 
-8
+5
 00:00:18,060 --> 00:00:20,160
 We look forward to seeing you there.

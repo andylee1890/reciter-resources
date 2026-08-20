@@ -1,275 +1,191 @@
 1
-00:00:00,000 --> 00:00:01,625
-Conference Centre Reservations.
+00:00:00,000 --> 00:00:02,560
+Conference Centre Reservations. Good morning.
 
 2
-00:00:01,625 --> 00:00:02,560
-Good morning.
+00:00:02,560 --> 00:00:07,200
+Hi. I'm interested in the computing conference next month.
 
 3
-00:00:02,560 --> 00:00:02,610
-Hi.
-
-4
-00:00:02,610 --> 00:00:07,200
-I'm interested in the computing conference next month.
-
-5
 00:00:07,200 --> 00:00:09,210
 Future Directions in Computing?
 
-6
-00:00:09,210 --> 00:00:09,588
-Yes,
+4
+00:00:09,210 --> 00:00:13,740
+Yes, that's right. Could I ask you a few questions about it?
 
-7
-00:00:09,588 --> 00:00:10,343
-that's right.
-
-8
-00:00:10,343 --> 00:00:13,740
-Could I ask you a few questions about it?
-
-9
+5
 00:00:13,740 --> 00:00:14,890
 Of course.
 
-10
-00:00:14,890 --> 00:00:15,270
-OK.
+6
+00:00:14,890 --> 00:00:19,340
+OK. I know the conference is for three days
 
-11
-00:00:15,270 --> 00:00:21,724
-I know the conference is for three days but actually I want to attend on the Friday
+7
+00:00:19,340 --> 00:00:22,863
+but actually I want to attend on the Friday and Saturday only.
 
-12
-00:00:21,724 --> 00:00:22,863
-and Saturday only.
-
-13
+8
 00:00:22,863 --> 00:00:25,900
 Will that work out to be any cheaper?
 
-14
-00:00:25,900 --> 00:00:27,850
-Let me have a look.
+9
+00:00:25,900 --> 00:00:31,360
+Let me have a look. Well, you could register for the two days separately,
 
-15
-00:00:27,850 --> 00:00:31,360
-Well, you could register for the two days separately,
+10
+00:00:31,360 --> 00:00:37,600
+but that wouldn't actually save you very much as it still costs £35 for each day.
 
-16
-00:00:31,360 --> 00:00:36,820
-but that wouldn't actually save you very much as it still costs ￡35 for
+11
+00:00:37,600 --> 00:00:40,686
+In fact, if you could register for the three days,
 
-17
-00:00:36,820 --> 00:00:37,600
-each day.
+12
+00:00:40,686 --> 00:00:44,640
+you also get an invitation to a free dinner on the Saturday night
 
-18
-00:00:37,600 --> 00:00:42,229
-In fact,if you could register for the three days, you also get an invitation
-
-19
-00:00:42,229 --> 00:00:44,698
-to a free dinner on the Saturday night,
-
-20
-00:00:44,698 --> 00:00:46,550
+13
+00:00:44,640 --> 00:00:46,550
 so that's probably the better option.
 
-21
-00:00:46,550 --> 00:00:48,095
-Right, I'll do that.
+14
+00:00:46,550 --> 00:00:51,570
+Right, I'll do that. How much will the fees be in that case?
 
-22
-00:00:48,095 --> 00:00:51,570
-How much will the fees be in that case?
-
-23
+15
 00:00:51,570 --> 00:00:53,600
-It's ￡75.
+It's £75.
 
-24
-00:00:53,600 --> 00:00:54,369
-All right.
+16
+00:00:53,600 --> 00:00:57,880
+All right. I'd like to register for the full three days
 
-25
-00:00:54,369 --> 00:00:57,832
-I'd like to register for the full three days.
-
-26
-00:00:57,832 --> 00:01:00,910
+17
+00:00:58,780 --> 00:01:00,910
 Now, can I pay that by credit card?
 
-27
-00:01:00,910 --> 00:01:01,764
-I'm afraid not.
+18
+00:01:00,910 --> 00:01:04,420
+I'm afraid not. You'll have to send a cheque to us
 
-28
-00:01:01,764 --> 00:01:04,042
-You'll have to send a cheque to us,
-
-29
-00:01:04,042 --> 00:01:06,320
+19
+00:01:04,660 --> 00:01:06,320
 or you can pay at the conference office.
 
-30
-00:01:06,320 --> 00:01:06,775
-Fine.
+20
+00:01:06,320 --> 00:01:10,500
+Fine. So it's probably easiest if I pay by cheque
 
-31
-00:01:06,775 --> 00:01:10,875
-So it's probably easiest if I pay by cheque.
-
-32
-00:01:10,875 --> 00:01:14,974
+21
+00:01:11,420 --> 00:01:14,974
 Now then, what else do I need to arrange?
 
-33
-00:01:14,974 --> 00:01:15,430
-Right.
+22
+00:01:14,974 --> 00:01:20,440
+Right. How about accommodation? I guess that's not included in the price?
 
-34
-00:01:15,430 --> 00:01:16,796
-How about accommodation?
-
-35
-00:01:16,796 --> 00:01:20,440
-I guess that's not included in the price?
-
-36
+23
 00:01:20,440 --> 00:01:21,874
 No, I'm sorry, it's not,
 
-37
-00:01:21,874 --> 00:01:25,890
-but we do have a few rooms available for delegates at the conference centre
+24
+00:01:21,874 --> 00:01:26,750
+but we do have a few rooms available for delegates at the conference centre if you'd like.
 
-38
-00:01:25,890 --> 00:01:26,750
-if you'd like.
-
-39
+25
 00:01:26,750 --> 00:01:30,563
 Those are very cheap but if you're interested you'll need to book soon,
 
-40
+26
 00:01:30,563 --> 00:01:32,910
 because there's always a heavy demand for them.
 
-41
+27
 00:01:32,910 --> 00:01:34,966
-They are only ￡15 per night,
+They are only £15 per night,
 
-42
-00:01:34,966 --> 00:01:39,421
-but they are very basic and you'd have to get your own breakfast,
+28
+00:01:34,966 --> 00:01:39,700
+but they are very basic and you'd have to get your own breakfast
 
-43
-00:01:39,421 --> 00:01:41,820
+29
+00:01:40,120 --> 00:01:41,820
 because they don't provide you with that.
 
-44
-00:01:41,820 --> 00:01:43,191
-But it's very convenient,
+30
+00:01:41,820 --> 00:01:46,620
+But it's very convenient, because it's in the same building as the conference rooms.
 
-45
-00:01:43,191 --> 00:01:46,620
-because it's in the same building as the conference rooms.
-
-46
+31
 00:01:46,620 --> 00:01:47,440
 Uhuh.
 
-47
-00:01:47,440 --> 00:01:51,697
-Or there's a very reasonable guest house which is ￡25 per night.
+32
+00:01:47,440 --> 00:01:52,260
+Or there's a very reasonable guest house which is £25 per night
 
-48
-00:01:51,697 --> 00:01:54,180
+33
+00:01:52,320 --> 00:01:54,180
 And I think that includes your breakfast.
 
-49
+34
 00:01:54,180 --> 00:01:56,680
 Is it close to the conference centre?
 
-50
+35
 00:01:56,680 --> 00:02:00,400
 It would be about a ten-minute walk away from here.
 
-51
-00:02:00,400 --> 00:02:01,563
-I see.
+36
+00:02:00,400 --> 00:02:03,890
+I see. That sounds quite reasonable.
 
-52
-00:02:01,563 --> 00:02:03,890
-That sounds quite reasonable.
+37
+00:02:03,890 --> 00:02:07,800
+The details are all in our conference pack, which I'll send you.
 
-53
-00:02:03,890 --> 00:02:06,497
-The details are all in our conference pack,
+38
+00:02:07,800 --> 00:02:10,960
+Great, thanks. That'll be very useful
 
-54
-00:02:06,497 --> 00:02:07,800
-which I'll send you.
+39
+00:02:11,580 --> 00:02:14,890
+Oh, and can you also send me an application form?
 
-55
-00:02:07,800 --> 00:02:08,686
-Great, thanks.
+40
+00:02:14,890 --> 00:02:19,740
+Of course. I'll get that in the post to you straight away. Is there anything else?
 
-56
-00:02:08,686 --> 00:02:10,459
-That'll be very useful.
+41
+00:02:19,740 --> 00:02:25,690
+Yes, actually. Can you tell me where exactly the conference centre is?
 
-57
-00:02:10,459 --> 00:02:10,902
-Oh,
+42
+00:02:25,690 --> 00:02:28,260
+Well, it's on South Park Road
 
-58
-00:02:10,902 --> 00:02:14,890
-and can you also send me an application form?
+43
+00:02:28,320 --> 00:02:30,830
+and it's right at the end of the road next to the library.
 
-59
-00:02:14,890 --> 00:02:15,496
-Of course.
-
-60
-00:02:15,496 --> 00:02:18,528
-I'll get that in the post to you straight away.
-
-61
-00:02:18,528 --> 00:02:19,740
-Is there anything else?
-
-62
-00:02:19,740 --> 00:02:20,732
-Yes, actually.
-
-63
-00:02:20,732 --> 00:02:25,690
-Can you tell me where exactly the conference centre is?
-
-64
-00:02:25,690 --> 00:02:29,477
-Well, it's on South Park Road and it's right at the end of the
-
-65
-00:02:29,477 --> 00:02:30,830
-road next to the library.
-
-66
+44
 00:02:30,830 --> 00:02:35,630
-It's a ten-minute taxi ride from the station and will cost you ￡5.
+It's a ten-minute taxi ride from the station and will cost you £5.
 
-67
-00:02:35,630 --> 00:02:40,396
-Otherwise, you can take the bus which runs every half an hour from the
+45
+00:02:35,630 --> 00:02:37,672
+Otherwise, you can take the bus
 
-68
-00:02:40,396 --> 00:02:44,140
-station-that's the 21A-and it brings you straight to the conference centre.
+46
+00:02:37,672 --> 00:02:39,920
+which runs every half an hour from the station
 
-69
+47
+00:02:40,520 --> 00:02:44,140
+That's the 21A-and it brings you straight to the conference centre.
+
+48
 00:02:44,140 --> 00:02:45,900
 Right, got that.

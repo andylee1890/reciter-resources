@@ -1,75 +1,39 @@
 1
-00:00:00,000 --> 00:00:02,188
-Woman:
+00:00:00,000 --> 00:00:08,149
+Woman: Hey, did you ever return that architecture book you borrowed from the library?
 
 2
-00:00:02,188 --> 00:00:08,149
-Hey, did you ever return that architecture book you borrowed from the library?
+00:00:08,149 --> 00:00:11,120
+Man: Not yet. I was planning to drop it off tomorrow.
 
 3
-00:00:08,149 --> 00:00:09,160
-Man:
+00:00:11,120 --> 00:00:12,861
+Woman: You might want to go sooner.
 
 4
-00:00:09,160 --> 00:00:09,463
-Not yet.
-
-5
-00:00:09,463 --> 00:00:11,120
-I was planning to drop it off tomorrow.
-
-6
-00:00:11,120 --> 00:00:11,170
-Woman:
-
-7
-00:00:11,170 --> 00:00:12,861
-You might want to go sooner.
-
-8
 00:00:12,861 --> 00:00:17,090
 I heard a few people in our class are waiting to use it for the group project.
 
-9
-00:00:17,090 --> 00:00:17,388
-Man:
+5
+00:00:17,090 --> 00:00:20,540
+Man: Oh no, I didn't realize they were in such high demand
 
-10
-00:00:17,388 --> 00:00:20,660
-Oh no, I didn't realize they were in such high demand.
-
-11
-00:00:20,660 --> 00:00:23,040
+6
+00:00:21,060 --> 00:00:23,040
 Can't they just look at the online version?
 
-12
-00:00:23,040 --> 00:00:23,318
-Woman:
+7
+00:00:23,040 --> 00:00:25,265
+Woman: Yes, but the photos aren't as sharp.
 
-13
-00:00:23,318 --> 00:00:23,596
-Yes,
-
-14
-00:00:23,596 --> 00:00:25,265
-but the photos aren't as sharp.
-
-15
+8
 00:00:25,265 --> 00:00:29,160
 There are some design details that are easier to see in the larger version.
 
-16
-00:00:29,160 --> 00:00:29,511
-Man:
+9
+00:00:29,160 --> 00:00:34,072
+Man: Right. In that case, I'll take it back this afternoon right after lunch.
 
-17
-00:00:29,511 --> 00:00:29,862
-Right.
-
-18
-00:00:29,862 --> 00:00:34,072
-In that case, I'll take it back this afternoon right after lunch.
-
-19
+10
 00:00:34,072 --> 00:00:37,230
 If anybody asks, tell them it'll be there then.

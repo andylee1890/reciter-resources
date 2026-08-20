@@ -1,487 +1,307 @@
 1
-00:00:00,000 --> 00:00:06,430
-I've brought my notes on our Biology Field Trip to Rocky Bay, Colin,
+00:00:00,000 --> 00:00:04,662
+I've brought my notes on our Biology Field Trip to Rocky Bay,
 
 2
-00:00:06,430 --> 00:00:10,100
-so we can work on our report on the research we did together.
+00:00:04,662 --> 00:00:10,100
+Colin, so we can work on our report on the research we did together.
 
 3
-00:00:10,100 --> 00:00:10,845
-OK.
+00:00:10,100 --> 00:00:14,570
+OK. I've got mine too. Let's look at the aims of the trip first.
 
 4
-00:00:10,845 --> 00:00:11,696
-I've got mine too.
+00:00:14,570 --> 00:00:17,000
+Right. What did you have?
 
 5
-00:00:11,696 --> 00:00:14,570
-Let's look at the aims of the trip first.
+00:00:17,000 --> 00:00:22,810
+I just put something about getting experience of the different sorts of procedures used on a field trip.
 
 6
-00:00:14,570 --> 00:00:15,056
-Right.
-
-7
-00:00:15,056 --> 00:00:17,000
-What did you have?
-
-8
-00:00:17,000 --> 00:00:21,519
-I just put something about getting experience of the different sorts of procedures used
-
-9
-00:00:21,519 --> 00:00:22,810
-on a field trip.
-
-10
 00:00:22,810 --> 00:00:28,750
 But we need something about what causes different organisms to choose particular habitats.
 
-11
-00:00:28,750 --> 00:00:29,569
-I agree.
+7
+00:00:28,750 --> 00:00:35,300
+I agree. And something about finding out how to protect organisms in danger of dying out?
 
-12
-00:00:29,569 --> 00:00:35,300
-And something about finding out how to protect organisms in danger of dying out?
+8
+00:00:35,300 --> 00:00:38,800
+In our aims? But we weren't really looking at that.
 
-13
-00:00:35,300 --> 00:00:36,350
-In our aims?
+9
+00:00:38,800 --> 00:00:45,600
+I suppose not. OK, now there's the list of equipment we all had to bring on the field trip.
 
-14
-00:00:36,350 --> 00:00:38,800
-But we weren't really looking at that.
-
-15
-00:00:38,800 --> 00:00:39,874
-I suppose not.
-
-16
-00:00:39,874 --> 00:00:44,884
-OK, now there's the list of equipment we all had to bring on the
-
-17
-00:00:44,884 --> 00:00:45,600
-field trip.
-
-18
+10
 00:00:45,600 --> 00:00:48,500
 What did they tell us to bring a ruler for?
 
-19
-00:00:48,500 --> 00:00:51,460
-It was something about measuring the slope of the shore,
+11
+00:00:48,500 --> 00:00:51,400
+It was something about measuring the slope of the shore
 
-20
-00:00:51,460 --> 00:00:55,464
-but of course we didn't need it because we were measuring wind direction,
+12
+00:00:52,120 --> 00:00:53,668
+but of course we didn't need it
 
-21
-00:00:55,464 --> 00:00:57,620
-and we'd brought the compass for that ...
+13
+00:00:53,668 --> 00:00:57,620
+because we were measuring wind direction, and we'd brought the compass for that...
 
-22
+14
 00:00:57,620 --> 00:01:01,840
 But not the piece of string to hold up in the air!
 
-23
-00:01:01,840 --> 00:01:05,708
-Didn't Mr Blake make a fuss about us leaving that behind?
+15
+00:01:01,840 --> 00:01:06,060
+Didn't Mr Blake make a fuss about us leaving that behind? Yeah.
 
-24
-00:01:05,708 --> 00:01:06,060
-Yeah.
+16
+00:01:06,060 --> 00:01:10,720
+He does go on. Anyway it was easy to get one from another of the students.
 
-25
-00:01:06,060 --> 00:01:07,225
-He does go on.
+17
+00:01:10,720 --> 00:01:16,840
+Now, the next sections the procedure. I sent you the draft of that. Yeah.
 
-26
-00:01:07,225 --> 00:01:10,720
-Anyway it was easy to get one from another of the students.
+18
+00:01:16,840 --> 00:01:23,041
+It was clear, but I don't think we need all these details of what time we left
 
-27
-00:01:10,720 --> 00:01:13,343
-Now, the next sections the procedure.
+19
+00:01:23,041 --> 00:01:28,020
+and what time we got back and how we divided up the different research tasks
 
-28
-00:01:13,343 --> 00:01:16,403
-I sent you the draft of that.
+20
+00:01:28,400 --> 00:01:30,700
+OK. I'll look at that again.
 
-29
-00:01:16,403 --> 00:01:16,840
-Yeah.
-
-30
-00:01:16,840 --> 00:01:17,840
-It was clear,
-
-31
-00:01:17,840 --> 00:01:22,507
-but I don't think we need all these details of what time we left
-
-32
-00:01:22,507 --> 00:01:24,840
-and what time we got back and
-
-33
-00:01:24,840 --> 00:01:28,742
-how we divided up the different research tasks.
-
-34
-00:01:28,742 --> 00:01:29,230
-OK.
-
-35
-00:01:29,230 --> 00:01:30,700
-I'll look at that again.
-
-36
+21
 00:01:30,700 --> 00:01:35,468
 Then we have to describe our method of investigation in detail.
 
-37
+22
 00:01:35,468 --> 00:01:39,370
 So let's begin with how we measured wave speed.
 
-38
-00:01:39,370 --> 00:01:42,290
-I was surprised how straightforward that was.
+23
+00:01:39,370 --> 00:01:42,340
+I was surprised how straightforward that was
 
-39
-00:01:42,290 --> 00:01:46,130
-l'd expected us to have some sort of high-tech device,
+24
+00:01:42,640 --> 00:01:45,451
+I'd expected us to have some sort of high-tech device,
 
-40
-00:01:46,130 --> 00:01:50,052
+25
+00:01:45,451 --> 00:01:49,743
 not just stand there and count the number of waves per minute.
 
-41
-00:01:50,052 --> 00:01:51,032
-Not very precise,
+26
+00:01:49,743 --> 00:01:53,320
+Not very precise, but I suppose it was good enough.
 
-42
-00:01:51,032 --> 00:01:53,320
-but I suppose it was good enough.
+27
+00:01:53,320 --> 00:01:56,860
+But the way we measured the amount of salt was interesting
 
-43
-00:01:53,320 --> 00:01:56,699
-But the way we measured the amount of salt was interesting.
-
-44
-00:01:56,699 --> 00:01:58,850
+28
+00:01:57,340 --> 00:01:58,850
 In the water from the rock pools?
 
-45
-00:01:58,850 --> 00:02:03,213
-Yeah, oh, I wanted to check the chemicals we used in the lab when
+29
+00:01:58,850 --> 00:02:02,740
+Yeah, oh, I wanted to check the chemicals we used in the lab
 
-46
-00:02:03,213 --> 00:02:04,460
-we analysed those samples
+30
+00:02:02,740 --> 00:02:06,876
+when we analysed those samples was it potassium chromate
 
-47
-00:02:04,460 --> 00:02:07,758
-was it potassium chromate and silver nitrate?
+31
+00:02:06,876 --> 00:02:08,700
+and silver nitrate? That's right.
 
-48
-00:02:07,758 --> 00:02:08,700
-That's right.
+32
+00:02:08,700 --> 00:02:14,120
+OK. And we need the map of the seashore. You just left that to me.
 
-49
-00:02:08,700 --> 00:02:09,061
-OK.
+33
+00:02:14,120 --> 00:02:17,445
+And I had to do it while the tide was low,
 
-50
-00:02:09,061 --> 00:02:11,952
-And we need the map of the seashore.
+34
+00:02:17,445 --> 00:02:22,282
+well that was OK, but the place I started it from was down on the beach,
 
-51
-00:02:11,952 --> 00:02:14,120
-You just left that to me.
+35
+00:02:22,282 --> 00:02:26,420
+then I realised I should have gone up higher to get better visibility
 
-52
-00:02:14,120 --> 00:02:18,724
-And I had to do it while the tide was low, well that was
-
-53
-00:02:18,724 --> 00:02:19,053
-OK,
-
-54
-00:02:19,053 --> 00:02:23,000
-but the place I started it from was down on the beach,
-
-55
-00:02:23,000 --> 00:02:26,485
-then I realised I should have gone up higher to get better visibility,
-
-56
-00:02:26,485 --> 00:02:28,630
+36
+00:02:26,420 --> 00:02:28,630
 so I had to start all over again.
 
-57
-00:02:28,630 --> 00:02:33,117
-But at least I'd got the squared paper or I'd have had problems drawing
+37
+00:02:28,630 --> 00:02:34,720
+But at least I'd got the squared paper or I'd have had problems drawing it all to scale. Yes.
 
-58
-00:02:33,117 --> 00:02:34,399
-it all to scale.
+38
+00:02:34,720 --> 00:02:38,920
+It looks good. We could get a map of the region off the internet
 
-59
-00:02:34,399 --> 00:02:34,720
-Yes.
-
-60
-00:02:34,720 --> 00:02:35,539
-It looks good.
-
-61
-00:02:35,539 --> 00:02:38,543
-We could get a map of the region off the internet
-
-62
-00:02:38,543 --> 00:02:41,000
+39
+00:02:38,920 --> 00:02:41,000
 and see if we need to make any changes.
 
-63
-00:02:41,000 --> 00:02:44,201
-I had a look but I couldn't find anything.
+40
+00:02:41,000 --> 00:02:46,690
+I had a look but I couldn't find anything. But you took some pictures, didn't you?
 
-64
-00:02:44,201 --> 00:02:46,690
-But you took some pictures, didn't you?
+41
+00:02:46,690 --> 00:02:49,400
+Yeah. I'll email you them if you want.
 
-65
-00:02:46,690 --> 00:02:47,029
-Yeah.
+42
+00:02:49,400 --> 00:02:56,250
+OK. I'll make my amendments using those, then I can scan it into our report. Great.
 
-66
-00:02:47,029 --> 00:02:49,400
-I'll email you them if you want.
+43
+00:02:56,250 --> 00:03:01,740
+Now when we get to our findings
 
-67
-00:02:49,400 --> 00:02:49,828
-OK.
+44
+00:03:02,160 --> 00:03:06,187
+I thought we could divide them up into the different zones we identified on the shore
 
-68
-00:02:49,828 --> 00:02:55,822
-I'll make my amendments using those, then I can scan it into our report.
+45
+00:03:06,187 --> 00:03:09,900
+and the problems organisms face in each zone
 
-69
-00:02:55,822 --> 00:02:56,250
-Great.
+46
+00:03:10,000 --> 00:03:13,100
+So for the highest area... the splash zone?
 
-70
-00:02:56,250 --> 00:03:02,489
-Now when we get to our findings I thought we could divide them up
+47
+00:03:13,100 --> 00:03:19,420
+Yeah, we found mostly those tiny shellfish that have strong hard shells that act as protection.
 
-71
-00:03:02,489 --> 00:03:06,500
-into the different zones we identified on the shore
-
-72
-00:03:06,500 --> 00:03:09,800
-and the problems organisms face in each zone.
-
-73
-00:03:09,800 --> 00:03:11,862
-So for the highest area ...
-
-74
-00:03:11,862 --> 00:03:13,100
-the splash zone?
-
-75
-00:03:13,100 --> 00:03:18,630
-Yeah, we found mostly those tiny shellfish that have strong hard shells that act
-
-76
-00:03:18,630 --> 00:03:19,420
-as protection.
-
-77
+48
 00:03:19,420 --> 00:03:23,000
 But not from other organisms that might eat them, predators?
 
-78
-00:03:23,000 --> 00:03:23,344
-No,
+49
+00:03:23,000 --> 00:03:25,343
+No, that's not the main danger for them.
 
-79
-00:03:23,344 --> 00:03:25,750
-that's not the main danger for them.
-
-80
-00:03:25,750 --> 00:03:28,500
+50
+00:03:25,343 --> 00:03:28,560
 But the shells prevent them from drying out
 
-81
-00:03:28,500 --> 00:03:30,975
-because they're in the open air for most of the time.
+51
+00:03:28,560 --> 00:03:31,200
+because they're in the open air for most of the time. Right.
 
-82
-00:03:30,975 --> 00:03:31,200
-Right.
+52
+00:03:31,200 --> 00:03:35,820
+And since they're exposed, they need to be able to find some sort of shelter,
 
-83
-00:03:31,200 --> 00:03:35,512
-And since they're exposed, they need to be able to find some sort of
+53
+00:03:35,820 --> 00:03:38,900
+or cover themselves up, so they don't get too hot.
 
-84
-00:03:35,512 --> 00:03:35,820
-shelter,
+54
+00:03:38,900 --> 00:03:42,680
+Then in the middle and lower zones, nearer the sea
 
-85
-00:03:35,820 --> 00:03:37,052
-or cover themselves up,
+55
+00:03:43,040 --> 00:03:45,500
+we need to discuss the effects of wave action...
 
-86
-00:03:37,052 --> 00:03:38,900
-so they don't get too hot.
+56
+00:03:45,500 --> 00:03:50,540
+Yes, and how organisms develop structures to prevent themselves from being swept away,
 
-87
-00:03:38,900 --> 00:03:43,763
-Then in the middle and lower zones, nearer the sea, we need to discuss
-
-88
-00:03:43,763 --> 00:03:45,500
-the effects of wave action ...
-
-89
-00:03:45,500 --> 00:03:45,904
-Yes,
-
-90
-00:03:45,904 --> 00:03:50,750
-and how organisms develop structures to prevent themselves from being swept away,
-
-91
-00:03:50,750 --> 00:03:54,030
+57
+00:03:50,540 --> 00:03:54,030
 or even destroyed by being smashed against the rocks.
 
-92
-00:03:54,030 --> 00:03:56,395
-I haven't done anything on the geological changes.
+58
+00:03:54,030 --> 00:03:57,280
+I haven't done anything on the geological changes
 
-93
-00:03:56,395 --> 00:03:58,760
+59
+00:03:57,340 --> 00:03:58,760
 I don't know what to put for that.
 
-94
-00:03:58,760 --> 00:04:01,663
-No, we weren't concentrating on that.
+60
+00:03:58,760 --> 00:04:05,050
+No, we weren't concentrating on that. Maybe we need to find some websites.
 
-95
-00:04:01,663 --> 00:04:05,050
-Maybe we need to find some websites.
+61
+00:04:05,050 --> 00:04:11,500
+Good idea. I've got the lecture notes from Mr Blake's geology course, but they're too general.
 
-96
-00:04:05,050 --> 00:04:05,856
-Good idea.
+62
+00:04:11,500 --> 00:04:16,250
+But we could ask him which books on our Reading List might be most helpful.
 
-97
-00:04:05,856 --> 00:04:09,888
-I've got the lecture notes from Mr Blake's geology course,
+63
+00:04:16,250 --> 00:04:22,960
+Right. OK, now I did a draft of the section of sources of possible error in our research,
 
-98
-00:04:09,888 --> 00:04:11,500
-but they're too general.
-
-99
-00:04:11,500 --> 00:04:15,933
-But we could ask him which books on our Reading List might be most
-
-100
-00:04:15,933 --> 00:04:16,250
-helpful.
-
-101
-00:04:16,250 --> 00:04:16,623
-Right.
-
-102
-00:04:16,623 --> 00:04:21,842
-OK, now I did a draft of the section of sources of possible error
-
-103
-00:04:21,842 --> 00:04:22,960
-in our research,
-
-104
+64
 00:04:22,960 --> 00:04:25,570
 but I don't know if you agree.
 
-105
-00:04:25,570 --> 00:04:27,966
-For example, the size of the sample,
+65
+00:04:25,570 --> 00:04:28,580
+For example, the size of the sample
 
-106
-00:04:27,966 --> 00:04:31,730
+66
+00:04:28,580 --> 00:04:31,730
 and whether it's big enough to make any general conclusions from.
 
-107
-00:04:31,730 --> 00:04:35,301
-But I thought actually we did have quite a big sample.
+67
+00:04:31,730 --> 00:04:35,950
+But I thought actually we did have quite a big sample. We did.
 
-108
-00:04:35,301 --> 00:04:35,950
-We did.
-
-109
+68
 00:04:35,950 --> 00:04:39,630
 And our general method of observation seemed quite reliable.
 
-110
-00:04:39,630 --> 00:04:44,203
-But we might not be all that accurate as far as the actual numbers
+69
+00:04:39,630 --> 00:04:44,530
+But we might not be all that accurate as far as the actual numbers go.
 
-111
-00:04:44,203 --> 00:04:44,530
-go.
+70
+00:04:44,530 --> 00:04:47,300
+Yeah, we might have missed some organisms
 
-112
-00:04:44,530 --> 00:04:49,462
-Yeah, we might have missed some organisms - if they were hiding under a
+71
+00:04:47,700 --> 00:04:50,600
+if they were hiding under a rock, for example.
 
-113
-00:04:49,462 --> 00:04:50,600
-rock, for example.
+72
+00:04:50,600 --> 00:04:53,960
+I wasn't sure about the way we described their habitats
 
-114
-00:04:50,600 --> 00:04:54,519
-I wasn't sure about the way we described their habitats.
-
-115
-00:04:54,519 --> 00:04:56,870
+73
+00:04:54,400 --> 00:04:56,870
 I decided it was probably OK.
 
-116
-00:04:56,870 --> 00:04:57,245
-Yeah,
+74
+00:04:56,870 --> 00:05:02,312
+Yeah, and the descriptions we gave of the smaller organisms, they weren't very detailed,
 
-117
-00:04:57,245 --> 00:05:02,125
-and the descriptions we gave of the smaller organisms, they weren't very detailed,
+75
+00:05:02,312 --> 00:05:05,080
+but they were adequate in this context
 
-118
-00:05:02,125 --> 00:05:02,500
-but
-
-119
-00:05:02,500 --> 00:05:04,908
-they were adequate in this context.
-
-120
-00:05:04,908 --> 00:05:08,920
+76
+00:05:05,840 --> 00:05:08,920
 I'm not sure we identified all the species correctly though.
 
-121
-00:05:08,920 --> 00:05:12,477
-OK, we'd better mention that.
-
-122
-00:05:12,477 --> 00:05:13,900
-Now, how ...
+77
+00:05:08,920 --> 00:05:13,900
+OK, we'd better mention that. Now, how...

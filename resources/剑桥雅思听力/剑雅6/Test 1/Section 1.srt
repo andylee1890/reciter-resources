@@ -1,375 +1,267 @@
 1
-00:00:00,000 --> 00:00:08,214
-Good morning, oh sorry, it's gone 12, I'll start again, good afternoon, Kingswell Sports
+00:00:00,000 --> 00:00:03,360
+Good morning, oh sorry, it's gone 12,
 
 2
-00:00:08,214 --> 00:00:09,600
-Club, how can I help you?
+00:00:03,360 --> 00:00:09,600
+I'll start again, good afternoon, Kingswell Sports Club, how can I help you?
 
 3
-00:00:09,600 --> 00:00:11,029
-Oh, good afternoon.
+00:00:09,600 --> 00:00:12,360
+Oh, good afternoon. I was wondering
 
 4
-00:00:11,029 --> 00:00:15,800
-I was wondering if you could give me some information about membership and facilities.
+00:00:12,360 --> 00:00:15,800
+if you could give me some information about membership and facilities.
 
 5
-00:00:15,800 --> 00:00:16,412
-Of course.
+00:00:15,800 --> 00:00:18,250
+Of course. What would you like to know?
 
 6
-00:00:16,412 --> 00:00:18,250
-What would you like to know?
-
-7
 00:00:18,250 --> 00:00:20,800
 Do you have tennis courts, for example?
 
+7
+00:00:20,800 --> 00:00:25,470
+No, I'm afraid we don't. We're primarily a golf club.
+
 8
-00:00:20,800 --> 00:00:23,135
-No, I'm afraid we don't.
+00:00:25,470 --> 00:00:28,890
+What about football? I heard you had a team.
 
 9
-00:00:23,135 --> 00:00:25,470
-We're primarily a golf club.
+00:00:28,890 --> 00:00:34,470
+No, I'm sorry. Perhaps you're thinking about Fresham Sports Centre.
 
 10
-00:00:25,470 --> 00:00:26,610
-What about football?
+00:00:34,470 --> 00:00:38,940
+Oh, right. I know it. I've played badminton there.
 
 11
-00:00:26,610 --> 00:00:28,890
-I heard you had a team.
+00:00:38,940 --> 00:00:44,360
+Have you? They've got a lot of facilities we don't have and vice versa
 
 12
-00:00:28,890 --> 00:00:30,564
-No, I'm sorry.
-
-13
-00:00:30,564 --> 00:00:34,470
-Perhaps you're thinking about Fresham Sports Centre.
-
-14
-00:00:34,470 --> 00:00:35,463
-Oh, right.
-
-15
-00:00:35,463 --> 00:00:36,953
-I know it.
-
-16
-00:00:36,953 --> 00:00:38,940
-I've played badminton there.
-
-17
-00:00:38,940 --> 00:00:39,650
-Have you?
-
-18
-00:00:39,650 --> 00:00:43,910
-They've got a lot of facilities we don't have and vice versa.
-
-19
-00:00:43,910 --> 00:00:46,040
+00:00:44,960 --> 00:00:46,040
 We do have a keep-fit studio,
 
-20
-00:00:46,040 --> 00:00:48,170
-which is very popular with members,
+13
+00:00:46,040 --> 00:00:48,960
+which is very popular with members
 
-21
-00:00:48,170 --> 00:00:51,720
+14
+00:00:49,260 --> 00:00:51,720
 and then as well as that there's swimming, of course.
 
-22
-00:00:51,720 --> 00:00:52,345
-That's good.
+15
+00:00:51,720 --> 00:00:54,220
+That's good. I like to swim every day.
 
-23
-00:00:52,345 --> 00:00:54,220
-I like to swim every day.
-
-24
+16
 00:00:54,220 --> 00:00:56,820
 We have a range of classes too.
 
-25
-00:00:56,820 --> 00:00:58,764
-Do you have judo classes?
+17
+00:00:56,820 --> 00:01:00,320
+Do you have judo classes? I'm keen to learn.
 
-26
-00:00:58,764 --> 00:01:00,320
-I'm keen to learn.
-
-27
+18
 00:01:00,320 --> 00:01:03,330
 Well, at the moment we offer kick-boxing.
 
-28
-00:01:03,330 --> 00:01:07,200
-We're planning to add judo and stretch classes soon.
+19
+00:01:03,330 --> 00:01:07,600
+We're planning to add judo and stretch classes soon
 
-29
-00:01:07,200 --> 00:01:11,070
+20
+00:01:08,320 --> 00:01:11,070
 We're currently running a range of yoga classes, too.
 
-30
-00:01:11,070 --> 00:01:13,166
-What about relaxing after exercise?
+21
+00:01:11,070 --> 00:01:16,520
+What about relaxing after exercise? I assume you have a restaurant or something.
 
-31
-00:01:13,166 --> 00:01:16,520
-I assume you have a restaurant or something.
-
-32
+22
 00:01:16,520 --> 00:01:20,330
 At the moment, we've got a salad bar which is very popular.
 
-33
+23
 00:01:20,330 --> 00:01:24,140
 We'll also have a fully-licensed restaurant by the end of the year.
 
-34
+24
 00:01:24,140 --> 00:01:25,400
 Sounds good!
 
-35
+25
 00:01:25,400 --> 00:01:30,230
 What kind of membership are you interested in?
 
-36
-00:01:30,230 --> 00:01:32,508
-Um I'm not really sure.
+26
+00:01:30,230 --> 00:01:34,330
+Um I'm not really sure. What are the options?
 
-37
-00:01:32,508 --> 00:01:34,330
-What are the options?
-
-38
+27
 00:01:34,330 --> 00:01:37,740
 Well, there are three different membership schemes.
 
-39
-00:01:37,740 --> 00:01:38,664
-I see.
+28
+00:01:37,740 --> 00:01:40,050
+I see. What's the difference?
 
-40
-00:01:38,664 --> 00:01:40,050
-What's the difference?
+29
+00:01:40,050 --> 00:01:43,060
+Well, the first one's called Gold
 
-41
-00:01:40,050 --> 00:01:42,095
-Well, the first one's called Gold,
+30
+00:01:43,620 --> 00:01:47,209
+and you can use all the facilities at any time of the day or week.
 
-42
-00:01:42,095 --> 00:01:46,527
-and you can use all the facilities at any time of the day
-
-43
-00:01:46,527 --> 00:01:47,209
-or week.
-
-44
+31
 00:01:47,209 --> 00:01:51,640
 You can also join in as many classes as you like for free.
 
-45
-00:01:51,640 --> 00:01:52,939
-That sounds good.
+32
+00:01:51,640 --> 00:01:54,670
+That sounds good. Is it very expensive?
 
-46
-00:01:52,939 --> 00:01:54,670
-Is it very expensive?
+33
+00:01:54,670 --> 00:02:01,414
+Well, you pay a £250 joining fee and then it's £450-oh no,
 
-47
-00:01:54,670 --> 00:02:02,538
-Well, you pay a ￡250 joining fee and then it's ￡450-oh no, I'm sorry,
+34
+00:02:01,414 --> 00:02:05,920
+I'm sorry, it's just gone up by £50
 
-48
-00:02:02,538 --> 00:02:10,406
-it's just gone up by ￡50, sorry about that-it's now ￡500 for the annual
+35
+00:02:06,480 --> 00:02:11,530
+sorry about that. It's now £500 for the annual subscription fee.
 
-49
-00:02:10,406 --> 00:02:11,530
-subscription fee.
+36
+00:02:11,530 --> 00:02:15,600
+Right, got that. And what's the next type?
 
-50
-00:02:11,530 --> 00:02:13,056
-Right, got that.
+37
+00:02:15,600 --> 00:02:24,679
+Well, that's Silver - it's the same as Gold except you have to pay a small fee of £1.00 per lesson for any you do
 
-51
-00:02:13,056 --> 00:02:15,600
-And what's the next type?
-
-52
-00:02:15,600 --> 00:02:15,963
-Well,
-
-53
-00:02:15,963 --> 00:02:20,684
-that's Silver - it's the same as Gold except you have to pay a
-
-54
-00:02:20,684 --> 00:02:24,679
-small fee of ￡1.00 per lesson for any you do
-
-55
+38
 00:02:24,679 --> 00:02:28,310
 and you can only use the centre at certain times.
 
-56
-00:02:28,310 --> 00:02:29,422
-I see.
+39
+00:02:28,310 --> 00:02:31,090
+I see. So when exactly?
 
-57
-00:02:29,422 --> 00:02:31,090
-So when exactly?
-
-58
+40
 00:02:31,090 --> 00:02:36,320
 YOU can only use the facilities between 10 am and 4.30 pm.
 
-59
+41
 00:02:36,320 --> 00:02:40,690
 So I couldn't use the pool at 8 in the morning or evening, then?
 
-60
+42
 00:02:40,690 --> 00:02:42,030
 That's right.
 
-61
-00:02:42,030 --> 00:02:42,415
-OK.
+43
+00:02:42,030 --> 00:02:47,800
+OK. And the price for that? Is the joining fee the same as for Gold?
 
-62
-00:02:42,415 --> 00:02:44,338
-And the price for that?
+44
+00:02:47,800 --> 00:02:54,520
+Actually, it's slightly less than the £250-it's £225
 
-63
-00:02:44,338 --> 00:02:47,800
-Is the joining fee the same as for Gold?
+45
+00:02:55,300 --> 00:02:55,998
+but the annual fee is only £300.
 
-64
-00:02:47,800 --> 00:02:52,172
-Actually, it's slightly less than the ￡250-it's ￡225,
-
-65
-00:02:52,172 --> 00:02:55,998
-but the annual fee is only ￡300.
-
-66
+46
 00:02:55,998 --> 00:03:00,370
 Does that sound more like what you want?
 
-67
+47
 00:03:00,370 --> 00:03:03,144
 Well, it's still rather more expensive than I thought.
 
-68
+48
 00:03:03,144 --> 00:03:07,150
 I'm a student here in England and I'm only here for six months.
 
-69
+49
 00:03:07,150 --> 00:03:11,200
 Ah, then the Bronze scheme would probably suit you best.
 
-70
+50
 00:03:11,200 --> 00:03:12,620
 How is that different?
 
-71
+51
 00:03:12,620 --> 00:03:16,200
 Well, some of the facilities have restricted use.
 
-72
+52
 00:03:16,200 --> 00:03:18,910
 And do I have to pay for classes?
 
-73
+53
 00:03:18,910 --> 00:03:22,400
-Yes, it's ￡3 for each class you join.
+Yes, it's £3 for each class you join.
 
-74
-00:03:22,400 --> 00:03:23,105
-I see.
+54
+00:03:22,400 --> 00:03:25,220
+I see. And what are the hours then?
 
-75
-00:03:23,105 --> 00:03:25,220
-And what are the hours then?
+55
+00:03:25,220 --> 00:03:32,429
+Between 10.30 and 3.30 weekdays only and you pay a £50 joining fee.
 
-76
-00:03:25,220 --> 00:03:31,948
-Between 10.30 and 3.30 weekdays only and you pay a ￡50 joining
+56
+00:03:32,429 --> 00:03:39,140
+The annual fee is £180-it works out at £15 a month
 
-77
-00:03:31,948 --> 00:03:32,429
-fee.
-
-78
-00:03:32,429 --> 00:03:37,715
-The annual fee is ￡180-it works out at ￡15 a month,
-
-79
-00:03:37,715 --> 00:03:41,560
+57
+00:03:39,140 --> 00:03:41,560
 so that would be quite a lot cheaper.
 
-80
-00:03:41,560 --> 00:03:41,841
-Oh,
+58
+00:03:41,560 --> 00:03:45,160
+Oh, that should be all right. I could come in my free periods
 
-81
-00:03:41,841 --> 00:03:43,248
-that should be all right.
-
-82
-00:03:43,248 --> 00:03:45,216
-I could come in my free periods.
-
-83
-00:03:45,216 --> 00:03:48,310
+59
+00:03:46,180 --> 00:03:48,310
 What do I have to do if I want to join?
 
-84
-00:03:48,310 --> 00:03:52,109
-Well, we book you in for an assessment with an instructor,
+60
+00:03:48,310 --> 00:03:53,020
+Well, we book you in for an assessment with an instructor
 
-85
-00:03:52,109 --> 00:03:55,563
+61
+00:03:53,020 --> 00:03:55,563
 who will show you how to use all the equipment.
 
-86
-00:03:55,563 --> 00:04:00,398
-If you want to organize a trial session and look around the centre, you'll
+62
+00:03:55,563 --> 00:03:59,880
+If you want to organize a trial session and look around the centre
 
-87
-00:04:00,398 --> 00:04:02,470
-need to speak to David Kynchley.
+63
+00:04:00,200 --> 00:04:02,470
+you'll need to speak to David Kynchley.
 
-88
-00:04:02,470 --> 00:04:02,758
-Hmm.
+64
+00:04:02,470 --> 00:04:04,200
+Hmm. Could you spell that please?
 
-89
-00:04:02,758 --> 00:04:04,200
-Could you spell that please?
+65
+00:04:04,200 --> 00:04:26,200
+Yes, David K-Y-N-C-H-L-E-Y. I'll give you his direct line number. It's oh-four-five-eight-nine-five-three-double one.
 
-90
-00:04:04,200 --> 00:04:09,277
-Yes, David K-Y-N-C-H-L-E-Y.
-
-91
-00:04:09,277 --> 00:04:21,123
-I'll give you his direct line number.
-
-92
-00:04:21,123 --> 00:04:26,200
-It's oh-four-five-eight-nine-five-three-double one.
-
-93
+66
 00:04:26,200 --> 00:04:27,360
 Thanks.
 
-94
+67
 00:04:27,360 --> 00:04:30,800
 Thank you for calling Kingswell Sports Club.

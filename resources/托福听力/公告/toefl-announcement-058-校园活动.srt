@@ -3,37 +3,29 @@
 Listen to an announcement at a university event.
 
 2
-00:00:04,060 --> 00:00:05,747
-Hello everyone.
+00:00:04,060 --> 00:00:10,767
+Hello everyone. Just a quick reminder that the university's annual cultural night is happening this Friday beginning at 6 p.
 
 3
-00:00:05,747 --> 00:00:09,425
-Just a quick reminder that the university's annual cultural night is happening this Friday
+00:00:10,767 --> 00:00:14,120
+m. in the new Lowry Wing of the Student Center.
 
 4
-00:00:09,425 --> 00:00:11,102
-beginning at 6 p.m.
+00:00:14,120 --> 00:00:17,309
+The celebration will include musical performances,
 
 5
-00:00:11,102 --> 00:00:14,120
-in the new Lowry Wing of the Student Center.
+00:00:17,309 --> 00:00:21,030
+food and activities representing various international cultures.
 
 6
-00:00:14,120 --> 00:00:21,030
-The celebration will include musical performances, food and activities representing various international cultures.
-
-7
 00:00:21,030 --> 00:00:25,120
 Many of your fellow students have volunteered their time to make the event a success.
 
-8
+7
 00:00:25,120 --> 00:00:27,000
 So be sure not to miss it.
 
-9
-00:00:27,000 --> 00:00:29,773
-There are special door prizes for the first 50 students.
-
-10
-00:00:29,773 --> 00:00:31,160
-So try to arrive early.
+8
+00:00:27,000 --> 00:00:31,160
+There are special door prizes for the first 50 students. So try to arrive early.

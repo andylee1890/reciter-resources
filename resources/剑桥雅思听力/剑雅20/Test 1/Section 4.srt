@@ -1,311 +1,267 @@
 1
-00:00:00,000 --> 00:00:04,454
-It’s quite hard to think of a city that doesn’t have a big river
+00:00:00,000 --> 00:00:05,180
+It's quite hard to think of a city that doesn't have a big river running through it.
 
 2
-00:00:04,454 --> 00:00:05,180
-running through it.
+00:00:05,180 --> 00:00:08,766
+If you think about the major cities in the world,
 
 3
-00:00:05,180 --> 00:00:09,838
-If you think about the major cities in the world, Shanghai, New York, Mumbai,
+00:00:08,766 --> 00:00:13,070
+Shanghai, New York, Mumbai, London, they're nearly all built on rivers.
 
 4
-00:00:09,838 --> 00:00:13,070
-London, they’re nearly all built on rivers.
+00:00:13,070 --> 00:00:17,461
+When these cities were established hundreds or even thousands of years ago,
 
 5
-00:00:13,070 --> 00:00:18,530
-When these cities were established hundreds or even thousands of years ago, the rivers
+00:00:17,461 --> 00:00:21,120
+the rivers were a big part of people's lives.
 
 6
-00:00:18,530 --> 00:00:21,120
-were a big part of people’s lives.
+00:00:21,120 --> 00:00:27,360
+In 16th-century London, the quickest way to get from one part of the city to another was by river.
 
 7
-00:00:21,120 --> 00:00:25,609
-In 16th-century London, the quickest way to get from one part of the city
+00:00:27,360 --> 00:00:32,194
+But people also used the river for fishing, as the water then was relatively clean,
 
 8
-00:00:25,609 --> 00:00:27,360
-to another was by river.
+00:00:32,194 --> 00:00:37,350
+and they would also go on boat trips up and down the river just for pleasure,
 
 9
-00:00:27,360 --> 00:00:32,234
-But people also used the river for fishing, as the water then was relatively
+00:00:37,350 --> 00:00:41,540
+as a relaxing escape from the noise and bustle of the city streets.
 
 10
-00:00:32,234 --> 00:00:32,615
-clean,
-
-11
-00:00:32,615 --> 00:00:36,305
-and they would also go on boat trips up and down the river just
-
-12
-00:00:36,305 --> 00:00:40,477
-for pleasure, as a relaxing escape from the noise and bustle of the city
-
-13
-00:00:40,477 --> 00:00:41,540
-streets.
-
-14
 00:00:41,540 --> 00:00:47,430
 But as industries developed and populations increased, city rivers suffered.
 
-15
-00:00:47,430 --> 00:00:51,253
-The rising number of people meant there was a huge increase in the amount
+11
+00:00:47,430 --> 00:00:53,990
+The rising number of people meant there was a huge increase in the amount of sewage discharged into the rivers.
 
-16
-00:00:51,253 --> 00:00:53,990
-of sewage discharged into the rivers.
-
-17
-00:00:53,990 --> 00:00:56,181
+12
+00:00:53,990 --> 00:00:56,668
 Rivers had always been used for this purpose,
 
-18
-00:00:56,181 --> 00:01:01,690
-but when the number of inhabitants was so small that wasn’t such a
+13
+00:00:56,668 --> 00:01:01,690
+but when the number of inhabitants was so small that wasn't such a problem.
 
-19
-00:01:01,690 --> 00:01:01,740
-problem.
+14
+00:01:01,690 --> 00:01:05,160
+However, as cities grew to over a million inhabitants
 
-20
-00:01:01,740 --> 00:01:06,832
-However, as cities grew to over a million inhabitants, the impact on the rivers
+15
+00:01:05,620 --> 00:01:08,740
+the impact on the rivers became more serious.
 
-21
-00:01:06,832 --> 00:01:08,740
-became more serious.
-
-22
-00:01:08,740 --> 00:01:14,377
+16
+00:01:08,740 --> 00:01:14,894
 In addition, other types of pollution increased as factories were built beside the river
 
-23
-00:01:14,377 --> 00:01:18,410
+17
+00:01:14,894 --> 00:01:18,410
 and discharged their waste materials into the water.
 
-24
+18
 00:01:18,410 --> 00:01:20,550
 This got worse over time.
 
-25
-00:01:20,550 --> 00:01:27,826
-As recently as 1957, scientists at London’s Natural History Museum declared that the River
+19
+00:01:20,550 --> 00:01:29,504
+As recently as 1957, scientists at London's Natural History Museum declared that the River Thames was 'dead' in biological terms,
 
-26
-00:01:27,826 --> 00:01:33,017
-Thames was ‘dead’ in biological terms, as the water was too filthy to support
+20
+00:01:29,504 --> 00:01:34,620
+as the water was too filthy to support any kind of life.
 
-27
-00:01:33,017 --> 00:01:34,620
-any kind of life.
+21
+00:01:34,620 --> 00:01:38,528
+But in recent years, as rivers lost their industrial function,
 
-28
-00:01:34,620 --> 00:01:42,109
-But in recent years, as rivers lost their industrial function, cities have begun to recognise their true value
+22
+00:01:38,528 --> 00:01:44,780
+cities have begun to recognise their true value and to take steps to clean them up.
 
-29
-00:01:42,109 --> 00:01:44,780
-and to take steps to clean them up.
+23
+00:01:44,780 --> 00:01:50,440
+For example, the River Thames is now cleaner than it's been for a hundred and fifty years.
 
-30
-00:01:44,780 --> 00:01:48,889
-For example, the River Thames is now cleaner than it’s been for a hundred
-
-31
-00:01:48,889 --> 00:01:50,440
-and fifty years.
-
-32
-00:01:50,440 --> 00:01:53,451
+24
+00:01:50,440 --> 00:01:53,500
 These days you can see seals swimming in the water
 
-33
-00:01:53,451 --> 00:01:58,308
-and recently people had to try to rescue a whale which had got lost
+25
+00:01:53,880 --> 00:01:57,028
+and recently people had to try to rescue a whale
 
-34
-00:01:58,308 --> 00:02:01,640
-and swum up the river from the sea by mistake.
+26
+00:01:57,028 --> 00:02:01,640
+which had got lost and swum up the river from the sea by mistake.
 
-35
-00:02:01,640 --> 00:02:04,133
-Unfortunately they didn’t succeed,
+27
+00:02:01,640 --> 00:02:09,080
+Unfortunately they didn't succeed, but the problem was disorientation rather than the quality of the water.
 
-36
-00:02:04,133 --> 00:02:09,080
-but the problem was disorientation rather than the quality of the water.
+28
+00:02:09,080 --> 00:02:11,220
+Then, all around the world
 
-37
-00:02:09,080 --> 00:02:14,474
-Then, all around the world, riverside areas are now seen as prime sites for
+29
+00:02:11,500 --> 00:02:15,520
+riverside areas are now seen as prime sites for development.
 
-38
-00:02:14,474 --> 00:02:15,520
-development.
-
-39
-00:02:15,520 --> 00:02:21,477
+30
+00:02:15,520 --> 00:02:22,017
 Warehouses that were once used for storing goods are now being converted into expensive restaurants
 
-40
-00:02:21,477 --> 00:02:24,727
-and also into apartments with river views,
+31
+00:02:22,017 --> 00:02:24,740
+and also into apartments with river views
 
-41
-00:02:24,727 --> 00:02:29,380
+32
+00:02:25,140 --> 00:02:29,380
 which are in great demand and sell for astronomical prices.
 
+33
+00:02:29,380 --> 00:02:32,920
+In Los Angeles, on the west coast of the USA,
+
+34
+00:02:32,920 --> 00:02:38,939
+an architect has plans to revitalise the banks of the river and to make a park there
+
+35
+00:02:38,939 --> 00:02:44,250
+which can provide facilities for sports as well as a natural environment for relaxing in.
+
+36
+00:02:44,250 --> 00:02:49,261
+It's also hoped that the riverside can be used for other purposes -
+
+37
+00:02:49,261 --> 00:02:59,670
+it's been proposed that facilities could be provided for displaying projects related to various kinds of art that have been produced by local people, for example.
+
+38
+00:02:59,670 --> 00:03:04,345
+In the city of Paris, during the summer months of July and August,
+
+39
+00:03:04,345 --> 00:03:09,380
+all the traffic is banned from the roads by the sides of the river
+
+40
+00:03:09,380 --> 00:03:10,800
+and the banks are transformed into beaches
+
+41
+00:03:10,800 --> 00:03:15,494
+where people can relax in deckchairs under potted palm trees,
+
 42
-00:02:29,380 --> 00:02:34,090
-In Los Angeles, on the west coast of the USA, an architect has plans
+00:03:15,494 --> 00:03:19,810
+sunbathe, or buy a drink or a snack while enjoying the view.
 
 43
-00:02:34,090 --> 00:02:38,498
-to revitalise the banks of the river and to make a park there which
+00:03:19,810 --> 00:03:24,298
+But to make the most of our rivers in our increasingly crowded cities,
 
 44
-00:02:38,498 --> 00:02:44,250
-can provide facilities for sports as well as a natural environment for relaxing in.
+00:03:24,298 --> 00:03:26,880
+we need to allow them to regain their original purpose
 
 45
-00:02:44,250 --> 00:02:49,283
-It’s also hoped that the riverside can be used for other purposes – it’s
+00:03:26,880 --> 00:03:30,513
+and be used as a means of transport,
 
 46
-00:02:49,283 --> 00:02:55,459
-been proposed that facilities could be provided for displaying projects related to various kinds
+00:03:30,513 --> 00:03:32,930
+reclaiming our streets from cars and lorries.
 
 47
-00:02:55,459 --> 00:02:59,670
-of art that have been produced by local people, for example.
+00:03:32,930 --> 00:03:38,762
+To do this we'll have to shift more traffic back to the river,
 
 48
-00:02:59,670 --> 00:03:03,177
-In the city of Paris, during the summer months of July
-
-49
-00:03:03,177 --> 00:03:07,706
-and August, all the traffic is banned from the roads by the sides of the river
-
-50
-00:03:07,706 --> 00:03:13,518
-and the banks are transformed into beaches, where people can relax in deckchairs under
-
-51
-00:03:13,518 --> 00:03:15,842
-potted palm trees, sunbathe,
-
-52
-00:03:15,842 --> 00:03:19,810
-or buy a drink or a snack while enjoying the view.
-
-53
-00:03:19,810 --> 00:03:23,902
-But to make the most of our rivers in our increasingly crowded cities, we
-
-54
-00:03:23,902 --> 00:03:28,196
-need to allow them to regain their original purpose and be used as a
-
-55
-00:03:28,196 --> 00:03:32,930
-means of transport, reclaiming our streets from cars and lorries.
-
-56
-00:03:32,930 --> 00:03:37,924
-To do this we’ll have to shift more traffic back to the river,
-
-57
-00:03:37,924 --> 00:03:43,760
+00:03:38,762 --> 00:03:43,760
 but this time cleanly and silently, making the most of modern technology.
 
-58
-00:03:43,760 --> 00:03:49,417
-Already more than two billion passengers use the ferry to travel in cities around
+49
+00:03:43,760 --> 00:03:51,563
+Already more than two billion passengers use the ferry to travel in cities around the world like Istanbul,
 
-59
-00:03:49,417 --> 00:03:53,730
-the world like Istanbul, San Francisco and New York.
+50
+00:03:51,563 --> 00:03:53,730
+San Francisco and New York.
 
-60
+51
 00:03:53,730 --> 00:03:56,660
 And these numbers are set to rise further.
 
-61
-00:03:56,660 --> 00:03:59,699
-Admittedly, it’s not a fast way of travelling,
+52
+00:03:56,660 --> 00:03:59,060
+Admittedly, it's not a fast way of travelling
 
-62
-00:03:59,699 --> 00:04:03,120
-but neither is a car when it’s stuck in traffic.
+53
+00:03:59,440 --> 00:04:03,120
+but neither is a car when it's stuck in traffic.
 
-63
-00:04:03,120 --> 00:04:08,394
-Of course, passenger traffic on roads might decrease as more people start working from
+54
+00:04:03,120 --> 00:04:09,260
+Of course, passenger traffic on roads might decrease as more people start working from home.
 
-64
-00:04:08,394 --> 00:04:09,260
-home.
+55
+00:04:09,260 --> 00:04:13,341
+But another recent development, the huge rise in online shopping,
 
-65
-00:04:09,260 --> 00:04:14,555
-But another recent development, the huge rise in online shopping, has meant that another
+56
+00:04:13,341 --> 00:04:19,870
+has meant that another form of urban traffic just keeps on growing, and that's deliveries.
 
-66
-00:04:14,555 --> 00:04:17,283
-form of urban traffic just keeps on growing,
-
-67
-00:04:17,283 --> 00:04:19,870
-and that’s deliveries.
-
-68
+57
 00:04:19,870 --> 00:04:25,360
 Trucks and vans in the city pollute and double park while dropping off parcels.
 
-69
+58
 00:04:25,360 --> 00:04:31,000
 Imagine using the immense capacity of shipping to take these trucks off the road.
 
-70
-00:04:31,000 --> 00:04:36,660
-One freight barge can replace 44 large trucks, uses far less energy
+59
+00:04:31,000 --> 00:04:35,080
+One freight barge can replace 44 large trucks
 
-71
-00:04:36,660 --> 00:04:39,390
-and causes less pollution.
+60
+00:04:35,440 --> 00:04:39,390
+uses far less energy and causes less pollution.
 
-72
-00:04:39,390 --> 00:04:43,746
-When the barge docks at the riverside, the parcels could be taken the last
+61
+00:04:39,390 --> 00:04:42,159
+When the barge docks at the riverside,
 
-73
-00:04:43,746 --> 00:04:50,070
-few kilometres to their final destination on cargo bikes – electric ones, of course.
+62
+00:04:42,159 --> 00:04:50,070
+the parcels could be taken the last few kilometres to their final destination on cargo bikes - electric ones, of course.
 
-74
+63
 00:04:50,070 --> 00:04:53,270
 This is already happening in the Dutch city of Amsterdam.
 
-75
-00:04:53,270 --> 00:04:58,611
-And in future, the final stage could even be carried out by drone, although
+64
+00:04:53,270 --> 00:04:57,860
+And in future, the final stage could even be carried out by drone
 
-76
-00:04:58,611 --> 00:05:00,760
-at present this isn’t allowed.
+65
+00:04:58,300 --> 00:05:00,760
+although at present this isn't allowed.
 
-77
+66
 00:05:00,760 --> 00:05:05,000
-Wouldn’t it be great to unblock our city centres in this way!
+Wouldn't it be great to unblock our city centres in this way!
 
-78
+67
 00:05:05,000 --> 00:05:07,490
-Looking further ahead …
+Looking further ahead...

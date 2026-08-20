@@ -1,331 +1,311 @@
 1
-00:00:00,000 --> 00:00:01,500
-Section 4
+00:00:00,000 --> 00:00:02,538
+In my presentation,
 
 2
-00:00:01,500 --> 00:00:05,614
-In my presentation, I'm going to talk about coffee,
+00:00:02,538 --> 00:00:05,620
+I'm going to talk about coffee
 
 3
-00:00:05,614 --> 00:00:10,150
+00:00:05,620 --> 00:00:10,150
 and its importance both in economic and social terms.
 
 4
-00:00:10,150 --> 00:00:13,337
+00:00:10,150 --> 00:00:14,079
 We think it was first drunk in the Arab world,
 
 5
-00:00:13,337 --> 00:00:19,951
-but there's hardly any documentary evidence of it before the 1500s, although of course
+00:00:14,079 --> 00:00:18,400
+but there's hardly any documentary evidence of it before the 1500s,
 
 6
-00:00:19,951 --> 00:00:23,900
-that doesn't mean that people didn't know about it before then.
+00:00:18,400 --> 00:00:23,900
+although of course that doesn't mean that people didn't know about it before then.
 
 7
-00:00:23,900 --> 00:00:30,039
-However, there is evidence that coffee was originally gathered from bushes growing wild in
+00:00:23,900 --> 00:00:30,988
+However, there is evidence that coffee was originally gathered from bushes growing wild in Ethiopia,
 
 8
-00:00:30,039 --> 00:00:33,350
-Ethiopia, in the northeast of Africa.
+00:00:30,988 --> 00:00:33,350
+in the northeast of Africa.
 
 9
-00:00:33,350 --> 00:00:37,888
-In the early sixteenth century, it was being bought by traders,
+00:00:33,350 --> 00:00:35,524
+In the early sixteenth century,
 
 10
-00:00:37,888 --> 00:00:43,350
-and gradually its use as a drink spread throughout the Middle East.
+00:00:35,524 --> 00:00:37,960
+it was being bought by traders
 
 11
-00:00:43,350 --> 00:00:49,248
-It's also known that in 1522, in the Turkish city of Constantinople,
+00:00:38,520 --> 00:00:43,350
+and gradually its use as a drink spread throughout the Middle East.
 
 12
-00:00:49,248 --> 00:00:54,805
-which was the centre of the Ottoman Empire, the court physician approved its use
+00:00:43,350 --> 00:00:48,771
+It's also known that in 1522, in the Turkish city of Constantinople,
 
 13
-00:00:54,805 --> 00:00:56,450
-as a medicine.
+00:00:48,771 --> 00:00:52,160
+which was the centre of the Ottoman Empire
 
 14
-00:00:56,450 --> 00:01:01,702
-By the mid-1500s, coffee bushes were being cultivated in the Yemen
+00:00:52,700 --> 00:00:56,450
+the court physician approved its use as a medicine.
 
 15
-00:01:01,702 --> 00:01:07,935
-and for the next hundred years this region produced most of the coffee drunk in Africa
+00:00:56,450 --> 00:01:01,258
+By the mid-1500s, coffee bushes were being cultivated in the Yemen
 
 16
-00:01:07,935 --> 00:01:10,000
-and the Arab world.
+00:01:01,258 --> 00:01:04,040
+and for the next hundred years
 
 17
+00:01:04,600 --> 00:01:10,000
+this region produced most of the coffee drunk in Africa and the Arab world.
+
+18
 00:01:10,000 --> 00:01:15,850
 What's particularly interesting about coffee is its effect on social life.
 
-18
-00:01:15,850 --> 00:01:18,043
-It was rarely drunk at home,
-
 19
-00:01:18,043 --> 00:01:22,450
-but instead people went to coffee houses to drink it.
+00:01:15,850 --> 00:01:22,450
+It was rarely drunk at home, but instead people went to coffee houses to drink it.
 
 20
-00:01:22,450 --> 00:01:28,524
-These people, usually men, would meet to drink coffee and chat about issues of
+00:01:22,450 --> 00:01:26,760
+These people, usually men, would meet to drink coffee
 
 21
-00:01:28,524 --> 00:01:29,550
-the day.
+00:01:26,760 --> 00:01:29,550
+and chat about issues of the day.
 
 22
-00:01:29,550 --> 00:01:35,230
-But at the time, this chance to share ideas and opinions was seen as
+00:01:29,550 --> 00:01:33,300
+But at the time, this chance to share ideas
 
 23
-00:01:35,230 --> 00:01:38,100
-something that was potentially dangerous,
+00:01:33,300 --> 00:01:38,837
+and opinions was seen as something that was potentially dangerous,
 
 24
-00:01:38,100 --> 00:01:45,279
-and in 1623 the ruler of Constantinople demanded the destruction of all the coffee
+00:01:38,837 --> 00:01:47,635
+and in 1623 the ruler of Constantinople demanded the destruction of all the coffee houses in the city,
 
 25
-00:01:45,279 --> 00:01:50,612
-houses in the city, although after his death many new ones opened,
+00:01:47,635 --> 00:01:53,500
+although after his death many new ones opened, and coffee consumption continued.
 
 26
-00:01:50,612 --> 00:01:53,500
-and coffee consumption continued.
-
-27
-00:01:53,500 --> 00:01:57,512
+00:01:53,500 --> 00:01:57,933
 In the seventeenth century, coffee drinking spread to Europe,
 
+27
+00:01:57,933 --> 00:02:02,400
+and here too coffee shops became places where ordinary people
+
 28
-00:01:57,512 --> 00:02:04,433
-and here too coffee shops became places where ordinary people, nearly always men, could
+00:02:02,760 --> 00:02:06,800
+nearly always men, could meet to exchange ideas.
 
 29
-00:02:04,433 --> 00:02:06,800
-meet to exchange ideas.
+00:02:06,800 --> 00:02:14,400
+Because of this, some people said that these places performed a similar function to universities.
 
 30
-00:02:06,800 --> 00:02:12,269
-Because of this, some people said that these places performed a similar function to
-
-31
-00:02:12,269 --> 00:02:14,400
-universities.
-
-32
-00:02:14,400 --> 00:02:19,591
+00:02:14,400 --> 00:02:20,095
 The opportunity they provided for people to meet together outside their own homes
 
-33
-00:02:19,591 --> 00:02:24,863
-and to discuss the topics of the day had an enormous impact on social
+31
+00:02:20,095 --> 00:02:26,667
+and to discuss the topics of the day had an enormous impact on social life,
 
-34
-00:02:24,863 --> 00:02:25,183
-life,
-
-35
-00:02:25,183 --> 00:02:32,800
+32
+00:02:26,667 --> 00:02:32,800
 and many social movements and political developments had their origins in coffee house discussions.
 
-36
-00:02:32,800 --> 00:02:38,679
+33
+00:02:32,800 --> 00:02:38,704
 In the late 1600s, the Yemeni monopoly on coffee production broke down
 
-37
-00:02:38,679 --> 00:02:45,100
+34
+00:02:38,704 --> 00:02:45,100
 and coffee production started to spread around the world, helped by European colonisation.
 
-38
-00:02:45,100 --> 00:02:50,503
-Europeans set up coffee plantations in Indonesia and the Caribbean
+35
+00:02:45,100 --> 00:02:48,833
+Europeans set up coffee plantations in Indonesia
 
-39
-00:02:50,503 --> 00:02:54,700
-and production of coffee in the colonies skyrocketed.
+36
+00:02:48,833 --> 00:02:54,700
+and the Caribbean and production of coffee in the colonies skyrocketed.
 
-40
-00:02:54,700 --> 00:02:58,210
+37
+00:02:54,700 --> 00:02:58,276
 Different types of coffee were produced in different areas,
 
+38
+00:02:58,276 --> 00:03:02,646
+and it's interesting that the names given to these different types,
+
+39
+00:03:02,646 --> 00:03:04,900
+like Mocha or Java coffee
+
+40
+00:03:05,320 --> 00:03:09,400
+were often taken from the port they were shipped to Europe from.
+
 41
-00:02:58,210 --> 00:03:03,664
-and it's interesting that the names given to these different types, like Mocha
+00:03:09,400 --> 00:03:12,700
+But if you look at the labour system in the different colonies
 
 42
-00:03:03,664 --> 00:03:08,477
-or Java coffee, were often taken from the port they were shipped to Europe
+00:03:13,020 --> 00:03:15,700
+there were some significant differences.
 
 43
-00:03:08,477 --> 00:03:09,400
-from.
+00:03:15,700 --> 00:03:19,267
+In Brazil and the various Caribbean colonies,
 
 44
-00:03:09,400 --> 00:03:13,566
-But if you look at the labour system in the different colonies, there were
+00:03:19,267 --> 00:03:26,400
+coffee was grown in huge plantations and the workers there were almost all slaves.
 
 45
-00:03:13,566 --> 00:03:15,700
-some significant differences.
-
-46
-00:03:15,700 --> 00:03:21,983
-In Brazil and the various Caribbean colonies, coffee was grown in huge plantations
-
-47
-00:03:21,983 --> 00:03:26,400
-and the workers there were almost all slaves.
-
-48
-00:03:26,400 --> 00:03:28,887
+00:03:26,400 --> 00:03:29,276
 But this wasn't the same in all colonies;
 
-49
-00:03:28,887 --> 00:03:31,052
-for example in Java,
+46
+00:03:29,276 --> 00:03:34,669
+for example in Java, which had been colonised by the Dutch, the peasants grew coffee
 
-50
-00:03:31,052 --> 00:03:35,123
-which had been colonised by the Dutch, the peasants grew coffee
+47
+00:03:34,669 --> 00:03:37,980
+and passed a proportion of this on to the Dutch
 
-51
-00:03:35,123 --> 00:03:37,991
-and passed a proportion of this on to the Dutch,
-
-52
-00:03:37,991 --> 00:03:41,500
+48
+00:03:38,500 --> 00:03:41,500
 so it was used as a means of taxation.
 
-53
-00:03:41,500 --> 00:03:47,939
-But whatever system was used, under the European powers of the eighteenth century, coffee
+49
+00:03:41,500 --> 00:03:47,721
+But whatever system was used, under the European powers of the eighteenth century,
 
-54
-00:03:47,939 --> 00:03:51,550
-production was very closely linked to colonisation.
+50
+00:03:47,721 --> 00:03:51,550
+coffee production was very closely linked to colonisation.
 
-55
-00:03:51,550 --> 00:03:57,504
+51
+00:03:51,550 --> 00:03:57,445
 Coffee was grown in ever-increasing quantities to satisfy the growing demand from Europe,
 
-56
-00:03:57,504 --> 00:04:01,272
-and it became nearly as important as sugar production,
+52
+00:03:57,445 --> 00:04:01,320
+and it became nearly as important as sugar production
 
-57
-00:04:01,272 --> 00:04:04,700
+53
+00:04:01,740 --> 00:04:04,700
 which was grown under very similar conditions.
 
-58
-00:04:04,700 --> 00:04:09,754
-However, coffee prices were not yet low enough for people to drink it regularly
+54
+00:04:04,700 --> 00:04:07,360
+However, coffee prices were not
 
-59
-00:04:09,754 --> 00:04:10,336
-at home,
+55
+00:04:07,360 --> 00:04:10,967
+yet low enough for people to drink it regularly at home,
 
-60
-00:04:10,336 --> 00:04:15,069
+56
+00:04:10,967 --> 00:04:15,275
 so most coffee consumption still took place in public coffee houses
 
-61
-00:04:15,069 --> 00:04:18,800
+57
+00:04:15,275 --> 00:04:18,800
 and it still remained something of a luxury item.
 
-62
-00:04:18,800 --> 00:04:22,972
+58
+00:04:18,800 --> 00:04:22,771
 In Britain, however, a new drink was introduced from China,
 
+59
+00:04:22,771 --> 00:04:26,743
+and started to become popular, gradually taking over from coffee,
+
+60
+00:04:26,743 --> 00:04:32,700
+although at first it was so expensive that only the upper classes could afford it.
+
+61
+00:04:32,700 --> 00:04:39,550
+This was tea, and by the late 1700s it was being widely drunk.
+
+62
+00:04:39,550 --> 00:04:45,220
+However, when the USA gained independence from Britain in 1776
+
 63
-00:04:22,972 --> 00:04:28,989
-and started to become popular, gradually taking over from coffee, although at first it was
+00:04:45,780 --> 00:04:46,937
+they identified this drink with Britain,
 
 64
-00:04:28,989 --> 00:04:32,700
-so expensive that only the upper classes could afford it.
-
-65
-00:04:32,700 --> 00:04:34,829
-This was tea,
-
-66
-00:04:34,829 --> 00:04:39,550
-and by the late 1700s it was being widely drunk.
-
-67
-00:04:39,550 --> 00:04:40,512
-However,
-
-68
-00:04:40,512 --> 00:04:47,247
-when the USA gained independence from Britain in 1776, they identified this drink with
-
-69
-00:04:47,247 --> 00:04:47,648
-Britain,
-
-70
-00:04:47,648 --> 00:04:53,400
+00:04:46,937 --> 00:04:53,400
 and coffee remained the preferred drink in the USA, as it still is today.
 
-71
-00:04:53,400 --> 00:05:00,550
-So, by the early nineteenth century, coffee was already being widely produced and consumed.
+65
+00:04:53,400 --> 00:04:56,540
+So, by the early nineteenth century
 
-72
+66
+00:04:56,900 --> 00:05:00,550
+coffee was already being widely produced and consumed.
+
+67
 00:05:00,550 --> 00:05:07,000
 But during this century, production boomed and coffee prices started to fall.
 
+68
+00:05:07,000 --> 00:05:11,440
+This was partly because new types of transportation had been developed
+
+69
+00:05:11,440 --> 00:05:14,150
+which were cheaper and more efficient.
+
+70
+00:05:14,150 --> 00:05:17,720
+So now, working people could afford to buy coffee
+
+71
+00:05:18,220 --> 00:05:21,000
+it wasn't just a drink for the middle classes.
+
+72
+00:05:21,000 --> 00:05:22,680
+And this was at a time
+
 73
-00:05:07,000 --> 00:05:12,483
-This was partly because new types of transportation had been developed which were cheaper
+00:05:22,680 --> 00:05:26,650
+when large parts of Europe were starting to work in industries.
 
 74
-00:05:12,483 --> 00:05:14,150
-and more efficient.
-
-75
-00:05:14,150 --> 00:05:18,971
-So now, working people could afford to buy coffee - it wasn't just a
-
-76
-00:05:18,971 --> 00:05:21,000
-drink for the middle classes.
-
-77
-00:05:21,000 --> 00:05:24,981
-And this was at a time when large parts of Europe were starting to
-
-78
-00:05:24,981 --> 00:05:26,650
-work in industries.
-
-79
-00:05:26,650 --> 00:05:30,846
+00:05:26,650 --> 00:05:31,360
 And sometimes this meant their work didn't stop when it got dark:
 
-80
-00:05:30,846 --> 00:05:34,500
+75
+00:05:31,360 --> 00:05:34,500
 they might have to continue throughout the night.
 
-81
-00:05:34,500 --> 00:05:39,504
-So, the use of coffee as a stimulant became important - it wasn't just
+76
+00:05:34,500 --> 00:05:38,227
+So, the use of coffee as a stimulant became important -
 
-82
-00:05:39,504 --> 00:05:42,700
-a drink people drank in the morning, for breakfast.
+77
+00:05:38,227 --> 00:05:42,700
+it wasn't just a drink people drank in the morning, for breakfast.
 
-83
+78
 00:05:42,700 --> 00:05:46,300
-There were also changes in cultivation ...
+There were also changes in cultivation...

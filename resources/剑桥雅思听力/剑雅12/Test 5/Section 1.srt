@@ -1,531 +1,275 @@
 1
-00:00:00,000 --> 00:00:01,200
-Section 1
+00:00:00,000 --> 00:00:03,400
+TC EMPLOYEE: Hi. Can I help you?
 
 2
-00:00:01,200 --> 00:00:02,483
-TC EMPLOYEE:
+00:00:03,400 --> 00:00:09,100
+VISITOR: I'd like to find out if you have any excursions suitable for families.
 
 3
-00:00:02,483 --> 00:00:02,565
-Hi.
+00:00:09,100 --> 00:00:12,985
+TC EMPLOYEE: Sure. How about taking your family for a cruise?
 
 4
-00:00:02,565 --> 00:00:03,400
-Can I help you?
+00:00:12,985 --> 00:00:16,800
+We have a steamship that takes passengers out several times a day
 
 5
-00:00:03,400 --> 00:00:03,450
-VISITOR:
+00:00:17,080 --> 00:00:18,990
+it's over 100 years old.
 
 6
-00:00:03,450 --> 00:00:09,100
-I'd like to find out if you have any excursions suitable for families.
+00:00:18,990 --> 00:00:22,790
+VISITOR: That sounds interesting. How long is the trip?
 
 7
-00:00:09,100 --> 00:00:09,806
-TC EMPLOYEE:
+00:00:22,790 --> 00:00:24,640
+TC EMPLOYEE: About an hour and a half
 
 8
-00:00:09,806 --> 00:00:10,160
-Sure.
-
-9
-00:00:10,160 --> 00:00:12,985
-How about taking your family for a cruise?
-
-10
-00:00:12,985 --> 00:00:17,577
-We have a steamship that takes passengers out several times a day - it's
-
-11
-00:00:17,577 --> 00:00:18,990
-over 100 years old.
-
-12
-00:00:18,990 --> 00:00:19,412
-VISITOR:
-
-13
-00:00:19,412 --> 00:00:20,679
-That sounds interesting.
-
-14
-00:00:20,679 --> 00:00:22,790
-How long is the trip?
-
-15
-00:00:22,790 --> 00:00:23,351
-TC EMPLOYEE:
-
-16
-00:00:23,351 --> 00:00:25,035
-About an hour and a half.
-
-17
-00:00:25,035 --> 00:00:27,561
+00:00:24,920 --> 00:00:27,561
 And don't forget to take pictures of the mountains.
 
-18
+9
 00:00:27,561 --> 00:00:31,210
 They're all around you when you're on the boat and they look fantastic.
 
+10
+00:00:31,210 --> 00:00:36,260
+VISITOR: OK. And I assume there's a cafe or something on board?
+
+11
+00:00:36,260 --> 00:00:39,140
+TC EMPLOYEE: Sure. How old are your children?
+
+12
+00:00:39,140 --> 00:00:43,210
+VISITOR: Er, my daughter's fifteen and my son's seven.
+
+13
+00:00:43,210 --> 00:00:47,883
+TC EMPLOYEE: Right. Well there are various things you can do once you've crossed the lake,
+
+14
+00:00:47,883 --> 00:00:53,139
+to make a day of it. One thing that's very popular is a visit to the Country Farm.
+
+15
+00:00:53,139 --> 00:00:57,812
+You're met off the boat by the farmer and he'll take you to the holding pens,
+
+16
+00:00:57,812 --> 00:01:00,440
+where the sheep are kept. Children love feeding them!
+
+17
+00:01:00,440 --> 00:01:04,620
+VISITOR: My son would love that. He really likes animals.
+
+18
+00:01:04,620 --> 00:01:09,670
+TC EMPLOYEE: Well, there's also a 40-minute trek round the farm on a horse, if he wants.
+
 19
-00:00:31,210 --> 00:00:31,631
-VISITOR:
+00:01:09,670 --> 00:01:14,540
+VISITOR: Do you think he'd manage it? He hasn't done that before.
 
 20
-00:00:31,631 --> 00:00:32,052
-OK.
+00:01:14,540 --> 00:01:18,310
+TC EMPLOYEE: Sure. It's suitable for complete beginners.
 
 21
-00:00:32,052 --> 00:00:36,260
-And I assume there's a cafe or something on board?
+00:01:18,310 --> 00:01:19,660
+VISITOR: Ah, good.
 
 22
-00:00:36,260 --> 00:00:36,980
-TC EMPLOYEE:
+00:01:19,660 --> 00:01:23,662
+TC EMPLOYEE: And again, visitors are welcome to explore the farm on their own,
 
 23
-00:00:36,980 --> 00:00:37,340
-Sure.
+00:01:23,662 --> 00:01:27,092
+as long as they take care to close gates and so on.
 
 24
-00:00:37,340 --> 00:00:39,140
-How old are your children?
+00:01:27,092 --> 00:01:30,320
+There are some very beautiful gardens along the side of the lake
 
 25
-00:00:39,140 --> 00:00:39,592
-VISITOR:
+00:01:30,320 --> 00:01:32,237
+which also belong to the farm -
 
 26
-00:00:39,592 --> 00:00:43,210
-Er, my daughter's fifteen and my son's seven.
+00:01:32,237 --> 00:01:34,238
+they'll be just at their best now.
 
 27
-00:00:43,210 --> 00:00:43,794
-TC EMPLOYEE:
-
-28
-00:00:43,794 --> 00:00:44,086
-Right.
-
-29
-00:00:44,086 --> 00:00:48,175
-Well there are various things you can do once you've crossed the lake, to
-
-30
-00:00:48,175 --> 00:00:49,635
-make a day of it.
-
-31
-00:00:49,635 --> 00:00:53,139
-One thing that's very popular is a visit to the Country Farm.
-
-32
-00:00:53,139 --> 00:00:57,228
-You're met off the boat by the farmer and he'll take you to the
-
-33
-00:00:57,228 --> 00:00:59,272
-holding pens, where the sheep are kept.
-
-34
-00:00:59,272 --> 00:01:00,440
-Children love feeding them!
-
-35
-00:01:00,440 --> 00:01:00,858
-VISITOR:
-
-36
-00:01:00,858 --> 00:01:02,948
-My son would love that.
-
-37
-00:01:02,948 --> 00:01:04,620
-He really likes animals.
-
-38
-00:01:04,620 --> 00:01:05,214
-TC EMPLOYEE:
-
-39
-00:01:05,214 --> 00:01:09,373
-Well, there's also a 40-minute trek round the farm on a horse, if he
-
-40
-00:01:09,373 --> 00:01:09,670
-wants.
-
-41
-00:01:09,670 --> 00:01:10,076
-VISITOR:
-
-42
-00:01:10,076 --> 00:01:12,511
-Do you think he'd manage it?
-
-43
-00:01:12,511 --> 00:01:14,540
-He hasn't done that before.
-
-44
-00:01:14,540 --> 00:01:15,482
-TC EMPLOYEE:
-
-45
-00:01:15,482 --> 00:01:15,954
-Sure.
-
-46
-00:01:15,954 --> 00:01:18,310
-It's suitable for complete beginners.
-
-47
-00:01:18,310 --> 00:01:18,760
-VISITOR:
-
-48
-00:01:18,760 --> 00:01:19,660
-Ah, good.
-
-49
-00:01:19,660 --> 00:01:20,232
-TC EMPLOYEE:
-
-50
-00:01:20,232 --> 00:01:24,233
-And again, visitors are welcome to explore the farm on their own, as long
-
-51
-00:01:24,233 --> 00:01:27,092
-as they take care to close gates and so on.
-
-52
-00:01:27,092 --> 00:01:31,093
-There are some very beautiful gardens along the side of the lake which also
-
-53
-00:01:31,093 --> 00:01:34,238
-belong to the farm - they'll be just at their best now.
-
-54
 00:01:34,238 --> 00:01:36,810
 You could easily spend an hour or two there.
 
-55
-00:01:36,810 --> 00:01:37,260
-VISITOR:
+28
+00:01:36,810 --> 00:01:42,660
+VISITOR: OK. Well that all sounds good. And can we get lunch there?
 
-56
-00:01:37,260 --> 00:01:37,710
-OK.
+29
+00:01:42,660 --> 00:01:45,100
+TC EMPLOYEE: You can, and it's very good
 
-57
-00:01:37,710 --> 00:01:39,960
-Well that all sounds good.
+30
+00:01:45,120 --> 00:01:47,504
+though it's not included in the basic cost.
 
-58
-00:01:39,960 --> 00:01:42,660
-And can we get lunch there?
-
-59
-00:01:42,660 --> 00:01:43,265
-TC EMPLOYEE:
-
-60
-00:01:43,265 --> 00:01:43,871
-You can,
-
-61
-00:01:43,871 --> 00:01:47,504
-and it's very good, though it's not included in the basic cost.
-
-62
+31
 00:01:47,504 --> 00:01:49,320
 You pay when you get there.
 
-63
-00:01:49,320 --> 00:01:49,965
-VISITOR:
+32
+00:01:49,320 --> 00:01:50,610
+VISITOR: Right.
 
-64
-00:01:49,965 --> 00:01:50,610
-Right.
+33
+00:01:50,610 --> 00:01:54,740
+VISITOR: So is there anything else to do over on that side of the lake?
 
-65
-00:01:50,610 --> 00:01:50,885
-VISITOR:
+34
+00:01:54,740 --> 00:01:58,160
+TC EMPLOYEE: Well, what you can do is take a bike over on the ship
 
-66
-00:01:50,885 --> 00:01:54,740
-So is there anything else to do over on that side of the lake?
-
-67
-00:01:54,740 --> 00:01:55,356
-TC EMPLOYEE:
-
-68
-00:01:55,356 --> 00:01:59,358
-Well, what you can do is take a bike over on the ship
-
-69
-00:01:59,358 --> 00:02:01,513
+35
+00:01:58,160 --> 00:02:01,513
 and then go on a cycling trip.
 
-70
-00:02:01,513 --> 00:02:05,515
-There's a trail there called the Back Road -- you could easily spend three
+36
+00:02:01,513 --> 00:02:02,640
+There's a trail there called the Back Road
 
-71
-00:02:05,515 --> 00:02:07,055
-or four hours exploring it,
+37
+00:02:03,080 --> 00:02:08,286
+you could easily spend three or four hours exploring it, and the scenery's wonderful.
 
-72
-00:02:07,055 --> 00:02:08,286
-and the scenery's wonderful.
+38
+00:02:08,286 --> 00:02:09,780
+They'll give you a map
 
-73
-00:02:08,286 --> 00:02:12,289
-They'll give you a map when you get your ticket for the cruise -
+39
+00:02:09,780 --> 00:02:13,520
+when you get your ticket for the cruise - there's no extra charge.
 
-74
-00:02:12,289 --> 00:02:13,520
-there's no extra charge.
+40
+00:02:13,520 --> 00:02:17,380
+VISITOR: What's the trail like in terms of difficulty?
 
-75
-00:02:13,520 --> 00:02:13,949
-VISITOR:
+41
+00:02:17,380 --> 00:02:19,575
+TC EMPLOYEE: Quite challenging in places.
 
-76
-00:02:13,949 --> 00:02:17,380
-What's the trail like in terms of difficulty?
+42
+00:02:19,575 --> 00:02:25,430
+It wouldn't be suitable for your seven-year-old. It needs someone who's got a bit more experience.
 
-77
-00:02:17,380 --> 00:02:18,112
-TC EMPLOYEE:
+43
+00:02:25,430 --> 00:02:29,848
+VISITOR: Hmm. Well, my daughter loves cycling and so do I,
 
-78
-00:02:18,112 --> 00:02:19,575
-Quite challenging in places.
+44
+00:02:29,848 --> 00:02:37,078
+so maybe the two of us could go, and my wife and son could stay on the farm.
 
-79
-00:02:19,575 --> 00:02:22,137
-It wouldn't be suitable for your seven-year-old.
+45
+00:02:37,078 --> 00:02:40,780
+That might work out quite well. But we don't have bikes here
 
-80
-00:02:22,137 --> 00:02:25,430
-It needs someone who's got a bit more experience.
-
-81
-00:02:25,430 --> 00:02:25,832
-VISITOR:
-
-82
-00:02:25,832 --> 00:02:26,233
-Hmm.
-
-83
-00:02:26,233 --> 00:02:29,848
-Well, my daughter loves cycling and so do I,
-
-84
-00:02:29,848 --> 00:02:33,062
-so maybe the two of us could go,
-
-85
-00:02:33,062 --> 00:02:37,078
-and my wife and son could stay on the farm.
-
-86
-00:02:37,078 --> 00:02:39,488
-That might work out quite well.
-
-87
-00:02:39,488 --> 00:02:41,898
-But we don't have bikes here...
-
-88
-00:02:41,898 --> 00:02:44,710
+46
+00:02:41,000 --> 00:02:44,710
 is there somewhere we could rent them?
 
-89
-00:02:44,710 --> 00:02:45,548
-TC EMPLOYEE:
+47
+00:02:44,710 --> 00:02:50,160
+TC EMPLOYEE: Yes, there's a place here in the city. It's called Ratchesons.
 
-90
-00:02:45,548 --> 00:02:48,902
-Yes, there's a place here in the city.
+48
+00:02:50,160 --> 00:02:54,160
+VISITOR: I'll just make a note of that - er, how do you spell it?
 
-91
-00:02:48,902 --> 00:02:50,160
-It's called Ratchesons.
+49
+00:02:54,160 --> 00:03:04,010
+TC EMPLOYEE: R-A-T-C-H-E-S-O-N-S. It's just by the cruise ship terminal.
 
-92
-00:02:50,160 --> 00:02:50,446
-VISITOR:
+50
+00:03:04,010 --> 00:03:05,660
+VISITOR: OK.
 
-93
-00:02:50,446 --> 00:02:54,160
-I'll just make a note of that - er, how do you spell it?
+51
+00:03:05,660 --> 00:03:11,212
+TC EMPLOYEE: You'd also need to pick up a repair kit for the bike from there to take along with you,
 
-94
-00:02:54,160 --> 00:02:56,130
-TC EMPLOYEE:
+52
+00:03:11,212 --> 00:03:13,520
+and you'd need to take along a snack and some water
 
-95
-00:02:56,130 --> 00:02:57,115
-R-A-T-C-H-E-S-O-N-S.
+53
+00:03:14,020 --> 00:03:16,500
+it'd be best to get those in the city.
 
-96
-00:02:57,115 --> 00:03:04,010
-It's just by the cruise ship terminal.
+54
+00:03:16,500 --> 00:03:18,920
+VISITOR: Fine. That shouldn't be a problem
 
-97
-00:03:04,010 --> 00:03:04,835
-VISITOR:
-
-98
-00:03:04,835 --> 00:03:05,660
-OK.
-
-99
-00:03:05,660 --> 00:03:06,189
-TC EMPLOYEE:
-
-100
-00:03:06,189 --> 00:03:09,890
-You'd also need to pick up a repair kit for the bike from there
-
-101
-00:03:09,890 --> 00:03:11,212
-to take along with you,
-
-102
-00:03:11,212 --> 00:03:14,649
-and you'd need to take along a snack and some water - it'd be
-
-103
-00:03:14,649 --> 00:03:16,500
-best to get those in the city.
-
-104
-00:03:16,500 --> 00:03:16,856
-VISITOR:
-
-105
-00:03:16,856 --> 00:03:17,212
-Fine.
-
-106
-00:03:17,212 --> 00:03:18,991
-That shouldn't be a problem.
-
-107
-00:03:18,991 --> 00:03:23,260
+55
+00:03:19,540 --> 00:03:23,260
 And I assume I can rent a helmet from the bike place?
 
-108
-00:03:23,260 --> 00:03:23,850
-TC EMPLOYEE:
+56
+00:03:23,260 --> 00:03:25,622
+TC EMPLOYEE: Sure, you should definitely get that.
 
-109
-00:03:23,850 --> 00:03:25,622
-Sure, you should definitely get that.
+57
+00:03:25,622 --> 00:03:30,050
+It's a great ride, but you want to be well prepared because it's very remote -
 
-110
-00:03:25,622 --> 00:03:26,803
-It's a great ride,
+58
+00:03:30,050 --> 00:03:33,620
+you won't see any shops round there, or anywhere to stay
 
-111
-00:03:26,803 --> 00:03:30,640
-but you want to be well prepared because it's very remote - you won't
-
-112
-00:03:30,640 --> 00:03:32,117
-see any shops round there,
-
-113
-00:03:32,117 --> 00:03:33,297
-or anywhere to stay,
-
-114
-00:03:33,297 --> 00:03:36,840
+59
+00:03:33,880 --> 00:03:36,840
 so you need to get back in time for the last boat.
 
-115
-00:03:36,840 --> 00:03:37,235
-VISITOR:
+60
+00:03:36,840 --> 00:03:41,580
+VISITOR: Yeah. So what sort of prices are we looking at here?
 
-116
-00:03:37,235 --> 00:03:37,630
-Yeah.
+61
+00:03:41,580 --> 00:03:44,500
+TC EMPLOYEE: Let's see, that'd be one adult
 
-117
-00:03:37,630 --> 00:03:41,580
-So what sort of prices are we looking at here?
+62
+00:03:44,500 --> 00:03:48,720
+and one child for the cruise with farm tour,
 
-118
-00:03:41,580 --> 00:03:42,420
-TC EMPLOYEE:
+63
+00:03:48,720 --> 00:03:53,220
+that's $117, and an adult and a child for the cruise only
 
-119
-00:03:42,420 --> 00:03:43,260
-Let's see,
-
-120
-00:03:43,260 --> 00:03:48,720
-that'd be one adult and one child for the cruise with farm tour,
-
-121
-00:03:48,720 --> 00:03:49,560
-that's $117,
-
-122
-00:03:49,560 --> 00:03:53,760
-and an adult and a child for the cruise only
-
-123
-00:03:53,760 --> 00:03:55,860
+64
+00:03:53,220 --> 00:03:55,860
 so that's $214 dollars altogether.
 
-124
+65
 00:03:55,860 --> 00:04:00,900
 Oh, wait a minute, how old did you say your daughter was?
 
-125
-00:04:00,900 --> 00:04:01,745
-VISITOR:
+66
+00:04:00,900 --> 00:04:02,590
+VISITOR: Fifteen.
 
-126
-00:04:01,745 --> 00:04:02,590
-Fifteen.
+67
+00:04:02,590 --> 00:04:09,014
+TC EMPLOYEE: Then I'm afraid it's $267 because she has to pay the adult fare,
 
-127
-00:04:02,590 --> 00:04:03,447
-TC EMPLOYEE:
-
-128
-00:04:03,447 --> 00:04:09,014
-Then I'm afraid it's $267 because she has to pay the adult fare,
-
-129
+68
 00:04:09,014 --> 00:04:15,010
 which is $75 instead of the child fare which is $22 - sorry about that.
 
-130
-00:04:15,010 --> 00:04:15,476
-VISITOR:
-
-131
-00:04:15,476 --> 00:04:16,407
-That's OK.
-
-132
-00:04:16,407 --> 00:04:16,873
-Er,
-
-133
-00:04:16,873 --> 00:04:18,270
-so how do...
+69
+00:04:15,010 --> 00:04:18,270
+VISITOR: That's OK. Er, so how do...

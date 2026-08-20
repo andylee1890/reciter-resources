@@ -1,335 +1,283 @@
 1
 00:00:00,000 --> 00:00:04,500
-HAZAL:Tom, could I ask you for some advice, please?
+HAZAL: Tom, could I ask you for some advice, please?
 
 2
-00:00:04,500 --> 00:00:08,223
-Tom:Yes of course, if you think I can help.
+00:00:04,500 --> 00:00:09,340
+Tom: Yes of course, if you think I can help. What's it about?
 
 3
-00:00:08,223 --> 00:00:09,340
-What's it about?
+00:00:09,340 --> 00:00:14,697
+HAZAL: It's my first media studies assignment, and I'm not sure how to go about it.
 
 4
-00:00:09,340 --> 00:00:11,683
-HAZAL:It's my first media studies assignment,
-
-5
-00:00:11,683 --> 00:00:14,697
-and I'm not sure how to go about it.
-
-6
 00:00:14,697 --> 00:00:17,040
 You must have done it last year.
 
+5
+00:00:17,040 --> 00:00:22,820
+Tom: Is that the one comparing the coverage of a particular story in a range of newspapers?
+
+6
+00:00:22,820 --> 00:00:23,730
+HAZAL: That's right.
+
 7
-00:00:17,040 --> 00:00:22,140
-Tom:Is that the one comparing the coverage of a particular story in a range
+00:00:23,730 --> 00:00:26,940
+Tom: Oh yes, I really enjoyed writing it.
 
 8
-00:00:22,140 --> 00:00:22,820
-of newspapers?
+00:00:26,940 --> 00:00:30,130
+HAZAL: So what sort of things do I need to compare?
 
 9
-00:00:22,820 --> 00:00:23,730
-HAZAL:That's right.
+00:00:30,130 --> 00:00:32,407
+Tom: Well, there are several things.
 
 10
-00:00:23,730 --> 00:00:26,940
-Tom:Oh yes, I really enjoyed writing it.
+00:00:32,407 --> 00:00:35,340
+For example, there's the question of
 
 11
-00:00:26,940 --> 00:00:30,130
-HAZAL:So what sort of things do I need to compare?
+00:00:35,340 --> 00:00:38,100
+which page of the newspaper the item appears on.
 
 12
-00:00:30,130 --> 00:00:32,407
-Tom:Well, there are several things.
+00:00:38,100 --> 00:00:43,291
+Hazel: You mean, because there's a big difference between having it on the front page
 
 13
-00:00:32,407 --> 00:00:37,720
-For example, there's the question of which page of the newspaper the item appears
-
-14
-00:00:37,720 --> 00:00:38,100
-on.
-
-15
-00:00:38,100 --> 00:00:39,138
-Hazel:You mean,
-
-16
-00:00:39,138 --> 00:00:43,291
-because there's a big difference between having it on the front page
-
-17
 00:00:43,291 --> 00:00:46,060
 and the bottom of page ten, for instance?
 
+14
+00:00:46,060 --> 00:00:51,550
+Tom: Exactly. And that shows how important the editor thinks the story is.
+
+15
+00:00:51,550 --> 00:00:57,500
+Then there's the size - how many column inches the story is given
+
+16
+00:00:58,180 --> 00:01:00,390
+how many columns it spreads over.
+
+17
+00:01:00,390 --> 00:01:03,730
+Hazel: And I suppose that includes the headline.
+
 18
-00:00:46,060 --> 00:00:46,905
-Tom:Exactly.
+00:01:03,730 --> 00:01:07,840
+Tom: It certainly does. It's all part of attracting the reader's attention.
 
 19
-00:00:46,905 --> 00:00:51,550
-And that shows how important the editor thinks the story is.
+00:01:07,840 --> 00:01:13,430
+Hazel: What about graphics - whether there's anything visual in addition to the text?
 
 20
-00:00:51,550 --> 00:00:57,934
-Then there's the size – how many column inches the story is given, how
+00:01:13,430 --> 00:01:15,817
+Tom: Yes, you need to consider those,
 
 21
-00:00:57,934 --> 00:01:00,390
-many columns it spreads over.
+00:01:15,817 --> 00:01:20,932
+too, because they can have a big effect on the reader's understanding of the story -
 
 22
-00:01:00,390 --> 00:01:03,730
-Hazel:And I suppose that includes the headline.
+00:01:20,932 --> 00:01:23,660
+sometimes a bigger effect than the text itself.
 
 23
-00:01:03,730 --> 00:01:05,100
-Tom:It certainly does.
+00:01:23,660 --> 00:01:27,720
+Then you'll need to look at how the item is put together
 
 24
-00:01:05,100 --> 00:01:07,840
-It's all part of attracting the reader's attention.
-
-25
-00:01:07,840 --> 00:01:13,430
-Hazel:What about graphics – whether there's anything visual in addition to the text?
-
-26
-00:01:13,430 --> 00:01:15,920
-Tom:Yes, you need to consider those, too,
-
-27
-00:01:15,920 --> 00:01:20,845
-because they can have a big effect on the reader's understanding of the story
-
-28
-00:01:20,845 --> 00:01:23,660
-– sometimes a bigger effect than the text itself.
-
-29
-00:01:23,660 --> 00:01:28,199
-Then you'll need to look at how the item is put together:
-
-30
-00:01:28,199 --> 00:01:30,090
+00:01:28,500 --> 00:01:30,090
 what structure is it given?
 
-31
-00:01:30,090 --> 00:01:36,060
+25
+00:01:30,090 --> 00:01:35,147
 Bear in mind that not many people read beyond the first paragraph,
 
-32
-00:01:36,060 --> 00:01:38,940
+26
+00:01:35,147 --> 00:01:38,940
 so what has the journalist put at the beginning?
 
+27
+00:01:38,940 --> 00:01:42,789
+And if, say, there are conflicting opinions about something,
+
+28
+00:01:42,789 --> 00:01:47,920
+does one appear near the end, where people probably won't read it?
+
+29
+00:01:47,920 --> 00:01:53,730
+Hazel: And newspapers sometimes give wrong or misleading information, don't they?
+
+30
+00:01:53,730 --> 00:01:58,890
+Either deliberately or by accident. Should I be looking at that, too?
+
+31
+00:01:58,890 --> 00:02:00,823
+Tom: Yes, if you can.
+
+32
+00:02:00,823 --> 00:02:05,580
+Compare what's in different versions, and as far as possible
+
 33
-00:01:38,940 --> 00:01:44,927
-And if, say, there are conflicting opinions about something, does one appear near the
+00:02:05,860 --> 00:02:08,170
+try and work out what's true and what isn't.
 
 34
-00:01:44,927 --> 00:01:47,920
-end, where people probably won't read it?
-
-35
-00:01:47,920 --> 00:01:53,730
-Hazel:And newspapers sometimes give wrong or misleading information, don't they?
-
-36
-00:01:53,730 --> 00:01:55,880
-Either deliberately or by accident.
-
-37
-00:01:55,880 --> 00:01:58,890
-Should I be looking at that, too?
-
-38
-00:01:58,890 --> 00:02:00,823
-Tom:Yes, if you can.
-
-39
-00:02:00,823 --> 00:02:02,757
-Compare what's in different versions,
-
-40
-00:02:02,757 --> 00:02:08,170
-and as far as possible, try and work out what's true and what isn't.
-
-41
-00:02:08,170 --> 00:02:12,490
+00:02:08,170 --> 00:02:11,993
 And that relates to a very important point:
 
-42
-00:02:12,490 --> 00:02:14,650
-what's the writer's purpose,
+35
+00:02:11,993 --> 00:02:19,160
+what's the writer's purpose, or at least the most important one, if they have several.
 
-43
-00:02:14,650 --> 00:02:19,160
-or at least the most important one, if they have several.
-
-44
-00:02:19,160 --> 00:02:22,630
+36
+00:02:19,160 --> 00:02:22,961
 It may seem to be to inform the public,
 
-45
-00:02:22,630 --> 00:02:26,100
-but often it's that they want to create fear,
+37
+00:02:22,961 --> 00:02:26,380
+but often it's that they want to create fear
 
-46
-00:02:26,100 --> 00:02:27,110
-or controversy,
+38
+00:02:26,580 --> 00:02:30,140
+or controversy, or to make somebody look ridiculous.
 
-47
-00:02:27,110 --> 00:02:30,140
-or to make somebody look ridiculous.
+39
+00:02:30,140 --> 00:02:32,800
+Hazel: Gosh, I see what you mean
 
-48
-00:02:30,140 --> 00:02:32,788
-Hazel:Gosh, I see what you mean.
-
-49
-00:02:32,788 --> 00:02:36,950
+40
+00:02:33,480 --> 00:02:36,950
 And I suppose the writer may make assumptions about the reader.
 
-50
-00:02:36,950 --> 00:02:41,357
-Tom:That's right – about their knowledge of the subject, their attitudes,
+41
+00:02:36,950 --> 00:02:41,790
+Tom: That's right - about their knowledge of the subject, their attitudes,
 
-51
-00:02:41,357 --> 00:02:43,360
-and their level of education,
+42
+00:02:41,790 --> 00:02:43,580
+and their level of education
 
-52
-00:02:43,360 --> 00:02:48,830
+43
+00:02:44,220 --> 00:02:48,830
 which means writing so that the readers understand without feeling patronised.
 
-53
+44
 00:02:48,830 --> 00:02:53,070
 All of that will make a difference to how the story is presented.
 
-54
+45
 00:02:53,070 --> 00:02:59,680
-Hazel:Does it matter what type of story I write about?
+Hazel: Does it matter what type of story I write about?
 
-55
+46
 00:02:59,680 --> 00:03:03,381
-Tom:No – national or international politics, the arts ...
+Tom: No - national or international politics, the arts...
 
-56
+47
 00:03:03,381 --> 00:03:08,470
 Anything, as long as it's covered in two or three newspapers.
 
-57
-00:03:08,470 --> 00:03:13,712
-Though of course it'll be easier and more fun if it's something you're interested in
+48
+00:03:08,470 --> 00:03:12,500
+Though of course it'll be easier and more fun
 
-58
-00:03:13,712 --> 00:03:15,110
-and know something about.
+49
+00:03:12,500 --> 00:03:15,110
+if it's something you're interested in and know something about.
 
-59
-00:03:15,110 --> 00:03:20,457
-Hazel:And on that basis a national news item would be worth analysing – I'm
+50
+00:03:15,110 --> 00:03:20,075
+Hazel: And on that basis a national news item would be worth analysing -
 
-60
-00:03:20,457 --> 00:03:21,985
-quite keen on politics,
+51
+00:03:20,075 --> 00:03:25,040
+I'm quite keen on politics, so I'll try and find a suitable topic.
 
-61
-00:03:21,985 --> 00:03:25,040
-so I'll try and find a suitable topic.
-
-62
+52
 00:03:25,040 --> 00:03:28,550
 What did you choose for your analysis, Tom?
 
-63
-00:03:28,550 --> 00:03:33,990
-Tom:I was interested in how newspapers express their opinions explicitly,
+53
+00:03:28,550 --> 00:03:33,352
+Tom: I was interested in how newspapers express their opinions explicitly,
 
-64
-00:03:33,990 --> 00:03:38,458
+54
+00:03:33,352 --> 00:03:37,282
 so I wanted to compare editorials in different papers,
 
-65
-00:03:38,458 --> 00:03:40,940
-but when I started looking,
+55
+00:03:37,282 --> 00:03:41,600
+but when I started looking
 
-66
-00:03:40,940 --> 00:03:45,140
+56
+00:03:42,160 --> 00:03:45,140
 I couldn't find two on the same topic that I felt like analysing.
 
-67
+57
 00:03:45,140 --> 00:03:47,990
-Hazel:In that case, I won't even bother to look.
+Hazel: In that case, I won't even bother to look.
 
-68
-00:03:47,990 --> 00:03:52,427
-Tom:So in the end I chose a human interest story – a terribly emotional
+58
+00:03:47,990 --> 00:03:52,131
+Tom: So in the end I chose a human interest story -
 
-69
-00:03:52,427 --> 00:03:55,280
-story about a young girl who was very ill,
+59
+00:03:52,131 --> 00:03:56,647
+a terribly emotional story about a young girl who was very ill,
 
-70
-00:03:55,280 --> 00:03:59,437
-and lots of other people – mostly strangers – raised money
+60
+00:03:56,647 --> 00:03:59,760
+and lots of other people - mostly strangers
 
-71
-00:03:59,437 --> 00:04:02,670
-so she could go abroad for treatment.
+61
+00:04:00,060 --> 00:04:02,670
+raised money so she could go abroad for treatment.
 
-72
-00:04:02,670 --> 00:04:08,850
-Actually, I was surprised – some papers just wrote about how wonderful everyone was,
+62
+00:04:02,670 --> 00:04:09,113
+Actually, I was surprised - some papers just wrote about how wonderful everyone was,
 
-73
-00:04:08,850 --> 00:04:15,060
+63
+00:04:09,113 --> 00:04:15,060
 but others considered the broader picture, like why treatment wasn't available here.
 
-74
+64
 00:04:15,060 --> 00:04:20,770
-Hazel:Hmm, I usually find stories like that raise quite strong feelings in me!
+Hazel: Hmm, I usually find stories like that raise quite strong feelings in me!
 
-75
+65
 00:04:20,770 --> 00:04:22,410
 I'll avoid that.
 
-76
-00:04:22,410 --> 00:04:27,355
-Perhaps I'll choose an arts topic, like different reviews of a film,
+66
+00:04:22,410 --> 00:04:24,880
+Perhaps I'll choose an arts topic,
 
-77
-00:04:27,355 --> 00:04:30,240
-or something about funding for the arts –
+67
+00:04:24,880 --> 00:04:28,640
+like different reviews of a film
 
-78
-00:04:30,240 --> 00:04:31,880
-I'll think about that.
+68
+00:04:28,640 --> 00:04:31,880
+or something about funding for the arts - I'll think about that.
 
-79
-00:04:31,880 --> 00:04:32,600
-tom:Yes,
+69
+00:04:31,880 --> 00:04:34,040
+Tom: Yes, that might be interesting.
 
-80
-00:04:32,600 --> 00:04:34,040
-that might be interesting.
+70
+00:04:34,040 --> 00:04:38,220
+Hazel: OK, well thanks a lot for your help, Tom. It's been really useful.
 
-81
-00:04:34,040 --> 00:04:37,026
-Hazel:OK, well thanks a lot for your help, Tom.
-
-82
-00:04:37,026 --> 00:04:38,220
-It's been really useful.
-
-83
-00:04:38,220 --> 00:04:39,243
-Tom:You're welcome.
-
-84
-00:04:39,243 --> 00:04:41,290
-Good luck with the assignment, Hazel.
+71
+00:04:38,220 --> 00:04:41,290
+Tom: You're welcome. Good luck with the assignment, Hazel.

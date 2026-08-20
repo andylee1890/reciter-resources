@@ -1,279 +1,251 @@
 1
-00:00:00,000 --> 00:00:05,880
-In today’s astronomy lecture, I’m going to talk about the need for a system
+00:00:00,000 --> 00:00:01,927
+In today's astronomy lecture,
 
 2
-00:00:05,880 --> 00:00:11,560
-to manage the movement of satellites and other objects in orbit around the Earth.
+00:00:01,927 --> 00:00:08,477
+I'm going to talk about the need for a system to manage the movement of satellites
 
 3
+00:00:08,477 --> 00:00:11,560
+and other objects in orbit around the Earth.
+
+4
 00:00:11,560 --> 00:00:15,780
 In other words, a Space Traffic Management system.
 
-4
-00:00:15,780 --> 00:00:22,327
-We already have effective Air Traffic Control systems that are used internationally to ensure
-
 5
-00:00:22,327 --> 00:00:25,660
-that planes navigate our skies safely.
+00:00:15,780 --> 00:00:25,660
+We already have effective Air Traffic Control systems that are used internationally to ensure that planes navigate our skies safely.
 
 6
-00:00:25,660 --> 00:00:29,359
-Well, Space Traffic Management is a similar concept,
+00:00:25,660 --> 00:00:29,400
+Well, Space Traffic Management is a similar concept
 
 7
-00:00:29,359 --> 00:00:33,300
+00:00:29,740 --> 00:00:33,300
 but focusing on the control of satellites.
 
 8
-00:00:33,300 --> 00:00:38,116
-The aim of such a system would be to prevent the danger of collisions
+00:00:33,300 --> 00:00:42,490
+The aim of such a system would be to prevent the danger of collisions in space between the objects in orbit around the Earth.
 
 9
-00:00:38,116 --> 00:00:42,490
-in space between the objects in orbit around the Earth.
+00:00:42,490 --> 00:00:48,246
+In order to do this, we'd need to have a set of legal measures,
 
 10
-00:00:42,490 --> 00:00:47,286
-In order to do this, we’d need to have a set of legal
+00:00:48,246 --> 00:00:54,770
+and we'd also have to develop the technical systems to enable us to prevent such accidents.
 
 11
-00:00:47,286 --> 00:00:48,068
-measures,
+00:00:54,770 --> 00:01:02,470
+But unfortunately, at present we don't actually have a Space Traffic Management system that works.
 
 12
-00:00:48,068 --> 00:00:54,770
-and we’d also have to develop the technical systems to enable us to prevent
+00:01:02,470 --> 00:01:08,470
+So why not? What are the problems in developing such a system?
 
 13
-00:00:54,770 --> 00:00:54,820
-such accidents.
+00:01:08,470 --> 00:01:12,542
+Well, for one thing, satellites are relatively cheap these days,
 
 14
-00:00:54,820 --> 00:01:02,470
-But unfortunately, at present we don’t actually have a Space Traffic Management system that
+00:01:12,542 --> 00:01:16,060
+compared with how they were in the past
 
 15
-00:01:02,470 --> 00:01:02,520
-works.
+00:01:16,640 --> 00:01:20,280
+meaning that more people can afford to put them into space.
 
 16
-00:01:02,520 --> 00:01:04,383
-So why not?
+00:01:20,280 --> 00:01:22,960
+So there's a lot more of them out there
 
 17
-00:01:04,383 --> 00:01:08,470
-What are the problems in developing such a system?
+00:01:22,960 --> 00:01:27,852
+and people aren't just launching single satellites
 
 18
-00:01:08,470 --> 00:01:14,171
-Well, for one thing, satellites are relatively cheap these days, compared with how they
+00:01:27,852 --> 00:01:32,900
+but whole constellations, consisting of thousands of them designed to work together.
 
 19
-00:01:14,171 --> 00:01:19,873
-were in the past, meaning that more people can afford to put them into
-
-20
-00:01:19,873 --> 00:01:20,280
-space.
-
-21
-00:01:20,280 --> 00:01:24,487
-So there’s a lot more of them out there,
-
-22
-00:01:24,487 --> 00:01:30,797
-and people aren’t just launching single satellites but whole constellations, consisting of thousands of
-
-23
-00:01:30,797 --> 00:01:32,900
-them designed to work together.
-
-24
 00:01:32,900 --> 00:01:37,340
 So space is getting more crowded every day.
 
+20
+00:01:37,340 --> 00:01:39,740
+But in spite of this
+
+21
+00:01:40,140 --> 00:01:45,756
+one thing you may be surprised to learn is that you can launch a satellite into space
+
+22
+00:01:45,756 --> 00:01:47,560
+and, once it's out there
+
+23
+00:01:47,760 --> 00:01:53,790
+it doesn't have to send back any information to Earth to allow its identification.
+
+24
+00:01:53,790 --> 00:01:58,240
+So while we have international systems for ensuring we know
+
 25
-00:01:37,340 --> 00:01:42,696
-But in spite of this, one thing you may be surprised to learn is
+00:01:58,240 --> 00:02:00,314
+where the planes in our skies are,
 
 26
-00:01:42,696 --> 00:01:48,434
-that you can launch a satellite into space and, once it’s out there, it
+00:02:00,314 --> 00:02:03,380
+and to prevent them from colliding with one another
 
 27
-00:01:48,434 --> 00:01:53,790
-doesn’t have to send back any information to Earth to allow its identification.
+00:02:04,100 --> 00:02:06,838
+when it comes to the safety of satellites,
 
 28
-00:01:53,790 --> 00:01:59,162
-So while we have international systems for ensuring we know where the planes in
+00:02:06,838 --> 00:02:12,210
+at present we don't have anything like enough proper ways of tracking them.
 
 29
-00:01:59,162 --> 00:02:00,314
-our skies are,
+00:02:12,210 --> 00:02:16,620
+And it isn't just entire satellites that we need to consider.
 
 30
-00:02:00,314 --> 00:02:03,768
-and to prevent them from colliding with one another,
+00:02:16,620 --> 00:02:22,853
+A greater threat is the huge amount of space debris in orbit around the Earth -
 
 31
-00:02:03,768 --> 00:02:09,524
-when it comes to the safety of satellites, at present we don’t have anything
+00:02:22,853 --> 00:02:27,840
+broken bits of satellite and junk from space stations and so on.
 
 32
-00:02:09,524 --> 00:02:12,210
-like enough proper ways of tracking them.
+00:02:27,840 --> 00:02:33,120
+And some of these are so small that they can be very hard to identify
 
 33
-00:02:12,210 --> 00:02:16,620
-And it isn’t just entire satellites that we need to consider.
-
-34
-00:02:16,620 --> 00:02:22,438
-A greater threat is the huge amount of space debris in orbit around the
-
-35
-00:02:22,438 --> 00:02:27,840
-Earth – broken bits of satellite and junk from space stations and so on.
-
-36
-00:02:27,840 --> 00:02:33,325
-And some of these are so small that they can be very hard to
-
-37
-00:02:33,325 --> 00:02:33,717
-identify,
-
-38
-00:02:33,717 --> 00:02:36,460
+00:02:33,120 --> 00:02:36,460
 but they can still be very dangerous.
 
-39
-00:02:36,460 --> 00:02:43,622
-In addition, some operators may be unwilling to share information about the satellites they’ve
+34
+00:02:36,460 --> 00:02:44,100
+In addition, some operators may be unwilling to share information about the satellites they've launched.
 
-40
-00:02:43,622 --> 00:02:44,100
-launched.
-
-41
+35
 00:02:44,100 --> 00:02:48,306
 For example, a satellite may be designed for military purposes,
 
-42
+36
 00:02:48,306 --> 00:02:52,092
 or it may have been launched for commercial reasons,
 
-43
+37
 00:02:52,092 --> 00:02:57,140
-and the operators don’t want competitors to have information about it.
+and the operators don't want competitors to have information about it.
+
+38
+00:02:57,140 --> 00:03:01,020
+And even if the operators are willing to provide it
+
+39
+00:03:01,360 --> 00:03:04,400
+the information isn't easy to collect.
+
+40
+00:03:04,400 --> 00:03:07,640
+Details are needed about the object itself
+
+41
+00:03:07,640 --> 00:03:11,252
+as well as about its location at a particular time -
+
+42
+00:03:11,252 --> 00:03:15,160
+and remember that a satellite isn't very big
+
+43
+00:03:15,160 --> 00:03:20,120
+and it's likely to be moving at thousands of kilometres an hour.
 
 44
-00:02:57,140 --> 00:03:03,546
-And even if the operators are willing to provide it, the information isn’t easy
+00:03:20,120 --> 00:03:27,692
+We don't have any sensors that can constantly follow something moving so fast,
 
 45
-00:03:03,546 --> 00:03:04,400
-to collect.
-
-46
-00:03:04,400 --> 00:03:11,252
-Details are needed about the object itself, as well as about its location at a particular time –
-
-47
-00:03:11,252 --> 00:03:14,880
-and remember that a satellite isn’t very big,
-
-48
-00:03:14,880 --> 00:03:20,120
-and it’s likely to be moving at thousands of kilometres an hour.
-
-49
-00:03:20,120 --> 00:03:27,692
-We don’t have any sensors that can constantly follow something moving so fast,
-
-50
-00:03:27,692 --> 00:03:35,265
+00:03:27,692 --> 00:03:32,240
 so all that the scientists can do is to put forward a prediction concerning
 
-51
-00:03:35,265 --> 00:03:38,510
+46
+00:03:32,240 --> 00:03:38,510
 where the satellite is heading next.
 
-52
+47
 00:03:38,510 --> 00:03:43,320
-So those are some of the problems that we’re facing.
+So those are some of the problems that we're facing.
 
-53
+48
 00:03:43,320 --> 00:03:48,190
-Let’s consider now some of the solutions that have been suggested.
+Let's consider now some of the solutions that have been suggested.
 
-54
+49
 00:03:48,190 --> 00:03:53,480
 One key issue is the way in which information is dealt with.
 
+50
+00:03:53,480 --> 00:03:59,581
+We need more information, but it also needs to be accessible at a global level,
+
+51
+00:03:59,581 --> 00:04:06,496
+so we need to establish shared standards that we can all agree on for the way in
+
+52
+00:04:06,496 --> 00:04:08,530
+which this information is presented.
+
+53
+00:04:08,530 --> 00:04:12,220
+We already do this in other areas of science
+
+54
+00:04:12,560 --> 00:04:17,290
+so although this is a challenge, it's not an impossible task.
+
 55
-00:03:53,480 --> 00:03:55,107
-We need more information,
+00:04:17,290 --> 00:04:20,660
+Then, as all this information's collected
 
 56
-00:03:55,107 --> 00:03:59,581
-but it also needs to be accessible at a global level,
+00:04:20,740 --> 00:04:24,434
+it needs to be put together so it can be used,
 
 57
-00:03:59,581 --> 00:04:05,276
-so we need to establish shared standards that we can all agree on for
-
-58
-00:04:05,276 --> 00:04:08,530
-the way in which this information is presented.
-
-59
-00:04:08,530 --> 00:04:12,284
-We already do this in other areas of science,
-
-60
-00:04:12,284 --> 00:04:17,290
-so although this is a challenge, it’s not an impossible task.
-
-61
-00:04:17,290 --> 00:04:22,449
-Then, as all this information’s collected, it needs to be put together
-
-62
-00:04:22,449 --> 00:04:24,434
-so it can be used,
-
-63
 00:04:24,434 --> 00:04:29,990
 and that will involve creating a single database on which it can be entered.
 
-64
-00:04:29,990 --> 00:04:36,562
-As we continue to push forward new developments, congestion of the space environment is
+58
+00:04:29,990 --> 00:04:34,000
+As we continue to push forward new developments
 
-65
-00:04:36,562 --> 00:04:38,440
-only going to increase.
+59
+00:04:34,440 --> 00:04:38,440
+congestion of the space environment is only going to increase.
 
-66
-00:04:38,440 --> 00:04:44,096
-To cope with this, we need to develop a system like the one I’ve
+60
+00:04:38,440 --> 00:04:47,866
+To cope with this, we need to develop a system like the one I've described to coordinate the work of the numerous spacecraft operators,
 
-67
-00:04:44,096 --> 00:04:47,866
-described to coordinate the work of the numerous spacecraft operators,
+61
+00:04:47,866 --> 00:04:55,031
+but it's also essential that this system is one that establishes trust in the people that use it,
 
-68
-00:04:47,866 --> 00:04:53,522
-but it’s also essential that this system is one that establishes trust in the
+62
+00:04:55,031 --> 00:04:57,670
+both nationally and at a global level.
 
-69
-00:04:53,522 --> 00:04:57,670
-people that use it, both nationally and at a global level.
-
-70
+63
 00:04:57,670 --> 00:05:01,320
-One interesting development …
+One interesting development...

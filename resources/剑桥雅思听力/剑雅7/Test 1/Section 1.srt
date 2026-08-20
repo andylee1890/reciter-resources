@@ -1,459 +1,275 @@
 1
-00:00:00,000 --> 00:00:04,371
-Hello, this is Land Transport Information at Toronto Airport.
+00:00:00,000 --> 00:00:05,620
+Hello, this is Land Transport Information at Toronto Airport. How may I help you?
 
 2
-00:00:04,371 --> 00:00:05,620
-How may I help you?
+00:00:05,620 --> 00:00:09,782
+Oh, good morning. Um, I'm flying to Toronto Airport next week,
 
 3
-00:00:05,620 --> 00:00:06,755
-Oh, good morning.
+00:00:09,782 --> 00:00:14,860
+and I need to get to a town called um, Milton
 
 4
-00:00:06,755 --> 00:00:09,782
-Um, I'm flying to Toronto Airport next week,
-
-5
-00:00:09,782 --> 00:00:13,945
-and I need to get to a town called um, Milton.
-
-6
-00:00:13,945 --> 00:00:17,350
+00:00:15,560 --> 00:00:17,350
 Could you tell me how I can get there?
 
+5
+00:00:17,350 --> 00:00:24,312
+Milton, did you say? Let me see. I think that's about 150 miles south-west of here.
+
+6
+00:00:24,312 --> 00:00:29,680
+In fact it's 147 miles to be exact
+
 7
-00:00:17,350 --> 00:00:19,091
-Milton, did you say?
-
-8
-00:00:19,091 --> 00:00:20,396
-Let me see.
-
-9
-00:00:20,396 --> 00:00:24,312
-I think that's about 150 miles south-west of here.
-
-10
-00:00:24,312 --> 00:00:27,793
-In fact it's 147 miles to be exact,
-
-11
-00:00:27,793 --> 00:00:33,450
+00:00:29,740 --> 00:00:33,450
 so it'll take you at least say, three to four hours by road.
 
-12
-00:00:33,450 --> 00:00:33,819
-Wow!
+8
+00:00:33,450 --> 00:00:36,030
+Wow! Is it as far as that?
 
-13
-00:00:33,819 --> 00:00:36,030
-Is it as far as that?
+9
+00:00:36,030 --> 00:00:39,987
+Yes, I'm afraid so. But you have a number of options to get you there
 
-14
-00:00:36,030 --> 00:00:37,085
-Yes, I'm afraid so.
-
-15
-00:00:37,085 --> 00:00:39,987
-But you have a number of options to get you there
-
-16
+10
 00:00:39,987 --> 00:00:43,680
 and you can always rent a car right here at the airport, of course.
 
-17
-00:00:43,680 --> 00:00:44,108
-Right.
+11
+00:00:43,680 --> 00:00:47,400
+Right. Well, I don't really want to drive myself
 
-18
-00:00:44,108 --> 00:00:47,534
-Well, I don't really want to drive myself,
-
-19
-00:00:47,534 --> 00:00:50,960
+12
+00:00:47,400 --> 00:00:50,960
 so I'd like more information about public transport.
 
-20
-00:00:50,960 --> 00:00:51,337
-OK.
+13
+00:00:50,960 --> 00:00:56,460
+OK. In that case the quickest and most comfortable is a cab
 
-21
-00:00:51,337 --> 00:00:55,480
-In that case the quickest and most comfortable is a cab
-
-22
-00:00:55,480 --> 00:00:58,493
+14
+00:00:56,460 --> 00:00:58,493
 and of course there are always plenty available.
 
+15
+00:00:58,493 --> 00:01:05,650
+But it'll cost you. You can also take a Greyhound bus or there's an Airport Shuttle Service to Milton.
+
+16
+00:01:05,650 --> 00:01:10,637
+Hmmm, I think for that kind of distance a cab would be way beyond my budget.
+
+17
+00:01:10,637 --> 00:01:15,000
+But the bus sounds OK. Can you tell me how much that would cost?
+
+18
+00:01:15,000 --> 00:01:22,880
+Sure. Let's see, that would be $15 one way, or $27
+
+19
+00:01:22,880 --> 00:01:26,010
+50 return... that's on the Greyhound.
+
+20
+00:01:26,010 --> 00:01:31,220
+Oh, that's quite cheap-great! But whereabouts does it stop in Milton?
+
+21
+00:01:31,220 --> 00:01:35,808
+It goes directly from the airport here to the City Centre and it's pretty fast.
+
+22
+00:01:35,808 --> 00:01:40,397
+But you have to bear in mind that there is only one departure a day,
+
 23
-00:00:58,493 --> 00:01:00,000
-But it'll cost you.
-
-24
-00:01:00,000 --> 00:01:05,273
-You can also take a Greyhound bus or there's an Airport Shuttle Service to
-
-25
-00:01:05,273 --> 00:01:05,650
-Milton.
-
-26
-00:01:05,650 --> 00:01:10,013
-Hmmm, I think for that kind of distance a cab would be way beyond
-
-27
-00:01:10,013 --> 00:01:10,637
-my budget.
-
-28
-00:01:10,637 --> 00:01:12,195
-But the bus sounds OK.
-
-29
-00:01:12,195 --> 00:01:15,000
-Can you tell me how much that would cost?
-
-30
-00:01:15,000 --> 00:01:15,648
-Sure.
-
-31
-00:01:15,648 --> 00:01:16,943
-Let's see,
-
-32
-00:01:16,943 --> 00:01:20,829
-that would be $15 one way,
-
-33
-00:01:20,829 --> 00:01:23,419
-or $27.50 return...
-
-34
-00:01:23,419 --> 00:01:26,010
-that's on the Greyhound.
-
-35
-00:01:26,010 --> 00:01:26,484
-Oh,
-
-36
-00:01:26,484 --> 00:01:27,905
-that's quite cheap-great!
-
-37
-00:01:27,905 --> 00:01:31,220
-But whereabouts does it stop in Milton?
-
-38
-00:01:31,220 --> 00:01:34,585
-It goes directly from the airport here to the City Centre
-
-39
-00:01:34,585 --> 00:01:35,808
-and it's pretty fast.
-
-40
-00:01:35,808 --> 00:01:40,091
-But you have to bear in mind that there is only one departure a
-
-41
-00:01:40,091 --> 00:01:40,397
-day,
-
-42
 00:01:40,397 --> 00:01:43,150
 so it depends what time your flight gets in.
 
-43
-00:01:43,150 --> 00:01:44,286
-Oh, of course.
+24
+00:01:43,150 --> 00:01:48,450
+Oh, of course. Hang on, we're due to get there at 11.30 am.
 
-44
-00:01:44,286 --> 00:01:48,450
-Hang on, we're due to get there at 11.30 am.
+25
+00:01:48,450 --> 00:01:52,400
+Hmmm, too bad, the bus leaves at 3.45
 
-45
-00:01:48,450 --> 00:01:52,126
-Hmmm, too bad, the bus leaves at 3.45,
-
-46
-00:01:52,126 --> 00:01:56,210
+26
+00:01:53,200 --> 00:01:56,210
 so you would have quite a wait-more than 4 hours.
 
-47
-00:01:56,210 --> 00:01:57,497
-Oh, I see.
+27
+00:01:56,210 --> 00:02:00,500
+Oh, I see. Well, what about the Shuttle you mentioned?
 
-48
-00:01:57,497 --> 00:02:00,500
-Well, what about the Shuttle you mentioned?
+28
+00:02:00,500 --> 00:02:07,261
+OK. That's the Airport Shuttle that will take you from the airport right to your hotel or private address.
 
-49
-00:02:00,500 --> 00:02:00,856
-OK.
+29
+00:02:07,261 --> 00:02:11,560
+It's a door-to-door service and it would suit you much better
 
-50
-00:02:00,856 --> 00:02:06,193
-That's the Airport Shuttle that will take you from the airport right to your hotel
-
-51
-00:02:06,193 --> 00:02:07,261
-or private address.
-
-52
-00:02:07,261 --> 00:02:11,175
-It's a door-to-door service and it would suit you much better,
-
-53
-00:02:11,175 --> 00:02:13,310
+30
+00:02:11,560 --> 00:02:13,310
 because there's one every two hours.
 
-54
+31
 00:02:13,310 --> 00:02:15,000
 So how much does that cost?
 
-55
-00:02:15,000 --> 00:02:16,005
-Let's see.
+32
+00:02:15,000 --> 00:02:21,880
+Let's see. Yeah, that's $35 one way, $65 return
 
-56
-00:02:16,005 --> 00:02:16,508
-Yeah,
-
-57
-00:02:16,508 --> 00:02:19,522
-that's $35 one way, $65 return,
-
-58
-00:02:19,522 --> 00:02:25,050
+33
+00:02:22,280 --> 00:02:25,050
 so I guess it's a bit more expensive than the Greyhound.
 
-59
-00:02:25,050 --> 00:02:25,375
-Oh,
+34
+00:02:25,050 --> 00:02:29,930
+Oh, that doesn't sound too bad, especially if it'll take me straight to the hotel.
 
-60
-00:02:25,375 --> 00:02:29,930
-that doesn't sound too bad, especially if it'll take me straight to the hotel.
-
-61
+35
 00:02:29,930 --> 00:02:32,320
 But you do need to reserve a seat.
 
-62
-00:02:32,320 --> 00:02:36,195
-OK, is it possible to make a booking right now?
+36
+00:02:32,320 --> 00:02:36,970
+OK, is it possible to make a booking right now? Through you?
 
-63
-00:02:36,195 --> 00:02:36,970
-Through you?
-
-64
+37
 00:02:36,970 --> 00:02:37,600
 Sure.
 
-65
-00:02:37,600 --> 00:02:42,031
-OK, I just have to fill this form out for you.
+38
+00:02:37,600 --> 00:02:43,380
+OK, I just have to fill this form out for you
 
-66
-00:02:42,031 --> 00:02:46,060
+39
+00:02:43,760 --> 00:02:46,060
 So what date do you want to book this for?
 
-67
-00:02:46,060 --> 00:02:48,706
-The 16th of October-oh, no, sorry,
+40
+00:02:46,060 --> 00:02:50,470
+The 16th of October-oh, no, sorry, that's my departure date.
 
-68
-00:02:48,706 --> 00:02:50,470
-that's my departure date.
+41
+00:02:50,470 --> 00:02:55,320
+I arrive on the 17th, so book it for then, please.
 
-69
-00:02:50,470 --> 00:02:52,674
-I arrive on the 17th,
+42
+00:02:55,320 --> 00:02:59,040
+So, that's the Toronto Airport Shuttle to Milton
 
-70
-00:02:52,674 --> 00:02:55,320
-so book it for then, please.
+43
+00:02:59,500 --> 00:03:02,610
+And this is for just one person or...?
 
-71
-00:02:55,320 --> 00:02:55,776
-So,
-
-72
-00:02:55,776 --> 00:02:58,965
-that's the Toronto Airport Shuttle to Milton.
-
-73
-00:02:58,965 --> 00:03:02,610
-And this is for just one person or...
-
-74
-00:03:02,610 --> 00:03:02,660
-?
-
-75
-00:03:02,660 --> 00:03:04,390
+44
+00:03:02,610 --> 00:03:04,390
 Yes, just me, please.
 
-76
-00:03:04,390 --> 00:03:04,732
-Right.
+45
+00:03:04,390 --> 00:03:08,492
+Right. And you said your expected time of arrival was 11.30?
 
-77
-00:03:04,732 --> 00:03:08,492
-And you said your expected time of arrival was 11.30?
-
-78
+46
 00:03:08,492 --> 00:03:13,278
 So if I book your Shuttle for after 12.00- let's say, 12.30:
 
-79
-00:03:13,278 --> 00:03:18,064
-that should give you plenty of time to, you know, collect your baggage, maybe
+47
+00:03:13,278 --> 00:03:17,080
+that should give you plenty of time to, you know
 
-80
-00:03:18,064 --> 00:03:19,090
-grab a coffee?
+48
+00:03:17,160 --> 00:03:19,090
+collect your baggage, maybe grab a coffee?
 
-81
-00:03:19,090 --> 00:03:19,411
-Yeah,
+49
+00:03:19,090 --> 00:03:22,620
+Yeah, that sounds fine, as long as we land on time!
 
-82
-00:03:19,411 --> 00:03:22,620
-that sounds fine, as long as we land on time!
+50
+00:03:22,620 --> 00:03:27,745
+Well, we'll take your flight details so you don't need to worry too much about that.
 
-83
-00:03:22,620 --> 00:03:27,105
-Well, we'll take your flight details so you don't need to worry too much
+51
+00:03:27,745 --> 00:03:32,550
+Now, what about the fare? What sort of ticket do you want? One way or...?
 
-84
-00:03:27,105 --> 00:03:27,745
-about that.
+52
+00:03:32,550 --> 00:03:37,140
+Yes, that'll be fine, provided I can book the return trip once I'm there.
 
-85
-00:03:27,745 --> 00:03:29,347
-Now, what about the fare?
+53
+00:03:37,140 --> 00:03:42,460
+NO problem-just allow a couple of days in advance to make sure you get a seat
 
-86
-00:03:29,347 --> 00:03:31,589
-What sort of ticket do you want?
-
-87
-00:03:31,589 --> 00:03:32,550
-One way or...?
-
-88
-00:03:32,550 --> 00:03:32,878
-Yes,
-
-89
-00:03:32,878 --> 00:03:37,140
-that'll be fine, provided I can book the return trip once I'm there.
-
-90
-00:03:37,140 --> 00:03:41,787
-NO problem-just allow a couple of days in advance to make sure you get
-
-91
-00:03:41,787 --> 00:03:42,450
-a seat.
-
-92
-00:03:42,450 --> 00:03:44,110
+54
+00:03:42,480 --> 00:03:44,110
 And what's your name, please?
 
-93
+55
 00:03:44,110 --> 00:03:46,340
 Janet, Janet Thomson.
 
-94
+56
 00:03:46,340 --> 00:03:48,930
 Is that Thompson spelt with a 'p'?
 
-95
+57
 00:03:48,930 --> 00:03:53,180
 No, it's T-H-O-M-S-O-N.
 
-96
-00:03:53,180 --> 00:03:53,568
-OK.
+58
+00:03:53,180 --> 00:03:59,000
+OK. And you'll be coming from the UK? What flight will you be travelling on?
 
-97
-00:03:53,568 --> 00:03:56,284
-And you'll be coming from the UK?
-
-98
-00:03:56,284 --> 00:03:59,000
-What flight will you be travelling on?
-
-99
+59
 00:03:59,000 --> 00:04:05,810
 Oh, it's Air Canada flight number AC936, from London Heathrow.
 
-100
-00:04:05,810 --> 00:04:06,176
-Right.
+60
+00:04:05,810 --> 00:04:09,900
+Right. Now, do you know where you'll be staying
 
-101
-00:04:06,176 --> 00:04:09,103
-Now, do you know where you'll be staying?
-
-102
-00:04:09,103 --> 00:04:12,030
+61
+00:04:10,220 --> 00:04:12,030
 We need to give the driver an address.
 
-103
+62
 00:04:12,030 --> 00:04:21,295
-Yes, it's called the Vacation Motel-and I think it's near the town centre.
+Yes, it's called the Vacation Motel, and I think it's near the town centre.
 
-104
+63
 00:04:21,295 --> 00:04:27,710
-Anyway, the address is 24, Kitchener Street-that's KITCHENER Street.
+Anyway, the address is 24, Kitchener Street. That's KITCHENER Street.
 
-105
-00:04:27,710 --> 00:04:28,582
-That's fine.
+64
+00:04:27,710 --> 00:04:33,320
+That's fine. Right, so that's $35 to pay please
 
-106
-00:04:28,582 --> 00:04:29,018
-Right,
-
-107
-00:04:29,018 --> 00:04:31,633
-so that's $35 to pay please.
-
-108
-00:04:31,633 --> 00:04:35,120
+65
+00:04:33,380 --> 00:04:35,120
 Have you got your credit card number there?
 
-109
-00:04:35,120 --> 00:04:40,266
-Yes, it's a VISA card,
+66
+00:04:35,120 --> 00:04:48,500
+Yes, it's a VISA card, and the number is 3303 8450 2045 6837.
 
-110
-00:04:40,266 --> 00:04:48,500
-and the number is 3303 8450 2045 6837.
+67
+00:04:48,500 --> 00:04:51,260
+OK. Well, that seems to be everything
 
-111
-00:04:48,500 --> 00:04:48,829
-OK.
-
-112
-00:04:48,829 --> 00:04:49,159
-Well,
-
-113
-00:04:49,159 --> 00:04:50,806
-that seems to be everything.
-
-114
-00:04:50,806 --> 00:04:54,760
+68
+00:04:51,840 --> 00:04:54,760
 Have a good trip and we'll see you in Toronto next week!
 
-115
+69
 00:04:54,760 --> 00:04:57,750
 Yes, bye-oh, thanks for your help!

@@ -1,63 +1,27 @@
 1
-00:00:00,000 --> 00:00:00,182
-Woman:
+00:00:00,000 --> 00:00:03,040
+Woman: Are you all set for your presentation tomorrow?
 
 2
-00:00:00,182 --> 00:00:03,040
-Are you all set for your presentation tomorrow?
+00:00:03,040 --> 00:00:07,920
+Man: Almost. I still need to finalize my slides
 
 3
-00:00:03,040 --> 00:00:03,985
-Man:
+00:00:07,920 --> 00:00:10,240
+and add a couple more visuals to make it engaging.
 
 4
-00:00:03,985 --> 00:00:04,367
-Almost.
+00:00:10,240 --> 00:00:16,290
+Woman: If you need any help, let me know. I'm done with mine already.
 
 5
-00:00:04,367 --> 00:00:10,240
-I still need to finalize my slides and add a couple more visuals to make it engaging.
+00:00:16,290 --> 00:00:22,030
+Man: Well, it'd be helpful for me to practice my speech in front of someone...
 
 6
-00:00:10,240 --> 00:00:10,290
-Woman:
+00:00:22,030 --> 00:00:26,210
+Woman: I'm free at 4:30, if you want to come by my office.
 
 7
-00:00:10,290 --> 00:00:14,129
-If you need any help, let me know.
-
-8
-00:00:14,129 --> 00:00:16,290
-I'm done with mine already.
-
-9
-00:00:16,290 --> 00:00:16,673
-Man:
-
-10
-00:00:16,673 --> 00:00:22,030
-Well, it'd be helpful for me to practice my speech in front of someone...
-
-11
-00:00:22,030 --> 00:00:22,329
-Woman:
-
-12
-00:00:22,329 --> 00:00:26,210
-I'm free at 4:30, if you want to come by my office.
-
-13
-00:00:26,210 --> 00:00:26,708
-Man:
-
-14
-00:00:26,708 --> 00:00:27,206
-Thanks!
-
-15
-00:00:27,206 --> 00:00:28,700
-I appreciate it.
-
-16
-00:00:28,700 --> 00:00:36,170
-I'd love to get your thoughts before I deliver it to the full audience tomorrow.
+00:00:26,210 --> 00:00:36,170
+Man: Thanks! I appreciate it. I'd love to get your thoughts before I deliver it to the full audience tomorrow.

@@ -3,73 +3,61 @@
 Listen to a talk in a science class today.
 
 2
-00:00:03,100 --> 00:00:08,781
-I want to tell you about an unusual phenomenon that scientists noticed in the
+00:00:03,100 --> 00:00:11,130
+I want to tell you about an unusual phenomenon that scientists noticed in the Pacific Ocean in the early 1990's.
 
 3
-00:00:08,781 --> 00:00:11,130
-Pacific Ocean in the early 1990's.
-
-4
 00:00:11,130 --> 00:00:17,030
 The scientists were recording sounds using hydrophones positioned on the ocean floor in the North Pacific.
 
-5
+4
 00:00:17,030 --> 00:00:22,160
 Hydrophones are specially designed microphones that allow scientists to collect acoustic data underwater.
 
+5
+00:00:22,160 --> 00:00:27,513
+While most of the undersea noises picked up by the hydrophones emanated from whales, ships' engines,
+
 6
-00:00:22,160 --> 00:00:26,516
-While most of the undersea noises picked up by the hydrophones emanated from whales,
-
-7
-00:00:26,516 --> 00:00:27,580
-ships' engines,
-
-8
-00:00:27,580 --> 00:00:33,200
+00:00:27,513 --> 00:00:33,200
 or earthquakes, the scientists monitoring the hydrophones detected a number of sounds that they could not identify.
 
-9
-00:00:33,200 --> 00:00:38,970
-One was a regular series of rising infrasonic tones that have very short wavelengths
+7
+00:00:33,200 --> 00:00:41,000
+One was a regular series of rising infrasonic tones that have very short wavelengths below those humans can hear.
 
-10
-00:00:38,970 --> 00:00:41,000
-below those humans can hear.
-
-11
+8
 00:00:41,000 --> 00:00:45,040
 The scientists labeled these very low frequency noises "upsweep."
 
-12
+9
 00:00:45,040 --> 00:00:49,110
 At first, these sounds were thought to be the songs of whales migrating in the Pacific.
 
-13
-00:00:49,110 --> 00:00:54,149
+10
+00:00:49,110 --> 00:00:53,560
 However, scientists who study whale acoustics eventually ruled out this possibility,
 
-14
-00:00:54,149 --> 00:00:57,200
+11
+00:00:53,560 --> 00:00:57,200
 and the origin of the upsweep sounds remained unknown.
 
-15
+12
 00:00:57,200 --> 00:01:01,190
 So what is the source of the rising tones detected by the hydrophones?
 
-16
-00:01:01,190 --> 00:01:06,296
-The sounds were ultimately tracked to an area of inferred volcanic seismic activity —
+13
+00:01:01,190 --> 00:01:05,882
+The sounds were ultimately tracked to an area of inferred volcanic seismic activity -
 
-17
-00:01:06,296 --> 00:01:09,130
+14
+00:01:05,882 --> 00:01:09,130
 a chain of undersea mountains in the South Pacific.
 
-18
-00:01:09,130 --> 00:01:14,124
-Some scientists believe that if these mountains contain an active volcano, the source for
+15
+00:01:09,130 --> 00:01:13,138
+Some scientists believe that if these mountains contain an active volcano,
 
-19
-00:01:14,124 --> 00:01:20,060
-the mysterious upsweep sounds may be hot volcanic lava coming in contact with cold sea water.
+16
+00:01:13,138 --> 00:01:20,060
+the source for the mysterious upsweep sounds may be hot volcanic lava coming in contact with cold sea water.

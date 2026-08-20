@@ -3,17 +3,13 @@
 Listen to an announcement in a classroom.
 
 2
-00:00:03,190 --> 00:00:06,738
-Attention, everyone.
+00:00:03,190 --> 00:00:10,105
+Attention, everyone. Due to the upcoming construction work near our building,
 
 3
-00:00:06,738 --> 00:00:13,248
-Due to the upcoming construction work near our building, our class will be relocated
+00:00:10,105 --> 00:00:17,020
+our class will be relocated to room 210 starting next Monday.
 
 4
-00:00:13,248 --> 00:00:17,020
-to room 210 starting next Monday.
-
-5
 00:00:17,020 --> 00:00:20,250
 Please take note of the change and arrive on time.

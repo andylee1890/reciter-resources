@@ -1,491 +1,275 @@
 1
-00:00:00,000 --> 00:00:02,050
-Section 1
+00:00:00,000 --> 00:00:08,070
+ANDREW: Good morning, Clare House Hotel. Andrew speaking. I'm the Events Manager.
 
 2
-00:00:02,050 --> 00:00:02,674
-ANDREW:
+00:00:08,070 --> 00:00:11,456
+SAM: Good morning, Andrew. My name's Samantha.
 
 3
-00:00:02,674 --> 00:00:04,688
-Good morning, Clare House Hotel.
-
-4
-00:00:04,688 --> 00:00:06,063
-Andre speaking.
-
-5
-00:00:06,063 --> 00:00:08,070
-I'm the Events Manager.
-
-6
-00:00:08,070 --> 00:00:08,554
-SAM:
-
-7
-00:00:08,554 --> 00:00:10,005
-Good morning, Andrew.
-
-8
-00:00:10,005 --> 00:00:11,456
-My name's Samantha.
-
-9
 00:00:11,456 --> 00:00:16,292
 I'm arranging a party for my parents' fiftieth wedding anniversary,
 
-10
+4
 00:00:16,292 --> 00:00:22,580
 and I'm ringing to ask about hiring a room some time next September.
 
-11
+5
 00:00:22,580 --> 00:00:27,900
 Also my parents and several of the guests will need accommodation.
 
-12
-00:00:27,900 --> 00:00:28,316
-ANDREW:
+6
+00:00:27,900 --> 00:00:32,300
+ANDREW: OK, I'm sure we can help you with that
 
-13
-00:00:28,316 --> 00:00:32,060
-OK, I'm sure we can help you with that.
-
-14
-00:00:32,060 --> 00:00:36,220
+7
+00:00:32,760 --> 00:00:36,220
 Will you be having a sit-down meal or a buffet?
 
+8
+00:00:36,220 --> 00:00:39,420
+SAM: Probably a sit-down.
+
+9
+00:00:39,420 --> 00:00:43,410
+ANDREW: And do you know how many people there'll be?
+
+10
+00:00:43,410 --> 00:00:46,770
+SAM: Around eighty, I think.
+
+11
+00:00:46,770 --> 00:00:53,770
+ANDREW: Well we have two rooms that can hold that number. One is the Adelphi Room.
+
+12
+00:00:53,770 --> 00:01:00,770
+That can seat eighty-five, or hold over a hundred if people are standing for a buffet.
+
+13
+00:01:00,770 --> 00:01:02,890
+SAM: Right.
+
+14
+00:01:02,890 --> 00:01:04,760
+ANDREW: If you have live music
+
 15
-00:00:36,220 --> 00:00:37,020
-SAM:
+00:01:05,460 --> 00:01:10,623
+there's room for four or five musicians in the gallery overlooking the room.
 
 16
-00:00:37,020 --> 00:00:39,420
-Probably a sit-down.
+00:01:10,623 --> 00:01:16,728
+Our guests usually appreciate the fact that the music can be loud enough for dancing,
 
 17
-00:00:39,420 --> 00:00:39,819
-ANDREW:
-
-18
-00:00:39,819 --> 00:00:43,410
-And do you know how many people there'll be?
-
-19
-00:00:43,410 --> 00:00:44,082
-SAM:
-
-20
-00:00:44,082 --> 00:00:46,770
-Around eighty, I think.
-
-21
-00:00:46,770 --> 00:00:47,208
-ANDREW:
-
-22
-00:00:47,208 --> 00:00:51,582
-Well we have two rooms that can hold that number.
-
-23
-00:00:51,582 --> 00:00:53,770
-One is the Adelphi Room.
-
-24
-00:00:53,770 --> 00:00:55,520
-That can seat eighty-five,
-
-25
-00:00:55,520 --> 00:01:00,770
-or hold over a hundred if people are standing for a buffet.
-
-26
-00:01:00,770 --> 00:01:01,830
-SAM:
-
-27
-00:01:01,830 --> 00:01:02,890
-Right.
-
-28
-00:01:02,890 --> 00:01:03,297
-ANDREW:
-
-29
-00:01:03,297 --> 00:01:08,995
-If you have live music, there's room for four or five musicians in the
-
-30
-00:01:08,995 --> 00:01:10,623
-gallery overlooking the room.
-
-31
-00:01:10,623 --> 00:01:16,321
-Our guests usually appreciate the fact that the music can be loud enough for
-
-32
-00:01:16,321 --> 00:01:16,728
-dancing,
-
-33
 00:01:16,728 --> 00:01:19,170
 but not too loud for conversation.
 
-34
-00:01:19,170 --> 00:01:19,609
-SAM:
+18
+00:01:19,170 --> 00:01:24,000
+SAM: Yes, I really don't like it when you can't talk.
 
-35
-00:01:19,609 --> 00:01:24,000
-Yes, I really don't like it when you can't talk.
+19
+00:01:24,000 --> 00:01:29,734
+ANDREW: Exactly. Now the Adelphi Room is at the back of the hotel,
 
-36
-00:01:24,000 --> 00:01:24,441
-ANDREW:
-
-37
-00:01:24,441 --> 00:01:24,882
-Exactly.
-
-38
-00:01:24,882 --> 00:01:29,734
-Now the Adelphi Room is at the back of the hotel,
-
-39
+20
 00:01:29,734 --> 00:01:34,144
 and there are French windows leading out onto the terrace.
 
-40
-00:01:34,144 --> 00:01:40,319
-This has a beautiful display of pots of roses at that time of the
+21
+00:01:34,144 --> 00:01:40,760
+This has a beautiful display of pots of roses at that time of the year.
 
-41
-00:01:40,319 --> 00:01:40,760
-year.
+22
+00:01:40,760 --> 00:01:43,700
+SAM: Which direction does it face?
 
-42
-00:01:40,760 --> 00:01:41,250
-SAM:
+23
+00:01:43,700 --> 00:01:51,410
+ANDREW: Southwest, so that side of the hotel gets the sun in the afternoon and early evening.
 
-43
-00:01:41,250 --> 00:01:43,700
-Which direction does it face?
+24
+00:01:51,410 --> 00:01:53,850
+SAM: very nice.
 
-44
-00:01:43,700 --> 00:01:44,154
-ANDREW:
+25
+00:01:53,850 --> 00:02:00,319
+ANDREW: From the terrace you can see the area of trees within the grounds of the hotel,
 
-45
-00:01:44,154 --> 00:01:44,607
-Southwest,
+26
+00:02:00,319 --> 00:02:03,320
+or you can stroll through there to the river
 
-46
-00:01:44,607 --> 00:01:50,049
-so that side of the hotel gets the sun in the afternoon
+27
+00:02:03,960 --> 00:02:08,310
+that's on the far side, so it isn't visible from the hotel.
 
-47
-00:01:50,049 --> 00:01:51,410
-and early evening.
+28
+00:02:08,310 --> 00:02:10,660
+SAM: OK.
 
-48
-00:01:51,410 --> 00:01:52,223
-SAM:
+29
+00:02:10,660 --> 00:02:13,867
+ANDREW: Then another option is the Carlton Room.
 
-49
-00:01:52,223 --> 00:01:53,850
-very nice.
+30
+00:02:13,867 --> 00:02:19,760
+This is a bit bigger. It can hold up to a hundred and ten people.
 
-50
-00:01:53,850 --> 00:01:54,231
-ANDREW:
+31
+00:02:20,020 --> 00:02:22,686
+and it has the advantage of a stage,
 
-51
-00:01:54,231 --> 00:01:59,558
-From the terrace you can see the area of trees within the grounds of
+32
+00:02:22,686 --> 00:02:25,940
+which is useful if you have any entertainment
 
-52
-00:01:59,558 --> 00:02:00,319
-the hotel,
-
-53
-00:02:00,319 --> 00:02:05,646
-or you can stroll through there to the river -that's on the far side,
-
-54
-00:02:05,646 --> 00:02:08,310
-so it isn't visible from the hotel.
-
-55
-00:02:08,310 --> 00:02:09,485
-SAM:
-
-56
-00:02:09,485 --> 00:02:10,660
-OK.
-
-57
-00:02:10,660 --> 00:02:11,061
-ANDREW:
-
-58
-00:02:11,061 --> 00:02:13,867
-Then another option is the Carlton Room.
-
-59
-00:02:13,867 --> 00:02:18,276
-This is a bit bigger-it can hold up to a hundred
-
-60
-00:02:18,276 --> 00:02:22,686
-and ten people -and it has the advantage of a stage,
-
-61
-00:02:22,686 --> 00:02:25,892
-which is useful if you have any entertainment,
-
-62
-00:02:25,892 --> 00:02:29,500
+33
+00:02:26,320 --> 00:02:29,500
 or indeed a small band can fit onto it.
 
-63
-00:02:29,500 --> 00:02:29,938
-SAM:
+34
+00:02:29,500 --> 00:02:33,440
+SAM: And can you go outside from the room?
 
-64
-00:02:29,938 --> 00:02:33,440
-And can you go outside from the room?
+35
+00:02:33,440 --> 00:02:38,360
+ANDREW: No, the Carlton Room is on the first floor
 
-65
-00:02:33,440 --> 00:02:33,877
-ANDREW:
-
-66
-00:02:33,877 --> 00:02:37,811
-No, the Carlton Room is on the first floor,
-
-67
-00:02:37,811 --> 00:02:42,620
+36
+00:02:38,700 --> 00:02:42,620
 but on one side the windows look out onto the lake.
 
-68
-00:02:42,620 --> 00:02:43,099
-SAM:
+37
+00:02:42,620 --> 00:02:47,890
+SAM: Lovely. I think either of those rooms would be suitable.
 
-69
-00:02:43,099 --> 00:02:43,578
-Lovely.
+38
+00:02:47,890 --> 00:02:52,770
+ANDREW: Can I tell you about some of the options we offer in addition?
 
-70
-00:02:43,578 --> 00:02:47,890
-I think either of those rooms would be suitable.
+39
+00:02:52,770 --> 00:02:55,000
+SAM: Please do.
 
-71
-00:02:47,890 --> 00:02:48,239
-ANDREW:
+40
+00:02:55,000 --> 00:03:00,500
+ANDREW: As well as a meal, you can have an MC, a Master of Ceremonies
 
-72
-00:02:48,239 --> 00:02:52,770
-Can I tell you about some of the options we offer in addition?
-
-73
-00:02:52,770 --> 00:02:53,513
-SAM:
-
-74
-00:02:53,513 --> 00:02:55,000
-Please do.
-
-75
-00:02:55,000 --> 00:02:55,394
-ANDREW:
-
-76
-00:02:55,394 --> 00:03:00,905
-As well as a meal, you can have an MC, a Master of Ceremonies,
-
-77
-00:03:00,905 --> 00:03:03,660
+41
+00:03:00,660 --> 00:03:03,660
 who'll be with you throughout the party.
 
-78
-00:03:03,660 --> 00:03:04,074
-SAM:
+42
+00:03:03,660 --> 00:03:07,480
+SAM: What exactly is the MC's function
 
-79
-00:03:04,074 --> 00:03:06,555
-What exactly is the MC's function?
+43
+00:03:08,280 --> 00:03:12,760
+I suppose they make a speech during the meal if we need one, do they?
 
-80
-00:03:06,555 --> 00:03:12,346
-I suppose they make a speech during the meal if we need one, do
+44
+00:03:12,760 --> 00:03:18,340
+ANDREW: That's right. All our MCs are trained as public speakers
 
-81
-00:03:12,346 --> 00:03:12,760
-they?
+45
+00:03:18,520 --> 00:03:20,542
+so they can easily get people's attention -
 
-82
-00:03:12,760 --> 00:03:13,192
-ANDREW:
+46
+00:03:20,542 --> 00:03:23,700
+many guests are glad to have someone
 
-83
-00:03:13,192 --> 00:03:14,057
-That's right.
+47
+00:03:23,700 --> 00:03:27,026
+who can make themselves heard above the chatter!
 
-84
-00:03:14,057 --> 00:03:17,515
-All our MCs are trained as public speakers,
+48
+00:03:27,026 --> 00:03:30,680
+And they're also your support - if anything goes wrong
 
-85
-00:03:17,515 --> 00:03:23,135
-so they can easily get people's attention - many guests are glad to have
+49
+00:03:31,240 --> 00:03:35,240
+the MC will deal with it, so you can relax.
 
-86
-00:03:23,135 --> 00:03:27,026
-someone who can make themselves heard above the chatter!
+50
+00:03:35,240 --> 00:03:40,680
+SAM: Great! I'll need to ask you about food
 
-87
-00:03:27,026 --> 00:03:32,646
-And they're also your support - if anything goes wrong, the MC will deal
-
-88
-00:03:32,646 --> 00:03:33,511
-with it,
-
-89
-00:03:33,511 --> 00:03:35,240
-so you can relax.
-
-90
-00:03:35,240 --> 00:03:35,762
-SAM:
-
-91
-00:03:35,762 --> 00:03:36,284
-Great!
-
-92
-00:03:36,284 --> 00:03:39,938
-I'll need to ask you about food,
-
-93
-00:03:39,938 --> 00:03:43,592
+51
+00:03:41,020 --> 00:03:43,592
 but something else that's important is accommodation.
 
-94
-00:03:43,592 --> 00:03:47,246
-You obviously have rooms in the hotel,
+52
+00:03:43,592 --> 00:03:47,360
+You obviously have rooms in the hotel
 
-95
-00:03:47,246 --> 00:03:53,510
+53
+00:03:47,820 --> 00:03:53,510
 but do you also have any other accommodation, like cabins for example?
 
-96
-00:03:53,510 --> 00:03:54,017
-ANDREW:
+54
+00:03:53,510 --> 00:03:58,584
+ANDREW: Yes, there are five in the grounds, all self-contained.
 
-97
-00:03:54,017 --> 00:03:58,584
-Yes, there are five in the grounds, all self-contained.
+55
+00:03:58,584 --> 00:04:02,720
+They each sleep two to four people
 
-98
-00:03:58,584 --> 00:04:05,688
-They each sleep two to four people and have their own living room, bathroom
+56
+00:04:02,720 --> 00:04:07,210
+and have their own living room, bathroom and small kitchen.
 
-99
-00:04:05,688 --> 00:04:07,210
-and small kitchen.
+57
+00:04:07,210 --> 00:04:11,060
+SAM: That sounds perfect for what we'll need.
 
-100
-00:04:07,210 --> 00:04:07,691
-SAM:
+58
+00:04:11,060 --> 00:04:14,594
+SAM: Now you have various facilities, don't you?
 
-101
-00:04:07,691 --> 00:04:11,060
-That sounds perfect for what we'll need.
+59
+00:04:14,594 --> 00:04:21,220
+Are they all included in the price of hiring the room? The pool, for instance.
 
-102
-00:04:11,060 --> 00:04:11,502
-SAM:
+60
+00:04:21,220 --> 00:04:25,480
+ANDREW: Normally you'd be able to use it
 
-103
-00:04:11,502 --> 00:04:14,594
-Now you have various facilities, don't you?
-
-104
-00:04:14,594 --> 00:04:19,453
-Are they all included in the price of hiring the room?
-
-105
-00:04:19,453 --> 00:04:21,220
-The pool, for instance.
-
-106
-00:04:21,220 --> 00:04:21,663
-ANDREW:
-
-107
-00:04:21,663 --> 00:04:24,761
-Normally you'd be able to use it,
-
-108
-00:04:24,761 --> 00:04:28,301
+61
+00:04:25,580 --> 00:04:28,301
 but it'll be closed throughout September for refurbishment.
 
-109
-00:04:28,301 --> 00:04:29,186
-I'm afraid.
+62
+00:04:28,301 --> 00:04:33,612
+I'm afraid. The gym will be available, though, at no extra charge.
 
-110
-00:04:29,186 --> 00:04:33,612
-The gym will be available, though, at no extra charge.
-
-111
+63
 00:04:33,612 --> 00:04:38,480
 That's open all day, from six in the morning until midnight.
 
-112
-00:04:38,480 --> 00:04:39,745
-SAM:
+64
+00:04:38,480 --> 00:04:41,010
+SAM: Right.
 
-113
-00:04:39,745 --> 00:04:41,010
-Right.
+65
+00:04:41,010 --> 00:04:46,402
+ANDREW: And the tennis courts, but there is a small additional payment for those.
 
-114
-00:04:41,010 --> 00:04:41,395
-ANDREW:
+66
+00:04:46,402 --> 00:04:51,794
+We have four courts, and it's worth booking in advance if you possibly can,
 
-115
-00:04:41,395 --> 00:04:42,936
-And the tennis courts,
+67
+00:04:51,794 --> 00:04:56,030
+as there can be quite a long waiting list for them.
 
-116
-00:04:42,936 --> 00:04:46,402
-but there is a small additional payment for those.
+68
+00:04:56,030 --> 00:05:00,460
+SAM: Right. Now could we discuss the food
 
-117
-00:04:46,402 --> 00:04:47,942
-We have four courts,
-
-118
-00:04:47,942 --> 00:04:53,334
-and it's worth booking in advance if you possibly can, as there can be
-
-119
-00:04:53,334 --> 00:04:56,030
-quite a long waiting list for them.
-
-120
-00:04:56,030 --> 00:04:56,607
-SAM:
-
-121
-00:04:56,607 --> 00:04:57,183
-Right.
-
-122
-00:04:57,183 --> 00:05:00,643
-Now could we discuss the food?
-
-123
-00:05:00,643 --> 00:05:04,680
-This would be dinner, around seven o'clock…
+69
+00:05:01,040 --> 00:05:04,680
+This would be dinner, around seven o'clock...

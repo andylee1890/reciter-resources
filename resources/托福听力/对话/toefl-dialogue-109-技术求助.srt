@@ -1,67 +1,23 @@
 1
-00:00:00,000 --> 00:00:01,567
-Woman:
+00:00:00,000 --> 00:00:09,240
+Woman: I'm having trouble with my internet connection. It keeps dropping every few minutes.
 
 2
-00:00:01,567 --> 00:00:06,970
-I'm having trouble with my internet connection.
+00:00:09,240 --> 00:00:13,290
+Man: That's frustrating. Have you contacted your service provider?
 
 3
-00:00:06,970 --> 00:00:09,240
-It keeps dropping every few minutes.
+00:00:13,290 --> 00:00:18,120
+Woman: Yes, I called them this morning. They said they'd send a technician out tomorrow.
 
 4
-00:00:09,240 --> 00:00:09,290
-Man:
+00:00:18,120 --> 00:00:20,110
+Man: Hopefully they can fix it quickly.
 
 5
-00:00:09,290 --> 00:00:10,590
-That's frustrating.
+00:00:20,110 --> 00:00:25,110
+Woman: I hope so. I have an important video conference scheduled for tomorrow afternoon.
 
 6
-00:00:10,590 --> 00:00:13,290
-Have you contacted your service provider?
-
-7
-00:00:13,290 --> 00:00:13,612
-Woman:
-
-8
-00:00:13,612 --> 00:00:15,544
-Yes, I called them this morning.
-
-9
-00:00:15,544 --> 00:00:18,120
-They said they'd send a technician out tomorrow.
-
-10
-00:00:18,120 --> 00:00:18,404
-Man:
-
-11
-00:00:18,404 --> 00:00:20,110
-Hopefully they can fix it quickly.
-
-12
-00:00:20,110 --> 00:00:20,467
-Woman:
-
-13
-00:00:20,467 --> 00:00:21,539
-I hope so.
-
-14
-00:00:21,539 --> 00:00:25,110
-I have an important video conference scheduled for tomorrow afternoon.
-
-15
-00:00:25,110 --> 00:00:25,447
-Man:
-
-16
-00:00:25,447 --> 00:00:28,140
-Make sure to let them know about that.
-
-17
-00:00:28,140 --> 00:00:30,160
-Maybe they can prioritize your request.
+00:00:25,110 --> 00:00:30,160
+Man: Make sure to let them know about that. Maybe they can prioritize your request.

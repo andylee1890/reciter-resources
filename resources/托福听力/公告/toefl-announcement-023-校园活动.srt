@@ -3,29 +3,17 @@
 Man: Hello everyone.
 
 2
-00:00:01,030 --> 00:00:05,170
-We are excited to invite you to the annual science fair next Friday at
+00:00:01,030 --> 00:00:07,260
+We are excited to invite you to the annual science fair next Friday at 3 P. M. in the university gym.
 
 3
-00:00:05,170 --> 00:00:06,315
-3 P.M.
+00:00:07,260 --> 00:00:15,180
+There will be exhibits from various departments showcasing innovative projects in the fields of biology, physics, and chemistry.
 
 4
-00:00:06,315 --> 00:00:07,260
-in the university gym.
-
-5
-00:00:07,260 --> 00:00:13,170
-There will be exhibits from various departments showcasing innovative projects in the fields of
-
-6
-00:00:13,170 --> 00:00:15,180
-biology, physics, and chemistry.
-
-7
 00:00:15,180 --> 00:00:20,220
 In addition, there will be lectures on scientific topics aimed at a general audience.
 
-8
+5
 00:00:20,220 --> 00:00:23,220
-Don’t miss it!
+Don't miss it!

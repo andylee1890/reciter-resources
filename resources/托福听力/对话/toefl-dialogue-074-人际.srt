@@ -1,67 +1,31 @@
 1
-00:00:00,000 --> 00:00:00,926
-M:
+00:00:04,180 --> 00:00:05,620
+M: Do you have time to do me a favor?
 
 2
-00:00:00,926 --> 00:00:06,000
-Do you have time to do me a favor?
+00:00:06,020 --> 00:00:09,240
+W: I'm about to run to the post office, but I can help you after that.
 
 3
-00:00:06,000 --> 00:00:06,121
-W:
+00:00:09,460 --> 00:00:11,460
+M: I'm hosting this dinner party tonight
 
 4
-00:00:06,121 --> 00:00:07,656
-I'm about to run to the post office,
-
-5
-00:00:07,656 --> 00:00:09,130
-but I can help you after that.
-
-6
-00:00:09,130 --> 00:00:09,532
-M:
-
-7
-00:00:09,532 --> 00:00:11,424
-I'm hosting this dinner party tonight,
-
-8
-00:00:11,424 --> 00:00:14,160
+00:00:11,500 --> 00:00:14,120
 and I need to pick up some last minute groceries.
 
-9
-00:00:14,160 --> 00:00:14,674
-W:
+5
+00:00:14,560 --> 00:00:15,580
+W: What do you still need?
 
-10
-00:00:14,674 --> 00:00:15,250
-What do you still need?
+6
+00:00:15,920 --> 00:00:19,600
+M: I need vegetables and ingredients for a dessert. Here's a list.
 
-11
-00:00:15,250 --> 00:00:15,593
-M:
+7
+00:00:20,060 --> 00:00:23,420
+W: No problem. I can swing by the market after I've mailed my package.
 
-12
-00:00:15,593 --> 00:00:19,290
-I need vegetables and ingredients for a dessert. Here's a list.
-
-13
-00:00:19,290 --> 00:00:19,340
-W:
-
-14
-00:00:19,340 --> 00:00:20,132
-No problem.
-
-15
-00:00:20,132 --> 00:00:23,220
-I can swing by the market after I've mailed my package.
-
-16
-00:00:23,220 --> 00:00:23,643
-M:
-
-17
-00:00:23,643 --> 00:00:26,180
-You're a lifesaver, thanks a million.
+8
+00:00:23,820 --> 00:00:25,820
+M: You're a lifesaver, thanks a million.

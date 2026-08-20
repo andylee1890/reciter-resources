@@ -3,25 +3,17 @@
 Listen to an announcement at a university event.
 
 2
-00:00:05,060 --> 00:00:07,647
-Attention, everyone.
+00:00:05,060 --> 00:00:13,985
+Attention, everyone. We are excited to announce that the University's annual film festival will take place next Thursday at 7 p.
 
 3
-00:00:07,647 --> 00:00:11,860
-We are excited to announce that the University's annual film festival will take place
+00:00:13,985 --> 00:00:16,110
+m. in the Student Center.
 
 4
-00:00:11,860 --> 00:00:14,410
-next Thursday at 7 p.m.
-
-5
-00:00:14,410 --> 00:00:16,110
-in the Student Center.
-
-6
 00:00:16,110 --> 00:00:20,200
 There will be screenings of student films, discussions and awards.
 
-7
+5
 00:00:20,200 --> 00:00:22,220
 Don't miss out.

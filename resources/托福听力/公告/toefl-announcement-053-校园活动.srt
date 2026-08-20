@@ -3,17 +3,13 @@
 Listen to an announcement at a university event.
 
 2
-00:00:03,200 --> 00:00:10,928
-Attention everyone, we are thrilled to announce that the university's annual charity auction will
+00:00:03,200 --> 00:00:14,180
+Attention everyone, we are thrilled to announce that the university's annual charity auction will be held next Saturday at 6 PM in the main hall.
 
 3
-00:00:10,928 --> 00:00:14,180
-be held next Saturday at 6 PM in the main hall.
-
-4
 00:00:14,180 --> 00:00:17,020
 All proceeds will go to local charities.
 
-5
+4
 00:00:17,020 --> 00:00:20,030
 We hope to see you there and appreciate your support.

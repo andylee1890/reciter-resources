@@ -1,71 +1,27 @@
 1
-00:00:00,000 --> 00:00:00,162
-Man:
+00:00:00,000 --> 00:00:02,080
+Did you manage to fix the issue with your computer
 
 2
-00:00:00,162 --> 00:00:02,130
-Did you manage to fix the issue with your computer?
+00:00:02,820 --> 00:00:05,400
+I did. It turned out to be a software problem.
 
 3
-00:00:02,130 --> 00:00:03,123
-Woman:
+00:00:06,200 --> 00:00:07,900
+Great. What did you do to resolve it
 
 4
-00:00:03,123 --> 00:00:03,467
-I did.
+00:00:08,640 --> 00:00:12,280
+I updated the operating system and now everything is working fine.
 
 5
-00:00:03,467 --> 00:00:05,210
-It turned out to be a software problem.
+00:00:13,440 --> 00:00:17,300
+It's always a relief when it's something simple and not hardware related.
 
 6
-00:00:05,210 --> 00:00:05,260
-Man:
+00:00:18,280 --> 00:00:23,000
+Absolutely. My manager told me his computer suddenly powered off last month.
 
 7
-00:00:05,260 --> 00:00:05,859
-Great.
-
-8
-00:00:05,859 --> 00:00:08,130
-What did you do to resolve it?
-
-9
-00:00:08,130 --> 00:00:08,467
-Woman:
-
-10
-00:00:08,467 --> 00:00:10,150
-I updated the operating system,
-
-11
-00:00:10,150 --> 00:00:12,170
-and now everything is working fine.
-
-12
-00:00:12,170 --> 00:00:12,533
-Man:
-
-13
-00:00:12,533 --> 00:00:17,250
-It’s always a relief when it’s something simple and not hardware-related.
-
-14
-00:00:17,250 --> 00:00:17,591
-Woman:
-
-15
-00:00:17,591 --> 00:00:17,931
-Absolutely.
-
-16
-00:00:17,931 --> 00:00:21,679
-My manager told me his computer suddenly powered off last month;
-
-17
-00:00:21,679 --> 00:00:24,404
-it turned out to be a hardware issue,
-
-18
-00:00:24,404 --> 00:00:27,130
-and he had to buy a new computer.
+00:00:23,320 --> 00:00:27,320
+It turned out to be a hardware issue and he had to buy a new computer.

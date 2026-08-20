@@ -3,33 +3,29 @@
 Listen to an announcement in a classroom.
 
 2
-00:00:02,200 --> 00:00:03,972
-Good afternoon, students.
+00:00:02,200 --> 00:00:08,240
+Good afternoon, students. I'm sorry for the confusion regarding the deadlines for your upcoming assignments.
 
 3
-00:00:03,972 --> 00:00:08,240
-I'm sorry for the confusion regarding the deadlines for your upcoming assignments.
-
-4
 00:00:08,240 --> 00:00:13,250
 As I wrote in this morning's e-mail, the due dates on your syllabus are incorrect.
 
-5
+4
 00:00:13,250 --> 00:00:17,434
 Your research paper is actually due on Wednesday the 31st,
 
-6
+5
 00:00:17,434 --> 00:00:21,200
 and your group presentations are due the following Friday.
 
-7
+6
 00:00:21,200 --> 00:00:24,160
 I regret any inconvenience this has caused.
 
-8
-00:00:24,160 --> 00:00:24,210
+7
+00:00:24,160 --> 00:00:29,777
 On the other hand, this means you have some extra time to complete your assignments.
 
-9
-00:00:24,210 --> 00:00:34,190
+8
+00:00:29,777 --> 00:00:34,190
 If you have any questions, feel free to reach out during office hours.

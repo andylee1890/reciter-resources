@@ -1,63 +1,27 @@
 1
-00:00:00,000 --> 00:00:01,589
-Man:
+00:00:00,000 --> 00:00:07,140
+Man: I'm so excited for the outdoor concert this weekend.
 
 2
-00:00:01,589 --> 00:00:07,140
-I'm so excited for the outdoor concert this weekend.
+00:00:07,140 --> 00:00:10,140
+Woman: Have you seen the weather forecast? We'll get soaked.
 
 3
-00:00:07,140 --> 00:00:07,302
-Woman:
+00:00:10,140 --> 00:00:14,080
+Man: Well that's disappointing. I was really looking forward to going.
 
 4
-00:00:07,302 --> 00:00:10,140
-Have you seen the weather forecast? We'll get soaked.
+00:00:14,080 --> 00:00:17,020
+Woman: Same here. Any thoughts on what to do instead?
 
 5
-00:00:10,140 --> 00:00:10,190
-Man:
+00:00:17,020 --> 00:00:20,720
+Man: I heard there's a new exhibit opening on Saturday at the art gallery
 
 6
-00:00:10,190 --> 00:00:11,573
-Well that's disappointing.
-
-7
-00:00:11,573 --> 00:00:14,080
-I was really looking forward to going.
-
-8
-00:00:14,080 --> 00:00:14,374
-Woman:
-
-9
-00:00:14,374 --> 00:00:14,962
-Same here.
-
-10
-00:00:14,962 --> 00:00:17,020
-Any thoughts on what to do instead?
-
-11
-00:00:17,020 --> 00:00:17,297
-Man:
-
-12
-00:00:17,297 --> 00:00:20,896
-I heard there's a new exhibit opening on Saturday at the art gallery.
-
-13
-00:00:20,896 --> 00:00:22,280
+00:00:20,720 --> 00:00:22,280
 Tickets go on sale tomorrow.
 
-14
-00:00:22,280 --> 00:00:22,579
-Woman:
-
-15
-00:00:22,579 --> 00:00:23,477
-Count me in.
-
-16
-00:00:23,477 --> 00:00:26,170
-We can meet up for breakfast that morning too.
+7
+00:00:22,280 --> 00:00:26,170
+Woman: Count me in. We can meet up for breakfast that morning too.

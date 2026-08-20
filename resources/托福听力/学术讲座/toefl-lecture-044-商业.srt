@@ -7,11 +7,11 @@ Listen to a talk in a business class.
 Let's discuss the role of startup incubators in supporting new businesses.
 
 3
-00:00:11,220 --> 00:00:17,433
+00:00:11,220 --> 00:00:18,464
 These are programs designed to help startups navigate the early stages of development
 
 4
-00:00:17,433 --> 00:00:25,150
+00:00:18,464 --> 00:00:25,150
 and increase their chances of success by providing resources, mentorship, and networking.
 
 5
@@ -19,85 +19,97 @@ and increase their chances of success by providing resources, mentorship, and ne
 What resources might a new business lack?
 
 6
-00:00:29,060 --> 00:00:35,096
-Incubators often provide office space and equipment to help startups get off the ground,
+00:00:29,060 --> 00:00:31,880
+Incubators often provide office space
 
 7
-00:00:35,096 --> 00:00:40,110
-and they also steer new businesses toward funding opportunities.
+00:00:31,880 --> 00:00:35,786
+and equipment to help startups get off the ground,
 
 8
-00:00:40,110 --> 00:00:47,631
-Many new entrepreneurs lack the financial means to invest in basic necessities themselves,
+00:00:35,786 --> 00:00:40,110
+and they also steer new businesses toward funding opportunities.
 
 9
-00:00:47,631 --> 00:00:51,020
-and this support can be invaluable.
+00:00:40,110 --> 00:00:47,575
+Many new entrepreneurs lack the financial means to invest in basic necessities themselves,
 
 10
+00:00:47,575 --> 00:00:51,020
+and this support can be invaluable.
+
+11
 00:00:51,020 --> 00:00:55,030
 Another important element of incubators is mentorship.
 
-11
-00:00:55,030 --> 00:01:02,240
-Experienced professionals and industry experts offer guidance and advice to startup founders.
-
 12
-00:01:02,240 --> 00:01:05,292
-Starting a business is full of pitfalls,
+00:00:55,030 --> 00:00:59,920
+Experienced professionals and industry experts offer guidance
 
 13
-00:01:05,292 --> 00:01:08,827
-and a good mentor can help you avoid some of the more common ones,
+00:00:59,920 --> 00:01:02,240
+and advice to startup founders.
 
 14
-00:01:08,827 --> 00:01:12,160
-not to mention refine your business strategies.
+00:01:02,240 --> 00:01:05,260
+Starting a business is full of pitfalls
 
 15
+00:01:05,760 --> 00:01:09,680
+and a good mentor can help you avoid some of the more common ones,
+
+16
+00:01:09,680 --> 00:01:12,160
+not to mention refine your business strategies.
+
+17
 00:01:12,160 --> 00:01:17,160
 Networking opportunities are another significant benefit of incubators.
 
-16
+18
 00:01:17,160 --> 00:01:23,120
 What does a new enterprise need more than anything else? Investors.
 
-17
-00:01:23,120 --> 00:01:31,137
-Being part of an incubator program allows you to connect with potential investors, other
-
-18
-00:01:31,137 --> 00:01:31,709
-entrepreneurs,
-
 19
-00:01:31,709 --> 00:01:34,000
-and future business partners.
+00:01:23,120 --> 00:01:30,564
+Being part of an incubator program allows you to connect with potential investors,
 
 20
+00:01:30,564 --> 00:01:34,000
+other entrepreneurs, and future business partners.
+
+21
 00:01:34,000 --> 00:01:38,090
 Now, participating in an incubator is not without its challenges.
 
-21
-00:01:38,090 --> 00:01:42,157
-There's a lot of competition to get into some of these programs,
-
 22
-00:01:42,157 --> 00:01:44,190
-so not all startups are accepted.
+00:01:38,090 --> 00:01:41,700
+There's a lot of competition to get into some of these programs
 
 23
-00:01:44,190 --> 00:01:49,806
-Once you've been accepted, the pressure to perform and meet milestones can be intense,
+00:01:41,700 --> 00:01:44,190
+so not all startups are accepted.
 
 24
+00:01:44,190 --> 00:01:47,860
+Once you've been accepted, the pressure to perform
+
+25
+00:01:47,860 --> 00:01:49,806
+and meet milestones can be intense,
+
+26
 00:01:49,806 --> 00:01:55,020
 and failure to do so can lose you the support of the incubator.
 
-25
+27
 00:01:55,020 --> 00:02:00,010
 That said, the benefits can be substantial.
 
-26
-00:02:00,010 --> 00:02:11,020
-Incubators provide a supportive environment that fosters innovation and helps startups overcome the hurdles of early-stage development.
+28
+00:02:00,010 --> 00:02:05,191
+Incubators provide a supportive environment that fosters innovation
+
+29
+00:02:05,191 --> 00:02:11,020
+and helps startups overcome the hurdles of early-stage development.

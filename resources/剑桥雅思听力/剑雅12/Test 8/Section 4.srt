@@ -1,331 +1,295 @@
 1
-00:00:00,000 --> 00:00:01,500
-Section 4
+00:00:00,000 --> 00:00:05,390
+This lecture will be about the science of acoustics,
 
 2
-00:00:01,500 --> 00:00:07,799
-This lecture will be about the science of acoustics, the study of sound, in
+00:00:05,390 --> 00:00:11,270
+the study of sound, in relation to urban environments such as cities.
 
 3
-00:00:07,799 --> 00:00:11,270
-relation to urban environments such as cities.
+00:00:11,270 --> 00:00:14,000
+As an acoustic engineer myself
 
 4
-00:00:11,270 --> 00:00:16,799
-As an acoustic engineer myself, I think this is an area where we're likely
+00:00:14,120 --> 00:00:18,910
+I think this is an area where we're likely to see great changes.
 
 5
-00:00:16,799 --> 00:00:18,910
-to see great changes.
-
-6
 00:00:18,910 --> 00:00:23,830
 In the past, researching urban soundscapes was simple.
 
-7
-00:00:23,830 --> 00:00:27,016
-We measured levels of sound in decibels,
+6
+00:00:23,830 --> 00:00:27,040
+We measured levels of sound in decibels
 
-8
-00:00:27,016 --> 00:00:32,427
+7
+00:00:27,620 --> 00:00:32,128
 so I used to take my sound meter and I measured the noise somewhere,
 
+8
+00:00:32,128 --> 00:00:39,240
+and then I might ask a sample of people to say at what level the sound became annoying.
+
 9
-00:00:32,427 --> 00:00:36,915
-and then I might ask a sample of people to say at what level
+00:00:39,240 --> 00:00:46,627
+With data like this, acoustic engineers have been able to build up what we call noise maps,
 
 10
-00:00:36,915 --> 00:00:39,240
-the sound became annoying.
+00:00:46,627 --> 00:00:48,800
+maps of the sound environment.
 
 11
-00:00:39,240 --> 00:00:44,562
-With data like this, acoustic engineers have been able to build up what we
-
-12
-00:00:44,562 --> 00:00:48,800
-call noise maps, maps of the sound environment.
-
-13
-00:00:48,800 --> 00:00:51,747
+00:00:48,800 --> 00:00:52,534
 But actually these aren't a lot of use.
 
+12
+00:00:52,534 --> 00:00:59,069
+What they do show is that the highest noise levels are generally on roads -
+
+13
+00:00:59,069 --> 00:01:01,870
+well, that's not really very surprising.
+
 14
-00:00:51,747 --> 00:00:59,069
-What they do show is that the highest noise levels are generally on roads
-
-15
-00:00:59,069 --> 00:00:59,536
-- well,
-
-16
-00:00:59,536 --> 00:01:01,870
-that's not really very surprising.
-
-17
 00:01:01,870 --> 00:01:06,535
 But there's quite a lot going on that these maps don't show,
 
-18
+15
 00:01:06,535 --> 00:01:11,200
 because they can't capture the complex way that sound varies over time.
 
-19
-00:01:11,200 --> 00:01:17,635
-So they ignore important issues such as the noise someone might hear from the open windows
+16
+00:01:11,200 --> 00:01:19,646
+So they ignore important issues such as the noise someone might hear from the open windows or gardens of their neighbours,
 
-20
-00:01:17,635 --> 00:01:19,646
-or gardens of their neighbours,
-
-21
+17
 00:01:19,646 --> 00:01:24,070
 and this sort of noise can be quite significant in summer.
 
-22
+18
 00:01:24,070 --> 00:01:28,022
 We don't have any databases on this sort of information.
 
+19
+00:01:28,022 --> 00:01:37,111
+As well as that, these records of sound levels take no account of the fact that people vary in their perceptions of noise -
+
+20
+00:01:37,111 --> 00:01:44,620
+so someone like me with years of working in acoustics might be very different from you in that regard.
+
+21
+00:01:44,620 --> 00:01:48,720
+But anyway, even though these noise maps are fairly crude
+
+22
+00:01:49,180 --> 00:01:51,528
+they've been useful in providing information
+
 23
-00:01:28,022 --> 00:01:33,555
-As well as that, these records of sound levels take no account of the
+00:01:51,528 --> 00:01:54,440
+and raising awareness that noise matters
 
 24
-00:01:33,555 --> 00:01:37,111
-fact that people vary in their perceptions of noise -
+00:01:55,060 --> 00:01:59,300
+we need to deal with it and so it's a political matter.
 
 25
-00:01:37,111 --> 00:01:42,644
-so someone like me with years of working in acoustics might be very different
+00:01:59,300 --> 00:02:03,360
+And that's important - we need rules and regulations
 
 26
-00:01:42,644 --> 00:01:44,620
-from you in that regard.
+00:02:03,740 --> 00:02:07,490
+because noise can cause all sorts of problems.
 
 27
-00:01:44,620 --> 00:01:51,528
-But anyway, even though these noise maps are fairly crude, they've been useful in providing information
+00:02:07,490 --> 00:02:13,019
+Those of you who are city-dwellers know that things go on 24 hours a day,
 
 28
-00:01:51,528 --> 00:01:57,141
-and raising awareness that noise matters, we need to deal with it and
-
-29
-00:01:57,141 --> 00:01:59,300
-so it's a political matter.
-
-30
-00:01:59,300 --> 00:02:05,954
-And that's important - we need rules and regulations because noise can cause all
-
-31
-00:02:05,954 --> 00:02:07,490
-sorts of problems.
-
-32
-00:02:07,490 --> 00:02:12,650
-Those of you who are city-dwellers know that things go on 24 hours a
-
-33
-00:02:12,650 --> 00:02:13,019
-day,
-
-34
 00:02:13,019 --> 00:02:15,599
 so city-dwellers often suffer from interrupted sleep.
 
-35
+29
 00:02:15,599 --> 00:02:20,759
 It's also known that noise can lead to a rise in levels of stress,
 
-36
+30
 00:02:20,759 --> 00:02:25,550
 due to physical changes in the body affecting the composition of the blood.
 
-37
-00:02:25,550 --> 00:02:31,086
-And there are other problems as well, for instance if schoolchildren don't have a
+31
+00:02:25,550 --> 00:02:28,318
+And there are other problems as well,
 
-38
-00:02:31,086 --> 00:02:34,250
-quiet place to study their work will suffer.
+32
+00:02:28,318 --> 00:02:34,250
+for instance if schoolchildren don't have a quiet place to study their work will suffer.
 
-39
-00:02:34,250 --> 00:02:40,576
-Now, one problem with decibel measurement is that it doesn't differentiate between different types
+33
+00:02:34,250 --> 00:02:41,480
+Now, one problem with decibel measurement is that it doesn't differentiate between different types of noise.
 
-40
-00:02:40,576 --> 00:02:41,480
-of noise.
-
-41
+34
 00:02:41,480 --> 00:02:46,325
 Some types of sounds that most people would probably think of as nice
 
-42
-00:02:46,325 --> 00:02:51,170
-and relaxing might well score quite highly in decibel levels - think of the
+35
+00:02:46,325 --> 00:02:50,052
+and relaxing might well score quite highly in decibel levels -
 
-43
-00:02:51,170 --> 00:02:55,270
-sound made by a fountain in a town square, for example.
+36
+00:02:50,052 --> 00:02:55,270
+think of the sound made by a fountain in a town square, for example.
 
-44
+37
 00:02:55,270 --> 00:03:00,140
 That's not necessarily something that we'd want to control or reduce.
 
-45
+38
 00:03:00,140 --> 00:03:05,660
 So maybe researchers should consider these sorts of sounds in urban design.
 
-46
-00:03:05,660 --> 00:03:11,005
-This is going to be tricky because just measuring decibel levels isn't going to
+39
+00:03:05,660 --> 00:03:07,520
+This is going to be tricky
 
-47
-00:03:11,005 --> 00:03:12,150
-help us here.
+40
+00:03:07,900 --> 00:03:12,150
+because just measuring decibel levels isn't going to help us here.
 
-48
-00:03:12,150 --> 00:03:20,922
-Instead, many researchers are using social science techniques, studying people's emotional response to sound by using questionnaires
+41
+00:03:12,150 --> 00:03:16,278
+Instead, many researchers are using social science techniques,
 
-49
-00:03:20,922 --> 00:03:22,470
-and so on.
+42
+00:03:16,278 --> 00:03:22,470
+studying people's emotional response to sound by using questionnaires and so on.
 
-50
+43
 00:03:22,470 --> 00:03:27,039
 So what exactly do people want to hear in an urban environment?
 
-51
-00:03:27,039 --> 00:03:32,370
-Some recent interdisciplinary research has come out with results that at first sight seem
+44
+00:03:27,039 --> 00:03:29,704
+Some recent interdisciplinary research has come out
 
-52
-00:03:32,370 --> 00:03:35,797
-contradictory city needs to have a sense of activity,
+45
+00:03:29,704 --> 00:03:35,797
+with results that at first sight seem contradictory city needs to have a sense of activity,
 
-53
-00:03:35,797 --> 00:03:42,271
-so it needs to be lively, with sounds like the clack of high heels on a pavement
+46
+00:03:35,797 --> 00:03:38,082
+so it needs to be lively,
 
-54
-00:03:42,271 --> 00:03:44,936
-or the hiss of a coffee machine,
+47
+00:03:38,082 --> 00:03:44,936
+with sounds like the clack of high heels on a pavement or the hiss of a coffee machine,
 
-55
-00:03:44,936 --> 00:03:50,267
-but these mustn't be too intrusive because at the same time we need to
+48
+00:03:44,936 --> 00:03:47,720
+but these mustn't be too intrusive
 
-56
-00:03:50,267 --> 00:03:51,790
-be able to relax.
+49
+00:03:47,840 --> 00:03:51,790
+because at the same time we need to be able to relax.
 
-57
-00:03:51,790 --> 00:03:56,268
+50
+00:03:51,790 --> 00:03:56,080
 One of the major problems in achieving this will be getting architects
 
-58
-00:03:56,268 --> 00:03:58,880
+51
+00:03:56,080 --> 00:03:58,880
 and town planners to use the research.
 
-59
-00:03:58,880 --> 00:04:04,821
-Apart from studying the basics of acoustics, these people receive very little training in
+52
+00:03:58,880 --> 00:04:02,100
+Apart from studying the basics of acoustics
 
-60
-00:04:04,821 --> 00:04:05,670
-this area.
+53
+00:04:02,480 --> 00:04:05,670
+these people receive very little training in this area.
 
-61
-00:04:05,670 --> 00:04:10,526
-But in fact they should be regarding sound as an opportunity to add to
+54
+00:04:05,670 --> 00:04:12,260
+But in fact they should be regarding sound as an opportunity to add to the experience of urban living,
 
-62
-00:04:10,526 --> 00:04:16,770
-the experience of urban living, whereas at present they tend to see it as something to be avoided
+55
+00:04:12,260 --> 00:04:18,851
+whereas at present they tend to see it as something to be avoided or reduced as far as possible,
 
-63
-00:04:16,770 --> 00:04:18,851
-or reduced as far as possible,
-
-64
+56
 00:04:18,851 --> 00:04:23,360
 or something that's just a job for engineers like the street drainage system.
 
-65
+57
 00:04:23,360 --> 00:04:28,522
 What's needed is for noise in cities to be regarded as an aesthetic quality,
 
-66
+58
 00:04:28,522 --> 00:04:32,210
 as something that has the qualities of an art form.
 
-67
-00:04:32,210 --> 00:04:37,085
+59
+00:04:32,210 --> 00:04:37,120
 If we acknowledge this, then we urgently need to know what governs it
 
-68
-00:04:37,085 --> 00:04:39,710
+60
+00:04:37,120 --> 00:04:39,710
 and how designers can work with it.
 
-69
+61
 00:04:39,710 --> 00:04:43,460
 We need to develop a complex understanding of many factors.
 
-70
+62
 00:04:43,460 --> 00:04:47,790
 What is the relationship between sound and culture?
 
-71
-00:04:47,790 --> 00:04:55,187
-What can we learn from disciplines such as psychology about the way that sound interacts with human development
+63
+00:04:47,790 --> 00:04:53,955
+What can we learn from disciplines such as psychology about the way that sound interacts
 
-72
-00:04:55,187 --> 00:04:56,420
-and social relationships,
+64
+00:04:53,955 --> 00:04:56,180
+with human development and social relationships
 
-73
-00:04:56,420 --> 00:05:00,530
-and the way that sound affects our thought and feelings?
+65
+00:04:56,860 --> 00:05:00,530
+and the way that sound affects our thoughts and feelings?
 
-74
+66
 00:05:00,530 --> 00:05:05,580
 Can we learn anything from physics about the nature of sound itself?
 
-75
+67
 00:05:05,580 --> 00:05:08,668
 Today's powerful technologies can also help us.
 
-76
-00:05:08,668 --> 00:05:16,167
-To show us their ideas and help us to imagine the effect their buildings will have, architects
+68
+00:05:08,668 --> 00:05:15,726
+To show us their ideas and help us to imagine the effect their buildings will have,
 
-77
-00:05:16,167 --> 00:05:19,254
-and town planners already use virtual reality,
+69
+00:05:15,726 --> 00:05:18,440
+architects and town planners already use virtual reality
 
-78
-00:05:19,254 --> 00:05:21,460
+70
+00:05:18,960 --> 00:05:21,460
 but these programs are silent.
 
-79
-00:05:21,460 --> 00:05:28,211
-In the future such programs could use realistic sounds, meaning that soundscapes could be
+71
+00:05:21,460 --> 00:05:25,800
+In the future such programs could use realistic sounds,
 
-80
-00:05:28,211 --> 00:05:30,140
-explored before being built.
+72
+00:05:25,800 --> 00:05:30,140
+meaning that soundscapes could be explored before being built.
 
-81
-00:05:30,140 --> 00:05:35,402
-So hopefully, using the best technology we can lay our hands on, the city
+73
+00:05:30,140 --> 00:05:34,650
+So hopefully, using the best technology we can lay our hands on,
 
-82
-00:05:35,402 --> 00:05:40,664
-of the future will be a pleasure to the ears as well as the
-
-83
-00:05:40,664 --> 00:05:41,040
-eyes.
+74
+00:05:34,650 --> 00:05:41,040
+the city of the future will be a pleasure to the ears as well as the eyes.

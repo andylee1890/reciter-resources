@@ -3,285 +3,265 @@
 Good morning, everyone.
 
 2
-00:00:00,900 --> 00:00:05,877
+00:00:00,900 --> 00:00:05,379
 In the last few lectures I've been dealing with business finance,
 
 3
-00:00:05,877 --> 00:00:09,450
+00:00:05,379 --> 00:00:09,450
 but now I'm going to move on to business systems.
 
 4
-00:00:09,450 --> 00:00:14,307
-And in today's lecture I'm going to talk about what can go wrong when
+00:00:09,450 --> 00:00:13,980
+And in today's lecture I'm going to talk about what can go wrong
 
 5
-00:00:14,307 --> 00:00:17,900
-businesses try to copy their own best practices.
+00:00:13,980 --> 00:00:17,900
+when businesses try to copy their own best practices.
 
 6
-00:00:17,900 --> 00:00:25,110
-Once a business has successfully introduced a new process - managing a branch bank, say,
+00:00:17,900 --> 00:00:24,105
+Once a business has successfully introduced a new process - managing a branch bank,
 
 7
-00:00:25,110 --> 00:00:27,480
-or selling a new product -
+00:00:24,105 --> 00:00:31,264
+say, or selling a new product - the parent organisation naturally wants to repeat that success,
 
 8
-00:00:27,480 --> 00:00:32,203
-the parent organisation naturally wants to repeat that success,
-
-9
-00:00:32,203 --> 00:00:35,560
+00:00:31,264 --> 00:00:35,560
 and capture it if possible on a bigger scale.
 
-10
+9
 00:00:35,560 --> 00:00:43,360
 The goal, then, is to utilise existing knowledge and not to generate new knowledge.
 
+10
+00:00:43,360 --> 00:00:48,640
+It's a less glamorous activity than pure innovation
+
 11
-00:00:43,360 --> 00:00:48,502
-It's a less glamorous activity than pure innovation,
+00:00:48,640 --> 00:00:51,420
+but it actually happens more often
 
 12
-00:00:48,502 --> 00:00:52,520
-but it actually happens more often, as a matter of fact.
+00:00:51,600 --> 00:00:52,520
+as a matter of fact.
 
 13
-00:00:52,520 --> 00:00:59,926
-However, surprisingly, getting things right the Second time is not necessarily any simpler than
+00:00:52,520 --> 00:01:01,110
+However, surprisingly, getting things right the Second time is not necessarily any simpler than it was the first time.
 
 14
-00:00:59,926 --> 00:01:01,110
-it was the first time.
+00:01:01,110 --> 00:01:07,788
+Now, there's been a lot of research into how companies can repeat their previous successes,
 
 15
-00:01:01,110 --> 00:01:07,948
-Now, there's been a lot of research into how companies can repeat their previous
-
-16
-00:01:07,948 --> 00:01:08,610
-successes,
-
-17
-00:01:08,610 --> 00:01:12,240
+00:01:07,788 --> 00:01:12,240
 and it certainly hasn't been confined to the United States.
 
-18
-00:01:12,240 --> 00:01:18,415
+16
+00:01:12,240 --> 00:01:18,606
 It seems that most large industries are trying to repeat their own successes,
 
+17
+00:01:18,606 --> 00:01:21,544
+and manage the knowledge they've acquired -
+
+18
+00:01:21,544 --> 00:01:28,400
+but even so it has been shown that the overwhelming majority of attempts fail.
+
 19
-00:01:18,415 --> 00:01:24,370
-and manage the knowledge they've acquired - but even so it has been shown
-
-20
-00:01:24,370 --> 00:01:28,400
-that the overwhelming majority of attempts fail.
-
-21
-00:01:28,400 --> 00:01:34,216
+00:01:28,400 --> 00:01:35,086
 A host of studies confirm this, covering a wide range of business settings:
 
+20
+00:01:35,086 --> 00:01:38,940
+branch banks, retail stores, real estate agencies
+
+21
+00:01:39,500 --> 00:01:42,800
+factories, call centres, to name but a few.
+
 22
-00:01:34,216 --> 00:01:42,198
-branch banks, retail stores, real estate agencies, factories, call centres.., to name
-
-23
-00:01:42,198 --> 00:01:42,800
-but a few.
-
-24
 00:01:42,800 --> 00:01:49,680
 So why do so few managers get things right the second or third time?
 
-25
-00:01:49,680 --> 00:01:55,677
-Let's consider one reason for failure - placing too much trust in the people
+23
+00:01:49,680 --> 00:01:52,383
+Let's consider one reason for failure -
 
-26
-00:01:55,677 --> 00:02:00,490
+24
+00:01:52,383 --> 00:01:56,080
+placing too much trust in the people
+
+25
+00:01:56,080 --> 00:02:00,490
 who are running the successful operation, the 'experts' shall we say.
 
+26
+00:02:00,490 --> 00:02:06,959
+Managers who want to apply existing knowledge typically start off by going to an expert -
+
 27
-00:02:00,490 --> 00:02:06,848
-Managers who want to apply existing knowledge typically start off by going to an
+00:02:06,959 --> 00:02:10,000
+such as the person who designed
 
 28
-00:02:06,848 --> 00:02:11,983
-expert - such as the person who designed and is running a successful department store -
+00:02:10,000 --> 00:02:14,290
+and is running a successful department store - and picking their brains.
 
 29
-00:02:11,983 --> 00:02:14,290
-and picking their brains.
+00:02:14,290 --> 00:02:17,140
+Now, this approach can be used
 
 30
-00:02:14,290 --> 00:02:19,825
-Now, this approach can be used if you want to gain a rough understanding
+00:02:17,140 --> 00:02:22,875
+if you want to gain a rough understanding of a particular system,
 
 31
-00:02:19,825 --> 00:02:21,149
-of a particular system,
-
-32
-00:02:21,149 --> 00:02:25,260
+00:02:22,875 --> 00:02:25,260
 or understand smaller, isolated problems.
 
-33
-00:02:25,260 --> 00:02:30,913
+32
+00:02:25,260 --> 00:02:31,180
 The trouble is, even the expert doesn't fully grasp the whole thing
 
+33
+00:02:31,340 --> 00:02:33,753
+because when it comes to complex systems,
+
 34
-00:02:30,913 --> 00:02:37,247
-because when it comes to complex systems, the individual components of the process are
+00:02:33,753 --> 00:02:38,670
+the individual components of the process are interwoven with one another.
 
 35
-00:02:37,247 --> 00:02:38,670
-interwoven with one another.
-
-36
 00:02:38,670 --> 00:02:43,680
 The expert never has complete access to the necessary information.
 
+36
+00:02:43,680 --> 00:02:53,200
+And the situation's complicated even further by the fact that experts are usually not aware of their own ignorance.
+
 37
-00:02:43,680 --> 00:02:51,674
-And the situation's complicated even further by the fact that experts are usually not
+00:02:53,200 --> 00:02:57,000
+The ignorance can take various forms
 
 38
-00:02:51,674 --> 00:02:53,200
-aware of their own ignorance.
-
-39
-00:02:53,200 --> 00:02:56,871
-The ignorance can take various forms.
-
-40
-00:02:56,871 --> 00:03:02,910
+00:02:57,730 --> 00:03:02,910
 For instance, a lot of details of the system are invisible to managers.
 
+39
+00:03:02,910 --> 00:03:05,514
+Some may be difficult to describe -
+
+40
+00:03:05,514 --> 00:03:10,520
+learned on the job and well known by workers perhaps
+
 41
-00:03:02,910 --> 00:03:07,250
-Some may be difficult to describe - learned on the job
-
-42
-00:03:07,250 --> 00:03:09,854
-and well known by workers perhaps,
-
-43
-00:03:09,854 --> 00:03:13,760
+00:03:10,780 --> 00:03:13,760
 but impossible to describe in a way that's helpful.
 
+42
+00:03:13,760 --> 00:03:20,490
+And there are some things that people know or do that they're not even aware of.
+
+43
+00:03:20,490 --> 00:03:30,635
+Now, let's consider two types of mistake that can occur
+
 44
-00:03:13,760 --> 00:03:19,649
-And there are some things that people know or do that they're not even
+00:03:30,715 --> 00:03:36,730
+when a manager actually starts to set up a duplicate system to replicate a successful process
 
 45
-00:03:19,649 --> 00:03:20,490
-aware of.
-
-46
-00:03:20,490 --> 00:03:29,235
-Now, let's consider two types of mistake that can occur when a manager actually
-
-47
-00:03:29,235 --> 00:03:36,730
-starts to set up a duplicate system to replicate a successful process.
-
-48
 00:03:36,730 --> 00:03:43,360
 Firstly, perhaps he forgets that he was just trying to copy another process,
 
-49
+46
 00:03:43,360 --> 00:03:46,930
 and starts trying to improve on it.
 
-50
-00:03:46,930 --> 00:03:53,490
-Another mistake is trying to use the best parts of various different systems, in
+47
+00:03:46,930 --> 00:03:53,021
+Another mistake is trying to use the best parts of various different systems,
 
-51
-00:03:53,490 --> 00:03:56,770
-the hope of creating the perfect combination.
+48
+00:03:53,021 --> 00:03:56,770
+in the hope of creating the perfect combination.
 
-52
+49
 00:03:56,770 --> 00:04:05,500
 Unfortunately, attempts like these usually turn out to be misguided and lead to problems.
 
-53
-00:04:05,500 --> 00:04:05,550
-Why?
+50
+00:04:05,500 --> 00:04:08,556
+Why? Well, for various reasons.
 
-54
-00:04:05,550 --> 00:04:08,556
-Well, for various reasons.
+51
+00:04:08,556 --> 00:04:13,840
+Perhaps there weren't really any advantages after all
 
-55
-00:04:08,556 --> 00:04:13,444
-Perhaps there weren't really any advantages after all,
-
-56
-00:04:13,444 --> 00:04:16,500
+52
+00:04:13,840 --> 00:04:16,500
 because the information wasn't accurate.
 
-57
+53
 00:04:16,500 --> 00:04:21,090
 Or perhaps the business settings weren't really comparable.
 
-58
-00:04:21,090 --> 00:04:25,378
-More typically, the advantages are real enough,
+54
+00:04:21,090 --> 00:04:26,780
+More typically, the advantages are real enough
 
-59
-00:04:25,378 --> 00:04:30,890
+55
+00:04:26,780 --> 00:04:30,890
 but there are also disadvantages that have been overlooked.
 
-60
+56
 00:04:30,890 --> 00:04:37,280
 For example, the modifications might compromise safety in some way.
 
-61
-00:04:37,280 --> 00:04:39,375
-So, what's the solution?
+57
+00:04:37,280 --> 00:04:39,898
+So, what's the solution? Well,
 
-62
-00:04:39,375 --> 00:04:46,705
-Well, I don't intend to suggest that it's easy to get things right the
+58
+00:04:39,898 --> 00:04:48,800
+I don't intend to suggest that it's easy to get things right the second time, it's not.
 
-63
-00:04:46,705 --> 00:04:48,800
-second time.., it's not.
+59
+00:04:48,800 --> 00:04:55,947
+But the underlying problem has more to do with attitudes than the actual difficulty of the task,
 
-64
-00:04:48,800 --> 00:04:54,686
-But the underlying problem has more to do with attitudes than the actual difficulty
-
-65
-00:04:54,686 --> 00:04:55,947
-of the task,
-
-66
+60
 00:04:55,947 --> 00:04:59,310
 and there are ways of getting it right.
 
-67
-00:04:59,310 --> 00:05:09,100
-These involve adjusting attitudes, first of all.., being more realistic and cautious really.
+61
+00:04:59,310 --> 00:05:05,500
+These involve adjusting attitudes, first of all
 
-68
+62
+00:05:05,500 --> 00:05:09,100
+being more realistic and cautious really.
+
+63
 00:05:09,100 --> 00:05:18,000
 Secondly, they involve exerting strict controls on the organisational and operational systems.
 
-69
+64
 00:05:18,000 --> 00:05:24,060
 And this in turn means copying the original as closely as possible.
 
-70
+65
 00:05:24,060 --> 00:05:29,275
 Not merely duplicating the physical characteristics of the factory,
 
-71
+66
 00:05:29,275 --> 00:05:35,070
 but also duplicating the skills that the original employees had.
 
-72
+67
 00:05:35,070 --> 00:05:44,110
 Reliance on a template like this offers the huge advantage of built-in consistency.

@@ -3,105 +3,89 @@
 Listen to a talk on a science podcast.
 
 2
-00:00:05,100 --> 00:00:05,928
-Woman:
+00:00:05,100 --> 00:00:08,090
+Woman: Let's talk a bit about bird migration.
 
 3
-00:00:05,928 --> 00:00:08,090
-Let's talk a bit about bird migration.
+00:00:08,090 --> 00:00:13,652
+Migratory birds travel vast distances between their breeding and wintering grounds,
 
 4
-00:00:08,090 --> 00:00:16,180
-Migratory birds travel vast distances between their breeding and wintering grounds, often covering thousands of miles.
+00:00:13,652 --> 00:00:16,180
+often covering thousands of miles.
 
 5
-00:00:16,180 --> 00:00:21,922
-These journeys are driven by the need to find suitable habitats with adequate food supplies
+00:00:16,180 --> 00:00:20,794
+These journeys are driven by the need to find suitable habitats
 
 6
-00:00:21,922 --> 00:00:24,150
-and favorable climate conditions.
+00:00:20,794 --> 00:00:24,150
+with adequate food supplies and favorable climate conditions.
 
 7
-00:00:24,150 --> 00:00:29,610
-One of the most remarkable aspects of migration is a bird's ability to navigate
+00:00:24,150 --> 00:00:32,180
+One of the most remarkable aspects of migration is a bird's ability to navigate accurately over such long distances.
 
 8
-00:00:29,610 --> 00:00:32,180
-accurately over such long distances.
+00:00:32,180 --> 00:00:35,995
+Birds use a variety of navigational cues,
 
 9
-00:00:32,180 --> 00:00:37,821
-Birds use a variety of navigational cues, such as the position of the sun,
+00:00:35,995 --> 00:00:43,080
+such as the position of the sun, stars, and, incredibly, Earth's magnetic field.
 
 10
-00:00:37,821 --> 00:00:39,025
-stars,
+00:00:43,080 --> 00:00:49,547
+Certain bird species have a special protein in their eyes that allows them to see magnetic fields,
 
 11
-00:00:39,025 --> 00:00:43,080
-and, incredibly, Earth's magnetic field.
-
-12
-00:00:43,080 --> 00:00:48,157
-Certain bird species have a special protein in their eyes that allows them to
-
-13
-00:00:48,157 --> 00:00:49,481
-see magnetic fields,
-
-14
-00:00:49,481 --> 00:00:52,210
+00:00:49,547 --> 00:00:52,210
 and this helps them stay on course.
 
-15
-00:00:52,210 --> 00:00:59,269
+12
+00:00:52,210 --> 00:00:58,716
 Migratory birds play key roles in ecosystems by dispersing seeds and controlling pests,
 
-16
-00:00:59,269 --> 00:01:03,220
+13
+00:00:58,716 --> 00:01:03,220
 so their decline can cause imbalances throughout food webs.
 
-17
+14
 00:01:03,220 --> 00:01:10,240
 Of course, a migration over hundreds or even thousands of miles will be fraught with risk.
 
-18
-00:01:10,240 --> 00:01:15,118
-Obvious dangers include harsh weather conditions, predators,
+15
+00:01:10,240 --> 00:01:14,160
+Obvious dangers include harsh weather conditions
 
-19
-00:01:15,118 --> 00:01:18,170
-and the risk of exhaustion and starvation.
+16
+00:01:14,600 --> 00:01:18,170
+predators, and the risk of exhaustion and starvation.
 
-20
+17
 00:01:18,170 --> 00:01:24,270
 Less obviously, human activities also pose significant threats to migratory birds.
 
+18
+00:01:24,270 --> 00:01:32,270
+Habitat destruction, pollution, and climate change have led to a decline in many migratory bird populations.
+
+19
+00:01:32,270 --> 00:01:37,847
+At night, light pollution can disorient birds that navigate by the stars,
+
+20
+00:01:37,847 --> 00:01:42,030
+causing them to become lost or collide with buildings.
+
 21
-00:01:24,270 --> 00:01:27,607
-Habitat destruction, pollution,
+00:01:42,030 --> 00:01:49,270
+Protecting key habitats and reducing light pollution are a few of the steps that can help safeguard migrating birds.
 
 22
-00:01:27,607 --> 00:01:32,270
-and climate change have led to a decline in many migratory bird populations.
+00:01:49,270 --> 00:01:52,491
+Solutions include bird-friendly building design
 
 23
-00:01:32,270 --> 00:01:40,082
-At night, light pollution can disorient birds that navigate by the stars, causing them to become lost
-
-24
-00:01:40,082 --> 00:01:42,030
-or collide with buildings.
-
-25
-00:01:42,030 --> 00:01:47,581
-Protecting key habitats and reducing light pollution are a few of the steps that
-
-26
-00:01:47,581 --> 00:01:49,270
-can help safeguard migrating birds.
-
-27
-00:01:49,270 --> 00:02:00,220
-Solutions include bird-friendly building design and programs that encourage turning off unnecessary lights during peak migration seasons.
+00:01:52,491 --> 00:02:00,220
+and programs that encourage turning off unnecessary lights during peak migration seasons.

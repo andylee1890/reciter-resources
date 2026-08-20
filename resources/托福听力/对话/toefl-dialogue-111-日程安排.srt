@@ -1,55 +1,23 @@
 1
-00:00:00,000 --> 00:00:01,887
-Man:
+00:00:00,000 --> 00:00:08,029
+Man: Have you decided on a venue for your wedding reception?
 
 2
-00:00:01,887 --> 00:00:08,029
-Have you decided on a venue for your wedding reception?
+00:00:08,029 --> 00:00:11,300
+Woman: Yes, we're going to have it at the Riverside Pavilion
 
 3
-00:00:08,029 --> 00:00:08,974
-Woman:
-
-4
-00:00:08,974 --> 00:00:11,386
-Yes, we're going to have it at the Riverside Pavilion.
-
-5
-00:00:11,386 --> 00:00:14,020
+00:00:12,080 --> 00:00:14,020
 It has a beautiful view of the river.
 
+4
+00:00:14,020 --> 00:00:18,010
+Man: That sounds lovely. Are you planning to have live music?
+
+5
+00:00:18,010 --> 00:00:22,100
+Woman: Yes. We've booked a local band to play during the reception.
+
 6
-00:00:14,020 --> 00:00:14,070
-Man:
-
-7
-00:00:14,070 --> 00:00:15,471
-That sounds lovely.
-
-8
-00:00:15,471 --> 00:00:18,010
-Are you planning to have live music?
-
-9
-00:00:18,010 --> 00:00:18,351
-Woman:
-
-10
-00:00:18,351 --> 00:00:18,692
-Yes.
-
-11
-00:00:18,692 --> 00:00:22,100
-We've booked a local band to play during the reception.
-
-12
-00:00:22,100 --> 00:00:22,592
-Man:
-
-13
-00:00:22,592 --> 00:00:23,576
-Great choice.
-
-14
-00:00:23,576 --> 00:00:27,020
-It's going to be a wonderful event.
+00:00:22,100 --> 00:00:27,020
+Man: Great choice. It's going to be a wonderful event.

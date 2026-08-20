@@ -1,59 +1,39 @@
 1
-00:00:00,000 --> 00:00:00,121
-MAN:
+00:00:00,000 --> 00:00:03,280
+MAN: Have you gotten used to the new software John installed on your computer yet?
 
 2
-00:00:00,121 --> 00:00:03,280
-Have you gotten used to the new software John installed on your computer yet?
+00:00:03,280 --> 00:00:05,140
+It's supposed to be faster
 
 3
-00:00:03,280 --> 00:00:08,140
-It's supposed to be faster and easier to use than the program that was originally there.
+00:00:05,140 --> 00:00:08,140
+and easier to use than the program that was originally there.
 
 4
-00:00:08,140 --> 00:00:08,783
-WOMAN:
+00:00:08,140 --> 00:00:11,796
+WOMAN: I don't know because I haven't had the time to use it yet.
 
 5
-00:00:08,783 --> 00:00:11,715
-I don't know because I haven't had the time to use it yet.
-
-6
-00:00:11,715 --> 00:00:15,190
+00:00:11,796 --> 00:00:15,190
 I've been away on a business trip and just got back this morning.
 
+6
+00:00:15,190 --> 00:00:20,005
+Tell you what, I will try it out this morning and let you know how it is at lunch.
+
 7
-00:00:15,190 --> 00:00:17,724
-Tell you what, I will try it out this morning
-
-8
-00:00:17,724 --> 00:00:20,005
-and let you know how it is at lunch.
-
-9
 00:00:20,005 --> 00:00:24,060
 I just hope it won't take long for me to learn how to use the program.
 
-10
-00:00:24,060 --> 00:00:24,325
-MAN:
+8
+00:00:24,060 --> 00:00:26,020
+MAN: You shouldn't have any problems with it
 
-11
-00:00:24,325 --> 00:00:26,182
-You shouldn't have any problems with it.
-
-12
-00:00:26,182 --> 00:00:29,100
+9
+00:00:26,200 --> 00:00:29,100
 The command keys are exactly the same as the old program.
 
-13
-00:00:29,100 --> 00:00:29,458
-WOMAN:
-
-14
-00:00:29,458 --> 00:00:30,531
-Is that right?
-
-15
-00:00:30,531 --> 00:00:34,110
-I guess I won't have any problems using it then.
+10
+00:00:29,100 --> 00:00:34,110
+WOMAN: Is that right? I guess I won't have any problems using it then.

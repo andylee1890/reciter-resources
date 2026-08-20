@@ -1,63 +1,31 @@
 1
-00:00:00,000 --> 00:00:01,649
-Woman:
+00:00:00,000 --> 00:00:07,280
+Woman: I bought a traditional recipe book and started learning how to bake.
 
 2
-00:00:01,649 --> 00:00:07,280
-I bought a traditional recipe book and started learning how to bake.
+00:00:07,280 --> 00:00:11,100
+Man: That sounds great. How has it been going so far?
 
 3
-00:00:07,280 --> 00:00:07,603
-Man:
+00:00:11,100 --> 00:00:15,132
+Woman: Well, with mixed success, my chocolate cake turned out fabulous,
 
 4
-00:00:07,603 --> 00:00:09,119
-That sounds great.
-
-5
-00:00:09,119 --> 00:00:11,100
-How has it been going so far?
-
-6
-00:00:11,100 --> 00:00:11,150
-Woman:
-
-7
-00:00:11,150 --> 00:00:15,132
-Well, with mixed success, my chocolate cake turned out fabulous,
-
-8
 00:00:15,132 --> 00:00:20,264
 But my cookies, well, let's say I'm not going to have anyone try them.
 
-9
-00:00:20,264 --> 00:00:22,464
-I managed to eat a couple,
+5
+00:00:20,264 --> 00:00:25,030
+I managed to eat a couple, but only because I have strong teeth.
 
-10
-00:00:22,464 --> 00:00:25,030
-but only because I have strong teeth.
+6
+00:00:25,030 --> 00:00:26,170
+Man: You'll do better next time.
 
-11
-00:00:25,030 --> 00:00:25,220
-Man:
+7
+00:00:26,170 --> 00:00:29,876
+Woman: I hope so. In fact, I'm going to try again tonight.
 
-12
-00:00:25,220 --> 00:00:26,170
-You'll do better next time.
-
-13
-00:00:26,170 --> 00:00:26,479
-Woman:
-
-14
-00:00:26,479 --> 00:00:27,405
-I hope so.
-
-15
-00:00:27,405 --> 00:00:29,876
-In fact, I'm going to try again tonight.
-
-16
+8
 00:00:29,876 --> 00:00:34,200
 I'm headed to the store right now to get some extra flour and sugar.

@@ -3,21 +3,17 @@
 Listen to an announcement on the school radio.
 
 2
-00:00:04,070 --> 00:00:09,874
-Attention, students, the campus bookstore will be holding a special sale tomorrow from 8
+00:00:04,070 --> 00:00:10,260
+Attention, students, the campus bookstore will be holding a special sale tomorrow from 8 a
 
 3
-00:00:09,874 --> 00:00:10,557
-a.m.
+00:00:10,260 --> 00:00:11,200
+m. to 6 p. m.
 
 4
-00:00:10,557 --> 00:00:11,200
-to 6 p.m.
-
-5
 00:00:11,200 --> 00:00:15,190
 All textbooks and supplies will be discounted by 20%.
 
-6
+5
 00:00:15,190 --> 00:00:19,080
 Don't miss this great opportunity to stock up for the semester.

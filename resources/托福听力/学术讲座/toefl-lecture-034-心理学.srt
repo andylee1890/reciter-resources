@@ -1,99 +1,103 @@
 1
-00:00:00,000 --> 00:00:03,070
+00:00:00,000 --> 00:00:04,220
 Listen to a talk in a psychology class.
 
 2
-00:00:03,070 --> 00:00:05,264
-Man:
-
-3
-00:00:05,264 --> 00:00:09,130
+00:00:05,460 --> 00:00:09,060
 Positive reinforcement is a powerful concept in psychology and behavior training.
 
-4
-00:00:09,130 --> 00:00:14,210
+3
+00:00:10,000 --> 00:00:14,460
 It means giving a reward after someone performs an action you want them to do again.
 
+4
+00:00:15,540 --> 00:00:19,020
+The basic idea is that when a behavior leads to a positive outcome
+
 5
-00:00:14,210 --> 00:00:19,722
-The basic idea is that when a behavior leads to a positive outcome, it's
+00:00:19,020 --> 00:00:20,780
+it's more likely to be repeated.
 
 6
-00:00:19,722 --> 00:00:21,070
-more likely to be repeated.
-
-7
-00:00:21,070 --> 00:00:25,130
+00:00:21,500 --> 00:00:25,060
 In other words, we tend to repeat actions that bring us something positive.
 
+7
+00:00:25,780 --> 00:00:29,960
+This principle applies to both humans and animals, but the way it works can differ.
+
 8
-00:00:25,130 --> 00:00:28,390
-This principle applies to both humans and animals,
-
-9
-00:00:28,390 --> 00:00:30,080
-but the way it works can differ.
-
-10
-00:00:30,080 --> 00:00:34,210
+00:00:31,040 --> 00:00:34,480
 Animals need to receive rewards immediately after the desired behavior.
 
+9
+00:00:35,400 --> 00:00:38,120
+For example, if a dog sits and gets a treat right away
+
+10
+00:00:38,520 --> 00:00:40,580
+it learns that sitting leads to something good.
+
 11
-00:00:34,210 --> 00:00:38,944
-For example, if a dog sits and gets a treat right away, it learns
-
-12
-00:00:38,944 --> 00:00:40,569
-that sitting leads to something good.
-
-13
-00:00:40,569 --> 00:00:44,260
+00:00:41,720 --> 00:00:44,440
 If the reward comes too late, the connection is lost.
 
-14
-00:00:44,260 --> 00:00:48,160
+12
+00:00:45,520 --> 00:00:48,160
 Humans, however, can understand delayed rewards.
 
+13
+00:00:48,960 --> 00:00:50,240
+They might work hard today
+
+14
+00:00:50,240 --> 00:00:53,500
+because they're aiming for a future goal, like earning a degree,
+
 15
-00:00:48,160 --> 00:00:48,210
-They might work hard today because they're aiming for a future goal, like earning
+00:00:53,800 --> 00:00:56,120
+or they might feel motivated by praise
 
 16
-00:00:48,210 --> 00:00:48,260
-a degree,
+00:00:56,380 --> 00:00:59,440
+even if the reward isn't tangible or instant.
 
 17
-00:00:48,260 --> 00:00:48,310
-or they might feel motivated by praise, even if the reward isn't tangible or instant.
+00:00:59,860 --> 00:01:01,640
+But rewards must be used carefully.
 
 18
-00:00:48,310 --> 00:00:48,360
-The rewards must be used carefully.
+00:01:02,360 --> 00:01:04,880
+If a parent gives a child candy to stop whining
 
 19
-00:00:48,360 --> 00:00:48,410
-If a parent gives a child candy to stop whining, the child may learn
+00:01:05,300 --> 00:01:07,460
+the child may learn that whining gets rewarded.
 
 20
-00:00:48,410 --> 00:00:48,460
-that whining gets rewarded.
+00:01:08,180 --> 00:01:10,380
+It's like watering weeds instead of flowers.
 
 21
-00:00:48,460 --> 00:00:48,510
-It's like watering weeds instead of flowers — you're encouraging the wrong behavior.
+00:01:10,740 --> 00:01:12,500
+You're encouraging the wrong behavior.
 
 22
-00:00:48,510 --> 00:00:48,560
-And if rewards are given too frequently, they can reduce a person's internal motivation,
+00:01:13,160 --> 00:01:15,280
+And if rewards are given too frequently
 
 23
-00:00:48,560 --> 00:00:48,610
-making them rely more on external incentives to take action.
+00:01:15,320 --> 00:01:18,100
+they can reduce a person's internal motivation,
 
 24
-00:00:48,610 --> 00:00:48,660
-So while positive reinforcement is effective, it works best when applied thoughtfully
+00:01:18,540 --> 00:01:21,900
+making them rely more on external incentives to take action.
 
 25
-00:00:48,660 --> 00:00:48,710
-and with clear intent.
+00:01:22,700 --> 00:01:25,440
+So while positive reinforcement is effective
+
+26
+00:01:26,160 --> 00:01:29,320
+it works best when applied thoughtfully and with clear intent.

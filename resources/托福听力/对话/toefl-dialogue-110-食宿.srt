@@ -1,71 +1,31 @@
 1
-00:00:00,000 --> 00:00:02,935
-Woman:
+00:00:00,000 --> 00:00:08,040
+Woman: So are you all set for the picnic tomorrow?
 
 2
-00:00:02,935 --> 00:00:08,040
-So are you all set for the picnic tomorrow?
+00:00:08,040 --> 00:00:11,860
+Man: Not quite. I still need to pick up some snacks
 
 3
-00:00:08,040 --> 00:00:09,306
-Man:
+00:00:11,860 --> 00:00:14,110
+and drinks and maybe a few extra napkins.
 
 4
-00:00:09,306 --> 00:00:09,748
-Not quite.
+00:00:14,110 --> 00:00:17,230
+Woman: Want some help? I was planning to go to the store later anyway.
 
 5
-00:00:09,748 --> 00:00:12,193
-I still need to pick up some snacks and drinks
+00:00:17,230 --> 00:00:20,520
+Man: That'd be perfect. I need to make a fruit salad
 
 6
-00:00:12,193 --> 00:00:14,110
-and maybe a few extra napkins.
+00:00:20,520 --> 00:00:23,040
+and I'm worried I don't have enough time.
 
 7
-00:00:14,110 --> 00:00:14,160
-Woman:
+00:00:23,040 --> 00:00:27,090
+Woman: Well, it's not until the afternoon, right? And we don't have to go far.
 
 8
-00:00:14,160 --> 00:00:15,001
-Want some help?
-
-9
-00:00:15,001 --> 00:00:17,230
-I was planning to go to the store later anyway.
-
-10
-00:00:17,230 --> 00:00:17,536
-Man:
-
-11
-00:00:17,536 --> 00:00:18,453
-That'd be perfect.
-
-12
-00:00:18,453 --> 00:00:23,040
-I need to make a fruit salad and I'm worried I don't have enough time.
-
-13
-00:00:23,040 --> 00:00:23,310
-Woman:
-
-14
-00:00:23,310 --> 00:00:25,200
-Well, it's not until the afternoon, right?
-
-15
-00:00:25,200 --> 00:00:27,090
-And we don't have to go far.
-
-16
-00:00:27,090 --> 00:00:27,472
-Man:
-
-17
-00:00:27,472 --> 00:00:28,238
-That's true.
-
-18
-00:00:28,238 --> 00:00:30,150
-I shouldn't worry so much.
+00:00:27,090 --> 00:00:30,150
+Man: That's true. I shouldn't worry so much.

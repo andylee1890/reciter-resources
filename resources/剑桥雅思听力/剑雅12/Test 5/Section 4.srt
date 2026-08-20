@@ -1,391 +1,339 @@
 1
-00:00:00,000 --> 00:00:01,450
-Section 4
-
-2
-00:00:01,450 --> 00:00:06,890
+00:00:00,000 --> 00:00:06,890
 In public discussion of business, we take certain values for granted.
 
-3
-00:00:06,890 --> 00:00:09,843
-Today I'm going to talk about four of them:
+2
+00:00:06,890 --> 00:00:10,340
+Today I'm going to talk about four of them
 
-4
-00:00:09,843 --> 00:00:16,310
+3
+00:00:11,000 --> 00:00:16,310
 collaboration, hard work, creativity and excellence.
 
-5
-00:00:16,310 --> 00:00:20,110
-Most people would say they're all 'good things'.
+4
+00:00:16,310 --> 00:00:20,120
+Most people would say they're all 'good things
 
-6
-00:00:20,110 --> 00:00:23,970
+5
+00:00:20,420 --> 00:00:23,970
 I'm going to suggest that's an over-simple view.
 
+6
+00:00:23,970 --> 00:00:28,805
+The trouble with these values is that they're theoretical concepts,
+
 7
-00:00:23,970 --> 00:00:30,739
-The trouble with these values is that they're theoretical concepts, removed from the reality
+00:00:28,805 --> 00:00:32,190
+removed from the reality of day-to-day business.
 
 8
-00:00:30,739 --> 00:00:32,190
-of day-to-day business.
+00:00:32,190 --> 00:00:38,610
+Pursue values by all means, but be prepared for what may happen as a result.
 
 9
-00:00:32,190 --> 00:00:34,330
-Pursue values by all means,
+00:00:38,610 --> 00:00:43,560
+They can actually cause damage, which is not at all the intention.
 
 10
-00:00:34,330 --> 00:00:38,610
-but be prepared for what may happen as a result.
-
-11
-00:00:38,610 --> 00:00:40,672
-They can actually cause damage,
-
-12
-00:00:40,672 --> 00:00:43,560
-which is not at all the intention.
-
-13
 00:00:43,560 --> 00:00:47,750
 Business leaders generally try to do the right thing.
 
-14
-00:00:47,750 --> 00:00:54,112
-But all too often the right thing backfires, if those leaders adopt values without understanding
+11
+00:00:47,750 --> 00:00:51,143
+But all too often the right thing backfires,
 
-15
-00:00:54,112 --> 00:00:57,081
+12
+00:00:51,143 --> 00:00:54,620
+if those leaders adopt values without understanding
+
+13
+00:00:54,620 --> 00:00:57,081
 and managing the side effects that arise.
 
-16
+14
 00:00:57,081 --> 00:01:02,170
 The values can easily get in the way of what's actually intended.
 
-17
-00:01:02,170 --> 00:01:02,744
-OK.
+15
+00:01:02,170 --> 00:01:08,480
+OK. So the first value I'm going to discuss is collaboration.
 
-18
-00:01:02,744 --> 00:01:08,480
-So the first value I'm going to discuss is collaboration.
-
-19
+16
 00:01:08,480 --> 00:01:11,208
 Er, let me give you an example.
 
-20
+17
 00:01:11,208 --> 00:01:16,274
 On a management training course I once attended, we were put into groups
 
+18
+00:01:16,274 --> 00:01:19,500
+and had to construct a bridge across a stream
+
+19
+00:01:19,500 --> 00:01:22,510
+using building blocks that we were given.
+
+20
+00:01:22,510 --> 00:01:30,170
+The rule was that everyone in the team had to move at least one building block during the construction.
+
 21
-00:01:16,274 --> 00:01:21,731
-and had to construct a bridge across a stream, using building blocks that we
+00:01:30,170 --> 00:01:33,160
+This was intended to encourage teamwork
 
 22
-00:01:21,731 --> 00:01:22,510
-were given.
-
-23
-00:01:22,510 --> 00:01:28,154
-The rule was that everyone in the team had to move at least one
-
-24
-00:01:28,154 --> 00:01:30,170
-building block during the construction.
-
-25
-00:01:30,170 --> 00:01:32,923
-This was intended to encourage teamwork.
-
-26
-00:01:32,923 --> 00:01:37,970
+00:01:33,760 --> 00:01:37,970
 But it was really a job best done by one person.
 
-27
+23
 00:01:37,970 --> 00:01:42,075
 The other teams tried to collaborate on building the structure,
 
-28
+24
 00:01:42,075 --> 00:01:46,590
 and descended into confusion, with everyone getting in each other's way.
 
-29
+25
 00:01:46,590 --> 00:01:50,410
 Our team leader solved the challenge brilliantly.
 
-30
-00:01:50,410 --> 00:01:55,094
-She simply asked everyone in the team to move a piece a few centimetres,
+26
+00:01:50,410 --> 00:01:55,040
+She simply asked everyone in the team to move a piece a few centimetres
 
-31
-00:01:55,094 --> 00:01:56,767
+27
+00:01:55,040 --> 00:01:56,767
 to comply with the rule,
 
-32
-00:01:56,767 --> 00:02:01,452
-and then let the person in the team with an aptitude for puzzles like
+28
+00:01:56,767 --> 00:02:02,790
+and then let the person in the team with an aptitude for puzzles like this build it alone.
 
-33
-00:02:01,452 --> 00:02:02,790
-this build it alone.
-
-34
+29
 00:02:02,790 --> 00:02:05,703
 We finished before any other team.
 
-35
-00:02:05,703 --> 00:02:11,043
-My point is that the task wasn't really suited to teamworking,
+30
+00:02:05,703 --> 00:02:13,470
+My point is that the task wasn't really suited to teamworking, so why make it one?
 
-36
-00:02:11,043 --> 00:02:13,470
-so why make it one?
-
-37
+31
 00:02:13,470 --> 00:02:20,320
 Teamwork can also lead to inconsistency - a common cause of poor sales.
 
-38
-00:02:20,320 --> 00:02:26,381
-In the case of a smartphone that a certain company launched, one director wanted
+32
+00:02:20,320 --> 00:02:25,083
+In the case of a smartphone that a certain company launched,
 
-39
-00:02:26,381 --> 00:02:28,546
-to target the business market,
+33
+00:02:25,083 --> 00:02:28,200
+one director wanted to target the business market
 
-40
-00:02:28,546 --> 00:02:32,010
+34
+00:02:28,200 --> 00:02:32,010
 and another demanded it was aimed at consumers.
 
-41
+35
 00:02:32,010 --> 00:02:36,050
 The company wanted both directors to be involved,
 
-42
-00:02:36,050 --> 00:02:39,585
-so gave the product a consumer-friendly name,
+36
+00:02:36,050 --> 00:02:42,110
+so gave the product a consumer-friendly name, but marketed it to companies.
 
-43
-00:02:39,585 --> 00:02:42,110
-but marketed it to companies.
-
-44
+37
 00:02:42,110 --> 00:02:46,300
 The result was that it met the needs of neither group.
 
-45
-00:02:46,300 --> 00:02:53,975
-It would have been better to let one director or the other have his
+38
+00:02:46,300 --> 00:02:55,619
+It would have been better to let one director or the other have his way, not both.
 
-46
-00:02:53,975 --> 00:02:56,715
-way, not both.Now industriousness,
+39
+00:02:55,619 --> 00:02:58,360
+Now industriousness, or hard work.
 
-47
-00:02:56,715 --> 00:02:58,360
-or hard work.
-
-48
+40
 00:02:58,360 --> 00:03:02,556
 It's easy to mock people who say they work hard:
 
-49
-00:03:02,556 --> 00:03:07,591
-after all, a hamster running around in a wheel is working hard -
+41
+00:03:02,556 --> 00:03:08,850
+after all, a hamster running around in a wheel is working hard - and getting nowhere.
 
-50
-00:03:07,591 --> 00:03:08,850
-and getting nowhere.
+42
+00:03:08,850 --> 00:03:14,300
+Of course hard work is valuable, but only when properly targeted.
 
-51
-00:03:08,850 --> 00:03:11,823
-Of course hard work is valuable,
-
-52
-00:03:11,823 --> 00:03:14,300
-but only when properly targeted.
-
-53
+43
 00:03:14,300 --> 00:03:20,053
 Otherwise it wastes the resources that companies value most - time and energy.
 
-54
+44
 00:03:20,053 --> 00:03:22,930
 And that's bad for the organisation.
 
-55
+45
 00:03:22,930 --> 00:03:29,874
 There's a management model that groups people according to four criteria:
 
-56
+46
 00:03:29,874 --> 00:03:33,030
 clever, hard-working, stupid and lazy.
 
-57
+47
 00:03:33,030 --> 00:03:39,375
 Here 'lazy' means having a rational determination not to carry out unnecessary tasks.
 
-58
+48
 00:03:39,375 --> 00:03:43,280
 It doesn't mean trying to avoid work altogether.
 
+49
+00:03:43,280 --> 00:03:47,000
+Most people display two of these characteristics
+
+50
+00:03:47,000 --> 00:03:50,248
+and the most valuable people are those
+
+51
+00:03:50,248 --> 00:03:58,710
+who are both clever and lazy: they possess intellectual clarity, and they don't rush into making decisions.
+
+52
+00:03:58,710 --> 00:04:01,960
+They come up with solutions to save the time
+
+53
+00:04:01,960 --> 00:04:05,730
+and energy spent by the stupid and hard-working group.
+
+54
+00:04:05,730 --> 00:04:08,800
+Instead of throwing more man-hours at a problem
+
+55
+00:04:09,180 --> 00:04:13,700
+the clever and lazy group looks for a more effective solution.
+
+56
+00:04:13,700 --> 00:04:19,186
+Next we come to creativity. This often works well -
+
+57
+00:04:19,186 --> 00:04:23,660
+creating an attention-grabbing TV commercial, for example
+
+58
+00:04:23,940 --> 00:04:26,500
+might lead to increased sales.
+
 59
-00:03:43,280 --> 00:03:46,764
-Most people display two of these characteristics,
-
-60
-00:03:46,764 --> 00:03:53,235
-and the most valuable people are those who are both clever and lazy:
-
-61
-00:03:53,235 --> 00:03:55,226
-they possess intellectual clarity,
-
-62
-00:03:55,226 --> 00:03:58,710
-and they don't rush into making decisions.
-
-63
-00:03:58,710 --> 00:04:04,560
-They come up with solutions to save the time and energy spent by the stupid
-
-64
-00:04:04,560 --> 00:04:05,730
-and hard-working group.
-
-65
-00:04:05,730 --> 00:04:09,925
-Instead of throwing more man-hours at a problem, the clever
-
-66
-00:04:09,925 --> 00:04:13,700
-and lazy group looks for a more effective solution.
-
-67
-00:04:13,700 --> 00:04:16,748
-Next we come to creativity.
-
-68
-00:04:16,748 --> 00:04:24,671
-This often works well - creating an attention-grabbing TV commercial, for example, might lead
-
-69
-00:04:24,671 --> 00:04:26,500
-to increased sales.
-
-70
 00:04:26,500 --> 00:04:30,053
 But it isn't always a good thing.
 
-71
-00:04:30,053 --> 00:04:37,160
-Some advertising campaigns are remembered for their creativity, without having any effect on sales.
+60
+00:04:30,053 --> 00:04:34,120
+Some advertising campaigns are remembered for their creativity
 
-72
+61
+00:04:34,120 --> 00:04:37,160
+without having any effect on sales.
+
+62
 00:04:37,160 --> 00:04:42,234
 This happened a few years ago with the launch of a chocolate bar:
 
-73
+63
 00:04:42,234 --> 00:04:46,137
 subsequent research showed that plenty of consumers remembered the adverts,
 
-74
+64
 00:04:46,137 --> 00:04:49,260
 but had no idea what was being advertised.
 
-75
+65
 00:04:49,260 --> 00:04:54,720
 The trouble is that the creator derives pleasure from coming up with the idea,
 
-76
+66
 00:04:54,720 --> 00:04:59,400
 and wrongly assumes the audience for the campaign will share that feeling.
 
-77
-00:04:59,400 --> 00:05:05,275
-A company that brings out thousands of new products may seem more creative than
+67
+00:04:59,400 --> 00:05:08,213
+A company that brings out thousands of new products may seem more creative than a company that only has a few,
 
-78
-00:05:05,275 --> 00:05:08,213
-a company that only has a few,
+68
+00:05:08,213 --> 00:05:12,410
+but it may be too creative, and make smaller profits.
 
-79
-00:05:08,213 --> 00:05:10,731
-but it may be too creative,
-
-80
-00:05:10,731 --> 00:05:12,410
-and make smaller profits.
-
-81
+69
 00:05:12,410 --> 00:05:19,120
 Creativity needs to be targeted, to solve a problem that the company has identified.
 
-82
-00:05:19,120 --> 00:05:26,425
-Just coming up with more and more novel products isn't necessarily a good thing.
+70
+00:05:19,120 --> 00:05:21,060
+Just coming up with more
 
-83
-00:05:26,425 --> 00:05:27,990
-And finally, excellence.
+71
+00:05:21,060 --> 00:05:27,990
+and more novel products isn't necessarily a good thing. And finally, excellence.
 
-84
-00:05:27,990 --> 00:05:32,301
-We all know companies that claim they 'strive for excellence',
+72
+00:05:27,990 --> 00:05:32,180
+We all know companies that claim they 'strive for excellence
 
-85
-00:05:32,301 --> 00:05:36,180
+73
+00:05:32,280 --> 00:05:36,180
 but it takes a long time to achieve excellence.
 
-86
-00:05:36,180 --> 00:05:42,676
-In business, being first with a product is more profitable than having the best
+74
+00:05:36,180 --> 00:05:43,140
+In business, being first with a product is more profitable than having the best product.
 
-87
-00:05:42,676 --> 00:05:43,140
-product.
+75
+00:05:43,140 --> 00:05:47,096
+A major study of company performance compared pioneers -
 
-88
-00:05:43,140 --> 00:05:49,569
-A major study of company performance compared pioneers - that is, companies bringing out
+76
+00:05:47,096 --> 00:05:53,030
+that is, companies bringing out the first version of a particular product -
 
-89
-00:05:49,569 --> 00:05:55,997
-the first version of a particular product – with followers, the companies that copied
+77
+00:05:53,030 --> 00:05:58,470
+with followers, the companies that copied and improved on that product.
 
-90
-00:05:55,997 --> 00:05:58,470
-and improved on that product.
-
-91
+78
 00:05:58,470 --> 00:06:05,097
 The study found that the pioneers commanded an average market share of 29 percent,
 
-92
-00:06:05,097 --> 00:06:11,250
-while the followers achieved less than half that, only 13 percent - even though
+79
+00:06:05,097 --> 00:06:08,883
+while the followers achieved less than half that,
 
-93
-00:06:11,250 --> 00:06:14,090
-their product might have been better.
+80
+00:06:08,883 --> 00:06:14,090
+only 13 percent - even though their product might have been better.
 
-94
-00:06:14,090 --> 00:06:20,256
-Insisting on excellence in everything we do is time-consuming, wastes energy
+81
+00:06:14,090 --> 00:06:19,135
+Insisting on excellence in everything we do is time-consuming,
 
-95
-00:06:20,256 --> 00:06:24,180
-and leads to losing out on opportunities.
+82
+00:06:19,135 --> 00:06:24,180
+wastes energy and leads to losing out on opportunities.
 
-96
+83
 00:06:24,180 --> 00:06:29,700
 Sometimes, second-rate work is more worthwhile than excellence.
 
-97
+84
 00:06:29,700 --> 00:06:35,184
 'Make sure it's excellent' sounds like a good approach to business,
 
-98
+85
 00:06:35,184 --> 00:06:40,170
 but the 'just-get-started' approach is likely to be more successful.

@@ -1,287 +1,267 @@
 1
-00:00:00,000 --> 00:00:01,480
-Section 4
-
-2
-00:00:01,480 --> 00:00:07,940
+00:00:00,000 --> 00:00:07,940
 Over the years, attitudes towards workers have changed considerably.
 
-3
-00:00:07,940 --> 00:00:13,318
-After all, there was a time when workers had no rights at all,
+2
+00:00:07,940 --> 00:00:13,500
+After all, there was a time when workers had no rights at all
 
-4
-00:00:13,318 --> 00:00:17,150
+3
+00:00:13,500 --> 00:00:17,150
 and laboured in appalling conditions.
 
+4
+00:00:17,150 --> 00:00:24,170
+Conditions have improved a lot, but conflict in the workplace is still common.
+
 5
-00:00:17,150 --> 00:00:20,158
-Conditions have improved a lot,
+00:00:24,170 --> 00:00:32,270
+And human resources managers nowadays need to be able to deal with it when necessary.
 
 6
-00:00:20,158 --> 00:00:24,329
-but conflict in the workplace is still common.
-
-7
-00:00:24,329 --> 00:00:31,730
-And human resources managers nowadays need to be able to deal with it when
-
-8
-00:00:31,730 --> 00:00:32,270
-necessary.
-
-9
 00:00:32,270 --> 00:00:36,033
 What is conflict in the workplace?
 
+7
+00:00:36,033 --> 00:00:47,950
+Definitions vary, but I'm taking it to refer to a whole range of behaviours that the victim finds unacceptable,
+
+8
+00:00:47,950 --> 00:00:54,850
+from minor, harmless arguments to - at the opposite extreme - physical violence.
+
+9
+00:00:54,850 --> 00:01:00,291
+Much of this is covered by the term bullying, by
+
 10
-00:00:36,033 --> 00:00:37,288
-Definitions vary,
+00:01:00,291 --> 00:01:07,900
+which I mean one or more people behaving abusively or aggressively against another
 
 11
-00:00:37,288 --> 00:00:46,069
-but I'm taking it to refer to a whole range of behaviours that the
+00:01:07,900 --> 00:01:10,630
+who is in a weaker position.
 
 12
-00:00:46,069 --> 00:00:54,850
-victim finds unacceptable, from minor, harmless arguments to - at the opposite extreme - physical violence.
+00:01:10,630 --> 00:01:15,300
+Although all behaviour like this is a form of conflict
 
 13
-00:00:54,850 --> 00:01:02,468
-Much of this is covered by the term bullying, by which I mean one
+00:01:15,300 --> 00:01:20,120
+not all conflict can be described in these terms.
 
 14
-00:01:02,468 --> 00:01:10,086
-or more people behaving abusively or aggressively against another who is in a weaker
-
-15
-00:01:10,086 --> 00:01:10,630
-position.
-
-16
-00:01:10,630 --> 00:01:17,623
-Although all behaviour like this is a form of conflict, not all conflict can
-
-17
-00:01:17,623 --> 00:01:20,120
-be described in these terms.
-
-18
 00:01:20,120 --> 00:01:25,208
 As with all human behaviour, there are numerous reasons for it.
 
+15
+00:01:25,208 --> 00:01:28,800
+But often it's caused by someone
+
+16
+00:01:28,800 --> 00:01:33,071
+who feels the need to show their superiority over someone else,
+
+17
+00:01:33,071 --> 00:01:41,860
+in order to feel that they aren't at the lowest level in a hierarchy or a group of people.
+
+18
+00:01:41,860 --> 00:01:46,595
+In some cases one person simply dislikes the other,
+
 19
-00:01:25,208 --> 00:01:31,684
-But often it's caused by someone who feels the need to show their superiority
+00:01:46,595 --> 00:01:56,590
+on the basis that the personality of one is in some way incompatible with that of the other person.
 
 20
-00:01:31,684 --> 00:01:39,547
-over someone else, in order to feel that they aren't at the lowest level in a hierarchy
+00:01:56,590 --> 00:02:04,862
+A general habit of optimism in one person could make them intolerant of a colleague
 
 21
-00:01:39,547 --> 00:01:41,860
-or a group of people.
+00:02:04,862 --> 00:02:11,480
+who's constantly pessimistic - not that that justifies treating them badly, of course.
 
 22
-00:01:41,860 --> 00:01:49,225
-In some cases one person simply dislikes the other, on the basis that the
-
-23
-00:01:49,225 --> 00:01:56,590
-personality of one is in some way incompatible with that of the other person.
-
-24
-00:01:56,590 --> 00:02:04,311
-A general habit of optimism in one person could make them intolerant of a
-
-25
-00:02:04,311 --> 00:02:11,480
-colleague who's constantly pessimistic - not that that justifies treating them badly, of course.
-
-26
 00:02:11,480 --> 00:02:17,326
 Some conflicts arise when people are more interested in promoting themselves
 
-27
+23
 00:02:17,326 --> 00:02:22,640
 and their team than in the company as a whole.
 
+24
+00:02:22,640 --> 00:02:27,608
+These conflicts are called 'structural', and could come about,
+
+25
+00:02:27,608 --> 00:02:34,500
+for example, when a sales team believe they are the only people in the business
+
+26
+00:02:34,500 --> 00:02:38,648
+who do any useful work,
+
+27
+00:02:38,648 --> 00:02:41,960
+and look down on behind. The-scenes administrators.
+
 28
-00:02:22,640 --> 00:02:25,400
-These conflicts are called 'structural',
+00:02:41,960 --> 00:02:45,838
+Conflict obviously affects the individuals concerned -
 
 29
-00:02:25,400 --> 00:02:28,712
-and could come about, for example,
+00:02:45,838 --> 00:02:52,302
+the situation is likely to be very stressful for victims,
 
 30
-00:02:28,712 --> 00:02:36,440
-when a sales team believe they are the only people in the business who
+00:02:52,302 --> 00:02:58,120
+resulting in their absence from work, possibly for months.
 
 31
-00:02:36,440 --> 00:02:38,648
-do any useful work,
+00:02:58,120 --> 00:03:03,618
+For the company, if no effort is made to deal with conflict,
 
 32
-00:02:38,648 --> 00:02:41,960
-and look down on behind-the-scenes administrators.
+00:03:03,618 --> 00:03:10,490
+it can spiral out of control, and even lead to the breakdown of the business.
 
 33
-00:02:41,960 --> 00:02:50,363
-Conflict obviously affects the individuals concerned - the situation is likely to be very
+00:03:10,490 --> 00:03:14,204
+Some interesting work with chief executives -
 
 34
-00:02:50,363 --> 00:02:58,120
-stressful for victims, resulting in their absence from work, possibly for months.
+00:03:14,204 --> 00:03:22,250
+CEOs - has uncovered some of the reasons why they may treat colleagues badly.
 
 35
-00:02:58,120 --> 00:03:04,534
-For the company, if no effort is made to deal with conflict, it can
-
-36
-00:03:04,534 --> 00:03:06,367
-spiral out of control,
-
-37
-00:03:06,367 --> 00:03:10,490
-and even lead to the breakdown of the business.
-
-38
-00:03:10,490 --> 00:03:17,917
-Some interesting work with chief executives - CEOs - has uncovered some of the
-
-39
-00:03:17,917 --> 00:03:22,250
-reasons why they may treat colleagues badly.
-
-40
 00:03:22,250 --> 00:03:25,995
 Many CEOs combine two opposing characteristics:
 
-41
-00:03:25,995 --> 00:03:33,484
-confidence - that is, the belief that they're capable of great achievements - with
+36
+00:03:25,995 --> 00:03:34,940
+confidence - that is, the belief that they're capable of great achievements
 
-42
-00:03:33,484 --> 00:03:42,221
-a high level of anxiety, a fear of missing targets, whether set by themselves
+37
+00:03:35,480 --> 00:03:36,604
+with a high level of anxiety,
 
-43
-00:03:42,221 --> 00:03:46,590
-or by the directors of the company.
+38
+00:03:36,604 --> 00:03:41,020
+a fear of missing targets
 
-44
+39
+00:03:41,460 --> 00:03:46,590
+whether set by themselves or by the directors of the company.
+
+40
 00:03:46,590 --> 00:03:54,530
 This combination can make them respond badly to anyone who questions their decisions.
 
-45
+41
 00:03:54,530 --> 00:04:01,500
 In a high pressure work environment, such characteristics become problematic.
 
+42
+00:04:01,500 --> 00:04:06,783
+And it's particularly difficult to tackle the situation where colleagues,
+
+43
+00:04:06,783 --> 00:04:13,122
+managers and board members are all trying to achieve their own visions.
+
+44
+00:04:13,122 --> 00:04:18,800
+When they can't agree on strategic issues and on
+
+45
+00:04:18,800 --> 00:04:23,160
+where they see the business going, there are real problems.
+
 46
-00:04:01,500 --> 00:04:07,311
-And it's particularly difficult to tackle the situation where colleagues, managers
+00:04:23,160 --> 00:04:27,400
+For managers at lower levels within the organisation
 
 47
-00:04:07,311 --> 00:04:13,122
-and board members are all trying to achieve their own visions.
+00:04:28,080 --> 00:04:32,107
+it might seem that an autocratic form of management -
 
 48
-00:04:13,122 --> 00:04:20,519
-When they can't agree on strategic issues and on where they see the business
+00:04:32,107 --> 00:04:37,940
+where the chief executive gives orders and everyone else has to obey
 
 49
-00:04:20,519 --> 00:04:23,160
-going, there are real problems.
+00:04:38,520 --> 00:04:41,580
+would see more conflict than others.
 
 50
-00:04:23,160 --> 00:04:30,528
-For managers at lower levels within the organisation, it might seem that an autocratic
+00:04:41,580 --> 00:04:52,607
+Interestingly, though, a company with a more democratic business model can suffer more when uncertainty about
 
 51
-00:04:30,528 --> 00:04:35,265
-form of management - where the chief executive gives orders
+00:04:52,607 --> 00:04:58,120
+who to report to leads to conflicting demands.
 
 52
-00:04:35,265 --> 00:04:41,580
-and everyone else has to obey - would see more conflict than others.
+00:04:58,120 --> 00:05:06,350
+Now I'll say a little about dealing with the type of conflict that has harmful effects.
 
 53
-00:04:41,580 --> 00:04:51,228
-Interestingly, though, a company with a more democratic business model can suffer more when
-
-54
-00:04:51,228 --> 00:04:58,120
-uncertainty about who to report to leads to conflicting demands.
-
-55
-00:04:58,120 --> 00:05:05,321
-Now I'll say a little about dealing with the type of conflict that has
-
-56
-00:05:05,321 --> 00:05:06,350
-harmful effects.
-
-57
 00:05:06,350 --> 00:05:12,614
 Of course the ideal is to prevent it arising in the first place.
 
-58
-00:05:12,614 --> 00:05:19,360
-A good manager, at any level, will make efforts to earn the respect of
+54
+00:05:12,614 --> 00:05:15,505
+A good manager, at any level,
 
-59
-00:05:19,360 --> 00:05:24,660
-the people they work with, particularly those who report to them.
+55
+00:05:15,505 --> 00:05:20,770
+will make efforts to earn the respect of the people they work with
 
-60
+56
+00:05:21,680 --> 00:05:24,660
+particularly those who report to them.
+
+57
 00:05:24,660 --> 00:05:28,287
 That will involve politeness in all communications,
 
+58
+00:05:28,287 --> 00:05:31,560
+and treating them as equals
+
+59
+00:05:31,560 --> 00:05:36,060
+who happen to have a different role within the organisation.
+
+60
+00:05:36,060 --> 00:05:43,205
+Sometimes, of course, conflict does occur, and can get out of hand.
+
 61
-00:05:28,287 --> 00:05:35,542
-and treating them as equals who happen to have a different role within the
-
-62
-00:05:35,542 --> 00:05:36,060
-organisation.
-
-63
-00:05:36,060 --> 00:05:39,633
-Sometimes, of course, conflict does occur,
-
-64
-00:05:39,633 --> 00:05:43,205
-and can get out of hand.
-
-65
 00:05:43,205 --> 00:05:49,160
 In such cases the human resources department often gets involved.
 
-66
-00:05:49,160 --> 00:05:56,590
-However, if one of the parties in a conflict sees human resources as simply
+62
+00:05:49,160 --> 00:05:59,774
+However, if one of the parties in a conflict sees human resources as simply a mouthpiece for the chief executive,
 
-67
-00:05:56,590 --> 00:06:04,019
-a mouthpiece for the chief executive, then an external mediator might be able to
+63
+00:05:59,774 --> 00:06:04,550
+then an external mediator might be able to help.
 
-68
-00:06:04,019 --> 00:06:04,550
-help.
-
-69
+64
 00:06:04,550 --> 00:06:07,393
 By talking to both sides,
 
-70
-00:06:07,393 --> 00:06:15,354
-and trying to find the truth of what's been happening, they can build a
+65
+00:06:07,393 --> 00:06:11,180
+and trying to find the truth of what's been happening
 
-71
-00:06:15,354 --> 00:06:18,197
-clear picture of the situation,
+66
+00:06:12,040 --> 00:06:18,197
+they can build a clear picture of the situation,
 
-72
+67
 00:06:18,197 --> 00:06:25,020
 and give feedback that both sides will accept, precisely because they're independent.

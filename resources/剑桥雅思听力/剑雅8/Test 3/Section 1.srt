@@ -1,367 +1,259 @@
 1
-00:00:00,000 --> 00:00:00,960
-Good morning.
+00:00:00,000 --> 00:00:01,940
+Good morning. How can I help you?
 
 2
-00:00:00,960 --> 00:00:01,940
-How can I help you?
+00:00:01,940 --> 00:00:05,900
+Hello. I'm interested in renting a house somewhere in the town.
 
 3
-00:00:01,940 --> 00:00:01,990
-Hello.
+00:00:05,900 --> 00:00:09,000
+Right. Could I have your name please?
 
 4
-00:00:01,990 --> 00:00:05,900
-I'm interested in renting a house somewhere in the town.
-
-5
-00:00:05,900 --> 00:00:06,343
-Right.
-
-6
-00:00:06,343 --> 00:00:09,000
-Could I have your name please?
-
-7
 00:00:09,000 --> 00:00:10,920
 Yes, it's Steven Godfrey.
 
-8
+5
 00:00:10,920 --> 00:00:14,960
 And tell me how many bedrooms you're looking for.
 
-9
-00:00:14,960 --> 00:00:16,380
-Well, we'd need four,
+6
+00:00:14,960 --> 00:00:19,930
+Well, we'd need four, because I'm going to share the house with three friends.
 
-10
-00:00:16,380 --> 00:00:19,930
-because I'm going to share the house with three friends.
-
-11
+7
 00:00:19,930 --> 00:00:23,540
 Okay, there are several of that size on our books.
 
-12
+8
 00:00:23,540 --> 00:00:26,760
 They mostly belong to families who are working abroad at the moment.
 
-13
+9
 00:00:26,760 --> 00:00:28,850
 What about the location?
 
-14
+10
 00:00:28,850 --> 00:00:31,400
 It'd be nice to be central.
 
-15
+11
 00:00:31,400 --> 00:00:35,920
 That might be difficult, as most houses of that size are in the suburbs.
 
-16
-00:00:35,920 --> 00:00:37,937
-Still, there are a few.
+12
+00:00:35,920 --> 00:00:40,760
+Still, there are a few. What's your upper limit for the rent?
 
-17
-00:00:37,937 --> 00:00:40,760
-What's your upper limit for the rent?
+13
+00:00:40,760 --> 00:00:47,278
+We'd like something around £500 a month, but we could go up to £600 if we have to.
 
-18
-00:00:40,760 --> 00:00:43,295
-We'd like something around ￡500 a month,
-
-19
-00:00:43,295 --> 00:00:47,278
-but we could go up to ￡600 if we have to.
-
-20
+14
 00:00:47,278 --> 00:00:49,450
 But we can't go beyond that.
 
-21
+15
 00:00:49,450 --> 00:00:53,400
 Do you know how long you want to rent the house for?
 
-22
+16
 00:00:53,400 --> 00:00:56,310
 The minimum let is six months, as you probably realise.
 
-23
-00:00:56,310 --> 00:00:58,151
-We're at college here for two years,
+17
+00:00:56,310 --> 00:00:58,880
+We're at college here for two years
 
-24
-00:00:58,151 --> 00:01:01,834
-and we don't want to have to move during that time if we can
+18
+00:00:58,880 --> 00:01:02,360
+and we don't want to have to move during that time if we can avoid it.
 
-25
-00:01:01,834 --> 00:01:02,360
-avoid it.
+19
+00:01:02,360 --> 00:01:06,000
+Right. And how soon do you want to move in
 
-26
-00:01:02,360 --> 00:01:02,661
-Right.
-
-27
-00:01:02,661 --> 00:01:05,370
-And how soon do you want to move in?
-
-28
-00:01:05,370 --> 00:01:08,380
+20
+00:01:06,380 --> 00:01:08,380
 All our lets start on the first of the month.
 
-29
-00:01:08,380 --> 00:01:10,900
-Well, as soon as possible, really,
+21
+00:01:08,380 --> 00:01:13,000
+Well, as soon as possible, really, so that means September 1st.
 
-30
-00:01:10,900 --> 00:01:13,000
-so that means September 1st.
+22
+00:01:13,000 --> 00:01:18,040
+Okay, let me have a look at what we've got We have photographs of all the houses on our books,
 
-31
-00:01:13,000 --> 00:01:16,528
-Okay, let me have a look at what we've got We have photographs of
-
-32
-00:01:16,528 --> 00:01:18,040
-all the houses on our books,
-
-33
+23
 00:01:18,040 --> 00:01:20,560
 so you can get an idea of what they're like.
 
-34
+24
 00:01:20,560 --> 00:01:25,425
-There's this one in Oakington Avenue, at ?550 a month.
+There's this one in Oakington Avenue, at £550 a month.
 
-35
+25
 00:01:25,425 --> 00:01:30,290
 Combined living room and dining room, with a separate kitchen.
 
-36
+26
 00:01:30,290 --> 00:01:33,930
 It doesn't have a garage, though you can park in the road.
 
-37
+27
 00:01:33,930 --> 00:01:36,920
 Ah, we'd prefer to have one, if possible.
 
-38
-00:01:36,920 --> 00:01:37,369
-Right.
+28
+00:01:36,920 --> 00:01:41,860
+Right. Then have a look at this house, in Mead Street.
 
-39
-00:01:37,369 --> 00:01:41,860
-Then have a look at this house, in Mead Street.
-
-40
+29
 00:01:41,860 --> 00:01:46,200
 It's got a very large living room and kitchen, bathroom, cloakroom...
 
-41
+30
 00:01:46,200 --> 00:01:46,850
 How much is it?
 
-42
-00:01:46,850 --> 00:01:48,460
-That one's 580.
+31
+00:01:46,850 --> 00:01:51,680
+That one's 580. It's very well furnished and equipped.
 
-43
-00:01:48,460 --> 00:01:51,680
-It's very well furnished and equipped.
+32
+00:01:51,680 --> 00:01:57,039
+It also has plenty of space for parking, and it's available for a minimum of a year.
 
-44
-00:01:51,680 --> 00:01:54,202
-It also has plenty of space for parking,
+33
+00:01:57,039 --> 00:01:58,930
+Oh, and there's a big garden.
 
-45
-00:01:54,202 --> 00:01:57,039
-and it's available for a minimum of a year.
+34
+00:01:58,930 --> 00:02:01,780
+I don't think we could cope with that, to be honest
 
-46
-00:01:57,039 --> 00:01:57,354
-Oh,
-
-47
-00:01:57,354 --> 00:01:58,930
-and there's a big garden.
-
-48
-00:01:58,930 --> 00:02:01,709
-I don't think we could cope with that, to be honest.
-
-49
-00:02:01,709 --> 00:02:03,730
+35
+00:02:02,240 --> 00:02:03,730
 We'll be too busy to look after it.
 
-50
-00:02:03,730 --> 00:02:04,252
-Okay.
+36
+00:02:03,730 --> 00:02:08,423
+Okay. Then there's this older house in Hamilton Road:
 
-51
-00:02:04,252 --> 00:02:08,423
-Then there's this older house in Hamilton Road:
+37
+00:02:08,423 --> 00:02:14,160
+living room, kitchen-diner, and it has a study. 550 a month.
 
-52
-00:02:08,423 --> 00:02:09,988
-living room, kitchen-diner,
+38
+00:02:14,160 --> 00:02:18,200
+That looks rather nice. But whereabouts in Hamilton Road?
 
-53
-00:02:09,988 --> 00:02:12,596
-and it has a study.
-
-54
-00:02:12,596 --> 00:02:14,160
-550 a month.
-
-55
-00:02:14,160 --> 00:02:15,956
-That looks rather nice.
-
-56
-00:02:15,956 --> 00:02:18,200
-But whereabouts in Hamilton Road?
-
-57
+39
 00:02:18,200 --> 00:02:20,270
 Towards the western end.
 
-58
-00:02:20,270 --> 00:02:20,619
-Oh,
+40
+00:02:20,270 --> 00:02:23,410
+Oh, that'll be very noisy. I know the area.
 
-59
-00:02:20,619 --> 00:02:22,014
-that'll be very noisy.
+41
+00:02:23,410 --> 00:02:26,740
+Yes, it's pretty lively. Some people like it, though
 
-60
-00:02:22,014 --> 00:02:23,410
-I know the area.
-
-61
-00:02:23,410 --> 00:02:25,321
-Yes, it's pretty lively.
-
-62
-00:02:25,321 --> 00:02:27,709
-Some people like it, though.
-
-63
-00:02:27,709 --> 00:02:31,530
+42
+00:02:27,920 --> 00:02:31,530
 Well, what about this house in Devon Close?
 
-64
+43
 00:02:31,530 --> 00:02:33,030
 That looks lovely.
 
-65
-00:02:33,030 --> 00:02:35,466
-There's a big demand for houses in that area,
+44
+00:02:33,030 --> 00:02:37,360
+There's a big demand for houses in that area, so prices tend to be quite high.
 
-66
-00:02:35,466 --> 00:02:37,360
-so prices tend to be quite high.
+45
+00:02:37,360 --> 00:02:40,400
+But this one hasn't been decorated for a few years
 
-67
-00:02:37,360 --> 00:02:39,710
-But this one hasn't been decorated for a few years,
-
-68
-00:02:39,710 --> 00:02:41,590
+46
+00:02:40,400 --> 00:02:41,590
 which has kept the rent down a bit.
 
-69
-00:02:41,590 --> 00:02:45,438
-It's got a living room, dining room and small kitchen,
+47
+00:02:41,590 --> 00:02:47,362
+It's got a living room, dining room and small kitchen, and it's 595 a month.
 
-70
-00:02:45,438 --> 00:02:47,362
-and it's 595 a month.
-
-71
+48
 00:02:47,362 --> 00:02:51,210
 I think it would suit you, from what you've said.
 
-72
+49
 00:02:51,210 --> 00:02:52,710
 It sounds fine.
 
-73
+50
 00:02:52,710 --> 00:02:55,750
 Why's that part of town so popular?
 
-74
-00:02:55,750 --> 00:02:58,284
-Well, there's a big scheme to improve the district,
+51
+00:02:55,750 --> 00:02:58,500
+Well, there's a big scheme to improve the district
 
-75
-00:02:58,284 --> 00:03:01,100
+52
+00:02:58,500 --> 00:03:01,100
 and it'll soon have the best facilities for miles around.
 
-76
+53
 00:03:01,100 --> 00:03:02,290
 What sort of thing?
 
-77
-00:03:02,290 --> 00:03:04,381
-There's a big sports centre under construction,
+54
+00:03:02,290 --> 00:03:04,820
+There's a big sports centre under construction
 
-78
-00:03:04,381 --> 00:03:06,770
+55
+00:03:04,840 --> 00:03:06,770
 which will be very impressive when it's finished.
 
-79
-00:03:06,770 --> 00:03:10,111
-In fact the swimming pool's already opened, ahead of schedule,
+56
+00:03:06,770 --> 00:03:09,600
+In fact the swimming pool's already opened
 
-80
-00:03:10,111 --> 00:03:12,450
-and it's attracting a lot of people.
+57
+00:03:09,600 --> 00:03:12,450
+ahead of schedule, and it's attracting a lot of people.
 
-81
-00:03:12,450 --> 00:03:13,473
-What about cinemas:
+58
+00:03:12,450 --> 00:03:15,520
+What about cinemas: are there any in the area?
 
-82
-00:03:13,473 --> 00:03:15,520
-are there any in the area?
+59
+00:03:15,520 --> 00:03:18,060
+The only one closed down last year
 
-83
-00:03:15,520 --> 00:03:17,494
-The only one closed down last year,
-
-84
-00:03:17,494 --> 00:03:21,160
+60
+00:03:18,060 --> 00:03:21,160
 and it's now in the process of being converted into a film museum.
 
-85
+61
 00:03:21,160 --> 00:03:24,970
 The local people are trying to get a new cinema added to the scheme.
 
-86
-00:03:24,970 --> 00:03:29,528
-I think I heard something about a plan to replace the existing concert hall
+62
+00:03:24,970 --> 00:03:30,830
+I think I heard something about a plan to replace the existing concert hall with a larger one.
 
-87
-00:03:29,528 --> 00:03:30,830
-with a larger one.
+63
+00:03:30,830 --> 00:03:33,630
+Ah, that's due to start next year.
 
-88
-00:03:30,830 --> 00:03:31,230
-Ah,
+64
+00:03:33,630 --> 00:03:38,320
+Well it sounds an interesting area to live in. Could I go and see the house, please?
 
-89
-00:03:31,230 --> 00:03:33,630
-that's due to start next year.
-
-90
-00:03:33,630 --> 00:03:36,113
-Well it sounds an interesting area to live in.
-
-91
-00:03:36,113 --> 00:03:38,320
-Could I go and see the house, please?
-
-92
+65
 00:03:38,320 --> 00:03:39,200
 Yes, of course.

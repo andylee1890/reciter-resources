@@ -1,563 +1,283 @@
 1
-00:00:01,440 --> 00:00:01,903
-Ed:
+00:00:01,440 --> 00:00:06,310
+Ed: Did you make notes while you were watching the performances of Romeo and Juliet, Gemma?
 
 2
-00:00:01,903 --> 00:00:05,284
-Did you make notes while you were watching the performances of Romeo
+00:00:06,310 --> 00:00:09,820
+Gemma: Yes, I did. I found it quite hard though
 
 3
-00:00:05,284 --> 00:00:06,310
-and Juliet, Gemma?
-
-4
-00:00:06,310 --> 00:00:06,732
-Gemma:
-
-5
-00:00:06,732 --> 00:00:07,436
-Yes, I did.
-
-6
-00:00:07,436 --> 00:00:09,604
-I found it quite hard though.
-
-7
-00:00:09,604 --> 00:00:12,240
+00:00:10,060 --> 00:00:12,240
 I kept getting too involved in the play.
 
-8
-00:00:12,240 --> 00:00:12,547
-Ed:
+4
+00:00:12,240 --> 00:00:15,002
+Ed: Me too. I ended up not taking notes.
 
-9
-00:00:12,547 --> 00:00:13,161
-Me too.
+5
+00:00:15,002 --> 00:00:17,880
+I wrote down my impressions when I got home
 
-10
-00:00:13,161 --> 00:00:15,002
-I ended up not taking notes.
-
-11
-00:00:15,002 --> 00:00:17,764
-I wrote down my impressions when I got home.
-
-12
-00:00:17,764 --> 00:00:21,140
+6
+00:00:18,740 --> 00:00:21,140
 Do you mind if I check a few things with you?
 
+7
+00:00:21,140 --> 00:00:26,050
+In case I've missed anything. And I've also got some questions about our assignment.
+
+8
+00:00:26,050 --> 00:00:30,950
+Gemma: No, it's good to talk things through. I may have missed things too.
+
+9
+00:00:30,950 --> 00:00:33,840
+Ed: OK great. So first of all
+
+10
+00:00:33,880 --> 00:00:37,990
+I'm not sure how much information we should include in our reviews.
+
+11
+00:00:37,990 --> 00:00:42,830
+Gemma: Right. Well, I don't think we need to describe what happens.
+
+12
+00:00:42,830 --> 00:00:47,670
+Especially as Romeo and Juliet is one of Shakespeare's most well-known plays.
+
 13
-00:00:21,140 --> 00:00:22,981
-In case I’ve missed anything.
+00:00:47,670 --> 00:00:49,797
+Ed: Yeah, everyone knows the story.
 
 14
-00:00:22,981 --> 00:00:26,050
-And I’ve also got some questions about our assignment.
+00:00:49,797 --> 00:00:55,467
+In an essay we'd focus on the poetry and Shakespeare's use of imagery etc.,
 
 15
-00:00:26,050 --> 00:00:26,377
-Gemma:
+00:00:55,467 --> 00:00:58,657
+but that isn't really relevant in a review.
 
 16
-00:00:26,377 --> 00:00:28,990
-No, it’s good to talk things through.
+00:00:58,657 --> 00:01:02,910
+We're supposed to focus on how effective this particular production is.
 
 17
-00:00:28,990 --> 00:00:30,950
-I may have missed things too.
+00:01:02,910 --> 00:01:07,740
+Gemma: Mmm. We should say what made it a success or a failure.
 
 18
-00:00:30,950 --> 00:00:31,302
-Ed:
+00:01:07,740 --> 00:01:12,433
+Ed: And part of that means talking about the emotional impact the performance had on us.
 
 19
-00:00:31,302 --> 00:00:32,006
-OK great.
+00:01:12,433 --> 00:01:13,900
+I think that's important.
 
 20
-00:00:32,006 --> 00:00:37,286
-So first of all, I’m not sure how much information we should include in
+00:01:13,900 --> 00:01:20,952
+Gemma: Yes. And we should definitely mention how well the director handled important bits of the play -
 
 21
-00:00:37,286 --> 00:00:37,990
-our reviews.
+00:01:20,952 --> 00:01:24,270
+like when Romeo climbs onto Juliet's balcony.
 
 22
-00:00:37,990 --> 00:00:38,362
-Gemma:
+00:01:24,270 --> 00:01:26,670
+Ed: And the fight between Mercutio and Tybalt.
 
 23
-00:00:38,362 --> 00:00:38,735
-Right.
+00:01:26,670 --> 00:01:30,646
+Gemma: Yes. It would also be interesting to mention the theatre space
 
 24
-00:00:38,735 --> 00:00:42,830
-Well, I don’t think we need to describe what happens.
+00:01:30,646 --> 00:01:36,610
+and how the director used it but I don't think we'll have space in 800 words.
 
 25
-00:00:42,830 --> 00:00:47,670
-Especially as Romeo and Juliet is one of Shakespeare’s most well-known plays.
+00:01:36,610 --> 00:01:43,900
+Ed: No. OK. That all sounds quite straightforward.
 
 26
-00:00:47,670 --> 00:00:48,024
-Ed:
+00:01:43,900 --> 00:01:47,870
+Ed: So what about The Emporium Theatre's production of the play?
 
 27
-00:00:48,024 --> 00:00:49,797
-Yeah, everyone knows the story.
+00:01:47,870 --> 00:01:52,730
+Gemma: I thought some things worked really well but there were some problems too.
 
 28
-00:00:49,797 --> 00:00:55,113
-In an essay we’d focus on the poetry and Shakespeare’s use of imagery
+00:01:52,730 --> 00:01:56,010
+Ed: Yeah. What about the set, for example?
 
 29
-00:00:55,113 --> 00:00:55,467
-etc.,
+00:01:56,010 --> 00:01:58,833
+Gemma: I think it was visually really stunning.
 
 30
-00:00:55,467 --> 00:00:58,657
-but that isn’t really relevant in a review.
+00:01:58,833 --> 00:02:03,420
+I'd say that was probably the most memorable thing about this production.
 
 31
-00:00:58,657 --> 00:01:02,910
-We’re supposed to focus on how effective this particular production is.
+00:02:03,420 --> 00:02:07,053
+Ed: You're right. The set design was really amazing,
 
 32
-00:01:02,910 --> 00:01:03,282
-Gemma:
-
-33
-00:01:03,282 --> 00:01:03,653
-Mmm.
-
-34
-00:01:03,653 --> 00:01:07,740
-We should say what made it a success or a failure.
-
-35
-00:01:07,740 --> 00:01:08,033
-Ed:
-
-36
-00:01:08,033 --> 00:01:12,140
-And part of that means talking about the emotional impact the performance had on
-
-37
-00:01:12,140 --> 00:01:12,433
-us.
-
-38
-00:01:12,433 --> 00:01:13,900
-I think that’s important.
-
-39
-00:01:13,900 --> 00:01:14,315
-Gemma:
-
-40
-00:01:14,315 --> 00:01:14,730
-Yes.
-
-41
-00:01:14,730 --> 00:01:20,537
-And we should definitely mention how well the director handled important bits of the
-
-42
-00:01:20,537 --> 00:01:24,270
-play – like when Romeo climbs onto Juliet’s balcony.
-
-43
-00:01:24,270 --> 00:01:24,570
-Ed:
-
-44
-00:01:24,570 --> 00:01:26,670
-And the fight between Mercutio and Tybalt.
-
-45
-00:01:26,670 --> 00:01:27,001
-Gemma:
-
-46
-00:01:27,001 --> 00:01:27,333
-Yes.
-
-47
-00:01:27,333 --> 00:01:32,634
-It would also be interesting to mention the theatre space and how the director used it
-
-48
-00:01:32,634 --> 00:01:36,610
-but I don’t think we’ll have space in 800 words.
-
-49
-00:01:36,610 --> 00:01:37,521
-Ed:
-
-50
-00:01:37,521 --> 00:01:38,432
-No.
-
-51
-00:01:38,432 --> 00:01:39,344
-OK.
-
-52
-00:01:39,344 --> 00:01:43,900
-That all sounds quite straightforward.
-
-53
-00:01:43,900 --> 00:01:44,231
-Ed:
-
-54
-00:01:44,231 --> 00:01:47,870
-So what about The Emporium Theatre’s production of the play?
-
-55
-00:01:47,870 --> 00:01:48,217
-Gemma:
-
-56
-00:01:48,217 --> 00:01:52,730
-I thought some things worked really well but there were some problems too.
-
-57
-00:01:52,730 --> 00:01:53,140
-Ed:
-
-58
-00:01:53,140 --> 00:01:53,550
-Yeah.
-
-59
-00:01:53,550 --> 00:01:56,010
-What about the set, for example?
-
-60
-00:01:56,010 --> 00:01:56,363
-Gemma:
-
-61
-00:01:56,363 --> 00:01:58,833
-I think it was visually really stunning.
-
-62
-00:01:58,833 --> 00:02:03,420
-I’d say that was probably the most memorable thing about this production.
-
-63
-00:02:03,420 --> 00:02:03,783
-Ed:
-
-64
-00:02:03,783 --> 00:02:04,873
-You’re right.
-
-65
-00:02:04,873 --> 00:02:07,053
-The set design was really amazing,
-
-66
 00:02:07,053 --> 00:02:11,050
 but actually I have seen similar ideas used in other productions.
 
-67
-00:02:11,050 --> 00:02:11,414
-Gemma:
+33
+00:02:11,050 --> 00:02:15,240
+Gemma: What about the lighting? Some of the scenes were
 
-68
-00:02:11,414 --> 00:02:12,868
-What about the lighting?
+34
+00:02:15,240 --> 00:02:17,960
+so dimly lit it was quite hard to see.
 
-69
-00:02:12,868 --> 00:02:17,960
-Some of the scenes were so dimly lit it was quite hard to see.
+35
+00:02:17,960 --> 00:02:23,240
+Ed: I didn't dislike it. It helped to change the mood of the quieter scenes.
 
-70
-00:02:17,960 --> 00:02:18,290
-Ed:
+36
+00:02:23,240 --> 00:02:24,810
+Gemma: That's a good point.
 
-71
-00:02:18,290 --> 00:02:19,940
-I didn’t dislike it.
+37
+00:02:24,810 --> 00:02:26,890
+Ed: What did you think of the costumes?
 
-72
-00:02:19,940 --> 00:02:23,240
-It helped to change the mood of the quieter scenes.
+38
+00:02:26,890 --> 00:02:30,710
+Gemma: I was a bit surprised by the contemporary dress, I must say.
 
-73
-00:02:23,240 --> 00:02:23,502
-Gemma:
+39
+00:02:30,710 --> 00:02:35,200
+Ed: Yeah - I think it worked well, but I had assumed it would be more conventional.
 
-74
-00:02:23,502 --> 00:02:24,810
-That’s a good point.
+40
+00:02:35,200 --> 00:02:38,440
+Gemma: Me too. I liked the music at the beginning
 
-75
-00:02:24,810 --> 00:02:25,070
-Ed:
+41
+00:02:38,440 --> 00:02:40,881
+and I thought the musicians were brilliant,
 
-76
-00:02:25,070 --> 00:02:26,890
-What did you think of the costumes?
+42
+00:02:40,881 --> 00:02:43,300
+but I thought they were wasted
 
-77
-00:02:26,890 --> 00:02:27,184
-Gemma:
+43
+00:02:43,300 --> 00:02:47,230
+because the music didn't have much impact in Acts 2 and 3.
 
-78
-00:02:27,184 --> 00:02:30,710
-I was a bit surprised by the contemporary dress, I must say.
+44
+00:02:47,230 --> 00:02:49,090
+Ed: Yes - that was a shame.
 
-79
-00:02:30,710 --> 00:02:30,991
-Ed:
+45
+00:02:49,090 --> 00:02:54,298
+Gemma: One problem with this production was that the actors didn't deliver the lines that well.
 
-80
-00:02:30,991 --> 00:02:32,674
-Yeah – I think it worked well,
-
-81
-00:02:32,674 --> 00:02:35,200
-but I had assumed it would be more conventional.
-
-82
-00:02:35,200 --> 00:02:35,534
-Gemma:
-
-83
-00:02:35,534 --> 00:02:36,202
-Me too.
-
-84
-00:02:36,202 --> 00:02:40,881
-I liked the music at the beginning and I thought the musicians were brilliant,
-
-85
-00:02:40,881 --> 00:02:46,562
-but I thought they were wasted because the music didn’t have much impact in Acts 2
-
-86
-00:02:46,562 --> 00:02:47,230
-and 3.
-
-87
-00:02:47,230 --> 00:02:47,540
-Ed:
-
-88
-00:02:47,540 --> 00:02:49,090
-Yes – that was a shame.
-
-89
-00:02:49,090 --> 00:02:49,396
-Gemma:
-
-90
-00:02:49,396 --> 00:02:53,992
-One problem with this production was that the actors didn’t deliver the lines that
-
-91
-00:02:53,992 --> 00:02:54,298
-well.
-
-92
+46
 00:02:54,298 --> 00:02:55,830
 They were speaking too fast.
 
-93
-00:02:55,830 --> 00:02:56,112
-Ed:
+47
+00:02:55,830 --> 00:02:57,801
+Ed: It was a problem I agree,
 
-94
-00:02:56,112 --> 00:02:57,801
-It was a problem I agree,
+48
+00:02:57,801 --> 00:03:00,720
+but I thought it was because they weren't speaking loudly enough
 
-95
-00:02:57,801 --> 00:03:01,742
-but I thought it was because they weren’t speaking loudly enough – especially at
+49
+00:03:00,780 --> 00:03:03,150
+especially at key points in the play.
 
-96
-00:03:01,742 --> 00:03:03,150
-key points in the play.
+50
+00:03:03,150 --> 00:03:06,130
+Gemma: I actually didn't have a problem with that.
 
-97
-00:03:03,150 --> 00:03:03,448
-Gemma:
+51
+00:03:06,130 --> 00:03:11,280
+Ed: It's been an interesting experience watching different versions of Romeo and Juliet, hasn't it?
 
-98
-00:03:03,448 --> 00:03:06,130
-I actually didn’t have a problem with that.
+52
+00:03:11,280 --> 00:03:15,720
+Gemma: Definitely. It's made me realise how relevant the play still is.
 
-99
-00:03:06,130 --> 00:03:06,433
-Ed:
+53
+00:03:15,720 --> 00:03:18,840
+Ed: Right. I mean a lot's changed since Shakespeare's time
 
-100
-00:03:06,433 --> 00:03:09,765
-It’s been an interesting experience watching different versions of Romeo
+54
+00:03:18,840 --> 00:03:22,041
+but in many ways nothing's changed.
 
-101
-00:03:09,765 --> 00:03:11,280
-and Juliet, hasn’t it?
-
-102
-00:03:11,280 --> 00:03:11,622
-Gemma:
-
-103
-00:03:11,622 --> 00:03:11,963
-Definitely.
-
-104
-00:03:11,963 --> 00:03:15,720
-It’s made me realise how relevant the play still is.
-
-105
-00:03:15,720 --> 00:03:16,053
-Ed:
-
-106
-00:03:16,053 --> 00:03:16,385
-Right.
-
-107
-00:03:16,385 --> 00:03:19,712
-I mean a lot’s changed since Shakespeare’s time,
-
-108
-00:03:19,712 --> 00:03:22,041
-but in many ways nothing’s changed.
-
-109
+55
 00:03:22,041 --> 00:03:25,700
 There are always disagreements and tension between teenagers and their parents.
 
-110
-00:03:25,700 --> 00:03:26,053
-Gemma:
+56
+00:03:25,700 --> 00:03:29,580
+Gemma: Yes, that's something all young people can relate to -
 
-111
-00:03:26,053 --> 00:03:26,405
-Yes,
+57
+00:03:29,580 --> 00:03:33,460
+more than the violence and the extreme emotions in the play.
 
-112
-00:03:26,405 --> 00:03:30,991
-that’s something all young people can relate to – more than the violence
+58
+00:03:33,460 --> 00:03:36,760
+Ed: How did you find watching it in translation?
 
-113
-00:03:30,991 --> 00:03:33,460
-and the extreme emotions in the play.
+59
+00:03:36,760 --> 00:03:40,720
+Gemma: Really interesting. I expected to find it more challenging
 
-114
-00:03:33,460 --> 00:03:33,827
-Ed:
-
-115
-00:03:33,827 --> 00:03:36,760
-How did you find watching it in translation?
-
-116
-00:03:36,760 --> 00:03:37,119
-Gemma:
-
-117
-00:03:37,119 --> 00:03:37,838
-Really interesting.
-
-118
-00:03:37,838 --> 00:03:40,354
-I expected to find it more challenging,
-
-119
-00:03:40,354 --> 00:03:43,230
+60
+00:03:40,860 --> 00:03:43,230
 but I could follow the story pretty well.
 
-120
-00:03:43,230 --> 00:03:43,567
-Ed:
+61
+00:03:43,230 --> 00:03:47,612
+Ed: I stopped worrying about not being able to understand all the words
 
-121
-00:03:43,567 --> 00:03:47,612
-I stopped worrying about not being able to understand all the words
+62
+00:03:47,612 --> 00:03:51,320
+and focused on the actors' expressions. The ending was pretty powerful.
 
-122
-00:03:47,612 --> 00:03:49,635
-and focused on the actors’ expressions.
+63
+00:03:51,320 --> 00:03:55,700
+Gemma: Yes. That somehow intensified the emotion for me.
 
-123
-00:03:49,635 --> 00:03:51,320
-The ending was pretty powerful.
+64
+00:03:55,700 --> 00:04:00,880
+Ed: Did you know Shakespeare's been translated into more languages than any other writer?
 
-124
-00:03:51,320 --> 00:03:51,807
-Gemma:
+65
+00:04:00,880 --> 00:04:05,440
+Gemma: What's the reason for his international appeal, do you think?
 
-125
-00:03:51,807 --> 00:03:52,293
-Yes.
+66
+00:04:05,440 --> 00:04:07,280
+Ed: I was reading that it's
 
-126
-00:03:52,293 --> 00:03:55,700
-That somehow intensified the emotion for me.
+67
+00:04:07,280 --> 00:04:11,940
+because his plays are about basic themes that people everywhere are familiar with.
 
-127
-00:03:55,700 --> 00:03:56,045
-Ed:
+68
+00:04:11,940 --> 00:04:16,040
+Gemma: Yeah, and they can also be understood on different levels
 
-128
-00:03:56,045 --> 00:04:00,880
-Did you know Shakespeare’s been translated into more languages than any other writer?
-
-129
-00:04:00,880 --> 00:04:01,260
-Gemma:
-
-130
-00:04:01,260 --> 00:04:05,440
-What’s the reason for his international appeal, do you think?
-
-131
-00:04:05,440 --> 00:04:05,765
-Ed:
-
-132
-00:04:05,765 --> 00:04:10,640
-I was reading that it’s because his plays are about basic themes that people
-
-133
-00:04:10,640 --> 00:04:11,940
-everywhere are familiar with.
-
-134
-00:04:11,940 --> 00:04:12,326
-Gemma:
-
-135
-00:04:12,326 --> 00:04:12,711
-Yeah,
-
-136
-00:04:12,711 --> 00:04:16,182
-and they can also be understood on different levels.
-
-137
-00:04:16,182 --> 00:04:18,110
+69
+00:04:16,520 --> 00:04:18,110
 The characters have such depth.
 
-138
-00:04:18,110 --> 00:04:18,518
-Ed:
+70
+00:04:18,110 --> 00:04:22,600
+Ed: Right - which allows directors to experiment and find new angles.
 
-139
-00:04:18,518 --> 00:04:22,600
-Right – which allows directors to experiment and find new angles.
-
-140
-00:04:22,600 --> 00:04:23,100
-Gemma:
-
-141
-00:04:23,100 --> 00:04:25,600
-That’s really important because …
+71
+00:04:22,600 --> 00:04:25,600
+Gemma: That's really important because...

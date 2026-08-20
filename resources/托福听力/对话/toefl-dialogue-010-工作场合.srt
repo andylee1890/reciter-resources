@@ -1,51 +1,19 @@
 1
-00:00:00,000 --> 00:00:01,829
-Man:
+00:00:00,000 --> 00:00:08,240
+Man: Did you remember to pick up some drinks for Arthur's going away party on your way back to the office?
 
 2
-00:00:01,829 --> 00:00:07,316
-Did you remember to pick up some drinks for Arthur's going away party on
+00:00:08,240 --> 00:00:13,427
+Woman: Oh no. I was so wrapped up in the discussion with the client that it had completely slipped my mind.
 
 3
-00:00:07,316 --> 00:00:08,240
-your way back to the office?
-
-4
-00:00:08,240 --> 00:00:09,426
-Woman:
-
-5
-00:00:09,426 --> 00:00:09,788
-Oh no.
-
-6
-00:00:09,788 --> 00:00:12,649
-I was so wrapped up in the discussion with the client that had completely
-
-7
-00:00:12,649 --> 00:00:13,427
-slipped my mind.
-
-8
 00:00:13,427 --> 00:00:16,280
 Is there time for me to go to the store now?
 
-9
-00:00:16,280 --> 00:00:16,663
-Man:
+4
+00:00:16,280 --> 00:00:20,110
+Man: I don't think so. But we should be okay.
 
-10
-00:00:16,663 --> 00:00:18,195
-I don't think so.
-
-11
-00:00:18,195 --> 00:00:20,110
-But we should be okay.
-
-12
-00:00:20,110 --> 00:00:23,153
-I'm pretty sure there are a couple of bottles of soda
-
-13
-00:00:23,153 --> 00:00:25,090
-and the refrigerator in the kitchen downstairs.
+5
+00:00:20,110 --> 00:00:25,090
+I'm pretty sure there are a couple of bottles of soda in the refrigerator in the kitchen downstairs.

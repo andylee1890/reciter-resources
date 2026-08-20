@@ -1,79 +1,35 @@
 1
-00:00:00,000 --> 00:00:03,271
-Woman:
+00:00:00,000 --> 00:00:09,050
+Woman: I heard you joined the campus chess club. How's it going?
 
 2
-00:00:03,271 --> 00:00:09,050
-I heard you joined the campus chess club. How's it going?
+00:00:09,050 --> 00:00:12,220
+Man: Great! I'm learning a lot and meeting new people.
 
 3
-00:00:09,050 --> 00:00:09,100
-Man:
+00:00:12,220 --> 00:00:14,900
+Woman: I've always wanted to learn to play
 
 4
-00:00:09,100 --> 00:00:09,684
-Great!
+00:00:14,960 --> 00:00:18,230
+but I've never tried. Is everyone pretty advanced?
 
 5
-00:00:09,684 --> 00:00:12,220
-I'm learning a lot and meeting new people.
+00:00:18,230 --> 00:00:25,010
+Man: No, not necessarily. There are members of all skill levels and everyone's very supportive.
 
 6
-00:00:12,220 --> 00:00:12,596
-Woman:
+00:00:25,010 --> 00:00:27,010
+Woman: When do they meet?
 
 7
-00:00:12,596 --> 00:00:15,225
-I've always wanted to learn to play,
+00:00:27,010 --> 00:00:29,260
+Man: Every Saturday afternoon at the student center.
 
 8
-00:00:15,225 --> 00:00:16,728
-but I've never tried.
+00:00:29,260 --> 00:00:32,440
+Woman: Okay, I usually work at the library then
 
 9
-00:00:16,728 --> 00:00:18,230
-Is everyone pretty advanced?
-
-10
-00:00:18,230 --> 00:00:18,682
-Man:
-
-11
-00:00:18,682 --> 00:00:20,038
-No, not necessarily.
-
-12
-00:00:20,038 --> 00:00:25,010
-There are members of all skill levels and everyone's very supportive.
-
-13
-00:00:25,010 --> 00:00:25,410
-Woman:
-
-14
-00:00:25,410 --> 00:00:27,010
-When do they meet?
-
-15
-00:00:27,010 --> 00:00:27,291
-Man:
-
-16
-00:00:27,291 --> 00:00:29,260
-Every Saturday afternoon at the student center.
-
-17
-00:00:29,260 --> 00:00:29,637
-Woman:
-
-18
-00:00:29,637 --> 00:00:32,654
-Okay, I usually work at the library then,
-
-19
-00:00:32,654 --> 00:00:34,163
-but they're very flexible,
-
-20
-00:00:34,163 --> 00:00:37,180
-so I'm sure I could make it work.
+00:00:33,020 --> 00:00:37,180
+but they're very flexible, so I'm sure I could make it work.

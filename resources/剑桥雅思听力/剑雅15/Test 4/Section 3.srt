@@ -1,535 +1,307 @@
 1
-00:00:00,000 --> 00:00:01,050
-Part 3
+00:00:00,000 --> 00:00:02,326
+Part 3 Annie: OK, Jack.
 
 2
-00:00:01,050 --> 00:00:01,933
-Annie:
+00:00:02,326 --> 00:00:06,040
+Before we plan our presentation about refrigeration
 
 3
-00:00:01,933 --> 00:00:02,335
-OK, Jack.
+00:00:06,060 --> 00:00:08,840
+let's discuss what we've discovered so far.
 
 4
-00:00:02,335 --> 00:00:08,840
-Before we plan our presentation about refrigeration, let's discuss what we've discovered so far.
+00:00:08,840 --> 00:00:12,500
+Jack: Fine, Annie. Though I have to admit I haven't done much research yet.
 
 5
-00:00:08,840 --> 00:00:08,890
-Jack:
+00:00:12,500 --> 00:00:17,200
+Annie: Nor me. But I found an interesting article about icehouses.
 
 6
-00:00:08,890 --> 00:00:09,624
-Fine, Annie.
-
-7
-00:00:09,624 --> 00:00:12,500
-Though I have to admit I haven't done much research yet.
-
-8
-00:00:12,500 --> 00:00:12,927
-Annie:
-
-9
-00:00:12,927 --> 00:00:13,782
-Nor me.
-
-10
-00:00:13,782 --> 00:00:17,200
-But I found an interesting article about icehouses.
-
-11
 00:00:17,200 --> 00:00:21,267
 I'd seen some 18th- and 19th-century ones here in the UK,
 
-12
-00:00:21,267 --> 00:00:25,333
-so I knew they were often built in a shady area
+7
+00:00:21,267 --> 00:00:26,260
+so I knew they were often built in a shady area or underground
 
-13
-00:00:25,333 --> 00:00:29,400
-or underground, close to lakes that might freeze in the winter.
+8
+00:00:26,640 --> 00:00:29,400
+close to lakes that might freeze in the winter.
 
-14
+9
 00:00:29,400 --> 00:00:34,064
 Then blocks of ice could be cut and stored in the icehouse.
 
-15
-00:00:34,064 --> 00:00:37,951
-But I didn't realise that insulating the blocks with straw
+10
+00:00:34,064 --> 00:00:38,700
+But I didn't realise that insulating the blocks with straw or sawdust
 
-16
-00:00:37,951 --> 00:00:41,060
-or sawdust meant they didn't melt for months.
+11
+00:00:39,000 --> 00:00:41,060
+meant they didn't melt for months.
 
-17
+12
 00:00:41,060 --> 00:00:43,890
 The ancient Romans had refrigeration, too.
 
+13
+00:00:43,890 --> 00:00:44,890
+Jack: I didn't know that.
+
+14
+00:00:44,890 --> 00:00:47,829
+Annie: Yes, pits were dug in the ground,
+
+15
+00:00:47,829 --> 00:00:50,280
+and snow was imported from the mountains
+
+16
+00:00:50,780 --> 00:00:53,340
+even though they were at quite a distance.
+
+17
+00:00:53,340 --> 00:00:58,200
+The snow was stored in the pits. Ice formed at the bottom of it
+
 18
-00:00:43,890 --> 00:00:44,090
-Jack:
-
-19
-00:00:44,090 --> 00:00:44,890
-I didn't know that.
-
-20
-00:00:44,890 --> 00:00:45,257
-Annie:
-
-21
-00:00:45,257 --> 00:00:47,829
-Yes, pits were dug in the ground,
-
-22
-00:00:47,829 --> 00:00:52,605
-and snow was imported from the mountains – even though they were at quite
-
-23
-00:00:52,605 --> 00:00:53,340
-a distance.
-
-24
-00:00:53,340 --> 00:00:55,687
-The snow was stored in the pits.
-
-25
-00:00:55,687 --> 00:00:58,033
-Ice formed at the bottom of it.
-
-26
-00:00:58,033 --> 00:01:01,050
+00:00:58,440 --> 00:01:01,050
 Both the ice and the snow were then sold.
 
-27
-00:01:01,050 --> 00:01:05,730
-The ice cost more than the snow and my guess is that only the
+19
+00:01:01,050 --> 00:01:03,320
+The ice cost more than the snow
 
-28
-00:01:05,730 --> 00:01:08,070
-wealthy members of society could afford it.
+20
+00:01:03,580 --> 00:01:08,070
+and my guess is that only the wealthy members of society could afford it.
 
-29
-00:01:08,070 --> 00:01:08,451
-Jack:
+21
+00:01:08,070 --> 00:01:13,780
+Jack: I wouldn't be surprised. I also came across an article about modern domestic fridges.
 
-30
-00:01:08,451 --> 00:01:09,973
-I wouldn't be surprised.
+22
+00:01:13,780 --> 00:01:16,140
+Several different technologies are used
 
-31
-00:01:09,973 --> 00:01:13,780
-I also came across an article about modern domestic fridges.
-
-32
-00:01:13,780 --> 00:01:15,509
-Several different technologies are used,
-
-33
-00:01:15,509 --> 00:01:18,620
+23
+00:01:16,340 --> 00:01:18,620
 but they were too complex for me to understand.
 
-34
-00:01:18,620 --> 00:01:18,877
-Annie:
+24
+00:01:18,620 --> 00:01:22,220
+Annie: You have to wonder what happens when people get rid of old ones.
 
-35
-00:01:18,877 --> 00:01:22,220
-You have to wonder what happens when people get rid of old ones.
+25
+00:01:22,220 --> 00:01:25,260
+Jack: You mean because the gases in them are harmful for the environment?
 
-36
-00:01:22,220 --> 00:01:22,454
-Jack:
+26
+00:01:25,260 --> 00:01:31,938
+Annie: Exactly. At least there are now plenty of organisations that will recycle most of the components safely,
 
-37
-00:01:22,454 --> 00:01:25,260
-You mean because the gases in them are harmful for the environment?
-
-38
-00:01:25,260 --> 00:01:25,631
-Annie:
-
-39
-00:01:25,631 --> 00:01:26,002
-Exactly.
-
-40
-00:01:26,002 --> 00:01:31,196
-At least there are now plenty of organisations that will recycle most of the
-
-41
-00:01:31,196 --> 00:01:31,938
-components safely,
-
-42
+27
 00:01:31,938 --> 00:01:36,390
 but of course some people just dump old fridges in the countryside.
 
-43
-00:01:36,390 --> 00:01:36,696
-Jack:
+28
+00:01:36,390 --> 00:01:39,752
+Jack: It's hard to see how they can be stopped unfortunately.
 
-44
-00:01:36,696 --> 00:01:39,752
-It's hard to see how they can be stopped unfortunately.
-
-45
+29
 00:01:39,752 --> 00:01:43,420
 In the UK we get rid of three million a year altogether!
 
-46
-00:01:43,420 --> 00:01:43,805
-Annie:
+30
+00:01:43,420 --> 00:01:48,040
+Annie: That sounds a lot, especially because fridges hardly ever break down.
 
-47
-00:01:43,805 --> 00:01:48,040
-That sounds a lot, especially because fridges hardly ever break down.
+31
+00:01:48,040 --> 00:01:52,644
+Jack: That's right. In this country we keep domestic fridges for 11 years on average,
 
-48
-00:01:48,040 --> 00:01:48,347
-Jack:
-
-49
-00:01:48,347 --> 00:01:48,961
-That's right.
-
-50
-00:01:48,961 --> 00:01:52,644
-In this country we keep domestic fridges for 11 years on average,
-
-51
+32
 00:01:52,644 --> 00:01:55,100
 and a lot last for 20 or more.
 
-52
-00:01:55,100 --> 00:01:59,043
-So if you divide the cost by the number of years you can use
+33
+00:01:55,100 --> 00:01:59,607
+So if you divide the cost by the number of years you can use a fridge,
 
-53
-00:01:59,043 --> 00:02:01,860
-a fridge, they're not expensive, compared with some household appliances.
+34
+00:01:59,607 --> 00:02:01,860
+they're not expensive, compared with some household appliances.
 
-54
-00:02:01,860 --> 00:02:02,299
-Annie:
+35
+00:02:01,860 --> 00:02:09,330
+Annie: True. I suppose manufacturers encourage people to spend more by making them different colours and designs.
 
-55
-00:02:02,299 --> 00:02:02,739
-True.
-
-56
-00:02:02,739 --> 00:02:08,451
-I suppose manufacturers encourage people to spend more by making them different colours
-
-57
-00:02:08,451 --> 00:02:09,330
-and designs.
-
-58
+36
 00:02:09,330 --> 00:02:14,280
 I'm sure when my parents bought their first fridge they had hardly any choice!
 
-59
-00:02:14,280 --> 00:02:14,541
-Jack:
+37
+00:02:14,280 --> 00:02:16,110
+Jack: Yes, there's been quite a change.
 
-60
-00:02:14,541 --> 00:02:16,110
-Yes, there's been quite a change.
+38
+00:02:16,110 --> 00:02:19,597
+Jack: Right, let's make a list of topics to cover in our presentation,
 
-61
-00:02:16,110 --> 00:02:16,378
-Jack:
-
-62
-00:02:16,378 --> 00:02:19,597
-Right, let's make a list of topics to cover in our presentation,
-
-63
+39
 00:02:19,597 --> 00:02:22,280
 and decide who's going to do more research on them.
 
-64
+40
 00:02:22,280 --> 00:02:25,160
 Then later, we can get together and plan the next step.
 
-65
-00:02:25,160 --> 00:02:25,621
-Annie:
+41
+00:02:25,160 --> 00:02:29,771
+Annie: OK. How about starting with how useful refrigeration is,
 
-66
-00:02:25,621 --> 00:02:26,082
-OK.
-
-67
-00:02:26,082 --> 00:02:29,771
-How about starting with how useful refrigeration is,
-
-68
+42
 00:02:29,771 --> 00:02:33,920
 and the range of goods that are refrigerated nowadays?
 
-69
+43
 00:02:33,920 --> 00:02:37,000
 Because of course it's not just food and drinks.
 
-70
-00:02:37,000 --> 00:02:37,379
-Jack:
+44
+00:02:37,000 --> 00:02:40,790
+Jack: No, I suppose flowers and medicines are refrigerated, too.
 
-71
-00:02:37,379 --> 00:02:40,790
-No, I suppose flowers and medicines are refrigerated, too.
+45
+00:02:40,790 --> 00:02:45,740
+Annie: And computers. I could do that, unless you particularly want to.
 
-72
-00:02:40,790 --> 00:02:41,202
-Annie:
+46
+00:02:45,740 --> 00:02:47,800
+Jack: No, that's fine by me
 
-73
-00:02:41,202 --> 00:02:42,028
-And computers.
-
-74
-00:02:42,028 --> 00:02:45,740
-I could do that, unless you particularly want to.
-
-75
-00:02:45,740 --> 00:02:46,082
-Jack:
-
-76
-00:02:46,082 --> 00:02:46,424
-No,
-
-77
-00:02:46,424 --> 00:02:47,792
-that's fine by me.
-
-78
-00:02:47,792 --> 00:02:50,870
+47
+00:02:48,100 --> 00:02:50,870
 What about the effects of refrigeration on people's health?
 
-79
+48
 00:02:50,870 --> 00:02:55,379
 After all, some of the chemicals used in the 19th century were pretty harmful,
 
-80
-00:02:55,379 --> 00:02:59,888
-but there have been lots of benefits too, like always having access to fresh
+49
+00:02:55,379 --> 00:03:00,210
+but there have been lots of benefits too, like always having access to fresh food.
 
-81
-00:02:59,888 --> 00:03:00,210
-food.
-
-82
+50
 00:03:00,210 --> 00:03:01,780
 Do you fancy dealing with that?
 
-83
-00:03:01,780 --> 00:03:02,111
-Annie:
+51
+00:03:01,780 --> 00:03:04,430
+Annie: I'm not terribly keen, to be honest.
 
-84
-00:03:02,111 --> 00:03:04,430
-I'm not terribly keen, to be honest.
+52
+00:03:04,430 --> 00:03:09,200
+Jack: Nor me. My mind just goes blank when I read anything about chemicals.
 
-85
-00:03:04,430 --> 00:03:04,771
-Jack:
+53
+00:03:09,200 --> 00:03:14,500
+Annie: Oh, all right then, I'll do you a favour. But you owe me, Jack.
 
-86
-00:03:04,771 --> 00:03:05,452
-Nor me.
+54
+00:03:14,500 --> 00:03:18,208
+OK. What about the effects on food producers,
 
-87
-00:03:05,452 --> 00:03:09,200
-My mind just goes blank when I read anything about chemicals.
+55
+00:03:18,208 --> 00:03:26,550
+like farmers in poorer countries being able to export their produce to developed countries? Something for you, maybe?
 
-88
-00:03:09,200 --> 00:03:09,553
-Annie:
+56
+00:03:26,550 --> 00:03:29,240
+Jack: I don't mind. It should be quite interesting.
 
-89
-00:03:09,553 --> 00:03:12,733
-Oh, all right then, I'll do you a favour.
+57
+00:03:29,240 --> 00:03:34,107
+Annie: I think we should also look at how refrigeration has helped whole cities -
 
-90
-00:03:12,733 --> 00:03:14,500
-But you owe me, Jack.
+58
+00:03:34,107 --> 00:03:37,660
+like Las Vegas, which couldn't exist without refrigeration
 
-91
-00:03:14,500 --> 00:03:14,963
-OK.
+59
+00:03:37,660 --> 00:03:39,670
+because it's in the middle of a desert.
 
-92
-00:03:14,963 --> 00:03:21,452
-What about the effects on food producers, like farmers in poorer countries being able
+60
+00:03:39,670 --> 00:03:45,540
+Jack: Right. I had a quick look at an economics book in the library that's got a chapter about this sort of thing.
 
-93
-00:03:21,452 --> 00:03:24,696
-to export their produce to developed countries?
-
-94
-00:03:24,696 --> 00:03:26,550
-Something for you, maybe?
-
-95
-00:03:26,550 --> 00:03:26,849
-Jack:
-
-96
-00:03:26,849 --> 00:03:27,746
-I don't mind.
-
-97
-00:03:27,746 --> 00:03:29,240
-It should be quite interesting.
-
-98
-00:03:29,240 --> 00:03:29,588
-Annie:
-
-99
-00:03:29,588 --> 00:03:34,107
-I think we should also look at how refrigeration has helped whole cities –
-
-100
-00:03:34,107 --> 00:03:35,150
-like Las Vegas,
-
-101
-00:03:35,150 --> 00:03:39,670
-which couldn't exist without refrigeration because it's in the middle of a desert.
-
-102
-00:03:39,670 --> 00:03:39,925
-Jack:
-
-103
-00:03:39,925 --> 00:03:40,180
-Right.
-
-104
-00:03:40,180 --> 00:03:43,753
-I had a quick look at an economics book in the library that's got
-
-105
-00:03:43,753 --> 00:03:45,540
-a chapter about this sort of thing.
-
-106
+61
 00:03:45,540 --> 00:03:48,200
 I could give you the title, if you want to do this section.
 
-107
-00:03:48,200 --> 00:03:48,557
-Annie:
+62
+00:03:48,200 --> 00:03:50,380
+Annie: Not particularly, to be honest
 
-108
-00:03:48,557 --> 00:03:50,341
-Not particularly, to be honest.
-
-109
-00:03:50,341 --> 00:03:53,910
+63
+00:03:50,840 --> 00:03:53,910
 I find economics books pretty heavy going, as a rule.
 
-110
-00:03:53,910 --> 00:03:54,130
-Jack:
+64
+00:03:53,910 --> 00:03:55,450
+Jack: OK, leave it to me, then.
 
-111
-00:03:54,130 --> 00:03:55,450
-OK, leave it to me, then.
+65
+00:03:55,450 --> 00:04:01,127
+Annie: Thanks. Then there's transport, and the difference that refrigerated trucks have made.
 
-112
-00:03:55,450 --> 00:03:55,887
-Annie:
-
-113
-00:03:55,887 --> 00:03:56,323
-Thanks.
-
-114
-00:03:56,323 --> 00:03:57,633
-Then there's transport,
-
-115
-00:03:57,633 --> 00:04:01,127
-and the difference that refrigerated trucks have made.
-
-116
+66
 00:04:01,127 --> 00:04:04,620
 I wouldn't mind having a go at that.
 
-117
-00:04:04,620 --> 00:04:04,982
-Jack:
+67
+00:04:04,620 --> 00:04:08,239
+Jack: Don't forget trains, too. I read something about milk
 
-118
-00:04:04,982 --> 00:04:06,430
-Don't forget trains, too.
+68
+00:04:08,239 --> 00:04:12,080
+and butter being transported in refrigerated railroad cars in the USA
 
-119
-00:04:06,430 --> 00:04:11,497
-I read something about milk and butter being transported in refrigerated railroad cars in
+69
+00:04:12,080 --> 00:04:14,030
+right back in the 1840s.
 
-120
-00:04:11,497 --> 00:04:14,030
-the USA, right back in the 1840s.
+70
+00:04:14,030 --> 00:04:16,800
+Annie: I hadn't thought of trains. Thanks.
 
-121
-00:04:14,030 --> 00:04:14,426
-Annie:
+71
+00:04:16,800 --> 00:04:19,665
+Jack: Shall we have a separate section on domestic fridges?
 
-122
-00:04:14,426 --> 00:04:16,404
-I hadn't thought of trains.
-
-123
-00:04:16,404 --> 00:04:16,800
-Thanks.
-
-124
-00:04:16,800 --> 00:04:17,086
-Jack:
-
-125
-00:04:17,086 --> 00:04:19,665
-Shall we have a separate section on domestic fridges?
-
-126
+72
 00:04:19,665 --> 00:04:21,670
 After all, they're something everyone's familiar with.
 
-127
-00:04:21,670 --> 00:04:22,103
-Annie:
+73
+00:04:21,670 --> 00:04:24,701
+Annie: What about splitting it into two?
 
-128
-00:04:22,103 --> 00:04:24,701
-What about splitting it into two?
+74
+00:04:24,701 --> 00:04:28,320
+You could investigate 19th- and 20th- century fridges
 
-129
-00:04:24,701 --> 00:04:28,164
-You could investigate 19th- and 20th- century fridges,
-
-130
-00:04:28,164 --> 00:04:31,628
+75
+00:04:28,320 --> 00:04:31,628
 and I'll concentrate on what's available these days,
 
-131
+76
 00:04:31,628 --> 00:04:36,390
 and how manufacturers differentiate their products from those of their competitors.
 
-132
-00:04:36,390 --> 00:04:36,512
-Jack:
-
-133
-00:04:36,512 --> 00:04:36,634
-OK,
-
-134
-00:04:36,634 --> 00:04:37,000
-that'd suit me.
+77
+00:04:36,390 --> 00:04:37,000
+Jack: OK, that'd suit me.

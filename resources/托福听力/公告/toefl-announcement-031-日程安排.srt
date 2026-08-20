@@ -3,33 +3,29 @@
 Listen to an announcement in a classroom.
 
 2
-00:00:02,250 --> 00:00:03,641
-Woman:
+00:00:02,250 --> 00:00:06,040
+Woman: Please note that we will not be meeting on Friday.
 
 3
-00:00:03,641 --> 00:00:06,040
-Please note that we will not be meeting on Friday.
+00:00:06,040 --> 00:00:10,440
+I just received a last-minute invitation to present at a conference this weekend
 
 4
-00:00:06,040 --> 00:00:10,442
-I just received a last-minute invitation to present at a conference this weekend,
-
-5
-00:00:10,442 --> 00:00:12,110
+00:00:10,440 --> 00:00:12,110
 and I'll be flying on Friday.
 
-6
+5
 00:00:12,110 --> 00:00:15,170
 I know that you were going to start your presentations then.
 
-7
-00:00:15,170 --> 00:00:17,944
-Julie and Max, we'll just move you to Monday,
+6
+00:00:15,170 --> 00:00:17,980
+Julie and Max, we'll just move you to Monday
 
-8
-00:00:17,944 --> 00:00:21,140
+7
+00:00:18,300 --> 00:00:21,140
 and those scheduled for Monday will move to Wednesday, and so on.
 
-9
+8
 00:00:21,140 --> 00:00:25,260
 This will actually give everyone a few extra days to work on your presentations.

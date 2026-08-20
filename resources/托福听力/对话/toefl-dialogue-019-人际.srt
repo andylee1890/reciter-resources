@@ -1,55 +1,31 @@
 1
-00:00:00,000 --> 00:00:00,201
-MAN:
+00:00:00,000 --> 00:00:04,130
+MAN: Do we still have far to go? This carry-on bag is really hurting my shoulder.
 
 2
-00:00:00,201 --> 00:00:01,390
-Do we still have far to go?
+00:00:04,130 --> 00:00:08,000
+WOMAN: We're almost there. The gate is just up those stairs there
 
 3
-00:00:01,390 --> 00:00:04,130
-This carry-on bag is really hurting my shoulder.
-
-4
-00:00:04,130 --> 00:00:04,180
-WOMAN:
-
-5
-00:00:04,180 --> 00:00:05,338
-We're almost there.
-
-6
-00:00:05,338 --> 00:00:07,754
-The gate is just up those stairs there.
-
-7
-00:00:07,754 --> 00:00:10,170
+00:00:08,380 --> 00:00:10,170
 What do you have in your bag anyway?
 
-8
-00:00:10,170 --> 00:00:10,501
-MAN:
+4
+00:00:10,170 --> 00:00:13,620
+MAN: Oh, I picked up some CDs and toys for my kids
 
-9
-00:00:10,501 --> 00:00:14,143
-Oh, I picked up some CDs and toys for my kids.
-
-10
-00:00:14,143 --> 00:00:16,129
+5
+00:00:13,880 --> 00:00:16,129
 The prices are unbelievably cheap here.
 
-11
-00:00:16,129 --> 00:00:16,415
-WOMAN:
+6
+00:00:16,129 --> 00:00:18,460
+WOMAN: This must be your first trip here
 
-12
-00:00:16,415 --> 00:00:18,418
-This must be your first trip here.
-
-13
-00:00:18,418 --> 00:00:21,280
+7
+00:00:18,720 --> 00:00:21,280
 I remember picking up things when I first came here.
 
-14
+8
 00:00:21,280 --> 00:00:27,130
 After a while, you forget that everything here is cheaper than things back home.

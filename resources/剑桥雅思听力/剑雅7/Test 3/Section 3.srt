@@ -1,303 +1,247 @@
 1
-00:00:00,000 --> 00:00:03,982
-Thanks to all of you for coming along today to hear about how the
+00:00:00,000 --> 00:00:07,340
+Thanks to all of you for coming along today to hear about how the robotic float project is helping with ocean research.
 
 2
-00:00:03,982 --> 00:00:07,340
-robotic float project is helping with ocean research.
+00:00:07,340 --> 00:00:11,840
+Well, first of all we'll look at what a robotic float does and its use.
 
 3
-00:00:07,340 --> 00:00:10,912
-Well, first of all we'll look at what a robotic float does
+00:00:11,840 --> 00:00:14,520
+So let's start with the device itself
 
 4
-00:00:10,912 --> 00:00:11,840
-and its use.
+00:00:14,760 --> 00:00:18,860
+It looks a bit like a cigar and it's about one and a half metres long.
 
 5
-00:00:11,840 --> 00:00:14,455
-So let's start with the device itself.
-
-6
-00:00:14,455 --> 00:00:17,334
-It looks a bit like a cigar and it's about one
-
-7
-00:00:17,334 --> 00:00:18,860
-and a half metres long.
-
-8
 00:00:18,860 --> 00:00:23,200
 More importantly it's full of equipment that's designed to collect data.
 
-9
-00:00:23,200 --> 00:00:27,631
-So, it can help us in building up a profile of different factors which
+6
+00:00:23,200 --> 00:00:27,080
+So, it can help us in building up a profile of different factors
 
-10
-00:00:27,631 --> 00:00:29,530
-work together within the world's oceans.
+7
+00:00:27,080 --> 00:00:29,530
+which work together within the world's oceans.
 
-11
+8
 00:00:29,530 --> 00:00:34,600
 Sounds like a big project - isn't it too big for one country to undertake?
 
-12
+9
 00:00:34,600 --> 00:00:40,200
 That's quite true but this project is a really good example of international co-operation.
 
-13
+10
 00:00:40,200 --> 00:00:46,216
 Over the last five years scientists from thirteen countries have been taking part in the project
 
-14
+11
 00:00:46,216 --> 00:00:49,600
 and launching floats in their area of ocean control.
 
-15
+12
 00:00:49,600 --> 00:00:54,360
 And next year this number will rise to fourteen when Indonesia joins the project.
 
-16
+13
 00:00:54,360 --> 00:00:55,780
 That's impressive.
 
-17
+14
 00:00:55,780 --> 00:00:58,830
 But let's move onto how floats work.
 
-18
+15
 00:00:58,830 --> 00:01:01,960
 The operational cycle goes like this.
 
-19
-00:01:01,960 --> 00:01:06,509
+16
+00:01:01,960 --> 00:01:06,060
 Each of the floats is dropped in the ocean from a boat at a set point
 
-20
-00:01:06,509 --> 00:01:07,930
+17
+00:01:06,060 --> 00:01:07,930
 and activated from a satellite.
 
+18
+00:01:07,930 --> 00:01:10,880
+Then the float immediately sinks about 2
+
+19
+00:01:10,880 --> 00:01:14,650
+000 metres... that's two whole kilometres down in the water.
+
+20
+00:01:14,650 --> 00:01:17,384
+It stays at this depth for about 10 days
+
 21
-00:01:07,930 --> 00:01:11,488
-Then the float immediately sinks about 2,000 metres...
+00:01:17,384 --> 00:01:21,940
+and is carried around by the currents which operate in the ocean at this level.
 
 22
-00:01:11,488 --> 00:01:14,650
-that's two whole kilometres down in the water.
-
-23
-00:01:14,650 --> 00:01:18,902
-It stays at this depth for about 10 days and is carried around by
-
-24
-00:01:18,902 --> 00:01:21,940
-the currents which operate in the ocean at this level.
-
-25
-00:01:21,940 --> 00:01:26,307
+00:01:21,940 --> 00:01:26,160
 During this time it's possible for it to cover quite large distances
 
-26
-00:01:26,307 --> 00:01:28,490
+23
+00:01:26,160 --> 00:01:28,490
 but the average is fifty kilometres.
 
-27
+24
 00:01:28,490 --> 00:01:31,440
 So what is it actually recording?
 
-28
+25
 00:01:31,440 --> 00:01:33,447
 Well at this stage nothing,
 
+26
+00:01:33,447 --> 00:01:37,180
+but as it rises to the surface it collects all sorts of data
+
+27
+00:01:37,620 --> 00:01:40,671
+most importantly variations in salinity,
+
+28
+00:01:40,671 --> 00:01:43,580
+that's salt levels, and the changes in temperature
+
 29
-00:01:33,447 --> 00:01:39,066
-but as it rises to the surface it collects all sorts of data, most
+00:01:43,780 --> 00:01:46,290
+a bit like underwater weather balloons.
 
 30
-00:01:39,066 --> 00:01:40,671
-importantly variations in salinity,
+00:01:46,290 --> 00:01:52,670
+Then when it gets back to the surface all the data it's collected is beamed up to the satellite.
 
 31
-00:01:40,671 --> 00:01:41,875
-that's salt levels,
+00:01:52,670 --> 00:01:57,360
+After about five hours on the surface the float automatically sinks
 
 32
-00:01:41,875 --> 00:01:46,290
-and the changes in temperature, a bit like underwater weather balloons.
+00:01:57,360 --> 00:01:59,400
+beginning the whole process again.
 
 33
-00:01:46,290 --> 00:01:50,991
-Then when it gets back to the surface all the data it's collected is
-
-34
-00:01:50,991 --> 00:01:52,670
-beamed up to the satellite.
-
-35
-00:01:52,670 --> 00:01:58,559
-After about five hours on the surface the float automatically sinks, beginning the whole
-
-36
-00:01:58,559 --> 00:01:59,400
-process again.
-
-37
 00:01:59,400 --> 00:02:01,460
 What happens to the data?
 
-38
-00:02:01,460 --> 00:02:07,056
-Well the information is transferred direct to onshore meteorological stations.., like our one in
+34
+00:02:01,460 --> 00:02:07,455
+Well the information is transferred direct to onshore meteorological stations, like our one in Hobart...
 
-39
-00:02:07,056 --> 00:02:07,455
-Hobart...
+35
+00:02:07,455 --> 00:02:11,820
+and within four hours the findings can be on computers
 
-40
-00:02:07,455 --> 00:02:13,451
-and within four hours the findings can be on computers and they can be mapped
+36
+00:02:11,820 --> 00:02:14,250
+and they can be mapped and analysed.
 
-41
-00:02:13,451 --> 00:02:14,250
-and analysed.
-
-42
+37
 00:02:14,250 --> 00:02:18,136
 You say you're building models of the world's ocean systems
 
-43
-00:02:18,136 --> 00:02:20,856
-but how're they going to be used,
+38
+00:02:18,136 --> 00:02:22,410
+but how're they going to be used, and more importantly, when?
 
-44
-00:02:20,856 --> 00:02:22,021
-and more importantly,
-
-45
-00:02:22,021 --> 00:02:22,410
-when?
-
-46
+39
 00:02:22,410 --> 00:02:26,400
 Some of the data has already helped in completing projects.
 
-47
-00:02:26,400 --> 00:02:32,000
-For example, our understanding of the underlying causes of El Nino events is being
+40
+00:02:26,400 --> 00:02:33,600
+For example, our understanding of the underlying causes of El Nino events is being confirmed by float data.
 
-48
-00:02:32,000 --> 00:02:33,600
-confirmed by float data.
+41
+00:02:33,600 --> 00:02:40,422
+Another way we're using float data is to help us to understand the mechanics of climate change,
 
-49
-00:02:33,600 --> 00:02:39,218
-Another way we're using float data is to help us to understand the mechanics
+42
+00:02:40,422 --> 00:02:42,830
+like global warming and ozone depletion.
 
-50
-00:02:39,218 --> 00:02:42,830
-of climate change, like global warming and ozone depletion.
+43
+00:02:42,830 --> 00:02:45,510
+That's part of an ongoing variability study
 
-51
-00:02:42,830 --> 00:02:47,039
-That's part of an ongoing variability study but the results are still a long
+44
+00:02:45,510 --> 00:02:47,640
+but the results are still a long way off.
 
-52
-00:02:47,039 --> 00:02:47,640
-way off.
-
-53
+45
 00:02:47,640 --> 00:02:52,500
 However, this is not the case with our ocean weather forecasting.
 
-54
-00:02:52,500 --> 00:02:56,700
-Because we know from the floats what the prevailing weather conditions will be in
+46
+00:02:52,500 --> 00:02:58,200
+Because we know from the floats what the prevailing weather conditions will be in certain parts of the ocean,
 
-55
-00:02:56,700 --> 00:03:00,300
-certain parts of the ocean, we can advise the navy on search
+47
+00:02:58,200 --> 00:03:01,200
+we can advise the navy on search and rescue missions.
 
-56
-00:03:00,300 --> 00:03:01,200
-and rescue missions.
+48
+00:03:01,200 --> 00:03:06,570
+That's happening right now and many yachtsmen owe their lives to the success of this project.
 
-57
-00:03:01,200 --> 00:03:05,899
-That's happening right now and many yachtsmen owe their lives to the success of
+49
+00:03:06,570 --> 00:03:12,570
+In addition, the float data can help us to look at the biological implications of ocean processes.
 
-58
-00:03:05,899 --> 00:03:06,570
-this project.
-
-59
-00:03:06,570 --> 00:03:11,511
-In addition, the float data can help us to look at the biological implications
-
-60
-00:03:11,511 --> 00:03:12,570
-of ocean processes.
-
-61
+50
 00:03:12,570 --> 00:03:15,220
 Would that help with preserving fish stocks?
 
-62
-00:03:15,220 --> 00:03:15,270
-Yes,
+51
+00:03:15,220 --> 00:03:18,610
+Yes, and advising governments on fisheries legislation.
 
-63
-00:03:15,270 --> 00:03:18,610
-and advising governments on fisheries legislation.
-
-64
+52
 00:03:18,610 --> 00:03:21,880
 We're well on the way to completing a project on this.
 
-65
+53
 00:03:21,880 --> 00:03:26,160
 We hope it will help to bring about more sustainable fishing practices.
 
-66
+54
 00:03:26,160 --> 00:03:28,440
 We'll be seeing the results of that quite soon.
 
-67
+55
 00:03:28,440 --> 00:03:32,670
 It sounds like the data from floats has lots of applications.
 
-68
-00:03:32,670 --> 00:03:34,003
-Yes it does.
+56
+00:03:32,670 --> 00:03:36,670
+Yes it does. It's also a powerful agricultural tool.
 
-69
-00:03:34,003 --> 00:03:36,670
-It's also a powerful agricultural tool.
-
-70
+57
 00:03:36,670 --> 00:03:41,401
 If we were aware of what the weather would be like, say, next year,
 
-71
-00:03:41,401 --> 00:03:46,132
-we could make sure that the farmers planted appropriate grain varieties to produce the
+58
+00:03:41,401 --> 00:03:48,160
+we could make sure that the farmers planted appropriate grain varieties to produce the best yield from the available rainfall.
 
-72
-00:03:46,132 --> 00:03:48,160
-best yield from the available rainfall.
+59
+00:03:48,160 --> 00:03:50,430
+That sounds a bit like science fiction
 
-73
-00:03:48,160 --> 00:03:52,248
-That sounds a bit like science fiction, especially when now we can't even tell
+60
+00:03:50,430 --> 00:03:54,000
+especially when now we can't even tell them when a drought will break.
 
-74
-00:03:52,248 --> 00:03:54,000
-them when a drought will break.
-
-75
+61
 00:03:54,000 --> 00:03:57,674
 I agree that this concept is still a long way in the future,
 
-76
+62
 00:03:57,674 --> 00:04:01,630
 but it will come eventually and the float data will have made a contribution.

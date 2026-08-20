@@ -1,51 +1,27 @@
 1
-00:00:00,000 --> 00:00:00,448
-Woman:
+00:00:00,000 --> 00:00:02,220
+My lease is up at the end of the month
 
 2
-00:00:00,448 --> 00:00:02,140
-My lease is up at the end of the month.
-
-3
-00:00:02,140 --> 00:00:02,827
-Man:
-
-4
-00:00:02,827 --> 00:00:05,190
+00:00:02,900 --> 00:00:05,260
 Have you started looking for a new apartment to rent yet?
 
-5
-00:00:05,190 --> 00:00:06,224
-Woman:
+3
+00:00:05,900 --> 00:00:08,480
+Yes, but I haven't found anything that I like.
 
-6
-00:00:06,224 --> 00:00:06,670
-Yes,
-
-7
-00:00:06,670 --> 00:00:08,210
-but I haven’t found anything that I like.
-
-8
-00:00:08,210 --> 00:00:08,330
-Man:
-
-9
-00:00:08,330 --> 00:00:10,901
+4
+00:00:09,480 --> 00:00:10,840
 Have you tried looking downtown?
 
-10
-00:00:10,901 --> 00:00:18,050
-Now that they’ve finally finished building the giant new hotel there, it’s a much cleaner and quieter area.
+5
+00:00:11,740 --> 00:00:15,300
+Now that they've finally finished building the giant new hotel there
 
-11
-00:00:18,050 --> 00:00:18,100
-Woman:
+6
+00:00:15,460 --> 00:00:17,800
+it's a much cleaner and quieter area.
 
-12
-00:00:18,100 --> 00:00:19,185
-That’s a good idea.
-
-13
-00:00:19,185 --> 00:00:20,130
-I’ll check online tonight.
+7
+00:00:18,320 --> 00:00:20,320
+That's a good idea. I'll check online tonight.

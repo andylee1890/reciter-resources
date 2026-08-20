@@ -1,531 +1,287 @@
 1
-00:00:00,000 --> 00:00:02,168
-JAKE:
+00:00:00,000 --> 00:00:06,571
+JAKE: Now that we've done all the research into bike-sharing schemes in cities around the world,
 
 2
-00:00:02,168 --> 00:00:06,121
-Now that we've done all the research into bike-sharing schemes in cities around the
+00:00:06,571 --> 00:00:11,500
+we need to think about how we're going to organise our report.
 
 3
-00:00:06,121 --> 00:00:11,500
-world, we need to think about how we're going to organise our report.
+00:00:11,500 --> 00:00:15,100
+AMY: Right. I think we should start by talking about the benefits.
 
 4
-00:00:11,500 --> 00:00:11,581
-AMY:
+00:00:15,100 --> 00:00:16,705
+I mean it's great that
 
 5
-00:00:11,581 --> 00:00:11,722
-Right.
+00:00:16,705 --> 00:00:19,080
+so many cities have introduced these schemes
 
 6
-00:00:11,722 --> 00:00:15,100
-I think we should start by talking about the benefits.
+00:00:19,080 --> 00:00:22,803
+where anyone can pick up a bike from dozens of different locations
 
 7
-00:00:15,100 --> 00:00:19,594
-I mean it's great that so many cities have introduced these schemes where anyone
-
-8
-00:00:19,594 --> 00:00:22,803
-can pick up a bike from dozens of different locations
-
-9
 00:00:22,803 --> 00:00:25,050
 and hire it for a few hours.
 
-10
+8
 00:00:25,050 --> 00:00:28,030
 It makes riding a bike very convenient for people.
 
+9
+00:00:28,030 --> 00:00:31,160
+JAKE: Yes, but the costs can add up
+
+10
+00:00:31,160 --> 00:00:34,070
+and that puts people on low incomes off in some places.
+
 11
-00:00:28,030 --> 00:00:28,080
-JAKE:
+00:00:34,070 --> 00:00:40,432
+AMY: I suppose so, but if it means more people in general are cycling rather than driving,
 
 12
-00:00:28,080 --> 00:00:28,666
-Yes,
+00:00:40,432 --> 00:00:45,340
+then because they're increasing the amount of physical activity they do
 
 13
-00:00:28,666 --> 00:00:33,116
-but the costs can add up and that puts people on low incomes off
+00:00:45,340 --> 00:00:46,420
+it's good for their health.
 
 14
-00:00:33,116 --> 00:00:34,070
-in some places.
+00:00:46,420 --> 00:00:49,820
+JAKE: OK. But isn't that of less importance?
 
 15
-00:00:34,070 --> 00:00:34,120
-AMY:
+00:00:49,820 --> 00:00:57,250
+I mean, doesn't the impact of reduced emissions on air pollution have a more significant effect on people's health?
 
 16
-00:00:34,120 --> 00:00:35,567
-I suppose so,
+00:00:57,250 --> 00:01:02,440
+AMY: Certainly, in some cities bike-sharing has made a big contribution to that.
 
 17
-00:00:35,567 --> 00:00:40,806
-but if it means more people in general are cycling rather than driving, then
-
-18
-00:00:40,806 --> 00:00:46,046
-because they're increasing the amount of physical activity they do, it's good for their
-
-19
-00:00:46,046 --> 00:00:46,420
-health.
-
-20
-00:00:46,420 --> 00:00:46,470
-JAKE:
-
-21
-00:00:46,470 --> 00:00:47,270
-OK.
-
-22
-00:00:47,270 --> 00:00:49,820
-But isn't that of less importance?
-
-23
-00:00:49,820 --> 00:00:55,295
-I mean, doesn't the impact of reduced emissions on air pollution have a more
-
-24
-00:00:55,295 --> 00:00:57,250
-significant effect on people's health?
-
-25
-00:00:57,250 --> 00:00:57,649
-AMY:
-
-26
-00:00:57,649 --> 00:01:02,440
-Certainly, in some cities bike-sharing has made a big contribution to that.
-
-27
 00:01:02,440 --> 00:01:06,480
 And also helped to cut the number of cars on the road significantly.
 
-28
-00:01:06,480 --> 00:01:06,720
-JAKE:
+18
+00:01:06,480 --> 00:01:07,920
+JAKE: Which is the main point.
 
-29
-00:01:06,720 --> 00:01:07,920
-Which is the main point.
+19
+00:01:07,920 --> 00:01:12,837
+AMY: Exactly. But I'd say it's had less of an impact on noise pollution
 
-30
-00:01:07,920 --> 00:01:08,271
-AMY:
-
-31
-00:01:08,271 --> 00:01:08,622
-Exactly.
-
-32
-00:01:08,622 --> 00:01:12,837
-But I'd say it's had less of an impact on noise pollution
-
-33
+20
 00:01:12,837 --> 00:01:16,350
 because there are still loads of buses and lorries around.
 
-34
-00:01:16,350 --> 00:01:16,820
-JAKE:
+21
+00:01:16,350 --> 00:01:17,290
+JAKE: Right.
 
-35
-00:01:16,820 --> 00:01:17,290
-Right.
+22
+00:01:17,290 --> 00:01:21,050
+AMY: Shall we quickly discuss the recommendations we're going to make?
 
-36
-00:01:17,290 --> 00:01:17,632
-AMY:
+23
+00:01:21,050 --> 00:01:23,760
+JAKE: In order to ensure bike-sharing schemes are successful?
 
-37
-00:01:17,632 --> 00:01:21,050
-Shall we quickly discuss the recommendations we're going to make?
+24
+00:01:23,760 --> 00:01:24,630
+AMY: Yes.
 
-38
-00:01:21,050 --> 00:01:21,351
-JAKE:
+25
+00:01:24,630 --> 00:01:31,792
+JAKE: OK. Well, while I think it's nice to have really state-of-the-art bikes with things like GPS,
 
-39
-00:01:21,351 --> 00:01:23,760
-In order to ensure bike-sharing schemes are successful?
+26
+00:01:31,792 --> 00:01:34,180
+I wouldn't say they're absolutely necessary.
 
-40
-00:01:23,760 --> 00:01:24,195
-AMY:
+27
+00:01:34,180 --> 00:01:37,667
+AMY: But some technical things are really important -
 
-41
-00:01:24,195 --> 00:01:24,630
-Yes.
+28
+00:01:37,667 --> 00:01:43,770
+like a fully functional app - so people can make payments and book bikes easily.
 
-42
-00:01:24,630 --> 00:01:25,028
-JAKE:
-
-43
-00:01:25,028 --> 00:01:25,426
-OK.
-
-44
-00:01:25,426 --> 00:01:25,824
-Well,
-
-45
-00:01:25,824 --> 00:01:31,395
-while I think it's nice to have really state-of-the art bikes with things like
-
-46
-00:01:31,395 --> 00:01:34,180
-GPS, I wouldn't say they're absolutely necessary.
-
-47
-00:01:34,180 --> 00:01:34,616
-AMY:
-
-48
-00:01:34,616 --> 00:01:39,847
-But some technical things are really important – like a fully functional app –
-
-49
-00:01:39,847 --> 00:01:43,770
-so people can make payments and book bikes easily.
-
-50
+29
 00:01:43,770 --> 00:01:47,440
 Places which haven't invested in that have really struggled.
 
-51
-00:01:47,440 --> 00:01:47,824
-JAKE:
+30
+00:01:47,440 --> 00:01:53,194
+JAKE: Good point... Some people say there shouldn't be competing companies offering separate bike-sharing schemes,
 
-52
-00:01:47,824 --> 00:01:48,591
-Good point ...
+31
+00:01:53,194 --> 00:01:55,496
+but in some really big cities,
 
-53
-00:01:48,591 --> 00:01:53,194
-Some people say there shouldn't be competing companies offering separate bike-sharing schemes,
+32
+00:01:55,496 --> 00:02:01,250
+competition's beneficial and anyway one company might not be able to manage the whole thing.
 
-54
-00:01:53,194 --> 00:01:58,565
-but in some really big cities, competition's beneficial and anyway one company might not
+33
+00:02:01,250 --> 00:02:06,050
+AMY: Right. Deciding how much to invest is a big question.
 
-55
-00:01:58,565 --> 00:02:01,250
-be able to manage the whole thing.
+34
+00:02:06,050 --> 00:02:15,103
+Cities which have opened loads of new bike lanes at the same time as introducing bike-sharing schemes have generally been more successful -
 
-56
-00:02:01,250 --> 00:02:01,686
-AMY:
+35
+00:02:15,103 --> 00:02:19,630
+but there are examples of successful schemes where this hasn't happened...
 
-57
-00:02:01,686 --> 00:02:02,123
-Right.
-
-58
-00:02:02,123 --> 00:02:06,050
-Deciding how much to invest is a big question.
-
-59
-00:02:06,050 --> 00:02:11,811
-Cities which have opened loads of new bike lanes at the same time as
-
-60
-00:02:11,811 --> 00:02:17,161
-introducing bike-sharing schemes have generally been more successful – but there are examples of
-
-61
-00:02:17,161 --> 00:02:19,630
-successful schemes where this hasn't happened …
-
-62
+36
 00:02:19,630 --> 00:02:23,310
-What does matter though – is having a big publicity campaign.
+What does matter though - is having a big publicity campaign.
 
-63
-00:02:23,310 --> 00:02:23,626
-JAKE:
+37
+00:02:23,310 --> 00:02:29,620
+JAKE: Definitely. If people don't know how to use the scheme or don't understand its benefits, they won't use it.
 
-64
-00:02:23,626 --> 00:02:23,941
-Definitely.
-
-65
-00:02:23,941 --> 00:02:28,358
-If people don't know how to use the scheme or don't understand its benefits,
-
-66
-00:02:28,358 --> 00:02:29,620
-they won't use it.
-
-67
+38
 00:02:29,620 --> 00:02:37,210
 People need a lot of persuasion to stop using their cars.
 
-68
-00:02:37,210 --> 00:02:37,565
-AMY:
+39
+00:02:37,210 --> 00:02:40,050
+AMY: Shall we look at some examples now?
 
-69
-00:02:37,565 --> 00:02:40,050
-Shall we look at some examples now?
-
-70
+40
 00:02:40,050 --> 00:02:43,420
 And say what we think is good or bad about them.
 
-71
-00:02:43,420 --> 00:02:43,678
-JAKE:
+41
+00:02:43,420 --> 00:02:44,966
+JAKE: I suppose we should start
 
-72
-00:02:43,678 --> 00:02:47,284
-I suppose we should start with Amsterdam as this was one of the first
+42
+00:02:44,966 --> 00:02:48,830
+with Amsterdam as this was one of the first cities to have a bike-sharing scheme.
 
-73
-00:02:47,284 --> 00:02:48,830
-cities to have a bike-sharing scheme.
+43
+00:02:48,830 --> 00:02:53,400
+AMY: Yes. There was already a strong culture of cycling here.
 
-74
-00:02:48,830 --> 00:02:49,245
-AMY:
-
-75
-00:02:49,245 --> 00:02:49,661
-Yes.
-
-76
-00:02:49,661 --> 00:02:53,400
-There was already a strong culture of cycling here.
-
-77
+44
 00:02:53,400 --> 00:02:57,425
 In a way it's strange that there was such a demand for bike-sharing
 
-78
+45
 00:02:57,425 --> 00:03:01,140
 because you'd have thought most people would have used their own bikes.
 
-79
-00:03:01,140 --> 00:03:01,391
-JAKE:
+46
+00:03:01,140 --> 00:03:03,400
+JAKE: And yet it's one of the best-used schemes...
 
-80
-00:03:01,391 --> 00:03:03,400
-And yet it's one of the best-used schemes ...
-
-81
+47
 00:03:03,400 --> 00:03:07,130
 Dublin's an interesting example of a success story.
 
-82
-00:03:07,130 --> 00:03:07,468
-AMY:
+48
+00:03:07,130 --> 00:03:10,850
+AMY: It must be because the public transport system's quite limited.
 
-83
-00:03:07,468 --> 00:03:10,850
-It must be because the public transport system's quite limited.
+49
+00:03:10,850 --> 00:03:13,140
+JAKE: Not really - there's no underground
 
-84
-00:03:10,850 --> 00:03:11,152
-JAKE:
-
-85
-00:03:11,152 --> 00:03:12,662
-Not really – there's no underground,
-
-86
-00:03:12,662 --> 00:03:15,380
+50
+00:03:13,180 --> 00:03:15,380
 but there are trams and a good bus network.
 
-87
+51
 00:03:15,380 --> 00:03:18,580
 I'd say price has a lot to do with it.
 
-88
+52
 00:03:18,580 --> 00:03:21,380
 It's one of the cheapest schemes in Europe to join.
 
-89
-00:03:21,380 --> 00:03:21,781
-AMY:
+53
+00:03:21,380 --> 00:03:27,390
+AMY: But the buses are really slow - anyway the weather certainly can't be a factor!
 
-90
-00:03:21,781 --> 00:03:27,390
-But the buses are really slow – anyway the weather certainly can't be a factor!
+54
+00:03:27,390 --> 00:03:31,730
+JAKE: No - definitely not. The London scheme's been quite successful.
 
-91
-00:03:27,390 --> 00:03:27,824
-JAKE:
+55
+00:03:31,730 --> 00:03:34,880
+AMY: Yes - it's been a really good thing for the city.
 
-92
-00:03:27,824 --> 00:03:29,126
-No – definitely not.
-
-93
-00:03:29,126 --> 00:03:31,730
-The London scheme's been quite successful.
-
-94
-00:03:31,730 --> 00:03:32,016
-AMY:
-
-95
-00:03:32,016 --> 00:03:34,880
-Yes – it's been a really good thing for the city.
-
-96
-00:03:34,880 --> 00:03:39,086
+56
+00:03:34,880 --> 00:03:38,940
 The bikes are popular and the whole system is well maintained
 
-97
-00:03:39,086 --> 00:03:41,380
+57
+00:03:39,000 --> 00:03:41,380
 but it isn't expanding quickly enough.
 
-98
-00:03:41,380 --> 00:03:41,722
-JAKE:
+58
+00:03:41,380 --> 00:03:46,860
+JAKE: Basically, not enough's been spent on increasing the number of cycle lanes. Hopefully that'll change.
 
-99
-00:03:41,722 --> 00:03:45,832
-Basically, not enough's been spent on increasing the number of cycle lanes.
+59
+00:03:46,860 --> 00:03:51,380
+AMY: Yes. Now what about outside Europe?
 
-100
-00:03:45,832 --> 00:03:46,860
-Hopefully that'll change.
+60
+00:03:51,380 --> 00:03:55,350
+JAKE: Well bike-sharing schemes have taken off in places like Buenos Aires.
 
-101
-00:03:46,860 --> 00:03:47,506
-AMY:
+61
+00:03:55,350 --> 00:04:01,270
+AMY: Mmm. They built a huge network of cycle lanes to support the introduction of the scheme there, didn't they?
 
-102
-00:03:47,506 --> 00:03:48,151
-Yes.
-
-103
-00:03:48,151 --> 00:03:51,380
-Now what about outside Europe?
-
-104
-00:03:51,380 --> 00:03:51,711
-JAKE:
-
-105
-00:03:51,711 --> 00:03:55,350
-Well bike-sharing schemes have taken off in places like Buenos Aires.
-
-106
-00:03:55,350 --> 00:03:55,646
-AMY:
-
-107
-00:03:55,646 --> 00:03:55,942
-Mmm.
-
-108
-00:03:55,942 --> 00:04:00,086
-They built a huge network of cycle lanes to support the introduction of the
-
-109
-00:04:00,086 --> 00:04:01,270
-scheme there, didn't they?
-
-110
+62
 00:04:01,270 --> 00:04:06,070
 It attracted huge numbers of cyclists where previously there were hardly any.
 
-111
-00:04:06,070 --> 00:04:06,372
-JAKE:
+63
+00:04:06,070 --> 00:04:07,880
+JAKE: An example of good planning.
 
-112
-00:04:06,372 --> 00:04:07,880
-An example of good planning.
+64
+00:04:07,880 --> 00:04:13,440
+AMY: Absolutely. New York is a good example of how not to introduce a scheme.
 
-113
-00:04:07,880 --> 00:04:08,251
-AMY:
+65
+00:04:13,440 --> 00:04:19,030
+When they launched it, it was more than ten times the price of most other schemes.
 
-114
-00:04:08,251 --> 00:04:08,621
-Absolutely.
+66
+00:04:19,030 --> 00:04:21,290
+JAKE: More than it costs to take a taxi.
 
-115
-00:04:08,621 --> 00:04:13,440
-New York is a good example of how not to introduce a scheme.
+67
+00:04:21,290 --> 00:04:26,070
+Crazy. I think the organisers lacked vision and ambition there.
 
-116
-00:04:13,440 --> 00:04:18,331
-When they launched it, it was more than ten times the price of most
+68
+00:04:26,070 --> 00:04:30,400
+AMY: I think so too. Sydney would be a good example to use.
 
-117
-00:04:18,331 --> 00:04:19,030
-other schemes.
-
-118
-00:04:19,030 --> 00:04:19,281
-JAKE:
-
-119
-00:04:19,281 --> 00:04:21,290
-More than it costs to take a taxi.
-
-120
-00:04:21,290 --> 00:04:21,768
-Crazy.
-
-121
-00:04:21,768 --> 00:04:26,070
-I think the organisers lacked vision and ambition there.
-
-122
-00:04:26,070 --> 00:04:26,403
-AMY:
-
-123
-00:04:26,403 --> 00:04:27,735
-I think so too.
-
-124
-00:04:27,735 --> 00:04:30,400
-Sydney would be a good example to use.
-
-125
+69
 00:04:30,400 --> 00:04:33,450
 I would have expected it to have grown pretty quickly here.
 
-126
-00:04:33,450 --> 00:04:33,776
-JAKE:
+70
+00:04:33,450 --> 00:04:39,640
+JAKE: Yes. I can't quite work out why it hasn't been an instant success like some of the others.
 
-127
-00:04:33,776 --> 00:04:34,102
-Yes.
-
-128
-00:04:34,102 --> 00:04:38,663
-I can't quite work out why it hasn't been an instant success like some
-
-129
-00:04:38,663 --> 00:04:39,640
-of the others.
-
-130
+71
 00:04:39,640 --> 00:04:41,230
 It's a shame really.
 
-131
-00:04:41,230 --> 00:04:41,760
-AMY:
-
-132
-00:04:41,760 --> 00:04:42,820
-I know.
-
-133
-00:04:42,820 --> 00:04:46,000
-OK so now we've thought about ...
+72
+00:04:41,230 --> 00:04:46,000
+AMY: I know. OK so now we've thought about...

@@ -3,125 +3,141 @@
 Listen to a talk in a history class.
 
 2
-00:00:02,200 --> 00:00:09,100
-If you think about it, thanks to e-mail and computers we hardly write letters on paper anymore.
+00:00:02,200 --> 00:00:04,140
+If you think about it
 
 3
-00:00:09,100 --> 00:00:12,741
-Most people don’t even pay bills through the mail anymore,
+00:00:04,260 --> 00:00:09,100
+thanks to e-mail and computers we hardly write letters on paper anymore.
 
 4
-00:00:12,741 --> 00:00:16,100
-or mail informs to schools or to the government.
+00:00:09,100 --> 00:00:12,340
+Most people don't even pay bills through the mail anymore
 
 5
+00:00:12,340 --> 00:00:16,100
+or mail informs to schools or to the government.
+
+6
 00:00:16,100 --> 00:00:20,000
 It seems almost everything can be done online now.
 
-6
-00:00:20,000 --> 00:00:23,489
+7
+00:00:20,000 --> 00:00:23,950
 Keep in mind though that e-mail is a very recent development,
 
-7
-00:00:23,489 --> 00:00:28,220
-but postal services systems for delivering physical paper letters and documents
-
 8
-00:00:28,220 --> 00:00:32,210
-and other items, well, they have been around for a long time.
+00:00:23,950 --> 00:00:27,400
+but postal services systems for delivering physical paper letters
 
 9
-00:00:32,210 --> 00:00:39,160
-For example, we know that in ancient times, documents were transported by riders on horseback.
+00:00:27,400 --> 00:00:28,978
+and documents and other items,
 
 10
-00:00:39,160 --> 00:00:41,729
-They usually used a relay system,
+00:00:28,978 --> 00:00:32,210
+well, they have been around for a long time.
 
 11
-00:00:41,729 --> 00:00:46,023
-which means that one mail carrier would travel a certain distance with the mail
+00:00:32,210 --> 00:00:35,880
+For example, we know that in ancient times
 
 12
-00:00:46,023 --> 00:00:49,856
-and then pass it on to someone else, whose job was to take it
+00:00:35,880 --> 00:00:39,160
+documents were transported by riders on horseback.
 
 13
-00:00:49,856 --> 00:00:51,080
-the next part of the way.
+00:00:39,160 --> 00:00:41,820
+They usually used a relay system
 
 14
-00:00:51,080 --> 00:00:56,420
-In ancient China, for example, the government set up a large network of stations,
+00:00:41,820 --> 00:00:44,226
+which means that one mail carrier would travel a certain distance
 
 15
-00:00:56,420 --> 00:00:59,030
-where fresh horses were kept.
+00:00:44,226 --> 00:00:48,420
+with the mail and then pass it on to someone else
 
 16
+00:00:48,420 --> 00:00:51,080
+whose job was to take it the next part of the way.
+
+17
+00:00:51,080 --> 00:00:53,600
+In ancient China, for example
+
+18
+00:00:53,840 --> 00:00:59,030
+the government set up a large network of stations, where fresh horses were kept.
+
+19
 00:00:59,030 --> 00:01:05,110
 So mail carriers could deliver official documents to far away parts of the kingdom more quickly.
 
-17
-00:01:05,110 --> 00:01:12,369
-Now during the Roman Empire, almost two thousand years ago, Roman rulers established their own system of roads
-
-18
-00:01:12,369 --> 00:01:16,300
-and stations for mail delivery across the Empire’s vast lands.
-
-19
-00:01:16,300 --> 00:01:22,554
-Interestingly, even after the Roman Empire ended, its postal system remained intact;
-
 20
-00:01:22,554 --> 00:01:26,884
-in other words, even though there was no official Roman Empire to govern the
+00:01:05,110 --> 00:01:09,120
+Now during the Roman Empire, almost two thousand years ago
 
 21
-00:01:26,884 --> 00:01:31,855
-territories, the people living in the area found the postal system created by the Empire
+00:01:09,160 --> 00:01:12,056
+Roman rulers established their own system of roads
 
 22
-00:01:31,855 --> 00:01:34,000
-so useful that they continued to use it.
+00:01:12,056 --> 00:01:16,300
+and stations for mail delivery across the Empire's vast lands.
 
 23
-00:01:34,000 --> 00:01:40,961
-Then about five hundred years ago, during the Renaissance in Europe, different countries began to travel farther
+00:01:16,300 --> 00:01:20,635
+Interestingly, even after the Roman Empire ended, its postal system remained intact;
 
 24
-00:01:40,961 --> 00:01:41,803
-and farther,
+00:01:20,635 --> 00:01:26,053
+in other words, even though there was no official Roman Empire to govern the territories,
 
 25
-00:01:41,803 --> 00:01:44,010
-when they started trading goods.
+00:01:26,053 --> 00:01:31,110
+the people living in the area found the postal system created by the Empire
 
 26
+00:01:31,110 --> 00:01:34,000
+so useful that they continued to use it.
+
+27
+00:01:34,000 --> 00:01:38,588
+Then about five hundred years ago, during the Renaissance in Europe,
+
+28
+00:01:38,588 --> 00:01:41,900
+different countries began to travel farther and farther
+
+29
+00:01:41,900 --> 00:01:44,010
+when they started trading goods.
+
+30
 00:01:44,010 --> 00:01:49,120
 This led to a need for commercial documents to be delivered quickly and safely.
 
-27
-00:01:49,120 --> 00:01:54,160
-That’s when private business got involved and started their own postal systems.
-
-28
-00:01:54,160 --> 00:01:58,940
-So now it wasn’t only government that were delivering mail,
-
-29
-00:01:58,940 --> 00:02:01,190
-and that’s pretty much what it is like in the world today.
-
-30
-00:02:01,190 --> 00:02:04,802
-Most governments operate their own postal services,
-
 31
-00:02:04,802 --> 00:02:10,039
-but there are also many private companies that deliver letters and documents.
+00:01:49,120 --> 00:01:54,160
+That's when private business got involved and started their own postal systems.
 
 32
+00:01:54,160 --> 00:01:57,382
+So now it wasn't only government that were delivering mail,
+
+33
+00:01:57,382 --> 00:02:01,190
+and that's pretty much what it is like in the world today.
+
+34
+00:02:01,190 --> 00:02:04,450
+Most governments operate their own postal services,
+
+35
+00:02:04,450 --> 00:02:10,039
+but there are also many private companies that deliver letters and documents.
+
+36
 00:02:10,039 --> 00:02:15,130
-Of course, with today’s technology, there may soon be no need for any of them.
+Of course, with today's technology, there may soon be no need for any of them.

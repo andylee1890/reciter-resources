@@ -3,81 +3,89 @@
 Listen to a talk in an architecture class.
 
 2
-00:00:03,250 --> 00:00:05,034
-Man:
+00:00:03,250 --> 00:00:08,850
+Man: Have you ever thought about how ancient concrete structures like Roman amphitheatres
 
 3
-00:00:05,034 --> 00:00:10,046
-Have you ever thought about how ancient concrete structures like Roman amphitheatres
-
-4
-00:00:10,046 --> 00:00:13,775
+00:00:08,850 --> 00:00:13,158
 and aqueducts have managed to last for thousands of years,
 
+4
+00:00:13,158 --> 00:00:17,100
+while modern concrete buildings seem to fall apart
+
 5
-00:00:13,775 --> 00:00:20,050
-while modern concrete buildings seem to fall apart and need replacing after just a few decades?
+00:00:17,100 --> 00:00:20,050
+and need replacing after just a few decades?
 
 6
 00:00:20,050 --> 00:00:27,220
 For a long time, researchers thought the secret to Roman concrete's durability was volcanic ash.
 
 7
-00:00:27,220 --> 00:00:31,873
+00:00:27,220 --> 00:00:31,276
 That makes sense, since volcanic ash was a major ingredient,
 
 8
-00:00:31,873 --> 00:00:38,170
-and it was explicitly described as such by architects and historians who were writing at the time.
+00:00:31,276 --> 00:00:35,600
+and it was explicitly described as such by architects
 
 9
+00:00:35,600 --> 00:00:38,170
+and historians who were writing at the time.
+
+10
 00:00:38,170 --> 00:00:45,000
 But it turns out the real secret was actually tiny chunks of calcium carbonate.
 
-10
-00:00:45,000 --> 00:00:50,472
-These formed because the Romans used dry, quick lime in their mix instead of
-
 11
-00:00:50,472 --> 00:00:55,823
-the way we make concrete today called Portland cement, where lime gets mixed with
+00:00:45,000 --> 00:00:47,814
+These formed because the Romans used dry,
 
 12
-00:00:55,823 --> 00:00:59,070
-water first, then blended with everything else.
+00:00:47,814 --> 00:00:54,246
+quick lime in their mix instead of the way we make concrete today called Portland cement,
 
 13
-00:00:59,070 --> 00:01:07,134
-When cracks show up in Roman concrete and water gets in, those calcium carbonate bits react with the water
+00:00:54,246 --> 00:00:59,070
+where lime gets mixed with water first, then blended with everything else.
 
 14
-00:01:07,134 --> 00:01:09,100
-and seal up the cracks.
+00:00:59,070 --> 00:01:03,667
+When cracks show up in Roman concrete and water gets in,
 
 15
-00:01:09,100 --> 00:01:14,028
-So the concrete basically heals itself, fixes the cracks,
+00:01:03,667 --> 00:01:09,100
+those calcium carbonate bits react with the water and seal up the cracks.
 
 16
-00:01:14,028 --> 00:01:16,060
-and gets stronger over time.
+00:01:09,100 --> 00:01:12,540
+So the concrete basically heals itself
 
 17
-00:01:16,060 --> 00:01:21,795
-Funny thing is, researchers have noticed these chunks in Roman concrete for ages,
+00:01:12,560 --> 00:01:16,060
+fixes the cracks, and gets stronger over time.
 
 18
-00:01:21,795 --> 00:01:27,270
-but they just figured they were a production flaw, like someone didn't mix the ingredients well enough.
+00:01:16,060 --> 00:01:20,918
+Funny thing is, researchers have noticed these chunks in Roman concrete for ages,
 
 19
-00:01:27,270 --> 00:01:32,336
-Anyway, considering how short lived modern concrete is,
+00:01:20,918 --> 00:01:24,520
+but they just figured they were a production flaw
 
 20
-00:01:32,336 --> 00:01:36,999
-and the fact that making it is bad for the environment, it's pretty exciting
+00:01:24,520 --> 00:01:27,270
+like someone didn't mix the ingredients well enough.
 
 21
-00:01:36,999 --> 00:01:43,010
-to think we might be able to use some of these ancient Roman tricks in future construction.
+00:01:27,270 --> 00:01:32,360
+Anyway, considering how short lived modern concrete is
+
+22
+00:01:32,360 --> 00:01:34,938
+and the fact that making it is bad for the environment,
+
+23
+00:01:34,938 --> 00:01:43,010
+it's pretty exciting to think we might be able to use some of these ancient Roman tricks in future construction.

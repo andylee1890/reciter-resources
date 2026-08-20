@@ -3,28 +3,28 @@
 Today we're going to look at an important area of science, namely nanotechnology.
 
 2
-00:00:06,590 --> 00:00:08,977
-So what is it?
+00:00:06,590 --> 00:00:11,400
+So what is it? Nano means tiny
 
 3
-00:00:08,977 --> 00:00:10,425
-Nano means tiny,
-
-4
-00:00:10,425 --> 00:00:17,000
+00:00:11,920 --> 00:00:17,000
 so it's science and engineering on the scale of atoms and molecules.
 
+4
+00:00:17,000 --> 00:00:21,540
+The idea is that by controlling and rearranging atoms
+
 5
-00:00:17,000 --> 00:00:24,290
-The idea is that by controlling and rearranging atoms, you can literally create anything.
+00:00:21,860 --> 00:00:24,290
+you can literally create anything.
 
 6
-00:00:24,290 --> 00:00:30,847
-However, as well see, the science of the small has some big implications affecting
+00:00:24,290 --> 00:00:30,560
+However, as well see, the science of the small has some big implications
 
 7
-00:00:30,847 --> 00:00:32,720
-us in many ways.
+00:00:30,820 --> 00:00:32,720
+affecting us in many ways.
 
 8
 00:00:32,720 --> 00:00:38,780
@@ -39,241 +39,213 @@ However, all new technologies have their teething problems.
 And with nanotechnology, society often gets the wrong idea about its capabilities.
 
 11
-00:00:50,000 --> 00:00:57,000
-Numerous science-fiction books and movies have raised people's fears about nanotechnology - with scenarios
+00:00:50,000 --> 00:00:55,923
+Numerous science-fiction books and movies have raised people's fears about nanotechnology -
 
 12
-00:00:57,000 --> 00:01:04,538
-such as inserting little nano-robots into your body that monitor everything you do without
+00:00:55,923 --> 00:01:06,154
+with scenarios such as inserting little nano-robots into your body that monitor everything you do without you realising it,
 
 13
-00:01:04,538 --> 00:01:06,154
-you realising it,
-
-14
 00:01:06,154 --> 00:01:11,000
 or self-replicating nano-robots that eventually take over the world.
 
-15
+14
 00:01:11,000 --> 00:01:17,210
 So how do we safeguard such a potentially powerful technology?
 
+15
+00:01:17,210 --> 00:01:22,739
+Some scientists recommend that nano-particles be treated as new chemicals
+
 16
-00:01:17,210 --> 00:01:24,951
-Some scientists recommend that nano-particles be treated as new chemicals with separate safety tests
+00:01:22,739 --> 00:01:26,610
+with separate safety tests and clear labelling.
 
 17
-00:01:24,951 --> 00:01:26,610
-and clear labelling.
+00:01:26,610 --> 00:01:33,160
+They believe that greater care should also be taken with nano-particles in laboratories and factories.
 
 18
-00:01:26,610 --> 00:01:32,287
-They believe that greater care should also be taken with nano-particles in laboratories
-
-19
-00:01:32,287 --> 00:01:33,160
-and factories.
-
-20
 00:01:33,160 --> 00:01:38,857
 Others have called for a withdrawal of new nano products such as cosmetics
 
-21
+19
 00:01:38,857 --> 00:01:43,240
 and a temporary halt to many kinds of nanotech research.
 
+20
+00:01:43,240 --> 00:01:48,059
+But as far as I'm concerned there's a need to plough ahead
+
+21
+00:01:48,059 --> 00:01:50,870
+with the discoveries and applications of nanotechnology.
+
 22
-00:01:43,240 --> 00:01:49,264
-But as far as l'm concerned there's a need to plough ahead with the discoveries
+00:01:50,870 --> 00:01:58,600
+I really believe that most scientists would welcome a way to guard against unethical uses of such technology.
 
 23
-00:01:49,264 --> 00:01:50,870
-and applications of nanotechnology.
-
-24
-00:01:50,870 --> 00:01:56,882
-I really believe that most scientists would welcome a way to guard against unethical
-
-25
-00:01:56,882 --> 00:01:58,600
-uses of such technology.
-
-26
 00:01:58,600 --> 00:02:04,770
 We can't go around thinking that all innovation is bad, all advancement is bad.
 
-27
-00:02:04,770 --> 00:02:10,055
-As with the debate about any new technology, it is how you use it
+24
+00:02:04,770 --> 00:02:10,810
+As with the debate about any new technology, it is how you use it that's important.
 
-28
-00:02:10,055 --> 00:02:10,810
-that's important.
-
-29
+25
 00:02:10,810 --> 00:02:19,050
 So let's look at some of its possible uses.
 
-30
+26
 00:02:19,050 --> 00:02:25,777
 Thanks to nanotechnology, there could be a major breakthrough in the field of transportation
 
-31
+27
 00:02:25,777 --> 00:02:29,140
 with the production of more durable metals.
 
+28
+00:02:29,140 --> 00:02:31,459
+These could be virtually unbreakable,
+
+29
+00:02:31,459 --> 00:02:34,640
+lighter and much more pliable
+
+30
+00:02:35,180 --> 00:02:38,880
+leading to planes that are 50 times lighter than at present.
+
+31
+00:02:38,880 --> 00:02:45,220
+Those same improved capabilities will dramatically reduce the cost of travelling into space
+
 32
-00:02:29,140 --> 00:02:35,633
-These could be virtually unbreakable, lighter and much more pliable leading to planes that
+00:02:45,740 --> 00:02:47,866
+making it more accessible to ordinary people
 
 33
-00:02:35,633 --> 00:02:38,880
-are 50 times lighter than at present.
+00:02:47,866 --> 00:02:51,460
+and opening up a totally new holiday destination.
 
 34
-00:02:38,880 --> 00:02:45,170
-Those same improved capabilities will dramatically reduce the cost of travelling into space making
+00:02:51,460 --> 00:03:00,280
+In terms of technology, the computer industry will be able to shrink computer parts down to minute sizes.
 
 35
-00:02:45,170 --> 00:02:51,460
-it more accessible to ordinary people and opening up a totally new holiday destination.
-
-36
-00:02:51,460 --> 00:02:58,320
-In terms of technology, the computer industry will be able to shrink computer parts
-
-37
-00:02:58,320 --> 00:03:00,280
-down to minute sizes.
-
-38
 00:03:00,280 --> 00:03:07,342
 We need nanotechnology in order to create a new generation of computers that will work even faster
 
-39
-00:03:07,342 --> 00:03:13,158
-and will have a million times more memory but will be about the size
+36
+00:03:07,342 --> 00:03:11,020
+and will have a million times more memory
 
-40
-00:03:13,158 --> 00:03:14,820
-of a sugar cube.
+37
+00:03:11,040 --> 00:03:14,820
+but will be about the size of a sugar cube.
 
-41
+38
 00:03:14,820 --> 00:03:20,100
 Nanotechnology could also revolutionise the way that we generate power.
 
+39
+00:03:20,100 --> 00:03:23,734
+The cost of solar cells will be drastically reduced
+
+40
+00:03:23,734 --> 00:03:28,580
+so harnessing this energy will be far more economical than at present.
+
+41
+00:03:28,580 --> 00:03:34,160
+But nanotechnology has much wider applications than this
+
 42
-00:03:20,100 --> 00:03:25,753
-The cost of solar cells will be drastically reduced so harnessing this energy will
+00:03:34,160 --> 00:03:38,140
+and could have an enormous impact on our environment.
 
 43
-00:03:25,753 --> 00:03:28,580
-be far more economical than at present.
-
-44
-00:03:28,580 --> 00:03:36,453
-But nanotechnology has much wider applications than this and could have an enormous impact
-
-45
-00:03:36,453 --> 00:03:38,140
-on our environment.
-
-46
 00:03:38,140 --> 00:03:45,207
 For instance, tiny airborne nano-robots could be programmed to actually rebuild the ozone layer,
 
-47
+44
 00:03:45,207 --> 00:03:50,760
 which could lessen the impact of global warming on our planet.
 
-48
+45
 00:03:50,760 --> 00:03:54,270
 That's a pretty amazing thought, isn't it?
 
+46
+00:03:54,270 --> 00:03:58,767
+On a more local scale, this new technology could help
+
+47
+00:03:58,767 --> 00:04:01,760
+with the clean-up of environmental disasters
+
+48
+00:04:02,360 --> 00:04:05,063
+as nanotechnology will allow us to remove oil
+
 49
-00:03:54,270 --> 00:04:00,566
-On a more local scale, this new technology could help with the clean-up of
-
-50
-00:04:00,566 --> 00:04:05,063
-environmental disasters as nanotechnology will allow us to remove oil
-
-51
 00:04:05,063 --> 00:04:09,110
 and other contaminants from the water far more effectively.
 
+50
+00:04:09,110 --> 00:04:11,731
+And, if nanotechnology progresses as expected -
+
+51
+00:04:11,731 --> 00:04:17,180
+as a sort of building block set of about 90 atoms
+
 52
-00:04:09,110 --> 00:04:14,788
-And, if nanotechnology progresses as expected - as a sort of building block set
+00:04:17,860 --> 00:04:21,340
+then you could build anything you wanted from the bottom up.
 
 53
-00:04:14,788 --> 00:04:20,903
-of about 90 atoms -then you could build anything you wanted from the bottom
+00:04:21,340 --> 00:04:26,440
+In terms of production, this means that you only use what you need
 
 54
-00:04:20,903 --> 00:04:21,340
-up.
+00:04:26,880 --> 00:04:29,110
+and so there wouldn't be any waste.
 
 55
-00:04:21,340 --> 00:04:26,779
-In terms of production, this means that you only use what you need and
+00:04:29,110 --> 00:04:35,180
+The notion that you could create anything at all has major implications for our health.
 
 56
-00:04:26,779 --> 00:04:29,110
-so there wouldn't be any waste.
-
-57
-00:04:29,110 --> 00:04:34,775
-The notion that you could create anything at all has major implications for our
-
-58
-00:04:34,775 --> 00:04:35,180
-health.
-
-59
 00:04:35,180 --> 00:04:39,630
 It means that we'll eventually be able to replicate anything.
 
-60
+57
 00:04:39,630 --> 00:04:43,330
 This would have a phenomenal effect on our society.
 
-61
-00:04:43,330 --> 00:04:48,449
-In time it could even lead to the eradication of famine through the introduction
+58
+00:04:43,330 --> 00:04:51,740
+In time it could even lead to the eradication of famine through the introduction of machines that produce food to feed the hungry.
 
-62
-00:04:48,449 --> 00:04:51,740
-of machines that produce food to feed the hungry.
-
-63
+59
 00:04:51,740 --> 00:04:58,780
 But it's in the area of medicine that nanotechnology may have its biggest impact.
 
-64
-00:04:58,780 --> 00:05:05,478
-How we detect disease will change as tiny biosensors are developed to analyse tests
+60
+00:04:58,780 --> 00:05:07,870
+How we detect disease will change as tiny biosensors are developed to analyse tests in minutes rather than days.
 
-65
-00:05:05,478 --> 00:05:07,870
-in minutes rather than days.
+61
+00:05:07,870 --> 00:05:16,290
+There's even speculation nano-robots could be used to slow the ageing process, lengthening life expectancy.
 
-66
-00:05:07,870 --> 00:05:15,729
-There's even speculation nano-robots could be used to slow the ageing process, lengthening life
+62
+00:05:16,290 --> 00:05:24,000
+As you can see, I'm very excited by the implications that could be available to us in the next few decades.
 
-67
-00:05:15,729 --> 00:05:16,290
-expectancy.
-
-68
-00:05:16,290 --> 00:05:21,430
-As you can see, I'm very excited by the implications that could be available
-
-69
-00:05:21,430 --> 00:05:24,000
-to us in the next few decades.
-
-70
+63
 00:05:24,000 --> 00:05:28,420
 Just how long it'll take, I honestly don't know.

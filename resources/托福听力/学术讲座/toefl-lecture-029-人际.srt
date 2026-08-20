@@ -3,93 +3,101 @@
 Listen to a talk in a neuroscience class.
 
 2
-00:00:02,290 --> 00:00:02,612
-Man:
+00:00:02,290 --> 00:00:05,154
+Man: Let's talk a little about language acquisition,
 
 3
-00:00:02,612 --> 00:00:05,991
-Let’s talk a little about language acquisition,
-
-4
-00:00:05,991 --> 00:00:09,290
+00:00:05,154 --> 00:00:09,290
 which is the process by which humans learn to understand and use language.
 
-5
-00:00:09,290 --> 00:00:12,647
-There are two main types of language acquisition:
+4
+00:00:09,290 --> 00:00:12,720
+There are two main types of language acquisition
 
-6
-00:00:12,647 --> 00:00:17,070
+5
+00:00:13,540 --> 00:00:17,070
 first language acquisition and second language acquisition.
 
+6
+00:00:17,070 --> 00:00:20,340
+First language acquisition occurs naturally
+
 7
-00:00:17,070 --> 00:00:25,114
-First language acquisition occurs naturally and with relative ease during early childhood, through interaction with family
+00:00:20,340 --> 00:00:23,028
+and with relative ease during early childhood,
 
 8
-00:00:25,114 --> 00:00:27,000
-and the surrounding environment.
+00:00:23,028 --> 00:00:27,000
+through interaction with family and the surrounding environment.
 
 9
-00:00:27,000 --> 00:00:31,337
-Children are able to pick up their native language quickly due to their innate
+00:00:27,000 --> 00:00:32,650
+Children are able to pick up their native language quickly due to their innate linguistic capabilities,
 
 10
-00:00:31,337 --> 00:00:37,240
-linguistic capabilities, a concept supported by the linguist Noam Chomsky’s theory of Universal Grammar.
+00:00:32,650 --> 00:00:37,240
+a concept supported by the linguist Noam Chomsky's theory of Universal Grammar.
 
 11
-00:00:37,240 --> 00:00:42,983
+00:00:37,240 --> 00:00:42,802
 Universal Grammar suggests that the ability to acquire language is innate to humans
 
 12
-00:00:42,983 --> 00:00:47,080
+00:00:42,802 --> 00:00:47,080
 and that all human languages share a common underlying structure.
 
 13
-00:00:47,080 --> 00:00:54,163
-Second language acquisition, on the other hand, often requires more conscious effort and formal education
+00:00:47,080 --> 00:00:50,130
+Second language acquisition, on the other hand,
 
 14
-00:00:54,163 --> 00:00:56,230
-and typically happens later in life.
+00:00:50,130 --> 00:00:52,940
+often requires more conscious effort
 
 15
-00:00:56,230 --> 00:01:03,592
-Several factors influence the ease and success of second language acquisition, including exposure to
+00:00:52,940 --> 00:00:56,230
+and formal education and typically happens later in life.
 
 16
-00:01:03,592 --> 00:01:06,100
-the language, age, and motivation.
+00:00:56,230 --> 00:01:01,944
+Several factors influence the ease and success of second language acquisition,
 
 17
-00:01:06,100 --> 00:01:15,293
-Motivation, in particular, plays a crucial role—highly motivated individuals are more likely to engage actively with the language
+00:01:01,944 --> 00:01:06,100
+including exposure to the language, age, and motivation.
 
 18
-00:01:15,293 --> 00:01:17,080
-and persist in their learning efforts.
+00:01:06,100 --> 00:01:09,940
+Motivation, in particular, plays a crucial role
 
 19
-00:01:17,080 --> 00:01:19,028
-Age is also significant;
+00:01:10,500 --> 00:01:13,127
+highly motivated individuals are more likely to engage actively
 
 20
-00:01:19,028 --> 00:01:24,369
-according to the critical period hypothesis, there is an optimal window in early childhood
+00:01:13,127 --> 00:01:17,080
+with the language and persist in their learning efforts.
 
 21
-00:01:24,369 --> 00:01:27,220
-during which language acquisition occurs most easily.
+00:01:17,080 --> 00:01:21,136
+Age is also significant; according to the critical period hypothesis,
 
 22
+00:01:21,136 --> 00:01:24,940
+there is an optimal window in early childhood during
+
+23
+00:01:24,940 --> 00:01:27,220
+which language acquisition occurs most easily.
+
+24
 00:01:27,220 --> 00:01:32,030
 After this period, acquiring a new language can be more challenging.
 
-23
-00:01:32,030 --> 00:01:37,436
-Understanding these processes helps educators and linguists develop effective teaching methods
+25
+00:01:32,030 --> 00:01:34,113
+Understanding these processes helps educators
 
-24
-00:01:37,436 --> 00:01:38,280
-and language learning tools.
+26
+00:01:34,113 --> 00:01:38,280
+and linguists develop effective teaching methods and language learning tools.

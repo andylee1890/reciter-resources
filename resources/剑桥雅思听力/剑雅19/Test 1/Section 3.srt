@@ -1,551 +1,283 @@
 1
-00:00:00,000 --> 00:00:00,142
-Collin:
+00:00:00,000 --> 00:00:01,760
+Collin: I haven't seen you for a bit, Marie.
 
 2
-00:00:00,142 --> 00:00:02,250
-I haven’t seen you for a bit, Marie.
+00:00:02,340 --> 00:00:05,040
+Marie: No. I've been busy with my project.
 
 3
-00:00:02,250 --> 00:00:02,775
-Marie:
+00:00:05,300 --> 00:00:09,060
+Collin: You're making a vegan alternative to eggs, aren't you
 
 4
-00:00:02,775 --> 00:00:02,856
-No.
+00:00:09,180 --> 00:00:11,960
+Something that doesn't use animal products?
 
 5
-00:00:02,856 --> 00:00:05,300
-I’ve been busy with my project.
+00:00:11,960 --> 00:00:17,100
+Marie: Yes. I'm using chickpeas. I had two main aims
 
 6
-00:00:05,300 --> 00:00:05,350
-Collin:
+00:00:17,100 --> 00:00:19,860
+when I first started looking for an alternative to eggs,
 
 7
-00:00:05,350 --> 00:00:09,513
-You’re making a vegan alternative to eggs, aren’t you?
+00:00:20,140 --> 00:00:24,020
+but actually I've found chickpeas have got more advantages.
 
 8
-00:00:09,513 --> 00:00:11,970
-Something that doesn’t use animal products?
+00:00:24,420 --> 00:00:24,960
+Collin: Right.
 
 9
-00:00:11,970 --> 00:00:12,359
-Marie:
+00:00:25,780 --> 00:00:30,100
+Marie: But how about your project on reusing waste food
 
 10
-00:00:12,359 --> 00:00:12,748
-Yes.
+00:00:30,620 --> 00:00:32,720
+you were looking at bread, weren't you?
 
 11
-00:00:12,748 --> 00:00:14,304
-I’m using chickpeas.
+00:00:33,100 --> 00:00:37,300
+Collin: Yes. It's been hard work, but I've enjoyed it.
 
 12
-00:00:14,304 --> 00:00:19,751
-I had two main aims when I first started looking for an alternative to
+00:00:37,300 --> 00:00:39,640
+The basic process was quite straightforward
 
 13
-00:00:19,751 --> 00:00:20,140
-eggs,
+00:00:40,280 --> 00:00:44,920
+breaking the stale bread down to a paste then reforming it.
 
 14
-00:00:20,140 --> 00:00:24,030
-but actually I’ve found chickpeas have got more advantages.
+00:00:45,380 --> 00:00:48,480
+Marie: But you were using 3-D printing, weren't you
 
 15
-00:00:24,030 --> 00:00:24,905
-Collin:
+00:00:48,520 --> 00:00:50,200
+to make the paste into biscuits?
 
 16
-00:00:24,905 --> 00:00:25,780
-Right.
+00:00:50,200 --> 00:00:54,140
+Collin: Yeah, I'd used that before, but in this project,
 
 17
-00:00:25,780 --> 00:00:26,187
-Marie:
+00:00:54,260 --> 00:00:58,000
+I had time to play around with different patterns for the biscuits
 
 18
-00:00:26,187 --> 00:00:31,473
-But how about your project on reusing waste food – you were looking at
+00:00:58,500 --> 00:01:00,760
+and finding how I could add fruit
 
 19
-00:00:31,473 --> 00:00:33,100
-bread, weren’t you?
+00:01:00,760 --> 00:01:04,140
+and vegetables to make them a more appetising colour
 
 20
-00:00:33,100 --> 00:00:33,522
-Collin:
-
-21
-00:00:33,522 --> 00:00:33,945
-Yes.
-
-22
-00:00:33,945 --> 00:00:36,057
-It’s been hard work,
-
-23
-00:00:36,057 --> 00:00:38,169
-but I’ve enjoyed it.
-
-24
-00:00:38,169 --> 00:00:43,660
-The basic process was quite straightforward – breaking the stale bread down to a
-
-25
-00:00:43,660 --> 00:00:45,350
-paste then reforming it.
-
-26
-00:00:45,350 --> 00:00:45,662
-Marie:
-
-27
-00:00:45,662 --> 00:00:50,028
-But you were using 3-D printing, weren’t you, to make the paste into
-
-28
-00:00:50,028 --> 00:00:50,340
-biscuits?
-
-29
-00:00:50,340 --> 00:00:50,701
-Collin:
-
-30
-00:00:50,701 --> 00:00:52,868
-Yeah, I’d used that before,
-
-31
-00:00:52,868 --> 00:00:58,648
-but in this project, I had time to play around with different patterns for the biscuits
-
-32
-00:00:58,648 --> 00:01:03,704
-and finding how I could add fruit and vegetables to make them a more
-
-33
-00:01:03,704 --> 00:01:04,427
-appetising colour,
-
-34
-00:01:04,427 --> 00:01:08,400
+00:01:04,520 --> 00:01:07,860
 and I was really pleased with what I managed to produce.
 
+21
+00:01:08,460 --> 00:01:16,720
+Marie: It must've been a great feeling to make something appetising out of bits of old bread that would've been thrown away otherwise.
+
+22
+00:01:16,720 --> 00:01:23,040
+Collin: It was. And I'm hoping that some of the restaurants in town will be interested in the biscuits.
+
+23
+00:01:23,780 --> 00:01:25,380
+I'm going to send them some samples.
+
+24
+00:01:26,280 --> 00:01:30,760
+Marie: I came across something on the internet yesterday that might interest you.
+
+25
+00:01:31,420 --> 00:01:36,160
+It was a company that's developed touch-sensitive sensors for food labels.
+
+26
+00:01:36,320 --> 00:01:37,410
+Collin: Mmm?
+
+27
+00:01:37,860 --> 00:01:40,960
+Marie: It's a special sort of label on the food package.
+
+28
+00:01:41,661 --> 00:01:43,432
+When the label's smooth,
+
+29
+00:01:43,680 --> 00:01:48,140
+the food is fresh and then when you can feel bumps on the label
+
+30
+00:01:48,380 --> 00:01:50,340
+that means the food's gone bad.
+
+31
+00:01:51,040 --> 00:01:55,280
+Marie: It started off as a project to help visually impaired people know
+
+32
+00:01:55,280 --> 00:01:57,340
+whether food was fit to eat or not.
+
+33
+00:01:58,260 --> 00:02:01,020
+Collin: Interesting. So just solid food?
+
+34
+00:02:01,340 --> 00:02:04,880
+Marie: No, things like milk and juice as well.
+
 35
-00:01:08,400 --> 00:01:08,738
-Marie:
+00:02:05,440 --> 00:02:11,660
+But actually, I thought it might be really good for drug storage in hospitals and pharmacies.
 
 36
-00:01:08,738 --> 00:01:13,808
-It must’ve been a great feeling to make something appetising out of bits of
+00:02:11,660 --> 00:02:14,880
+Collin: Right. And coming back to food
 
 37
-00:01:13,808 --> 00:01:16,850
-old bread that would’ve been thrown away otherwise.
+00:02:15,140 --> 00:02:19,860
+maybe it'd be possible to use it for other things besides freshness.
 
 38
-00:01:16,850 --> 00:01:17,183
-Collin:
-
-39
-00:01:17,183 --> 00:01:17,849
-It was.
-
-40
-00:01:17,849 --> 00:01:22,841
-And I’m hoping that some of the restaurants in town will be interested in
-
-41
-00:01:22,841 --> 00:01:23,507
-the biscuits.
-
-42
-00:01:23,507 --> 00:01:26,170
-I’m going to send them some samples.
-
-43
-00:01:26,170 --> 00:01:26,576
-Marie:
-
-44
-00:01:26,576 --> 00:01:31,448
-I came across something on the internet yesterday that might interest you.
-
-45
-00:01:31,448 --> 00:01:36,320
-It was a company that’s developed touch-sensitive sensors for food labels.
-
-46
-00:01:36,320 --> 00:01:36,865
-Collin:
-
-47
-00:01:36,865 --> 00:01:37,410
-Mmm?
-
-48
-00:01:37,410 --> 00:01:37,764
-Marie:
-
-49
-00:01:37,764 --> 00:01:41,661
-It’s a special sort of label on the food package.
-
-50
-00:01:41,661 --> 00:01:46,974
-When the label’s smooth, the food is fresh and then when you can feel
-
-51
-00:01:46,974 --> 00:01:48,391
-bumps on the label,
-
-52
-00:01:48,391 --> 00:01:50,870
-that means the food’s gone bad.
-
-53
-00:01:50,870 --> 00:01:51,217
-Marie:
-
-54
-00:01:51,217 --> 00:01:57,457
-It started off as a project to help visually impaired people know whether food was fit to eat
-
-55
-00:01:57,457 --> 00:01:58,150
-or not.
-
-56
-00:01:58,150 --> 00:01:58,672
-Collin:
-
-57
-00:01:58,672 --> 00:01:59,193
-Interesting.
-
-58
-00:01:59,193 --> 00:02:01,280
-So just solid food?
-
-59
-00:02:01,280 --> 00:02:01,698
-Marie:
-
-60
-00:02:01,698 --> 00:02:05,046
-No, things like milk and juice as well.
-
-61
-00:02:05,046 --> 00:02:10,903
-But actually, I thought it might be really good for drug storage in hospitals
-
-62
-00:02:10,903 --> 00:02:11,740
-and pharmacies.
-
-63
-00:02:11,740 --> 00:02:12,135
-Collin:
-
-64
-00:02:12,135 --> 00:02:12,531
-Right.
-
-65
-00:02:12,531 --> 00:02:18,463
-And coming back to food, maybe it’d be possible to use it for other
-
-66
-00:02:18,463 --> 00:02:19,650
-things besides freshness.
-
-67
-00:02:19,650 --> 00:02:24,000
+00:02:19,980 --> 00:02:23,860
 Like how many kilograms a joint of meat is, for example.
 
-68
-00:02:24,000 --> 00:02:24,581
-Marie:
+39
+00:02:24,060 --> 00:02:27,060
+Marie: Yes, there's all sorts of possibilities.
 
-69
-00:02:24,581 --> 00:02:28,650
-Yes, there’s all sorts of possibilities.
+40
+00:02:29,040 --> 00:02:35,680
+Collin: I was reading an article about food trends predicting how eating habits might change in the next few years.
 
-70
-00:02:28,650 --> 00:02:29,287
-Collin:
+41
+00:02:36,160 --> 00:02:40,060
+Marie: Oh - things like more focus on local products?
 
-71
-00:02:29,287 --> 00:02:38,205
-I was reading an article about food trends predicting how eating habits might change
+42
+00:02:40,580 --> 00:02:45,600
+That seems so obvious, but the shops are still full of imported foods.
 
-72
-00:02:38,205 --> 00:02:41,390
-in the next few years.
+43
+00:02:45,860 --> 00:02:48,880
+Collin: Yes, they need to be more proactive to address that.
 
-73
-00:02:41,390 --> 00:02:41,584
-Marie:
+44
+00:02:49,420 --> 00:02:53,020
+Marie: And somehow motivate consumers to change, yes.
 
-74
-00:02:41,584 --> 00:02:43,137
-Oh – things like more focus on local products?
+45
+00:02:53,460 --> 00:02:58,720
+Collin: One thing everyone's aware of is the need for a reduction in unnecessary packaging -
 
-75
-00:02:43,137 --> 00:02:43,913
-That seems so obvious,
-
-76
-00:02:43,913 --> 00:02:45,660
-but the shops are still full of imported foods.
-
-77
-00:02:45,660 --> 00:02:45,992
-Collin:
-
-78
-00:02:45,992 --> 00:02:49,310
-Yes, they need to be more proactive to address that.
-
-79
-00:02:49,310 --> 00:02:49,811
-Marie:
-
-80
-00:02:49,811 --> 00:02:53,320
-And somehow motivate consumers to change, yes.
-
-81
-00:02:53,320 --> 00:02:53,718
-Collin:
-
-82
-00:02:53,718 --> 00:02:59,681
-One thing everyone’s aware of is the need for a reduction in unnecessary packaging –
-
-83
-00:02:59,681 --> 00:03:04,849
+46
+00:02:59,140 --> 00:03:04,600
 but just about everything you buy in supermarkets is still covered in plastic.
 
-84
-00:03:04,849 --> 00:03:08,030
+47
+00:03:05,140 --> 00:03:07,900
 The government needs to do something about it.
 
-85
-00:03:08,030 --> 00:03:08,543
-Marie:
+48
+00:03:08,030 --> 00:03:11,620
+Marie: Absolutely. It's got to change.
 
-86
-00:03:08,543 --> 00:03:09,056
-Absolutely.
+49
+00:03:11,740 --> 00:03:17,000
+Collin: Do you think there'll be more interest in gluten- and lactose-free food?
 
-87
-00:03:09,056 --> 00:03:11,620
-It’s got to change.
+50
+00:03:17,380 --> 00:03:20,340
+Marie: For people with allergies or food intolerances?
 
-88
-00:03:11,620 --> 00:03:12,022
-Collin:
+51
+00:03:21,160 --> 00:03:27,460
+I don't know. Lots of people I know have been buying that type of food for years now.
 
-89
-00:03:12,022 --> 00:03:17,250
-Do you think there’ll be more interest in gluten- and lactose-free food?
+52
+00:03:27,580 --> 00:03:30,940
+Collin: Yes, even if they haven't been diagnosed with an allergy.
 
-90
-00:03:17,250 --> 00:03:17,631
-Marie:
+53
+00:03:31,660 --> 00:03:39,260
+Marie: That's right. One thing I've noticed is the number of branded products related to celebrity chefs -
 
-91
-00:03:17,631 --> 00:03:20,302
-For people with allergies or food intolerances?
+54
+00:03:39,940 --> 00:03:41,980
+people watch them cooking on TV
 
-92
-00:03:20,302 --> 00:03:21,828
-I don’t know.
+55
+00:03:41,980 --> 00:03:47,960
+and then buy things like spice mixes or frozen foods with the chef's name on...
 
-93
-00:03:21,828 --> 00:03:27,169
-Lots of people I know have been buying that type of food for years
+56
+00:03:48,640 --> 00:03:52,040
+Marie: I bought something like that once, but I won't again.
 
-94
-00:03:27,169 --> 00:03:27,550
-now.
+57
+00:03:52,700 --> 00:03:56,060
+Collin: Yeah - I bought a ready-made spice mix for chicken
 
-95
-00:03:27,550 --> 00:03:27,861
-Collin:
+58
+00:03:56,320 --> 00:04:00,960
+which was supposed to be used by a chef I'd seen on television,
 
-96
-00:03:27,861 --> 00:03:31,280
-Yes, even if they haven’t been diagnosed with an allergy.
+59
+00:04:01,240 --> 00:04:02,980
+and it didn't actually taste of anything.
 
-97
-00:03:31,280 --> 00:03:31,703
-Marie:
+60
+00:04:04,640 --> 00:04:09,700
+Marie: Mm. Did the article mention 'ghost kitchens' used to produce takeaway food?
 
-98
-00:03:31,703 --> 00:03:32,973
-That’s right.
+61
+00:04:09,880 --> 00:04:11,320
+Collin: No. What are they?
 
-99
-00:03:32,973 --> 00:03:39,320
-One thing I’ve noticed is the number of branded products related to celebrity chefs
+62
+00:04:11,780 --> 00:04:14,280
+Marie: Well, they might have the name of a restaurant,
 
-100
-00:03:39,320 --> 00:03:44,821
-– people watch them cooking on TV and then buy things like spice mixes
+63
+00:04:14,380 --> 00:04:19,020
+but actually they're a cooking facility just for delivery meals
 
-101
-00:03:44,821 --> 00:03:48,630
-or frozen foods with the chef’s name on .
+64
+00:04:19,460 --> 00:04:21,620
+the public don't ever go there.
 
-102
-00:03:48,630 --> 00:03:48,680
-.
+65
+00:04:21,830 --> 00:04:26,030
+Marie: But people aren't aware of that - it's all kept very quiet.
 
-103
-00:03:48,680 --> 00:03:48,730
-.
+66
+00:04:26,030 --> 00:04:30,760
+Collin: So people don't realise the food's not actually from the restaurant?
 
-104
-00:03:48,730 --> 00:03:48,925
-Marie:
+67
+00:04:30,760 --> 00:04:31,400
+Marie: Right.
 
-105
-00:03:48,925 --> 00:03:50,695
-I bought something like that once,
+68
+00:04:32,980 --> 00:04:38,300
+Collin: Did you know more and more people are using all sorts of different mushrooms now,
 
-106
-00:03:50,695 --> 00:03:52,170
-but I won’t again.
+69
+00:04:38,300 --> 00:04:42,720
+to treat different health concerns? Things like heart problems?
 
-107
-00:03:52,170 --> 00:03:52,518
-Collin:
+70
+00:04:43,680 --> 00:04:46,680
+Marie: Hmm. They might be taking a big risk there.
 
-108
-00:03:52,518 --> 00:03:57,039
-Yeah – I bought a ready-made spice mix for chicken which was supposed to
-
-109
-00:03:57,039 --> 00:04:00,518
-be used by a chef I’d seen on television,
-
-110
-00:04:00,518 --> 00:04:03,300
-and it didn’t actually taste of anything.
-
-111
-00:04:03,300 --> 00:04:03,810
-Marie:
-
-112
-00:04:03,810 --> 00:04:04,320
-Mm.
-
-113
-00:04:04,320 --> 00:04:09,930
-Did the article mention ‘ghost kitchens’ used to produce takeaway food?
-
-114
-00:04:09,930 --> 00:04:10,306
-Collin:
-
-115
-00:04:10,306 --> 00:04:10,682
-No.
-
-116
-00:04:10,682 --> 00:04:11,810
-What are they?
-
-117
-00:04:11,810 --> 00:04:12,168
-Marie:
-
-118
-00:04:12,168 --> 00:04:15,389
-Well, they might have the name of a restaurant,
-
-119
-00:04:15,389 --> 00:04:20,756
-but actually they’re a cooking facility just for delivery meals – the public don’t
-
-120
-00:04:20,756 --> 00:04:21,830
-ever go there.
-
-121
-00:04:21,830 --> 00:04:22,130
-Marie:
-
-122
-00:04:22,130 --> 00:04:26,030
-But people aren’t aware of that – it’s all kept very quiet.
-
-123
-00:04:26,030 --> 00:04:26,368
-Collin:
-
-124
-00:04:26,368 --> 00:04:30,760
-So people don’t realise the food’s not actually from the restaurant?
-
-125
-00:04:30,760 --> 00:04:31,495
-Marie:
-
-126
-00:04:31,495 --> 00:04:32,230
-Right.
-
-127
-00:04:32,230 --> 00:04:32,669
-Collin:
-
-128
-00:04:32,669 --> 00:04:38,818
-Did you know more and more people are using all sorts of different mushrooms
-
-129
-00:04:38,818 --> 00:04:41,453
-now, to treat different health concerns?
-
-130
-00:04:41,453 --> 00:04:43,210
-Things like heart problems?
-
-131
-00:04:43,210 --> 00:04:43,607
-Marie:
-
-132
-00:04:43,607 --> 00:04:44,003
-Hmm.
-
-133
-00:04:44,003 --> 00:04:46,780
-They might betaking a big risk there.
-
-134
-00:04:46,780 --> 00:04:47,216
-Collin:
-
-135
-00:04:47,216 --> 00:04:52,443
-Yes, it’s hard to know which varieties are safe to eat.
-
-136
-00:04:52,443 --> 00:04:53,750
-Anyway maybe now .
-
-137
-00:04:53,750 --> 00:04:53,800
-.
-
-138
-00:04:53,800 --> 00:04:53,850
-.
+71
+00:04:47,280 --> 00:04:53,260
+Collin: Yes, it's hard to know which varieties are safe to eat. Anyway maybe now...

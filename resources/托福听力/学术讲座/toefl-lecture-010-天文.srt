@@ -7,85 +7,89 @@ Listen to a short talk about Astronomy.
 In ancient times, many people believed the earth was a flat disc.
 
 3
-00:00:06,110 --> 00:00:11,131
-Well over 2000 years ago, the ancient Greek philosophers were able to put forward
+00:00:06,110 --> 00:00:07,703
+Well over 2000 years ago,
 
 4
-00:00:11,131 --> 00:00:13,120
-two good arguments proving that it was not.
+00:00:07,703 --> 00:00:13,120
+the ancient Greek philosophers were able to put forward two good arguments proving that it was not.
 
 5
 00:00:13,120 --> 00:00:18,060
 Direct observations of heavenly bodies was the basis of both these arguments.
 
 6
-00:00:18,060 --> 00:00:22,598
-First, the Greeks knew that during eclipses of the moon, the earth was between the sun
+00:00:18,060 --> 00:00:20,940
+First, the Greeks knew that during eclipses of the moon
 
 7
-00:00:22,598 --> 00:00:23,140
-and the moon,
+00:00:21,260 --> 00:00:23,317
+the earth was between the sun and the moon,
 
 8
-00:00:23,140 --> 00:00:28,020
-and they saw that during these eclipses, the earth’s shadow on the moon was always round.
+00:00:23,317 --> 00:00:25,340
+and they saw that during these eclipses
 
 9
+00:00:25,620 --> 00:00:28,020
+the earth's shadow on the moon was always round.
+
+10
 00:00:28,020 --> 00:00:31,090
 They realized this could be true only if the earth was spherical.
 
-10
-00:00:31,090 --> 00:00:35,386
-If the earth were a flat disc, then its shadow during eclipses would not
-
 11
-00:00:35,386 --> 00:00:39,040
-be a perfect circle, it would be stretched out into a long ellipse.
+00:00:31,090 --> 00:00:36,390
+If the earth were a flat disc, then its shadow during eclipses would not be a perfect circle,
 
 12
+00:00:36,390 --> 00:00:39,040
+it would be stretched out into a long ellipse.
+
+13
 00:00:39,040 --> 00:00:43,050
 The second argument was based on what the Greeks saw during their travels.
 
-13
-00:00:43,050 --> 00:00:44,635
-They noticed that the North Star,
-
 14
-00:00:44,635 --> 00:00:48,368
-or Polaris, appeared lower in the sky when they traveled south, in more northerly
+00:00:43,050 --> 00:00:45,320
+They noticed that the North Star, or Polaris
 
 15
-00:00:48,368 --> 00:00:52,000
-regions, the North Star appeared to them to be much higher in the sky.
+00:00:45,320 --> 00:00:47,509
+appeared lower in the sky when they traveled south,
 
 16
-00:00:52,000 --> 00:00:55,377
-By the way, it was also from this difference in the apparent position of
+00:00:47,509 --> 00:00:52,755
+in more northerly regions, the North Star appeared to them to be much higher in the sky. By the way,
 
 17
-00:00:55,377 --> 00:01:00,100
-the North Star that the Greeks first calculated the approximate distance around the circumference of the earth.
+00:00:52,755 --> 00:01:00,100
+it was also from this difference in the apparent position of the North Star that the Greeks first calculated the approximate distance around the circumference of the earth.
 
 18
-00:01:00,100 --> 00:01:04,006
-a figure recorded in ancient documents says 400000 stadia,
+00:01:00,100 --> 00:01:04,200
+A figure recorded in ancient documents says 400000 stadia
 
 19
-00:01:04,006 --> 00:01:06,060
+00:01:04,380 --> 00:01:06,060
 that's the plural of the word stadium.
 
 20
-00:01:06,060 --> 00:01:10,075
-Today, it’s not known exactly what length one stadium represents,
+00:01:06,060 --> 00:01:09,449
+Today, it's not known exactly what length one stadium represents,
 
 21
-00:01:10,075 --> 00:01:14,070
-but let’s say it was about 200 meters, the length of many athletic stadiums.
+00:01:09,449 --> 00:01:14,070
+but let's say it was about 200 meters, the length of many athletic stadiums.
 
 22
-00:01:14,070 --> 00:01:20,072
-This would make the Greek’s estimate about twice the figure accepted today, a very good estimate for those writing
+00:01:14,070 --> 00:01:17,732
+This would make the Greek's estimate about twice the figure accepted today,
 
 23
-00:01:20,072 --> 00:01:22,240
+00:01:17,732 --> 00:01:19,820
+a very good estimate for those writing
+
+24
+00:01:19,820 --> 00:01:22,240
 so long before even the first telescope was invented.

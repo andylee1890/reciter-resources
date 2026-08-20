@@ -1,43 +1,19 @@
 1
-00:00:00,000 --> 00:00:00,892
-Man:
+00:00:00,000 --> 00:00:03,000
+Man: Are you going to the supermarket today by any chance?
 
 2
-00:00:00,892 --> 00:00:03,000
-Are you going to the supermarket today by any chance?
+00:00:03,000 --> 00:00:07,020
+Woman: I was just there yesterday. Why?
 
 3
-00:00:03,000 --> 00:00:04,656
-Woman:
+00:00:07,020 --> 00:00:13,710
+Man: I suddenly remembered that I'm supposed to bring some drinks to my team's lunch meeting tomorrow at work,
 
 4
-00:00:04,656 --> 00:00:07,020
-I was just there yesterday. Why?
+00:00:13,710 --> 00:00:18,170
+and I'm in the middle of a project I need to finish tonight.
 
 5
-00:00:07,020 --> 00:00:07,070
-Man:
-
-6
-00:00:07,070 --> 00:00:12,436
-I suddenly remembered that I’m supposed to bring some drinks to my team’s lunch
-
-7
-00:00:12,436 --> 00:00:13,710
-meeting tomorrow at work,
-
-8
-00:00:13,710 --> 00:00:18,170
-and I’m in the middle of a project I need to finish tonight.
-
-9
-00:00:18,170 --> 00:00:18,220
-Woman:
-
-10
-00:00:18,220 --> 00:00:20,364
-You’re in luck.
-
-11
-00:00:20,364 --> 00:00:22,120
-I stocked up yesterday.
+00:00:18,170 --> 00:00:22,120
+Woman: You're in luck. I stocked up yesterday.

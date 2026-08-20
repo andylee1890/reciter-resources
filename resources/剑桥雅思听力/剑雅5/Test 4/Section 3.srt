@@ -1,331 +1,291 @@
 1
-00:00:00,000 --> 00:00:04,918
-Right, Jason and Karin, now I asked you to look at the case study
+00:00:00,000 --> 00:00:08,390
+Right, Jason and Karin, now I asked you to look at the case study for Box Telecom as part of your exam assessment.
 
 2
-00:00:04,918 --> 00:00:08,390
-for Box Telecom as part of your exam assessment.
-
-3
-00:00:08,390 --> 00:00:12,628
+00:00:08,390 --> 00:00:12,241
 It's interesting because they are in the middle of problems at the moment
 
-4
-00:00:12,628 --> 00:00:15,500
+3
+00:00:12,241 --> 00:00:15,500
 and I want you to track how they deal with them.
 
+4
+00:00:15,500 --> 00:00:19,835
+Let's start with you, Karin. Having read through the case study,
+
 5
-00:00:15,500 --> 00:00:18,150
-Let's start with you, Karin.
+00:00:19,835 --> 00:00:26,140
+can you just summarise what the problems were that Box Telecom had to take on board?
 
 6
-00:00:18,150 --> 00:00:22,987
-Having read through the case study, can you just summarise what the problems were
+00:00:26,140 --> 00:00:31,880
+Um, yeah... Well of course what first came to their attention was that
 
 7
-00:00:22,987 --> 00:00:26,140
-that Box Telecom had to take on board?
+00:00:31,880 --> 00:00:33,955
+despite a new advertising campaign,
 
 8
-00:00:26,140 --> 00:00:27,008
-Um, yeah...
+00:00:33,955 --> 00:00:39,600
+they were suffering from falling sales, and this is something that had many causes.
 
 9
-00:00:27,008 --> 00:00:33,087
-Well of course what first came to their attention was that, despite a new
+00:00:39,600 --> 00:00:42,200
+On top of that immediate problem
 
 10
-00:00:33,087 --> 00:00:39,166
-advertising campaign, they were suffering from falling sales-and this is something that had many
+00:00:42,540 --> 00:00:45,344
+what had also happened over the last two years was that,
 
 11
-00:00:39,166 --> 00:00:39,600
-causes.
+00:00:45,344 --> 00:00:48,140
+although they had invested in an expansion plan
 
 12
-00:00:39,600 --> 00:00:44,330
-On top of that immediate problem, what had also happened over the last two
+00:00:48,140 --> 00:00:50,750
+they had to face up to increased competition.
 
 13
-00:00:44,330 --> 00:00:49,061
-years was that, although they had invested in an expansion plan, they had to
+00:00:50,750 --> 00:00:54,880
+And, before they had a chance to get to grips with the effects of that
 
 14
-00:00:49,061 --> 00:00:50,750
-face up to increased competition.
+00:00:55,100 --> 00:00:57,123
+they were stalled by a strike
 
 15
-00:00:50,750 --> 00:00:54,999
-And, before they had a chance to get to grips with the effects of
+00:00:57,123 --> 00:01:02,889
+and it was just when they were thinking about making a colossal investment in new machinery for their plants.
 
 16
-00:00:54,999 --> 00:00:59,247
-that, they were stalled by a strike and it was just when they were
-
-17
-00:00:59,247 --> 00:01:02,889
-thinking about making a colossal investment in new machinery for their plants.
-
-18
 00:01:02,889 --> 00:01:04,710
 So they were really in trouble.
 
-19
-00:01:04,710 --> 00:01:06,791
-Yes, I think that's fair.
+17
+00:01:04,710 --> 00:01:10,121
+Yes, I think that's fair. And Jason, you contacted the company, didn't you?
 
-20
-00:01:06,791 --> 00:01:10,121
-And Jason, you contacted the company, didn't you?
-
-21
+18
 00:01:10,121 --> 00:01:14,700
 What did the company define as the reasons for these problems?
 
+19
+00:01:14,700 --> 00:01:17,260
+Well, I think they've hit on the right things
+
+20
+00:01:17,640 --> 00:01:19,952
+It would be easy to say they had invested too heavily,
+
+21
+00:01:19,952 --> 00:01:23,520
+or at the wrong time, but in fact the signs were good
+
 22
-00:01:14,700 --> 00:01:18,570
-Well, I think they've hit on the right things-it would be easy to say
+00:01:23,520 --> 00:01:26,310
+and what they were set back by was high interest rates.
 
 23
-00:01:18,570 --> 00:01:19,952
-they had invested too heavily,
+00:01:26,310 --> 00:01:29,460
+At the same time, their longer-term problems
 
 24
-00:01:19,952 --> 00:01:21,334
-or at the wrong time,
+00:01:29,460 --> 00:01:30,856
+which were affecting their market share,
 
 25
-00:01:21,334 --> 00:01:25,204
-but in fact the signs were good and what they were set back by
+00:01:30,856 --> 00:01:33,700
+were eventually credited to poor training
 
 26
-00:01:25,204 --> 00:01:26,310
-was high interest rates.
+00:01:33,700 --> 00:01:37,500
+and having looked at the details in their last report I think that's right.
 
 27
-00:01:26,310 --> 00:01:28,758
-At the same time, their longer-term problems,
+00:01:37,500 --> 00:01:43,120
+So, onto the larger issues then. Karin, what do you think the company will do?
 
 28
-00:01:28,758 --> 00:01:33,653
-which were affecting their market share, were eventually credited to poor training-and having looked
+00:01:43,120 --> 00:01:54,950
+Hmm... Well, obviously they have the choice of accepting the very favourable terms that another company-KMG Plc-have given them to buy them out.
 
 29
-00:01:33,653 --> 00:01:37,500
-at the details in their last report I think that's right.
-
-30
-00:01:37,500 --> 00:01:39,748
-So, onto the larger issues then.
-
-31
-00:01:39,748 --> 00:01:43,120
-Karin, what do you think the company will do?
-
-32
-00:01:43,120 --> 00:01:43,634
-Hmm...
-
-33
-00:01:43,634 --> 00:01:50,835
-Well, obviously they have the choice of accepting the very favourable terms that another
-
-34
-00:01:50,835 --> 00:01:54,950
-company-KMG Plc-have given them to buy them out.
-
-35
 00:01:54,950 --> 00:01:58,930
 That would mean creating a new company with a new image.
 
-36
-00:01:58,930 --> 00:02:03,996
-Or they could decide on a bolder move and offer some new shares if
+30
+00:01:58,930 --> 00:02:04,720
+Or they could decide on a bolder move and offer some new shares if they wanted.
 
-37
-00:02:03,996 --> 00:02:04,720
-they wanted.
+31
+00:02:04,720 --> 00:02:09,120
+But I think they're much more cautious than that
 
-38
-00:02:04,720 --> 00:02:09,363
-But I think they're much more cautious than that and expect they will start
+32
+00:02:09,120 --> 00:02:10,689
+and expect they will start trying to find individuals
 
-39
-00:02:09,363 --> 00:02:14,005
-trying to find individuals who'd be prepared to back them with some of the
+33
+00:02:10,689 --> 00:02:15,000
+who'd be prepared to back them with some of the capital they need.
 
-40
-00:02:14,005 --> 00:02:15,000
-capital the need.
-
-41
+34
 00:02:15,000 --> 00:02:20,042
 Well, you mustn't always assume that dramatic problems require dramatic solutions.
 
-42
+35
 00:02:20,042 --> 00:02:26,000
 Sometimes there's a simple fix such as changing the guy at the top.
 
+36
+00:02:26,000 --> 00:02:28,780
+If they truly are cautious
+
+37
+00:02:29,380 --> 00:02:32,930
+then I suspect they will seek to shut down some of their shops.
+
+38
+00:02:32,930 --> 00:02:35,380
+But a more ambitious approach
+
+39
+00:02:35,380 --> 00:02:39,591
+and one which I think would have more chance of success,
+
+40
+00:02:39,591 --> 00:02:41,680
+would be to alter how they're running things
+
+41
+00:02:41,940 --> 00:02:45,004
+The management layers and the processes.
+
+42
+00:02:45,004 --> 00:02:50,000
+So in your analysis try to think of all the options. Jason?
+
 43
-00:02:26,000 --> 00:02:31,390
-If they truly are cautious, then I suspect they will seek to shut down
-
-44
-00:02:31,390 --> 00:02:32,930
-some of their shops.
-
-45
-00:02:32,930 --> 00:02:35,012
-But a more ambitious approach,
-
-46
-00:02:35,012 --> 00:02:40,840
-and one which I think would have more chance of success, would be to
-
-47
-00:02:40,840 --> 00:02:45,004
-alter how they're running things-the management layers and the processes.
-
-48
-00:02:45,004 --> 00:02:49,584
-So in your analysis try to think of all the options.
-
-49
-00:02:49,584 --> 00:02:50,000
-Jason?
-
-50
 00:02:50,000 --> 00:02:54,984
 Yes, it's interesting because I've found it a really useful company to study.
 
-51
-00:02:54,984 --> 00:03:00,736
-Its problems cross all types of industries and it's lucky it's so big - a smaller
+44
+00:02:54,984 --> 00:02:59,969
+Its problems cross all types of industries and it's lucky it's so big -
 
-52
-00:03:00,736 --> 00:03:04,570
-or even medium-sized company would have gone under by now.
+45
+00:02:59,969 --> 00:03:04,570
+a smaller or even medium-sized company would have gone under by now.
 
-53
-00:03:04,570 --> 00:03:09,224
-Ah well in fact, what I want you two to do is to go
+46
+00:03:04,570 --> 00:03:09,780
+Ah well in fact, what I want you two to do is to go away
 
-54
-00:03:09,224 --> 00:03:12,880
-away when we've finished our discussion today and write a report.
+47
+00:03:09,780 --> 00:03:12,880
+when we've finished our discussion today and write a report.
 
-55
+48
 00:03:12,880 --> 00:03:19,078
 We've looked in general at the telecommunications market in the UK over the last few sessions
 
-56
+49
 00:03:19,078 --> 00:03:23,339
 and I want you to take Box Telecom as an example
 
-57
+50
 00:03:23,339 --> 00:03:27,600
 and suggest some ways in which they might overcome their problems.
 
-58
+51
 00:03:27,600 --> 00:03:32,185
-And outline the reasons why you think as you do-but try
+And outline the reasons why you think as you do, but try
 
-59
-00:03:32,185 --> 00:03:37,603
-and keep it intrinsic to the company rather than dragging in other examples.
+52
+00:03:32,185 --> 00:03:39,270
+and keep it intrinsic to the company rather than dragging in other examples. Is that OK, Karin?
 
-60
-00:03:37,603 --> 00:03:39,270
-Is that OK, Karin?
+53
+00:03:39,270 --> 00:03:42,500
+Yes, I think I can do that
 
-61
-00:03:39,270 --> 00:03:41,959
-Yes, I think I can do that.
+54
+00:03:42,780 --> 00:03:46,570
+Personally I've got great hopes for it. I think it will recover.
 
-62
-00:03:41,959 --> 00:03:44,649
-Personally I've got great hopes for it.
+55
+00:03:46,570 --> 00:03:51,601
+That advertising campaign they did was very strong and they're very innovative
 
-63
-00:03:44,649 --> 00:03:46,570
-I think it will recover.
+56
+00:03:51,601 --> 00:03:54,480
+with their products. They set new trends
 
-64
-00:03:46,570 --> 00:03:52,440
-That advertising campaign they did was very strong and they're very innovative with their
-
-65
-00:03:52,440 --> 00:03:54,117
-products-they set new trends.
-
-66
-00:03:54,117 --> 00:03:57,890
+57
+00:03:55,080 --> 00:03:57,890
 The company's got to recover, don't you think, Jason?
 
+58
+00:03:57,890 --> 00:04:00,450
+Hmmm. I'm not sure. I think it can
+
+59
+00:04:00,450 --> 00:04:06,300
+but it's not a foregone conclusion unless they manage to attract the right level of investment.
+
+60
+00:04:06,300 --> 00:04:08,364
+The company definitely needs a boost
+
+61
+00:04:08,364 --> 00:04:13,180
+and to attract more highly skilled workers if their recovery is to be long-lasting.
+
+62
+00:04:13,180 --> 00:04:16,060
+When I was talking to the marketing manager
+
+63
+00:04:16,380 --> 00:04:19,560
+he said to me that he thinks the company had got a great management team
+
+64
+00:04:19,720 --> 00:04:21,677
+but he would say that, wouldn't he?
+
+65
+00:04:21,677 --> 00:04:24,021
+-but they are suffering from having to work
+
+66
+00:04:24,021 --> 00:04:27,830
+with outdated production machinery and that could cost a lot to put right.
+
 67
-00:03:57,890 --> 00:03:58,987
-Hmmm-I'm not sure.
+00:04:27,830 --> 00:04:31,400
+Well, personally I think the stock market is to blame
 
 68
-00:03:58,987 --> 00:04:04,106
-I think it can but it's not a foregone conclusion unless they manage to
-
-69
-00:04:04,106 --> 00:04:06,300
-attract the right level of investment.
-
-70
-00:04:06,300 --> 00:04:11,116
-The company definitely needs a boost and to attract more highly skilled workers if
-
-71
-00:04:11,116 --> 00:04:13,180
-their recovery is to be long-lasting.
-
-72
-00:04:13,180 --> 00:04:17,282
-When I was talking to the marketing manager he said to me that he
-
-73
-00:04:17,282 --> 00:04:21,384
-thinks the company had got a great management team-but he would say that, wouldn't
-
-74
-00:04:21,384 --> 00:04:21,677
-he?
-
-75
-00:04:21,677 --> 00:04:25,193
--but they are suffering from having to work with outdated production machinery
-
-76
-00:04:25,193 --> 00:04:27,830
-and that could cost a lot to put right.
-
-77
-00:04:27,830 --> 00:04:31,137
-Well, personally I think the stock market is to blame.
-
-78
-00:04:31,137 --> 00:04:34,443
+00:04:31,880 --> 00:04:34,443
 I think they were expecting too much of the company
 
-79
+69
 00:04:34,443 --> 00:04:37,750
 and then inevitably it looked bad when it didn't perform.
 
-80
+70
 00:04:37,750 --> 00:04:40,855
 The market should have had more realistic expectations.
 
-81
+71
 00:04:40,855 --> 00:04:44,736
 And I disagree with you about the advertising campaign Karin.
 
-82
+72
 00:04:44,736 --> 00:04:49,005
 That's where they could do with some innovation-to get sales kick-started.
 
-83
+73
 00:04:49,005 --> 00:04:52,110
 Anyway, let's see what you come up with...

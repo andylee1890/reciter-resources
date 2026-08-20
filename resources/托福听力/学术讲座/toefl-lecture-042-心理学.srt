@@ -7,105 +7,97 @@ Listen to a talk in a psychology class.
 Have you ever wondered why certain songs evoke strong emotions or memories?
 
 3
-00:00:10,130 --> 00:00:14,583
+00:00:10,130 --> 00:00:15,085
 This phenomenon is rooted in the field of music psychology,
 
 4
-00:00:14,583 --> 00:00:20,040
+00:00:15,085 --> 00:00:20,040
 which examines how music impacts our feelings, thoughts, and behaviors.
 
 5
-00:00:20,040 --> 00:00:26,722
-Research indicates that music can trigger a range of emotional responses through its rhythm,
+00:00:20,040 --> 00:00:29,010
+Research indicates that music can trigger a range of emotional responses through its rhythm, melody, and lyrics.
 
 6
-00:00:26,722 --> 00:00:29,010
-melody, and lyrics.
-
-7
 00:00:29,010 --> 00:00:34,150
 For example, upbeat songs often make us feel happy and energetic.
 
-8
+7
 00:00:34,150 --> 00:00:40,230
 On the other hand, slow, melancholic tunes can evoke sadness or nostalgia.
 
-9
-00:00:40,230 --> 00:00:42,358
-But why does this happen?
+8
+00:00:40,230 --> 00:00:42,440
+But why does this happen
 
-10
-00:00:42,358 --> 00:00:48,040
+9
+00:00:43,720 --> 00:00:48,040
 One theory suggests that music stimulates the brain's reward system.
 
-11
+10
 00:00:48,040 --> 00:00:51,260
 That is, it releases a chemical called dopamine.
 
-12
+11
 00:00:51,260 --> 00:00:57,120
 Dopamine is a neurotransmitter associated with pleasure and motivation.
 
-13
+12
 00:00:57,120 --> 00:01:02,120
 In addition, music is often intertwined with personal experiences.
 
-14
+13
 00:01:02,120 --> 00:01:08,527
 Hearing a song that played during a significant life event can bring back vivid memories
 
-15
+14
 00:01:08,527 --> 00:01:11,090
 and the emotions associated with them.
 
+15
+00:01:11,090 --> 00:01:17,030
+I should point out, though, that individual responses to music can vary greatly.
+
 16
-00:01:11,090 --> 00:01:13,375
-I should point out, though,
-
-17
-00:01:13,375 --> 00:01:17,030
-that individual responses to music can vary greatly.
-
-18
-00:01:17,030 --> 00:01:21,080
+00:01:17,030 --> 00:01:21,233
 Idiosyncratic factors that play a role in how we perceive
 
+17
+00:01:21,233 --> 00:01:25,500
+and react to different types of music include cultural background
+
+18
+00:01:25,920 --> 00:01:27,538
+personality, and the context in
+
 19
-00:01:21,080 --> 00:01:25,535
-and react to different types of music include cultural background, personality,
+00:01:27,538 --> 00:01:30,520
+which we hear the song Now
 
 20
-00:01:25,535 --> 00:01:29,180
-and the context in which we hear the song
+00:01:30,780 --> 00:01:35,945
+this effect that music has on emotional well-being is the basis for music therapy,
 
 21
-00:01:29,180 --> 00:01:35,279
-Now, this effect that music has on emotional well-being is the basis for music
-
-22
-00:01:35,279 --> 00:01:35,715
-therapy,
-
-23
-00:01:35,715 --> 00:01:42,250
+00:01:35,945 --> 00:01:42,250
 which has been useful in treating a variety of psychological conditions like stress or anxiety.
 
-24
-00:01:42,250 --> 00:01:49,161
-By leveraging music's emotional power, music therapists can help patients reduce stress
+22
+00:01:42,250 --> 00:01:45,129
+By leveraging music's emotional power,
 
-25
-00:01:49,161 --> 00:01:52,040
+23
+00:01:45,129 --> 00:01:49,360
+music therapists can help patients reduce stress
+
+24
+00:01:49,360 --> 00:01:52,040
 and improve their overall well-being.
 
+25
+00:01:52,040 --> 00:02:01,302
+More research is needed, but our growing understanding of music psychology points to its even greater benefits for mental health
+
 26
-00:01:52,040 --> 00:01:53,892
-More research is needed,
-
-27
-00:01:53,892 --> 00:02:01,302
-but our growing understanding of music psychology points to its even greater benefits for mental health
-
-28
 00:02:01,302 --> 00:02:04,080
 and emotional regulation in the future.

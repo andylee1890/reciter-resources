@@ -1,71 +1,31 @@
 1
-00:00:00,000 --> 00:00:00,685
-WOMAN:
+00:00:00,000 --> 00:00:05,280
+WOMAN: Did you see the list of activities taking place at the community center that was released today?
 
 2
-00:00:00,685 --> 00:00:05,280
-Did you see the list of activities taking place at the community center that was released today?
+00:00:05,280 --> 00:00:09,064
+MAN: Not yet. Is there anything on there that looks interesting?
 
 3
-00:00:05,280 --> 00:00:05,521
-MAN:
-
-4
-00:00:05,521 --> 00:00:06,728
-Not yet.
-
-5
-00:00:06,728 --> 00:00:09,064
-Is there anything on there that looks interesting?
-
-6
 00:00:09,064 --> 00:00:12,160
 I'd love to do some fun activities this summer.
 
+4
+00:00:12,160 --> 00:00:15,173
+WOMAN: I'm thinking of taking part in the fishing contest.
+
+5
+00:00:15,173 --> 00:00:19,090
+Would you like to join me? We can be on the same team.
+
+6
+00:00:19,090 --> 00:00:24,030
+MAN: Okay, that sounds good to me. Do we have to pay a fee to enter?
+
 7
-00:00:12,160 --> 00:00:12,461
-WOMAN:
+00:00:24,030 --> 00:00:28,074
+WOMAN: I don't, because I'm a member of the community center,
 
 8
-00:00:12,461 --> 00:00:15,173
-I'm thinking of taking part in the fishing contest.
-
-9
-00:00:15,173 --> 00:00:16,981
-Would you like to join me?
-
-10
-00:00:16,981 --> 00:00:19,090
-We can be on the same team.
-
-11
-00:00:19,090 --> 00:00:19,399
-MAN:
-
-12
-00:00:19,399 --> 00:00:19,708
-Okay,
-
-13
-00:00:19,708 --> 00:00:21,251
-that sounds good to me.
-
-14
-00:00:21,251 --> 00:00:24,030
-Do we have to pay a fee to enter?
-
-15
-00:00:24,030 --> 00:00:24,398
-WOMAN:
-
-16
-00:00:24,398 --> 00:00:25,133
-I don't,
-
-17
-00:00:25,133 --> 00:00:28,074
-because I'm a member of the community center,
-
-18
 00:00:28,074 --> 00:00:33,220
 but since you don't belong to it, it will cost you $15 to enter.

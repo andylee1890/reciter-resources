@@ -1,71 +1,27 @@
 1
-00:00:00,000 --> 00:00:01,449
-Woman:
+00:00:00,000 --> 00:00:06,280
+Woman: What do you know about this rock festival that's happening?
 
 2
-00:00:01,449 --> 00:00:06,280
-What do you know about this rock festival that's happening?
+00:00:06,280 --> 00:00:09,070
+Man: Not much. Do you know what time it starts?
 
 3
-00:00:06,280 --> 00:00:07,028
-Man:
+00:00:09,070 --> 00:00:11,240
+Woman: It kicks off at 3:00 PM.
 
 4
-00:00:07,028 --> 00:00:07,432
-Not much.
+00:00:11,240 --> 00:00:15,220
+Man: That's perfect. Oh, I remember hearing that. There will be food trucks.
 
 5
-00:00:07,432 --> 00:00:09,070
-Do you know what time it starts?
+00:00:15,220 --> 00:00:18,080
+Woman: Oh, right. And a dance floor.
 
 6
-00:00:09,070 --> 00:00:09,120
-Woman:
+00:00:18,080 --> 00:00:20,940
+Man: No way. You can't keep us away
 
 7
-00:00:09,120 --> 00:00:11,240
-It kicks off at 3:00 PM.
-
-8
-00:00:11,240 --> 00:00:11,290
-Man:
-
-9
-00:00:11,290 --> 00:00:12,158
-That's perfect.
-
-10
-00:00:12,158 --> 00:00:13,689
-Oh, I remember hearing that.
-
-11
-00:00:13,689 --> 00:00:15,220
-There will be food trucks.
-
-12
-00:00:15,220 --> 00:00:15,629
-Woman:
-
-13
-00:00:15,629 --> 00:00:16,446
-Oh, right.
-
-14
-00:00:16,446 --> 00:00:18,080
-And a dance floor.
-
-15
-00:00:18,080 --> 00:00:18,393
-Man:
-
-16
-00:00:18,393 --> 00:00:19,018
-No way.
-
-17
-00:00:19,018 --> 00:00:20,581
-You can't keep us away.
-
-18
-00:00:20,581 --> 00:00:24,020
+00:00:21,380 --> 00:00:24,020
 Let's get there early so we can get a good spot.

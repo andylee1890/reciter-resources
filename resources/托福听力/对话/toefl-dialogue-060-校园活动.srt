@@ -1,59 +1,39 @@
 1
-00:00:00,000 --> 00:00:01,810
-Man:
+00:00:00,000 --> 00:00:07,220
+Man: Did you go to the rock concert in the park yesterday afternoon?
 
 2
-00:00:01,810 --> 00:00:07,220
-Did you go to the rock concert in the park yesterday afternoon?
+00:00:07,220 --> 00:00:10,877
+Woman: I went to a gardening workshop at the University Center instead.
 
 3
-00:00:07,220 --> 00:00:08,223
-Woman:
-
-4
-00:00:08,223 --> 00:00:11,453
-I went to a gardening workshop at the University Center instead.
-
-5
-00:00:11,453 --> 00:00:13,620
+00:00:10,877 --> 00:00:13,620
 It's sad that I missed out on the concert,
 
-6
-00:00:13,620 --> 00:00:17,887
+4
+00:00:13,620 --> 00:00:17,760
 but I'm starting my own garden and I need to know all the ins
 
-7
-00:00:17,887 --> 00:00:20,020
+5
+00:00:17,760 --> 00:00:20,020
 and outs of growing herbs and vegetables.
 
-8
-00:00:20,020 --> 00:00:20,070
-Man:
+6
+00:00:20,020 --> 00:00:23,250
+Man: Nice. And to be honest, you didn't miss that much.
 
-9
-00:00:20,070 --> 00:00:20,607
-Nice.
-
-10
-00:00:20,607 --> 00:00:23,250
-And to be honest, you didn't miss that much.
-
-11
+7
 00:00:23,250 --> 00:00:24,210
 Woman: No?
 
-12
-00:00:24,210 --> 00:00:24,567
-Man:
+8
+00:00:24,210 --> 00:00:27,500
+Man: Well, I love some of the songs they played
 
-13
-00:00:24,567 --> 00:00:27,783
-Well, I love some of the songs they played,
-
-14
-00:00:27,783 --> 00:00:30,998
+9
+00:00:27,500 --> 00:00:30,998
 but the acoustics in the park aren't very good,
 
-15
+10
 00:00:30,998 --> 00:00:36,000
 so the sound quality was rather mediocre and didn't do justice to the songs.

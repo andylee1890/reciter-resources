@@ -1,83 +1,35 @@
 1
-00:00:00,000 --> 00:00:01,211
-MEN:
+00:00:00,000 --> 00:00:04,280
+MEN: Hello, Ms. Maxwell. You wanted me to visit to talk about something?
 
 2
-00:00:01,211 --> 00:00:01,655
-Hello, Ms.
+00:00:04,280 --> 00:00:09,250
+WOMAN: That's correct. I need to talk about the tenants upstairs in the unit above me.
 
 3
-00:00:01,655 --> 00:00:02,120
-Maxwell.
-
-4
-00:00:02,120 --> 00:00:04,280
-You wanted me to visit to talk about something?
-
-5
-00:00:04,280 --> 00:00:04,330
-WOMAN:
-
-6
-00:00:04,330 --> 00:00:05,212
-That's correct.
-
-7
-00:00:05,212 --> 00:00:09,250
-I need to talk about the tenants upstairs in the unit above me.
-
-8
 00:00:09,250 --> 00:00:12,230
 They keep making too much noise late at night.
 
-9
-00:00:12,230 --> 00:00:12,531
-MEN:
+4
+00:00:12,230 --> 00:00:17,040
+MEN: I see. Have you spoken with them in person to request that they be quieter?
 
-10
-00:00:12,531 --> 00:00:13,132
-I see.
+5
+00:00:17,040 --> 00:00:18,863
+WOMAN: I have, but that didn't work.
 
-11
-00:00:13,132 --> 00:00:17,040
-Have you spoken with them in person to request that they be quieter?
-
-12
-00:00:17,040 --> 00:00:17,300
-WOMAN:
-
-13
-00:00:17,300 --> 00:00:17,821
-I have,
-
-14
-00:00:17,821 --> 00:00:18,863
-but that didn't work.
-
-15
+6
 00:00:18,863 --> 00:00:23,290
 They still listen to music and play the guitar at all hours of the day and night.
 
-16
-00:00:23,290 --> 00:00:23,593
-MEN:
+7
+00:00:23,290 --> 00:00:29,280
+MEN: Okay, I'd better pay a visit to 4C and have a talk with them. When I'm done
 
-17
-00:00:23,593 --> 00:00:27,842
-Okay, I'd better pay a visit to 4C and have a talk with them.
+8
+00:00:29,640 --> 00:00:30,270
+I'll come back down here.
 
-18
-00:00:27,842 --> 00:00:30,270
-When I'm done, I'll come back down here.
-
-19
-00:00:30,270 --> 00:00:30,837
-WOMAN:
-
-20
-00:00:30,837 --> 00:00:31,404
-Thanks.
-
-21
-00:00:31,404 --> 00:00:34,240
-I really appreciate your assistance.
+9
+00:00:30,270 --> 00:00:34,240
+WOMAN: Thanks. I really appreciate your assistance.

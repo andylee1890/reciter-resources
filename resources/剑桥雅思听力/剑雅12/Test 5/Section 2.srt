@@ -1,283 +1,239 @@
 1
-00:00:00,000 --> 00:00:01,510
-Section 2
+00:00:00,000 --> 00:00:08,320
+Good morning everyone. My name's Joy Parkins and I'm the restaurant manager.
 
 2
-00:00:01,510 --> 00:00:03,278
-Good morning everyone.
+00:00:08,320 --> 00:00:14,410
+And I understand that none of you have had any previous experience as kitchen assistants.
 
 3
-00:00:03,278 --> 00:00:08,320
-My name's Joy Parkins and I'm the restaurant manager.
+00:00:14,410 --> 00:00:17,220
+Well, you might be feeling a bit nervous now
 
 4
-00:00:08,320 --> 00:00:14,410
-And I understand that none of you've had any previous experience as kitchen assistants.
-
-5
-00:00:14,410 --> 00:00:17,686
-Well, you might be feeling a bit nervous now,
-
-6
-00:00:17,686 --> 00:00:21,690
+00:00:17,220 --> 00:00:21,690
 but most of our kitchen assistants say they enjoy the work.
 
+5
+00:00:21,690 --> 00:00:25,529
+OK, they might get shouted at sometimes, but it's nothing personal,
+
+6
+00:00:25,529 --> 00:00:29,400
+and they're pleased that they have so many different things to do
+
 7
-00:00:21,690 --> 00:00:24,133
-OK, they might get shouted at sometimes,
-
-8
-00:00:24,133 --> 00:00:25,529
-but it's nothing personal,
-
-9
-00:00:25,529 --> 00:00:29,716
-and they're pleased that they have so many different things to do,
-
-10
-00:00:29,716 --> 00:00:31,810
+00:00:29,460 --> 00:00:31,810
 which means they never get bored.
 
+8
+00:00:31,810 --> 00:00:35,936
+And I'll tell you straightaway that if you do well,
+
+9
+00:00:35,936 --> 00:00:41,300
+we might think about moving you up and giving you some more responsibility.
+
+10
+00:00:41,300 --> 00:00:47,220
+Right, well, you've all shown up on time, which is an excellent start.
+
 11
-00:00:31,810 --> 00:00:38,824
-And I'll tell you straightaway that if you do well, we might think about moving you up
-
-12
-00:00:38,824 --> 00:00:41,300
-and giving you some more responsibility.
-
-13
-00:00:41,300 --> 00:00:44,943
-Right, well, you've all shown up on time,
-
-14
-00:00:44,943 --> 00:00:47,220
-which is an excellent start.
-
-15
 00:00:47,220 --> 00:00:51,333
 Now I'm glad to see none of you have unsuitable footwear,
 
-16
-00:00:51,333 --> 00:00:56,942
-so that's good - you need to be careful as the floors can get very wet
+12
+00:00:51,333 --> 00:00:57,690
+so that's good - you need to be careful as the floors can get very wet and slippery.
 
-17
-00:00:56,942 --> 00:00:57,690
-and slippery.
-
-18
+13
 00:00:57,690 --> 00:01:02,426
 Those of you with long hair have got it well out of the way,
 
+14
+00:01:02,426 --> 00:01:05,680
+but some of you'll need to remove your rings and bracelets
+
+15
+00:01:06,120 --> 00:01:08,516
+just put them somewhere safe for today,
+
+16
+00:01:08,516 --> 00:01:13,590
+and remember to leave them at home tomorrow, as they can be a safety hazard.
+
+17
+00:01:13,590 --> 00:01:18,048
+Now it's going to be a busy day for you all today -
+
+18
+00:01:18,048 --> 00:01:23,620
+we don't have any tables free for this evening, and only a few for lunch.
+
 19
-00:01:02,426 --> 00:01:06,824
-but some of you'll need to remove your rings and bracelets - just put
+00:01:23,620 --> 00:01:26,195
+Fortunately we've got our Head Chef back -
 
 20
-00:01:06,824 --> 00:01:08,516
-them somewhere safe for today,
+00:01:26,195 --> 00:01:32,080
+he was away on holiday all last week which meant the other chefs had extra work.
 
 21
-00:01:08,516 --> 00:01:13,252
-and remember to leave them at home tomorrow, as they can be a safety
-
-22
-00:01:13,252 --> 00:01:13,590
-hazard.
-
-23
-00:01:13,590 --> 00:01:18,419
-Now it's going to be a busy day for you all today - we
-
-24
-00:01:18,419 --> 00:01:21,391
-don't have any tables free for this evening,
-
-25
-00:01:21,391 --> 00:01:23,620
-and only a few for lunch.
-
-26
-00:01:23,620 --> 00:01:28,402
-Fortunately we've got our Head Chef back - he was away on holiday all
-
-27
-00:01:28,402 --> 00:01:32,080
-last week which meant the other chefs had extra work.
-
-28
-00:01:32,080 --> 00:01:37,316
+00:01:32,080 --> 00:01:35,620
 Now, I'll tell you a bit more about the job in a minute
 
-29
-00:01:37,316 --> 00:01:39,330
+22
+00:01:36,040 --> 00:01:39,330
 but first, some general regulations.
 
+23
+00:01:39,330 --> 00:01:42,800
+For all of you, whatever your age
+
+24
+00:01:43,120 --> 00:01:47,970
+there's some equipment you mustn't use until you've been properly trained,
+
+25
+00:01:47,970 --> 00:01:53,730
+like the waste disposal system for example, for health and safety reasons.
+
+26
+00:01:53,730 --> 00:01:57,700
+Then I think there are two of you here who are under 18
+
+27
+00:01:58,600 --> 00:02:01,670
+that's Emma and Jake, isn't it?
+
+28
+00:02:01,670 --> 00:02:07,360
+Right. so for you two, the meat slicer is out of bounds.
+
+29
+00:02:07,360 --> 00:02:14,830
+And of course none of you are allowed to use the electric mixer until you've been shown how it works.
+
 30
-00:01:39,330 --> 00:01:46,050
-For all of you, whatever your age, there's some equipment you mustn't use until
+00:02:14,830 --> 00:02:19,260
+Now you may have heard that this can be a stressful job
 
 31
-00:01:46,050 --> 00:01:52,290
-you've been properly trained, like the waste disposal system for example, for health
-
-32
-00:01:52,290 --> 00:01:53,730
-and safety reasons.
-
-33
-00:01:53,730 --> 00:01:59,998
-Then I think there are two of you here who are under 18 - that's Emma
-
-34
-00:01:59,998 --> 00:02:01,670
-and Jake, isn't it?
-
-35
-00:02:01,670 --> 00:02:01,720
-Right.
-
-36
-00:02:01,720 --> 00:02:07,360
-so for you two, the meat slicer is out of bounds.
-
-37
-00:02:07,360 --> 00:02:12,589
-And of course none of you are allowed to use the electric mixer until
-
-38
-00:02:12,589 --> 00:02:14,830
-you've been shown how it works.
-
-39
-00:02:14,830 --> 00:02:19,533
-Now you may have heard that this can be a stressful job,
-
-40
-00:02:19,533 --> 00:02:23,060
+00:02:19,260 --> 00:02:23,060
 and I have to say that can be true.
 
-41
-00:02:23,060 --> 00:02:27,868
-You'll be working an eight-hour day for the first week, though you'll have the
+32
+00:02:23,060 --> 00:02:26,495
+You'll be working an eight-hour day for the first week,
 
-42
-00:02:27,868 --> 00:02:31,990
-chance to do overtime after that as well if you want to.
+33
+00:02:26,495 --> 00:02:31,990
+though you'll have the chance to do overtime after that as well if you want to.
 
-43
+34
 00:02:31,990 --> 00:02:37,090
 But however long the hours are, you'll get a break in the middle.
 
-44
-00:02:37,090 --> 00:02:42,006
-What you will find is that you're on your feet all day long, lifting
+35
+00:02:37,090 --> 00:02:41,655
+What you will find is that you're on your feet all day long,
 
-45
-00:02:42,006 --> 00:02:42,708
-and carrying,
+36
+00:02:41,655 --> 00:02:46,220
+lifting and carrying, so if you're not fit now you soon will be!
 
-46
-00:02:42,708 --> 00:02:46,220
-so if you're not fit now you soon will be!
+37
+00:02:46,220 --> 00:02:50,081
+You'll find you don't have much chance to take it easy -
 
-47
-00:02:46,220 --> 00:02:50,783
-You'll find you don't have much chance to take it easy - when someone
+38
+00:02:50,081 --> 00:02:54,644
+when someone tells you to do something you need to do it straightaway -
 
-48
-00:02:50,783 --> 00:02:54,644
-tells you to do something you need to do it straightaway -
+39
+00:02:54,644 --> 00:03:00,260
+but at least we do have a very efficient air conditioning system compared with some kitchens.
 
-49
-00:02:54,644 --> 00:02:59,558
-but at least we do have a very efficient air conditioning system compared with
-
-50
-00:02:59,558 --> 00:03:00,260
-some kitchens.
-
-51
+40
 00:03:00,260 --> 00:03:04,470
 Now let me tell you about some of the people you need to know.
 
-52
-00:03:04,470 --> 00:03:10,732
-So as I said, I'm Joy Parkins and I decide who does what during the day
+41
+00:03:04,470 --> 00:03:09,080
+So as I said, I'm Joy Parkins and I decide
 
-53
-00:03:10,732 --> 00:03:13,080
-and how long they work for.
+42
+00:03:09,080 --> 00:03:13,080
+who does what during the day and how long they work for.
 
-54
-00:03:13,080 --> 00:03:17,202
-I'll be trying to get you to work with as many different people in
+43
+00:03:13,080 --> 00:03:18,380
+I'll be trying to get you to work with as many different people in the kitchen as possible,
 
-55
-00:03:17,202 --> 00:03:18,380
-the kitchen as possible,
-
-56
+44
 00:03:18,380 --> 00:03:21,030
 so that you learn while you're on the job.
 
-57
+45
 00:03:21,030 --> 00:03:26,520
 One person whose name you must remember is David Field.
 
-58
-00:03:26,520 --> 00:03:32,451
-If you injure yourself at all, even if it's really minor, you must report to him
+46
+00:03:26,520 --> 00:03:30,597
+If you injure yourself at all, even if it's really minor,
 
-59
-00:03:32,451 --> 00:03:37,640
-and he'll make sure the incident is recorded and you get the appropriate treatment.
+47
+00:03:30,597 --> 00:03:34,740
+you must report to him and he'll make sure the incident is recorded
 
-60
-00:03:37,640 --> 00:03:41,040
-He's trained to give basic treatment to staff himself,
+48
+00:03:34,740 --> 00:03:37,640
+and you get the appropriate treatment.
 
-61
-00:03:41,040 --> 00:03:44,440
+49
+00:03:37,640 --> 00:03:41,180
+He's trained to give basic treatment to staff himself
+
+50
+00:03:41,260 --> 00:03:44,440
 or he'll send you off somewhere else if necessary.
 
-62
-00:03:44,440 --> 00:03:50,616
-Then there's Dexter Wills - he's the person you need to see if you smash a plate
+51
+00:03:44,440 --> 00:03:48,880
+Then there's Dexter Wills - he's the person you need to see
 
-63
-00:03:50,616 --> 00:03:52,160
-or something like that.
+52
+00:03:48,880 --> 00:03:52,160
+if you smash a plate or something like that.
 
-64
-00:03:52,160 --> 00:03:58,708
-Don't just leave it and hope no one will notice - it's really important to get things noted
+53
+00:03:52,160 --> 00:03:56,012
+Don't just leave it and hope no one will notice -
 
-65
-00:03:58,708 --> 00:04:01,790
+54
+00:03:56,012 --> 00:03:58,340
+it's really important to get things noted
+
+55
+00:03:58,340 --> 00:04:01,790
 and replaced or there could be problems later.
 
-66
+56
 00:04:01,790 --> 00:04:05,050
 And finally, there's Mike Smith.
 
-67
+57
 00:04:05,050 --> 00:04:09,978
 He's the member of staff who takes care of all the stores of perishables,
 
-68
-00:04:09,978 --> 00:04:13,850
-so if you notice we're getting low in flour or sugar
+58
+00:04:09,978 --> 00:04:14,554
+so if you notice we're getting low in flour or sugar or something,
 
-69
-00:04:13,850 --> 00:04:18,778
-or something, make sure you let him know so he can put in an
+59
+00:04:14,554 --> 00:04:19,130
+make sure you let him know so he can put in an order.
 
-70
-00:04:18,778 --> 00:04:19,130
-order.
-
-71
+60
 00:04:19,130 --> 00:04:22,390
-OK, now the next thing ...
+OK, now the next thing...

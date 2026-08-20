@@ -1,451 +1,235 @@
 1
-00:00:00,000 --> 00:00:01,509
-Jacinta:
+00:00:00,000 --> 00:00:04,890
+Jacinta: Hello, Easy Life Cleaning Services, Jacinta speaking.
 
 2
-00:00:01,509 --> 00:00:04,890
-Hello, Easy Life Cleaning Services, Jacinta speaking.
+00:00:04,890 --> 00:00:08,540
+Client: Oh hello. I'm looking for a cleaning service for my apartment
 
 3
-00:00:04,890 --> 00:00:05,333
-Client:
+00:00:09,080 --> 00:00:10,750
+do you do domestic cleaning?
 
 4
-00:00:05,333 --> 00:00:05,655
-Oh hello.
+00:00:10,750 --> 00:00:11,500
+Jacinta: Sure.
 
 5
-00:00:05,655 --> 00:00:10,750
-I'm looking for a cleaning service for my apartment - do you do domestic cleaning?
+00:00:11,500 --> 00:00:16,980
+Client: Well, it's just a one-bedroom flat. Do you have a basic cleaning package?
 
 6
-00:00:10,750 --> 00:00:10,800
-Jacinta:
+00:00:16,980 --> 00:00:22,799
+Jacinta: Yes. For a one-bedroom flat we're probably looking at about two hours for a clean.
 
 7
-00:00:10,800 --> 00:00:11,500
-Sure.
+00:00:22,799 --> 00:00:26,600
+So we'd do a thorough clean of all surfaces in each room
 
 8
-00:00:11,500 --> 00:00:11,550
-Client:
-
-9
-00:00:11,550 --> 00:00:14,240
-Well, it's just a one-bedroom flat.
-
-10
-00:00:14,240 --> 00:00:16,980
-Do you have a basic cleaning package?
-
-11
-00:00:16,980 --> 00:00:17,344
-Jacinta:
-
-12
-00:00:17,344 --> 00:00:17,707
-Yes.
-
-13
-00:00:17,707 --> 00:00:22,799
-For a one-bedroom flat we're probably looking at about two hours for a clean.
-
-14
-00:00:22,799 --> 00:00:27,163
-So we'd do a thorough clean of all surfaces in each room,
-
-15
-00:00:27,163 --> 00:00:28,982
+00:00:26,600 --> 00:00:28,982
 and polish them where necessary.
 
-16
+9
 00:00:28,982 --> 00:00:30,800
 Does your apartment have carpets?
 
-17
-00:00:30,800 --> 00:00:31,132
-Client:
+10
+00:00:30,800 --> 00:00:34,790
+Client: No, I don't have any, but the floor would need cleaning.
 
-18
-00:00:31,132 --> 00:00:32,795
-No, I don't have any,
+11
+00:00:34,790 --> 00:00:37,900
+Jacinta: Of course - we'd do that in every room
 
-19
-00:00:32,795 --> 00:00:34,790
-but the floor would need cleaning.
-
-20
-00:00:34,790 --> 00:00:35,098
-Jacinta:
-
-21
-00:00:35,098 --> 00:00:37,558
-Of course - we'd do that in every room.
-
-22
-00:00:37,558 --> 00:00:40,940
+12
+00:00:37,900 --> 00:00:40,940
 And we'd do a thorough clean of the kitchen and bathroom.
 
-23
-00:00:40,940 --> 00:00:41,295
-Client:
+13
+00:00:40,940 --> 00:00:41,650
+Client: OK.
 
-24
-00:00:41,295 --> 00:00:41,650
-OK.
+14
+00:00:41,650 --> 00:00:46,281
+Jacinta: Then we have some additional services which you can request if you want -
 
-25
-00:00:41,650 --> 00:00:41,981
-Jacinta:
-
-26
-00:00:41,981 --> 00:00:46,281
-Then we have some additional services which you can request if you want -
-
-27
+15
 00:00:46,281 --> 00:00:50,250
 so for example, we can clean your oven for you every week.
 
-28
-00:00:50,250 --> 00:00:50,602
-Client:
+16
+00:00:50,250 --> 00:00:54,830
+Client: Actually, I hardly ever use that, but can you do the fridge?
 
-29
-00:00:50,602 --> 00:00:52,716
-Actually, I hardly ever use that,
+17
+00:00:54,830 --> 00:00:57,630
+Jacinta: Sure. Would you like that done every week?
 
-30
-00:00:52,716 --> 00:00:54,830
-but can you do the fridge?
+18
+00:00:57,630 --> 00:01:03,470
+Client: Yes, definitely. And would ironing clothes be an additional service you can do?
 
-31
-00:00:54,830 --> 00:00:55,141
-Jacinta:
+19
+00:01:03,470 --> 00:01:04,730
+Jacinta: Yes, of course.
 
-32
-00:00:55,141 --> 00:00:55,452
-Sure.
+20
+00:01:04,730 --> 00:01:08,240
+Client: It wouldn't be much, just my shirts for work that week.
 
-33
-00:00:55,452 --> 00:00:57,630
-Would you like that done every week?
+21
+00:01:08,240 --> 00:01:12,550
+Jacinta: That's fine. And we could also clean your microwave if you want.
 
-34
-00:00:57,630 --> 00:00:58,047
-Client:
+22
+00:01:12,550 --> 00:01:16,680
+Client: No, I wipe that out pretty regularly so there's no need for that.
 
-35
-00:00:58,047 --> 00:00:58,881
-Yes, definitely.
+23
+00:01:16,680 --> 00:01:22,566
+Jacinta: We also offer additional services that you might want a bit less often, say every month.
 
-36
-00:00:58,881 --> 00:01:03,470
-And would ironing clothes be an additional service you can do?
+24
+00:01:22,566 --> 00:01:27,760
+So for example, if the inside of your windows need cleaning, we could do that.
 
-37
-00:01:03,470 --> 00:01:03,785
-Jacinta:
+25
+00:01:27,760 --> 00:01:31,352
+Client: Yes, that'd be good. I'm on the fifteenth floor,
 
-38
-00:01:03,785 --> 00:01:04,730
-Yes, of course.
+26
+00:01:31,352 --> 00:01:34,480
+so the outside gets done regularly by specialists
 
-39
-00:01:04,730 --> 00:01:05,023
-Client:
-
-40
-00:01:05,023 --> 00:01:08,240
-It wouldn't be much, just my shirts for work that week.
-
-41
-00:01:08,240 --> 00:01:08,572
-Jacinta:
-
-42
-00:01:08,572 --> 00:01:09,235
-That's fine.
-
-43
-00:01:09,235 --> 00:01:12,550
-And we could also clean your microwave if you want.
-
-44
-00:01:12,550 --> 00:01:12,845
-Client:
-
-45
-00:01:12,845 --> 00:01:16,680
-No, I wipe that out pretty regularly so there's no need for that.
-
-46
-00:01:16,680 --> 00:01:17,026
-Jacinta:
-
-47
-00:01:17,026 --> 00:01:21,874
-We also offer additional services that you might want a bit less often, say
-
-48
-00:01:21,874 --> 00:01:22,566
-every month.
-
-49
-00:01:22,566 --> 00:01:27,414
-So for example, if the inside of your windows need cleaning, we could do
-
-50
-00:01:27,414 --> 00:01:27,760
-that.
-
-51
-00:01:27,760 --> 00:01:28,119
-Client:
-
-52
-00:01:28,119 --> 00:01:28,478
-Yes,
-
-53
-00:01:28,478 --> 00:01:29,556
-that'd be good.
-
-54
-00:01:29,556 --> 00:01:31,352
-I'm on the fifteenth floor,
-
-55
-00:01:31,352 --> 00:01:34,226
-so the outside gets done regularly by specialists,
-
-56
-00:01:34,226 --> 00:01:37,100
+27
+00:01:34,780 --> 00:01:37,100
 but the inside does get a bit grubby.
 
-57
-00:01:37,100 --> 00:01:37,375
-Jacinta:
+28
+00:01:37,100 --> 00:01:40,680
+Jacinta: And we could arrange for your curtains to get cleaned if necessary.
 
-58
-00:01:37,375 --> 00:01:40,680
-And we could arrange for your curtains to get cleaned if necessary.
+29
+00:01:40,680 --> 00:01:45,270
+Client: No, they're OK. But would you be able to do something about the balcony?
 
-59
-00:01:40,680 --> 00:01:40,986
-Client:
+30
+00:01:45,270 --> 00:01:48,420
+It's quite small and I don't use it much
 
-60
-00:01:40,986 --> 00:01:41,904
-No, they're OK.
-
-61
-00:01:41,904 --> 00:01:45,270
-But would you be able to do something about the balcony?
-
-62
-00:01:45,270 --> 00:01:48,024
-It's quite small and I don't use it much,
-
-63
-00:01:48,024 --> 00:01:51,390
+31
+00:01:48,460 --> 00:01:51,390
 but it could do with a wash every month or so.
 
-64
-00:01:51,390 --> 00:01:51,821
-Jacinta:
+32
+00:01:51,390 --> 00:01:55,700
+Jacinta: Yes, we can get the pressure washer onto that.
 
-65
-00:01:51,821 --> 00:01:55,700
-Yes, we can get the pressure washer onto that.
+33
+00:01:55,700 --> 00:02:00,708
+Jacinta: Now if you're interested, we do offer some other possibilities to do with general maintenance.
 
-66
-00:01:55,700 --> 00:01:56,013
-Jacinta:
+34
+00:02:00,708 --> 00:02:06,028
+For example, if you have a problem with water and you need a plumber in a hurry,
 
-67
-00:01:56,013 --> 00:02:00,395
-Now if you're interested, we do offer some other possibilities to do with general
+35
+00:02:06,028 --> 00:02:10,723
+we can put you in touch with a reliable one who can come out straightaway.
 
-68
-00:02:00,395 --> 00:02:00,708
-maintenance.
-
-69
-00:02:00,708 --> 00:02:05,089
-For example, if you have a problem with water and you need a plumber
-
-70
-00:02:05,089 --> 00:02:09,471
-in a hurry, we can put you in touch with a reliable one who
-
-71
-00:02:09,471 --> 00:02:10,723
-can come out straightaway.
-
-72
+36
 00:02:10,723 --> 00:02:13,540
 And the same thing if you need an electrician.
 
-73
-00:02:13,540 --> 00:02:13,871
-Client:
+37
+00:02:13,540 --> 00:02:15,460
+Client: Right. That's good to know
 
-74
-00:02:13,871 --> 00:02:14,203
-Right.
+38
+00:02:15,760 --> 00:02:20,500
+I've only just moved here so I don't have any of those sorts of contacts.
 
-75
-00:02:14,203 --> 00:02:15,529
-That's good to know.
+39
+00:02:20,500 --> 00:02:23,640
+Jacinta: And I don't know if this is of interest to you
 
-76
-00:02:15,529 --> 00:02:20,169
-I've only just moved here so I don't have any of those sorts of
+40
+00:02:23,680 --> 00:02:27,109
+but we also offer a special vacuum cleaning system
 
-77
-00:02:20,169 --> 00:02:20,500
-contacts.
+41
+00:02:27,109 --> 00:02:34,033
+which can improve the indoor air quality of your home by capturing up to 99% of all the dust in the air.
 
-78
-00:02:20,500 --> 00:02:20,815
-Jacinta:
-
-79
-00:02:20,815 --> 00:02:24,277
-And I don't know if this is of interest to you,
-
-80
-00:02:24,277 --> 00:02:28,683
-but we also offer a special vacuum cleaning system which can improve the indoor
-
-81
-00:02:28,683 --> 00:02:33,089
-air quality of your home by capturing up to 99% of all the dust
-
-82
-00:02:33,089 --> 00:02:34,033
-in the air.
-
-83
+42
 00:02:34,033 --> 00:02:37,810
 So if you're troubled by allergies, this can make a big difference.
 
-84
-00:02:37,810 --> 00:02:38,109
-Client:
+43
+00:02:37,810 --> 00:02:42,898
+Client: Right. In fact, I don't have that sort of problem, but I'll bear it in mind.
 
-85
-00:02:38,109 --> 00:02:38,409
-Right.
-
-86
-00:02:38,409 --> 00:02:41,102
-In fact, I don't have that sort of problem,
-
-87
-00:02:41,102 --> 00:02:42,898
-but I'll bear it in mind.
-
-88
+44
 00:02:42,898 --> 00:02:46,190
 Now can you tell me a bit about your cleaning staff?
 
-89
-00:02:46,190 --> 00:02:46,504
-Jacinta:
+45
+00:02:46,190 --> 00:02:49,647
+Jacinta: Of course. So all our cleaners are very carefully selected.
 
-90
-00:02:46,504 --> 00:02:47,133
-Of course.
+46
+00:02:49,647 --> 00:02:53,419
+When they apply to us, they have to undergo a security check
 
-91
-00:02:47,133 --> 00:02:49,647
-So all our cleaners are very carefully selected.
+47
+00:02:53,419 --> 00:02:58,134
+with the police to make sure they don't have any sort of criminal background, and,
 
-92
-00:02:49,647 --> 00:02:54,048
-When they apply to us, they have to undergo a security check with the
+48
+00:02:58,134 --> 00:03:01,880
+of course, they have to provide references as well
 
-93
-00:02:54,048 --> 00:02:57,819
-police to make sure they don't have any sort of criminal background,
+49
+00:03:02,560 --> 00:03:04,420
+Then if we think they might be suitable for the job,
 
-94
-00:02:57,819 --> 00:03:00,962
-and, of course, they have to provide references as well.
+50
+00:03:04,420 --> 00:03:06,660
+we give them training for it
 
-95
-00:03:00,962 --> 00:03:05,363
-Then if we think they might be suitable for the job, we give them
+51
+00:03:07,020 --> 00:03:11,020
+That lasts for two weeks so it's very thorough, and at the end of it,
 
-96
-00:03:05,363 --> 00:03:06,306
-training for it.
+52
+00:03:11,020 --> 00:03:14,840
+they have a test. If they pass that, we take them on
 
-97
-00:03:06,306 --> 00:03:09,134
-That lasts for two weeks so it's very thorough,
+53
+00:03:14,960 --> 00:03:16,678
+but we monitor them very carefully -
 
-98
-00:03:09,134 --> 00:03:12,278
-and at the end of it, they have a test.
+54
+00:03:16,678 --> 00:03:22,000
+we ask all our clients to complete a review of their performance after every visit
 
-99
-00:03:12,278 --> 00:03:14,792
-If they pass that, we take them on,
+55
+00:03:22,000 --> 00:03:23,278
+and to email it to us.
 
-100
-00:03:14,792 --> 00:03:18,878
-but we monitor them very carefully - we ask all our clients to complete
-
-101
-00:03:18,878 --> 00:03:23,278
-a review of their performance after every visit and to email it to us.
-
-102
+56
 00:03:23,278 --> 00:03:27,050
 So we can pick up any problems straightaway and deal with them.
 
-103
-00:03:27,050 --> 00:03:27,465
-Client:
+57
+00:03:27,050 --> 00:03:33,280
+Client: OK, well that all sounds good. And will I always have the same cleaner?
 
-104
-00:03:27,465 --> 00:03:29,957
-OK, well that all sounds good.
+58
+00:03:33,280 --> 00:03:38,170
+Jacinta: Yes, we do our best to organise it that way, and we usually manage it.
 
-105
-00:03:29,957 --> 00:03:33,280
-And will I always have the same cleaner?
-
-106
-00:03:33,280 --> 00:03:33,586
-Jacinta:
-
-107
-00:03:33,586 --> 00:03:36,642
-Yes, we do our best to organise it that way,
-
-108
-00:03:36,642 --> 00:03:38,170
-and we usually manage it.
-
-109
-00:03:38,170 --> 00:03:38,573
-Client:
-
-110
-00:03:38,573 --> 00:03:38,975
-Good.
-
-111
-00:03:38,975 --> 00:03:39,780
-That's fine.
-
-112
-00:03:39,780 --> 00:03:40,182
-Right,
-
-113
-00:03:40,182 --> 00:03:43,000
-so I'd like to go ahead and …
+59
+00:03:38,170 --> 00:03:43,000
+Client: Good. That's fine. Right, so I'd like to go ahead and...

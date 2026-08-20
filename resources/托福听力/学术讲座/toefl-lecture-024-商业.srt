@@ -3,73 +3,69 @@
 Listen to a talk in an economics class.
 
 2
-00:00:02,290 --> 00:00:03,238
-Professor:
+00:00:02,290 --> 00:00:07,210
+Professor: Today, we are going to talk about the concept of the gig economy.
 
 3
-00:00:03,238 --> 00:00:07,210
-Today, we are going to talk about the concept of the gig economy.
+00:00:07,210 --> 00:00:14,438
+The gig economy is a labor market characterized by short-term contracts or freelance work,
 
 4
-00:00:07,210 --> 00:00:13,590
-The gig economy is a labor market characterized by short-term contracts
+00:00:14,438 --> 00:00:17,020
+as opposed to permanent jobs.
 
 5
-00:00:13,590 --> 00:00:17,020
-or freelance work, as opposed to permanent jobs.
-
-6
-00:00:17,020 --> 00:00:22,796
+00:00:17,020 --> 00:00:22,595
 It has gained significant traction in recent years because of technological advancements
 
-7
-00:00:22,796 --> 00:00:28,170
+6
+00:00:22,595 --> 00:00:28,170
 and the rise of digital platforms like ride-sharing apps and freelance websites.
 
-8
-00:00:28,170 --> 00:00:34,291
+7
+00:00:28,170 --> 00:00:33,890
 In a gig economy, workers typically take on multiple short-term jobs or projects,
 
-9
-00:00:34,291 --> 00:00:40,050
+8
+00:00:33,890 --> 00:00:40,050
 and they often do so through online platforms that connect them directly with clients.
 
+9
+00:00:40,050 --> 00:00:43,868
+This can offer greater flexibility compared to traditional employment,
+
 10
-00:00:40,050 --> 00:00:46,341
-This can offer greater flexibility compared to traditional employment, as workers can choose when
+00:00:43,868 --> 00:00:48,110
+as workers can choose when and where they wanna work.
 
 11
-00:00:46,341 --> 00:00:48,110
-and where they wanna work.
+00:00:48,110 --> 00:00:53,641
+Companies benefit from the gig economy by reducing overhead costs associated
 
 12
-00:00:48,110 --> 00:00:55,515
-Companies benefit from the gig economy by reducing overhead costs associated with full-time employees,
+00:00:53,641 --> 00:00:57,160
+with full-time employees, like for office space.
 
 13
-00:00:55,515 --> 00:00:57,160
-like for office space.
-
-14
-00:00:57,160 --> 00:01:01,338
+00:00:57,160 --> 00:01:01,296
 This allows them to vary their workforce according to demand,
 
-15
-00:01:01,338 --> 00:01:06,260
+14
+00:01:01,296 --> 00:01:06,260
 which can be particularly useful during peak seasons or for specific projects.
 
-16
-00:01:06,260 --> 00:01:12,167
+15
+00:01:06,260 --> 00:01:11,059
 On the other hand, gig workers may face difficulties in securing consistent work
 
-17
-00:01:12,167 --> 00:01:15,120
+16
+00:01:11,059 --> 00:01:15,120
 and may have to juggle multiple gigs to make a living.
 
-18
-00:01:15,120 --> 00:01:21,564
+17
+00:01:15,120 --> 00:01:21,478
 Next, we will discuss potential regulatory responses to protect gig workers and after that:
 
-19
-00:01:21,564 --> 00:01:26,020
+18
+00:01:21,478 --> 00:01:26,020
 the implications of the gig economy on traditional labor markets.

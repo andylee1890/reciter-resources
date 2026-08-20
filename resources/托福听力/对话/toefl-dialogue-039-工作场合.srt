@@ -1,67 +1,31 @@
 1
-00:00:00,000 --> 00:00:00,121
-Woman:
+00:00:00,000 --> 00:00:03,585
+Woman: How are preparations for tomorrow's meeting with the board coming along.
 
 2
-00:00:00,121 --> 00:00:03,585
-How are preparations for tomorrow’s meeting with the board coming along.
-
-3
 00:00:03,585 --> 00:00:05,240
 Is your marketing presentation all set?
 
+3
+00:00:05,240 --> 00:00:08,160
+Man: Almost. I've finalized the slides
+
 4
-00:00:05,240 --> 00:00:05,290
-Man:
+00:00:08,280 --> 00:00:12,170
+but I still need to print the handouts, and the printer's acting up.
 
 5
-00:00:05,290 --> 00:00:05,900
-Almost.
+00:00:12,170 --> 00:00:17,160
+Woman: Again? That's the third time this week. Do you want me to check it out?
 
 6
-00:00:05,900 --> 00:00:07,550
-I’ve finalized the slides,
-
-7
-00:00:07,550 --> 00:00:12,170
-but I still need to print the handouts—and the printer’s acting up.
-
-8
-00:00:12,170 --> 00:00:12,464
-Woman:
-
-9
-00:00:12,464 --> 00:00:12,757
-Again?
-
-10
-00:00:12,757 --> 00:00:14,812
-That’s the third time this week.
-
-11
-00:00:14,812 --> 00:00:17,160
-Do you want me to check it out?
-
-12
 00:00:17,160 --> 00:00:22,030
 The last couple of times I had an issue, I managed to get it working again.
 
-13
-00:00:22,030 --> 00:00:22,305
-Man:
+7
+00:00:22,030 --> 00:00:26,160
+Man: That would be great. I've already tried fiddling with it, but no luck.
 
-14
-00:00:22,305 --> 00:00:23,407
-That would be great.
-
-15
-00:00:23,407 --> 00:00:26,160
-I’ve already tried fiddling with it, but no luck.
-
-16
-00:00:26,160 --> 00:00:26,338
-Woman:
-
-17
-00:00:26,338 --> 00:00:29,180
-I’ll head down to the copy room right now and see what I can do.
+8
+00:00:26,160 --> 00:00:29,180
+Woman: I'll head down to the copy room right now and see what I can do.

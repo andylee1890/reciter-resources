@@ -1,303 +1,275 @@
 1
-00:00:00,000 --> 00:00:06,282
-As we saw in the last lecture, a major cause of climate change is
+00:00:00,000 --> 00:00:02,693
+As we saw in the last lecture,
 
 2
-00:00:06,282 --> 00:00:10,697
-the rapid rise in the level of carbon dioxide in the atmosphere over the
+00:00:02,693 --> 00:00:11,540
+a major cause of climate change is the rapid rise in the level of carbon dioxide in the atmosphere over the last century.
 
 3
-00:00:10,697 --> 00:00:11,540
-last century.
+00:00:11,540 --> 00:00:14,900
+If we could reduce the amount of CO2
 
 4
-00:00:11,540 --> 00:00:17,223
-If we could reduce the amount of CO2, perhaps the rate of climate change
+00:00:15,420 --> 00:00:18,930
+perhaps the rate of climate change could also be slowed down.
 
 5
-00:00:17,223 --> 00:00:18,930
-could also be slowed down.
+00:00:18,930 --> 00:00:25,080
+One potential method involves enhancing the role of the soil that plants grow in
 
 6
-00:00:18,930 --> 00:00:24,831
-One potential method involves enhancing the role of the soil that plants grow in,
-
-7
-00:00:24,831 --> 00:00:27,520
+00:00:25,080 --> 00:00:27,520
 with regard to absorbing CO2.
 
+7
+00:00:27,520 --> 00:00:32,981
+Rattan Lai, a soil scientist from Ohio State University, in the USA,
+
 8
-00:00:27,520 --> 00:00:34,916
-Rattan Lai, a soil scientist from Ohio State University, in the USA, claims that
+00:00:32,981 --> 00:00:41,174
+claims that the world's agricultural soils could potentially absorb 13 percent of the carbon dioxide in the atmosphere -
 
 9
-00:00:34,916 --> 00:00:41,009
-the world's agricultural soils could potentially absorb 13 percent of the carbon dioxide in
+00:00:41,174 --> 00:00:46,180
+the equivalent of the amount released in the last 30 years.
 
 10
-00:00:41,009 --> 00:00:46,180
-the atmosphere - the equivalent of the amount released in the last 30 years.
-
-11
 00:00:46,180 --> 00:00:50,070
 And research is going on into how this might be achieved.
 
-12
-00:00:50,070 --> 00:00:55,402
+11
+00:00:50,070 --> 00:00:55,460
 Lai first came to the idea that soil might be valuable in this way
 
-13
-00:00:55,402 --> 00:00:57,988
+12
+00:00:55,960 --> 00:00:57,799
 not through an interest in climate change,
 
+13
+00:00:57,799 --> 00:01:03,320
+but rather out of concern for the land itself and the people dependent on it.
+
 14
-00:00:57,988 --> 00:01:03,100
-but rather out of concern for the land itself and the people dependent on
+00:01:03,320 --> 00:01:10,180
+Carbon-rich soil is dark, crumbly and fertile, and retains some water.
 
 15
-00:01:03,100 --> 00:01:03,320
-it.
+00:01:10,180 --> 00:01:13,820
+But erosion can occur if soil is dry
 
 16
-00:01:03,320 --> 00:01:08,269
-Carbon-rich soil is dark, crumbly and fertile,
-
-17
-00:01:08,269 --> 00:01:10,180
-and retains some water.
-
-18
-00:01:10,180 --> 00:01:13,813
-But erosion can occur if soil is dry,
-
-19
-00:01:13,813 --> 00:01:18,470
+00:01:14,240 --> 00:01:18,470
 which is a likely effect if it contains inadequate amounts of carbon.
 
-20
-00:01:18,470 --> 00:01:23,177
-Erosion is of course bad for people trying to grow crops
+17
+00:01:18,470 --> 00:01:25,470
+Erosion is of course bad for people trying to grow crops or breed animals on that terrain.
 
-21
-00:01:23,177 --> 00:01:25,470
-or breed animals on that terrain.
-
-22
-00:01:25,470 --> 00:01:31,289
+18
+00:01:25,470 --> 00:01:30,829
 In the 1970s and '80s, Lai was studying soils in Africa
 
-23
-00:01:31,289 --> 00:01:37,650
-so devoid of organic matter that the around had become extremely hard, like cement.
+19
+00:01:30,829 --> 00:01:37,650
+so devoid of organic matter that the ground had become extremely hard, like cement.
 
-24
-00:01:37,650 --> 00:01:42,050
+20
+00:01:37,650 --> 00:01:41,945
 There he met a pioneer in the study of global warming,
 
-25
-00:01:42,050 --> 00:01:46,630
+21
+00:01:41,945 --> 00:01:46,630
 who suggested that carbon from the soil had moved into the atmosphere.
 
+22
+00:01:46,630 --> 00:01:51,690
+This is now looking increasingly likely. Let me explain.
+
+23
+00:01:51,690 --> 00:01:57,791
+For millions of years, carbon dioxide levels in the atmosphere have been regulated,
+
+24
+00:01:57,791 --> 00:02:02,520
+in part, by a natural partnership between plants and microbes
+
+25
+00:02:02,900 --> 00:02:04,830
+tiny organisms in the soil.
+
 26
-00:01:46,630 --> 00:01:49,775
-This is now looking increasingly likely.
+00:02:04,830 --> 00:02:08,580
+Plants absorb CO2 from the air
 
 27
-00:01:49,775 --> 00:01:51,690
-Let me explain.
+00:02:08,580 --> 00:02:13,230
+and transform it into sugars and other carbon-based substances.
 
 28
-00:01:51,690 --> 00:01:58,260
-For millions of years, carbon dioxide levels in the atmosphere have been regulated, in
+00:02:13,230 --> 00:02:17,744
+While a proportion of these carbon products remain in the plant,
 
 29
-00:01:58,260 --> 00:02:04,830
-part, by a natural partnership between plants and microbes - tiny organisms in the soil.
+00:02:17,744 --> 00:02:22,180
+some transfer from the roots to fungi and soil microbes
 
 30
-00:02:04,830 --> 00:02:10,990
-Plants absorb CO2 from the air and transform it into sugars
-
-31
-00:02:10,990 --> 00:02:13,230
-and other carbon-based substances.
-
-32
-00:02:13,230 --> 00:02:20,616
-While a proportion of these carbon products remain in the plant, some transfer from the roots to fungi
-
-33
-00:02:20,616 --> 00:02:21,848
-and soil microbes,
-
-34
-00:02:21,848 --> 00:02:24,720
+00:02:22,520 --> 00:02:24,720
 which store the carbon in the soil.
 
-35
-00:02:24,720 --> 00:02:31,749
-The invention of agriculture some 10,000 years ago disrupted these ancient soil-building processes
+31
+00:02:24,720 --> 00:02:28,920
+The invention of agriculture some 10
 
-36
+32
+00:02:28,920 --> 00:02:31,749
+000 years ago disrupted these ancient soil-building processes
+
+33
 00:02:31,749 --> 00:02:36,770
 and led to the loss of carbon from the soil.
 
-37
+34
 00:02:36,770 --> 00:02:40,060
 When humans started draining the natural topsoil,
 
-38
+35
 00:02:40,060 --> 00:02:46,170
 and ploughing it up for planting, they exposed the buried carbon to oxygen.
 
-39
+36
 00:02:46,170 --> 00:02:51,420
 This created carbon dioxide and released it into the air.
 
+37
+00:02:51,420 --> 00:02:58,120
+And in some places, grazing by domesticated animals has removed all vegetation
+
+38
+00:02:58,520 --> 00:03:00,170
+releasing carbon into the air.
+
+39
+00:03:00,170 --> 00:03:04,718
+Tons of carbon have been stripped from the world's soils -
+
 40
-00:02:51,420 --> 00:02:58,626
-And in some places, grazing by domesticated animals has removed all vegetation, releasing carbon
+00:03:04,718 --> 00:03:10,630
+where it's needed - and pumped into the atmosphere. So what can be done?
 
 41
-00:02:58,626 --> 00:03:00,170
-into the air.
+00:03:10,630 --> 00:03:12,676
+Researchers are now coming up
 
 42
-00:03:00,170 --> 00:03:06,082
-Tons of carbon have been stripped from the world's soils - where it's needed -
+00:03:12,676 --> 00:03:20,860
+with evidence that even modest changes to farming can significantly help to reduce the amount of carbon in the atmosphere.
 
 43
-00:03:06,082 --> 00:03:08,356
-and pumped into the atmosphere.
-
-44
-00:03:08,356 --> 00:03:10,630
-So what can be done?
-
-45
-00:03:10,630 --> 00:03:16,359
-Researchers are now coming up with evidence that even modest changes to farming can
-
-46
-00:03:16,359 --> 00:03:20,860
-significantly help to reduce the amount of carbon in the atmosphere.
-
-47
 00:03:20,860 --> 00:03:27,500
 Some growers have already started using an approach known as regenerative agriculture.
 
-48
-00:03:27,500 --> 00:03:34,024
-This aims to boost the fertility of soil and keep it moist through established
+44
+00:03:27,500 --> 00:03:30,920
+This aims to boost the fertility of soil
 
-49
-00:03:34,024 --> 00:03:34,490
-practices.
+45
+00:03:30,920 --> 00:03:34,490
+and keep it moist through established practices.
 
-50
-00:03:34,490 --> 00:03:38,445
-These include keeping fields planted all year round,
+46
+00:03:34,490 --> 00:03:38,680
+These include keeping fields planted all year round
 
-51
-00:03:38,445 --> 00:03:42,400
+47
+00:03:38,680 --> 00:03:42,400
 and increasing the variety of plants being grown.
 
-52
+48
 00:03:42,400 --> 00:03:48,492
 Strategies like these can significantly increase the amount of carbon stored in the soil,
 
+49
+00:03:48,492 --> 00:03:55,020
+so agricultural researchers are now building a case for their use in combating climate change.
+
+50
+00:03:55,020 --> 00:04:08,410
+One American investigation into the potential for storing CO2 on agricultural lands is taking place in California.
+
+51
+00:04:08,410 --> 00:04:12,863
+Soil scientist Whendee Silver of the University of California,
+
+52
+00:04:12,863 --> 00:04:19,790
+Berkeley, is conducting a first-of-its-kind study on a large cattle farm in the state.
+
 53
-00:03:48,492 --> 00:03:54,585
-so agricultural researchers are now building a case for their use in combating climate
+00:04:19,790 --> 00:04:28,479
+She and her students are testing the effects on carbon storage of the compost that is created from waste -
 
 54
-00:03:54,585 --> 00:03:55,020
-change.
+00:04:28,479 --> 00:04:31,222
+both agricultural, including manure and cornstalks,
 
 55
-00:03:55,020 --> 00:04:06,047
-One American investigation into the potential for storing CO2 on agricultural lands is taking
+00:04:31,222 --> 00:04:36,710
+and waste produced in gardens, such as leaves, branches, and lawn trimmings.
 
 56
-00:04:06,047 --> 00:04:08,410
-place in California.
-
-57
-00:04:08,410 --> 00:04:15,337
-Soil scientist Whendee Silver of the University of California, Berkeley, is conducting a first-of-its-kind
-
-58
-00:04:15,337 --> 00:04:19,790
-study on a large cattle farm in the state.
-
-59
-00:04:19,790 --> 00:04:26,192
-She and her students are testing the effects on carbon storage of the compost
-
-60
-00:04:26,192 --> 00:04:31,222
-that is created from waste - both agricultural, including manure and cornstalks,
-
-61
-00:04:31,222 --> 00:04:35,338
-and waste produced in gardens, such as leaves, branches,
-
-62
-00:04:35,338 --> 00:04:36,710
-and lawn trimmings.
-
-63
 00:04:36,710 --> 00:04:45,040
 In Australia, soil ecologist Christine Jones is testing another promising soil-enrichment strategy.
 
-64
-00:04:45,040 --> 00:04:51,837
-Jones and 12 farmers are working to build up soil carbon by cultivating grasses
+57
+00:04:45,040 --> 00:04:54,750
+Jones and 12 farmers are working to build up soil carbon by cultivating grasses that stay green all year round.
 
-65
-00:04:51,837 --> 00:04:54,750
-that stay green all year round.
-
-66
+58
 00:04:54,750 --> 00:04:58,682
 Like composting, the approach has already been proved experimentally;
 
-67
+59
 00:04:58,682 --> 00:05:04,361
 Jones now hopes to show that it can be applied on working farms
 
-68
+60
 00:05:04,361 --> 00:05:08,730
 and that the resulting carbon capture can be accurately measured.
 
-69
+61
 00:05:08,730 --> 00:05:15,114
 It's hoped in the future that projects such as these will demonstrate the role that farmers
 
-70
+62
 00:05:15,114 --> 00:05:20,700
 and other land managers can play in reducing the harmful effects of greenhouse gases.
 
-71
-00:05:20,700 --> 00:05:27,513
-For example, in countries like the United States, where most farming operations use large
+63
+00:05:20,700 --> 00:05:24,593
+For example, in countries like the United States,
 
-72
-00:05:27,513 --> 00:05:33,840
-applications of fertiliser, changing such long-standing habits will require a change of system.
+64
+00:05:24,593 --> 00:05:28,973
+where most farming operations use large applications of fertiliser,
 
-73
-00:05:33,840 --> 00:05:38,942
-Rattan Lai argues that farmers should receive payment not just for the corn
+65
+00:05:28,973 --> 00:05:33,840
+changing such long-standing habits will require a change of system.
 
-74
-00:05:38,942 --> 00:05:40,512
-or beef they produce,
+66
+00:05:33,840 --> 00:05:38,180
+Rattan Lai argues that farmers should receive payment
 
-75
+67
+00:05:38,620 --> 00:05:40,512
+not just for the corn or beef they produce,
+
+68
 00:05:40,512 --> 00:05:44,830
 but also for the carbon they can store in their soil.
 
-76
+69
 00:05:44,830 --> 00:05:49,000
-Another study being carried out ...
+Another study being carried out...

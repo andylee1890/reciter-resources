@@ -1,59 +1,19 @@
 1
-00:00:00,000 --> 00:00:00,747
-Man:
+00:00:00,000 --> 00:00:04,180
+Man: I think my laptop is acting up again. It keeps freezing and shutting down randomly.
 
 2
-00:00:00,747 --> 00:00:02,019
-I think my laptop is acting up again.
+00:00:04,180 --> 00:00:08,149
+Woman: That's frustrating. Have you tried restarting it or running a virus scan?
 
 3
-00:00:02,019 --> 00:00:04,180
-It keeps freezing and shutting down randomly.
+00:00:08,149 --> 00:00:13,090
+Man: Yes, I did both, but it didn't help. I might need to take it to a repair shop.
 
 4
-00:00:04,180 --> 00:00:04,230
-Woman:
+00:00:13,090 --> 00:00:18,180
+Woman: That sounds like a good idea. They should be able to diagnose and fix the issue.
 
 5
-00:00:04,230 --> 00:00:05,314
-That’s frustrating.
-
-6
-00:00:05,314 --> 00:00:08,149
-Have you tried restarting it or running a virus scan?
-
-7
-00:00:08,149 --> 00:00:08,396
-Man:
-
-8
-00:00:08,396 --> 00:00:09,384
-Yes, I did both,
-
-9
-00:00:09,384 --> 00:00:10,619
-but it didn’t help.
-
-10
-00:00:10,619 --> 00:00:13,090
-I might need to take it to a repair shop.
-
-11
-00:00:13,090 --> 00:00:13,389
-Woman:
-
-12
-00:00:13,389 --> 00:00:15,186
-That sounds like a good idea.
-
-13
-00:00:15,186 --> 00:00:18,180
-They should be able to diagnose and fix the issue.
-
-14
-00:00:18,180 --> 00:00:18,456
-Man:
-
-15
-00:00:18,456 --> 00:00:20,110
-I’ll do that this afternoon.
+00:00:18,180 --> 00:00:20,110
+Man: I'll do that this afternoon.

@@ -3,69 +3,85 @@
 Listen to a talk in a psychology class.
 
 2
-00:00:03,110 --> 00:00:10,190
-Today, we’re exploring the sunk cost fallacy, a cognitive bias that often leads to irrational decision-making.
+00:00:03,110 --> 00:00:06,320
+Today, we're exploring the sunk cost fallacy
 
 3
-00:00:10,190 --> 00:00:14,760
-The sunk cost fallacy occurs when individuals continue an endeavor
+00:00:06,860 --> 00:00:10,190
+a cognitive bias that often leads to irrational decision-making.
 
 4
-00:00:14,760 --> 00:00:19,350
-or consume a product as a result of previously invested resources, such as money,
+00:00:10,190 --> 00:00:12,760
+The sunk cost fallacy occurs
 
 5
-00:00:19,350 --> 00:00:20,131
-time,
+00:00:12,760 --> 00:00:18,398
+when individuals continue an endeavor or consume a product as a result of previously invested resources,
 
 6
-00:00:20,131 --> 00:00:24,260
-or effort, even when the current costs outweigh the future benefits.
+00:00:18,398 --> 00:00:21,260
+such as money, time, or effort
 
 7
+00:00:21,640 --> 00:00:24,260
+even when the current costs outweigh the future benefits.
+
+8
 00:00:24,260 --> 00:00:30,040
 Essentially, people feel that they shouldn't "waste" what they've already spent.
 
-8
-00:00:30,040 --> 00:00:38,542
-For instance, imagine you bought a ticket to a three-hour movie.After thirty minutes, you realize the movie is terrible
-
 9
-00:00:38,542 --> 00:00:39,515
-and you aren't enjoying it.
+00:00:30,040 --> 00:00:34,209
+For instance, imagine you bought a ticket to a three-hour movie.
 
 10
-00:00:39,515 --> 00:00:45,200
-However, most people will stay until the end because they already paid for the ticket.
+00:00:34,209 --> 00:00:39,515
+After thirty minutes, you realize the movie is terrible and you aren't enjoying it.
 
 11
-00:00:45,200 --> 00:00:51,433
-In reality, the money is gone—it’s a "sunk cost"—and by staying, they are only
+00:00:39,515 --> 00:00:43,360
+However, most people will stay until the end
 
 12
-00:00:51,433 --> 00:00:54,000
-wasting two more hours of their time.
+00:00:43,360 --> 00:00:45,200
+because they already paid for the ticket.
 
 13
+00:00:45,200 --> 00:00:50,333
+In reality, the money is gone. It's a "sunk cost"-and by staying,
+
+14
+00:00:50,333 --> 00:00:54,000
+they are only wasting two more hours of their time.
+
+15
 00:00:54,000 --> 00:00:58,080
 In business, this fallacy can be even more damaging.
 
-14
-00:00:58,080 --> 00:01:03,531
-Companies might continue to fund a failing project just because they have already invested
-
-15
-00:01:03,531 --> 00:01:07,425
-millions of dollars into it, rather than cutting their losses
-
 16
-00:01:07,425 --> 00:01:10,150
-and redirecting resources to more profitable ventures.
+00:00:58,080 --> 00:01:01,584
+Companies might continue to fund a failing project just
 
 17
+00:01:01,584 --> 00:01:05,478
+because they have already invested millions of dollars into it,
+
+18
+00:01:05,478 --> 00:01:06,620
+rather than cutting their losses
+
+19
+00:01:06,620 --> 00:01:10,150
+and redirecting resources to more profitable ventures.
+
+20
 00:01:10,150 --> 00:01:14,200
 Understanding this bias is crucial for making objective choices.
 
-18
-00:01:14,200 --> 00:01:22,030
-Next, we will discuss how to recognize and avoid the sunk cost fallacy in long-term financial planning.
+21
+00:01:14,200 --> 00:01:17,540
+Next, we will discuss how to recognize
+
+22
+00:01:17,540 --> 00:01:22,030
+and avoid the sunk cost fallacy in long-term financial planning.

@@ -1,519 +1,255 @@
 1
-00:00:00,000 --> 00:00:01,209
-Julie:
+00:00:00,000 --> 00:00:01,640
+Julie: Hello?
 
 2
-00:00:01,209 --> 00:00:01,640
-Hello?
+00:00:01,640 --> 00:00:03,950
+Greg: Oh, hello. Is that Julie Davison?
 
 3
-00:00:01,640 --> 00:00:02,066
-Greg:
+00:00:03,950 --> 00:00:05,060
+Julie: Yes.
 
 4
-00:00:02,066 --> 00:00:02,471
-Oh, hello.
+00:00:05,060 --> 00:00:08,300
+Greg: This is Greg Preston from the Employment Agency.
 
 5
-00:00:02,471 --> 00:00:03,950
-Is that Julie Davison?
-
-6
-00:00:03,950 --> 00:00:04,000
-Julie:
-
-7
-00:00:04,000 --> 00:00:05,060
-Yes.
-
-8
-00:00:05,060 --> 00:00:05,110
-Greg:
-
-9
-00:00:05,110 --> 00:00:08,300
-This is Greg Preston from the Employment Agency.
-
-10
 00:00:08,300 --> 00:00:12,980
 We met last week when you came in to enquire about office work.
 
+6
+00:00:12,980 --> 00:00:14,300
+Julie: Oh, that's right.
+
+7
+00:00:14,300 --> 00:00:19,670
+Greg: Now we've just had some details come in of a job which might interest you.
+
+8
+00:00:19,670 --> 00:00:20,640
+Julie: OK.
+
+9
+00:00:20,640 --> 00:00:24,680
+Greg: So this is a position for a receptionist
+
+10
+00:00:25,380 --> 00:00:28,270
+I believe you've done that sort of work before?
+
 11
-00:00:12,980 --> 00:00:13,244
-Julie:
+00:00:28,270 --> 00:00:34,800
+Julie: Yes, I have, I worked in a sports centre for a couple of years before I got married and had the children.
 
 12
-00:00:13,244 --> 00:00:13,508
-Oh,
+00:00:34,800 --> 00:00:40,360
+Greg: Right. Well, this job's in Fordham, so not too far away for you
 
 13
-00:00:13,508 --> 00:00:14,300
-that’s right.
+00:00:40,600 --> 00:00:42,900
+and it's at the medical centre there.
 
 14
-00:00:14,300 --> 00:00:14,616
-Greg:
+00:00:42,900 --> 00:00:45,980
+Julie: OK. So where exactly is that?
 
 15
-00:00:14,616 --> 00:00:19,354
-Now we’ve just had some details come in of a job which might interest
+00:00:45,980 --> 00:00:49,810
+Greg: It's quite near the station, on Chastons Road.
 
 16
-00:00:19,354 --> 00:00:19,670
-you.
+00:00:49,810 --> 00:00:50,750
+Julie: Sorry?
 
 17
-00:00:19,670 --> 00:00:20,155
-Julie:
+00:00:50,750 --> 00:01:02,090
+Greg: Chastons Road - that's C-H-A-S-T-O-N-S.
 
 18
-00:00:20,155 --> 00:00:20,640
-OK.
+00:01:02,090 --> 00:01:05,360
+Julie: OK, thanks. So what would the work involve
 
 19
-00:00:20,640 --> 00:00:21,042
-Greg:
-
-20
-00:00:21,042 --> 00:00:26,664
-So this is a position for a receptionist – I believe you’ve done that
-
-21
-00:00:26,664 --> 00:00:28,270
-sort of work before?
-
-22
-00:00:28,270 --> 00:00:28,554
-Julie:
-
-23
-00:00:28,554 --> 00:00:33,664
-Yes, I have, I worked in a sports centre for a couple of years before I got married
-
-24
-00:00:33,664 --> 00:00:34,800
-and had the children.
-
-25
-00:00:34,800 --> 00:00:35,152
-Greg:
-
-26
-00:00:35,152 --> 00:00:35,504
-Right.
-
-27
-00:00:35,504 --> 00:00:37,617
-Well, this job’s in Fordham,
-
-28
-00:00:37,617 --> 00:00:40,083
-so not too far away for you,
-
-29
-00:00:40,083 --> 00:00:42,900
-and it’s at the medical centre there.
-
-30
-00:00:42,900 --> 00:00:43,340
-Julie:
-
-31
-00:00:43,340 --> 00:00:43,780
-OK.
-
-32
-00:00:43,780 --> 00:00:45,980
-So where exactly is that?
-
-33
-00:00:45,980 --> 00:00:46,363
-Greg:
-
-34
-00:00:46,363 --> 00:00:49,810
-It’s quite near the station, on Chastons Road.
-
-35
-00:00:49,810 --> 00:00:50,280
-Julie:
-
-36
-00:00:50,280 --> 00:00:50,750
-Sorry?
-
-37
-00:00:50,750 --> 00:00:52,640
-Greg:
-
-38
-00:00:52,640 --> 00:01:02,090
-Chastons Road – that’s C-H-A-S-T-O-N-S.
-
-39
-00:01:02,090 --> 00:01:02,506
-Julie:
-
-40
-00:01:02,506 --> 00:01:03,339
-OK, thanks.
-
-41
-00:01:03,339 --> 00:01:05,838
-So what would the work involve?
-
-42
-00:01:05,838 --> 00:01:07,920
+00:01:06,020 --> 00:01:07,920
 Dealing with enquiries from patients?
 
-43
-00:01:07,920 --> 00:01:08,362
-Greg:
+20
+00:01:07,920 --> 00:01:12,400
+Greg: Yes, and you'd also be involved in making appointments
 
-44
-00:01:08,362 --> 00:01:08,803
-Yes,
+21
+00:01:13,000 --> 00:01:16,312
+whether face to face or on the phone.
 
-45
-00:01:08,803 --> 00:01:14,545
-and you’d also be involved in making appointments, whether face to face
-
-46
-00:01:14,545 --> 00:01:16,312
-or on the phone.
-
-47
+22
 00:01:16,312 --> 00:01:18,520
 And rescheduling them if necessary.
 
-48
-00:01:18,520 --> 00:01:18,794
-Julie:
+23
+00:01:18,520 --> 00:01:20,710
+Julie: Fine, that shouldn't be a problem.
 
-49
-00:01:18,794 --> 00:01:19,068
-Fine,
+24
+00:01:20,710 --> 00:01:26,775
+Greg: And another of your duties would be keeping the centre's database up-to-date.
 
-50
-00:01:19,068 --> 00:01:20,710
-that shouldn’t be a problem.
+25
+00:01:26,775 --> 00:01:31,320
+Then you might have other general administrative duties as well
 
-51
-00:01:20,710 --> 00:01:21,143
-Greg:
-
-52
-00:01:21,143 --> 00:01:26,775
-And another of your duties would be keeping the centre’s database up-to-date.
-
-53
-00:01:26,775 --> 00:01:31,107
-Then you might have other general administrative duties as well,
-
-54
-00:01:31,107 --> 00:01:34,140
+26
+00:01:31,780 --> 00:01:34,140
 but those would be the main ones.
 
-55
-00:01:34,140 --> 00:01:34,790
-Julie:
+27
+00:01:34,140 --> 00:01:35,440
+Julie: OK.
 
-56
-00:01:34,790 --> 00:01:35,440
-OK.
+28
+00:01:35,440 --> 00:01:37,760
+Greg: Now when the details came in
 
-57
-00:01:35,440 --> 00:01:35,816
-Greg:
+29
+00:01:37,980 --> 00:01:42,958
+I immediately thought of you because one thing they do require is someone
 
-58
-00:01:35,816 --> 00:01:39,951
-Now when the details came in, I immediately thought of you
+30
+00:01:42,958 --> 00:01:48,520
+with experience, and you did mention your work at the sports centre
 
-59
-00:01:39,951 --> 00:01:43,710
-because one thing they do require is someone with experience,
+31
+00:01:48,520 --> 00:01:50,100
+when you came in to see us.
 
-60
-00:01:43,710 --> 00:01:48,972
-and you did mention your work at the sports centre when you came in
+32
+00:01:50,100 --> 00:01:55,580
+Julie: Yes, in fact I enjoyed that job. Is there anything else they're looking for?
 
-61
-00:01:48,972 --> 00:01:50,100
-to see us.
+33
+00:01:55,580 --> 00:02:02,203
+Greg: Well, they say it's quite a high-pressure environment, they're always very busy,
 
-62
-00:01:50,100 --> 00:01:50,442
-Julie:
+34
+00:02:02,203 --> 00:02:04,460
+and patients are often under stress
 
-63
-00:01:50,442 --> 00:01:52,840
-Yes, in fact I enjoyed that job.
-
-64
-00:01:52,840 --> 00:01:55,580
-Is there anything else they’re looking for?
-
-65
-00:01:55,580 --> 00:01:56,022
-Greg:
-
-66
-00:01:56,022 --> 00:02:02,203
-Well, they say it’s quite a high-pressure environment, they’re always very busy,
-
-67
-00:02:02,203 --> 00:02:04,853
-and patients are often under stress,
-
-68
-00:02:04,853 --> 00:02:10,151
+35
+00:02:04,560 --> 00:02:10,151
 so they want someone who can cope with that and stay calm,
 
-69
+36
 00:02:10,151 --> 00:02:15,450
 and at the same time be confident when interacting with the public.
 
-70
-00:02:15,450 --> 00:02:15,765
-Julie:
+37
+00:02:15,450 --> 00:02:18,740
+Julie: Well, after dealing with three children all under five
 
-71
-00:02:15,765 --> 00:02:20,179
-Well, after dealing with three children all under five, I reckon I can cope
+38
+00:02:19,160 --> 00:02:20,810
+I reckon I can cope with that.
 
-72
-00:02:20,179 --> 00:02:20,810
-with that.
+39
+00:02:20,810 --> 00:02:22,540
+Greg: I'm sure you can.
 
-73
-00:02:20,810 --> 00:02:21,098
-Greg:
+40
+00:02:22,540 --> 00:02:30,080
+Greg: And then another thing they mention is that they're looking for someone with good IT skills...
 
-74
-00:02:21,098 --> 00:02:22,540
-I’m sure you can.
+41
+00:02:30,080 --> 00:02:31,410
+Julie: Not a problem.
 
-75
-00:02:22,540 --> 00:02:22,959
-Greg:
+42
+00:02:31,410 --> 00:02:34,310
+Greg: So you'd be interested in following this up?
 
-76
-00:02:22,959 --> 00:02:29,242
-And then another thing they mention is that they’re looking for someone with good
+43
+00:02:34,310 --> 00:02:36,930
+Julie: Sure. When would it start?
 
-77
-00:02:29,242 --> 00:02:30,080
-IT skills …
+44
+00:02:36,930 --> 00:02:41,495
+Greg: Well, they're looking for someone from the beginning of next month,
 
-78
-00:02:30,080 --> 00:02:30,412
-Julie:
+45
+00:02:41,495 --> 00:02:45,709
+but I should tell you that this isn't a permanent job,
 
-79
-00:02:30,412 --> 00:02:31,410
-Not a problem.
+46
+00:02:45,709 --> 00:02:50,626
+it's temporary, so the contract would be just to the end of September.
 
-80
-00:02:31,410 --> 00:02:31,700
-Greg:
-
-81
-00:02:31,700 --> 00:02:34,310
-So you’d be interested in following this up?
-
-82
-00:02:34,310 --> 00:02:34,747
-Julie:
-
-83
-00:02:34,747 --> 00:02:35,183
-Sure.
-
-84
-00:02:35,183 --> 00:02:36,930
-When would it start?
-
-85
-00:02:36,930 --> 00:02:37,281
-Greg:
-
-86
-00:02:37,281 --> 00:02:41,495
-Well, they’re looking for someone from the beginning of next month,
-
-87
-00:02:41,495 --> 00:02:46,412
-but I should tell you that this isn’t a permanent job, it’s
-
-88
-00:02:46,412 --> 00:02:46,763
-temporary,
-
-89
-00:02:46,763 --> 00:02:50,626
-so the contract would be just to the end of September.
-
-90
+47
 00:02:50,626 --> 00:02:54,840
 But they do say that there could be further opportunities after that.
 
-91
-00:02:54,840 --> 00:02:55,221
-Julie:
+48
+00:02:54,840 --> 00:02:57,890
+Julie: OK. And what would the hours be?
 
-92
-00:02:55,221 --> 00:02:55,602
-OK.
+49
+00:02:57,890 --> 00:03:03,790
+Greg: Well, they want someone who can start at a quarter to eight in the morning - could you manage that?
 
-93
-00:02:55,602 --> 00:02:57,890
-And what would the hours be?
+50
+00:03:03,790 --> 00:03:08,579
+Julie: Yes, my husband would have to get the kids up and off to my mother's -
 
-94
-00:02:57,890 --> 00:02:58,185
-Greg:
+51
+00:03:08,579 --> 00:03:13,650
+she's going to be looking after them while I'm at work. What time would I finish?
 
-95
-00:02:58,185 --> 00:03:02,315
-Well, they want someone who can start at a quarter to eight in the
+52
+00:03:13,650 --> 00:03:14,940
+Greg: One fifteen.
 
-96
-00:03:02,315 --> 00:03:03,790
-morning – could you manage that?
+53
+00:03:14,940 --> 00:03:17,057
+Julie: That should work out all right.
 
-97
-00:03:03,790 --> 00:03:04,072
-Julie:
+54
+00:03:17,057 --> 00:03:22,802
+I can pick the kids up on my way home, and then I'll have the afternoon with them.
 
-98
-00:03:04,072 --> 00:03:06,889
-Yes, my husband would have to get the kids up
-
-99
-00:03:06,889 --> 00:03:11,115
-and off to my mother’s – she’s going to be looking after them while
-
-100
-00:03:11,115 --> 00:03:12,241
-I’m at work.
-
-101
-00:03:12,241 --> 00:03:13,650
-What time would I finish?
-
-102
-00:03:13,650 --> 00:03:14,080
-Greg:
-
-103
-00:03:14,080 --> 00:03:14,940
-One fifteen.
-
-104
-00:03:14,940 --> 00:03:15,242
-Julie:
-
-105
-00:03:15,242 --> 00:03:17,057
-That should work out all right.
-
-106
-00:03:17,057 --> 00:03:20,080
-I can pick the kids up on my way home,
-
-107
-00:03:20,080 --> 00:03:22,802
-and then I’ll have the afternoon with them.
-
-108
+55
 00:03:22,802 --> 00:03:26,430
-Oh, one thing … is there parking available for staff at the centre?
+Oh, one thing... is there parking available for staff at the centre?
 
-109
-00:03:26,430 --> 00:03:26,737
-Greg:
+56
+00:03:26,430 --> 00:03:30,110
+Greg: Yes, there is, and it's also on a bus route.
 
-110
-00:03:26,737 --> 00:03:27,657
-Yes, there is,
+57
+00:03:30,110 --> 00:03:35,319
+Julie: Right. Well, I expect I'll have the car but it's good to know that.
 
-111
-00:03:27,657 --> 00:03:30,110
-and it’s also on a bus route.
+58
+00:03:35,319 --> 00:03:37,770
+OK, so where do I go from here?
 
-112
-00:03:30,110 --> 00:03:30,416
-Julie:
+59
+00:03:37,770 --> 00:03:44,084
+Greg: Well, if you're happy for me to do so, I'll forward your CV and references,
 
-113
-00:03:30,416 --> 00:03:30,723
-Right.
-
-114
-00:03:30,723 --> 00:03:35,012
-Well, I expect I’ll have the car but it’s good to know
-
-115
-00:03:35,012 --> 00:03:35,319
-that.
-
-116
-00:03:35,319 --> 00:03:35,625
-OK,
-
-117
-00:03:35,625 --> 00:03:37,770
-so where do I go from here?
-
-118
-00:03:37,770 --> 00:03:38,121
-Greg:
-
-119
-00:03:38,121 --> 00:03:43,383
-Well, if you’re happy for me to do so, I’ll forward your CV
-
-120
-00:03:43,383 --> 00:03:44,084
-and references,
-
-121
-00:03:44,084 --> 00:03:48,644
+60
+00:03:44,084 --> 00:03:48,860
 and then the best thing would probably be for you to phone them
 
-122
-00:03:48,644 --> 00:03:51,100
+61
+00:03:48,860 --> 00:03:51,100
 so they can arrange for an interview.
 
-123
-00:03:51,100 --> 00:03:51,437
-Julie:
+62
+00:03:51,100 --> 00:03:53,460
+Julie: Great. Well thank you very much.
 
-124
-00:03:51,437 --> 00:03:51,774
-Great.
+63
+00:03:53,460 --> 00:03:55,310
+Greg: You're welcome. Bye now.
 
-125
-00:03:51,774 --> 00:03:53,460
-Well thank you very much.
-
-126
-00:03:53,460 --> 00:03:53,768
-Greg:
-
-127
-00:03:53,768 --> 00:03:54,693
-You’re welcome.
-
-128
-00:03:54,693 --> 00:03:55,310
-Bye now.
-
-129
-00:03:55,310 --> 00:03:55,825
-Julie:
-
-130
-00:03:55,825 --> 00:03:56,340
-Bye.
+64
+00:03:55,310 --> 00:03:56,340
+Julie: Bye.

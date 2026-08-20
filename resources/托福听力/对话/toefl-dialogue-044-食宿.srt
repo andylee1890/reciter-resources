@@ -1,83 +1,43 @@
 1
-00:00:00,000 --> 00:00:00,261
-Woman:
+00:00:00,000 --> 00:00:04,020
+Woman: I heard you're planning a trip to Sky-High Ski Resort this winter
 
 2
-00:00:00,261 --> 00:00:04,487
-I heard you’re planning a trip to Sky-High Ski Resort this winter.
-
-3
-00:00:04,487 --> 00:00:06,090
+00:00:04,540 --> 00:00:06,090
 Have you booked everything yet?
 
+3
+00:00:06,090 --> 00:00:08,500
+Man: Well, I've booked the cabin to stay
+
 4
-00:00:06,090 --> 00:00:06,140
-Man:
-
-5
-00:00:06,140 --> 00:00:08,539
-Well, I’ve booked the cabin to stay,
-
-6
-00:00:08,539 --> 00:00:11,260
+00:00:08,500 --> 00:00:11,260
 but I still need to reserve skis and ski boots.
 
+5
+00:00:11,260 --> 00:00:13,210
+Woman: You don't have your own?
+
+6
+00:00:13,210 --> 00:00:19,030
+Man: No, this will actually be my first time skiing. I'm a bit nervous.
+
 7
-00:00:11,260 --> 00:00:11,310
-Woman:
+00:00:19,030 --> 00:00:20,592
+Woman: You'll do fine.
 
 8
-00:00:11,310 --> 00:00:13,210
-You don’t have your own?
+00:00:20,592 --> 00:00:24,360
+By the way, there's a great Thai restaurant next to the resort
 
 9
-00:00:13,210 --> 00:00:13,260
-Man:
+00:00:24,360 --> 00:00:27,150
+and I don't think it requires reservations.
 
 10
-00:00:13,260 --> 00:00:17,090
-No, this will actually be my first time skiing.
+00:00:27,150 --> 00:00:29,230
+Man: Great! What's the name?
 
 11
-00:00:17,090 --> 00:00:19,030
-I’m a bit nervous.
-
-12
-00:00:19,030 --> 00:00:19,342
-Woman:
-
-13
-00:00:19,342 --> 00:00:20,592
-You’ll do fine.
-
-14
-00:00:20,592 --> 00:00:24,652
-By the way, there’s a great Thai restaurant next to the resort,
-
-15
-00:00:24,652 --> 00:00:27,150
-and I don’t think it requires reservations.
-
-16
-00:00:27,150 --> 00:00:27,497
-Man:
-
-17
-00:00:27,497 --> 00:00:27,843
-Great!
-
-18
-00:00:27,843 --> 00:00:29,230
-What’s the name?
-
-19
-00:00:29,230 --> 00:00:29,443
-Woman:
-
-20
-00:00:29,443 --> 00:00:31,363
-Can’t remember off the top of my head.
-
-21
-00:00:31,363 --> 00:00:33,070
-Let me look it up on my phone.
+00:00:29,230 --> 00:00:33,070
+Woman: Can't remember off the top of my head. Let me look it up on my phone.

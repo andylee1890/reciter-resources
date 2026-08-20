@@ -1,479 +1,255 @@
 1
-00:00:00,000 --> 00:00:00,423
-Sally:
+00:00:00,000 --> 00:00:02,520
+Sally: Good morning. Hinchingbrooke Country Park
 
 2
-00:00:00,423 --> 00:00:01,147
-Good morning.
+00:00:03,240 --> 00:00:06,260
+Sally speaking. I'm one of the rangers.
 
 3
-00:00:01,147 --> 00:00:03,577
-Hinchingbrooke Country Park, Sally speaking.
+00:00:06,260 --> 00:00:09,500
+John: Oh hello. My name's John Chapman
 
 4
-00:00:03,577 --> 00:00:06,260
-I’m one of the rangers.
+00:00:09,500 --> 00:00:12,742
+and I'm a teaching assistant at a local primary school.
 
 5
-00:00:06,260 --> 00:00:06,601
-John:
+00:00:12,742 --> 00:00:18,200
+I've been asked to arrange a visit to the park for two of our classes.
 
 6
-00:00:06,601 --> 00:00:07,283
-Oh hello.
+00:00:18,200 --> 00:00:21,270
+Sally: OK. What would you like to know?
 
 7
-00:00:07,283 --> 00:00:08,989
-My name’s John Chapman,
+00:00:21,270 --> 00:00:24,140
+John: Well, I'm new to this area
 
 8
-00:00:08,989 --> 00:00:14,789
-and I’m a teaching assistant at a local primary school.I’ve been asked to arrange
-
-9
-00:00:14,789 --> 00:00:18,200
-a visit to the park for two of our classes.
-
-10
-00:00:18,200 --> 00:00:18,584
-Sally:
-
-11
-00:00:18,584 --> 00:00:18,968
-OK.
-
-12
-00:00:18,968 --> 00:00:21,270
-What would you like to know?
-
-13
-00:00:21,270 --> 00:00:21,634
-John:
-
-14
-00:00:21,634 --> 00:00:24,186
-Well, I’m new to this area,
-
-15
-00:00:24,186 --> 00:00:28,560
+00:00:24,200 --> 00:00:28,560
 so perhaps you could tell me something about the park first, please.
 
-16
-00:00:28,560 --> 00:00:29,245
-Sally:
+9
+00:00:28,560 --> 00:00:37,460
+Sally: Of course. Altogether the park covers 170 acres, that's 69 hectares.
 
-17
-00:00:29,245 --> 00:00:30,614
-Of course.
+10
+00:00:37,460 --> 00:00:43,620
+Sally: There are three main types of habitat: wetland, grassland and woodland.
 
-18
-00:00:30,614 --> 00:00:34,722
-Altogether the park covers 170 acres,
+11
+00:00:43,620 --> 00:00:46,340
+Sally: The woods are well established and varied
 
-19
-00:00:34,722 --> 00:00:37,460
-that’s 69 hectares.
+12
+00:00:46,420 --> 00:00:51,040
+with an oak plantation, and other areas of mixed species.
 
-20
-00:00:37,460 --> 00:00:37,973
-Sally:
+13
+00:00:51,040 --> 00:00:52,070
+John: Right.
 
-21
-00:00:37,973 --> 00:00:41,567
-There are three main types of habitat:
+14
+00:00:52,070 --> 00:00:55,238
+Sally: The wetland is quite varied, too.
 
-22
-00:00:41,567 --> 00:00:43,620
-wetland, grassland and woodland.
-
-23
-00:00:43,620 --> 00:00:44,032
-Sally:
-
-24
-00:00:44,032 --> 00:00:48,567
-The woods are well established and varied, with an oak plantation,
-
-25
-00:00:48,567 --> 00:00:51,040
-and other areas of mixed species.
-
-26
-00:00:51,040 --> 00:00:51,555
-John:
-
-27
-00:00:51,555 --> 00:00:52,070
-Right.
-
-28
-00:00:52,070 --> 00:00:52,522
-Sally:
-
-29
-00:00:52,522 --> 00:00:55,238
-The wetland is quite varied, too.
-
-30
+15
 00:00:55,238 --> 00:01:01,120
 The original farmland was dug up around 40 years ago to extract gravel.
 
-31
-00:01:01,120 --> 00:01:01,551
-Sally:
+16
+00:01:01,120 --> 00:01:02,940
+Sally: Once this work was completed
 
-32
-00:01:01,551 --> 00:01:07,579
-Once this work was completed, the gravel pits filled with water, forming the two
+17
+00:01:03,540 --> 00:01:08,440
+the gravel pits filled with water, forming the two large lakes.
 
-33
-00:01:07,579 --> 00:01:08,440
-large lakes.
+18
+00:01:08,440 --> 00:01:10,820
+Sally: There are also several smaller ones
 
-34
-00:01:08,440 --> 00:01:08,869
-Sally:
+19
+00:01:11,180 --> 00:01:15,300
+ponds and a stream that flows through the park.
 
-35
-00:01:08,869 --> 00:01:14,871
-There are also several smaller ones, ponds and a stream that flows through the
+20
+00:01:15,300 --> 00:01:22,640
+John: OK, so I suppose with these different habitats there's quite a variety of wildlife.
 
-36
-00:01:14,871 --> 00:01:15,300
-park.
+21
+00:01:22,640 --> 00:01:28,854
+Sally: There certainly is - a lot of different species of birds and insects,
 
-37
-00:01:15,300 --> 00:01:15,759
-John:
-
-38
-00:01:15,759 --> 00:01:16,218
-OK,
-
-39
-00:01:16,218 --> 00:01:22,640
-so I suppose with these different habitats there’s quite a variety of wildlife.
-
-40
-00:01:22,640 --> 00:01:23,118
-Sally:
-
-41
-00:01:23,118 --> 00:01:28,854
-There certainly is – a lot of different species of birds and insects,
-
-42
+22
 00:01:28,854 --> 00:01:32,200
 and also animals like deer and rabbits.
 
+23
+00:01:32,200 --> 00:01:37,280
+John: And I understand you organise educational visits for school parties.
+
+24
+00:01:37,280 --> 00:01:41,780
+Sally: That's right. We can organise a wide range of activities
+
+25
+00:01:41,780 --> 00:01:44,870
+and adapt them to suit all ages.
+
+26
+00:01:44,870 --> 00:01:48,320
+John: Can you give me some examples of the activities?
+
+27
+00:01:48,320 --> 00:01:51,200
+Sally: Well, one focus is on science
+
+28
+00:01:51,620 --> 00:01:57,190
+where we help children to discover and study plants, trees and insects.
+
+29
+00:01:57,190 --> 00:02:01,920
+Sally: They also collect and analyse data about the things they see.
+
+30
+00:02:01,920 --> 00:02:02,730
+John: Uhuh.
+
+31
+00:02:02,730 --> 00:02:08,665
+Sally: Another focus is on geography. The park is a great environment to learn
+
+32
+00:02:08,665 --> 00:02:14,600
+and practise reading a map and using a compass to navigate around the park.
+
+33
+00:02:14,600 --> 00:02:18,510
+John: Do you do anything connected with history?
+
+34
+00:02:18,510 --> 00:02:20,960
+Sally: Yes, we do. For instance
+
+35
+00:02:21,340 --> 00:02:26,718
+the children can explore how the use of the land has changed over time.
+
+36
+00:02:26,718 --> 00:02:29,180
+Then there's leisure and tourism.
+
+37
+00:02:29,180 --> 00:02:33,310
+John: That focuses on your visitors, I would imagine.
+
+38
+00:02:33,310 --> 00:02:37,437
+Sally: Yes, mostly. The children find out about them,
+
+39
+00:02:37,437 --> 00:02:42,940
+their requirements, the problems they may cause and how we manage these.
+
+40
+00:02:42,940 --> 00:02:47,030
+Sally: And another subject we cover is music:
+
+41
+00:02:47,030 --> 00:02:52,040
+here the children experiment with natural materials to create sounds
+
+42
+00:02:52,040 --> 00:02:54,700
+and explore rhythm and tempo.
+
 43
-00:01:32,200 --> 00:01:32,662
-John:
+00:02:54,700 --> 00:02:56,190
+John: That must be fun!
 
 44
-00:01:32,662 --> 00:01:37,280
-And I understand you organise educational visits for school parties.
+00:02:56,190 --> 00:03:02,310
+Sally: Most children really enjoy it.
 
 45
-00:01:37,280 --> 00:01:37,679
-Sally:
+00:03:02,310 --> 00:03:07,510
+Sally: And of course, all the activities are educational, too.
 
 46
-00:01:37,679 --> 00:01:38,878
-That’s right.
+00:03:07,510 --> 00:03:12,140
+Learning outside the classroom encourages children to be creative
 
 47
-00:01:38,878 --> 00:01:44,471
-We can organise a wide range of activities and adapt them to suit all
-
-48
-00:01:44,471 --> 00:01:44,870
-ages.
-
-49
-00:01:44,870 --> 00:01:45,215
-John:
-
-50
-00:01:45,215 --> 00:01:48,320
-Can you give me some examples of the activities?
-
-51
-00:01:48,320 --> 00:01:48,787
-Sally:
-
-52
-00:01:48,787 --> 00:01:54,389
-Well, one focus is on science, where we help children to discover
-
-53
-00:01:54,389 --> 00:01:57,190
-and study plants, trees and insects.
-
-54
-00:01:57,190 --> 00:01:57,584
-Sally:
-
-55
-00:01:57,584 --> 00:02:01,920
-They also collect and analyse data about the things they see.
-
-56
-00:02:01,920 --> 00:02:02,325
-John:
-
-57
-00:02:02,325 --> 00:02:02,730
-Uhuh.
-
-58
-00:02:02,730 --> 00:02:03,154
-Sally:
-
-59
-00:02:03,154 --> 00:02:05,274
-Another focus is on geography.
-
-60
-00:02:05,274 --> 00:02:10,785
-The park is a great environment to learn and practise reading a map
-
-61
-00:02:10,785 --> 00:02:14,600
-and using a compass to navigate around the park.
-
-62
-00:02:14,600 --> 00:02:15,089
-John:
-
-63
-00:02:15,089 --> 00:02:18,510
-Do you do anything connected with history?
-
-64
-00:02:18,510 --> 00:02:18,920
-Sally:
-
-65
-00:02:18,920 --> 00:02:20,152
-Yes, we do.
-
-66
-00:02:20,152 --> 00:02:25,897
-For instance, the children can explore how the use of the land has changed
-
-67
-00:02:25,897 --> 00:02:26,718
-over time.
-
-68
-00:02:26,718 --> 00:02:29,180
-Then there’s leisure and tourism.
-
-69
-00:02:29,180 --> 00:02:29,639
-John:
-
-70
-00:02:29,639 --> 00:02:33,310
-That focuses on your visitors, I would imagine.
-
-71
-00:02:33,310 --> 00:02:33,769
-Sally:
-
-72
-00:02:33,769 --> 00:02:34,686
-Yes, mostly.
-
-73
-00:02:34,686 --> 00:02:40,647
-The children find out about them, their requirements, the problems they may cause
-
-74
-00:02:40,647 --> 00:02:42,940
-and how we manage these.
-
-75
-00:02:42,940 --> 00:02:43,451
-Sally:
-
-76
-00:02:43,451 --> 00:02:47,030
-And another subject we cover is music:
-
-77
-00:02:47,030 --> 00:02:53,677
-here the children experiment with natural materials to create sounds and explore rhythm
-
-78
-00:02:53,677 --> 00:02:54,700
-and tempo.
-
-79
-00:02:54,700 --> 00:02:54,998
-John:
-
-80
-00:02:54,998 --> 00:02:56,190
-That must be fun!
-
-81
-00:02:56,190 --> 00:02:57,210
-Sally:
-
-82
-00:02:57,210 --> 00:03:02,310
-Most children really enjoy it.
-
-83
-00:03:02,310 --> 00:03:02,830
-Sally:
-
-84
-00:03:02,830 --> 00:03:07,510
-And of course, all the activities are educational, too.
-
-85
-00:03:07,510 --> 00:03:12,190
-Learning outside the classroom encourages children to be creative,
-
-86
-00:03:12,190 --> 00:03:15,830
+00:03:12,140 --> 00:03:15,830
 and to explore and discover for themselves.
 
-87
-00:03:15,830 --> 00:03:16,146
-John:
+48
+00:03:15,830 --> 00:03:22,140
+John: I would imagine they get a sense of freedom that might not be a normal part of their lives.
 
-88
-00:03:16,146 --> 00:03:20,562
-I would imagine they get a sense of freedom that might not be a
+49
+00:03:22,140 --> 00:03:24,680
+Sally: That's right. And very often
 
-89
-00:03:20,562 --> 00:03:22,140
-normal part of their lives.
+50
+00:03:25,000 --> 00:03:30,919
+the children discover that they can do things they didn't know they could do,
 
-90
-00:03:22,140 --> 00:03:22,539
-Sally:
+51
+00:03:30,919 --> 00:03:34,910
+and they develop new skills. This gives them greater self-confidence.
 
-91
-00:03:22,539 --> 00:03:23,736
-That’s right.
+52
+00:03:34,910 --> 00:03:40,546
+John: It sounds great. So, what about the practical side of it?
 
-92
-00:03:23,736 --> 00:03:29,722
-And very often the children discover that they can do things they didn’t know
+53
+00:03:40,546 --> 00:03:44,000
+How much does it cost for a full-day visit
 
-93
-00:03:29,722 --> 00:03:30,919
-they could do,
-
-94
-00:03:30,919 --> 00:03:32,915
-and they develop new skills.
-
-95
-00:03:32,915 --> 00:03:34,910
-This gives them greater self-confidence.
-
-96
-00:03:34,910 --> 00:03:35,380
-John:
-
-97
-00:03:35,380 --> 00:03:36,789
-It sounds great.
-
-98
-00:03:36,789 --> 00:03:40,546
-So, what about the practical side of it?
-
-99
-00:03:40,546 --> 00:03:44,773
-How much does it cost for a full-day visit?
-
-100
-00:03:44,773 --> 00:03:49,470
+54
+00:03:44,600 --> 00:03:49,470
 We would expect to bring between 30 and 40 children.
 
-101
-00:03:49,470 --> 00:03:49,888
-Sally:
+55
+00:03:49,470 --> 00:03:56,987
+Sally: If there are over 30, it costs £4.95 for each child who attends on the day.
 
-102
-00:03:49,888 --> 00:03:56,152
-If there are over 30, it costs £4.95 for each child who attends on
+56
+00:03:56,987 --> 00:04:01,600
+We invoice you afterwards, so you don't pay for children
 
-103
-00:03:56,152 --> 00:03:56,987
-the day.
+57
+00:04:01,600 --> 00:04:05,340
+who can't come because of sickness, for example.
 
-104
-00:03:56,987 --> 00:03:58,658
-We invoice you afterwards,
+58
+00:04:05,340 --> 00:04:09,060
+Sally: There's no charge for leaders and other adults
 
-105
-00:03:58,658 --> 00:04:03,252
-so you don’t pay for children who can’t come
+59
+00:04:09,380 --> 00:04:11,350
+as many as you want to bring.
 
-106
-00:04:03,252 --> 00:04:05,340
-because of sickness, for example.
+60
+00:04:11,350 --> 00:04:15,197
+John: That sounds very fair. Well, thanks for all the information.
 
-107
-00:04:05,340 --> 00:04:05,694
-Sally:
+61
+00:04:15,197 --> 00:04:18,880
+I'll need to discuss it with my colleagues
 
-108
-00:04:05,694 --> 00:04:10,643
-There’s no charge for leaders and other adults – as many as you want
-
-109
-00:04:10,643 --> 00:04:11,350
-to bring.
-
-110
-00:04:11,350 --> 00:04:11,700
-John:
-
-111
-00:04:11,700 --> 00:04:13,098
-That sounds very fair.
-
-112
-00:04:13,098 --> 00:04:15,197
-Well, thanks for all the information.
-
-113
-00:04:15,197 --> 00:04:18,344
-I’ll need to discuss it with my colleagues,
-
-114
-00:04:18,344 --> 00:04:22,890
+62
+00:04:18,880 --> 00:04:22,890
 and I hope to get back to you soon to make a booking.
 
-115
-00:04:22,890 --> 00:04:23,242
-Sally:
+63
+00:04:22,890 --> 00:04:26,410
+Sally: We'll look forward to hearing from you. Goodbye.
 
-116
-00:04:23,242 --> 00:04:26,058
-We’ll look forward to hearing from you.
-
-117
-00:04:26,058 --> 00:04:26,410
-Goodbye.
-
-118
-00:04:26,410 --> 00:04:27,168
-John:
-
-119
-00:04:27,168 --> 00:04:27,926
-Goodbye,
-
-120
-00:04:27,926 --> 00:04:30,200
-and thank you.
+64
+00:04:26,410 --> 00:04:30,200
+John: Goodbye, and thank you.

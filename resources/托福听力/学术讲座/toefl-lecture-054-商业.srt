@@ -3,93 +3,89 @@
 Listen to a talk on a business podcast.
 
 2
-00:00:04,190 --> 00:00:05,996
-M:
+00:00:04,190 --> 00:00:09,318
+M: When launching a new business, entrepreneurs face countless decisions,
 
 3
-00:00:05,996 --> 00:00:12,095
-When launching a new business, entrepreneurs face countless decisions, from choosing a target market
+00:00:09,318 --> 00:00:13,100
+from choosing a target market to deciding
 
 4
-00:00:12,095 --> 00:00:17,010
-to deciding which features to include in their first product.
+00:00:13,100 --> 00:00:17,010
+which features to include in their first product.
 
 5
-00:00:17,010 --> 00:00:23,290
-These choices can be overwhelming, especially when resources are limited and time is short.
+00:00:17,010 --> 00:00:19,260
+These choices can be overwhelming
 
 6
+00:00:19,660 --> 00:00:23,290
+especially when resources are limited and time is short.
+
+7
 00:00:23,290 --> 00:00:33,030
 To address these challenges, some startups adopt a strategy that emphasizes speed, experimentation, and customer feedback.
 
-7
-00:00:33,030 --> 00:00:39,415
-This approach, known as the Lean Startup methodology, was popularized by Eric Reese
-
 8
-00:00:39,415 --> 00:00:43,170
-and has gained traction in the tech world and beyond.
+00:00:33,030 --> 00:00:36,557
+This approach, known as the Lean Startup methodology,
 
 9
+00:00:36,557 --> 00:00:43,170
+was popularized by Eric Reese and has gained traction in the tech world and beyond.
+
+10
 00:00:43,170 --> 00:00:51,110
 One of its core practices is building a minimum viable product, or MVP.
 
-10
-00:00:51,110 --> 00:00:55,368
-This is a basic version of a new product that can be released quickly
-
 11
-00:00:55,368 --> 00:00:58,220
-to gather feedback from early users.
+00:00:51,110 --> 00:00:58,220
+This is a basic version of a new product that can be released quickly to gather feedback from early users.
 
 12
-00:00:58,220 --> 00:01:01,930
-The goal is to learn what works and what doesn't
+00:00:58,220 --> 00:01:01,540
+The goal is to learn what works
 
 13
-00:01:01,930 --> 00:01:09,130
-so that future development is guided by actual user experience rather than assumptions.
+00:01:01,540 --> 00:01:09,130
+and what doesn't so that future development is guided by actual user experience rather than assumptions.
 
 14
 00:01:09,130 --> 00:01:13,090
 Another key principle is validated learning.
 
 15
-00:01:13,090 --> 00:01:21,036
-Instead of doing traditional market research like surveys or focus groups, entrepreneurs test their
+00:01:13,090 --> 00:01:18,599
+Instead of doing traditional market research like surveys or focus groups,
 
 16
-00:01:21,036 --> 00:01:25,110
-ideas by putting the product out in the real world.
+00:01:18,599 --> 00:01:25,110
+entrepreneurs test their ideas by putting the product out in the real world.
 
 17
-00:01:25,110 --> 00:01:32,010
-This helps them figure out whether their product actually meets the needs of their customers.
+00:01:25,110 --> 00:01:27,580
+This helps them figure out
 
 18
+00:01:27,580 --> 00:01:32,010
+whether their product actually meets the needs of their customers.
+
+19
 00:01:32,010 --> 00:01:37,220
 In all fairness, I should point out that this approach isn't perfect.
 
-19
-00:01:37,220 --> 00:01:42,929
-Rapid iteration and constant feedback can sometimes lead to confusion
-
 20
-00:01:42,929 --> 00:01:45,120
-or a lack of clear direction.
+00:01:37,220 --> 00:01:45,120
+Rapid iteration and constant feedback can sometimes lead to confusion or a lack of clear direction.
 
 21
-00:01:45,120 --> 00:01:49,747
-And in the pursuit of efficiency, some teams may cut corners,
+00:01:45,120 --> 00:01:49,780
+And in the pursuit of efficiency, some teams may cut corners
 
 22
-00:01:49,747 --> 00:01:52,080
+00:01:50,420 --> 00:01:52,080
 which could affect product quality.
 
 23
-00:01:52,080 --> 00:02:00,370
-Still, many entrepreneurs find the Lean Startup methodology helpful for navigating the uncertainties of
-
-24
-00:02:00,370 --> 00:02:03,080
-launching a new business.
+00:01:52,080 --> 00:02:03,080
+Still, many entrepreneurs find the Lean Startup methodology helpful for navigating the uncertainties of launching a new business.

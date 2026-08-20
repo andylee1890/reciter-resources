@@ -3,77 +3,89 @@
 Listen to a talk on a science podcast.
 
 2
-00:00:03,160 --> 00:00:10,090
-Today's topic is the intriguing behavior of honeybees and their communication methods within the hive.
+00:00:03,160 --> 00:00:07,600
+Today's topic is the intriguing behavior of honeybees
 
 3
-00:00:10,090 --> 00:00:15,260
-Honeybees are known for their complex social structure and efficiency in gathering resources.
+00:00:07,600 --> 00:00:10,090
+and their communication methods within the hive.
 
 4
+00:00:10,090 --> 00:00:13,440
+Honeybees are known for their complex social structure
+
+5
+00:00:13,440 --> 00:00:15,260
+and efficiency in gathering resources.
+
+6
 00:00:15,260 --> 00:00:20,070
 One of the most fascinating aspects of their behavior is the waggle dance.
 
-5
-00:00:20,070 --> 00:00:24,549
-This dance is used by worker bees to convey information about the location of
-
-6
-00:00:24,549 --> 00:00:27,080
-food sources to other members of the hive.
-
 7
-00:00:27,080 --> 00:00:31,362
-When a bee discovers a rich source of nectar, it returns to the hive
+00:00:20,070 --> 00:00:27,080
+This dance is used by worker bees to convey information about the location of food sources to other members of the hive.
 
 8
-00:00:31,362 --> 00:00:35,000
-and performs the waggle dance on the vertical surface of the honeycomb.
+00:00:27,080 --> 00:00:29,822
+When a bee discovers a rich source of nectar,
 
 9
-00:00:35,000 --> 00:00:39,771
-The dance involves a figure 8 movement and a waggle phase during which the
+00:00:29,822 --> 00:00:31,360
+it returns to the hive
 
 10
-00:00:39,771 --> 00:00:41,160
-bee vibrates its body.
+00:00:31,360 --> 00:00:35,000
+and performs the waggle dance on the vertical surface of the honeycomb.
 
 11
-00:00:41,160 --> 00:00:47,544
-The duration and angle of the waggle phase relative to the hive's vertical axis communicate the distance
+00:00:35,000 --> 00:00:37,460
+The dance involves a figure 8 movement
 
 12
-00:00:47,544 --> 00:00:49,090
-and direction of the food source.
+00:00:37,460 --> 00:00:41,160
+and a waggle phase during which the bee vibrates its body.
 
 13
+00:00:41,160 --> 00:00:47,021
+The duration and angle of the waggle phase relative to the hive's vertical axis communicate the distance
+
+14
+00:00:47,021 --> 00:00:49,090
+and direction of the food source.
+
+15
 00:00:49,090 --> 00:00:54,140
 The waggle dance is a remarkable example of symbolic communication in insects.
 
-14
-00:00:54,140 --> 00:00:59,200
-It allows the hive to efficiently gather food and is crucial for the colony's survival.
-
-15
-00:00:59,200 --> 00:01:04,478
-Understanding the waggle dance has also provided insights into how bees navigate
-
 16
-00:01:04,478 --> 00:01:08,130
-and the importance of environmental cues in their foraging behavior.
+00:00:54,140 --> 00:00:56,960
+It allows the hive to efficiently gather food
 
 17
-00:01:08,130 --> 00:01:16,040
-However, studies have shown that environmental factors like the presence of pesticides can disrupt these communication methods
+00:00:56,960 --> 00:00:59,200
+and is crucial for the colony's survival.
 
 18
-00:01:16,040 --> 00:01:20,120
-leading to less efficient foraging and potentially threatening the colony's health.
+00:00:59,200 --> 00:01:04,071
+Understanding the waggle dance has also provided insights into how bees navigate
 
 19
-00:01:20,120 --> 00:01:25,743
-The study of honeybee communication underscores the delicate balance of natural ecosystems
+00:01:04,071 --> 00:01:08,130
+and the importance of environmental cues in their foraging behavior.
 
 20
-00:01:25,743 --> 00:01:30,080
+00:01:08,130 --> 00:01:17,551
+However, studies have shown that environmental factors like the presence of pesticides can disrupt these communication methods leading to less efficient foraging
+
+21
+00:01:17,551 --> 00:01:20,120
+and potentially threatening the colony's health.
+
+22
+00:01:20,120 --> 00:01:25,317
+The study of honeybee communication underscores the delicate balance of natural ecosystems
+
+23
+00:01:25,317 --> 00:01:30,080
 and highlights the impact of human activities on these intricate systems.

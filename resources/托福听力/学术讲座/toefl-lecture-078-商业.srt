@@ -3,81 +3,101 @@
 Listen to a talk in a business class.
 
 2
-00:00:03,270 --> 00:00:11,130
-Today, we're examining the concept of disruptive innovation, a term coined by Clayton Christensen.
+00:00:03,270 --> 00:00:08,440
+Today, we're examining the concept of disruptive innovation
 
 3
-00:00:11,130 --> 00:00:16,671
-Disruptive innovation refers to a process by which a smaller company with fewer resources
+00:00:08,800 --> 00:00:11,130
+a term coined by Clayton Christensen.
 
 4
-00:00:16,671 --> 00:00:19,100
-successfully challenges established businesses.
+00:00:11,130 --> 00:00:14,229
+Disruptive innovation refers to a process by
 
 5
-00:00:19,100 --> 00:00:25,002
-This typically happens by targeting overlooked segments of the market, offering simpler, cheaper
+00:00:14,229 --> 00:00:19,100
+which a smaller company with fewer resources successfully challenges established businesses.
 
 6
-00:00:25,002 --> 00:00:30,020
-or more convenient products that eventually appeal to a broader audience.
+00:00:19,100 --> 00:00:23,650
+This typically happens by targeting overlooked segments of the market,
 
 7
+00:00:23,650 --> 00:00:30,020
+offering simpler, cheaper or more convenient products that eventually appeal to a broader audience.
+
+8
 00:00:30,020 --> 00:00:34,130
 One classic example is the rise of digital photography.
 
-8
+9
 00:00:34,130 --> 00:00:38,190
 Traditional film-based companies dominated the market for decades.
 
-9
-00:00:38,190 --> 00:00:46,010
-However, digital cameras initially targeted amateur photographers and offered a new convenient way to take pictures.
-
 10
-00:00:46,010 --> 00:00:53,110
-Over time, as technology improved, digital photography appealed to professional photographers and everyday consumers
+00:00:38,190 --> 00:00:41,611
+However, digital cameras initially targeted amateur photographers
 
 11
-00:00:53,110 --> 00:00:58,050
-drastically changing the industry and leading to the decline of film companies.
+00:00:41,611 --> 00:00:46,010
+and offered a new convenient way to take pictures.
 
 12
-00:00:58,050 --> 00:01:03,581
-Another example is streaming movie services, some of which started as DVD rental services
+00:00:46,010 --> 00:00:48,560
+Over time, as technology improved
 
 13
-00:01:03,581 --> 00:01:05,210
-that mailed movies to customers.
+00:00:49,160 --> 00:00:51,104
+digital photography appealed to professional photographers
 
 14
+00:00:51,104 --> 00:00:55,220
+and everyday consumers drastically changing the industry
+
+15
+00:00:55,220 --> 00:00:58,050
+and leading to the decline of film companies.
+
+16
+00:00:58,050 --> 00:01:00,311
+Another example is streaming movie services,
+
+17
+00:01:00,311 --> 00:01:05,210
+some of which started as DVD rental services that mailed movies to customers.
+
+18
 00:01:05,210 --> 00:01:10,070
 They disrupted the video rental industry by focusing on consumer convenience.
 
-15
-00:01:10,070 --> 00:01:16,090
-Then as broadband internet became more widespread, they adapted by introducing streaming services
+19
+00:01:10,070 --> 00:01:13,473
+Then as broadband internet became more widespread,
 
-16
-00:01:16,090 --> 00:01:21,250
-further disrupting established brick-and-mortar businesses that rented DVDs and videotapes.
+20
+00:01:13,473 --> 00:01:16,040
+they adapted by introducing streaming services
 
-17
-00:01:21,250 --> 00:01:26,068
+21
+00:01:16,380 --> 00:01:21,250
+further disrupting established brick, and-mortar businesses that rented DVDs and videotapes.
+
+22
+00:01:21,250 --> 00:01:26,169
 Disruptive innovation often requires companies to rethink their business models
 
-18
-00:01:26,068 --> 00:01:29,120
+23
+00:01:26,169 --> 00:01:29,120
 and adapt to changing market conditions.
 
-19
+24
 00:01:29,120 --> 00:01:35,010
 Established businesses might fail to recognize the threat from new entrants until it's too late.
 
-20
-00:01:35,010 --> 00:01:39,773
+25
+00:01:35,010 --> 00:01:39,894
 Understanding disruptive innovation is crucial for businesses that want to avoid complacency
 
-21
-00:01:39,773 --> 00:01:43,150
+26
+00:01:39,894 --> 00:01:43,150
 and stay competitive in a rapidly evolving marketplace.

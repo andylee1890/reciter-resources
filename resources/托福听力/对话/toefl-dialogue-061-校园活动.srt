@@ -1,67 +1,35 @@
 1
-00:00:00,000 --> 00:00:01,306
-Man:
+00:00:00,000 --> 00:00:07,110
+Man: How was the photography workshop last week?
 
 2
-00:00:01,306 --> 00:00:07,110
-How was the photography workshop last week?
+00:00:07,110 --> 00:00:10,260
+Woman: We learned techniques for taking portraits
 
 3
-00:00:07,110 --> 00:00:08,376
-Woman:
-
-4
-00:00:08,376 --> 00:00:10,246
-We learned techniques for taking portraits.
-
-5
-00:00:10,246 --> 00:00:13,140
+00:00:10,820 --> 00:00:13,140
 Next week we'll do action photography.
 
+4
+00:00:13,140 --> 00:00:19,110
+Man: That sounds so interesting. I've always wanted to take pictures of tennis matches.
+
+5
+00:00:19,110 --> 00:00:26,080
+Woman: The instructor who will lead the class next week has photographed state championships in six different sports.
+
 6
-00:00:13,140 --> 00:00:13,190
-Man:
+00:00:26,080 --> 00:00:30,720
+Man: I'd love to attend. I'll buy a new camera for the occasion
 
 7
-00:00:13,190 --> 00:00:15,272
-That sounds so interesting.
-
-8
-00:00:15,272 --> 00:00:19,110
-I've always wanted to take pictures of tennis matches.
-
-9
-00:00:19,110 --> 00:00:19,497
-Woman:
-
-10
-00:00:19,497 --> 00:00:26,080
-The instructor who will lead the class next week has photographed state championships in six different sports.
-
-11
-00:00:26,080 --> 00:00:26,478
-Man:
-
-12
-00:00:26,478 --> 00:00:28,069
-I'd love to attend.
-
-13
-00:00:28,069 --> 00:00:31,251
-I'll buy a new camera for the occasion.
-
-14
-00:00:31,251 --> 00:00:33,240
+00:00:31,740 --> 00:00:33,240
 Are all ability levels welcome?
 
-15
-00:00:33,240 --> 00:00:33,618
-Woman:
+8
+00:00:33,240 --> 00:00:37,100
+Woman: Yes, I'll e-mail you the link to sign up
 
-16
-00:00:33,618 --> 00:00:37,018
-Yes, I'll e-mail you the link to sign up.
-
-17
-00:00:37,018 --> 00:00:40,040
+9
+00:00:37,540 --> 00:00:40,040
 Just be aware that spots are going fast.

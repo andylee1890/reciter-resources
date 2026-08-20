@@ -1,59 +1,27 @@
 1
-00:00:00,000 --> 00:00:01,333
-Man:
+00:00:00,000 --> 00:00:04,080
+Man: Did you hear about the new fitness class at the gym?
 
 2
-00:00:01,333 --> 00:00:04,080
-Did you hear about the new fitness class at the gym?
-
-3
 00:00:04,080 --> 00:00:07,100
 It's an intense cardio class called cardio blast.
 
+3
+00:00:07,100 --> 00:00:13,080
+Woman: Yes, I did. I'm thinking of joining. Have you tried it yet?
+
 4
-00:00:07,100 --> 00:00:07,724
-Woman:
+00:00:13,080 --> 00:00:16,209
+Man: I went yesterday. It's intense but really fun.
 
 5
-00:00:07,724 --> 00:00:08,429
-Yes, I did.
-
-6
-00:00:08,429 --> 00:00:10,780
-I'm thinking of joining.
-
-7
-00:00:10,780 --> 00:00:13,080
-Have you tried it yet?
-
-8
-00:00:13,080 --> 00:00:13,428
-Man:
-
-9
-00:00:13,428 --> 00:00:14,471
-I went yesterday.
-
-10
-00:00:14,471 --> 00:00:16,209
-It's intense but really fun.
-
-11
 00:00:16,209 --> 00:00:20,060
 The instructors are great and keep everyone motivated.
 
-12
-00:00:20,060 --> 00:00:20,502
-Woman:
+6
+00:00:20,060 --> 00:00:24,300
+Woman: That sounds perfect. I've been looking for a challenging workout
 
-13
-00:00:20,502 --> 00:00:21,827
-That sounds perfect.
-
-14
-00:00:21,827 --> 00:00:24,918
-I've been looking for a challenging workout.
-
-15
-00:00:24,918 --> 00:00:28,010
+7
+00:00:25,140 --> 00:00:28,010
 I'll sign up for the next session.

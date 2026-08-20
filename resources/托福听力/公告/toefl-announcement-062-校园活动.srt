@@ -3,25 +3,13 @@
 Listen to an announcement at a campus event.
 
 2
-00:00:02,270 --> 00:00:04,116
-Good afternoon everyone.
+00:00:02,270 --> 00:00:10,715
+Good afternoon everyone. We are excited to announce that the university's annual technology expo will be held next Thursday from 9 a.
 
 3
-00:00:04,116 --> 00:00:08,796
-We are excited to announce that the university's annual technology expo will be held
+00:00:10,715 --> 00:00:14,170
+m. to 3 p. m. in the convention center.
 
 4
-00:00:08,796 --> 00:00:11,099
-next Thursday from 9 a.m.
-
-5
-00:00:11,099 --> 00:00:12,635
-to 3 p.m.
-
-6
-00:00:12,635 --> 00:00:14,170
-in the convention center.
-
-7
 00:00:14,170 --> 00:00:20,060
 Come and see the latest innovations from our engineering and computer science students.

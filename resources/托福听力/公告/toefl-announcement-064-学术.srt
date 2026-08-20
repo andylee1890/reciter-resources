@@ -3,17 +3,13 @@
 Listen to an announcement in a classroom.
 
 2
-00:00:03,260 --> 00:00:06,018
-Good morning class.
+00:00:03,260 --> 00:00:09,240
+Good morning class. I want to remind you that our midterm exams will take place next week.
 
 3
-00:00:06,018 --> 00:00:09,240
-I want to remind you that our midterm exams will take place next week.
-
-4
 00:00:09,240 --> 00:00:12,140
 Make sure to review your notes and textbooks.
 
-5
+4
 00:00:12,140 --> 00:00:15,130
 If you have any questions, feel free to reach out.

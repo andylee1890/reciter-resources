@@ -1,87 +1,43 @@
 1
-00:00:00,000 --> 00:00:01,245
-MAN:
+00:00:00,000 --> 00:00:05,460
+MAN: Hello. This is Jerod Townshend calling from Arbor Rental Car
 
 2
-00:00:01,245 --> 00:00:01,526
-Hello.
-
-3
-00:00:01,526 --> 00:00:04,944
-This is Jerod Townshend calling from Arbor Rental Car.
-
-4
-00:00:04,944 --> 00:00:08,090
+00:00:05,920 --> 00:00:08,090
 May I speak with Ms. Murray, please?
 
+3
+00:00:08,090 --> 00:00:12,190
+WOMAN: This is she. Are you calling about the car I booked online this morning?
+
+4
+00:00:12,190 --> 00:00:14,300
+MAN: That's correct, Ms. Murray. Unfortunately,
+
 5
-00:00:08,090 --> 00:00:08,363
-WOMAN:
+00:00:14,300 --> 00:00:17,960
+we've been having problems with our computer system all day
 
 6
-00:00:08,363 --> 00:00:09,183
-This is she.
-
-7
-00:00:09,183 --> 00:00:12,190
-Are you calling about the car I booked online this morning?
-
-8
-00:00:12,190 --> 00:00:12,542
-MAN:
-
-9
-00:00:12,542 --> 00:00:13,597
-That's correct, Ms.
-
-10
-00:00:13,597 --> 00:00:13,949
-Murray.
-
-11
-00:00:13,949 --> 00:00:17,818
-Unfortunately, we've been having problems with our computer system all day,
-
-12
-00:00:17,818 --> 00:00:20,280
+00:00:17,960 --> 00:00:20,280
 so your reservation was only partially saved.
 
-13
-00:00:20,280 --> 00:00:22,771
-I therefore have to confirm some information.
+7
+00:00:20,280 --> 00:00:23,400
+I therefore have to confirm some information
 
-14
-00:00:22,771 --> 00:00:27,040
+8
+00:00:23,880 --> 00:00:27,040
 You need a car starting on the tenth of this month, right?
 
-15
-00:00:27,040 --> 00:00:27,414
-WOMAN:
+9
+00:00:27,040 --> 00:00:30,030
+WOMAN: That's correct. And I requested an SUV.
 
-16
-00:00:27,414 --> 00:00:28,161
-That's correct.
+10
+00:00:30,030 --> 00:00:33,190
+MAN: Oh, I'm really glad I called you... Let me write that down.
 
-17
-00:00:28,161 --> 00:00:30,030
-And I requested an SUV.
-
-18
-00:00:30,030 --> 00:00:30,273
-MAN:
-
-19
-00:00:30,273 --> 00:00:33,190
-Oh, I'm really glad I called you...Let me write that down.
-
-20
-00:00:33,190 --> 00:00:33,489
-WOMAN:
-
-21
-00:00:33,489 --> 00:00:33,788
-Sure.
-
-22
-00:00:33,788 --> 00:00:36,180
-Is there anything else you'd like to know?
+11
+00:00:33,190 --> 00:00:36,180
+WOMAN: Sure. Is there anything else you'd like to know?

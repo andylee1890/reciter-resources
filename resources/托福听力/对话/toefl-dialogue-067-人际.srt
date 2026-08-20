@@ -1,75 +1,43 @@
 1
-00:00:00,000 --> 00:00:01,605
-Man:
+00:00:00,000 --> 00:00:06,420
+Man: I'm so excited about our road trip this weekend
 
 2
-00:00:01,605 --> 00:00:06,481
-I'm so excited about our road trip this weekend.
-
-3
-00:00:06,481 --> 00:00:09,210
+00:00:06,820 --> 00:00:09,210
 I'm all packed and got the food and snacks for the trip.
 
+3
+00:00:09,210 --> 00:00:12,240
+Woman: I thought David was supposed to prepare snacks.
+
 4
-00:00:09,210 --> 00:00:09,260
-Woman:
+00:00:12,240 --> 00:00:17,020
+Man: No, it was me. David signed up to bring water for everyone.
 
 5
-00:00:09,260 --> 00:00:12,240
-I thought David was supposed to prepare snacks.
-
-6
-00:00:12,240 --> 00:00:12,290
-Man:
-
-7
-00:00:12,290 --> 00:00:14,078
-No, it was me.
-
-8
-00:00:14,078 --> 00:00:17,020
-David signed up to bring water for everyone.
-
-9
 00:00:17,020 --> 00:00:17,250
 Woman: I see.
 
-10
-00:00:17,250 --> 00:00:17,654
-Man:
+6
+00:00:17,250 --> 00:00:19,270
+Man: Are you all packed?
 
-11
-00:00:17,654 --> 00:00:19,270
-Are you all packed?
+7
+00:00:19,270 --> 00:00:23,360
+Woman: Yes, I just want to get my car checked before we leave
 
-12
-00:00:19,270 --> 00:00:19,595
-Woman:
-
-13
-00:00:19,595 --> 00:00:23,492
-Yes, I just want to get my car checked before we leave.
-
-14
-00:00:23,492 --> 00:00:26,090
+8
+00:00:23,660 --> 00:00:26,090
 I'm taking it to the mechanic tomorrow morning.
 
-15
-00:00:26,090 --> 00:00:26,414
-Man:
+9
+00:00:26,090 --> 00:00:28,036
+Man: Good idea. By the way,
 
-16
-00:00:26,414 --> 00:00:27,063
-Good idea.
+10
+00:00:28,036 --> 00:00:31,640
+I just checked and there might be light showers in the afternoon
 
-17
-00:00:27,063 --> 00:00:31,605
-By the way, I just checked and there might be light showers in the
-
-18
-00:00:31,605 --> 00:00:31,929
-afternoon,
-
-19
-00:00:31,929 --> 00:00:34,200
+11
+00:00:32,100 --> 00:00:34,200
 but overall good weather on our route.

@@ -1,331 +1,255 @@
 1
-00:00:00,000 --> 00:00:00,825
-Good morning everyone.
+00:00:00,000 --> 00:00:03,080
+Good morning everyone. In today's seminar, Grant Freeman,
 
 2
-00:00:00,825 --> 00:00:07,120
-In today's seminar, Grant Freeman, a biologist who specialises in identifying insects,
+00:00:03,080 --> 00:00:07,120
+a biologist who specialises in identifying insects
 
 3
-00:00:07,120 --> 00:00:11,757
-and who works for the Australian Quarantine Service, has come to talk to us
+00:00:07,120 --> 00:00:08,855
+and who works for the Australian Quarantine Service,
 
 4
-00:00:11,757 --> 00:00:13,413
-about his current research work.
+00:00:08,855 --> 00:00:13,060
+has come to talk to us about his current research work
 
 5
-00:00:13,413 --> 00:00:15,400
+00:00:13,320 --> 00:00:15,400
 Right, well, over to you, Grant.
 
 6
-00:00:15,400 --> 00:00:16,625
-Good morning, everyone.
+00:00:15,400 --> 00:00:22,750
+Good morning, everyone. I'm sure that you know that the quarantine service regulates all food brought into Australia.
 
 7
-00:00:16,625 --> 00:00:22,342
-I'm sure that you know that the quarantine service regulates all food brought into
+00:00:22,750 --> 00:00:28,506
+Well, obviously they want to protect Australia from diseases that might come in with imported goods,
 
 8
-00:00:22,342 --> 00:00:22,750
-Australia.
-
-9
-00:00:22,750 --> 00:00:28,438
-Well, obviously they want to protect Australia from diseases that might come in with
-
-10
-00:00:28,438 --> 00:00:29,250
-imported goods,
-
-11
-00:00:29,250 --> 00:00:33,833
+00:00:28,506 --> 00:00:33,542
 but they also want to prevent insect pests from being introduced into the country,
 
-12
-00:00:33,833 --> 00:00:36,780
+9
+00:00:33,542 --> 00:00:36,780
 and that's where I have a part to play.
 
+10
+00:00:36,780 --> 00:00:41,952
+Anyway, my current research involves trying to find a particular type of bee,
+
+11
+00:00:41,952 --> 00:00:45,940
+the Asian Honey Bee, and finding out
+
+12
+00:00:45,940 --> 00:00:49,510
+whether there are any of them around in various states of Australia.
+
 13
-00:00:36,780 --> 00:00:43,088
-Anyway, my current research involves trying to find a particular type of bee, the
-
-14
-00:00:43,088 --> 00:00:44,440
-Asian Honey Bee,
-
-15
-00:00:44,440 --> 00:00:49,172
-and finding out whether there are any of them around in various states of
-
-16
-00:00:49,172 --> 00:00:49,510
-Australia.
-
-17
 00:00:49,510 --> 00:00:54,250
 We discovered a few of them in Queensland once and eradicated them.
 
+14
+00:00:54,250 --> 00:00:59,055
+Now, we're pretty keen to make sure that there aren't any more getting in,
+
+15
+00:00:59,055 --> 00:01:01,800
+particularly to New South Wales and other states.
+
+16
+00:01:01,800 --> 00:01:06,950
+What's wrong with Asian Honey Bees? Are they so different from Australian bees?
+
+17
+00:01:06,950 --> 00:01:10,360
+Well, in fact, they look almost the same
+
 18
-00:00:54,250 --> 00:01:00,770
-Now, we're pretty keen to make sure that there aren't any more getting in, particularly to New South Wales
+00:01:10,620 --> 00:01:13,565
+but they are infested with mites- microscopic creatures
 
 19
-00:01:00,770 --> 00:01:01,800
-and other states.
+00:01:13,565 --> 00:01:19,640
+which live on them, and which can seriously damage our own home-grown bees
 
 20
-00:01:01,800 --> 00:01:04,177
-What's wrong with Asian Honey Bees?
-
-21
-00:01:04,177 --> 00:01:06,950
-Are they so different from Australian bees?
-
-22
-00:01:06,950 --> 00:01:10,326
-Well, in fact, they look almost the same,
-
-23
-00:01:10,326 --> 00:01:15,390
-but they are infested with mites- microscopic creatures which live on them,
-
-24
-00:01:15,390 --> 00:01:19,008
-and which can seriously damage our own home-grown bees,
-
-25
-00:01:19,008 --> 00:01:21,420
+00:01:19,640 --> 00:01:21,420
 or could even wipe them out.
 
-26
+21
 00:01:21,420 --> 00:01:24,790
 Well, what would happen if Australian bees died out?
 
+22
+00:01:24,790 --> 00:01:28,601
+Well, the honey from Australian bees is of excellent quality,
+
+23
+00:01:28,601 --> 00:01:32,030
+much better than the stuff the Asian bees produce.
+
+24
+00:01:32,030 --> 00:01:38,050
+In fact, Australia exports native Queen bees to a large number of countries because of this.
+
+25
+00:01:38,050 --> 00:01:42,520
+When the European Honey Bee was first discovered out in the bush
+
+26
+00:01:42,960 --> 00:01:44,890
+we found they made really unpleasant honey
+
 27
-00:01:24,790 --> 00:01:30,125
-Well, the honey from Australian bees is of excellent quality, much better than the
+00:01:44,890 --> 00:01:50,650
+and they were also too big to pollinate many of our native flowers here in Australia.
 
 28
-00:01:30,125 --> 00:01:32,030
-stuff the Asian bees produce.
+00:01:50,650 --> 00:01:54,400
+That must have had a devastating effect on the natural flora
 
 29
-00:01:32,030 --> 00:01:36,921
-In fact, Australia exports native Queen bees to a large number of countries
-
-30
-00:01:36,921 --> 00:01:38,050
-because of this.
-
-31
-00:01:38,050 --> 00:01:43,576
-When the European Honey Bee was first discovered out in the bush, we found
-
-32
-00:01:43,576 --> 00:01:45,550
-they made really unpleasant honey
-
-33
-00:01:45,550 --> 00:01:50,012
-and they were also too big to pollinate many of our native flowers here
-
-34
-00:01:50,012 --> 00:01:50,650
-in Australia.
-
-35
-00:01:50,650 --> 00:01:54,864
-That must have had a devastating effect on the natural flora.
-
-36
-00:01:54,864 --> 00:01:56,780
+00:01:55,040 --> 00:01:56,780
 Did you lose any species?
 
-37
+30
 00:01:56,780 --> 00:02:00,720
 No, we managed to get them under control before that happened,
 
-38
+31
 00:02:00,720 --> 00:02:04,660
 but if Asian bees got in there could be other consequences.
 
-39
+32
 00:02:04,660 --> 00:02:09,395
 We could lose a lot of money because you might not be aware,
 
-40
-00:02:09,395 --> 00:02:14,495
-but it's estimated that native bees' pollination of flower and vegetable crops is worth
+33
+00:02:09,395 --> 00:02:12,673
+but it's estimated that native bees' pollination of flower
 
-41
-00:02:14,495 --> 00:02:16,680
-1.2 billion dollars a year.
+34
+00:02:12,673 --> 00:02:16,680
+and vegetable crops is worth 1.2 billion dollars a year.
 
-42
-00:02:16,680 --> 00:02:19,312
-So in a way they're the farmers' friend.
+35
+00:02:16,680 --> 00:02:23,516
+So in a way they're the farmers' friend. Oh, and another thing is, if you're stung by an Asian Honey Bee,
 
-43
-00:02:19,312 --> 00:02:19,641
-Oh,
+36
+00:02:23,516 --> 00:02:26,400
+it can produce an allergic reaction in some people
 
-44
-00:02:19,641 --> 00:02:23,590
-and another thing is, if you're stung by an Asian Honey Bee,
-
-45
-00:02:23,590 --> 00:02:26,481
-it can produce an allergic reaction in some people,
-
-46
-00:02:26,481 --> 00:02:29,050
+37
+00:02:26,440 --> 00:02:29,050
 so they're much more dangerous than native bees.
 
-47
+38
 00:02:29,050 --> 00:02:32,750
 How will you know if Asian bees have entered Australia?
 
-48
+39
 00:02:32,750 --> 00:02:37,220
 We're looking at the diet of the bird called the Rainbow Bee Eater.
 
-49
+40
 00:02:37,220 --> 00:02:41,660
 The Bee Eater doesn't care what it eats, as long as they're insects.
 
-50
+41
 00:02:41,660 --> 00:02:47,606
 But the interesting thing about this bird is that we are able to analyse exactly what it eats
 
-51
-00:02:47,606 --> 00:02:50,909
-and that's really helpful if we're looking for introduced insects.
+42
+00:02:47,606 --> 00:02:51,570
+and that's really helpful if we're looking for introduced insects. How come?
 
-52
-00:02:50,909 --> 00:02:51,570
-How come?
+43
+00:02:51,570 --> 00:02:55,320
+Because insects have their skeletons outside their bodies
 
-53
-00:02:51,570 --> 00:02:54,761
-Because insects have their skeletons outside their bodies,
-
-54
-00:02:54,761 --> 00:02:58,750
+44
+00:02:55,520 --> 00:02:58,750
 so the Bee Eaters digest the meat from the inside.
 
-55
-00:02:58,750 --> 00:03:02,439
-Then they bring up all the indigestible bits of skeleton
+45
+00:02:58,750 --> 00:03:02,808
+Then they bring up all the indigestible bits of skeleton and,
 
-56
-00:03:02,439 --> 00:03:07,235
-and, of course, the wings in a pellet - a small ball of waste
+46
+00:03:02,808 --> 00:03:05,360
+of course, the wings in a pellet
 
-57
-00:03:07,235 --> 00:03:09,080
-material which they cough up.
+47
+00:03:05,560 --> 00:03:09,080
+a small ball of waste material which they cough up.
 
-58
-00:03:09,080 --> 00:03:10,492
-That sounds a bit unpleasant.
+48
+00:03:09,080 --> 00:03:12,470
+That sounds a bit unpleasant. So, how do you go about it?
 
-59
-00:03:10,492 --> 00:03:12,470
-So, how do you go about it?
+49
+00:03:12,470 --> 00:03:17,195
+In the field we track down the Bee Eaters and find their favourite feeding spots,
 
-60
-00:03:12,470 --> 00:03:16,880
-In the field we track down the Bee Eaters and find their favourite feeding
+50
+00:03:17,195 --> 00:03:20,030
+you know, the places where the birds usually feed.
 
-61
-00:03:16,880 --> 00:03:20,030
-spots, you know, the places where the birds usually feed.
-
-62
+51
 00:03:20,030 --> 00:03:22,740
 It's here that we can find the pellets.
 
-63
-00:03:22,740 --> 00:03:27,481
-We collect them up and take them back to the laboratory to examine the
+52
+00:03:22,740 --> 00:03:27,820
+We collect them up and take them back to the laboratory to examine the contents.
 
-64
-00:03:27,481 --> 00:03:27,820
-contents.
+53
+00:03:27,820 --> 00:03:31,440
+How do you do that? The pellets are really hard
 
-65
-00:03:27,820 --> 00:03:29,218
-How do you do that?
+54
+00:03:31,520 --> 00:03:35,396
+especially if they have been out in the sun for a few days
 
-66
-00:03:29,218 --> 00:03:33,132
-The pellets are really hard, especially if they have been out in the sun
+55
+00:03:35,396 --> 00:03:40,995
+so first of all, we treat them by adding water to moisten them and make them softer.
 
-67
-00:03:33,132 --> 00:03:34,250
-for a few days
-
-68
-00:03:34,250 --> 00:03:39,128
-so first of all, we treat them by adding water to moisten them
-
-69
-00:03:39,128 --> 00:03:40,628
-and make them softer.
-
-70
-00:03:40,628 --> 00:03:43,630
+56
+00:03:40,995 --> 00:03:43,630
 Then we pull them apart under the microscope.
 
-71
-00:03:43,630 --> 00:03:49,441
-Everything's all scrunched up but we're looking for wings so we just pull them all out
+57
+00:03:43,630 --> 00:03:47,780
+Everything's all scrunched up but we're looking for wings
 
-72
-00:03:49,441 --> 00:03:50,530
-and straighten them.
+58
+00:03:47,780 --> 00:03:50,530
+so we just pull them all out and straighten them.
 
-73
-00:03:50,530 --> 00:03:54,681
-Then we identify them to see if we can find any Asian bee wings.
+59
+00:03:50,530 --> 00:03:54,680
+Then we identify them to see if we can find any Asian bee wings
 
-74
-00:03:54,681 --> 00:03:56,460
+60
+00:03:55,180 --> 00:03:56,460
 And how many have you found?
 
-75
-00:03:56,460 --> 00:04:01,631
-So far our research shows that Asian bees have not entered Australia in any
+61
+00:03:56,460 --> 00:04:01,728
+So far our research shows that Asian bees have not entered Australia in any number -
 
-76
-00:04:01,631 --> 00:04:02,000
-number -
+62
+00:04:01,728 --> 00:04:08,400
+it's a good result and much more reliable than trying to find live ones as evidence of introduced insects.
 
-77
-00:04:02,000 --> 00:04:06,716
-it's a good result and much more reliable than trying to find live ones
+63
+00:04:08,400 --> 00:04:12,200
+Well, that's fascinating! Thank you, Grant, for those insights.
 
-78
-00:04:06,716 --> 00:04:08,400
-as evidence of introduced insects.
-
-79
-00:04:08,400 --> 00:04:08,822
-Well,
-
-80
-00:04:08,822 --> 00:04:09,667
-that's fascinating!
-
-81
-00:04:09,667 --> 00:04:12,200
-Thank you, Grant, for those insights.
-
-82
-00:04:12,200 --> 00:04:16,698
-I hope that you might inspire some of our students here to conduct some
-
-83
-00:04:16,698 --> 00:04:17,340
-similar experiments.
+64
+00:04:12,200 --> 00:04:17,340
+I hope that you might inspire some of our students here to conduct some similar experiments.

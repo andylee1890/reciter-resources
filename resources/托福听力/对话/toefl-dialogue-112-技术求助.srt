@@ -1,59 +1,23 @@
 1
-00:00:00,000 --> 00:00:02,353
-Man:
+00:00:00,000 --> 00:00:07,040
+Man: Have you tried the new app for tracking your workouts?
 
 2
-00:00:02,353 --> 00:00:07,040
-Have you tried the new app for tracking your workouts?
+00:00:07,040 --> 00:00:09,270
+Woman: Not yet. Is it any good?
 
 3
-00:00:07,040 --> 00:00:07,425
-Woman:
+00:00:09,270 --> 00:00:12,020
+Man: Yes, it's great. It helps you set goals.
 
 4
-00:00:07,425 --> 00:00:07,973
-Not yet.
+00:00:12,020 --> 00:00:16,250
+Woman: I definitely need that. I'll download it tonight and give it a try.
 
 5
-00:00:07,973 --> 00:00:09,270
-Is it any good?
+00:00:16,250 --> 00:00:19,180
+Man: You won't regret it. It's really motivating
 
 6
-00:00:09,270 --> 00:00:09,320
-Man:
-
-7
-00:00:09,320 --> 00:00:10,492
-Yes, it's great.
-
-8
-00:00:10,492 --> 00:00:12,020
-It helps you set goals.
-
-9
-00:00:12,020 --> 00:00:12,322
-Woman:
-
-10
-00:00:12,322 --> 00:00:13,531
-I definitely need that.
-
-11
-00:00:13,531 --> 00:00:16,250
-I'll download it tonight and give it a try.
-
-12
-00:00:16,250 --> 00:00:16,806
-Man:
-
-13
-00:00:16,806 --> 00:00:19,032
-You won't regret it.
-
-14
-00:00:19,032 --> 00:00:20,701
-It's really motivating,
-
-15
-00:00:20,701 --> 00:00:24,040
+00:00:19,180 --> 00:00:24,040
 and you'll enjoy tracking your progress.

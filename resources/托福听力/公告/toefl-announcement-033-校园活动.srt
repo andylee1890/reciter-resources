@@ -1,26 +1,26 @@
 1
-00:00:00,000 --> 00:00:01,105
-Man:
+00:00:00,000 --> 00:00:09,220
+Man: Attention, the fitness center will be closing in two minutes.
 
 2
-00:00:01,105 --> 00:00:09,220
-Attention, the fitness center will be closing in two minutes.
-
-3
 00:00:09,220 --> 00:00:12,170
 Please wrap up your workouts.
 
-4
+3
 00:00:12,170 --> 00:00:17,230
 Remember to return all dumbbells, bars and other items to their proper places.
 
-5
-00:00:17,230 --> 00:00:22,126
+4
+00:00:17,230 --> 00:00:22,204
 As a reminder, we will be closed for our cleanup day tomorrow,
 
+5
+00:00:22,204 --> 00:00:24,900
+but we hope to see you again
+
 6
-00:00:22,126 --> 00:00:29,250
-but we hope to see you again when we reopen on Saturday morning, the day after tomorrow.
+00:00:24,900 --> 00:00:29,250
+when we reopen on Saturday morning, the day after tomorrow.
 
 7
 00:00:29,250 --> 00:00:33,150

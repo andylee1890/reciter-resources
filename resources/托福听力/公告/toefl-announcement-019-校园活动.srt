@@ -1,27 +1,23 @@
 1
-00:00:00,000 --> 00:00:02,290
+00:00:00,000 --> 00:00:02,920
 Listen to an announcement at a university club meeting.
 
 2
-00:00:02,290 --> 00:00:02,918
-Announcer:
+00:00:03,300 --> 00:00:05,780
+Welcome to the Creative Writing Club's monthly meeting.
 
 3
-00:00:02,918 --> 00:00:05,270
-Welcome to the creative writing club’s monthly meeting!
+00:00:06,680 --> 00:00:11,860
+Before we get started, I wanted to remind you of the guidelines for our upcoming short story contest.
 
 4
-00:00:09,080 --> 00:00:12,040
-Before we get started, I wanted to remind you of the guidelines for our upcoming short-story contest.
+00:00:12,460 --> 00:00:16,680
+We're looking for stories on the theme of family, and all stories must be
 
 5
-00:00:12,040 --> 00:00:15,535
-We’re looking for stories on the theme of family,
+00:00:16,680 --> 00:00:19,060
+submitted by the end of November to be considered
 
 6
-00:00:15,535 --> 00:00:19,090
-and all stories must be submitted by the end of November to be considered.
-
-7
-00:00:19,090 --> 00:00:21,110
-Good luck to everyone participating!
+00:00:19,860 --> 00:00:21,340
+Good luck to everyone participating.

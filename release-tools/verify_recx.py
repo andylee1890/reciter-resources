@@ -16,7 +16,7 @@ import generate_recx as generator
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Verify RECX files next to MP3 files.")
-    parser.add_argument("folder", type=Path, help="Folder containing MP3, RECX, and subtitle files.")
+    parser.add_argument("folder", type=Path, help="Folder containing MP3, RECX, and subtitle files (scanned recursively).")
     parser.add_argument(
         "--subtitle-suffix",
         default="",
@@ -110,7 +110,9 @@ def validate_file(audio: Path, subtitle_suffix: str, ffprobe: str, ffmpeg: str, 
         duration = generator.probe_duration(audio, ffprobe)
         if duration is None:
             errors.append("ffprobe could not read audio duration")
-        elif abs(last_time - duration) > 0.35:
+        # RECX is quantized to 0.1-second PCM windows. Decoder padding can
+        # place its final window up to several tenths past container duration.
+        elif abs(last_time - duration) > 0.8:
             errors.append(f"wave end {last_time:.2f}s is inconsistent with audio duration {duration:.2f}s")
     if len(wave_points) < 2:
         errors.append("wave has fewer than two points")
@@ -120,7 +122,7 @@ def validate_file(audio: Path, subtitle_suffix: str, ffprobe: str, ffmpeg: str, 
 def main() -> int:
     args = parse_args()
     folder = args.folder.expanduser().resolve()
-    audio = sorted(folder.glob("*.mp3"), key=lambda item: item.name.lower())
+    audio = generator.audio_inputs(folder, recursive=True)
     if not audio:
         print(f"No MP3 files found: {folder}", file=sys.stderr)
         return 2
@@ -129,8 +131,8 @@ def main() -> int:
         errors = validate_file(item, args.subtitle_suffix, args.ffprobe, args.ffmpeg, not args.skip_wave_duration)
         if errors:
             failed += 1
-            print(f"FAIL {item.name}: {'; '.join(errors)}")
-    print(f"Checked {len(audio)} MP3/RECX pairs; errors={failed}")
+            print(f"FAIL {item.relative_to(folder)}: {'; '.join(errors)}")
+    print(f"Checked {len(audio)} audio/RECX pairs; errors={failed}")
     return 1 if failed else 0
 
 

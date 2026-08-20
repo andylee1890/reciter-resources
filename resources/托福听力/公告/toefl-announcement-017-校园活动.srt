@@ -1,27 +1,27 @@
 1
 00:00:00,000 --> 00:00:03,200
-Narrator：Listen to a teacher talking to a group of students.
+Narrator: Listen to a teacher talking to a group of students.
 
 2
 00:00:03,200 --> 00:00:10,020
-Teacher：The new computer laboratory is looking to hire several students as part-time employees.
+Teacher: The new computer laboratory is looking to hire several students as part-time employees.
 
 3
 00:00:10,020 --> 00:00:17,240
 These jobs are available only to students specialized in Computer Science or Computer Engineering.
 
 4
-00:00:17,240 --> 00:00:24,063
-Since the lab is open 24 hours a day and has just opened, students
+00:00:17,240 --> 00:00:21,454
+Since the lab is open 24 hours a day
 
 5
-00:00:24,063 --> 00:00:26,290
-can work at just about any time.
+00:00:21,494 --> 00:00:26,290
+and has just opened, students can work at just about any time
 
 6
-00:00:26,290 --> 00:00:33,851
+00:00:26,290 --> 00:00:33,688
 Student employees will be expected to advise student users on how to operate the computers
 
 7
-00:00:33,851 --> 00:00:37,140
+00:00:33,688 --> 00:00:37,140
 and to fix any problems that arise.

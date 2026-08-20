@@ -1,63 +1,39 @@
 1
-00:00:00,000 --> 00:00:01,470
-Man:
+00:00:00,000 --> 00:00:01,980
+Listen to a conversation.
 
 2
-00:00:01,470 --> 00:00:06,040
-Lisa, you've been taking guitar lessons, right? How's that going?
+00:00:02,260 --> 00:00:06,680
+Lisa, you've been taking guitar lessons, right? How's that going? It's good.
 
 3
-00:00:06,040 --> 00:00:06,090
-Woman:
+00:00:07,000 --> 00:00:10,640
+I'm having fun and there are four or five songs I can play pretty well now
 
 4
-00:00:06,090 --> 00:00:06,823
-It's good.
-
-5
-00:00:06,823 --> 00:00:11,000
-I'm having fun and there are four or five songs I can play pretty well now.
-
-6
-00:00:11,000 --> 00:00:11,258
-Man:
-
-7
-00:00:11,258 --> 00:00:12,802
+00:00:10,800 --> 00:00:12,620
 I've been thinking about it myself.
 
+5
+00:00:13,040 --> 00:00:16,320
+I just finished a big work project, so I've got some spare time.
+
+6
+00:00:16,620 --> 00:00:19,460
+If you'll wait here a minute, I'll give you my teacher's information
+
+7
+00:00:19,940 --> 00:00:22,740
+She's great. Do you do it online or in person?
+
 8
-00:00:12,802 --> 00:00:16,150
-I just finished a big work project so I've got some spare time.
+00:00:23,160 --> 00:00:25,440
+I took a few lessons in person to get started
 
 9
-00:00:16,150 --> 00:00:16,473
-Woman:
-
-10
-00:00:16,473 --> 00:00:21,000
-If you'll wait here a minute I'll give you my teacher's information. She's great.
-
-11
-00:00:21,000 --> 00:00:21,142
-Man:
-
-12
-00:00:21,142 --> 00:00:22,280
-Do you do it online or in person?
-
-13
-00:00:22,280 --> 00:00:22,562
-Woman:
-
-14
-00:00:22,562 --> 00:00:25,381
-I took a few lessons in person to get started.
-
-15
-00:00:25,381 --> 00:00:28,201
+00:00:25,880 --> 00:00:28,320
 It's helpful to have someone show you some basic things,
 
-16
-00:00:28,201 --> 00:00:31,020
+10
+00:00:28,320 --> 00:00:30,760
 but now we do it online and it works well.

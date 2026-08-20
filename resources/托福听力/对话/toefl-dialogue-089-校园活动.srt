@@ -1,47 +1,19 @@
 1
-00:00:00,000 --> 00:00:01,351
-Man:
+00:00:00,000 --> 00:00:05,140
+Man: You going to the craft fair this weekend?
 
 2
-00:00:01,351 --> 00:00:05,140
-You going to the craft fair this weekend?
+00:00:05,140 --> 00:00:09,050
+Woman: Yes I love looking at handmade items and unique crafts.
 
 3
-00:00:05,140 --> 00:00:05,382
-Woman:
+00:00:09,050 --> 00:00:12,290
+Man: Me, too. I'm hoping to find some nice gifts for my family.
 
 4
-00:00:05,382 --> 00:00:09,050
-Yes I love looking at handmade items and unique crafts.
+00:00:12,290 --> 00:00:17,180
+Woman: That's a good idea. I've heard there will be a lot of local artists there.
 
 5
-00:00:09,050 --> 00:00:09,678
-Man:
-
-6
-00:00:09,678 --> 00:00:09,901
-Me, too.
-
-7
-00:00:09,901 --> 00:00:12,290
-I'm hoping to find some nice gifts for my family.
-
-8
-00:00:12,290 --> 00:00:12,340
-Woman:
-
-9
-00:00:12,340 --> 00:00:13,818
-That's a good idea.
-
-10
-00:00:13,818 --> 00:00:17,180
-I've heard there will be a lot of local artists there.
-
-11
-00:00:17,180 --> 00:00:17,506
-Man:
-
-12
-00:00:17,506 --> 00:00:20,110
-Great, let's meet up there around 10 AM.
+00:00:17,180 --> 00:00:20,110
+Man: Great, let's meet up there around 10 AM.

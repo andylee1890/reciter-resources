@@ -1,59 +1,19 @@
 1
-00:00:00,000 --> 00:00:01,847
-Man:
+00:00:00,000 --> 00:00:08,069
+Man: Are you going to the outdoor movie night in the park this Friday?
 
 2
-00:00:01,847 --> 00:00:08,069
-Are you going to the outdoor movie night in the park this Friday?
+00:00:08,069 --> 00:00:13,150
+Woman: Yes. I heard they're showing a classic film. It should be fun.
 
 3
-00:00:08,069 --> 00:00:09,380
-Woman:
+00:00:13,150 --> 00:00:19,100
+Man: Definitely. I'm planning to bring some snacks and a blanket.
 
 4
-00:00:09,380 --> 00:00:09,984
-Yes.
+00:00:19,100 --> 00:00:22,100
+Woman: Good idea. I'll bring some drinks.
 
 5
-00:00:09,984 --> 00:00:11,587
-I heard they're showing a classic film.
-
-6
-00:00:11,587 --> 00:00:13,150
-It should be fun.
-
-7
-00:00:13,150 --> 00:00:13,691
-Man:
-
-8
-00:00:13,691 --> 00:00:14,232
-Definitely.
-
-9
-00:00:14,232 --> 00:00:19,100
-I'm planning to bring some snacks and a blanket.
-
-10
-00:00:19,100 --> 00:00:19,529
-Woman:
-
-11
-00:00:19,529 --> 00:00:20,386
-Good idea.
-
-12
-00:00:20,386 --> 00:00:22,100
-I'll bring some drinks.
-
-13
-00:00:22,100 --> 00:00:22,449
-Man:
-
-14
-00:00:22,449 --> 00:00:22,798
-Great.
-
-15
-00:00:22,798 --> 00:00:26,290
-Let's meet up at the entrance around 7 p.m.
+00:00:22,100 --> 00:00:26,290
+Man: Great. Let's meet up at the entrance around 7 p. m.

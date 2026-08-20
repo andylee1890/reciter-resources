@@ -3,85 +3,93 @@
 Listen to a talk on an art podcast.
 
 2
-00:00:04,070 --> 00:00:13,210
-Today, we'll dive into the world of cubism, an innovative art movement that revolutionized the way we perceive and represent reality.
+00:00:04,070 --> 00:00:07,552
+Today, we'll dive into the world of cubism,
 
 3
-00:00:13,210 --> 00:00:21,070
-Cubism emerged in the early 20th century, spearheaded by artists like Pablo Picasso and Georges Braque.
+00:00:07,552 --> 00:00:13,210
+an innovative art movement that revolutionized the way we perceive and represent reality.
 
 4
-00:00:21,070 --> 00:00:23,203
-Unlike traditional art,
+00:00:13,210 --> 00:00:16,920
+Cubism emerged in the early 20th century
 
 5
-00:00:23,203 --> 00:00:26,180
-which aimed to depict subjects from a single viewpoint
+00:00:17,320 --> 00:00:21,070
+spearheaded by artists like Pablo Picasso and Georges Braque.
 
 6
-00:00:26,180 --> 00:00:32,259
-cubism fragmented objects into geometric shapes and presented multiple angles simultaneously.
+00:00:21,070 --> 00:00:26,060
+Unlike traditional art, which aimed to depict subjects from a single viewpoint
 
 7
-00:00:32,259 --> 00:00:37,901
-This technique challenged conventional perspectives and provided a more dynamic
+00:00:26,580 --> 00:00:29,827
+cubism fragmented objects into geometric shapes
 
 8
-00:00:37,901 --> 00:00:40,290
-and complex representation of the subject matter.
+00:00:29,827 --> 00:00:32,259
+and presented multiple angles simultaneously.
 
 9
-00:00:40,290 --> 00:00:47,602
-One of the most iconic works of cubism is Picasso's painting "Les Demoiselles d'Avignon,"
+00:00:32,259 --> 00:00:34,621
+This technique challenged conventional perspectives
 
 10
-00:00:47,602 --> 00:00:49,290
-or "The Young Ladies of Avignon" in English.
+00:00:34,621 --> 00:00:40,290
+and provided a more dynamic and complex representation of the subject matter.
 
 11
+00:00:40,290 --> 00:00:49,290
+One of the most iconic works of cubism is Picasso's painting "Les Demoiselles d'Avignon," or "The Young Ladies of Avignon" in English.
+
+12
 00:00:49,290 --> 00:00:57,040
 It was revolutionary, breaking away from realism with distorted figures and jagged geometric shapes.
 
-12
+13
 00:00:57,040 --> 00:01:02,060
 It rejected the traditional perspective, presenting multiple viewpoints at once.
 
-13
+14
 00:01:02,060 --> 00:01:06,250
 And the painting shocked audiences with its raw, fragmented forms.
 
-14
-00:01:06,250 --> 00:01:09,466
-Cubism can be divided into two phases:
-
 15
-00:01:09,466 --> 00:01:12,240
-Analytical Cubism and Synthetic Cubism.
+00:01:06,250 --> 00:01:12,240
+Cubism can be divided into two phases: Analytical Cubism and Synthetic Cubism.
 
 16
-00:01:12,240 --> 00:01:19,240
-Analytical Cubism focused on deconstructing objects into basic geometric forms and muted colors
+00:01:12,240 --> 00:01:17,221
+Analytical Cubism focused on deconstructing objects into basic geometric forms
 
 17
-00:01:19,240 --> 00:01:26,533
-while Synthetic Cubism introduced brighter colors and collage techniques, integrating different materials like newspapers
+00:01:17,221 --> 00:01:23,199
+and muted colors while Synthetic Cubism introduced brighter colors and collage techniques,
 
 18
-00:01:26,533 --> 00:01:28,180
-and fabric into the artwork.
+00:01:23,199 --> 00:01:28,180
+integrating different materials like newspapers and fabric into the artwork.
 
 19
-00:01:28,180 --> 00:01:36,000
-The impact of cubism extended beyond the visual arts, influencing literature, architecture and even music.
+00:01:28,180 --> 00:01:32,160
+The impact of cubism extended beyond the visual arts
 
 20
-00:01:36,000 --> 00:01:41,140
-Its emphasis on abstraction and multiplicity of perspectives inspired artists
+00:01:32,460 --> 00:01:36,000
+influencing literature, architecture and even music.
 
 21
-00:01:41,140 --> 00:01:46,100
-and thinkers to explore new ways of expressing ideas and interpreting the world.
+00:01:36,000 --> 00:01:40,391
+Its emphasis on abstraction and multiplicity of perspectives inspired artists
 
 22
-00:01:46,100 --> 00:01:53,200
-Ultimately, cubism paved the way for many modern art movements, leaving a lasting legacy on artistic expression.
+00:01:40,391 --> 00:01:46,100
+and thinkers to explore new ways of expressing ideas and interpreting the world.
+
+23
+00:01:46,100 --> 00:01:50,276
+Ultimately, cubism paved the way for many modern art movements,
+
+24
+00:01:50,276 --> 00:01:53,200
+leaving a lasting legacy on artistic expression.
