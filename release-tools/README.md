@@ -2,6 +2,29 @@
 
 这里保存维护者使用的发布脚本。根目录 `README.md` 面向外部使用者，本目录只记录脚本、依赖和发布流程。
 
+## 公共工具边界
+
+本目录会进入公开 Git 仓库，不是个人临时脚本仓库。只有可重复、可审计、
+已在本文档说明用途的仓库维护工具才能提交。一次性转换、批量改名、海报加工、
+旧数据清理、抓取、恢复现场脚本和本机实验脚本一律放在被忽略的
+`bak/release-tools/`，不得提交。
+
+当前允许提交的工具：
+
+- `audit_transport_filenames.py`：发布前检查传输文件名。
+- `generate_readme_catalog.py`：生成 README 资料表格。
+- `generate_recx.py`、`verify_recx.py`：生成和验证 RECX。
+- `generate_release_index.py`：生成发布 JSON 索引。
+- `normalize_toefl_filenames.py`：处理 TOEFL 的传输不兼容文件名。
+- `prepare_new_release_records.py`、`prepare_release_upload_assets.py`：根据发布计划准备发布材料。
+- `publish_season_release.py`、`publish_archive_only_package.py`、`publish_to_internet_archive.py`：资料包发布入口。
+- `publish_all_to_internet_archive.py`、`recover_and_publish_ia_package.py`、`recover_and_publish_all_ia_packages.py`：可恢复的 Archive 发布流程。
+- `publish_aat_github_release_parts.py`：AAT 分卷发布入口。
+- `register_resource_posters.py`：登记已发布资料的封面索引。
+
+新增工具必须同时满足：不包含本机路径、账号、浏览器/MCP 信息或凭据；具备
+明确的命令行入口和文档；不会删除用户资源；并且确实服务于可重复的仓库维护流程。
+
 脚本使用 Python、`pycurl`、Internet Archive 官方 `internetarchive` 库和 GitHub CLI，避免 PowerShell、CMD、Bash 等操作系统相关发布脚本。
 
 ## 前置条件

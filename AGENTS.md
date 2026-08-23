@@ -6,6 +6,14 @@ This repository is a public static resource repository for reciter-style English
 
 - Keep the root `README.md` public-facing. It should explain what the repository is and how external users can reference resources.
 - Keep operational details, CLI usage, release workflow, and maintainer notes under `release-tools/` or this file.
+- `release-tools/` is part of the public Git repository. It may contain only
+  reusable, documented, non-destructive repository workflows listed in its
+  README. Do not put one-off migration, cleanup, scraping, poster-processing,
+  recovery staging, or personal batch scripts there.
+- Temporary or historical scripts belong under the ignored `bak/release-tools/`
+  directory. A script must not be committed merely because it was useful once.
+- Before committing, compare `git ls-files release-tools` with the public-tool
+  allowlist in `release-tools/README.md`; unlisted scripts are not public assets.
 - Keep release link indexes and takedown notes under `release-records/`.
 - Keep versioned learning resources under `resources/`.
 
@@ -26,6 +34,10 @@ The Office US S02E01 The Dundies.rec
 
 - Publish audio by folder or season through GitHub Releases; Internet Archive may be added as an independent mirror.
 - Use the Python script in `release-tools/`; do not add OS-specific publish scripts.
+- Keep temporary scripts out of the repository. For local-only work, use
+  `bak/release-tools/` or another ignored workspace directory and remove private
+  paths, credentials, browser/MCP details, and machine-specific assumptions from
+  anything that is committed.
 - Generated release records should include:
   - GitHub Release page.
   - GitHub Release asset URLs for audio.
