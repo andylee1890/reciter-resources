@@ -19,4 +19,5 @@ __pycache__/
 # Generated release logs can be kept locally unless copied into release-records/.
 release-tools/logs/
 bak/
-resources/rec-generation-manifest.json
+# Local REC generation manifests may contain absolute source paths.
+**/rec-generation-manifest.json
