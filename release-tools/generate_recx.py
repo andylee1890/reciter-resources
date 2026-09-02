@@ -9,6 +9,7 @@ it never stores an individual learner's playback or review state.
 from __future__ import annotations
 
 import argparse
+import audioop
 import base64
 import math
 import os
@@ -170,9 +171,7 @@ def decode_peak_magnitudes(audio: Path, ffmpeg: str) -> list[float]:
         buffer = carry + chunk
         complete_bytes = len(buffer) - (len(buffer) % WINDOW_BYTES)
         for offset in range(0, complete_bytes, WINDOW_BYTES):
-            peak = 0
-            for (sample,) in struct.iter_unpack("<h", buffer[offset:offset + WINDOW_BYTES]):
-                peak = max(peak, abs(sample))
+            peak = audioop.max(buffer[offset:offset + WINDOW_BYTES], 2)
             peaks.append(peak / 32768.0)
         carry = buffer[complete_bytes:]
     stderr = process.stderr.read() if process.stderr else b""
