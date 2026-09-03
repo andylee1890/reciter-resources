@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-03T06:00:24.108970Z",
+  "tag": "2-broke-girls-s06-audio-v1",
+  "title": "2 Broke Girls Season 06 Audio v1",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/破产姐妹/破产姐妹 第06季",
+  "createdAt": "2026-09-03 13:51:24 +0800",
+  "poster": {
+    "id": "2-broke-girls-s06",
+    "kind": "season-poster",
+    "sourceType": "third-party-catalog-image",
+    "original": {
+      "path": "artwork/posters/2-broke-girls-s06.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/2-broke-girls-s06.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/2-broke-girls-s06.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/2-broke-girls-s06.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/2-broke-girls-s06.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/2-broke-girls-s06.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.8333
+      },
+      "sourceSize": {
+        "width": 500,
+        "height": 750
+      }
+    },
+    "source": "https://www.themoviedb.org/tv/39340/season/6/images/posters",
+    "sourceImage": "https://media.themoviedb.org/t/p/w500/qCa4ANpF1QOioqRUNHgk2B3KFMZ.jpg"
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/2-broke-girls-s06-audio-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 21,
+  "totalSizeMiB": 507.61,
+  "audio": [
+    {
+      "name": "破产姐妹.S06E01.mp3",
+      "sizeMiB": 44.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E01.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E01.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E01.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E01.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E01.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E03.mp3",
+      "sizeMiB": 22.49,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E03.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E03.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E03.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E03.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E03.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E04.mp3",
+      "sizeMiB": 22.82,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E04.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E04.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E04.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E04.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E04.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E05.mp3",
+      "sizeMiB": 22.74,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E05.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E05.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E05.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E05.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E05.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E06.mp3",
+      "sizeMiB": 22.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E06.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E06.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E06.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E06.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E06.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E07.mp3",
+      "sizeMiB": 23.03,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E07.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E07.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E07.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E07.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E07.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E08.mp3",
+      "sizeMiB": 23.62,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E08.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E08.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E08.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E08.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E08.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E09.mp3",
+      "sizeMiB": 23.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E09.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E09.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E09.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E09.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E09.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E10.mp3",
+      "sizeMiB": 23.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E10.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E10.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E10.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E10.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E10.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E11.mp3",
+      "sizeMiB": 23.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E11.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E11.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E11.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E11.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E11.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E12.mp3",
+      "sizeMiB": 24.09,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E12.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E12.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E12.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E12.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E13.mp3",
+      "sizeMiB": 23.74,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E13.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E13.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E13.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E13.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E13.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E14.mp3",
+      "sizeMiB": 22.66,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E14.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E14.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E14.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E14.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E14.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E15.mp3",
+      "sizeMiB": 22.46,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E15.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E15.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E15.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E15.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E15.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E16.mp3",
+      "sizeMiB": 23.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E16.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E16.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E16.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E16.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E16.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E17.mp3",
+      "sizeMiB": 22.63,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E17.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E17.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E17.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E17.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E17.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E18.mp3",
+      "sizeMiB": 22.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E18.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E18.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E18.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E18.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E18.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E19.mp3",
+      "sizeMiB": 22.2,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E19.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E19.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E19.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E19.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E19.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E20.mp3",
+      "sizeMiB": 24.35,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E20.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E20.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E20.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E20.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E20.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E21.mp3",
+      "sizeMiB": 23.67,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E21.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E21.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E21.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E21.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E21.recx"
+        }
+      }
+    },
+    {
+      "name": "破产姐妹.S06E22.mp3",
+      "sizeMiB": 23.09,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/2-broke-girls-s06-audio-v1/S06E22.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E22.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E22.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E22.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9%20%E7%AC%AC06%E5%AD%A3/%E7%A0%B4%E4%BA%A7%E5%A7%90%E5%A6%B9.S06E22.recx"
+        }
+      }
+    }
+  ]
+}

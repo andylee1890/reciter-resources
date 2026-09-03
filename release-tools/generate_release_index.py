@@ -439,7 +439,9 @@ def published_posters(records: list[dict[str, Any]], root: Path) -> tuple[list[d
             raise ValueError(f"{path}: poster {item.get('id')} has no generated card")
         tag = item_tags[0]
         if tag not in tags:
-            raise ValueError(f"{path}: poster {item.get('id')} references unknown release {tag}")
+            # The artwork source may include prepared posters for a future
+            # release. They are not part of the published-resource index yet.
+            continue
         if tag in linked:
             raise ValueError(f"{path}: release {tag} has multiple posters")
         record = next(record for record in records if record["tag"] == tag)
@@ -529,7 +531,6 @@ def main() -> int:
     generated_at = dt.datetime.now(dt.timezone.utc).isoformat().replace("+00:00", "Z")
     posters, posters_by_tag = published_posters(records, root)
     courses = published_courses(root)
-    write_poster_index(records, posters, generated_at, root)
     for record in records:
         detail_path = records_dir / f"{record['tag']}.json"
         detail_path.write_text(

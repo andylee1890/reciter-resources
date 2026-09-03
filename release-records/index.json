@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "generatedAt": "2026-08-17T19:58:12.027864Z",
+  "generatedAt": "2026-09-03T06:00:24.108970Z",
   "repository": "andylee1890/reciter-resources",
   "posterIndex": {
     "path": "artwork/posters/index.json",
@@ -1773,6 +1773,567 @@
         }
       },
       "usedBy": "toefl-listening-lectures-v1"
+    },
+    {
+      "id": "modern-family-s01",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/modern-family-s01.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s01.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s01.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/modern-family-s01.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s01.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s01.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/1421/season/1/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/i1KhQoI391KaEA5fKArrzoTvNDk.jpg",
+      "usedBy": "modern-family-s01-audio-v1"
+    },
+    {
+      "id": "modern-family-s02",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/modern-family-s02.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s02.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s02.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/modern-family-s02.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s02.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s02.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/1421/season/2/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/yvBc8av9K1g5QRtBDnP5xY69jb4.jpg",
+      "usedBy": "modern-family-s02-audio-v1"
+    },
+    {
+      "id": "modern-family-s03",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/modern-family-s03.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s03.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s03.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/modern-family-s03.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s03.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s03.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/1421/season/3/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/a4EJOG8VOV02veUIYtu4lX6FVdr.jpg",
+      "usedBy": "modern-family-s03-audio-v1"
+    },
+    {
+      "id": "modern-family-s04",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/modern-family-s04.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s04.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s04.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/modern-family-s04.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s04.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s04.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/1421/season/4/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/3fpusiurM5qBwiHVpMFBkLYxgIx.jpg",
+      "usedBy": "modern-family-s04-audio-v1"
+    },
+    {
+      "id": "modern-family-s05",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/modern-family-s05.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s05.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s05.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/modern-family-s05.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s05.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s05.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0027,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/1421/season/5/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/sJ9PqGDvGIOwJfSle62yGGieZC1.jpg",
+      "usedBy": "modern-family-s05-audio-v1"
+    },
+    {
+      "id": "modern-family-s06",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/modern-family-s06.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s06.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s06.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/modern-family-s06.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s06.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s06.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0027,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/1421/season/6/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/5cUUBx6iUrWFvJ8BmP2d4SATy1G.jpg",
+      "usedBy": "modern-family-s06-audio-v1"
+    },
+    {
+      "id": "modern-family-s07",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/modern-family-s07.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s07.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s07.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/modern-family-s07.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s07.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s07.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0027,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/1421/season/7/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/825aF6sf43gIyPsX0oeNNhqMzuH.jpg",
+      "usedBy": "modern-family-s07-audio-v1"
+    },
+    {
+      "id": "modern-family-s08",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/modern-family-s08.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s08.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s08.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/modern-family-s08.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s08.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s08.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/1421/season/8/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/coOmsK9sWpScfLDlRXQ2xUJdzZ8.jpg",
+      "usedBy": "modern-family-s08-audio-v1"
+    },
+    {
+      "id": "modern-family-s09",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/modern-family-s09.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s09.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s09.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/modern-family-s09.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s09.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s09.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/1421/season/9/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/innrJlIzs0mktUCcQaGvMYMu4pk.jpg",
+      "usedBy": "modern-family-s09-audio-v1"
+    },
+    {
+      "id": "modern-family-s10",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/modern-family-s10.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s10.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s10.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/modern-family-s10.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s10.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s10.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/1421/season/10/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/4aksppat5nq4IO08crJwcL2bbrv.jpg",
+      "usedBy": "modern-family-s10-audio-v1"
+    },
+    {
+      "id": "modern-family-s11",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/modern-family-s11.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s11.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s11.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/modern-family-s11.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s11.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s11.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.008,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/1421/season/11/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/sMIhyJw2s1PRS8S7UtVnQrHAlNB.jpg",
+      "usedBy": "modern-family-s11-audio-v1"
+    },
+    {
+      "id": "2-broke-girls-s01",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/2-broke-girls-s01.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/2-broke-girls-s01.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/2-broke-girls-s01.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/2-broke-girls-s01.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/2-broke-girls-s01.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/2-broke-girls-s01.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/39340/season/1/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/jJ2YH6bE7N4Pq3wYSbMhSl1fA6h.jpg",
+      "usedBy": "2-broke-girls-s01-audio-v1"
+    },
+    {
+      "id": "2-broke-girls-s02",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/2-broke-girls-s02.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/2-broke-girls-s02.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/2-broke-girls-s02.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/2-broke-girls-s02.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/2-broke-girls-s02.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/2-broke-girls-s02.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/39340/season/2/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/f82336pIl0JppdSPnIiqAc8BN0z.jpg",
+      "usedBy": "2-broke-girls-s02-audio-v1"
+    },
+    {
+      "id": "2-broke-girls-s03",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/2-broke-girls-s03.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/2-broke-girls-s03.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/2-broke-girls-s03.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/2-broke-girls-s03.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/2-broke-girls-s03.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/2-broke-girls-s03.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8645
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 723
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/39340/season/3/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/4uAQYgOhiK8AdjKovg2a200rMhY.jpg",
+      "usedBy": "2-broke-girls-s03-audio-v1"
+    },
+    {
+      "id": "2-broke-girls-s04",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/2-broke-girls-s04.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/2-broke-girls-s04.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/2-broke-girls-s04.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/2-broke-girls-s04.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/2-broke-girls-s04.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/2-broke-girls-s04.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/39340/season/4/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/7cyf7RMqQdXS68yRGrVULeNvIsy.jpg",
+      "usedBy": "2-broke-girls-s04-audio-v1"
+    },
+    {
+      "id": "2-broke-girls-s05",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/2-broke-girls-s05.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/2-broke-girls-s05.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/2-broke-girls-s05.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/2-broke-girls-s05.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/2-broke-girls-s05.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/2-broke-girls-s05.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/39340/season/5/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/m0F3nVq0bZL4Hl68Vtjpa5rIxZ5.jpg",
+      "usedBy": "2-broke-girls-s05-audio-v1"
+    },
+    {
+      "id": "2-broke-girls-s06",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/2-broke-girls-s06.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/2-broke-girls-s06.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/2-broke-girls-s06.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/2-broke-girls-s06.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/2-broke-girls-s06.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/2-broke-girls-s06.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/39340/season/6/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/qCa4ANpF1QOioqRUNHgk2B3KFMZ.jpg",
+      "usedBy": "2-broke-girls-s06-audio-v1"
     }
   ],
   "courses": [
@@ -1802,6 +2363,294 @@
     }
   ],
   "releases": [
+    {
+      "tag": "2-broke-girls-s01-audio-v1",
+      "title": "2 Broke Girls Season 01 Audio v1",
+      "createdAt": "2026-09-03 13:05:52 +0800",
+      "audioCount": 24,
+      "totalSizeMiB": 563.96,
+      "detailFile": "2-broke-girls-s01-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/2-broke-girls-s01-audio-v1.json",
+      "poster": {
+        "id": "2-broke-girls-s01",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/2-broke-girls-s01.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/2-broke-girls-s01.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/2-broke-girls-s01.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/2-broke-girls-s01.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/2-broke-girls-s01.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/2-broke-girls-s01.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/39340/season/1/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/jJ2YH6bE7N4Pq3wYSbMhSl1fA6h.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/2-broke-girls-s01-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/2-broke-girls-s01-audio-v1"
+    },
+    {
+      "tag": "2-broke-girls-s02-audio-v1",
+      "title": "2 Broke Girls Season 02 Audio v1",
+      "createdAt": "2026-09-03 13:15:33 +0800",
+      "audioCount": 24,
+      "totalSizeMiB": 569.11,
+      "detailFile": "2-broke-girls-s02-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/2-broke-girls-s02-audio-v1.json",
+      "poster": {
+        "id": "2-broke-girls-s02",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/2-broke-girls-s02.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/2-broke-girls-s02.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/2-broke-girls-s02.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/2-broke-girls-s02.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/2-broke-girls-s02.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/2-broke-girls-s02.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/39340/season/2/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/f82336pIl0JppdSPnIiqAc8BN0z.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/2-broke-girls-s02-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/2-broke-girls-s02-audio-v1"
+    },
+    {
+      "tag": "2-broke-girls-s03-audio-v1",
+      "title": "2 Broke Girls Season 03 Audio v1",
+      "createdAt": "2026-09-03 13:25:08 +0800",
+      "audioCount": 24,
+      "totalSizeMiB": 570.18,
+      "detailFile": "2-broke-girls-s03-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/2-broke-girls-s03-audio-v1.json",
+      "poster": {
+        "id": "2-broke-girls-s03",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/2-broke-girls-s03.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/2-broke-girls-s03.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/2-broke-girls-s03.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/2-broke-girls-s03.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/2-broke-girls-s03.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/2-broke-girls-s03.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8645
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 723
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/39340/season/3/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/4uAQYgOhiK8AdjKovg2a200rMhY.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/2-broke-girls-s03-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/2-broke-girls-s03-audio-v1"
+    },
+    {
+      "tag": "2-broke-girls-s04-audio-v1",
+      "title": "2 Broke Girls Season 04 Audio v1",
+      "createdAt": "2026-09-03 13:34:19 +0800",
+      "audioCount": 22,
+      "totalSizeMiB": 520.77,
+      "detailFile": "2-broke-girls-s04-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/2-broke-girls-s04-audio-v1.json",
+      "poster": {
+        "id": "2-broke-girls-s04",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/2-broke-girls-s04.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/2-broke-girls-s04.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/2-broke-girls-s04.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/2-broke-girls-s04.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/2-broke-girls-s04.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/2-broke-girls-s04.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/39340/season/4/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/7cyf7RMqQdXS68yRGrVULeNvIsy.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/2-broke-girls-s04-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/2-broke-girls-s04-audio-v1"
+    },
+    {
+      "tag": "2-broke-girls-s05-audio-v1",
+      "title": "2 Broke Girls Season 05 Audio v1",
+      "createdAt": "2026-09-03 13:43:17 +0800",
+      "audioCount": 22,
+      "totalSizeMiB": 517.5,
+      "detailFile": "2-broke-girls-s05-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/2-broke-girls-s05-audio-v1.json",
+      "poster": {
+        "id": "2-broke-girls-s05",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/2-broke-girls-s05.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/2-broke-girls-s05.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/2-broke-girls-s05.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/2-broke-girls-s05.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/2-broke-girls-s05.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/2-broke-girls-s05.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/39340/season/5/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/m0F3nVq0bZL4Hl68Vtjpa5rIxZ5.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/2-broke-girls-s05-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/2-broke-girls-s05-audio-v1"
+    },
+    {
+      "tag": "2-broke-girls-s06-audio-v1",
+      "title": "2 Broke Girls Season 06 Audio v1",
+      "createdAt": "2026-09-03 13:51:24 +0800",
+      "audioCount": 21,
+      "totalSizeMiB": 507.61,
+      "detailFile": "2-broke-girls-s06-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/2-broke-girls-s06-audio-v1.json",
+      "poster": {
+        "id": "2-broke-girls-s06",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/2-broke-girls-s06.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/2-broke-girls-s06.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/2-broke-girls-s06.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/2-broke-girls-s06.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/2-broke-girls-s06.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/2-broke-girls-s06.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/39340/season/6/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/qCa4ANpF1QOioqRUNHgk2B3KFMZ.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/2-broke-girls-s06-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/2-broke-girls-s06-audio-v1"
+    },
     {
       "tag": "american-accent-training-4e-audio-v1",
       "title": "American Accent Training 4e Audio",
@@ -3136,6 +3985,534 @@
         ]
       },
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s10-audio-v1"
+    },
+    {
+      "tag": "modern-family-s01-audio-v1",
+      "title": "Modern Family Season 01 Audio v1",
+      "createdAt": "2026-09-03 00:48:27 +0800",
+      "audioCount": 24,
+      "totalSizeMiB": 1177.43,
+      "detailFile": "modern-family-s01-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/modern-family-s01-audio-v1.json",
+      "poster": {
+        "id": "modern-family-s01",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/modern-family-s01.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s01.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s01.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/modern-family-s01.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s01.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s01.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/1421/season/1/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/i1KhQoI391KaEA5fKArrzoTvNDk.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s01-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s01-audio-v1"
+    },
+    {
+      "tag": "modern-family-s02-audio-v1",
+      "title": "Modern Family Season 02 Audio v1",
+      "createdAt": "2026-09-03 01:03:51 +0800",
+      "audioCount": 24,
+      "totalSizeMiB": 1172.05,
+      "detailFile": "modern-family-s02-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/modern-family-s02-audio-v1.json",
+      "poster": {
+        "id": "modern-family-s02",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/modern-family-s02.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s02.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s02.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/modern-family-s02.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s02.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s02.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/1421/season/2/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/yvBc8av9K1g5QRtBDnP5xY69jb4.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s02-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s02-audio-v1"
+    },
+    {
+      "tag": "modern-family-s03-audio-v1",
+      "title": "Modern Family Season 03 Audio v1",
+      "createdAt": "2026-09-03 01:28:28 +0800",
+      "audioCount": 24,
+      "totalSizeMiB": 1179.9,
+      "detailFile": "modern-family-s03-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/modern-family-s03-audio-v1.json",
+      "poster": {
+        "id": "modern-family-s03",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/modern-family-s03.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s03.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s03.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/modern-family-s03.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s03.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s03.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/1421/season/3/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/a4EJOG8VOV02veUIYtu4lX6FVdr.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s03-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s03-audio-v1"
+    },
+    {
+      "tag": "modern-family-s04-audio-v1",
+      "title": "Modern Family Season 04 Audio v1",
+      "createdAt": "2026-09-03 01:53:52 +0800",
+      "audioCount": 24,
+      "totalSizeMiB": 1183.05,
+      "detailFile": "modern-family-s04-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/modern-family-s04-audio-v1.json",
+      "poster": {
+        "id": "modern-family-s04",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/modern-family-s04.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s04.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s04.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/modern-family-s04.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s04.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s04.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/1421/season/4/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/3fpusiurM5qBwiHVpMFBkLYxgIx.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s04-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s04-audio-v1"
+    },
+    {
+      "tag": "modern-family-s05-audio-v1",
+      "title": "Modern Family Season 05 Audio v1",
+      "createdAt": "2026-09-03 02:04:51 +0800",
+      "audioCount": 24,
+      "totalSizeMiB": 1176.96,
+      "detailFile": "modern-family-s05-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/modern-family-s05-audio-v1.json",
+      "poster": {
+        "id": "modern-family-s05",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/modern-family-s05.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s05.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s05.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/modern-family-s05.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s05.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s05.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0027,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/1421/season/5/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/sJ9PqGDvGIOwJfSle62yGGieZC1.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s05-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s05-audio-v1"
+    },
+    {
+      "tag": "modern-family-s06-audio-v1",
+      "title": "Modern Family Season 06 Audio v1",
+      "createdAt": "2026-09-03 02:44:15 +0800",
+      "audioCount": 24,
+      "totalSizeMiB": 1035.24,
+      "detailFile": "modern-family-s06-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/modern-family-s06-audio-v1.json",
+      "poster": {
+        "id": "modern-family-s06",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/modern-family-s06.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s06.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s06.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/modern-family-s06.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s06.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s06.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0027,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/1421/season/6/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/5cUUBx6iUrWFvJ8BmP2d4SATy1G.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s06-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s06-audio-v1"
+    },
+    {
+      "tag": "modern-family-s07-audio-v1",
+      "title": "Modern Family Season 07 Audio v1",
+      "createdAt": "2026-09-03 02:53:27 +0800",
+      "audioCount": 22,
+      "totalSizeMiB": 599.87,
+      "detailFile": "modern-family-s07-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/modern-family-s07-audio-v1.json",
+      "poster": {
+        "id": "modern-family-s07",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/modern-family-s07.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s07.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s07.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/modern-family-s07.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s07.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s07.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0027,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/1421/season/7/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/825aF6sf43gIyPsX0oeNNhqMzuH.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s07-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s07-audio-v1"
+    },
+    {
+      "tag": "modern-family-s08-audio-v1",
+      "title": "Modern Family Season 08 Audio v1",
+      "createdAt": "2026-09-03 03:02:22 +0800",
+      "audioCount": 22,
+      "totalSizeMiB": 560.76,
+      "detailFile": "modern-family-s08-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/modern-family-s08-audio-v1.json",
+      "poster": {
+        "id": "modern-family-s08",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/modern-family-s08.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s08.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s08.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/modern-family-s08.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s08.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s08.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/1421/season/8/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/coOmsK9sWpScfLDlRXQ2xUJdzZ8.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s08-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s08-audio-v1"
+    },
+    {
+      "tag": "modern-family-s09-audio-v1",
+      "title": "Modern Family Season 09 Audio v1",
+      "createdAt": "2026-09-03 12:41:35 +0800",
+      "audioCount": 21,
+      "totalSizeMiB": 414.38,
+      "detailFile": "modern-family-s09-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/modern-family-s09-audio-v1.json",
+      "poster": {
+        "id": "modern-family-s09",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/modern-family-s09.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s09.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s09.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/modern-family-s09.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s09.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s09.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/1421/season/9/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/innrJlIzs0mktUCcQaGvMYMu4pk.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s09-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s09-audio-v1"
+    },
+    {
+      "tag": "modern-family-s10-audio-v1",
+      "title": "Modern Family Season 10 Audio v1",
+      "createdAt": "2026-09-03 12:49:38 +0800",
+      "audioCount": 22,
+      "totalSizeMiB": 467.85,
+      "detailFile": "modern-family-s10-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/modern-family-s10-audio-v1.json",
+      "poster": {
+        "id": "modern-family-s10",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/modern-family-s10.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s10.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s10.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/modern-family-s10.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s10.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s10.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/1421/season/10/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/4aksppat5nq4IO08crJwcL2bbrv.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s10-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s10-audio-v1"
+    },
+    {
+      "tag": "modern-family-s11-audio-v1",
+      "title": "Modern Family Season 11 Audio v1",
+      "createdAt": "2026-09-03 12:56:12 +0800",
+      "audioCount": 17,
+      "totalSizeMiB": 335.49,
+      "detailFile": "modern-family-s11-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/modern-family-s11-audio-v1.json",
+      "poster": {
+        "id": "modern-family-s11",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/modern-family-s11.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s11.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s11.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/modern-family-s11.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s11.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s11.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.008,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/1421/season/11/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/sMIhyJw2s1PRS8S7UtVnQrHAlNB.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s11-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s11-audio-v1"
     },
     {
       "tag": "new-concept-english-1-us-audio-v1",

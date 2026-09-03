@@ -1,0 +1,448 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-03T06:00:24.108970Z",
+  "tag": "modern-family-s10-audio-v1",
+  "title": "Modern Family Season 10 Audio v1",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/摩登家庭/摩登家庭 第10季",
+  "createdAt": "2026-09-03 12:49:38 +0800",
+  "poster": {
+    "id": "modern-family-s10",
+    "kind": "season-poster",
+    "sourceType": "third-party-catalog-image",
+    "original": {
+      "path": "artwork/posters/modern-family-s10.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/modern-family-s10.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/modern-family-s10.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/modern-family-s10.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/modern-family-s10.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/modern-family-s10.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 0.8333
+      },
+      "sourceSize": {
+        "width": 500,
+        "height": 750
+      }
+    },
+    "source": "https://www.themoviedb.org/tv/1421/season/10/images/posters",
+    "sourceImage": "https://media.themoviedb.org/t/p/w500/4aksppat5nq4IO08crJwcL2bbrv.jpg"
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/modern-family-s10-audio-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 22,
+  "totalSizeMiB": 467.85,
+  "audio": [
+    {
+      "name": "摩登家庭.S10E01.mp3",
+      "sizeMiB": 29.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E01.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E01.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E01.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E01.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E01.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E02.mp3",
+      "sizeMiB": 19.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E02.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E02.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E02.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E02.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E02.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E03.mp3",
+      "sizeMiB": 19.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E03.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E03.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E03.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E03.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E03.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E04.mp3",
+      "sizeMiB": 19.25,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E04.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E04.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E04.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E04.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E04.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E05.mp3",
+      "sizeMiB": 19.62,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E05.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E05.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E05.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E05.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E05.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E06.mp3",
+      "sizeMiB": 19.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E06.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E06.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E06.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E06.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E06.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E07.mp3",
+      "sizeMiB": 19.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E07.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E07.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E07.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E07.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E07.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E08.mp3",
+      "sizeMiB": 19.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E08.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E08.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E08.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E08.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E08.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E09.mp3",
+      "sizeMiB": 19.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E09.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E09.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E09.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E09.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E09.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E10.mp3",
+      "sizeMiB": 19.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E10.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E10.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E10.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E10.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E10.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E11.mp3",
+      "sizeMiB": 19.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E11.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E11.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E11.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E11.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E11.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E12.mp3",
+      "sizeMiB": 19.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E12.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E12.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E12.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E12.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E13.mp3",
+      "sizeMiB": 19.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E13.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E13.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E13.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E13.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E13.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E14.mp3",
+      "sizeMiB": 19.27,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E14.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E14.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E14.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E14.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E14.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E15.mp3",
+      "sizeMiB": 19.27,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E15.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E15.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E15.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E15.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E15.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E16.mp3",
+      "sizeMiB": 19.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E16.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E16.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E16.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E16.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E16.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E17.mp3",
+      "sizeMiB": 19.28,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E17.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E17.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E17.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E17.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E17.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E18.mp3",
+      "sizeMiB": 19.96,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E18.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E18.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E18.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E18.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E18.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E19.mp3",
+      "sizeMiB": 19.74,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E19.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E19.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E19.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E19.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E19.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E20.mp3",
+      "sizeMiB": 29.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E20.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E20.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E20.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E20.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E20.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E21.mp3",
+      "sizeMiB": 29.61,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E21.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E21.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E21.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E21.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E21.recx"
+        }
+      }
+    },
+    {
+      "name": "摩登家庭.S10E22.mp3",
+      "sizeMiB": 29.47,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/modern-family-s10-audio-v1/S10E22.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E22.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E22.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E22.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD%20%E7%AC%AC10%E5%AD%A3/%E6%91%A9%E7%99%BB%E5%AE%B6%E5%BA%AD.S10E22.recx"
+        }
+      }
+    }
+  ]
+}
