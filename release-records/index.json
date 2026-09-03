@@ -1,6 +1,6 @@
 {
   "schemaVersion": 5,
-  "generatedAt": "2026-09-03T06:00:24.108970Z",
+  "generatedAt": "2026-09-03T12:47:03.822951Z",
   "repository": "andylee1890/reciter-resources",
   "posterIndex": {
     "path": "artwork/posters/index.json",
@@ -1773,6 +1773,237 @@
         }
       },
       "usedBy": "toefl-listening-lectures-v1"
+    },
+    {
+      "id": "growing-pains-s01",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/growing-pains-s01.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/growing-pains-s01.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/growing-pains-s01.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/growing-pains-s01.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/growing-pains-s01.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/growing-pains-s01.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/54/season/1/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/5XOPyRw2RlU8KDPvKMq9tzLLRoy.jpg",
+      "usedBy": "growing-pains-s01-audio-v1"
+    },
+    {
+      "id": "growing-pains-s02",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/growing-pains-s02.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/growing-pains-s02.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/growing-pains-s02.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/growing-pains-s02.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/growing-pains-s02.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/growing-pains-s02.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8645
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 723
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/54/season/2/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/5u8LW1uQ9r1eE0DPUc5KXG436WF.jpg",
+      "usedBy": "growing-pains-s02-audio-v1"
+    },
+    {
+      "id": "growing-pains-s03",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/growing-pains-s03.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/growing-pains-s03.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/growing-pains-s03.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/growing-pains-s03.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/growing-pains-s03.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/growing-pains-s03.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/54/season/3/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/aR5JECHczjcxKgLbzPXTraBtH4i.jpg",
+      "usedBy": "growing-pains-s03-audio-v1"
+    },
+    {
+      "id": "growing-pains-s04",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/growing-pains-s04.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/growing-pains-s04.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/growing-pains-s04.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/growing-pains-s04.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/growing-pains-s04.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/growing-pains-s04.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/54/season/4/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/aFESSpB4XCcibca7gNgBKBOGqvd.jpg",
+      "usedBy": "growing-pains-s04-audio-v1"
+    },
+    {
+      "id": "growing-pains-s05",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/growing-pains-s05.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/growing-pains-s05.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/growing-pains-s05.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/growing-pains-s05.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/growing-pains-s05.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/growing-pains-s05.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/54/season/5/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/tRKRXRoLg5W1XZel9MUux9K2cnk.jpg",
+      "usedBy": "growing-pains-s05-audio-v1"
+    },
+    {
+      "id": "growing-pains-s06",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/growing-pains-s06.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/growing-pains-s06.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/growing-pains-s06.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/growing-pains-s06.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/growing-pains-s06.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/growing-pains-s06.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.8435
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 741
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/54/season/6/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/rXccxqJ8qa6H5SgVBvUB9LGiY9J.jpg",
+      "usedBy": "growing-pains-s06-audio-v1"
+    },
+    {
+      "id": "growing-pains-s07",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/growing-pains-s07.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/growing-pains-s07.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/growing-pains-s07.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/growing-pains-s07.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/growing-pains-s07.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/growing-pains-s07.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0067,
+          "width": 1.0,
+          "height": 0.8333
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 750
+        }
+      },
+      "source": "https://www.themoviedb.org/tv/54/season/7/images/posters",
+      "sourceImage": "https://media.themoviedb.org/t/p/w500/koJ8j46GtXfDaTK9eScFdMPsBLw.jpg",
+      "usedBy": "growing-pains-s07-audio-v1"
     },
     {
       "id": "modern-family-s01",
@@ -3985,6 +4216,342 @@
         ]
       },
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s10-audio-v1"
+    },
+    {
+      "tag": "growing-pains-s01-audio-v1",
+      "title": "Growing Pains Season 01 Audio v1",
+      "createdAt": "2026-09-03 20:11:12 +0800",
+      "audioCount": 22,
+      "totalSizeMiB": 478.35,
+      "detailFile": "growing-pains-s01-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/growing-pains-s01-audio-v1.json",
+      "poster": {
+        "id": "growing-pains-s01",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/growing-pains-s01.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/growing-pains-s01.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/growing-pains-s01.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/growing-pains-s01.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/growing-pains-s01.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/growing-pains-s01.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/54/season/1/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/5XOPyRw2RlU8KDPvKMq9tzLLRoy.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/growing-pains-s01-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/growing-pains-s01-audio-v1"
+    },
+    {
+      "tag": "growing-pains-s02-audio-v1",
+      "title": "Growing Pains Season 02 Audio v1",
+      "createdAt": "2026-09-03 20:16:44 +0800",
+      "audioCount": 22,
+      "totalSizeMiB": 503.85,
+      "detailFile": "growing-pains-s02-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/growing-pains-s02-audio-v1.json",
+      "poster": {
+        "id": "growing-pains-s02",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/growing-pains-s02.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/growing-pains-s02.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/growing-pains-s02.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/growing-pains-s02.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/growing-pains-s02.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/growing-pains-s02.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8645
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 723
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/54/season/2/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/5u8LW1uQ9r1eE0DPUc5KXG436WF.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/growing-pains-s02-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/growing-pains-s02-audio-v1"
+    },
+    {
+      "tag": "growing-pains-s03-audio-v1",
+      "title": "Growing Pains Season 03 Audio v1",
+      "createdAt": "2026-09-03 20:21:51 +0800",
+      "audioCount": 26,
+      "totalSizeMiB": 549.77,
+      "detailFile": "growing-pains-s03-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/growing-pains-s03-audio-v1.json",
+      "poster": {
+        "id": "growing-pains-s03",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/growing-pains-s03.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/growing-pains-s03.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/growing-pains-s03.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/growing-pains-s03.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/growing-pains-s03.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/growing-pains-s03.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/54/season/3/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/aR5JECHczjcxKgLbzPXTraBtH4i.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/growing-pains-s03-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/growing-pains-s03-audio-v1"
+    },
+    {
+      "tag": "growing-pains-s04-audio-v1",
+      "title": "Growing Pains Season 04 Audio v1",
+      "createdAt": "2026-09-03 20:26:21 +0800",
+      "audioCount": 22,
+      "totalSizeMiB": 483.06,
+      "detailFile": "growing-pains-s04-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/growing-pains-s04-audio-v1.json",
+      "poster": {
+        "id": "growing-pains-s04",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/growing-pains-s04.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/growing-pains-s04.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/growing-pains-s04.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/growing-pains-s04.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/growing-pains-s04.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/growing-pains-s04.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/54/season/4/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/aFESSpB4XCcibca7gNgBKBOGqvd.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/growing-pains-s04-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/growing-pains-s04-audio-v1"
+    },
+    {
+      "tag": "growing-pains-s05-audio-v1",
+      "title": "Growing Pains Season 05 Audio v1",
+      "createdAt": "2026-09-03 20:34:35 +0800",
+      "audioCount": 26,
+      "totalSizeMiB": 628.05,
+      "detailFile": "growing-pains-s05-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/growing-pains-s05-audio-v1.json",
+      "poster": {
+        "id": "growing-pains-s05",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/growing-pains-s05.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/growing-pains-s05.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/growing-pains-s05.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/growing-pains-s05.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/growing-pains-s05.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/growing-pains-s05.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/54/season/5/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/tRKRXRoLg5W1XZel9MUux9K2cnk.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/growing-pains-s05-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/growing-pains-s05-audio-v1"
+    },
+    {
+      "tag": "growing-pains-s06-audio-v1",
+      "title": "Growing Pains Season 06 Audio v1",
+      "createdAt": "2026-09-03 20:41:41 +0800",
+      "audioCount": 24,
+      "totalSizeMiB": 599.83,
+      "detailFile": "growing-pains-s06-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/growing-pains-s06-audio-v1.json",
+      "poster": {
+        "id": "growing-pains-s06",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/growing-pains-s06.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/growing-pains-s06.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/growing-pains-s06.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/growing-pains-s06.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/growing-pains-s06.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/growing-pains-s06.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 0.8435
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 741
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/54/season/6/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/rXccxqJ8qa6H5SgVBvUB9LGiY9J.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/growing-pains-s06-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/growing-pains-s06-audio-v1"
+    },
+    {
+      "tag": "growing-pains-s07-audio-v1",
+      "title": "Growing Pains Season 07 Audio v1",
+      "createdAt": "2026-09-03 20:46:35 +0800",
+      "audioCount": 24,
+      "totalSizeMiB": 619.01,
+      "detailFile": "growing-pains-s07-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/growing-pains-s07-audio-v1.json",
+      "poster": {
+        "id": "growing-pains-s07",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/growing-pains-s07.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/growing-pains-s07.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/growing-pains-s07.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/growing-pains-s07.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/growing-pains-s07.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/growing-pains-s07.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0067,
+            "width": 1.0,
+            "height": 0.8333
+          },
+          "sourceSize": {
+            "width": 500,
+            "height": 750
+          }
+        },
+        "source": "https://www.themoviedb.org/tv/54/season/7/images/posters",
+        "sourceImage": "https://media.themoviedb.org/t/p/w500/koJ8j46GtXfDaTK9eScFdMPsBLw.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/growing-pains-s07-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/growing-pains-s07-audio-v1"
     },
     {
       "tag": "modern-family-s01-audio-v1",
