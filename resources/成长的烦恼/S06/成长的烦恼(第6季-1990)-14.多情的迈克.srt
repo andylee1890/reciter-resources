@@ -64,7 +64,7 @@ Joan: Hi.
 Mike: Joan?
 
 14
-00:00:46,500 --> 00:00:47,000
+00:00:47,000 --> 00:00:48,280
 琼:是的.
 Joan: Yes.
 
@@ -74,7 +74,7 @@ Joan: Yes.
 Mike: Good.You're Joan.
 
 16
-00:00:49,520 --> 00:00:50,220
+00:00:49,320 --> 00:00:50,220
 琼:你去哪里了?
 Joan: Where have you been?
 
@@ -975,7 +975,7 @@ Mike: Yeah.
 Jason: Ben.
 
 197
-00:11:15,800 --> 00:11:16,700
+00:11:18,240 --> 00:11:19,480
 本:什么呀?
 Ben: What?
 
@@ -1745,7 +1745,7 @@ Maggie: Capitulate!Oh, lucky us.
 Jason: These are scientific facts Maggie.
 
 353
-00:20:27,820 --> 00:20:31,700
+00:20:26,880 --> 00:20:31,700
 麦琪:杰森,这是一条很长的路去验证一个徘徊的眼睛.
 Maggie: Jason, this is a long way to go to justify a wandering eye.
 

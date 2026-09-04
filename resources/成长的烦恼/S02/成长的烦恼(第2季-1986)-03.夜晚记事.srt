@@ -19,7 +19,7 @@ The droplets should dance before evaporating.
 Yes,ballet or rumba?
 
 5
-00:00:14,980 --> 00:00:16,660
+00:00:15,840 --> 00:00:16,320
 完美
 Perfecto!
 
@@ -49,7 +49,7 @@ Are you guys saying that you have no faith in your old dad's ability
 to cook a simple Chinese dinner?
 
 11
-00:00:27,980 --> 00:00:29,380
+00:00:26,840 --> 00:00:27,300
 是这样。
 Yep!
 
@@ -104,7 +104,7 @@ What are we going to have?
 Packed beef.
 
 22
-00:00:44,750 --> 00:00:45,480
+00:00:43,840 --> 00:00:44,320
 是吗？
 Yum.
 
@@ -152,7 +152,7 @@ Are you wearing make up?
 Oh just a little base,powder,blush,lipstick,mascara and eye liner.
 
 32
-00:01:06,240 --> 00:01:08,200
+00:01:07,340 --> 00:01:07,820
 安妮的？
 Annie's?
 
@@ -202,7 +202,7 @@ Carol，你和朋友出去之前总是先向我们介绍的。
 Well Carol,usually we know your friends before you go out with them.
 
 42
-00:01:40,630 --> 00:01:41,520
+00:01:39,600 --> 00:01:41,480
 这有什么好介绍的，她是啦啦队长，
 Well what's to know. She's a cheerleader;
 
@@ -217,7 +217,7 @@ she's on the drama club,very funny and very popular.
 So what's she hanging around with you for?
 
 45
-00:01:47,540 --> 00:01:49,840
+00:01:48,040 --> 00:01:48,520
 Mike!
 
 46
@@ -731,7 +731,7 @@ Yeah,you remember those classic movies
 I bought and I forced you to watch?
 
 149
-00:07:27,780 --> 00:07:28,620
+00:07:26,930 --> 00:07:27,490
 怎么了？
 Yeah.
 
@@ -756,7 +756,7 @@ Carol哭了，你记得吗？
 and your mum cried at the end?
 
 154
-00:07:39,460 --> 00:07:39,870
+00:07:38,390 --> 00:07:38,990
 记得。
 Yeah.
 
@@ -840,7 +840,7 @@ And this is my little brother,Ben.
 Did you bring more clothes for Carol?
 
 171
-00:08:21,690 --> 00:08:21,970
+00:08:21,290 --> 00:08:21,810
 Ben!
 
 172
@@ -859,7 +859,7 @@ HI，安妮，
 Hi Annie.
 
 175
-00:08:27,820 --> 00:08:28,560
+00:08:26,850 --> 00:08:27,150
 Hi.
 
 176
@@ -887,7 +887,7 @@ It's Ok. I have a father too.
 And that's Mike.
 
 181
-00:08:39,320 --> 00:08:40,130
+00:08:38,810 --> 00:08:39,230
 Hi.
 
 182
@@ -941,7 +941,7 @@ Mum!
 This one makes you look so sexy.
 
 192
-00:09:10,230 --> 00:09:10,290
+00:09:09,430 --> 00:09:09,830
 真的？！
 Really?
 
@@ -996,12 +996,12 @@ Me too.
 Well,where else?
 
 203
-00:09:21,770 --> 00:09:22,470
+00:09:21,230 --> 00:09:21,750
 我不知道。
 I don't know.
 
 204
-00:09:22,970 --> 00:09:24,010
+00:09:21,770 --> 00:09:22,730
 我也不知道。
 I don't know either.
 
@@ -1031,7 +1031,7 @@ For the night?
 Hey that would be fun.
 
 210
-00:09:28,680 --> 00:09:29,530
+00:09:28,090 --> 00:09:28,490
 对，哈哈。
 Yeah!
 
@@ -1166,17 +1166,17 @@ He was. Would you set the table for me please?
 Sure. Are you sure you don't mind hanging out here all evening?
 
 237
-00:10:41,410 --> 00:10:42,110
+00:10:40,410 --> 00:10:40,890
 不。
 No!
 
 238
-00:10:42,110 --> 00:10:47,520
+00:10:45,630 --> 00:10:46,110
 女士们。
 Ladies.
 
 239
-00:10:47,520 --> 00:10:48,650
+00:10:47,010 --> 00:10:47,490
 Hi!
 
 240
@@ -1234,7 +1234,7 @@ Some might even say I'm gonna puke on my shoes.
 I like your outfit too.
 
 251
-00:11:22,300 --> 00:11:23,730
+00:11:21,930 --> 00:11:22,510
 哈哈，这个。
 This?
 
@@ -1860,7 +1860,7 @@ OH，Mike，
 Oh my god,we have to talk.
 
 377
-00:16:31,180 --> 00:16:32,450
+00:16:31,310 --> 00:16:31,830
 是吗？
 Yeah!
 
@@ -1875,7 +1875,7 @@ Now I know this is shocking,
 but Annie is using Carol because she's interested in you.
 
 380
-00:16:37,930 --> 00:16:39,710
+00:16:37,750 --> 00:16:38,310
 不！
 No!
 
@@ -1910,7 +1910,7 @@ You know,probably the best thing would be for me
 to go over to Boner's right now.
 
 387
-00:16:53,660 --> 00:16:54,620
+00:16:53,250 --> 00:16:53,690
 好极了。
 Great!
 
@@ -1930,7 +1930,7 @@ Where are you going?
 Boner's house.
 
 391
-00:16:59,130 --> 00:16:59,930
+00:16:58,670 --> 00:16:59,030
 什么？
 What?
 
@@ -2035,7 +2035,7 @@ I got to go outside.
 I'm surrounded by loons.
 
 412
-00:18:12,040 --> 00:18:14,270
+00:18:13,990 --> 00:18:14,210
 波拿。
 Boner!
 

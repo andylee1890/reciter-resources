@@ -54,12 +54,12 @@ Sometimes I just feel like I have to scream
 to let you know how upset I am,
 
 12
-00:00:27,020 --> 00:00:28,439
+00:00:27,020 --> 00:00:28,720
 但是你现在明白了 对吧
 but you get it now, right?
 
 13
-00:00:28,439 --> 00:00:30,480
+00:00:28,720 --> 00:00:30,480
 我 明白了
 I...do.
 
@@ -469,7 +469,7 @@ Okay, Phil, what do you say?
 You want to take a trip to the mall with me?
 
 95
-00:03:33,607 --> 00:03:35,063
+00:03:33,210 --> 00:03:35,470
 想去
 I...do.
 
@@ -564,12 +564,12 @@ how you miss working at the salon.
 I guess I could.
 
 114
-00:04:05,030 --> 00:04:07,552
+00:04:05,030 --> 00:04:07,570
 我能帮杰做 为什么不能帮你做呢
 I do jay. Why can't I do you?
 
 115
-00:04:07,552 --> 00:04:09,570
+00:04:07,570 --> 00:04:09,570
 你可以"做"我
 You...can do me.
 
@@ -1464,7 +1464,7 @@ Yeah. You did.
 I left you one.
 
 294
-00:10:28,416 --> 00:10:31,078
+00:10:28,370 --> 00:10:31,610
 就在这儿
 It's right...there.
 
@@ -2004,7 +2004,7 @@ and sees a room full of empty chairs --
 You know he's not really your archenemy.
 
 402
-00:14:25,775 --> 00:14:27,105
+00:14:25,570 --> 00:14:27,310
 那只是你幻想的
 That's sort of a made-up thing.
 
@@ -2084,7 +2084,7 @@ Same, please.
 I'll have a mango-kiwi smoothie,
 
 418
-00:15:02,373 --> 00:15:03,878
+00:15:01,990 --> 00:15:04,390
 把冰淇淋换成酸奶 要低脂的
 yogurt instead of ice cream, and make it low-fat.
 
@@ -2274,12 +2274,12 @@ Yeah, I just want you to know how important to me you are.
 Sweetie, I know that. I know that.
 
 456
-00:16:25,130 --> 00:16:27,862
+00:16:25,130 --> 00:16:28,390
 我还是感觉很糟
 I still feel bad about, you know
 
 457
-00:16:27,862 --> 00:16:30,770
+00:16:28,390 --> 00:16:30,770
 因为我的所作所为
 what I...did.
 
@@ -2509,7 +2509,7 @@ but you wouldn't until your dental hygienist
 said it changed her life.
 
 503
-00:18:14,914 --> 00:18:17,370
+00:18:14,430 --> 00:18:17,370
 -记得这个吗 -是啊
 - Remember this? - Uh-huh.
 
@@ -2724,7 +2724,7 @@ Oh -- how are you sitting at a harp
 and not scoring this moment? Ladies!
 
 546
-00:19:51,784 --> 00:19:54,090
+00:19:43,470 --> 00:19:54,090
 如果你不是一个好的聆听者
 You can't have a successful marriage
 

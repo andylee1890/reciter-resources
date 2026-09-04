@@ -58,7 +58,7 @@ And the rest of the time...
 - You'll love them anyway. - Yeah.
 
 13
-00:00:27,594 --> 00:00:28,720
+00:00:27,840 --> 00:00:28,320
 鬼才相信
 Unbelievable.
 
@@ -77,7 +77,7 @@ All right, lady, drop that spatula or you're scrambled.
 Go ahead. Make my day.
 
 17
-00:01:37,230 --> 00:01:38,219
+00:01:37,260 --> 00:01:38,040
 Well...
 
 18
@@ -111,7 +111,7 @@ You know, I read an article that said that two-career couples...
 should really make special effort to always remain...
 
 24
-00:01:58,985 --> 00:02:00,145
+00:01:58,000 --> 00:01:59,580
 活泼
 frisky.
 
@@ -361,7 +361,7 @@ Come here.
 Ben, imagine you had to spend...
 
 74
-00:05:22,920 --> 00:05:25,420
+00:05:22,360 --> 00:05:25,420
 闷了15年，哪也不准去
 15 years in this house without ever going out to play.
 
@@ -516,7 +516,7 @@ See you next week. Bye-bye.
 - Kids. - Me?
 
 105
-00:07:46,432 --> 00:07:47,421
+00:07:46,500 --> 00:07:46,980
 对
 Yeah.
 
@@ -526,7 +526,7 @@ Yeah.
 So you wanted to talk about something?
 
 107
-00:07:54,106 --> 00:07:55,664
+00:07:54,860 --> 00:07:55,340
 是的
 Yeah.
 
@@ -571,7 +571,7 @@ See, Dad, you know that dance hall place that I mentioned this morning?
 The House of Sweat?
 
 116
-00:08:18,064 --> 00:08:19,053
+00:08:18,100 --> 00:08:18,500
 是的
 Yeah.
 
@@ -581,7 +581,7 @@ Yeah.
 Jerry and I were talking and we decided...
 
 118
-00:08:22,201 --> 00:08:23,259
+00:08:22,240 --> 00:08:22,580
 杰里？
 Jerry?
 
@@ -641,7 +641,7 @@ Jerry would drive so you wouldn't have to do...
 What would your mother say?
 
 130
-00:08:51,197 --> 00:08:52,186
+00:08:51,200 --> 00:08:51,600
 妈妈？
 Mom?
 
@@ -781,7 +781,7 @@ You let him do what?
 Maggie, he's 15 years old now.
 
 158
-00:10:10,800 --> 00:10:11,620
+00:10:10,800 --> 00:10:12,380
 15岁又怎样？
 So he's 15.
 
@@ -851,7 +851,7 @@ And a kid needs some freedom in order to learn responsibility.
 Jason, I know you believe in this "unlimited human potential"...
 
 172
-00:10:59,558 --> 00:11:00,582
+00:10:59,080 --> 00:11:00,160
 这种废话
 stuff.
 
@@ -871,7 +871,7 @@ And that's great for your patients.
 ...I believe in original... - Sin.
 
 176
-00:11:06,632 --> 00:11:07,690
+00:11:06,420 --> 00:11:06,940
 原罪
 Sin.
 
@@ -931,7 +931,7 @@ Slipped some satin sheets on the old bouncer.
 Satin sheets? You?
 
 188
-00:11:48,541 --> 00:11:49,599
+00:11:48,720 --> 00:11:49,300
 是的
 Yeah.
 
@@ -966,7 +966,7 @@ Well, I slipped some sleeping pills into their Gatorade.
 They'll be asleep for about three weeks.
 
 195
-00:12:09,161 --> 00:12:09,500
+00:12:09,200 --> 00:12:09,500
 杰森!
 Jason!
 
@@ -1011,7 +1011,7 @@ He said, "That's why your Mike is in our jail."
 What are you in for, kid?
 
 204
-00:13:05,084 --> 00:13:06,244
+00:13:04,660 --> 00:13:05,560
 我…
 I...
 
@@ -1021,7 +1021,7 @@ I...
 I killed a man just to watch him die.
 
 206
-00:13:13,025 --> 00:13:14,083
+00:13:12,940 --> 00:13:13,460
 你呢？
 You?
 
@@ -1246,7 +1246,7 @@ I mean, it's not like this is the first time he's screwed up.
 Who screwed up?
 
 251
-00:16:15,674 --> 00:16:16,766
+00:16:15,920 --> 00:16:16,360
 麦克啊
 Mike.
 
@@ -1281,7 +1281,7 @@ Well, wouldn't you be pretty upset?
 Absolutely. In fact, I'm amazed at the way you're holding together.
 
 258
-00:16:46,372 --> 00:16:47,464
+00:16:46,220 --> 00:16:46,780
 怎么了？
 What?
 
@@ -1326,7 +1326,7 @@ Okay, I admit it.
 I'm upset with Mike.
 
 267
-00:17:26,311 --> 00:17:27,300
+00:17:26,560 --> 00:17:27,120
 Oh?
 
 268
@@ -1595,7 +1595,7 @@ almost without warning, I just find myself doing something really stupid.
 Sort of an uncontrollable impulse?
 
 321
-00:21:11,003 --> 00:21:11,992
+00:21:10,960 --> 00:21:11,540
 没错
 Yeah.
 
@@ -1610,12 +1610,12 @@ Or is it more like you think you're doing something really stupid...
 and then you weigh your chances of getting away with it...
 
 324
-00:21:19,260 --> 00:21:21,480
+00:21:19,260 --> 00:21:21,500
 如果几率大于10%，你就干
 and if they're better than 10%, you go for it.
 
 325
-00:21:21,480 --> 00:21:22,340
+00:21:21,620 --> 00:21:22,060
 是啊
 Yeah!
 
@@ -1625,7 +1625,7 @@ Yeah!
 That's why you're grounded for two months.
 
 327
-00:21:25,183 --> 00:21:26,309
+00:21:25,600 --> 00:21:26,080
 是啊
 Yeah.
 
@@ -1645,7 +1645,7 @@ Well, if it makes you feel any better, I did some pretty lame-o things in my day
 Like what?
 
 331
-00:21:37,320 --> 00:21:38,520
+00:21:37,320 --> 00:21:39,020
 记得我16岁的时候…
 Like I remember when I was 16...
 
@@ -1725,7 +1725,7 @@ No, I don't, Mike.
 I think that's what being an adult is all about.
 
 347
-00:22:30,682 --> 00:22:31,671
+00:22:30,540 --> 00:22:31,040
 Oh.
 
 348
@@ -1739,7 +1739,7 @@ Well, all right. Good night, Dad.
 Good night, son.
 
 350
-00:22:39,291 --> 00:22:40,280
+00:22:39,360 --> 00:22:40,020
 Hey.
 
 351

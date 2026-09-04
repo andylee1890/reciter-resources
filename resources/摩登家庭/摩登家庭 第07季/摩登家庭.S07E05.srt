@@ -334,7 +334,7 @@ your last class tomorrow is at 10:00 a.m.,
 Haley, quick, close the laptop!
 
 68
-00:02:25,740 --> 00:02:28,320
+00:02:26,300 --> 00:02:28,320
 在此之前 我一直是个全职妈妈
 Until now, I was always a full-time mom,
 
@@ -499,7 +499,7 @@ I'll see you guys.
 - Yes. - You, too, Raymond.
 
 101
-00:03:34,560 --> 00:03:36,219
+00:03:34,740 --> 00:03:35,940
 -再见 -照顾好自己
 - Bye-bye. - Take care of yourself.
 
@@ -524,7 +524,7 @@ Raymond, you should come tonight.
 Really?
 
 106
-00:03:42,780 --> 00:03:45,200
+00:03:43,000 --> 00:03:45,080
 没有雷蒙德 算什么小聚啊
 It wouldn't be a get-together without Raymond.
 
@@ -639,7 +639,7 @@ Hi. I'm -- I'm here.
 Well, this is a special treat.
 
 129
-00:04:33,560 --> 00:04:37,837
+00:04:33,760 --> 00:04:36,580
 我竟然看到了一位第一次出现的志愿者
 I spy with my little eye a first-time volunteer!
 
@@ -824,7 +824,7 @@ Joke all you want, but this looks good on an application to NYU
 or UCLA or KFC.
 
 166
-00:05:55,560 --> 00:05:59,623
+00:05:55,860 --> 00:05:59,380
 好吧 别说废话了 开始捡垃圾吧
 Okay, stop trash-talking and start trash picking...up.
 
@@ -1344,7 +1344,7 @@ in loading dock four?
 - And that works because-- - That frees up warehouse two.
 
 270
-00:09:34,840 --> 00:09:36,820
+00:09:34,960 --> 00:09:36,760
 最坏无非我们要晚一天才送到
 Worst-case scenario, we're a day late on delivery.
 
@@ -1389,7 +1389,7 @@ You see, what I did there
 is I created a framework for problem solving,
 
 279
-00:09:50,900 --> 00:09:53,179
+00:09:50,920 --> 00:09:52,880
 但是我不会直接告诉他们答案
 and I didn't spoon-feed them the answers.
 
@@ -1624,7 +1624,7 @@ Mitchell, guess what just happened.
 You're home early.
 
 326
-00:11:28,220 --> 00:11:30,279
+00:11:28,440 --> 00:11:30,260
 我周一周三周五都有两小时的午休
 I have a two-hour lunch Monday, Wednesday, and Friday.
 
@@ -1844,7 +1844,7 @@ It's melting like a son of a bitch.
 Well, then, um, find the smallest room we've got
 
 370
-00:13:01,240 --> 00:13:04,009
+00:13:01,240 --> 00:13:03,520
 把冷气开到最大
 and crank the A/C full blast, hmm?
 
@@ -2524,7 +2524,7 @@ Grow up, Manny. Human beings are basically terrible.
 What the hell?
 
 506
-00:17:51,660 --> 00:17:54,380
+00:17:51,760 --> 00:17:54,020
 他来了 满口废话先生
 There he is! Mr. Full-of-Garbage.
 
@@ -2944,7 +2944,7 @@ Tommy.
 I'm kind of stuck here.
 
 590
-00:21:17,440 --> 00:21:18,480
+00:21:17,440 --> 00:21:18,240
 你能去找个大人来吗
 Could you go get a grown-up?
 

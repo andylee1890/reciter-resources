@@ -19,7 +19,7 @@ Yeah,well,I got a better show.
 Mom took all the old movies and put them on tapes so that we can see them.
 
 5
-00:00:21,230 --> 00:00:22,510
+00:00:21,800 --> 00:00:22,240
 为什么？
 Why?
 
@@ -406,12 +406,12 @@ You are very quiet tonight.
 In fact,you are so quiet it's like you are not even here.
 
 83
-00:06:35,640 --> 00:06:40,650
+00:06:35,640 --> 00:06:40,780
 Jason？亲爱的，我在跟你说话呢。
 Jason,honey I was talking to you.
 
 84
-00:06:40,650 --> 00:06:41,400
+00:06:41,160 --> 00:06:41,540
 对不起。
 Sorry.
 
@@ -504,7 +504,7 @@ Ben!
 Ben？
 
 103
-00:07:31,520 --> 00:07:32,570
+00:07:32,500 --> 00:07:32,940
 妈妈。
 Mom.
 
@@ -554,7 +554,7 @@ OK. Hoops? Mike,wait.
 No,my room's already cleaned mom.
 
 113
-00:08:05,330 --> 00:08:05,860
+00:08:05,600 --> 00:08:05,860
 不
 No.
 
@@ -574,12 +574,12 @@ No,Mike,that's not what I want to talk about.
 You mean I did all that for nothing?
 
 117
-00:08:15,820 --> 00:08:17,080
+00:08:15,820 --> 00:08:17,560
 Mike，我要请你帮个忙。
 Mike,I want to ask you a favor.
 
 118
-00:08:17,080 --> 00:08:18,310
+00:08:18,200 --> 00:08:18,600
 什么忙？
 What?
 
@@ -640,7 +640,7 @@ Mike,我请你去跟爸爸打一场篮球吧。还有，
 Throw the game?
 
 131
-00:08:53,940 --> 00:08:55,160
+00:08:54,920 --> 00:08:55,160
 这个？
 Well.
 
@@ -964,7 +964,7 @@ Where do you want to stash this thing until the party?
 OK,in the kitchen. I'll have your father go out the front door.
 
 196
-00:12:44,660 --> 00:12:46,140
+00:12:48,980 --> 00:12:50,060
 我来开门。
 I'll get it.
 
@@ -979,12 +979,12 @@ I'm David Sax from party animal party rentals.
 You are early.
 
 199
-00:12:55,140 --> 00:12:55,740
+00:12:55,140 --> 00:12:56,080
 赶早不赶迟。
 That's our policy.
 
 200
-00:12:55,740 --> 00:12:56,820
+00:12:56,720 --> 00:12:57,180
 不！
 No.
 
@@ -999,7 +999,7 @@ Yes,it is.
 No. It's supposed to be a surprise for my dad and my dad is still here.
 
 203
-00:13:02,230 --> 00:13:03,000
+00:13:03,240 --> 00:13:03,460
 无赖？
 Bummer.
 
@@ -1058,7 +1058,7 @@ Let's roll!
 No,you have to go to the kitchen.
 
 215
-00:13:33,000 --> 00:13:33,910
+00:13:33,880 --> 00:13:34,360
 不！
 No!
 
@@ -1086,12 +1086,12 @@ Carol？
 Mom.
 
 221
-00:13:42,720 --> 00:13:45,510
+00:13:42,720 --> 00:13:46,000
 看来出路都断绝了。Ben，我们只好呆在家里。
 Well,apparently there's no way out,Ben,I guess we'll have to stay here.
 
 222
-00:13:45,510 --> 00:13:46,960
+00:13:46,220 --> 00:13:46,680
 不。
 No!
 
@@ -1285,12 +1285,12 @@ Oh,maybe just a little bit. Oh,wow!
 The Wild Hots never played in a place this classic before.
 
 262
-00:15:56,440 --> 00:15:59,130
+00:15:56,440 --> 00:15:59,500
 孩子们，这是维克。维克，这是Carol和Mike。
 Kids,this is Rick. Rick,this is Carol and Mike.
 
 263
-00:15:59,130 --> 00:16:01,290
+00:16:00,000 --> 00:16:00,240
 嗨。
 Hi!
 
@@ -1340,7 +1340,7 @@ Wait a minute. Mike can fill in on keyboards.
 Hay,Mom. I don't know those stupid,fol....
 
 273
-00:16:31,770 --> 00:16:34,420
+00:16:33,860 --> 00:16:34,440
 经典的音乐
 classics.
 

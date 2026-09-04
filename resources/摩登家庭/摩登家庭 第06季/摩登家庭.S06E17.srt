@@ -196,12 +196,12 @@ So, Lily, can you meet me here at... *C*
 *I feel like you're doing it on purpose*
 
 41
-00:01:16,680 --> 00:01:18,021
+00:01:16,680 --> 00:01:18,040
 *这话有点刻薄[音有点高]*
 *That seems a little bit sharp*
 
 42
-00:01:18,021 --> 00:01:20,760
+00:01:18,120 --> 00:01:20,200
 *我从不走音 我是完美音准*
 *I'm never sharp, I'm pitch-perfect*
 
@@ -386,12 +386,12 @@ Choose one of our nine luxurious models
 like the Monte Carlo.
 
 79
-00:02:56,420 --> 00:02:57,919
+00:02:56,420 --> 00:02:57,940
 或者采用顶尖技术
 Or how about a custom design
 
 80
-00:02:57,919 --> 00:03:00,496
+00:02:57,940 --> 00:03:00,040
 制造的专属定制衣柜
 using our state-of-the-art technology?
 
@@ -666,12 +666,12 @@ Beth's not coming.
 She's too tired to drive up from San Diego.
 
 135
-00:04:54,620 --> 00:04:57,479
+00:04:54,620 --> 00:04:57,500
 这个我从来没见过的贝丝
 So this Beth, who I've never actually met,
 
 136
-00:04:57,479 --> 00:05:00,790
+00:04:57,540 --> 00:04:59,900
 她是真正的活生生的姑娘吗
 is she one of those real-life move-around girls?
 
@@ -1126,7 +1126,7 @@ He put us on YouTube?
 He called it "Drone 1, idiots zero."
 
 227
-00:08:39,539 --> 00:08:41,804
+00:08:39,960 --> 00:08:41,660
 有三万两千浏览量了
 It has 32,000 views.
 
@@ -1301,7 +1301,7 @@ and strictly from a marketing standpoint,
 He's the worst. So bad.
 
 262
-00:09:53,778 --> 00:09:57,360
+00:09:54,440 --> 00:09:57,360
 但是从保住工作的角度讲
 And, um... strictly from a keeping-my-job standpoint,
 
@@ -1811,12 +1811,12 @@ No. I mean, she's not nervous at all,
 and look at the other kids. They're a wreck.
 
 364
-00:13:42,810 --> 00:13:44,151
+00:13:42,810 --> 00:13:44,170
 也许她没有继承我们的天赋
 You know, she may not have gotten our talent,
 
 365
-00:13:44,151 --> 00:13:46,517
+00:13:44,610 --> 00:13:46,590
 但她也没有我们这么在意别人的看法
 but she didn't get our self-consciousness either.
 
@@ -2506,12 +2506,12 @@ When did I turn that corner?
 You haven't. You haven't.
 
 503
-00:19:06,550 --> 00:19:07,928
+00:19:06,550 --> 00:19:07,950
 我是说 你在慢慢变成那样
 I mean, you're creeping up to it.
 
 504
-00:19:07,928 --> 00:19:10,890
+00:19:08,010 --> 00:19:10,590
 你开了转向灯了 不过还没有转弯
 You got your blinker on, but...you haven't yet.
 

@@ -409,12 +409,12 @@ Who do you think's gonna get that medicine?
 The patient she likes, that's who.
 
 83
-00:03:36,700 --> 00:03:37,941
+00:03:36,700 --> 00:03:37,960
 那你给她烤个蛋糕
 Well, maybe if you bake her a cake,
 
 84
-00:03:37,941 --> 00:03:39,124
+00:03:37,960 --> 00:03:39,040
 也许就能免费照X光了
 she'll give us free X-rays.
 
@@ -1084,12 +1084,12 @@ That was my truck! Grandpa just gave it to me!
 This is delicious.
 
 218
-00:09:38,580 --> 00:09:39,159
+00:09:38,580 --> 00:09:39,180
 谢谢
 Oh. Thank you.
 
 219
-00:09:39,159 --> 00:09:42,100
+00:09:39,200 --> 00:09:41,460
 食谱来自《已故美食家》杂志
 The recipe's from the now-defunct Gourmet magazine.
 
@@ -1534,7 +1534,7 @@ That's my boy. Vamos, Jay.
 No, I'm not going on that. That's bad for my back.
 
 308
-00:13:33,808 --> 00:13:37,472
+00:13:34,340 --> 00:13:36,860
 -你的背没有受伤啊 -我耳水不平
 - Your back is fine. - I got an inner-ear thing.
 
@@ -1709,7 +1709,7 @@ then you do the exact same thing I told your sister, okay?
 Take three deep breaths and relax.
 
 343
-00:15:07,082 --> 00:15:09,904
+00:15:07,620 --> 00:15:09,280
 我连收到的建议都是二手货
 Even the advice I get is a hand-me-down.
 
@@ -1809,7 +1809,7 @@ Nothing. It's really dark in here.
 Wait a minute. I think I see my truck.
 
 363
-00:16:08,318 --> 00:16:10,897
+00:16:08,660 --> 00:16:10,860
 它的旁边是...
 It's right over there by the- Uh-oh.
 
@@ -2309,6 +2309,6 @@ We could get a motorboat.
 Or a robotic gutter cleaner.
 
 463
-00:20:58,080 --> 00:21:01,310
+00:20:58,240 --> 00:21:01,140
 -或者室内泳池 -或者双人潜水艇
 - Or an indoor pool. - Or a two-man submarine.

@@ -129,12 +129,12 @@ That might not be a thing.
 You're a terrible best friend.
 
 27
-00:00:48,640 --> 00:00:50,860
+00:00:48,640 --> 00:00:50,880
 别冲我吼 我才回来几天
 Don't yell at me. I'm only here a couple of days.
 
 28
-00:00:50,860 --> 00:00:53,683
+00:00:50,880 --> 00:00:52,760
 临时决定回来 本来打算告诉你的
 It was last-minute. I was gonna call.
 
@@ -609,12 +609,12 @@ You're not gonna become one of those over-scheduled kids
 that burns out at 13
 
 123
-00:04:02,520 --> 00:04:04,280
+00:04:02,520 --> 00:04:04,300
 还穿军靴去沙滩
 and wears combat boots to the beach.
 
 124
-00:04:04,280 --> 00:04:06,200
+00:04:04,300 --> 00:04:06,200
 我是我们学校里最闲的亚洲小孩了
 I'm the least-busy Asian kid in my school.
 
@@ -1104,7 +1104,7 @@ No. Actually, Gloria and I are gonna go to the farmer's market
 - after we drop Joe off at school. - ?Why?
 
 222
-00:07:15,393 --> 00:07:16,680
+00:07:15,480 --> 00:07:16,680
 算是跟我工作有关吧
 It's kind of work-related.
 
@@ -1174,7 +1174,7 @@ What is that?
 Crostini with edamame puree.
 
 236
-00:07:41,593 --> 00:07:44,309
+00:07:41,560 --> 00:07:44,280
 胡娇说还在吃西红柿罗勒的人
 Pepper says anyone who's still doing tomato-basil
 
@@ -1364,12 +1364,12 @@ He's obviously jealous of Lily
 because we allow her to be a kid and have fun.
 
 274
-00:08:50,380 --> 00:08:51,500
+00:08:50,380 --> 00:08:51,520
 如果他知道我能去学骑马
 Imagine how jealous he'll be
 
 275
-00:08:51,500 --> 00:08:54,244
+00:08:51,520 --> 00:08:54,180
 想象一下他该有多嫉妒啊
 when he finds out about my horseback-riding lessons.
 
@@ -1484,12 +1484,12 @@ some sort of reaction out of me, isn't she?
 But you're not gonna take the bait, right?
 
 298
-00:09:42,740 --> 00:09:44,303
+00:09:42,740 --> 00:09:44,320
 -你没那么小气 -我可说不好 菲尔
 - You're bigger than that. ?- I don't know, Phil.
 
 299
-00:09:44,303 --> 00:09:46,500
+00:09:44,320 --> 00:09:46,500
 她这可是对我们大不敬
 This is-This is very disrespectful.
 
@@ -2369,12 +2369,12 @@ Yes, Lily, we were -- we were being selfish, okay?
 You can have your lessons.
 
 475
-00:15:57,700 --> 00:15:58,638
+00:15:57,700 --> 00:15:58,660
 谢谢
 Thank you.
 
 476
-00:15:58,638 --> 00:16:00,800
+00:15:58,920 --> 00:16:00,800
 我能不能跟她一起上骑马课
 Can I take horseback-riding lessons with her, too?
 
@@ -2714,12 +2714,12 @@ But, honey, I've been where you are right now,
 and I'm the last person
 
 544
-00:18:23,740 --> 00:18:25,563
+00:18:23,740 --> 00:18:25,580
 给你增添无数磨难的人
 who should be making it harder for you.
 
 545
-00:18:25,563 --> 00:18:27,528
+00:18:25,780 --> 00:18:27,560
 我真的很对不起
 I'm...I'm so sorry.
 
@@ -3049,12 +3049,12 @@ and see if you are lying to me.
 Mother, we texted yesterday morning.
 
 611
-00:21:02,880 --> 00:21:04,743
+00:21:02,880 --> 00:21:04,760
 才没有呢 上次都多久之前了
 No, we didn't. That was days ago.
 
 612
-00:21:04,743 --> 00:21:06,600
+00:21:04,760 --> 00:21:06,600
 昨天早上8点37分
 Yesterday at 8:37A.M.
 

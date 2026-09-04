@@ -278,7 +278,7 @@ There's my partner!
 Carol and Jeff last night. She has such a crush on him.
 
 57
-00:04:06,605 --> 00:04:08,012
+00:04:06,840 --> 00:04:07,480
 不!
 No!
 
@@ -973,7 +973,7 @@ Well, it's really my fault for not wanting to sprint that last 50 yards.
 Right! Well, nighty-night!
 
 196
-00:13:28,266 --> 00:13:29,605
+00:13:28,440 --> 00:13:28,880
 凯罗!
 Carol!
 
@@ -1168,7 +1168,7 @@ Sure. Now please, go!
 I am such a jerk!
 
 235
-00:16:35,386 --> 00:16:36,486
+00:16:35,080 --> 00:16:35,470
 嗨
 Hi.
 
@@ -1348,7 +1348,7 @@ Yeah. The silliest.
 Well, okay. Let's see.
 
 271
-00:18:50,287 --> 00:18:51,284
+00:18:50,000 --> 00:18:50,720
 好
 Okay.
 
@@ -1413,7 +1413,7 @@ if you went downstairs and said goodbye to him.
 - He's still here? - He said he'd wait for you.
 
 284
-00:19:43,874 --> 00:19:45,247
+00:19:43,840 --> 00:19:44,420
 是吗？
 Yeah?
 
@@ -1488,7 +1488,7 @@ if we we're both 14, I'd be one lovesick puppy.
 Imagine how fun it would be if we we're both 23.
 
 299
-00:21:03,300 --> 00:21:07,000
+00:21:03,300 --> 00:21:07,500
 我23岁时，你已经32岁
 Well, maybe when I'm 23 and you're 32.
 
@@ -1573,12 +1573,12 @@ You know, I couldn't help but overhear what Jeff was saying about...
 some lucky guy your own age and I just thought since I am 14--
 
 316
-00:22:31,208 --> 00:22:32,843
+00:22:31,500 --> 00:22:31,940
 走吧!
 Go!
 
 317
-00:22:36,080 --> 00:22:37,453
+00:22:36,260 --> 00:22:36,860
 男人啊
 Men.
 

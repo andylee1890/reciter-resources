@@ -319,12 +319,12 @@ I mean...
 Help me.
 
 65
-00:02:38,420 --> 00:02:40,778
+00:02:38,420 --> 00:02:40,800
 我们的床下
 Underneath our bed
 
 66
-00:02:40,778 --> 00:02:43,460
+00:02:40,800 --> 00:02:43,180
 简直就像吃馅饼大赛的后台
 looks like backstage at a pie-eating contest.
 
@@ -1954,7 +1954,7 @@ until the security guard took my picture.
 Okay, uh... you know what?
 
 392
-00:12:55,546 --> 00:12:57,040
+00:12:55,840 --> 00:12:56,940
 由你来捐
 You-You be the donor.
 
@@ -2134,7 +2134,7 @@ Wow, I-I can't believe how well that went.
 Yeah, I know. I feel-I feel so much better.
 
 428
-00:14:00,979 --> 00:14:02,940
+00:14:01,100 --> 00:14:02,660
 简直太顺利了
 That was...so easy.
 
@@ -2174,12 +2174,12 @@ Because we just cratered your entire family planning,
 and all we get is a "Have a good one"?
 
 436
-00:14:25,960 --> 00:14:27,839
+00:14:25,960 --> 00:14:27,860
 你们好像一点也不难过
 You don't seem too broken up about it.
 
 437
-00:14:27,839 --> 00:14:30,205
+00:14:28,360 --> 00:14:29,940
 不 我们特别伤心
 No, no, we're super-sad.
 
@@ -2404,7 +2404,7 @@ Yes, it would. Here.
 - There is it. - Okay. There --
 
 482
-00:15:44,563 --> 00:15:46,138
+00:15:44,740 --> 00:15:45,840
 好货亮出来了
 Wow. There...it is.
 
@@ -2504,7 +2504,7 @@ Her performance was a Tour de France.
 She was like a hot, girl version of my dad.
 
 502
-00:16:23,495 --> 00:16:27,221
+00:16:24,080 --> 00:16:27,000
 演出结束后 我们聊得很开心 然后就发生了
 Afterwards, we kept talking, and...it just happened.
 
@@ -2929,17 +2929,17 @@ Really? You're okay with it?
 She says "Have fun."
 
 587
-00:19:23,760 --> 00:19:24,539
+00:19:23,760 --> 00:19:24,560
 她是哪种语气
 How did she sound?
 
 588
-00:19:24,539 --> 00:19:26,026
+00:19:24,700 --> 00:19:25,880
 语气会不会像说反话 绵里藏针
 Did she seem passive-aggressive?
 
 589
-00:19:26,026 --> 00:19:27,860
+00:19:26,040 --> 00:19:27,700
 对啊 你最好再确认一次吧 克莱尔
 Yeah, maybe you should double-check, Claire.
 
@@ -2979,7 +2979,7 @@ and he wants to take her to Mexico.
 She's listening. Keep going.
 
 597
-00:19:49,942 --> 00:19:54,900
+00:19:50,620 --> 00:19:54,900
 杰瑞很担心这么做你会不高兴
 Um...Jerry is worried that this would upset you,
 

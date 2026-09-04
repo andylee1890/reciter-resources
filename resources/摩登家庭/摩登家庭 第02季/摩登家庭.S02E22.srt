@@ -339,7 +339,7 @@ And I will take Luke to do something fun.
 But...
 
 69
-00:02:33,244 --> 00:02:34,780
+00:02:33,220 --> 00:02:34,620
 我想玩卡丁车
 I want to go go-karting.
 
@@ -359,7 +359,7 @@ This is happening.
 Boys!
 
 73
-00:02:41,413 --> 00:02:44,820
+00:02:41,960 --> 00:02:44,300
 孩子们 猜猜谁今天带你们玩卡丁车
 Hey, guys, guess who's taking you go-karting today.
 
@@ -389,7 +389,7 @@ No! You're not in trouble.
 Today's just all about having fun!
 
 79
-00:02:51,800 --> 00:02:54,220
+00:02:51,820 --> 00:02:53,840
 告诉你们 卡丁车只是个开头
 And you know what? Go-karting's just the beginning.
 
@@ -484,7 +484,7 @@ Very cool with whatever.
 It's about what dad wants.
 
 98
-00:03:28,200 --> 00:03:29,938
+00:03:28,660 --> 00:03:30,060
 老爸想去玩卡丁车
 Dad wants to go go-karting.
 
@@ -1099,7 +1099,7 @@ Stella, let go. Bad dog, bad dog.
 Bad dog. And what does a bad dog get?
 
 221
-00:08:02,156 --> 00:08:04,116
+00:08:02,360 --> 00:08:04,280
 一块坏狗狗奖励
 A bad-doggie treat.
 
@@ -1119,7 +1119,7 @@ You give her a treat for doing something bad?
 Ah, a bad-doggie treat.
 
 225
-00:08:11,726 --> 00:08:15,120
+00:08:11,760 --> 00:08:14,760
 等她乖了 就能得到好狗狗奖励
 When she is good, she gets the good-doggie treat.
 
@@ -1134,17 +1134,17 @@ Brilliant! We're going to be rich!
 Whoa, whoa, whoa, whoa.
 
 228
-00:08:17,720 --> 00:08:20,383
+00:08:17,720 --> 00:08:20,380
 这个坏狗狗好狗狗的奖励
 What is the difference between a bad-doggie treat
 
 229
-00:08:20,392 --> 00:08:21,773
+00:08:20,380 --> 00:08:21,700
 究竟有什么区别
 and the good-doggie treat?
 
 230
-00:08:21,773 --> 00:08:25,540
+00:08:21,860 --> 00:08:25,380
 都是培根 但坏狗狗奖励淡而无味
 Bacon. The bad-doggie treat is very bland.
 
@@ -1154,7 +1154,7 @@ Bacon. The bad-doggie treat is very bland.
 But she seems like she likes it.
 
 232
-00:08:27,060 --> 00:08:28,980
+00:08:27,200 --> 00:08:28,980
 等看完好狗狗奖励再说吧
 Wait till you see the good-doggie treat.
 
@@ -1164,7 +1164,7 @@ Wait till you see the good-doggie treat.
 Stella, sit.
 
 234
-00:08:30,835 --> 00:08:33,189
+00:08:31,040 --> 00:08:32,860
 现在是好狗狗奖励
 Now a good-doggie treat.
 
@@ -1194,7 +1194,7 @@ Welcome to the ground floor.
 Actually, she's peeing on the ground floor.
 
 240
-00:08:47,830 --> 00:08:50,434
+00:08:47,960 --> 00:08:50,060
 快点 快给她一块坏狗狗奖励
 Quick, quick, give her a bad-doggie treat!
 
@@ -1984,7 +1984,7 @@ Because he's out of his mind.
 I'm not out of my mind!
 
 398
-00:14:36,732 --> 00:14:39,849
+00:14:36,860 --> 00:14:39,260
 你们耍赖那刻起 就失去了用电脑的权利
 You took advantage,and you lost your computer privileges.
 
@@ -2554,7 +2554,7 @@ You're right.
 I have no defense. I am terrible.
 
 512
-00:19:05,680 --> 00:19:07,060
+00:19:05,740 --> 00:19:07,040
 而且关键在于 我知道这样很无耻
 And the thing is,I knew I was terrible,
 
@@ -2594,7 +2594,7 @@ And that's what makes us such a good couple, you know?
 But...No, no.
 
 520
-00:19:19,700 --> 00:19:21,060
+00:19:20,020 --> 00:19:20,960
 这只是我用来逃避的借口
 It's a cop-out.
 

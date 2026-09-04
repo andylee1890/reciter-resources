@@ -189,7 +189,7 @@ Ben: I know, Dad; that's why they have two-parters.
 Jason: Ben!
 
 39
-00:01:54,660 --> 00:01:57,400
+00:01:54,260 --> 00:01:57,400
 本:巴特 辛普森把厕所弄得一团糟,他也没有被送进他的房间.
 Ben: Bart Simpson blew up a toilet, and he wasn't sent to his room.
 
@@ -370,7 +370,7 @@ Susan: Tell me about it.
 Ben: Dad!Dad!Boy, am I glad to see you.
 
 76
-00:05:05,500 --> 00:05:06,900
+00:05:05,500 --> 00:05:07,600
 真高兴我看到你了.我一直到处在找你.发生什么事情了?
 I've been looking all over for you.What is happening?
 
@@ -418,7 +418,7 @@ There's all these strange people.I think I'm losing my mind.
 Jason: Err...No, no, no!
 
 86
-00:05:31,460 --> 00:05:33,880
+00:05:30,320 --> 00:05:33,880
 我很清醒,孩子;我说的很明确,不,去新的比赛,
 I was very clear babe; I said a definite, no, to the new match game,
 
@@ -667,7 +667,7 @@ Ben: Of course I do, I'm your brother.
 Carol: I don't have any brothers.
 
 136
-00:07:49,180 --> 00:07:51,000
+00:07:47,500 --> 00:07:51,000
 他们都十分聪慧.
 I have several sisters though; all of whom are mighty talented.
 
@@ -1641,12 +1641,12 @@ Ben: When?
 Director: Susan!
 
 331
-00:18:49,900 --> 00:18:52,060
+00:18:48,320 --> 00:18:52,060
 苏珊:第五页,在厨房里.
 Susan: Page five, in the kitchen.
 
 332
-00:18:55,320 --> 00:18:58,440
+00:18:53,900 --> 00:18:58,440
 我告诉你什么地方错了;我在现实生活中被陷在这里,而不是在电视中.
 I'll tell you what's wrong; I'm stuck here in the real world, and not on TV.
 

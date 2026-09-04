@@ -29,12 +29,12 @@ I've had some rosé,
 so fun Mitchell is in the house.
 
 7
-00:00:11,300 --> 00:00:12,990
+00:00:11,300 --> 00:00:13,000
 大秀美腿
 Showing quite a bit of leg.
 
 8
-00:00:12,990 --> 00:00:15,211
+00:00:13,140 --> 00:00:14,840
 -可真是 -像世界杯比赛一样吗
 - This is very... ? - World-cuppy?
 
@@ -399,12 +399,12 @@ I took off without a place to land.
 seeing as I'm not a hundred-year-old Southern lady.
 
 81
-00:02:57,800 --> 00:02:59,858
+00:02:57,800 --> 00:02:59,880
 我终于看完了电影《贱女孩》
 I finally saw the movie "Mean Girls."
 
 82
-00:02:59,858 --> 00:03:01,760
+00:03:00,060 --> 00:03:01,540
 我懂 我都是个中年油腻大叔了
 I know. I'm a middle-aged man.
 
@@ -644,12 +644,12 @@ She's from Canada.
 You know what, Gloria?
 
 130
-00:04:31,600 --> 00:04:33,558
+00:04:31,600 --> 00:04:33,580
 加拿大有很多好的方面
 Canada is good for a lot of things,
 
 131
-00:04:33,558 --> 00:04:36,300
+00:04:33,580 --> 00:04:36,220
 但他们最大的出口品就是虚构女友
 but their number-one export is fake girlfriends.
 
@@ -1589,12 +1589,12 @@ You kissed Dylan?! That's your secret?
 You tricked me!
 
 319
-00:11:33,120 --> 00:11:34,075
+00:11:33,120 --> 00:11:34,100
 你在干什么
 What are you doing?
 
 320
-00:11:34,075 --> 00:11:37,120
+00:11:34,640 --> 00:11:37,000
 你在跟一位国际知名的科学家约会
 You are dating a world-renowned scientist.
 
@@ -1734,7 +1734,7 @@ but, I, um...
 I did something stupid.
 
 348
-00:12:37,006 --> 00:12:39,360
+00:12:37,020 --> 00:12:39,340
 我亲了前男友 我发誓这毫无意义
 I kissed my ex-boyfriend. It meant nothing, I swear,
 
@@ -1764,12 +1764,12 @@ I-I-I missed the -- the whole thing.
 Oh, that sucks. Um...
 
 354
-00:12:50,960 --> 00:12:53,680
+00:12:50,960 --> 00:12:53,700
 这真的难以启齿 但我干了件很蠢的事
 This is really hard for me, but I did something stupid.
 
 355
-00:12:53,680 --> 00:12:56,040
+00:12:53,700 --> 00:12:56,040
 我亲了我的前男友 这并不代表什么 我...
 I kissed my ex-boyfriend. It meant nothing, and I --
 
@@ -1804,12 +1804,12 @@ I messed up, and I kiss--
 Wait!
 
 362
-00:13:05,700 --> 00:13:06,460
+00:13:05,700 --> 00:13:06,480
 好了 说
 Okay, go.
 
 363
-00:13:06,460 --> 00:13:08,000
+00:13:06,540 --> 00:13:07,720
 我亲了前男友
 I kissed my ex-boyfriend!
 
@@ -2039,12 +2039,12 @@ No. I'm sorry.
 You know, I freaked out,
 
 409
-00:14:41,560 --> 00:14:43,681
+00:14:41,560 --> 00:14:43,700
 我只顾考虑我自己了
 and I made this whole day about myself.
 
 410
-00:14:43,681 --> 00:14:46,677
+00:14:43,700 --> 00:14:46,340
 你是对的 我有时以自我为中心 又很情绪化
 And you're right -- I can be self-centered and emotional.
 
@@ -2054,12 +2054,12 @@ And you're right -- I can be self-centered and emotional.
 I guess it's, you know,
 
 412
-00:14:49,120 --> 00:14:51,619
+00:14:49,120 --> 00:14:51,640
 是因为我爸爸和他的猪在一起太久的缘故
 because of all that time my daddy spent with his pigs.
 
 413
-00:14:51,619 --> 00:14:53,436
+00:14:51,740 --> 00:14:54,380
 -小卡 拜托 该闭嘴了 -嗯
 - Cam. Please. It's time. - Mm-hmm.
 
@@ -2194,12 +2194,12 @@ You think my girlfriend is fake?
 Well, you didn't have any pictures,
 
 440
-00:15:54,060 --> 00:15:56,040
+00:15:54,060 --> 00:15:56,060
 而且在吧台那儿 你说她的名字
 and at the bar, you said that her name
 
 441
-00:15:56,040 --> 00:15:59,260
+00:15:56,060 --> 00:15:59,200
 叫什么橄榄·鸡尾酒-餐巾纸
 was something like Olive Cocktail-napkin.
 
@@ -2734,7 +2734,7 @@ And then I turned and saw you for the first time,
 and I was done with Rebecca Salkin.
 
 548
-00:19:41,780 --> 00:19:45,560
+00:19:42,040 --> 00:19:45,560
 当时你穿着那件很酷的破军装外套
 Yeah, you were wearing that cool, beat-up Army jacket,
 

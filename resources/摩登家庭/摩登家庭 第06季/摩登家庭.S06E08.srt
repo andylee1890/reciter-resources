@@ -189,12 +189,12 @@ Yeah, Luke, we didn't forget about you.
 We got you a great present here in Mexico.
 
 39
-00:01:13,580 --> 00:01:14,818
+00:01:13,580 --> 00:01:14,840
 回去后见咯
 See you when we get back.
 
 40
-00:01:14,818 --> 00:01:17,000
+00:01:15,080 --> 00:01:16,760
 拜拜 拜拜
 Bye! Bye-bye!
 
@@ -279,12 +279,12 @@ Stay-cation.
 It's stay-cation.
 
 57
-00:01:47,860 --> 00:01:49,219
+00:01:47,860 --> 00:01:49,240
 你想用一堂英语课
 Oh, so, this is how you want to start
 
 58
-00:01:49,219 --> 00:01:52,822
+00:01:49,240 --> 00:01:52,300
 来开启安宁轻松的晚餐吗
 the quiet, stress-free dinner, with an English lesson?
 
@@ -599,12 +599,12 @@ I'm a screaming demon,
 and you're just a-smilin' and a-bakin'.
 
 121
-00:04:02,220 --> 00:04:02,865
+00:04:02,220 --> 00:04:02,880
 顺便说下
 And, incidentally,
 
 122
-00:04:02,865 --> 00:04:04,480
+00:04:02,880 --> 00:04:04,400
 真有必要把这贴冰箱上吗
 do we really think this is refrigerator-worthy?
 
@@ -784,12 +784,12 @@ I'm not gonna throw away 20 years of --
 Is the salad burning?
 
 158
-00:05:12,000 --> 00:05:13,297
+00:05:12,000 --> 00:05:13,320
 东西都买好了
 Here's everything,
 
 159
-00:05:13,297 --> 00:05:15,800
+00:05:13,420 --> 00:05:15,760
 包括你的所谓的蔓越莓酱
 including your cranberry so-called sauce.
 
@@ -1219,17 +1219,17 @@ God knows I couldn't love them more,
 but the Kennedys didn't get together as much as this family.
 
 245
-00:08:22,860 --> 00:08:24,739
+00:08:22,860 --> 00:08:24,760
 -所以你不觉得内疚吗 -内疚什么
 - So you don't feel guilty? - For what?
 
 246
-00:08:24,739 --> 00:08:27,589
+00:08:25,040 --> 00:08:27,180
 没跟菲尔分享这瓶三十年的威士忌吗
 Not sharing this 30-year-old scotch with Phil?
 
 247
-00:08:27,963 --> 00:08:30,600
+00:08:27,880 --> 00:08:30,320
 他用七喜对着喝 歌洛莉亚
 He mixes it with 7up, Gloria.
 
@@ -1424,12 +1424,12 @@ Come on, everybody! Outside for picture time!
 I knew in my heart you couldn't be right.
 
 286
-00:09:52,640 --> 00:09:53,678
+00:09:52,640 --> 00:09:53,700
 我去拿杯威士忌
 I'm gonna grab a scotch.
 
 287
-00:09:53,678 --> 00:09:55,790
+00:09:53,840 --> 00:09:55,280
 谁知道杰把七喜放在哪
 Anyone know where Jay keeps the 7up?
 
@@ -2249,7 +2249,7 @@ Hey, dad, how's it coming?
 Great!
 
 451
-00:15:39,026 --> 00:15:41,723
+00:15:38,880 --> 00:15:41,280
 再给我几分钟就可以上桌了
 Just some last-minute touches, and we're good to go.
 
@@ -2694,12 +2694,12 @@ so you, Alex, and Haley will share that one.
 Dark meat for your dark, untrusting soul.
 
 540
-00:18:36,160 --> 00:18:36,415
+00:18:36,160 --> 00:18:36,440
 菲尔
 Phil!
 
 541
-00:18:36,415 --> 00:18:38,540
+00:18:36,480 --> 00:18:38,460
 话说这可是个崭新的背包
 You know, this was a brand-new backpack,
 
@@ -2794,12 +2794,12 @@ It's a tradition.
 How did you get that thing through customs?
 
 560
-00:19:15,560 --> 00:19:17,030
+00:19:15,560 --> 00:19:17,040
 那可是海关部门[风俗]
 It is called customs.
 
 561
-00:19:17,030 --> 00:19:19,760
+00:19:17,280 --> 00:19:19,640
 他们 很尊重传统风俗
 They...respect customs.
 

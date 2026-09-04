@@ -239,12 +239,12 @@ Yes, his music is so sanguine.
 Eh, closer.
 
 49
-00:01:38,500 --> 00:01:39,878
+00:01:38,500 --> 00:01:39,900
 我从来都不是很喜欢酷玩乐队
 Never been a big Coldplay guy.
 
 50
-00:01:39,878 --> 00:01:41,860
+00:01:40,020 --> 00:01:41,700
 我更喜欢嘻哈 死亡金属
 I'm more into hip-hop, death metal,
 
@@ -574,12 +574,12 @@ Maybe he can give you some advice.
 No, no, I wouldn't want to bother him.
 
 116
-00:03:58,260 --> 00:03:59,697
+00:03:58,260 --> 00:03:59,720
 他不喜欢被打扰是出了名的
 He's notoriously private.
 
 117
-00:03:59,697 --> 00:04:01,320
+00:03:59,840 --> 00:04:01,320
 他在蒙大纳某处的一棵
 He writes in a hollowed-out tree
 
@@ -709,7 +709,7 @@ Come together.
 I should never have left my tree.
 
 143
-00:04:52,626 --> 00:04:54,740
+00:04:52,840 --> 00:04:54,740
 我还在我们的干洗店看到了
 And then, I saw Daniel Day-Lewis
 
@@ -1029,12 +1029,12 @@ Let's go show him our delightful brand
 of bitchy friction.
 
 207
-00:06:42,540 --> 00:06:44,357
+00:06:42,540 --> 00:06:44,380
 跟我想的完全一样
 I was thinking the exact same thing.
 
 208
-00:06:44,357 --> 00:06:46,360
+00:06:44,600 --> 00:06:46,360
 -别总是跟我心有灵犀啊 -抱歉抱歉
 - Stop seeing eye-to-eye with me. - Sorry, sorry.
 
@@ -1194,7 +1194,7 @@ Impressive.
 When you're ready for it,
 
 240
-00:07:45,313 --> 00:07:48,230
+00:07:45,160 --> 00:07:47,700
 你找件T恤 穿在长袖上衣外面
 you get a T-shirt, you put it on top of a long-sleeve,
 
@@ -1349,12 +1349,12 @@ I can't actually believe
 that I'm having lunch with Terry Bradshaw.
 
 271
-00:08:52,000 --> 00:08:53,700
+00:08:52,000 --> 00:08:53,720
 从橄榄球球星
 I mean, from football fame
 
 272
-00:08:53,700 --> 00:08:56,858
+00:08:53,720 --> 00:08:56,740
 到乡村音乐明星到著名演员
 to country music stardom to big-screen idol.
 
@@ -1479,12 +1479,12 @@ I'm begging you.
 Okay, but you don't have to block me in.
 
 297
-00:09:45,680 --> 00:09:46,599
+00:09:45,680 --> 00:09:46,620
 我又不是疯婆子
 I am not crazy.
 
 298
-00:09:46,599 --> 00:09:48,560
+00:09:46,720 --> 00:09:48,560
 你们都以为我是个冲动的拉丁女人
 I am not the hot-headed Latina
 
@@ -2024,12 +2024,12 @@ Juror number 10,
 has anyone in your family
 
 406
-00:13:51,420 --> 00:13:53,368
+00:13:51,420 --> 00:13:53,380
 有没有人曾经是暴力犯罪的受害者
 ever been the victim of a violent crime?
 
 407
-00:13:53,368 --> 00:13:56,560
+00:13:53,800 --> 00:13:56,380
 我的母亲...
 Well...my mother...
 
@@ -2609,12 +2609,12 @@ Why would he not pick us?
 Yeah, we gave him everything he wants --
 
 523
-00:17:54,080 --> 00:17:55,176
+00:17:54,080 --> 00:17:55,200
 能吵架 能和好
 a fight, reconciliation...
 
 524
-00:17:55,176 --> 00:17:56,760
+00:17:55,360 --> 00:17:56,640
 而且我们上镜毫无压力
 ...not to mention we're camera-ready.
 
@@ -2694,12 +2694,12 @@ Wait, no, is it 'cause we're gay?
 You know, I've actually never seen a gay couple
 
 540
-00:18:19,540 --> 00:18:20,417
+00:18:19,540 --> 00:18:20,440
 上你的节目
 on your little program.
 
 541
-00:18:20,417 --> 00:18:22,680
+00:18:20,540 --> 00:18:22,560
 也没看过体育老师兼副校长上过
 Yeah, or a P.E. Teacher-slash-vice principal.
 

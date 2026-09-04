@@ -69,7 +69,7 @@ Last time, they were just calling To confirm our billing address.
 Hello?
 
 15
-00:00:28,171 --> 00:00:29,860
+00:00:28,460 --> 00:00:29,340
 -是吗 -"是"什么啊
 - Uh-huh. - "Uh-huh" What?
 
@@ -284,7 +284,7 @@ Show your dad.
 Well, I don't like how far down that zipper goes,
 
 58
-00:02:11,440 --> 00:02:13,629
+00:02:11,440 --> 00:02:13,140
 但要说优点的话 它貌似挺防水的
 but on the plus side, it looks water-resistant.
 
@@ -949,7 +949,7 @@ Why?
 Because she wanted to fly around the world.
 
 191
-00:06:40,220 --> 00:06:40,340
+00:06:40,220 --> 00:06:40,320
 为什么
 Why?
 
@@ -1094,7 +1094,7 @@ He just doesn't know it yet,
 so I'm basically his beard.
 
 220
-00:07:42,140 --> 00:07:43,169
+00:07:42,100 --> 00:07:42,740
 "幌子"的前帘
 Pre-beard.
 
@@ -1184,7 +1184,7 @@ You know, bigger family, bigger backseat.
 You can fit two car seats
 
 238
-00:08:17,300 --> 00:08:19,232
+00:08:17,300 --> 00:08:18,960
 外加一头足以得奖的肥猪了
 and a prize-winning pig back there.
 
@@ -1204,7 +1204,7 @@ I'm not being literal.
 It's a unit of measurement we used on the farm.
 
 242
-00:08:24,720 --> 00:08:26,962
+00:08:24,800 --> 00:08:26,640
 比如 这张床是"两头猪"的大小
 You know, like, "That bed's a double-pigger."
 
@@ -1229,7 +1229,7 @@ What happened?
 My guess is a bunch of ridiculous plot turns
 
 247
-00:08:34,891 --> 00:08:37,560
+00:08:34,880 --> 00:08:37,340
 共同演绎了一段荒诞离奇的故事情节
 done by overwrought actors who are impossibly good-looking.
 
@@ -1419,7 +1419,7 @@ That was really fun, you guys.
 Yeah, and next time, we'll just do it at our place.
 
 285
-00:09:57,640 --> 00:09:59,532
+00:09:57,440 --> 00:09:59,380
 我去 提前说一声就好
 I'm in. Just give me a heads-up.
 
@@ -1894,7 +1894,7 @@ Oh. So you gotta pick up some extra shifts.
 Yeah. And suddenly...
 
 380
-00:14:27,595 --> 00:14:30,150
+00:14:27,620 --> 00:14:29,880
 这是啥啊 你怀孕了
 Uh-oh, what's that? You're pregnant.
 
@@ -1909,7 +1909,7 @@ Should've been safe.
 Ooh, and you're stressed and exhausted.
 
 383
-00:14:33,056 --> 00:14:36,440
+00:14:33,280 --> 00:14:36,340
 车库里装满了卖不出去的T恤衫
 You've got a garage filled with unsold huge t-shirts.
 
@@ -2359,7 +2359,7 @@ Do you have a tuxedo I could borrow?
 Yeah, sure. I mean, it's the tux I got married in,
 
 473
-00:18:11,986 --> 00:18:12,814
+00:18:11,980 --> 00:18:12,820
 是双排扣的[两块胸肌]
 So it's double-breasted.
 

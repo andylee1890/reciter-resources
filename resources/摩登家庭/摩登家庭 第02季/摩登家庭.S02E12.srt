@@ -164,7 +164,7 @@ Now, we have to go back and pay for it.
 Cam, it's so far away.
 
 34
-00:01:05,600 --> 00:01:06,646
+00:01:05,800 --> 00:01:06,920
 没事 我也没真打算回去
 No,I'm not going back there.
 
@@ -1284,7 +1284,7 @@ Not your fault. Well, goodbye.
 Ay, wait. You left this.
 
 258
-00:08:39,817 --> 00:08:40,791
+00:08:39,840 --> 00:08:41,200
 不 那是送给你的
 Oh, no, that's...for you.
 
@@ -1749,7 +1749,7 @@ I don't know any, but I know three Miltons.
 She's saying we're stupid!
 
 351
-00:11:53,760 --> 00:11:56,683
+00:11:55,380 --> 00:11:56,480
 那她就错了
 Well, she's...wrong.
 
@@ -2214,7 +2214,7 @@ He gets annoyed if the subtitles are mistranslated.
 Well, that makes "Deux" of us.
 
 444
-00:14:55,358 --> 00:14:57,529
+00:14:54,840 --> 00:14:57,160
 那一会儿 电影院里见了
 I guess we'll...see you in there.
 
@@ -2439,7 +2439,7 @@ Claire, stop it.
 Look...
 
 489
-00:17:00,976 --> 00:17:03,211
+00:17:00,920 --> 00:17:02,940
 我们的孩子是全班第二名
 our kid got the second-best grade in the class.
 
@@ -2464,7 +2464,7 @@ Kind of like if you combined
 the jaw strength of a crocodile
 
 494
-00:17:12,847 --> 00:17:15,933
+00:17:12,780 --> 00:17:15,320
 既有鳄鱼的嘴巴 还能像章鱼一样喷墨
 and the ink-spraying capabilities of an octopus.
 
@@ -2524,7 +2524,7 @@ So, did you enjoy the film?
 Not in the least.
 
 506
-00:17:50,577 --> 00:17:53,775
+00:17:50,760 --> 00:17:54,000
 我觉得效果太二维了
 I actually found it quite two-dimensional.
 
@@ -2644,7 +2644,7 @@ Uh, you were with...
 I don't even know how to put this.
 
 530
-00:18:55,800 --> 00:18:58,844
+00:18:56,200 --> 00:18:57,940
 他叫波比
 His name...is Bobby.
 
@@ -2729,7 +2729,7 @@ Hey, let's not rehash the past...
 Yes, yes. Yes, Cam and I, um,
 
 547
-00:19:29,752 --> 00:19:33,234
+00:19:30,020 --> 00:19:33,300
 想知道你是否愿意让我们
 want to know if you're open...to us...
 

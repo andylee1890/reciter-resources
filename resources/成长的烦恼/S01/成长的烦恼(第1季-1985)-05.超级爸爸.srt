@@ -63,7 +63,7 @@ Mike, does the phrase "get that dog out of here...
 Hi, Carol.
 
 14
-00:01:48,561 --> 00:01:49,932
+00:01:49,000 --> 00:01:49,560
 嗨
 Hi.
 
@@ -108,7 +108,7 @@ Yeah, is Maggie Seaver there, please?
 Yeah, could you tell her to call Carol when she gets back? It's really important.
 
 23
-00:02:23,829 --> 00:02:25,220
+00:02:24,080 --> 00:02:24,600
 好的
 Okay.
 
@@ -218,7 +218,7 @@ Wait, wait. Who said?
 - Kevin said. - Said what?
 
 45
-00:03:30,663 --> 00:03:32,238
+00:03:32,540 --> 00:03:33,020
 说.
 Said....
 
@@ -288,7 +288,7 @@ What do you think?
 I think it's more important what Kevin thinks.
 
 59
-00:04:22,481 --> 00:04:24,090
+00:04:22,980 --> 00:04:23,520
 好.
 Okay...
 
@@ -393,7 +393,7 @@ Who knows, maybe well even run into Tina Turner in Small Appliances.
 Thanks, Dad.
 
 80
-00:05:31,050 --> 00:05:32,625
+00:05:31,340 --> 00:05:31,900
 凯罗
 Carol.
 
@@ -1193,7 +1193,7 @@ she really wanted to talk to you.
 Oh, yes. it was like pulling teeth to get her to open up to old Dad.
 
 240
-00:13:56,721 --> 00:13:58,161
+00:13:57,000 --> 00:13:57,520
 是吗？
 Yeah?
 
@@ -1263,7 +1263,7 @@ Hey, Stuart. How you doing, little fella?
 Mike, this isn't Stuart.
 
 254
-00:14:49,280 --> 00:14:50,940
+00:14:49,880 --> 00:14:51,140
 温蒂，温蒂.
 Wendy. Wendy. Wendy.
 
@@ -1323,7 +1323,7 @@ I have the article upstairs. I'll go get it.
 Mike, stop.
 
 266
-00:15:18,136 --> 00:15:19,609
+00:15:18,660 --> 00:15:19,060
 坐下
 Sit.
 
@@ -1348,7 +1348,7 @@ Look, I looked everywhere, but I couldn't find him.
 Wendy, I would've told you the truth but...
 
 271
-00:15:32,017 --> 00:15:34,161
+00:15:32,480 --> 00:15:33,720
 但是我扪心自问.
 then I asked myself:
 
@@ -1493,7 +1493,7 @@ Honey, what's wrong?
 Dad, you're not gonna believe what Melissa told me.
 
 300
-00:17:13,251 --> 00:17:14,386
+00:17:13,660 --> 00:17:13,940
 什么？
 What?
 
@@ -1538,7 +1538,7 @@ You see, Melissa said that she--
 Hey, wait. You know, this would be a good one to run by the old pro here.
 
 309
-00:17:41,479 --> 00:17:42,952
+00:17:41,780 --> 00:17:42,220
 好
 Okay.
 
@@ -1663,7 +1663,7 @@ and not putting them back where they belong.
 Well, on the off-chance that it's the mango chutney...
 
 334
-00:19:12,180 --> 00:19:13,000
+00:19:12,180 --> 00:19:13,820
 芒果酱？
 we finished it in 1982.
 
@@ -1738,7 +1738,7 @@ It's not just the Gummy Bears, Jason. It's the whole past three months.
 The way you've been pampering the children.
 
 349
-00:19:57,248 --> 00:19:58,580
+00:19:58,000 --> 00:19:58,340
 怎么了？
 What?
 
@@ -1773,7 +1773,7 @@ Edging you out? Is that what you think?
 I don't know. You're the expert. Why don't you tell me what I think?
 
 356
-00:20:14,165 --> 00:20:15,605
+00:20:14,640 --> 00:20:15,080
 好的
 Okay.
 
@@ -1818,7 +1818,7 @@ But you don't want me to be as good as you are.
 Of course I do.
 
 365
-00:20:39,090 --> 00:20:40,427
+00:20:42,060 --> 00:20:42,580
 那个.
 Well...
 
@@ -1903,7 +1903,7 @@ They grow up...
 and it hurts.
 
 382
-00:21:42,487 --> 00:21:43,857
+00:21:42,860 --> 00:21:43,560
 是的
 Yeah.
 

@@ -34,7 +34,7 @@ Mike, come on.
 It's a miracle.
 
 8
-00:01:31,157 --> 00:01:32,451
+00:01:31,420 --> 00:01:32,000
 麦克
 Mike.
 
@@ -344,7 +344,7 @@ Okay, now, Walter, what's the one thing in your life that bothers you the most?
 Those little subscription cards that fall out of magazines.
 
 70
-00:04:43,616 --> 00:04:45,077
+00:04:44,100 --> 00:04:44,540
 波德维尔.
 Walter.
 
@@ -479,7 +479,7 @@ Well, that's a close call, Walter.
 Come on. What else have you got?
 
 97
-00:06:11,070 --> 00:06:12,563
+00:06:11,820 --> 00:06:12,300
 厨房用品
 Tupperware.
 
@@ -514,17 +514,17 @@ but I don't know what to bring.
 Walter, I'm gonna throw out something kind of crazy now.
 
 104
-00:06:39,132 --> 00:06:40,794
+00:06:39,540 --> 00:06:40,240
 玩具
 Toys.
 
 105
-00:06:41,401 --> 00:06:42,927
+00:06:41,740 --> 00:06:42,520
 玩具？
 Toys?
 
 106
-00:06:43,870 --> 00:06:45,362
+00:06:44,240 --> 00:06:45,160
 玩具
 Toys.
 
@@ -609,7 +609,7 @@ It means caring, sharing.
 - We're not telling you, Ben. - We're not telling you, Ben.
 
 123
-00:07:49,769 --> 00:07:51,828
+00:07:50,260 --> 00:07:51,320
 我喜欢你的架势
 But I like your style.
 
@@ -686,12 +686,12 @@ Who is up there?
 Who do you think?
 
 138
-00:08:55,535 --> 00:08:57,365
+00:08:56,140 --> 00:08:57,000
 哇!
 Whoa!
 
 139
-00:08:58,604 --> 00:09:00,571
+00:08:59,160 --> 00:08:59,820
 圣诞老人？
 Santa?
 
@@ -761,7 +761,7 @@ Come on.
 Santa, my brother and sister are here. You got anything for them?
 
 153
-00:10:03,970 --> 00:10:05,935
+00:10:04,940 --> 00:10:05,540
 厨房用品？
 Tupperware?
 
@@ -996,7 +996,7 @@ Here comes Santa Claus Right down
 Right down our chimney!
 
 200
-00:12:33,152 --> 00:12:35,045
+00:12:33,960 --> 00:12:34,220
 什么？
 What?
 
@@ -1171,7 +1171,7 @@ Damn, my batteries are dead.
 Doc, would you please tell me one thing?
 
 235
-00:14:45,780 --> 00:14:48,300
+00:14:45,780 --> 00:14:49,440
 -问吧？ -39除以3.14159是多少？
 - What, Walter? - What's 39 divided by 3.1416?
 
@@ -1181,17 +1181,17 @@ Doc, would you please tell me one thing?
 Walter, I'm not gonna help you with this.
 
 237
-00:14:53,480 --> 00:14:55,227
+00:14:53,480 --> 00:14:55,420
 那好，随你
 Oh, well, fine. Have it your way.
 
 238
-00:14:55,227 --> 00:14:57,322
+00:14:56,180 --> 00:14:56,740
 波德维尔
 Walter.
 
 239
-00:14:59,598 --> 00:15:00,656
+00:14:59,660 --> 00:15:00,300
 波德维尔!
 Walter!
 
@@ -1281,12 +1281,12 @@ but if you just keep reaching out...
 there's gonna be somebody there to lend you a hand.
 
 257
-00:15:49,980 --> 00:15:51,951
+00:15:49,980 --> 00:15:51,980
 谢谢你，医生，永别了
 Thanks, Doc. Goodbye.
 
 258
-00:15:51,951 --> 00:15:54,215
+00:15:52,640 --> 00:15:53,440
 波德维尔!
 Walter!
 
@@ -1417,7 +1417,7 @@ He's been asking for one for years, so...
 What kind of puppy is it?
 
 284
-00:17:22,975 --> 00:17:24,067
+00:17:23,060 --> 00:17:23,640
 Brown.
 
 285
@@ -1447,7 +1447,7 @@ I had a German Shepherd.
 Was he a nice dog?
 
 290
-00:17:40,426 --> 00:17:41,654
+00:17:40,940 --> 00:17:41,180
 Yeah.
 
 291
@@ -1506,7 +1506,7 @@ He was the last person I ever lived with.
 Were you sad?
 
 302
-00:18:17,396 --> 00:18:18,420
+00:18:17,400 --> 00:18:18,040
 是的
 Yeah.
 
@@ -1516,17 +1516,17 @@ Yeah.
 Did you cry?
 
 304
-00:18:24,169 --> 00:18:25,261
+00:18:24,420 --> 00:18:24,780
 哭了
 Yes.
 
 305
-00:18:27,800 --> 00:18:28,774
+00:18:27,800 --> 00:18:29,780
 你还要自杀吗？
 Are you still gonna kill yourself?
 
 306
-00:18:28,774 --> 00:18:31,240
+00:18:29,940 --> 00:18:30,400
 不知道
 本.
 Ben.
@@ -1561,7 +1561,7 @@ Mr. Bodewell? Dad?
 Jason? Jason?
 
 313
-00:18:59,004 --> 00:19:00,062
+00:18:58,700 --> 00:18:59,560
 来了
 Yes?
 

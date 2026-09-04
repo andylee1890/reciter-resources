@@ -80,7 +80,7 @@ than to hang around a smelly gym.
 I mean, no.
 
 17
-00:00:52,218 --> 00:00:53,280
+00:00:52,480 --> 00:00:52,960
 丢脸？
 Embarrass?
 
@@ -164,7 +164,7 @@ Come on, Ben, I think you're spending far too much time studying...
 and not nearly enough horsing around.
 
 34
-00:02:38,024 --> 00:02:39,013
+00:02:38,140 --> 00:02:38,640
 Hey!
 
 35
@@ -248,7 +248,7 @@ Bye, honey.
 Break a leg!
 
 51
-00:03:21,901 --> 00:03:23,545
+00:03:21,920 --> 00:03:22,400
 什么？
 What?
 
@@ -258,7 +258,7 @@ What?
 Figure of speech.
 
 53
-00:03:29,409 --> 00:03:30,860
+00:03:29,660 --> 00:03:30,100
 杰森.
 Jason...
 
@@ -358,7 +358,7 @@ then, by all means, go ahead and wear a rubber fowl on your stomach.
 See you.
 
 73
-00:04:35,174 --> 00:04:36,649
+00:04:34,980 --> 00:04:35,460
 杰森
 Jason.
 
@@ -423,7 +423,7 @@ I plan to fit in at this school.
 I've already joined the dance decoration committee.
 
 86
-00:05:21,154 --> 00:05:22,143
+00:05:20,980 --> 00:05:21,580
 Oh?
 
 87
@@ -457,7 +457,7 @@ Hi, Mike.
 Hey, skunk-breath.
 
 93
-00:05:45,111 --> 00:05:46,689
+00:05:45,040 --> 00:05:45,640
 我哥哥
 Brother.
 
@@ -472,7 +472,7 @@ Mike, is that you?
 What'd I do?
 
 96
-00:05:56,422 --> 00:05:58,001
+00:05:56,600 --> 00:05:57,220
 没什么
 Nothing.
 
@@ -517,7 +517,7 @@ Hey, all right! Good for you!
 What'd you get? One of Robin's merry men?
 
 105
-00:06:22,648 --> 00:06:23,480
+00:06:22,840 --> 00:06:23,300
 不
 Nope.
 
@@ -577,7 +577,7 @@ go to all the parties and all I have to do is lay there.
 My son, the rock.
 
 117
-00:06:52,412 --> 00:06:53,957
+00:06:52,620 --> 00:06:53,060
 对!
 Yeah!
 
@@ -612,7 +612,7 @@ All right, it's a shame, though.
 I was thinking of wearing this when your mom and I chaperone your school dance.
 
 124
-00:07:11,564 --> 00:07:12,765
+00:07:11,700 --> 00:07:12,140
 什么？
 What?
 
@@ -712,7 +712,7 @@ you won't be able to wear makeup and go slow dancing...
 and run off into the parking lot with that goon.
 
 144
-00:08:14,160 --> 00:08:15,394
+00:08:14,300 --> 00:08:14,820
 麦克!
 Michael!
 
@@ -737,7 +737,7 @@ Don't listen to him, Dad.
 You know, chaperoning is not all bad.
 
 149
-00:08:27,106 --> 00:08:28,207
+00:08:27,160 --> 00:08:27,680
 什么？
 What?
 
@@ -797,7 +797,7 @@ I love this dress. It's my favorite dress.
 I have dreams about this dress.
 
 161
-00:09:08,347 --> 00:09:09,521
+00:09:08,380 --> 00:09:08,940
 好吧
 Okay.
 
@@ -937,7 +937,7 @@ and yelled "Hey" in time to the music.
 What a nightmare.
 
 189
-00:10:49,548 --> 00:10:50,860
+00:10:49,640 --> 00:10:50,360
 沃德？
 Ward?
 
@@ -987,12 +987,12 @@ Wonderful. Who is chaperoning tonight?
 The Seavers.
 
 199
-00:11:12,071 --> 00:11:13,180
+00:11:12,440 --> 00:11:12,960
 沃德
 Ward?
 
 200
-00:11:13,339 --> 00:11:14,583
+00:11:13,780 --> 00:11:14,220
 什么事？
 Yes?
 
@@ -1032,7 +1032,7 @@ And maybe I'm just old-fashioned.
 Could be.
 
 208
-00:11:36,429 --> 00:11:37,537
+00:11:36,680 --> 00:11:36,880
 沃德.
 Ward.
 
@@ -1302,7 +1302,7 @@ I'll never live this down.
 Just a minute. Yesterday you were embarrassed because we were acceptable.
 
 262
-00:14:24,113 --> 00:14:25,730
+00:14:24,720 --> 00:14:25,280
 正是
 Exactly.
 
@@ -1447,7 +1447,7 @@ We don't use that word in our home.
 Well, I have two more words you won't like, June.
 
 291
-00:16:24,800 --> 00:16:26,001
+00:16:25,180 --> 00:16:25,760
 什么？
 Yes?
 
@@ -1492,7 +1492,7 @@ one dresses properly for the occasion.
 - Oh, but, Mother... - You know what Mother likes.
 
 300
-00:16:49,491 --> 00:16:50,900
+00:16:49,780 --> 00:16:50,420
 疯婆子!
 Nuts!
 
@@ -1507,7 +1507,7 @@ Excuse me?
 Yes, Mother.
 
 303
-00:16:54,463 --> 00:16:56,042
+00:16:54,900 --> 00:16:55,340
 真是孩子气
 Children.
 
@@ -1561,7 +1561,7 @@ Uh-oh.
 Hi, Ben.
 
 314
-00:17:39,374 --> 00:17:40,680
+00:17:39,640 --> 00:17:40,060
 嗨
 Hi.
 
@@ -1834,7 +1834,7 @@ Mom, Dad, this is Scotty Siegler.
 But, Dad!
 
 369
-00:22:23,975 --> 00:22:24,964
+00:22:23,840 --> 00:22:24,340
 Oh.
 
 370

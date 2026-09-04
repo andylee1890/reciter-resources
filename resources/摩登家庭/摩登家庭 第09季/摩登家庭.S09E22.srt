@@ -39,12 +39,12 @@ to get her car to Delaware by Friday at noon.
 I already lost an hour looking for my driving gloves.
 
 9
-00:00:20,880 --> 00:00:22,119
+00:00:20,880 --> 00:00:22,140
 你要开着辆毛毛虫绿的丰田凯美瑞
 You're plowing through the heartlands
 
 10
-00:00:22,119 --> 00:00:23,760
+00:00:22,140 --> 00:00:23,760
 穿过民风剽悍的中部
 in an inchworm-green Camry
 
@@ -84,12 +84,12 @@ What the hell is that?
 It's an air freshener. What does it look like?
 
 18
-00:00:40,380 --> 00:00:41,718
+00:00:40,380 --> 00:00:41,740
 我是要去玛莎·斯图尔特的
 I'm going on the Martha Stewart
 
 19
-00:00:41,718 --> 00:00:43,160
+00:00:41,740 --> 00:00:43,100
 美国民宿之旅
 bed-and-breakfast tour of America,
 
@@ -364,7 +364,7 @@ I'm not. I-I've fantasized so long about coming,
 and now that -- that we're here, I am...
 
 74
-00:02:55,426 --> 00:02:58,340
+00:02:55,460 --> 00:02:58,240
 我却感到羞愧 我都是40岁的老男人了
 I'm mortified, okay? I'm a 40-year-old man.
 
@@ -594,17 +594,17 @@ Okay, I think you have this twisted.
 This company has been around since before you all were born.
 
 120
-00:04:27,560 --> 00:04:29,850
+00:04:27,560 --> 00:04:29,860
 或许除了他 他是怎么回事
 Except for maybe him. How is he part of this?
 
 121
-00:04:29,850 --> 00:04:33,342
+00:04:30,000 --> 00:04:32,760
 这家伙吗 为了显得年龄多样化雇的
 This guy? That's our over-40 diversity hire.
 
 122
-00:04:33,342 --> 00:04:36,080
+00:04:33,340 --> 00:04:36,080
 我们已经开发出了智能衣柜技术
 Listen, we have developed smart-closet technology
 
@@ -784,12 +784,12 @@ Hey, girl, hey!
 I'm not going on your road trip.
 
 158
-00:05:57,220 --> 00:05:58,970
+00:05:57,220 --> 00:05:58,980
 -什么 -卢克告诉我你一直在煽动他
 - What? - Luke told me that you've been hounding him
 
 159
-00:05:58,970 --> 00:06:00,740
+00:05:58,980 --> 00:06:00,640
 因为你不想独自开车横跨全国
 because you don't want to drive cross-country alone.
 
@@ -819,7 +819,7 @@ Hey, no need to be afraid.
 Afraid?
 
 165
-00:06:09,114 --> 00:06:12,880
+00:06:09,460 --> 00:06:12,600
 曼尼 我是个穿低胸上衣的漂亮女孩
 Manny, I'm a pretty girl who wears low-cut tops.
 
@@ -909,12 +909,12 @@ We're here to bring Margaret home.
 Who's Margaret?
 
 183
-00:06:58,040 --> 00:06:58,498
+00:06:58,040 --> 00:06:58,520
 玛吉
 Margie!
 
 184
-00:06:58,498 --> 00:06:59,840
+00:06:59,000 --> 00:07:00,120
 小玛吉
 Margie-Marge!
 
@@ -939,12 +939,12 @@ I've told you, that's the kind of person these cults target!
 I like it here.
 
 189
-00:07:11,200 --> 00:07:14,678
+00:07:11,200 --> 00:07:14,700
 他们有能做各种汽水的机器
 They have one of those machines that makes every kind of soda.
 
 190
-00:07:14,678 --> 00:07:17,340
+00:07:14,920 --> 00:07:17,180
 可你有糖尿病 还是个成年人
 But you're diabetic. And a grown-up.
 
@@ -2114,12 +2114,12 @@ It was The Foolmaker!
 The scepter is a prop, okay?
 
 424
-00:16:02,120 --> 00:16:03,498
+00:16:02,120 --> 00:16:03,520
 你是自己被心里暗示所影响了
 It's just the power of suggestion.
 
 425
-00:16:03,498 --> 00:16:06,360
+00:16:03,740 --> 00:16:06,320
 米奇尔 他们想收走我的全通票
 Mitchell, they want to take away my all-access pass.
 
@@ -2644,12 +2644,12 @@ Sorry we're late. Traffic, you know.
 I keep telling you to try Waze,
 
 530
-00:20:11,600 --> 00:20:15,037
+00:20:11,600 --> 00:20:15,060
 可你害怕使用新科技 其实你不该怕啊
 but you're scared of technology, and you shouldn't be.
 
 531
-00:20:15,037 --> 00:20:17,660
+00:20:15,200 --> 00:20:17,280
 我们要将普里契特衣柜跟高科技公司合并
 We're merging Pritchett's with a high-tech closet company.
 

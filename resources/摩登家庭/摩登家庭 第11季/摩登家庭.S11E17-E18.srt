@@ -69,7 +69,7 @@ things have devolved into total chaos.
 Alex! Open up!
 
 15
-00:00:39,420 --> 00:00:41,660
+00:00:39,840 --> 00:00:41,660
 我头发都快干了  我还没抹发蜡呢
 My hair is drying, and I haven't put any product in yet.
 
@@ -364,7 +364,7 @@ Yes!
 He gets all nervous and yammery when he's around you.
 
 74
-00:03:09,600 --> 00:03:11,460
+00:03:09,600 --> 00:03:11,120
 你怎么到现在都还不知道你很有魅力
 How do you still not know you're a babe?
 
@@ -644,7 +644,7 @@ Uh, yes, of course. How... How can I help you?
 This is a bit of an awkward call.
 
 130
-00:05:24,740 --> 00:05:25,760
+00:05:24,740 --> 00:05:26,180
 你应该也知道
 As you know, you were the runner-up
 
@@ -814,7 +814,7 @@ You didn't turn on the garbage disposal, did you?
 One of you has to move out.
 
 164
-00:07:00,380 --> 00:07:03,240
+00:07:00,320 --> 00:07:03,240
 我最近薪水刚大幅缩水
 I-I just took a huge salary cut.
 
@@ -1239,7 +1239,7 @@ Sure does. Since he's a combo of Cam and Mitch,
 he's Kitsch.
 
 249
-00:10:15,080 --> 00:10:18,720
+00:10:16,300 --> 00:10:18,720
 是的没错  爸爸  太完美了
 Oh, yeah! Yes, he is! Dad, it's perfect!
 
@@ -1264,12 +1264,12 @@ I'm gonna die in this house.
 Come in. Have a seat.
 
 254
-00:10:31,320 --> 00:10:33,280
+00:10:31,600 --> 00:10:33,280
 所以  我就直说了
 So, I guess I'll just get right into it.
 
 255
-00:10:33,860 --> 00:10:34,900
+00:10:33,480 --> 00:10:34,900
 当我邀请你加入我的团队时
 I-I didn't see this coming
 
@@ -1284,7 +1284,7 @@ when I asked you to work with me,
 and I guess I'm sort of afraid...
 
 258
-00:10:40,660 --> 00:10:43,300
+00:10:40,860 --> 00:10:43,300
 这也解释了我举止尴尬的原因
 which, uh, explains why I'm acting so awkwardly
 
@@ -1354,7 +1354,7 @@ Well, then why were you hemming and hawing
 and bringing up Hugh Grant,
 
 272
-00:11:15,960 --> 00:11:17,040
+00:11:15,960 --> 00:11:17,440
 这会让每个女孩都直接联想到爱情喜剧
 which takes every girl right to rom-com?!
 
@@ -1719,7 +1719,7 @@ to see our new home
 and meet our precious new roommate, Rexford.
 
 345
-00:14:20,440 --> 00:14:23,640
+00:14:20,860 --> 00:14:23,640
 我还要感谢我最棒的丈夫  小卡
 And, uh, I also want to thank my wonderful husband, Cam,
 
@@ -1729,7 +1729,7 @@ And, uh, I also want to thank my wonderful husband, Cam,
 who really led the charge and made all of this possible.
 
 347
-00:14:26,840 --> 00:14:28,260
+00:14:25,740 --> 00:14:28,260
 这是我人生中最幸福的时刻
 I-I couldn't be happier right now,
 
@@ -1764,7 +1764,7 @@ This is so embarrassing.
 I just realized Ronaldo was offering me quiche.
 
 354
-00:14:47,720 --> 00:14:50,360
+00:14:48,160 --> 00:14:50,360
 所以你本来都不打算告诉我你收到邀约吗
 So, y-you were never gonna tell me you got offered the job?
 
@@ -1799,7 +1799,7 @@ and... and this is your dream job.
 No.
 
 361
-00:15:00,560 --> 00:15:02,780
+00:15:00,880 --> 00:15:02,780
 不  这是换我来支持你的机会
 No. T-This is my chance to be there for you.
 
@@ -2314,12 +2314,12 @@ of Route 13 and Burnt Corn Lane.
 Dear God, what are we doing?
 
 464
-00:19:29,560 --> 00:19:31,820
+00:19:29,160 --> 00:19:31,820
 要是没人喜欢我怎么办  要是我找不到工作怎么办
 W-What if no one likes me? What if I can't find a job?
 
 465
-00:19:33,640 --> 00:19:34,440
+00:19:33,460 --> 00:19:34,440
 那里有艺术电影院吗
 A-Are there art house theaters?
 
@@ -2444,7 +2444,7 @@ Excuse me, young lady.
 We're... We're having a-a serious conversation here, okay?
 
 490
-00:20:25,360 --> 00:20:27,860
+00:20:25,360 --> 00:20:26,600
 不要把我们跟老套的情侣混为一谈
 Do not reduce us to a couple stereotypical...
 
@@ -2539,7 +2539,7 @@ but I get to stay there for free
 cause I let the guy who owns it watch me on webcams.
 
 509
-00:21:16,580 --> 00:21:19,500
+00:21:17,020 --> 00:21:19,500
 我会经常过来的
 I'm gonna be coming over all the time!
 
@@ -2849,12 +2849,12 @@ our linens, our book.
 Well, don't stress out too much.
 
 571
-00:23:46,860 --> 00:23:49,380
+00:23:48,100 --> 00:23:49,380
 那么  再次告别
 So... This is goodbye again.
 
 572
-00:23:50,340 --> 00:23:53,160
+00:23:50,700 --> 00:23:53,160
 得花点时间才能重新感伤起来
 It's gonna take a minute to ramp back up to all the emotion...
 
@@ -2984,7 +2984,7 @@ It's already as wrinkled as my favorite pig
 when she lost all that weight.
 
 598
-00:24:56,180 --> 00:24:58,600
+00:24:56,940 --> 00:24:58,600
 我们能在楼梯上最后再拍张照吗
 Oh, c-can we take one last picture by the staircase?
 
@@ -3104,7 +3104,7 @@ until your mother grabbed it
 and donated it back to the skating rink.
 
 622
-00:26:01,760 --> 00:26:05,040
+00:26:01,760 --> 00:26:04,660
 好吧  我们只有晚上九点的航班可乘了
 Okay, well, now our only option is the 9:00 P.M.
 
@@ -3324,7 +3324,7 @@ It was 2005,
 and we desperately wanted a dog.
 
 666
-00:27:45,960 --> 00:27:47,900
+00:27:45,960 --> 00:27:47,500
 于是我们拍了一段视频  想证明给爸妈看
 So we made a video to convince our parents
 
@@ -3439,7 +3439,7 @@ There are a lot of really great career opportunities there.
 And with my experience, I could become a judge.
 
 689
-00:28:50,980 --> 00:28:53,340
+00:28:50,980 --> 00:28:52,840
 最近对你来说也挺令人兴奋吧
 It's a pretty exciting time for you, too, huh?
 
@@ -3659,7 +3659,7 @@ Jay?
 What's wrong with him?
 
 733
-00:30:39,680 --> 00:30:41,900
+00:30:40,040 --> 00:30:41,900
 家里一切都会没事的吧  妈妈
 Is everything gonna be okay, Mommy?
 
@@ -4364,7 +4364,7 @@ Oh, Mom.
 I'm the lucky one.
 
 874
-00:37:05,060 --> 00:37:07,680
+00:37:05,700 --> 00:37:07,680
 我会很想你的  但我很激动
 I'm gonna miss you so much, but I am so excited
 
@@ -4719,7 +4719,7 @@ Okay, everybody, squeeze in.
 Squeeze in for the picture.
 
 945
-00:41:01,840 --> 00:41:01,980
+00:41:02,500 --> 00:41:03,020
 好
 Okay.
 

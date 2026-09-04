@@ -59,17 +59,17 @@ This is a fantastic idea and I really want to do this.
 First question: "Describe your neighborhood."
 
 13
-00:00:36,960 --> 00:00:38,280
+00:00:36,480 --> 00:00:38,280
 房子破烂 鼠辈横行
 Run-down with a bunch of rats.
 
 14
-00:00:39,244 --> 00:00:41,247
+00:00:39,640 --> 00:00:40,880
 古色古香
 Old-world charm.
 
 15
-00:00:41,247 --> 00:00:43,159
+00:00:41,680 --> 00:00:42,320
 欢迎宠物
 Pet-friendly.
 
@@ -184,7 +184,7 @@ Well, good luck getting it back.
 They tend to be a tad territorial.
 
 38
-00:01:50,120 --> 00:01:52,440
+00:01:50,120 --> 00:01:52,980
 这网站是登记房源 出租给外地旅客
 Airbnb is an agency that rents to out-of-towners
 
@@ -309,7 +309,7 @@ You're right. We lie, they lie.
 Um, a married couple looking to reconnect.
 
 63
-00:02:50,557 --> 00:02:53,400
+00:02:51,140 --> 00:02:52,180
 谋杀后自杀
 Murder-suicide.
 
@@ -794,7 +794,7 @@ Oh, this bed is like being in the womb
 without all the second-hand smoke.
 
 160
-00:07:38,260 --> 00:07:39,460
+00:07:38,260 --> 00:07:40,300
 玛莎跟莉莉人好好啊
 Martha and Lily were super-sweet.
 
@@ -1239,12 +1239,12 @@ I can't believe we're not invited
 to the biggest party in our apartment
 
 249
-00:11:49,300 --> 00:11:51,378
+00:11:49,300 --> 00:11:51,400
 上一次还是蚂蚁发现你的糖豆时 它们办的呢
 since those ants found your jelly beans.
 
 250
-00:11:51,378 --> 00:11:53,352
+00:11:52,700 --> 00:11:53,240
 哟呵
 Yoo-hoo!
 
@@ -2194,7 +2194,7 @@ Here, Max.
 No way!
 
 440
-00:19:57,940 --> 00:19:59,200
+00:19:57,940 --> 00:19:59,740
 瞧 卡洛琳 我的内衣大集合耶
 Look, Caroline, it's a Bra-nanza!
 
@@ -2254,7 +2254,7 @@ I thought Lily did.
 Model moment!
 
 452
-00:20:32,661 --> 00:20:34,864
+00:20:32,620 --> 00:20:34,200
 上菜 卡洛琳
 Pick-up, Caroline!
 
@@ -2264,7 +2264,7 @@ Pick-up, Caroline!
 Yup, I always knew you would die here.
 
 454
-00:20:45,282 --> 00:20:47,396
+00:20:45,280 --> 00:20:46,700
 上菜 麦克斯
 Pick-up, Max!
 

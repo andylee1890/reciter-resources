@@ -119,7 +119,7 @@ I haven't sold a house all month.
 Do you see me saying "I'm done"? Never.
 
 25
-00:00:44,520 --> 00:00:48,390
+00:00:46,020 --> 00:00:47,780
 因为邓菲家字典里没有"完了"这个词
 Because there is no "Done" in Dunphy.
 
@@ -134,12 +134,12 @@ I'll see you guys at the game.
 Hey, there is no "Umph" in Dunph--
 
 28
-00:00:52,340 --> 00:00:53,260
+00:00:53,620 --> 00:00:54,480
 拼法不一样
 different spelling!
 
 29
-00:00:53,980 --> 00:00:56,190
+00:00:55,480 --> 00:00:56,000
 小卡
 Cam!
 
@@ -264,7 +264,7 @@ You're right. You're right.
 I -- I do not want to be crazy.
 
 54
-00:01:42,660 --> 00:01:43,620
+00:01:43,900 --> 00:01:45,240
 比赛时见
 I'll see you at the game.
 
@@ -434,7 +434,7 @@ It makes people resent me.
 - This is good. Thanks, dad. - Yeah.
 
 88
-00:02:45,240 --> 00:02:48,880
+00:02:46,740 --> 00:02:47,360
 -再见 -再见
 - Bye. - Bye.
 
@@ -614,22 +614,22 @@ Do they still run through a banner?
 OK. So the game's at what, like, 4:00?
 
 124
-00:04:26,630 --> 00:04:28,660
+00:04:29,240 --> 00:04:31,240
 我们应该 把那个给我
 We should probably -- hey! Give me that.
 
 125
-00:04:29,210 --> 00:04:29,980
+00:04:32,200 --> 00:04:32,760
 我
 I'm --
 
 126
-00:04:29,980 --> 00:04:31,310
+00:04:32,760 --> 00:04:33,880
 这是我的私人号码
 This is my private cell.
 
 127
-00:04:32,420 --> 00:04:35,200
+00:04:34,960 --> 00:04:37,800
 全世界只有三个人可以打这个号码
 Only three people in the whole world use this.
 
@@ -754,22 +754,22 @@ No, I'm not. I'm being -- wow, here? Really?!
 You know, you gave me this.
 
 152
-00:05:25,300 --> 00:05:28,150
+00:05:27,940 --> 00:05:30,800
 -看看你当时多可爱 -行了行了
 - Look how adorable you were. - Okay. Okay. Okay.
 
 153
-00:05:28,180 --> 00:05:30,890
+00:05:30,800 --> 00:05:33,520
 我希望你能认真听进去我说的话
 I want you to try really hard to hear what I'm saying.
 
 154
-00:05:31,440 --> 00:05:33,690
+00:05:34,100 --> 00:05:36,420
 需要帮助的时候我会找你的
 When I need your help, I will ask for it.
 
 155
-00:05:34,920 --> 00:05:39,840
+00:05:36,420 --> 00:05:38,320
 但在那以前 不要多管闲事
 And until then, just butt out.
 
@@ -994,17 +994,17 @@ Keys get lost, deals fall through, keys get misplaced.
 Uh, a lot of it has to do with keys.
 
 200
-00:07:13,100 --> 00:07:16,010
+00:07:20,760 --> 00:07:24,020
 这种时候你就会发现世上有两种人
 But that's when you find out there are two types of people --
 
 201
-00:07:16,430 --> 00:07:18,890
+00:07:24,020 --> 00:07:27,040
 一种只会盯着锁了的门浪费时间
 those who waste time staring at a closed door...
 
 202
-00:07:25,540 --> 00:07:31,900
+00:07:27,040 --> 00:07:30,940
 而另一种人会找到一扇窗
 and those who find a window.
 
@@ -1059,22 +1059,22 @@ That redhead, of course, was Mitchell,
 introducing me to the plucky orphan Annie...
 
 213
-00:08:12,420 --> 00:08:14,930
+00:08:21,400 --> 00:08:24,540
 她用她永不言败的精神
 ...whose never-say-die attitude pulled this country
 
 214
-00:08:14,930 --> 00:08:16,590
+00:08:24,540 --> 00:08:26,200
 把这个国家从大萧条中
 out of a little thing called...
 
 215
-00:08:17,500 --> 00:08:19,260
+00:08:26,200 --> 00:08:28,600
 解救出来
 the great depression.
 
 216
-00:08:28,120 --> 00:08:35,400
+00:08:29,620 --> 00:08:33,880
 凡是小女孩能做的事 我也能做
 And anything a little girl can do, I can try to do, too.
 
@@ -2744,6 +2744,6 @@ Not too bad, a little puffy, kind of like your eyes were
 when you saw "Finding Nemo," Miller.
 
 550
-00:21:23,780 --> 00:21:29,460
+00:21:25,280 --> 00:21:27,940
 我不是说了吗 要有乐观的心态
 Like I said -- positive attitude.

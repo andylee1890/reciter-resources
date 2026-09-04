@@ -79,12 +79,12 @@ I'm in my gym clothes.
 Oh, I see you earned that hot chocolate.
 
 17
-00:00:52,840 --> 00:00:54,125
+00:00:52,840 --> 00:00:54,140
 是啊 我刚刚进行了一次
 Yeah, I rocked a pretty intense
 
 18
-00:00:54,125 --> 00:00:55,479
+00:00:54,140 --> 00:00:55,500
 高强度摇哑铃快步走
 Shake Weights/Power Walk Combo.
 
@@ -104,12 +104,12 @@ Saw your daughter yesterday. Boy, she is growing up fast.
 My name is Angie.
 
 22
-00:01:04,620 --> 00:01:06,337
+00:01:04,620 --> 00:01:06,360
 这是我的号码
 Here is my number.
 
 23
-00:01:06,337 --> 00:01:09,360
+00:01:06,580 --> 00:01:08,760
 如果你在这附近有看到什么三卧室的房子
 If you find any good three-bedrooms in the neighborhood,
 
@@ -124,12 +124,12 @@ I'd love to see them.
 Well, I'll call you. I'd love to show them to you.
 
 26
-00:01:12,020 --> 00:01:13,541
+00:01:12,020 --> 00:01:13,560
 我可不只有一张让人们坐的帅脸[板凳广告]
 I'm not just a pretty face people sit on.
 
 27
-00:01:13,541 --> 00:01:14,865
+00:01:13,620 --> 00:01:14,640
 当作没听见吧
 Forget...I said that.
 
@@ -594,12 +594,12 @@ Sure. Text me the info.
 Hey, remind her!
 
 120
-00:04:24,340 --> 00:04:25,617
+00:04:24,340 --> 00:04:25,640
 别忘了
 And don't forget --
 
 121
-00:04:25,617 --> 00:04:29,120
+00:04:25,680 --> 00:04:28,660
 今天有全新一集的"杰说心语"哦
 today, all-new episode of "Jay Talking".
 
@@ -684,12 +684,12 @@ I'm not writing your essay.
 Okay. See you at Easter.
 
 138
-00:04:56,900 --> 00:04:57,717
+00:04:56,900 --> 00:04:57,740
 我回来了
 I'm back.
 
 139
-00:04:57,717 --> 00:05:00,440
+00:04:57,940 --> 00:05:00,260
 带"小心心"安吉看房看得怎么样了
 How'd your showing with Angie-with-a-heart go?
 
@@ -1464,7 +1464,7 @@ What are you doing here?
 I got to say, I thought I was over yoga,
 
 294
-00:10:12,770 --> 00:10:15,200
+00:10:12,900 --> 00:10:14,760
 可是昨天真是让我大开眼界
 but yesterday was a real eye-opener.
 
@@ -1734,7 +1734,7 @@ Can you open these?
 Well? Will you?
 
 348
-00:12:03,913 --> 00:12:05,725
+00:12:04,340 --> 00:12:05,580
 可以呀 现在就要开吗
 Uh...sure. Yeah. Now?
 
@@ -2489,12 +2489,12 @@ I forgot it was for sale.
 You're the agent.
 
 499
-00:17:32,720 --> 00:17:34,237
+00:17:32,720 --> 00:17:34,260
 我记起来了 它建得不好
 I remember -- It's built cheap.
 
 500
-00:17:34,237 --> 00:17:36,560
+00:17:34,580 --> 00:17:36,360
 我觉得挺结实的
 It...looks pretty solid to me.
 
@@ -2529,7 +2529,7 @@ Do you not want me as a neighbor?
 Okay.
 
 507
-00:17:45,803 --> 00:17:48,260
+00:17:45,880 --> 00:17:47,940
 我坚持不下去了 实话实说吧
 I-I can't do this anymore. No more lies.
 

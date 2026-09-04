@@ -344,17 +344,17 @@ I have a small fear he's become a warlord.
 Hey. I'm gonna go to the gym to work out a little bit.
 
 70
-00:03:02,220 --> 00:03:02,898
+00:03:02,220 --> 00:03:02,920
 你要一起来吗
 You want to come with me?
 
 71
-00:03:02,898 --> 00:03:05,162
+00:03:03,060 --> 00:03:05,240
 我刚刚特地叫了一根超长吸管
 I just ordered an extra-long straw
 
 72
-00:03:05,162 --> 00:03:07,045
+00:03:05,240 --> 00:03:06,980
 就是为了不想坐起来
 to avoid accidentally doing a sit-up.
 
@@ -794,12 +794,12 @@ What just happened?
 Ooh, so we can drink lavender tea
 
 160
-00:06:33,860 --> 00:06:35,138
+00:06:33,860 --> 00:06:35,160
 一边吃薰衣草饼
 while eating lavender scones.
 
 161
-00:06:35,138 --> 00:06:38,940
+00:06:35,240 --> 00:06:38,940
 真棒 一整天都这么过还是怎么着
 Oh, neat! So, is this an all-day thing or-
 
@@ -834,12 +834,12 @@ Okay.
 I don't want to go.
 
 168
-00:06:53,720 --> 00:06:54,318
+00:06:53,720 --> 00:06:54,340
 我知道我说过
 I know I said
 
 169
-00:06:54,318 --> 00:06:55,860
+00:06:54,340 --> 00:06:55,860
 我不是那种慵懒不爱动的人
 I'm not a stay-by-the-pool type of guy,
 
@@ -984,7 +984,7 @@ You look prettier now than the day we got married.
 Oh, honey. And you are even more handsome.
 
 198
-00:08:07,007 --> 00:08:08,543
+00:08:06,860 --> 00:08:08,620
 我有在浴室里偷偷练俯卧撑
 I did push-ups in the bathroom.
 
@@ -1279,7 +1279,7 @@ Thank you.
 What's this called?
 
 257
-00:10:38,340 --> 00:10:38,460
+00:10:38,340 --> 00:10:38,440
 幸福
 Happiness.
 
@@ -1384,12 +1384,12 @@ What'd you do today?
 - I napped. - You did?
 
 278
-00:11:31,240 --> 00:11:33,419
+00:11:31,240 --> 00:11:33,440
 -我好几年都没打过盹了 -感觉很棒 对吧
 - I haven't napped in years. - Yeah. It feels good, doesn't it?
 
 279
-00:11:33,419 --> 00:11:35,093
+00:11:33,620 --> 00:11:34,800
 嗯 又奇怪又舒爽
 Mm-hmm. Good and weird.
 

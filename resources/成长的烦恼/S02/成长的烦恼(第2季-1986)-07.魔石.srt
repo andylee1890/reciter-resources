@@ -43,7 +43,7 @@ Study Mike!
 Alright!
 
 10
-00:00:40,740 --> 00:00:41,600
+00:00:40,080 --> 00:00:40,600
 喂
 Hello.
 
@@ -146,7 +146,7 @@ Ben,you know when you look at me suspiciously like that
 it hurts.
 
 31
-00:01:27,250 --> 00:01:28,260
+00:01:26,540 --> 00:01:26,940
 很好。
 Good.
 
@@ -191,7 +191,7 @@ that you could use to win big money out of your trusting little friends...
 How much money?
 
 40
-00:01:46,400 --> 00:01:46,580
+00:01:45,680 --> 00:01:46,040
 很多！
 Plenty?
 
@@ -246,7 +246,7 @@ It's the Queen of Spades.
 Seven of Diamonds!
 
 51
-00:02:13,670 --> 00:02:14,660
+00:02:12,680 --> 00:02:12,820
 哈！
 Ha!
 
@@ -345,12 +345,12 @@ I'm only ten. What's your excuse?
 Hello Mikey,are you there?
 
 71
-00:04:29,620 --> 00:04:33,480
+00:04:28,000 --> 00:04:30,060
 喂？喂？！
 Hello. Hello!
 
 72
-00:04:33,670 --> 00:04:35,280
+00:04:32,680 --> 00:04:33,480
 喂？
 Hello!
 
@@ -390,7 +390,7 @@ I mean I just went down to the Arcade for half an hour,
 after Boner calls and invites me,and he doesn't even show up!
 
 80
-00:04:55,180 --> 00:04:56,420
+00:04:54,500 --> 00:04:54,860
 Mike.
 
 81
@@ -398,7 +398,7 @@ Mike.
 Mike？
 
 82
-00:04:59,610 --> 00:05:00,670
+00:04:58,940 --> 00:04:59,300
 波拿？
 Boner?!
 
@@ -471,7 +471,7 @@ Well,you're pushing me.
 Did you tell Dad about all the money you stole from us?
 
 97
-00:05:41,230 --> 00:05:42,020
+00:05:40,420 --> 00:05:40,900
 什么？
 What?
 
@@ -666,7 +666,7 @@ Look! Look what I've got!
 What Ben?
 
 136
-00:07:22,600 --> 00:07:23,900
+00:07:21,960 --> 00:07:22,620
 看吧。
 This.
 
@@ -1001,7 +1001,7 @@ Ben，说不定你的魔石还能帮我们洗衣服。
 Well Ben,maybe your magic rock can finish the laundry for me.
 
 203
-00:10:26,020 --> 00:10:26,460
+00:10:25,680 --> 00:10:26,120
 亲爱的！
 Honey.
 
@@ -1061,7 +1061,7 @@ D..Dad,I thought my room was my space.
 Your space smells.
 
 215
-00:11:12,980 --> 00:11:15,370
+00:11:12,520 --> 00:11:13,000
 全好了！
 Perfect.
 
@@ -1146,7 +1146,7 @@ Have I ever told you how much I hate being called Benny?
 Yes,many times,and I'm just now getting the message.
 
 232
-00:12:31,030 --> 00:12:31,940
+00:12:31,260 --> 00:12:31,620
 很好。
 Good.
 
@@ -1276,12 +1276,12 @@ Seaver一家罪恶的生涯。
 Farah Fosset could play you,I'd be played by Richard Chamberlain of course.
 
 258
-00:13:42,520 --> 00:13:43,620
+00:13:42,520 --> 00:13:43,660
 电视剧第一集……
 And in part one maybe...
 
 259
-00:13:43,620 --> 00:13:44,400
+00:13:43,860 --> 00:13:44,120
 Jason.
 
 260
@@ -1344,7 +1344,7 @@ Thirty...five. Thirty five Dollars Benny!
 What was that?
 
 272
-00:14:18,280 --> 00:14:19,890
+00:14:19,000 --> 00:14:19,640
 小飞侠Ben
 Benjamin.
 
@@ -1594,7 +1594,7 @@ Mike，我听不懂你在说什么。
 Mike,I'm having a little trouble following this.
 
 322
-00:17:04,920 --> 00:17:06,930
+00:17:05,600 --> 00:17:06,180
 魔力。
 Magic!
 
@@ -1724,12 +1724,12 @@ Ben,Buzzie Babone's a bum!
 He couldn't catch a cold.
 
 348
-00:18:13,480 --> 00:18:14,420
+00:18:13,480 --> 00:18:14,460
 是买来的？
 You bought that?
 
 349
-00:18:14,420 --> 00:18:15,940
+00:18:14,580 --> 00:18:15,120
 对。
 Yeah!
 
@@ -1764,17 +1764,17 @@ I did.
 Ten Dollars?
 
 356
-00:18:24,750 --> 00:18:25,650
+00:18:24,960 --> 00:18:25,200
 对。
 Yeah!
 
 357
-00:18:25,650 --> 00:18:26,620
+00:18:25,860 --> 00:18:26,120
 总共？
 Total?
 
 358
-00:18:26,620 --> 00:18:27,620
+00:18:26,680 --> 00:18:27,060
 不是。
 No.
 
@@ -1902,7 +1902,7 @@ Mrs. Seaver,he like ripped me off.
 He sold me this stupid rock and told me it was magic.
 
 384
-00:19:25,320 --> 00:19:26,020
+00:19:25,380 --> 00:19:25,780
 不。
 No!!
 
@@ -2007,7 +2007,7 @@ Ok,this is...fifty Dollars
 and a genuine autographed Buzzie Babone mitt.
 
 405
-00:20:20,660 --> 00:20:22,020
+00:20:20,860 --> 00:20:21,400
 哗。
 Hey!!!
 
@@ -2032,7 +2032,7 @@ Oh and tell Mike that I'm never speaking to him again.
 Oh never mind I'll tell him when I see him tomorrow.
 
 410
-00:20:46,280 --> 00:20:48,070
+00:20:47,200 --> 00:20:47,800
 怎么样？
 Well?
 
@@ -2077,7 +2077,7 @@ Oh I don't know...sentimental.
 Yeah here.
 
 419
-00:21:05,590 --> 00:21:06,630
+00:21:05,640 --> 00:21:06,100
 Hey!!!
 
 420
@@ -2091,7 +2091,7 @@ Hey relax it's worthless.
 You think so huh?
 
 422
-00:21:12,120 --> 00:21:13,040
+00:21:11,900 --> 00:21:12,680
 什么？
 What?
 
@@ -2106,7 +2106,7 @@ I had this rock in my Chemistry class.
 Mr. Rembelov offered to buy it from me.
 
 425
-00:21:16,760 --> 00:21:18,190
+00:21:17,480 --> 00:21:17,940
 什么？
 What?
 

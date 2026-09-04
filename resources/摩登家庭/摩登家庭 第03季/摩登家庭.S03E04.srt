@@ -249,7 +249,7 @@ It wasn't about the bread. It was about the society--
 Focus, people.
 
 51
-00:01:52,860 --> 00:01:54,860
+00:01:53,680 --> 00:01:54,860
 曼尼  我们会买下你全部的包装纸
 Manny, we will buy all your wrapping paper.
 
@@ -339,7 +339,7 @@ they wanted to reschedule our home visit.
 When? Why didn't you tell me?
 
 69
-00:02:36,760 --> 00:02:37,760
+00:02:36,460 --> 00:02:37,760
 这么重要的事
 Th-this is kind of important.
 
@@ -464,12 +464,12 @@ I'm still cleaning shrimp foam out of the curtains.
 Okay, you know, Mitchell? Just go to work, okay?
 
 94
-00:03:34,160 --> 00:03:36,340
+00:03:34,600 --> 00:03:36,340
 我来送莉莉上学  等我回家的时候
 I'm gonna take Lily to school, and then when I get home,
 
 95
-00:03:36,760 --> 00:03:38,400
+00:03:37,220 --> 00:03:38,400
 我就清理"饭醉现场"  不留蛛丝马迹
 I'm gonna scrub this place like a crime scene,
 
@@ -539,7 +539,7 @@ How many moms does it take to screw on a lightbulb?
 I don't know.
 
 109
-00:04:09,940 --> 00:04:11,980
+00:04:10,580 --> 00:04:11,980
 一个都不用  因为她会指使你去干  废柴
 None, 'cause they get you to do it, sucker.
 
@@ -1009,7 +1009,7 @@ Stella!
 Hello? Oh, Mitchell, you are not gonna believe this.
 
 203
-00:08:13,140 --> 00:08:14,800
+00:08:13,140 --> 00:08:14,400
 我正在外面帮歌洛莉亚找她的狗
 I'm out helping Gloria look for her dog.
 
@@ -1319,7 +1319,7 @@ I can't reach.
 For the record, I am not a neat freak.
 
 265
-00:10:30,560 --> 00:10:32,320
+00:10:30,220 --> 00:10:32,320
 其实  在我第一次谈恋爱时
 I-in fact, in my first long-term relationship,
 
@@ -1394,7 +1394,7 @@ I can't understand what you're saying.
 She's an ugly little fresh bulldog
 
 280
-00:11:09,760 --> 00:11:12,100
+00:11:09,760 --> 00:11:11,420
 长着小耳朵和苦逼脸
 with the tiny ears and the smushy face.
 
@@ -2304,7 +2304,7 @@ If she wants a stop sign...
 There's gonna be a stop sign.
 
 462
-00:18:44,240 --> 00:18:44,840
+00:18:43,740 --> 00:18:44,840
 没错  他说的对
 Mm-hmm. He's right.
 
@@ -2594,6 +2594,6 @@ And I'm not gonna do that to you.
 I'm gonna be the kind of dad...
 
 520
-00:21:17,700 --> 00:21:19,060
+00:21:17,700 --> 00:21:18,540
 你还想玩多久
 How many more of these do you wanna do?

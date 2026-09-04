@@ -419,7 +419,7 @@ or an extremely late mid-life crisis?
 I don't think "extremely" is necessary.
 
 85
-00:02:49,728 --> 00:02:52,902
+00:02:50,100 --> 00:02:52,580
 这是借的 一周的试驾期
 It's on loan -- kind of a weekend-long test-drive.
 
@@ -484,12 +484,12 @@ he was eyeing this bottle the same way you look at me
 when I wear that strappy sundress.
 
 98
-00:03:14,880 --> 00:03:15,915
+00:03:14,880 --> 00:03:15,940
 我真的很喜欢那条裙子
 I do like that dress.
 
 99
-00:03:15,915 --> 00:03:17,620
+00:03:16,060 --> 00:03:17,540
 我要抓他个现行
 I am going to catch him red-handed.
 
@@ -659,17 +659,17 @@ Didn't mean you couldn't trade up.
 I give you the Flame XL.
 
 133
-00:04:24,800 --> 00:04:25,958
+00:04:24,800 --> 00:04:25,980
 我的客户是那家公司的老板
 My client owns the company.
 
 134
-00:04:25,958 --> 00:04:27,639
+00:04:26,200 --> 00:04:27,520
 他给了我一个超值大礼包
 He gave me a crazy-good deal.
 
 135
-00:04:27,639 --> 00:04:29,960
+00:04:27,800 --> 00:04:29,820
 送了25000热单位的丙烷燃料
 25,000 wood propane BTUs.
 
@@ -1149,7 +1149,7 @@ Very generously, I might add. Yes.
 ...but we wanted to at least make the offer
 
 231
-00:07:29,980 --> 00:07:33,189
+00:07:29,980 --> 00:07:32,840
 把钱还给你
 to pay...you...back.
 
@@ -1279,7 +1279,7 @@ I met him the same day I came to visit you in the hospital.
 Isn't that funny?
 
 257
-00:08:23,274 --> 00:08:24,666
+00:08:23,580 --> 00:08:24,460
 非常有趣
 Super-funny.
 
@@ -1849,12 +1849,12 @@ You could put on my shirt. It's hanging right there.
 Oh, thanks.
 
 371
-00:12:09,260 --> 00:12:11,500
+00:12:09,260 --> 00:12:11,520
 有点大 你有皮带吗
 It's a little boxy. Do you have a chunky belt?
 
 372
-00:12:11,500 --> 00:12:13,489
+00:12:11,800 --> 00:12:13,180
 有
 Uh...yeah, I guess.
 
@@ -1974,12 +1974,12 @@ Because you're not good with words.
 Well, I'm a doctor.
 
 396
-00:12:54,280 --> 00:12:55,758
+00:12:54,280 --> 00:12:55,780
 我不会说自己有什么不擅长的
 I can't admit I'm not good at something.
 
 397
-00:12:55,758 --> 00:12:57,699
+00:12:55,920 --> 00:12:56,900
 但...拜托你了
 But...please?
 
@@ -2954,7 +2954,7 @@ I know.
 As soon as we kill this worm, we're gonna get her back.
 
 592
-00:19:30,604 --> 00:19:32,448
+00:19:30,980 --> 00:19:32,320
 根本 没有 虫子
 There's...no...worm!
 
@@ -3164,7 +3164,7 @@ if I drove up the first --
 - Not gonna happen. - Okay.
 
 634
-00:20:57,995 --> 00:21:00,320
+00:20:57,800 --> 00:21:00,320
 你弟弟现在财务上有点紧张
 Your brother's in a bit of a spot money-wise,
 

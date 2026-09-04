@@ -324,12 +324,12 @@ Earl Chambers,
 my former business partner-turned dumbass nemesis,
 
 66
-00:02:26,280 --> 00:02:28,136
+00:02:26,280 --> 00:02:28,160
 他买了横向衣柜
 bought the old horizontal wardrobe.
 
 67
-00:02:28,136 --> 00:02:31,140
+00:02:28,460 --> 00:02:30,680
 给你们衣柜业门外汉解释一下 就是他挂了
 For you closet non-pros, that means he died.
 
@@ -399,7 +399,7 @@ She's a greasy slimebucket, just like her father,
 and for some reason, she doesn't like me.
 
 81
-00:02:58,748 --> 00:03:00,518
+00:02:58,320 --> 00:03:00,660
 我想想办法吧
 Hmm...I'll see what I can do.
 
@@ -514,7 +514,7 @@ Someone's got a sock on the digital doorknob.
 I really think you should be a little worried about this.
 
 104
-00:03:52,980 --> 00:03:53,100
+00:03:52,980 --> 00:03:53,080
 担心
 Worried?!
 
@@ -564,12 +564,12 @@ I used to live in this neighborhood.
 If you act tough, nobody will mess with you.
 
 114
-00:04:15,240 --> 00:04:16,639
+00:04:15,240 --> 00:04:16,660
 你们想尝尝
 Would you like to try
 
 115
-00:04:16,639 --> 00:04:19,000
+00:04:16,660 --> 00:04:18,800
 人道的碱水刨冰吗
 a cruelty-free alkaline-water snow cone?
 
@@ -714,7 +714,7 @@ Hey, what's this building's number?
 I'm trying to Postmates a smoothie.
 
 144
-00:05:19,948 --> 00:05:21,980
+00:05:19,980 --> 00:05:21,980
 我迅速在脑海中进行了
 I quickly do a few multi-dimensional
 
@@ -944,12 +944,12 @@ Everybody knows who Lazlo is. He's a legend.
 Yeah, and my only employee worth a damn.
 
 190
-00:07:09,460 --> 00:07:11,339
+00:07:09,460 --> 00:07:11,360
 机器人工人 那才是未来
 Robot workers. Now, that's the future.
 
 191
-00:07:11,339 --> 00:07:13,180
+00:07:11,480 --> 00:07:13,140
 对啊 它们从不休息
 Right! They work 24/7,
 
@@ -1059,7 +1059,7 @@ Do you know the girl's name?
 No. Uh, something Latin-y.
 
 213
-00:07:55,524 --> 00:07:58,860
+00:07:55,500 --> 00:07:58,660
 你怎么了 你以前还是拉丁男孩呢
 What happened to you? You used to be Latin-y.
 
@@ -1534,7 +1534,7 @@ So I interrupted some boring story.
 Dr. Arvin Fennerman
 
 308
-00:11:03,147 --> 00:11:05,680
+00:11:03,160 --> 00:11:05,500
 是一个大奖的两次获得者
 is a two-time Vanderkoff Grant winner --
 
@@ -1799,12 +1799,12 @@ and-and they all end with us...
 I have heard some lame pickup lines in my day, but --
 
 361
-00:12:51,620 --> 00:12:52,499
+00:12:51,620 --> 00:12:52,520
 那种词我也有不少存货
 I have plenty of those.
 
 362
-00:12:52,499 --> 00:12:54,620
+00:12:52,920 --> 00:12:54,620
 你是神经电流吗
 Are you a neuro-electrical current
 
@@ -1869,7 +1869,7 @@ Haley, there are forces in the universe
 that we don't understand...
 
 375
-00:13:20,504 --> 00:13:23,834
+00:13:20,680 --> 00:13:23,980
 可测却无法解释的力
 measurable forces that...can't be explained,
 
@@ -1984,12 +1984,12 @@ No, there isn't.
 A Dunphy man would never do that.
 
 398
-00:14:18,800 --> 00:14:21,590
+00:14:18,800 --> 00:14:21,600
 我们会临阵脱逃 被蜘蛛吓跑
 We walk away from fights, we walk away from spiders,
 
 399
-00:14:21,590 --> 00:14:24,480
+00:14:21,640 --> 00:14:24,280
 但永远不会离开身上有糖霜味的可爱女孩
 but never a super-cute girl who smells like frosting!
 
@@ -2194,12 +2194,12 @@ We have, uh...
 ...uh, "Two turquoise bowls of white Chiclets,
 
 440
-00:15:47,360 --> 00:15:49,559
+00:15:47,360 --> 00:15:49,580
 有地漏的空办公室"
 an empty office with a drain in the floor..."
 
 441
-00:15:49,559 --> 00:15:52,418
+00:15:49,700 --> 00:15:51,860
 -"尖叫室"是什么 -这还用解释吗
 - What's a "Scream room"? - I think that's self-explanatory.
 
@@ -2289,7 +2289,7 @@ I like my fries the way I like my Lazlo...
 undressed.
 
 459
-00:16:25,338 --> 00:16:26,660
+00:16:25,680 --> 00:16:26,320
 小低低
 Twiddle-Dee.
 
@@ -2369,12 +2369,12 @@ Up the hill! Oh, my God! That's it!
 No, no, you do not get to have an epiphany right now!
 
 475
-00:17:01,180 --> 00:17:02,550
+00:17:01,180 --> 00:17:02,560
 我要被你气炸了
 I am furious at you!
 
 476
-00:17:02,550 --> 00:17:05,391
+00:17:02,720 --> 00:17:05,080
 我的回答是 我愿意
 The answer is...yes.
 
@@ -2384,12 +2384,12 @@ The answer is...yes.
 People say that NERP
 
 478
-00:17:08,160 --> 00:17:09,901
+00:17:08,160 --> 00:17:09,920
 不过是骗钱的玩意
 is nothing more than a con job,
 
 479
-00:17:09,901 --> 00:17:12,932
+00:17:10,100 --> 00:17:12,080
 脑残女演员的刷脸骗钱项目
 a cash-grab vanity project from a kooky actress.
 

@@ -104,12 +104,12 @@ Andy, if I could bottle you up
 and put you into a cologne, you know what I'd call it?
 
 22
-00:01:27,480 --> 00:01:27,889
+00:01:27,480 --> 00:01:27,920
 进取号
 "Initiative."
 
 23
-00:01:27,889 --> 00:01:29,680
+00:01:28,240 --> 00:01:29,680
 黑白广告
 The black-and-white commercial
 
@@ -134,12 +134,12 @@ I want to come back to this because it's fun,
 but I need your advice.
 
 28
-00:01:38,180 --> 00:01:39,679
+00:01:38,180 --> 00:01:39,700
 你还记得我在犹他州的堂兄吗
 You remember my cousin back in Utah,
 
 29
-00:01:39,679 --> 00:01:41,264
+00:01:39,760 --> 00:01:40,920
 -那个房地产开发商 -记得啊
 - the real-estate developer? - Yeah.
 
@@ -194,7 +194,7 @@ That's it?
 Sanjay's parents are throwing him
 
 40
-00:02:01,315 --> 00:02:02,740
+00:02:01,380 --> 00:02:02,720
 三天的"欢迎回家"派对
 a three-day "Welcome Home" party.
 
@@ -514,7 +514,7 @@ B-Biscuit Bonanza?
 It's what it sounds like.
 
 104
-00:04:00,591 --> 00:04:02,100
+00:04:00,700 --> 00:04:02,080
 是一个饼干烘焙比赛
 It's a biscuit-baking competition,
 
@@ -539,12 +539,12 @@ That's fine, Mitchell -- I don't care about 4th of July,
 as long as I get Lily for Biscuit Bonanza.
 
 109
-00:04:09,846 --> 00:04:09,966
+00:04:09,940 --> 00:04:10,720
 好运饼干
 Biscuit Bonanza?!
 
 110
-00:04:09,966 --> 00:04:13,240
+00:04:10,940 --> 00:04:13,200
 对 就是你听到的这样 是一个饼干烘焙...
 Yeah. It's what it sounds like. It's a biscuit-baking --
 
@@ -629,7 +629,7 @@ You can do that?
 Oh, Jay.
 
 127
-00:04:42,604 --> 00:04:43,993
+00:04:42,820 --> 00:04:45,040
 双击这里
 Just double-click here.
 
@@ -639,7 +639,7 @@ Just double-click here.
 Didn't work.
 
 129
-00:04:47,669 --> 00:04:49,420
+00:04:48,000 --> 00:04:49,220
 那是因为你没有双击
 Well, that's because you didn't double-click.
 
@@ -654,7 +654,7 @@ You just clicked twice.
 The hell's the difference?
 
 132
-00:04:51,963 --> 00:04:53,280
+00:04:51,920 --> 00:04:53,140
 双击 看到没
 Double-click. See?
 
@@ -664,22 +664,22 @@ Double-click. See?
 That's exactly what I did.
 
 134
-00:04:54,527 --> 00:04:55,760
+00:04:54,740 --> 00:04:55,420
 双...击
 Double...click.
 
 135
-00:04:55,760 --> 00:04:57,159
+00:04:55,760 --> 00:04:57,180
 不对 你只是点击了两次
 No, you're still just clicking twice.
 
 136
-00:04:57,159 --> 00:04:59,020
+00:04:57,280 --> 00:04:59,140
 听我说 双击
 Listen to me -- "Double-click."
 
 137
-00:04:59,020 --> 00:05:00,880
+00:04:59,220 --> 00:05:00,880
 不是 双...击
 Not "Double...click."
 
@@ -689,7 +689,7 @@ Not "Double...click."
 I'm not an idiot.
 
 139
-00:05:02,415 --> 00:05:03,630
+00:05:03,220 --> 00:05:03,380
 双击
 Double-click!
 
@@ -699,27 +699,27 @@ Double-click!
 You can't possibly think that's the same thing!
 
 141
-00:05:06,160 --> 00:05:06,998
+00:05:06,160 --> 00:05:07,020
 那就是完全一样的
 It's the exact same thing!
 
 142
-00:05:06,998 --> 00:05:07,949
+00:05:07,480 --> 00:05:07,960
 双击
 Double-click!
 
 143
-00:05:07,949 --> 00:05:09,040
+00:05:08,260 --> 00:05:08,780
 双击
 Double-click!
 
 144
-00:05:09,040 --> 00:05:09,958
+00:05:09,040 --> 00:05:09,980
 我...
 Oh, what the...
 
 145
-00:05:09,958 --> 00:05:12,493
+00:05:10,140 --> 00:05:12,120
 这是我第一次说那个艹字头的字
 It's the first time I've ever used the F-word.
 
@@ -1424,12 +1424,12 @@ Hello?
 How do you work a copy machine?
 
 286
-00:09:47,200 --> 00:09:48,115
+00:09:47,200 --> 00:09:48,140
 你不是吧
 You can't be serious.
 
 287
-00:09:48,115 --> 00:09:50,900
+00:09:48,440 --> 00:09:50,720
 我需要双面复印12份文件
 I need to make 12 double-sided copies.
 
@@ -1684,12 +1684,12 @@ O...kay.
 Andy. Hold on a sec.
 
 338
-00:11:46,720 --> 00:11:48,814
+00:11:46,720 --> 00:11:48,840
 我知道我们刚才没谈完
 I know we didn't get to finish our talk earlier,
 
 339
-00:11:48,814 --> 00:11:51,624
+00:11:48,840 --> 00:11:50,660
 因为艾丽克斯忽然出现
 because of Alex's surprise pop-in.
 
@@ -1859,12 +1859,12 @@ It's time we started appreciating this lady.
 She may have gotten an 800 on the dance game,
 
 373
-00:13:04,000 --> 00:13:05,039
+00:13:04,000 --> 00:13:05,060
 如果你们问我的话
 but if you ask me,
 
 374
-00:13:05,039 --> 00:13:07,893
+00:13:05,200 --> 00:13:07,600
 她在当老板游戏里得了1000分
 she gets a 1,000 on the boss game.
 
@@ -2054,7 +2054,7 @@ You need them to respect you!
 Thank you.
 
 412
-00:14:27,901 --> 00:14:30,468
+00:14:27,780 --> 00:14:30,420
 我需要听的正是这些话
 That is...exactly what I needed to hear.
 
@@ -2069,12 +2069,12 @@ That is...exactly what I needed to hear.
 Just trust your gut, kid.
 
 415
-00:14:34,410 --> 00:14:35,541
+00:14:34,560 --> 00:14:35,160
 双击
 Double-click...
 
 416
-00:14:35,560 --> 00:14:37,190
+00:14:35,860 --> 00:14:36,820
 自己
 on...yourself.
 
@@ -2149,7 +2149,7 @@ And then I got some more awful news.
 I just got an e-mail saying Family Camp was canceled --
 
 431
-00:15:19,751 --> 00:15:21,157
+00:15:19,980 --> 00:15:20,720
 报名人数不够
 not enough sign-ups.
 
@@ -2239,12 +2239,12 @@ But it wasn't half as crazy as what I really wanted to yell,
 which was "Just stop growing up!"
 
 449
-00:15:52,940 --> 00:15:55,301
+00:15:52,940 --> 00:15:55,320
 听着 我不保证我现在说的全部有道理
 Look, I'm not sure everything I said here makes sense,
 
 450
-00:15:55,301 --> 00:15:58,820
+00:15:55,340 --> 00:15:58,680
 但是你真得谨慎点 有点敬畏心
 but...just be careful and respectful.
 
@@ -2394,12 +2394,12 @@ Gloria! About that wedding --
 I'm already booking the ticket!
 
 480
-00:17:10,300 --> 00:17:11,658
+00:17:10,300 --> 00:17:11,680
 好 它长出来了
 Okay, it's growing!
 
 481
-00:17:11,658 --> 00:17:13,516
+00:17:12,040 --> 00:17:13,400
 我在跟信用卡公司打电话
 I'm on hold with the credit-card company.
 
@@ -2734,7 +2734,7 @@ and I thought you were all kind of over it.
 We may be over it, but we're not over us.
 
 548
-00:20:09,851 --> 00:20:12,569
+00:20:10,240 --> 00:20:12,280
 你觉得要不要办个升级版家庭露营训练日
 What do you think about Family Camp 2.0?
 

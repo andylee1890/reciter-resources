@@ -509,7 +509,7 @@ This is it. Room two sixteen.
 This is a nicer classroom than you had last year. Isn't it Ben?
 
 104
-00:05:20,950 --> 00:05:23,170
+00:05:20,160 --> 00:05:20,680
 Ben?
 
 105
@@ -537,7 +537,7 @@ Well don't play around.
 I want to meet your teacher and I'm already late for work.
 
 110
-00:05:34,770 --> 00:05:35,940
+00:05:35,080 --> 00:05:35,700
 马克。
 Mark!
 
@@ -597,7 +597,7 @@ Louis Vasco?
 Big kid.
 
 122
-00:06:02,200 --> 00:06:03,000
+00:05:59,800 --> 00:06:00,480
 不在。
 No.
 
@@ -672,12 +672,12 @@ Ben! I just found out.
 Louis Vasco is at this school.
 
 137
-00:06:33,220 --> 00:06:34,190
+00:06:31,140 --> 00:06:31,640
 什么？
 What?
 
 138
-00:06:34,190 --> 00:06:34,290
+00:06:31,980 --> 00:06:33,840
 是的，他留级了。
 Yeah,he flunked.
 
@@ -737,22 +737,22 @@ Oh,of course. You don't want to be late for Biology on frog day.
 Eddie,the blonde.
 
 150
-00:07:07,440 --> 00:07:08,140
+00:07:05,300 --> 00:07:05,700
 又见了？
 Again?
 
 151
-00:07:08,140 --> 00:07:08,240
+00:07:06,060 --> 00:07:06,920
 打了个照面。
 Eye contact.
 
 152
-00:07:09,170 --> 00:07:10,720
+00:07:07,700 --> 00:07:08,100
 快追。
 Go!
 
 153
-00:07:10,720 --> 00:07:12,880
+00:07:08,360 --> 00:07:08,760
 好
 Yes!
 
@@ -1350,7 +1350,7 @@ Did you want to sit?
 No,no,I can't stay. So.
 
 274
-00:13:14,460 --> 00:13:14,920
+00:13:13,500 --> 00:13:13,940
 什么？
 What?
 
@@ -1365,7 +1365,7 @@ You know I should just tell you.
 Is it about the dance?
 
 277
-00:13:18,730 --> 00:13:19,290
+00:13:17,420 --> 00:13:17,920
 对。
 Yeah.
 
@@ -1465,7 +1465,7 @@ So what do you say that you and me go out instead next week,
 just the two of us.
 
 297
-00:14:18,310 --> 00:14:21,200
+00:14:19,600 --> 00:14:20,080
 Hi!
 
 298
@@ -1514,7 +1514,7 @@ Hi Elaine. Something really special..
 You can talk to him in here till recess ends.
 
 308
-00:14:45,810 --> 00:14:45,980
+00:14:45,000 --> 00:14:45,440
 谢谢。
 Thanks.
 
@@ -1559,7 +1559,7 @@ we've got to move to another district.
 Is that a problem?
 
 317
-00:15:03,190 --> 00:15:04,460
+00:15:03,300 --> 00:15:03,740
 当然。
 Yes.
 
@@ -1654,7 +1654,7 @@ and you ended up being friends.
 No,I ran.
 
 336
-00:15:50,120 --> 00:15:51,350
+00:15:49,600 --> 00:15:50,060
 什么？
 What?
 
@@ -1729,7 +1729,7 @@ Dad,what's your point?
 Well the point is he told me he was glad I didn't fight him that day.
 
 351
-00:16:34,000 --> 00:16:35,030
+00:16:33,280 --> 00:16:33,680
 为什么？
 Why?
 
@@ -1744,7 +1744,7 @@ Well because he was just as afraid of me as I was of him.
 Big guys are afraid too?
 
 354
-00:16:40,990 --> 00:16:42,050
+00:16:40,200 --> 00:16:40,640
 当然了。
 Yes.
 
@@ -1879,7 +1879,7 @@ And if you agree to go with me,I don't even have to show up.
 Do I ?
 
 381
-00:18:03,650 --> 00:18:04,310
+00:18:02,820 --> 00:18:03,280
 当然。
 No.
 
@@ -1909,7 +1909,7 @@ Seaver Face.
 I hear you've been looking for me.
 
 387
-00:18:55,450 --> 00:18:56,340
+00:18:55,040 --> 00:18:55,480
 对。
 Yeah?
 
@@ -2196,11 +2196,11 @@ HI，亲爱的。
 Hi guys.
 
 445
-00:21:52,550 --> 00:21:53,150
+00:21:51,640 --> 00:21:52,020
 Hi.
 
 446
-00:21:53,150 --> 00:21:53,250
+00:21:52,300 --> 00:21:52,600
 HI。
 
 447
@@ -2234,7 +2234,7 @@ So Carol. Was today everything you hoped it would be?
 Well it started out a little shaky,but it ended up ok.
 
 453
-00:22:21,740 --> 00:22:21,980
+00:22:21,120 --> 00:22:21,480
 好，很好。
 Good.
 
@@ -2244,7 +2244,7 @@ Good.
 I even have a date for the dance.
 
 455
-00:22:24,830 --> 00:22:25,100
+00:22:24,400 --> 00:22:24,960
 好极了。
 Great!
 
@@ -2293,7 +2293,7 @@ Well that's great Mike. So do you have good teachers?
 Ah,maybe. I'll find out tomorrow when I go to class.
 
 465
-00:22:58,660 --> 00:23:02,280
+00:22:59,920 --> 00:23:00,440
 Jason!
 
 466

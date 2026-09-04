@@ -79,7 +79,7 @@ But where were you when Ben and I were planning this breakfast?
 - Putting on my face. - You missed.
 
 17
-00:00:53,451 --> 00:00:54,600
+00:00:53,500 --> 00:00:53,960
 好了
 Okay.
 
@@ -383,7 +383,7 @@ I'm with Mike. I have no idea why.
 Mike, about these "hot babes" in the Cage Aux Folles...
 
 78
-00:05:08,505 --> 00:05:09,200
+00:05:08,900 --> 00:05:09,160
 爸爸.
 Dad...
 
@@ -428,7 +428,7 @@ Yeah, I do, but...
 You know, Jason, we could actually spend the day together.
 
 87
-00:05:40,671 --> 00:05:41,820
+00:05:40,700 --> 00:05:41,340
 是啊
 Yeah.
 
@@ -478,7 +478,7 @@ I guess I just got distracted by the thought of...
 a long, lazy relaxing day together, with no interruptions.
 
 97
-00:06:08,832 --> 00:06:10,291
+00:06:08,980 --> 00:06:09,540
 而且
 Besides...
 
@@ -563,7 +563,7 @@ Oh, Jason, you can be such a romantic sometimes.
 Hold that thought.
 
 114
-00:07:27,377 --> 00:07:28,427
+00:07:27,260 --> 00:07:27,900
 你好
 Hi.
 
@@ -598,7 +598,7 @@ Well, it's just that we have an appointment that we have to keep.
 I could come back later.
 
 121
-00:07:50,501 --> 00:07:51,586
+00:07:51,060 --> 00:07:51,580
 谢谢
 Thanks.
 
@@ -633,7 +633,7 @@ I'll call and move the reservation.
 Buzz, how much do you charge?
 
 128
-00:08:20,920 --> 00:08:22,540
+00:08:20,080 --> 00:08:22,540
 每小时50块
 $50 an hour.
 
@@ -648,7 +648,7 @@ Hi. Oh, hello, Fred. Yeah.
 Sure, just a second. Maggie, it's your editor.
 
 131
-00:08:34,811 --> 00:08:35,820
+00:08:34,500 --> 00:08:35,220
 喂？
 Hello?
 
@@ -658,7 +658,7 @@ Hello?
 Oh, hi, Fred.
 
 133
-00:08:38,348 --> 00:08:39,398
+00:08:38,460 --> 00:08:39,180
 真的？
 Really?
 
@@ -668,7 +668,7 @@ Really?
 Oh, that's great.
 
 135
-00:08:42,185 --> 00:08:43,305
+00:08:42,080 --> 00:08:42,800
 今天？
 Today?
 
@@ -718,7 +718,7 @@ I'll bet that nut called to wish us a happy anniversary.
 Jason, you're just trying to make me feel guilty because you know I have bad news.
 
 145
-00:09:09,379 --> 00:09:10,400
+00:09:09,400 --> 00:09:09,840
 对
 Sure.
 
@@ -743,7 +743,7 @@ and it finally came through. But it's got to be today.
 - Okay. - In Washington.
 
 150
-00:09:22,893 --> 00:09:24,320
+00:09:23,260 --> 00:09:23,700
 华盛顿？
 Washington?
 
@@ -758,7 +758,7 @@ Who with?
 You know the Secretary of Transportation?
 
 153
-00:09:27,931 --> 00:09:29,153
+00:09:27,960 --> 00:09:28,400
 知道
 Yeah.
 
@@ -773,7 +773,7 @@ I'm meeting with the third assistant to the deputy...
 of the undersecretary who reports to her.
 
 156
-00:09:36,907 --> 00:09:38,164
+00:09:36,920 --> 00:09:37,360
 哇
 Wow.
 
@@ -928,7 +928,7 @@ Can you keep it down 'cause I'm just finishing up with a patient in here.
 - Sure. - Hey, where's Mom?
 
 187
-00:11:18,842 --> 00:11:20,031
+00:11:19,140 --> 00:11:19,620
 华盛顿
 Washington.
 
@@ -968,7 +968,7 @@ I can't tell anymore.
 Somebody should go check him out.
 
 195
-00:11:49,873 --> 00:11:51,028
+00:11:49,640 --> 00:11:50,260
 本
 Ben.
 
@@ -1033,7 +1033,7 @@ You guys will spend the night at Grandma's, okay?
 Oh, come on, Dad. How many times do we have to risk our lives in a single day?
 
 208
-00:12:34,251 --> 00:12:35,339
+00:12:34,380 --> 00:12:34,900
 喂？
 Hello?
 
@@ -1083,7 +1083,7 @@ I never would have come.
 Who is this?
 
 218
-00:12:56,206 --> 00:12:57,602
+00:12:56,600 --> 00:12:56,960
 杰森
 Jason.
 
@@ -1191,7 +1191,7 @@ it's fowl.
 Tell me about it.
 
 240
-00:13:55,665 --> 00:13:56,754
+00:13:55,480 --> 00:13:55,980
 爸爸
 Dad?
 
@@ -1296,7 +1296,7 @@ I'm not letting you get on that plane.
 You shouldn't have gotten on the plane.
 
 261
-00:15:12,980 --> 00:15:14,500
+00:15:12,980 --> 00:15:15,180
 对，722房西弗小姐
 Yes, this is Mrs. Seaver in 722.
 
@@ -1376,7 +1376,7 @@ The good times, the bad times.
 You mean they want to "Do Wah Diddy"?
 
 277
-00:16:11,720 --> 00:16:13,020
+00:16:11,720 --> 00:16:13,380
 这20块是谁丢的？
 Hey, who lost $20?
 
@@ -1451,7 +1451,7 @@ Ignore "anniversary." Freudian slip.
 I'm working. Ignore "I'm working." Teenage son.
 
 292
-00:16:59,516 --> 00:17:00,948
+00:16:59,520 --> 00:17:00,120
 爸爸？
 Dad?
 
@@ -1630,7 +1630,7 @@ And I think you will, too.
 - Well, where is he? - Washington.
 
 328
-00:18:43,753 --> 00:18:44,800
+00:18:43,500 --> 00:18:44,200
 什么？
 What?
 
@@ -1645,7 +1645,7 @@ I don't get it either. All I know is, it was Ben's idea.
 Attention. Final boarding, flight 256 for Washington National.
 
 331
-00:18:53,863 --> 00:18:54,920
+00:18:53,840 --> 00:18:54,740
 27号门
 Gate 27.
 
@@ -1675,7 +1675,7 @@ This is my seat. All flights, any flight.
 My seat.
 
 337
-00:19:19,088 --> 00:19:20,589
+00:19:19,820 --> 00:19:20,260
 好吧
 Okay.
 
@@ -1695,7 +1695,7 @@ Excuse me.
 All flights, any flight. My seat.
 
 341
-00:19:40,243 --> 00:19:41,574
+00:19:40,600 --> 00:19:41,320
 好吧
 Okay.
 
@@ -1825,7 +1825,7 @@ You know, when two people spend 17 years together...
 Can I help you with that?
 
 367
-00:21:12,869 --> 00:21:14,099
+00:21:13,080 --> 00:21:13,740
 好的
 Sure.
 

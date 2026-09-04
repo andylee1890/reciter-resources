@@ -129,7 +129,7 @@ to--to go a little more low-key with the announcement this time.
 *Let's hear it for the boy ...*
 
 27
-00:01:00,430 --> 00:01:03,180
+00:00:59,920 --> 00:01:02,840
 我就问问清楚 这是低调吗
 Okay, just to be clear, this is low-key?
 
@@ -499,12 +499,12 @@ Okay. Apology accepted.
 No, I didn't mean anything about the necktie.
 
 101
-00:03:57,670 --> 00:03:59,820
+00:03:57,760 --> 00:03:59,960
 我只是 我只是随便举个例子说说
 I just--I was trying to make a point.
 
 102
-00:04:08,670 --> 00:04:10,800
+00:04:08,140 --> 00:04:10,600
 你能不能笑得不那么大声
 Could you "L." a little less "O.L."
 
@@ -789,7 +789,7 @@ It's no reason.
 Mom, hurry up! I don't want to be late for school.
 
 159
-00:06:30,242 --> 00:06:31,497
+00:06:30,220 --> 00:06:31,580
 你没告诉她是吧
 You didn't tell her,did you?
 
@@ -1279,7 +1279,7 @@ You certainly do.
 What do you think the principal's going to do to me?
 
 257
-00:10:10,540 --> 00:10:11,989
+00:10:10,760 --> 00:10:11,960
 我是初犯
 I am a first-time offender.
 
@@ -1344,7 +1344,7 @@ Come on, mom. Let's get this over with.
 Which one did you say that it was her locker? This one?
 
 270
-00:10:40,200 --> 00:10:42,661
+00:10:40,580 --> 00:10:42,600
 是的 那个闻起来像玫瑰精油的味道
 Mm-hmm. The one that smells like rose oil.
 
@@ -1714,7 +1714,7 @@ So, Manny, how'd it go with the principal today?
 It was terrible, but he was brave, and now it's over.
 
 344
-00:13:53,412 --> 00:13:55,177
+00:13:53,580 --> 00:13:54,760
 -对吧 宝贝儿 -没错
 - Right, Manny? - Mm-hmm.
 
@@ -1894,7 +1894,7 @@ on her way to a rap sheet and a bracelet on her ankle.
 Oh, she has a bracelet on her ankle.
 
 380
-00:15:19,160 --> 00:15:19,280
+00:15:19,160 --> 00:15:19,220
 小卡
 Cam.
 

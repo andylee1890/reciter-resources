@@ -1,5 +1,5 @@
 1
-00:00:04,904 --> 00:00:06,015
+00:00:04,780 --> 00:00:05,800
 有消息了吗
 Do we know anything?
 
@@ -24,17 +24,17 @@ The paramedics said it could have been a lot worse.
 My God, how did this even happen?
 
 6
-00:00:14,744 --> 00:00:17,764
+00:00:14,560 --> 00:00:17,380
 儿子来了 大日子快到了哦
 There he is. Big day's coming up.
 
 7
-00:00:17,824 --> 00:00:19,024
+00:00:17,380 --> 00:00:18,920
 你生日想要什么样的礼物 小狗娃
 What do you want for your birthday, big dog?
 
 8
-00:00:19,024 --> 00:00:20,474
+00:00:19,020 --> 00:00:20,160
 没事的 我不想要
 It's okay. I'm good.
 
@@ -44,47 +44,47 @@ It's okay. I'm good.
 Come on. Sky's the limit.
 
 10
-00:00:23,334 --> 00:00:25,354
+00:00:23,760 --> 00:00:24,780
 狮子大开口吧 儿子
 Dream big, my boy.
 
 11
-00:00:25,424 --> 00:00:28,024
+00:00:25,180 --> 00:00:27,580
 -我觉得送我一条皮带挺好的 -皮带
 - Well, I guess I could use a belt. - A belt?
 
 12
-00:00:28,084 --> 00:00:30,404
+00:00:27,800 --> 00:00:29,780
 是啊 你说的对 我根本不需要
 Yeah, you're right. I don't need it.
 
 13
-00:00:30,464 --> 00:00:32,864
+00:00:30,740 --> 00:00:32,220
 天线延长线用着也挺顺手的
 Extension cord works pretty good.
 
 14
-00:00:34,474 --> 00:00:36,964
+00:00:34,600 --> 00:00:36,920
 每年卢克的生日都在感恩节附近
 Every year, Luke's birthday falls right around Thanksgiving,
 
 15
-00:00:36,964 --> 00:00:39,995
+00:00:36,920 --> 00:00:39,780
 所以大家都忙着准备过节了
 and so it gets lost in the holiday shuffle.
 
 16
-00:00:40,065 --> 00:00:41,245
+00:00:40,100 --> 00:00:41,240
 有一年我们彻底忘到九霄云外了
 One year we forgot completely,
 
 17
-00:00:41,245 --> 00:00:43,285
+00:00:41,240 --> 00:00:43,140
 只好用火鸡填料临时做了个蛋糕
 and we had to improvise a cake of stuffing.
 
 18
-00:00:43,285 --> 00:00:44,655
+00:00:43,340 --> 00:00:44,640
 说一下 他一点都不介意
 Which, by the way, he was fine with.
 
@@ -99,22 +99,22 @@ He's one of those kids,
 you get him a gift and all he wants to do is play with the box.
 
 21
-00:00:47,595 --> 00:00:49,785
+00:00:47,620 --> 00:00:49,720
 是啊 有一年我们直接送他一个盒子
 Yeah, one year we actually just got him a box,
 
 22
-00:00:49,785 --> 00:00:51,215
+00:00:49,760 --> 00:00:51,200
 一个非常漂亮的盒子
 a really nice box.
 
 23
-00:00:51,215 --> 00:00:54,215
+00:00:51,220 --> 00:00:53,600
 但我们犯了个错 将之放进了礼品袋
 And we made the mistake of putting it in a gift bag.
 
 24
-00:00:54,285 --> 00:00:56,555
+00:00:53,960 --> 00:00:55,520
 所以他就玩起了礼品袋
 So he played with the gift bag.
 
@@ -129,7 +129,7 @@ So he played with the gift bag.
 - I feel terrible. We gotta do something. - Oh, yeah.
 
 27
-00:01:01,735 --> 00:01:04,355
+00:01:01,860 --> 00:01:04,240
 话说 家人们准备趁感恩节来个
 You know, the family is gonna be together for Thanksgiving...
 
@@ -139,27 +139,27 @@ You know, the family is gonna be together for Thanksgiving...
 for the first time in I don't even know how long.
 
 29
-00:01:06,415 --> 00:01:07,865
+00:01:06,440 --> 00:01:07,960
 我太同意你了 我们应该取消聚会
 I am so with you. We should blow this out...
 
 30
-00:01:07,865 --> 00:01:10,085
+00:01:07,960 --> 00:01:09,960
 给卢克办一个有史以来最棒的生日派对
 and throw Luke the best birthday party of all time.
 
 31
-00:01:10,085 --> 00:01:12,405
+00:01:10,020 --> 00:01:11,900
 对 对 我们可以订购许多匹萨
 Yes. Yes. And we'll order a whole bunch of pizzas...
 
 32
-00:01:12,465 --> 00:01:14,405
+00:01:11,900 --> 00:01:14,080
 设立一个手工艺品桌
 and set up an arts and crafts table.
 
 33
-00:01:14,465 --> 00:01:16,155
+00:01:14,280 --> 00:01:16,120
 -什么 -手工艺品桌
 - A what? - A crafts table.
 
@@ -169,42 +169,42 @@ and set up an arts and crafts table.
 You know, where everybody gathers around
 
 35
-00:01:19,805 --> 00:01:20,826
+00:01:19,540 --> 00:01:20,680
 他们就发现了自己最爱的派对项目
 They got their own party favor.
 
 36
-00:01:21,125 --> 00:01:22,135
+00:01:21,200 --> 00:01:22,140
 抱歉 我睡着了
 Sorry. I fell asleep
 
 37
-00:01:22,135 --> 00:01:24,165
+00:01:22,140 --> 00:01:24,100
 你说的简直是史上最无聊的派对
 while you were describing the most boring party ever.
 
 38
-00:01:40,706 --> 00:01:42,076
+00:01:36,880 --> 00:01:42,240
 -几小时后再见了 -好的
 - See you in a few hours. - Yeah.
 
 39
-00:01:42,356 --> 00:01:43,806
+00:01:42,320 --> 00:01:43,760
 再次谢谢你们借我卡拉OK唱机
 Thanks again for the karaoke machine.
 
 40
-00:01:43,876 --> 00:01:45,296
+00:01:43,840 --> 00:01:45,220
 派对办完后 我会立刻送过来的
 I'll get it back to you right after the party.
 
 41
-00:01:45,296 --> 00:01:46,187
+00:01:45,380 --> 00:01:46,000
 那再好不过了
 That'd be great.
 
 42
-00:01:46,606 --> 00:01:48,096
+00:01:46,620 --> 00:01:48,000
 千万不要 求你了
 Please don't. I beg you.
 
@@ -219,7 +219,7 @@ Please don't. I beg you.
 Hey, Phil. Are, uh, you getting a clown for today?
 
 45
-00:01:52,086 --> 00:01:56,736
+00:01:52,140 --> 00:01:55,620
 没 卢克不怎么喜欢小丑
 Oh, no. Luke's not much of a clown fan.
 
@@ -229,7 +229,7 @@ Oh, no. Luke's not much of a clown fan.
 - Really? - Yeah. He never liked 'em.
 
 47
-00:01:58,516 --> 00:02:00,446
+00:01:58,600 --> 00:01:59,760
 他有见过出色的小丑吗
 Has he ever seen a good one?
 
@@ -239,12 +239,12 @@ Has he ever seen a good one?
 Has- Has anyone?
 
 49
-00:02:02,986 --> 00:02:04,746
+00:02:03,040 --> 00:02:04,740
 真的 总之 谢谢你们了
 Really. So anyway, thanks again.
 
 50
-00:02:04,746 --> 00:02:06,786
+00:02:04,740 --> 00:02:06,440
 好的 一会儿见
 Okay. See you later.
 
@@ -254,7 +254,7 @@ Okay. See you later.
 - No clown? No- No clown? - Let it go.
 
 52
-00:02:10,816 --> 00:02:12,966
+00:02:10,900 --> 00:02:12,900
 谁家开派对不请小丑
 Who throws a party without a clown?
 
@@ -264,12 +264,12 @@ Who throws a party without a clown?
 Since the late '30s, I'd say most people.
 
 54
-00:02:15,237 --> 00:02:17,757
+00:02:15,220 --> 00:02:17,540
 话说 我们还没给卢克准备生日礼物
 You know what? We haven't gotten Luke a present yet.
 
 55
-00:02:17,827 --> 00:02:19,567
+00:02:17,920 --> 00:02:19,440
 或许扮小丑可以当生日礼物
 Maybe a clown could be our present.
 
@@ -299,7 +299,7 @@ they would've. This is not our party.
 But I just-
 
 61
-00:02:28,287 --> 00:02:29,238
+00:02:28,340 --> 00:02:28,780
 那好吧
 Fine.
 
@@ -314,57 +314,57 @@ What would you suggest we get him then, hmm?
 Get him a gift card.
 
 64
-00:02:33,927 --> 00:02:36,357
+00:02:33,900 --> 00:02:35,640
 -就礼物卡打发他吗 -是啊
 - A gift card? - Yeah.
 
 65
-00:02:36,427 --> 00:02:38,737
+00:02:36,480 --> 00:02:37,620
 你被谁摧残过
 Who hurt you?
 
 66
-00:02:41,797 --> 00:02:42,617
+00:02:41,560 --> 00:02:42,380
 嘿 歌洛莉亚
 Hey, Gloria,
 
 67
-00:02:42,617 --> 00:02:44,707
+00:02:42,560 --> 00:02:44,580
 你知道怎么包装这玩意儿吗
 you got any idea how to wrap one of these things?
 
 68
-00:02:44,807 --> 00:02:46,487
+00:02:44,760 --> 00:02:46,500
 -那是个十字弓吗 -是啊
 - Is that a crossbow? - Yeah.
 
 69
-00:02:46,487 --> 00:02:48,667
+00:02:46,660 --> 00:02:48,580
 我是不是堪称世上最好的外公
 Am I the greatest grandpa in the world or what?
 
 70
-00:02:48,727 --> 00:02:50,667
+00:02:48,640 --> 00:02:50,440
 我们不能送十字弓给卢克
 We can't give Luke a crossbow.
 
 71
-00:02:50,727 --> 00:02:53,797
+00:02:50,640 --> 00:02:53,620
 他每次用吸管都能戳到眼睛
 He pokes himself in the eye every time he uses a straw.
 
 72
-00:02:53,857 --> 00:02:55,877
+00:02:53,620 --> 00:02:55,580
 开什么玩笑 我像他那么大的时候就有一把
 Are you kidding? I had one when I was his age.
 
 73
-00:02:55,947 --> 00:02:58,177
+00:02:55,780 --> 00:02:58,140
 我每射杀一只乌鸦 我爸就会给我25美分
 My dad used to give me a quarter for every crow I bagged.
 
 74
-00:02:58,237 --> 00:02:59,887
+00:02:58,220 --> 00:02:59,640
 我曾经还有大砍刀呢
 And I used to have a machete.
 
@@ -374,27 +374,27 @@ And I used to have a machete.
 - But times have changed. - He'll be fine.
 
 76
-00:03:01,798 --> 00:03:03,488
+00:03:01,940 --> 00:03:03,680
 我会教他怎么用的
 I'll teach him how to use it.
 
 77
-00:03:03,788 --> 00:03:05,258
+00:03:04,020 --> 00:03:05,200
 嘿 老弟 过得怎么样
 Hey, pal, how's it going?
 
 78
-00:03:05,258 --> 00:03:06,148
+00:03:05,360 --> 00:03:06,080
 我有魅力吗
 Am I charming?
 
 79
-00:03:06,148 --> 00:03:08,098
+00:03:06,220 --> 00:03:07,960
 -靠 -你当然有魅力了
 - Oh, boy. - Of course you're charming.
 
 80
-00:03:08,168 --> 00:03:10,228
+00:03:08,080 --> 00:03:10,120
 -谁说你没魅力了 -没人
 - Who said you were not charming? - No one.
 
@@ -404,7 +404,7 @@ Am I charming?
 But there's a girl in my school, and I want her to like me.
 
 82
-00:03:12,838 --> 00:03:15,488
+00:03:13,160 --> 00:03:14,820
 -我需要你的建议 杰 -真的吗
 - I need your advice, Jay. - Really?
 
@@ -414,32 +414,32 @@ But there's a girl in my school, and I want her to like me.
 She's gonna be at Luke's party.
 
 84
-00:03:17,568 --> 00:03:20,238
+00:03:17,900 --> 00:03:20,220
 我真是 有点受宠若惊
 Well, I'm a little thrown.
 
 85
-00:03:20,308 --> 00:03:22,528
+00:03:20,340 --> 00:03:22,200
 我是说 你一般不会向我征询建议
 I mean, you don't usually come to me for advice.
 
 86
-00:03:22,528 --> 00:03:25,498
+00:03:22,200 --> 00:03:25,320
 在泡美妞这方面 您老可算个中高手啊
 Well, this is one area in which you've done pretty well.
 
 87
-00:03:25,558 --> 00:03:27,958
+00:03:25,900 --> 00:03:26,920
 他说的很对
 He has a point.
 
 88
-00:03:28,018 --> 00:03:30,208
+00:03:28,140 --> 00:03:29,880
 我试过用各种方法吸引她的注意
 I've tried everything to get her attention-
 
 89
-00:03:30,268 --> 00:03:33,088
+00:03:30,380 --> 00:03:32,920
 为她开门 在餐厅为她递上一杯牛奶
 opening doors, having a milk sent over in the cafeteria.
 
@@ -454,12 +454,12 @@ opening doors, having a milk sent over in the cafeteria.
 Girls don't go for all that romantic stuff.
 
 92
-00:03:37,488 --> 00:03:39,428
+00:03:37,520 --> 00:03:39,180
 她们喜欢有权势的或成功的男人
 They go for power and success.
 
 93
-00:03:39,488 --> 00:03:41,348
+00:03:39,180 --> 00:03:41,040
 既然这两样你都不沾边
 And since you don't have either one of those things,
 
@@ -469,22 +469,22 @@ And since you don't have either one of those things,
 you're gonna be the funny guy.
 
 95
-00:03:44,538 --> 00:03:48,188
+00:03:45,180 --> 00:03:47,940
 不不不 我想要你养的最危险的爬虫
 No, no, no. I want the most dangerous reptile you've got.
 
 96
-00:03:48,248 --> 00:03:50,439
+00:03:48,260 --> 00:03:50,340
 我有一只吃蟋蟀的鼠鳞蜥
 I have an iguana that eats crickets.
 
 97
-00:03:50,499 --> 00:03:53,519
+00:03:50,340 --> 00:03:52,740
 要是给蟋蟀办生日派对 那才算吓人吧
 That'd be scary if it was a birthday party for crickets.
 
 98
-00:03:53,589 --> 00:03:55,349
+00:03:53,940 --> 00:03:55,300
 说真的 丛林女郎
 Seriously, Jungle Tanya,
 
@@ -494,7 +494,7 @@ Seriously, Jungle Tanya,
 I need you step it up a notch.
 
 100
-00:03:56,879 --> 00:03:58,989
+00:03:56,860 --> 00:03:58,880
 有没有什么东西能把你自己吓个半死
 Is there anything that scares the cocoa out of you?
 
@@ -504,47 +504,47 @@ Is there anything that scares the cocoa out of you?
 Uh, not really. I do have a bearded dragon.
 
 102
-00:04:02,309 --> 00:04:05,159
+00:04:02,400 --> 00:04:04,660
 -是吗 它会.. -不 它不会喷火
 - Ooh. Does it- - No, it does not breathe fire.
 
 103
-00:04:05,219 --> 00:04:07,329
+00:04:05,380 --> 00:04:07,120
 那说来说去又说回去了 是吧
 Well, then we're back to square one, aren't we?
 
 104
-00:04:09,689 --> 00:04:12,539
+00:04:09,900 --> 00:04:11,920
 我脑子里一直想着卢克的生日会
 I couldn't get Luke out of my mind.
 
 105
-00:04:12,609 --> 00:04:14,919
+00:04:12,940 --> 00:04:14,800
 我知道我向米奇尔保证过
 I know I made a promise to Mitchell,
 
 106
-00:04:14,979 --> 00:04:18,379
+00:04:14,900 --> 00:04:17,740
 但有些东西比"保证"二字要重要的多
 but some things are bigger than promises.
 
 107
-00:04:19,359 --> 00:04:22,549
+00:04:20,200 --> 00:04:21,880
 菲茨宝一定要在派对上华丽登场
 Fizbo would be at that party.
 
 108
-00:04:27,019 --> 00:04:28,600
+00:04:26,980 --> 00:04:28,560
 你好啊 老朋友
 Hello, old friend.
 
 109
-00:04:33,879 --> 00:04:35,429
+00:04:33,820 --> 00:04:35,360
 一切都发生在眨眼之间
 It all happened so fast.
 
 110
-00:04:35,429 --> 00:04:36,049
+00:04:35,520 --> 00:04:36,020
 我一直在想
 I keep thinking
 
@@ -554,7 +554,7 @@ I keep thinking
 there was something I could've done.
 
 112
-00:04:37,170 --> 00:04:38,840
+00:04:37,240 --> 00:04:38,380
 不 你不要自责
 No, don't blame yourself.
 
@@ -569,12 +569,12 @@ Who could've possibly seen it coming?
 Sweetie, that's a rock wall. Is that even safe?
 
 115
-00:04:43,850 --> 00:04:45,950
+00:04:43,860 --> 00:04:45,860
 -老天啊 -亲爱的 放心
 - Oh, my God. - Honey, relax.
 
 116
-00:04:46,020 --> 00:04:48,790
+00:04:45,860 --> 00:04:48,780
 嘿 有人因为这东西受过伤吗
 Hey, has anyone ever gotten hurt on one of these things?
 
@@ -599,22 +599,22 @@ They wouldn't let the new guy do it if it-
 I signed, like, a hundred releases.
 
 121
-00:04:56,820 --> 00:05:00,220
+00:04:57,040 --> 00:05:00,260
 我们什么时候决定弄这些的 太过了吧
 When did we decide all this? I think it's too much.
 
 122
-00:05:00,280 --> 00:05:01,530
+00:05:00,280 --> 00:05:01,480
 瞧 我就知道你会这么说
 See, I knew you'd say that.
 
 123
-00:05:01,530 --> 00:05:02,511
+00:05:01,500 --> 00:05:02,460
 所以我就没告诉你
 That's why I didn't tell you.
 
 124
-00:05:02,570 --> 00:05:04,510
+00:05:02,520 --> 00:05:04,320
 所以你就放轻松 去吃个冰霜卷吧
 So just relax. Grab a snow cone.
 
@@ -644,22 +644,22 @@ That's random. Why are you telling me that?
 Yes, because she can't go 10
 
 130
-00:05:15,700 --> 00:05:17,770
+00:05:15,900 --> 00:05:17,760
 没有她男友的舌头在她嘴里搅
 minutes without her boyfriend's tongue in her mouth.
 
 131
-00:05:17,880 --> 00:05:19,860
+00:05:18,040 --> 00:05:19,620
 就像他在喂幼鸟一样
 It's like he's feeding a baby bird.
 
 132
-00:05:19,860 --> 00:05:21,190
+00:05:20,020 --> 00:05:20,840
 别羡慕嫉妒恨了
 Don't be so jealous.
 
 133
-00:05:21,260 --> 00:05:23,160
+00:05:21,220 --> 00:05:23,220
 我确定你在计算机夏令营会遇到超级大帅哥的
 I'm sure you'll meet someone super hot at computer camp.
 
@@ -669,7 +669,7 @@ I'm sure you'll meet someone super hot at computer camp.
 - Girls. - Hey. Hey.
 
 135
-00:05:25,931 --> 00:05:27,121
+00:05:25,980 --> 00:05:26,960
 你手上拿的什么
 So, what you got there?
 
@@ -689,7 +689,7 @@ I finally figured out what we're gonna be making.
 - Kids bored? - I'm teasing. I'm teasing.
 
 139
-00:05:33,771 --> 00:05:35,421
+00:05:33,900 --> 00:05:35,300
 看上去挺不错 是什么
 It looks good. What is it?
 
@@ -699,32 +699,32 @@ It looks good. What is it?
 Comb sheaths.
 
 141
-00:05:37,871 --> 00:05:39,052
+00:05:37,820 --> 00:05:39,040
 我知道 我知道的
 I know. I know.
 
 142
-00:05:39,111 --> 00:05:40,611
+00:05:39,040 --> 00:05:40,740
 但我是11岁的时候做的这个
 But we made them when I was 11 years old
 
 143
-00:05:40,611 --> 00:05:42,132
+00:05:40,740 --> 00:05:41,980
 在唐娜·瑞格比的生日派对上
 at Donna Rigby's birthday party.
 
 144
-00:05:42,201 --> 00:05:43,501
+00:05:42,140 --> 00:05:43,480
 一开始我们也觉得那很傻帽
 At first we thought it was really stupid,
 
 145
-00:05:43,501 --> 00:05:45,011
+00:05:43,480 --> 00:05:45,240
 然后我们觉得那是很愉快的经历
 and then we had a blast, so-
 
 146
-00:05:45,361 --> 00:05:46,011
+00:05:45,240 --> 00:05:46,000
 怎么可能不愉快呢
 How could you not?
 
@@ -734,12 +734,12 @@ How could you not?
 You combined the two things that kids love the most-
 
 148
-00:05:48,701 --> 00:05:50,891
+00:05:49,040 --> 00:05:50,280
 梳子和套子
 combs and sheaths.
 
 149
-00:05:51,911 --> 00:05:53,392
+00:05:51,900 --> 00:05:52,800
 我开玩笑的
 I'm kidding!
 
@@ -754,27 +754,27 @@ Where's my comb? Oh!
 Here it is in my incredibly convenient beaded comb sheath...
 
 152
-00:05:59,131 --> 00:06:01,691
+00:05:59,180 --> 00:06:01,760
 那可是我在卢克超棒的生日派对上做的哟
 that I made at Luke's awesome birthday party.
 
 153
-00:06:01,761 --> 00:06:03,741
+00:06:02,080 --> 00:06:03,240
 一举夺魁 邓菲太太
 Hole in one, Mrs. Dunphy.
 
 154
-00:06:03,801 --> 00:06:05,991
+00:06:03,640 --> 00:06:05,300
 一举夺魁
 Hole in one.
 
 155
-00:06:06,181 --> 00:06:08,031
+00:06:05,980 --> 00:06:07,040
 我回家了
 I'm home.
 
 156
-00:06:08,101 --> 00:06:10,581
+00:06:07,740 --> 00:06:10,500
 我给卢克买了一套游戏盘 但是关于数学的
 I got Luke a video game, but it's about math.
 
@@ -784,12 +784,12 @@ I got Luke a video game, but it's about math.
 So I guess we're those kind of uncles.
 
 158
-00:06:14,942 --> 00:06:16,962
+00:06:15,260 --> 00:06:15,740
 小卡
 Cam.
 
 159
-00:06:20,232 --> 00:06:21,243
+00:06:19,920 --> 00:06:21,020
 别生气
 Don't be mad.
 
@@ -799,12 +799,12 @@ Don't be mad.
 Oh. Cam. Uh-
 
 161
-00:06:25,492 --> 00:06:26,932
+00:06:25,520 --> 00:06:27,000
 我立志想当小丑是从
 I've known I wanted to be a clown...
 
 162
-00:06:26,932 --> 00:06:29,432
+00:06:27,000 --> 00:06:29,260
 我发现小丑不过是人化妆扮成的开始的
 since I found out clowns were just people with makeup.
 
@@ -819,7 +819,7 @@ Um, as a matter of fact, by the time I was a teenager,
 if I wasn't in school or fishin', I was clownin'.
 
 165
-00:06:35,462 --> 00:06:36,972
+00:06:35,400 --> 00:06:36,680
 总共有4种类型的小丑
 There are four types of clowns
 
@@ -864,12 +864,12 @@ I'm surprised you had time for the schoolin'.
 Aw, and there's the fifth type- the sad clown.
 
 174
-00:06:54,102 --> 00:06:58,252
+00:06:54,320 --> 00:06:57,520
 悲伤小丑也属于乞丐小丑 所以仍然只有4种
 Sad clown is a tramp. So there's still only four types.
 
 175
-00:07:02,033 --> 00:07:03,963
+00:07:01,960 --> 00:07:03,840
 小卡 我觉得我们已经说过这事儿了
 Cam, I thought we discussed this.
 
@@ -879,37 +879,37 @@ Cam, I thought we discussed this.
 We did. But I- I started thinking.
 
 177
-00:07:06,203 --> 00:07:07,813
+00:07:06,160 --> 00:07:07,840
 这事的重点不在你我
 And this isn't about you or me.
 
 178
-00:07:07,813 --> 00:07:10,683
+00:07:07,840 --> 00:07:10,760
 而是一个小男孩 该享受快乐一刻
 This is about a little boy who deserves some happiness.
 
 179
-00:07:10,743 --> 00:07:13,973
+00:07:10,980 --> 00:07:13,960
 他能从他古怪的同性恋舅夫那儿得到快乐吗
 And he's gonna get that from his weird gay clown uncle?
 
 180
-00:07:14,043 --> 00:07:16,563
+00:07:14,320 --> 00:07:16,660
 菲茨宝才不是同性恋 他是无性的
 Fizbo is not gay. He's asexual.
 
 181
-00:07:16,973 --> 00:07:18,813
+00:07:17,200 --> 00:07:18,500
 他是个纯情大男孩 唯一的目标
 He's an innocent whose only drive...
 
 182
-00:07:18,883 --> 00:07:20,143
+00:07:18,500 --> 00:07:20,140
 就是给人们带去喜庆 欢笑
 is to bring people joy and laughter
 
 183
-00:07:20,143 --> 00:07:20,944
+00:07:20,140 --> 00:07:21,020
 和气球扎成的动物
 and balloon animals.
 
@@ -919,12 +919,12 @@ and balloon animals.
 He's- He's the least sexual being on earth.
 
 185
-00:07:23,863 --> 00:07:26,993
+00:07:23,900 --> 00:07:25,800
 好吧 至少我们都认为你这装扮让人性趣全无
 Oh, okay. Well, at least we agree on something.
 
 186
-00:07:32,643 --> 00:07:36,293
+00:07:32,300 --> 00:07:35,780
 如果未来有人发现这盘带子
 If this tape is found in the future,
 
@@ -934,37 +934,37 @@ If this tape is found in the future,
 - this is how we humans celebrated birthdays. - Hey, Dad!
 
 188
-00:07:40,203 --> 00:07:43,133
+00:07:40,280 --> 00:07:42,860
 瞧 那是我的乖儿子 高空滑索
 Yeah, there's my boy. Zip-line extreme-
 
 189
-00:07:44,903 --> 00:07:47,424
+00:07:44,760 --> 00:07:47,280
 我没事 我没事 我很好
 I'm okay. I'm good. I'm good.
 
 190
-00:07:47,494 --> 00:07:50,184
+00:07:47,380 --> 00:07:50,180
 吃一撞长一智 千万别站在这儿
 Lesson learned. Don't stand- Don't stand there.
 
 191
-00:07:50,244 --> 00:07:52,144
+00:07:50,220 --> 00:07:51,920
 把这一块儿用绳子圈起来禁止入内
 Let's go ahead and rope this area off.
 
 192
-00:07:52,144 --> 00:07:54,064
+00:07:52,080 --> 00:07:53,540
 很好 谢谢你们
 Excellent. Thank you.
 
 193
-00:07:54,474 --> 00:07:56,894
+00:07:54,240 --> 00:07:56,720
 嘿 小老弟 玩得开心吗
 Hey, buddy, you having fun?
 
 194
-00:07:56,964 --> 00:07:58,694
+00:07:56,880 --> 00:07:58,620
 是啊 而且我爱我的新皮带
 Yeah. And I love my new belt.
 
@@ -979,17 +979,17 @@ Hey, Luke. Look.
 Do you wanna make a comb sheath?
 
 197
-00:08:02,554 --> 00:08:03,234
+00:08:02,660 --> 00:08:03,280
 什么
 A what?
 
 198
-00:08:03,234 --> 00:08:05,694
+00:08:03,280 --> 00:08:05,720
 就是一个皮质小套 可以放梳子进去
 It's a cool leather holder for your comb.
 
 199
-00:08:05,764 --> 00:08:06,874
+00:08:05,980 --> 00:08:06,860
 你也可以装饰一下它
 And you can decorate it.
 
@@ -1004,12 +1004,12 @@ I've got beads and glitter and all kinds of stuff.
 - Do you want to? - Nah. I'm gonna do the rock wall.
 
 202
-00:08:14,434 --> 00:08:17,504
+00:08:15,280 --> 00:08:17,300
 好吧宝贝 你的生日你做主
 Okay, honey. It's your day.
 
 203
-00:08:17,564 --> 00:08:19,504
+00:08:17,600 --> 00:08:19,400
 亲爱的 如果你材料不够了 记得通知我
 Honey, let me know if you get low on supplies.
 
@@ -1034,7 +1034,7 @@ Seriously, zip-line guys, use some ropes.
 Did you remember to switch the whites to the dryer?
 
 208
-00:08:31,454 --> 00:08:33,804
+00:08:31,480 --> 00:08:33,860
 -没有 我忘了 -到时肯定一股霉味
 - Oh, no. I forgot. - They're gonna smell musty.
 
@@ -1049,47 +1049,47 @@ Did you remember to switch the whites to the dryer?
 No, no, no. I'll do it. You stay right here.
 
 211
-00:08:38,755 --> 00:08:40,645
+00:08:38,760 --> 00:08:40,600
 -放轻松 -哦 我懂了
 - Relax. - Oh. I get it.
 
 212
-00:08:40,755 --> 00:08:42,905
+00:08:40,600 --> 00:08:42,700
 -你担心别人看见我 -毫无疑问
 - You're worried about people seeing me. - Without question.
 
 213
-00:08:42,965 --> 00:08:44,415
+00:08:42,960 --> 00:08:44,140
 人们会盯着我们看的
 You know, people are gonna stare.
 
 214
-00:08:44,415 --> 00:08:46,385
+00:08:44,240 --> 00:08:45,860
 他们很少见一个小丑在车里的情况
 They're not used to seeing one clown in a car.
 
 215
-00:08:49,345 --> 00:08:51,365
+00:08:49,400 --> 00:08:51,140
 那就是她 比安卡·道格拉斯
 That's her- Bianca Douglas.
 
 216
-00:08:51,435 --> 00:08:53,375
+00:08:51,680 --> 00:08:52,780
 她好可爱哦
 She's so cute.
 
 217
-00:08:53,845 --> 00:08:55,585
+00:08:53,620 --> 00:08:55,000
 她写得一手好字
 She has good handwriting.
 
 218
-00:08:55,645 --> 00:08:58,085
+00:08:55,580 --> 00:08:58,140
 她是个完美女神 祝我好运吧
 She's a complete package. Wish me luck.
 
 219
-00:08:58,145 --> 00:08:59,275
+00:08:58,240 --> 00:08:59,080
 你不需要运气
 You don't need luck.
 
@@ -1099,17 +1099,17 @@ You don't need luck.
 You just remember those jokes I told you, hmm?
 
 221
-00:09:05,325 --> 00:09:07,305
+00:09:05,160 --> 00:09:07,260
 我们不能再这么见面了
 We have to stop meeting like this.
 
 222
-00:09:07,405 --> 00:09:09,675
+00:09:07,500 --> 00:09:09,540
 -什么 -我们是同学啊
 - What? - We go to school together.
 
 223
-00:09:09,785 --> 00:09:11,885
+00:09:09,900 --> 00:09:11,780
 -噢是哦 -你喜欢笑话吗
 - Oh, yeah. - Do you like jokes?
 
@@ -1119,7 +1119,7 @@ We have to stop meeting like this.
 - Sure. - Great. Ok.
 
 225
-00:09:13,995 --> 00:09:16,385
+00:09:13,880 --> 00:09:16,100
 一只叫加里的蚂蚱进了一家酒吧
 So a grasshopper named Gary walks into a bar.
 
@@ -1129,57 +1129,57 @@ So a grasshopper named Gary walks into a bar.
 Aw. No.
 
 227
-00:09:17,665 --> 00:09:19,045
+00:09:17,840 --> 00:09:18,900
 我不该一开始就把名字说出来的
 You're not supposed to know his name.
 
 228
-00:09:19,045 --> 00:09:20,146
+00:09:19,100 --> 00:09:20,340
 我换一个讲吧 可以吗
 Let me try another one, okay?
 
 229
-00:09:20,255 --> 00:09:22,315
+00:09:21,060 --> 00:09:22,340
 -敲敲门 -你是谁
 - Knock, knock. - Who's there?
 
 230
-00:09:22,425 --> 00:09:24,446
+00:09:22,520 --> 00:09:24,260
 -捣蛋牛 -捣蛋牛谁
 - Interrupting cow. - Interrupting cow who?
 
 231
-00:09:24,506 --> 00:09:27,116
+00:09:24,580 --> 00:09:26,620
 哞 糟糕说晚了
 Moo. Oh, crap.
 
 232
-00:09:37,316 --> 00:09:39,506
+00:09:37,000 --> 00:09:39,200
 -搞什么 -搞你个大头鬼
 - Um, hey. - Hey yourself.
 
 233
-00:09:39,506 --> 00:09:42,216
+00:09:39,480 --> 00:09:42,180
 -让开 -你刚开车碰到我了
 - Move. - You kind of just bumped me with your car.
 
 234
-00:09:42,316 --> 00:09:43,366
+00:09:42,300 --> 00:09:43,140
 我可不觉得
 I don't think so.
 
 235
-00:09:43,366 --> 00:09:45,196
+00:09:43,380 --> 00:09:45,280
 不 你确实碰到了 因为
 No. No, you did, because, um-
 
 236
-00:09:45,196 --> 00:09:46,976
+00:09:45,280 --> 00:09:46,840
 瞧 我的裤子上沾了油迹
 See, yeah, I got grease on my pants
 
 237
-00:09:46,976 --> 00:09:49,386
+00:09:46,840 --> 00:09:49,200
 -而且我明显感觉被碰到 -叫救护车吧
 - and then also I felt it. - Call an ambulance.
 
@@ -1189,22 +1189,22 @@ See, yeah, I got grease on my pants
 Okay. I just thought you might wanna know...
 
 239
-00:09:51,366 --> 00:09:54,056
+00:09:51,400 --> 00:09:54,980
 或许你还想当个懂礼貌的人 道个歉
 in case you wanted to be a decent human being and apologize, but-
 
 240
-00:09:54,976 --> 00:09:56,666
+00:09:54,980 --> 00:09:56,120
 不想吗 好吧
 No? Okay.
 
 241
-00:09:56,876 --> 00:09:58,397
+00:09:57,220 --> 00:09:57,600
 混蛋
 Ass.
 
 242
-00:09:59,756 --> 00:10:01,046
+00:09:59,620 --> 00:10:00,640
 你刚说什么
 What did you say?
 
@@ -1224,27 +1224,27 @@ Just forget about it, all right?
 So do the smart thing. Shut your hole,
 
 246
-00:10:10,406 --> 00:10:12,077
+00:10:10,440 --> 00:10:12,100
 滚上车 开远点
 get in your car and drive away.
 
 247
-00:10:12,137 --> 00:10:13,827
+00:10:12,120 --> 00:10:13,200
 有什么问题吗
 Is there a problem here?
 
 248
-00:10:14,497 --> 00:10:15,517
+00:10:14,240 --> 00:10:15,420
 你是什么鬼东西
 What the hell are you?
 
 249
-00:10:15,517 --> 00:10:16,827
+00:10:15,660 --> 00:10:16,900
 我是个惩恶扬善的小丑
 I'm the ass-kicking clown...
 
 250
-00:10:16,827 --> 00:10:18,747
+00:10:16,900 --> 00:10:18,640
 能把你拧成像气球动物那样的
 that'll twist you like a balloon animal.
 
@@ -1259,42 +1259,42 @@ I will beat your head against this bumper
 until the air bags deploy.
 
 253
-00:10:22,107 --> 00:10:25,587
+00:10:22,100 --> 00:10:25,460
 立刻 向我男友 道歉
 So apologize to my boyfriend right now!
 
 254
-00:10:25,697 --> 00:10:28,047
+00:10:25,560 --> 00:10:27,920
 -道歉 男友 -道歉
 - Apologize? Boyfriend? - Apologize!
 
 255
-00:10:28,117 --> 00:10:30,257
+00:10:27,920 --> 00:10:29,620
 好吧 对不起
 Okay. I'm sorry.
 
 256
-00:10:30,957 --> 00:10:31,958
+00:10:30,960 --> 00:10:31,480
 对不起
 I'm sorry.
 
 257
-00:10:35,267 --> 00:10:37,437
+00:10:34,980 --> 00:10:37,160
 快走吧 要迟到了
 Let's go. We're gonna be late.
 
 258
-00:10:48,927 --> 00:10:50,078
+00:10:48,940 --> 00:10:49,940
 介意我也进来吗
 Mind if I come in?
 
 259
-00:10:50,137 --> 00:10:51,827
+00:10:50,200 --> 00:10:50,480
 来吧
 Sure.
 
 260
-00:10:52,927 --> 00:10:53,688
+00:10:52,660 --> 00:10:53,600
 过来
 Come here.
 
@@ -1309,17 +1309,17 @@ Come here.
 It turns out I'm not the funny guy.
 
 263
-00:11:01,948 --> 00:11:05,058
+00:11:01,960 --> 00:11:04,520
 时候到了 真命天女自然会降临
 The right girl will find you when it's time,
 
 264
-00:11:05,218 --> 00:11:08,048
+00:11:05,220 --> 00:11:07,800
 尽管把你交给另外一个女人会让我很失落
 even though I'm gonna hate losing you to another woman.
 
 265
-00:11:08,118 --> 00:11:09,928
+00:11:08,360 --> 00:11:09,520
 我不会娶了媳妇忘了娘的
 You'll never lose me, Mom.
 
@@ -1334,12 +1334,12 @@ I'll always love you, no matter what.
 Ay, chiquitn.
 
 268
-00:11:15,288 --> 00:11:16,338
+00:11:14,560 --> 00:11:16,240
 瞧 刚刚说的多好
 You see? Right there.
 
 269
-00:11:16,338 --> 00:11:18,058
+00:11:16,240 --> 00:11:17,740
 你根本不需要什么泡妞技巧
 You need no tricks.
 
@@ -1349,7 +1349,7 @@ You need no tricks.
 Just be the sweet, wonderful little boy that you are.
 
 271
-00:11:21,298 --> 00:11:23,978
+00:11:21,300 --> 00:11:23,780
 可爱的小男孩 懂了
 Sweet little boy. Got it.
 
@@ -1384,17 +1384,17 @@ Ha-ha. If you came over here to gloat,
 I already know it's a dud.
 
 278
-00:11:42,018 --> 00:11:44,548
+00:11:42,240 --> 00:11:43,900
 实际上 我是来给你送这个的
 Actually, I came to give you this.
 
 279
-00:11:44,968 --> 00:11:47,549
+00:11:44,620 --> 00:11:46,980
 是你最喜欢的口味 蓝色冰恋
 It's your favorite flavor- blue.
 
 280
-00:11:47,609 --> 00:11:49,509
+00:11:47,760 --> 00:11:48,540
 谢谢 亲爱的
 Thanks, honey.
 
@@ -1404,7 +1404,7 @@ Thanks, honey.
 - And your hair looks really nice. Hmm. - Thanks.
 
 282
-00:11:52,299 --> 00:11:54,149
+00:11:52,320 --> 00:11:53,540
 我已经梳了一天了
 I've been combing it all day.
 
@@ -1419,12 +1419,12 @@ All right, let's all give Luke a big hand for being so brave.
 This feels so weird. What does it eat?
 
 285
-00:12:02,499 --> 00:12:04,859
+00:12:02,580 --> 00:12:04,500
 它专吃小男孩的大脑
 Oh, just little boy brains.
 
 286
-00:12:04,919 --> 00:12:07,189
+00:12:04,960 --> 00:12:06,980
 卢克本来就没大脑 没什么好担心的
 Well, at least Luke's got nothing to worry about.
 
@@ -1449,7 +1449,7 @@ So, does anyone wanna pet the iguana?
 - Hells, yeah. Oh, man. - Over here! Me! Me!
 
 291
-00:12:20,119 --> 00:12:21,699
+00:12:20,080 --> 00:12:21,140
 我超爱蜥蜴的
 I love lizards.
 
@@ -1459,47 +1459,47 @@ I love lizards.
 - What's his name? - Her name is Lizzy.
 
 293
-00:12:24,529 --> 00:12:28,089
+00:12:24,680 --> 00:12:27,800
 哇 我完全懂其含义
 Wow. I totally get that.
 
 294
-00:12:28,149 --> 00:12:30,049
+00:12:28,320 --> 00:12:29,620
 你不该面临如此下场的
 You don't deserve this.
 
 295
-00:12:30,159 --> 00:12:32,639
+00:12:30,320 --> 00:12:32,540
 -什么 -性感的爬虫女郎
 - What? - Hot reptile chick.
 
 296
-00:12:32,699 --> 00:12:34,890
+00:12:32,700 --> 00:12:34,280
 她或许有自己的公寓
 You know, probably has her own apartment,
 
 297
-00:12:34,950 --> 00:12:37,600
+00:12:34,780 --> 00:12:37,340
 很显然不介意摸些"恶心的东西"
 obviously okay touching gross stuff.
 
 298
-00:12:37,710 --> 00:12:39,810
+00:12:37,780 --> 00:12:39,920
 -他们不过是聊聊天罢了 -你说的对
 - They're just talking. - You're right.
 
 299
-00:12:39,870 --> 00:12:42,270
+00:12:40,240 --> 00:12:42,180
 迪兰品味那么"高" 肯定不会
 Dylan's far too sophisticated to get sucked in...
 
 300
-00:12:42,330 --> 00:12:44,230
+00:12:42,180 --> 00:12:44,100
 被一个浑身刻满纹身的女人吸引的
 by a single lady with tons of cool tattoos.
 
 301
-00:12:44,300 --> 00:12:46,980
+00:12:44,360 --> 00:12:47,040
 嘿 我觉得它尿在我手上了
 Hey. I think it peed on me.
 
@@ -1509,12 +1509,12 @@ Hey. I think it peed on me.
 - Oh, no. - No way, Mother Nature.
 
 303
-00:12:50,180 --> 00:12:51,641
+00:12:50,360 --> 00:12:51,320
 我真不敢相信他会这样
 I can't believe he does that.
 
 304
-00:12:54,980 --> 00:12:56,450
+00:12:54,580 --> 00:12:56,140
 嘿 我错过什么了 伙计们
 Hey, what am I missing, guys?
 
@@ -1529,47 +1529,47 @@ Aw, geez, Gloria.
 Jay, look! I go high! Look! Look!
 
 307
-00:13:01,990 --> 00:13:03,660
+00:13:01,980 --> 00:13:03,600
 伙计们 该滚蛋了 快点
 Guys, hit the road. Come on.
 
 308
-00:13:03,660 --> 00:13:05,960
+00:13:03,600 --> 00:13:05,240
 你们都是有家室的男人 快 散开
 You're family men. Come on. Scat.
 
 309
-00:13:06,030 --> 00:13:07,671
+00:13:06,000 --> 00:13:07,580
 真棒啊 小老弟
 Great job, buddy.
 
 310
-00:13:07,740 --> 00:13:10,970
+00:13:08,000 --> 00:13:10,540
 现在有趣的部分到啦 快滑下来吧
 Now comes the fun part. Rappel down.
 
 311
-00:13:11,030 --> 00:13:13,010
+00:13:10,840 --> 00:13:12,220
 真的好高
 It's really high.
 
 312
-00:13:13,070 --> 00:13:15,950
+00:13:12,900 --> 00:13:15,760
 你不用畏惧任何事 只需面对畏惧本身
 You have nothing to fear but fear itself...
 
 313
-00:13:16,640 --> 00:13:17,670
+00:13:16,440 --> 00:13:17,580
 以及水泥地
 and the concrete.
 
 314
-00:13:17,670 --> 00:13:18,770
+00:13:17,620 --> 00:13:18,780
 但老爸在这儿呢 小老弟
 But I'm right here, buddy.
 
 315
-00:13:18,770 --> 00:13:20,311
+00:13:18,900 --> 00:13:20,140
 好吧 要接住我哦
 Okay, just catch me.
 
@@ -1579,27 +1579,27 @@ Okay, just catch me.
 I am brave. Roller coasters? Love 'em.
 
 317
-00:13:24,041 --> 00:13:26,611
+00:13:24,220 --> 00:13:26,340
 恐怖电影? 《捉鬼敢死队》我都看7遍了
 Scary movies? I've seen Ghostbusters, like, seven times.
 
 318
-00:13:26,611 --> 00:13:28,192
+00:13:26,720 --> 00:13:28,140
 我经常驾车穿过那些
 I regularly drive through neighborhoods...
 
 319
-00:13:28,261 --> 00:13:30,281
+00:13:28,140 --> 00:13:29,780
 刚刚装修过的街区
 that have only recently been gentrified.
 
 320
-00:13:30,341 --> 00:13:32,651
+00:13:30,240 --> 00:13:32,300
 所以基本上我是无所畏惧的
 So yeah, I'm pretty much not afraid of anything.
 
 321
-00:13:32,721 --> 00:13:34,661
+00:13:32,700 --> 00:13:34,480
 嘿嘿嘿 大家伙儿
 Hey, hey, hey, hey, hey, everybody!
 
@@ -1609,7 +1609,7 @@ Hey, hey, hey, hey, hey, everybody!
 Quit your clownin' around. That's my job.
 
 323
-00:13:38,931 --> 00:13:41,451
+00:13:39,860 --> 00:13:40,820
 除了小丑
 Except clowns.
 
@@ -1644,22 +1644,22 @@ I found a dead clown in the woods, but who knows?
 Hey. Oh. Well, you must be the birthday boy.
 
 330
-00:13:57,581 --> 00:13:59,271
+00:13:57,520 --> 00:13:58,760
 是你吗 小卡舅夫
 Is that you, Uncle Cam?
 
 331
-00:13:59,941 --> 00:14:01,471
+00:13:59,860 --> 00:14:01,420
 不 我是小丑菲茨宝
 No. I'm Fizbo the clown.
 
 332
-00:14:01,541 --> 00:14:03,231
+00:14:01,460 --> 00:14:02,920
 我不知道小卡舅夫是谁
 I don't know who this Uncle Cam is,
 
 333
-00:14:03,231 --> 00:14:05,191
+00:14:02,940 --> 00:14:04,620
 但听上去他似乎很帅 不是吗
 but he sure sounds handsome, doesn't he?
 
@@ -1689,32 +1689,32 @@ Just have kind of a complicated relationship with clowns.
 Well, join the club.
 
 339
-00:14:24,102 --> 00:14:28,082
+00:14:24,380 --> 00:14:27,740
 听着 我之前太刻意勉强自己装成搞笑的人
 Look, I came on strong with that whole funny guy bit.
 
 340
-00:14:28,152 --> 00:14:31,052
+00:14:28,280 --> 00:14:30,060
 现在在你面前的是真实的我
 This is me just being myself.
 
 341
-00:14:31,112 --> 00:14:34,012
+00:14:31,180 --> 00:14:33,840
 好吧 你知道那边那个男生是谁吗
 Okay. Hey, do you know who that boy is over there?
 
 342
-00:14:34,072 --> 00:14:38,142
+00:14:34,300 --> 00:14:37,260
 那是迪兰 海莉的男朋友
 Oh. That's Dylan. He's Haley's boyfriend.
 
 343
-00:14:38,202 --> 00:14:40,472
+00:14:38,420 --> 00:14:40,220
 他真是又高又帅
 He's so cute and tall.
 
 344
-00:14:41,502 --> 00:14:43,732
+00:14:41,140 --> 00:14:44,400
 我还在发育呢 别老挑我的短处
 I'm still growing. Give me a break.
 
@@ -1724,12 +1724,12 @@ I'm still growing. Give me a break.
 Pardon me, miss, but this little doggy needs a new home.
 
 346
-00:14:48,382 --> 00:14:50,402
+00:14:48,440 --> 00:14:49,480
 谢谢你
 Oh, thank you.
 
 347
-00:14:52,422 --> 00:14:54,322
+00:14:52,360 --> 00:14:54,360
 你的装扮真是很夺人眼球啊
 That's quite an impressive getup you got there.
 
@@ -1739,22 +1739,22 @@ That's quite an impressive getup you got there.
 Thank you, Jay. Oh, by the way,
 
 349
-00:14:56,022 --> 00:14:57,953
+00:14:56,040 --> 00:14:57,320
 你的肩膀上有点东西
 you have something on your shoulder.
 
 350
-00:15:00,663 --> 00:15:01,733
+00:15:00,400 --> 00:15:01,360
 真有你的
 That's good.
 
 351
-00:15:01,733 --> 00:15:03,803
+00:15:01,720 --> 00:15:03,540
 别担心 什么都没有
 Never mind. It was nothing.
 
 352
-00:15:03,803 --> 00:15:05,543
+00:15:04,020 --> 00:15:04,940
 适可而止
 We're done here.
 
@@ -1769,22 +1769,22 @@ So, do you keep these at a zoo or something?
 - No. I just keep 'em at my place. - That's awesome.
 
 355
-00:15:20,513 --> 00:15:21,753
+00:15:20,220 --> 00:15:21,500
 我家只有一只猫
 I only have a cat.
 
 356
-00:15:21,753 --> 00:15:24,643
+00:15:21,720 --> 00:15:24,140
 是吗 我曾经也有过一只猫
 Yeah? I used to have a cat.
 
 357
-00:15:24,713 --> 00:15:26,483
+00:15:24,660 --> 00:15:26,420
 我之前是想故意惹你生气
 I was just messing with you before,
 
 358
-00:15:26,543 --> 00:15:29,563
+00:15:26,520 --> 00:15:29,580
 但他现在竟然还在跟她说话
 but seriously, he's still talking to her.
 
@@ -1799,12 +1799,12 @@ but seriously, he's still talking to her.
 - You know, this is one of- - I feel like Britney Spears.
 
 361
-00:15:35,643 --> 00:15:37,153
+00:15:35,480 --> 00:15:36,700
 你好搞笑哦
 You're so funny.
 
 362
-00:15:38,023 --> 00:15:39,823
+00:15:37,820 --> 00:15:39,880
 你这确实很像布兰妮MV中的造型
 You kind of do look like Britney Spears.
 
@@ -1814,12 +1814,12 @@ You kind of do look like Britney Spears.
 - Really? - I'm just kidding.
 
 364
-00:15:41,463 --> 00:15:43,633
+00:15:41,440 --> 00:15:43,640
 反正 这只大概是我的最爱了
 Anyway, this is probably my favorite.
 
 365
-00:15:43,633 --> 00:15:45,544
+00:15:43,720 --> 00:15:45,060
 嘿 丛林女郎
 Hey, jungle lady?
 
@@ -1829,17 +1829,17 @@ Hey, jungle lady?
 I think- I think one of your bugs got out.
 
 367
-00:15:47,984 --> 00:15:49,674
+00:15:48,060 --> 00:15:49,660
 什么 这只吗
 What? This one?
 
 368
-00:15:49,734 --> 00:15:51,834
+00:15:49,680 --> 00:15:51,900
 就是这只盒子里的 盒子歪倒了
 This box thing here- It's on its side.
 
 369
-00:15:51,904 --> 00:15:54,174
+00:15:52,060 --> 00:15:54,140
 -老天啊 跑哪儿去了 -没事吧
 - Oh, my God. Where did it go? - Is everything okay?
 
@@ -1849,7 +1849,7 @@ This box thing here- It's on its side.
 No. I lost a poisonous scorpion, and I need to find it.
 
 371
-00:15:57,284 --> 00:16:01,014
+00:15:57,440 --> 00:16:00,660
 好了孩子们 都把裤腿扎进袜子里
 Okay, kids, let's all tuck our pants into our socks.
 
@@ -1864,22 +1864,22 @@ Avoid shady, moist places,
 and let's make a game of looking where we step.
 
 374
-00:16:12,824 --> 00:16:14,405
+00:16:12,520 --> 00:16:14,180
 -他没事吧 -我们现在能探望他吗
 - Is he okay? - Can we see him?
 
 375
-00:16:14,464 --> 00:16:16,384
+00:16:14,420 --> 00:16:15,980
 医生正在给他诊治
 He's in with the doctor right now.
 
 376
-00:16:17,634 --> 00:16:19,164
+00:16:17,460 --> 00:16:18,960
 这种事就是常发生的 对吧
 These things happen, right?
 
 377
-00:16:19,164 --> 00:16:20,705
+00:16:19,080 --> 00:16:20,640
 不管你多么的小心
 No matter how careful you are.
 
@@ -1889,7 +1889,7 @@ No matter how careful you are.
 Hey, look what Grandpa gave me- a crossbow.
 
 379
-00:16:23,894 --> 00:16:25,624
+00:16:23,840 --> 00:16:25,400
 -宝贝 那东西看着不安全啊 -别担心
 - Sweetie, that does not look safe. - Don't worry.
 
@@ -1899,27 +1899,27 @@ Hey, look what Grandpa gave me- a crossbow.
 He's gonna show me how to use it.
 
 381
-00:16:27,024 --> 00:16:29,254
+00:16:27,300 --> 00:16:29,400
 那正是 我担心的地方
 That's what... I'm afraid of.
 
 382
-00:16:29,314 --> 00:16:31,334
+00:16:29,680 --> 00:16:30,800
 快过来 准备好了吗
 Come on. Ready?
 
 383
-00:16:33,025 --> 00:16:35,555
+00:16:33,020 --> 00:16:35,460
 噢 老天 你不会是在做梳套吧
 Oh, my God. You are not making comb sheaths.
 
 384
-00:16:35,615 --> 00:16:37,425
+00:16:35,640 --> 00:16:37,420
 我就是的 我知道的 又老套又无趣
 I am, and I know. It's really lame.
 
 385
-00:16:37,425 --> 00:16:38,216
+00:16:37,480 --> 00:16:38,160
 每个人都讨厌
 Everybody hates it.
 
@@ -1929,17 +1929,17 @@ Everybody hates it.
 No. It's just like, uh, Donna Rigby's party.
 
 387
-00:16:40,415 --> 00:16:43,555
+00:16:41,140 --> 00:16:43,300
 就是啊 太对了 我这边小珠子什么的都有
 Exactly! Yes! And I have the beads and everything.
 
 388
-00:16:43,625 --> 00:16:46,065
+00:16:44,100 --> 00:16:45,540
 太棒了 真是太棒了
 Amazing. This is awesome.
 
 389
-00:16:46,755 --> 00:16:48,735
+00:16:47,140 --> 00:16:48,680
 所以 小卡是个小丑哈
 So... Cam's a clown.
 
@@ -1979,12 +1979,12 @@ Look at them now. They're the life of the party.
 Uh, you know, I gotta say, for all his craziness,
 
 397
-00:17:06,275 --> 00:17:08,165
+00:17:06,260 --> 00:17:07,820
 但我爱我家那位小丑
 I love my clown.
 
 398
-00:17:08,235 --> 00:17:10,755
+00:17:08,240 --> 00:17:10,440
 姐也是 有他们在真的很好
 Me too. They're good for us.
 
@@ -2014,12 +2014,12 @@ Scorpion! Scorpion! Scorpion!
 Scorpion!
 
 404
-00:17:27,126 --> 00:17:30,936
+00:17:26,420 --> 00:17:30,860
 不不不 靠得太近 离我太近
 No, no. Too close. Too close. Too close.
 
 405
-00:17:31,006 --> 00:17:32,187
+00:17:30,860 --> 00:17:32,240
 搞毛啊
 What the hell?
 
@@ -2044,17 +2044,17 @@ We fired the crossbow.
 No, I know. Oh, my God. It's right there.
 
 410
-00:17:44,976 --> 00:17:46,996
+00:17:44,840 --> 00:17:46,480
 比安卡 我来了
 Bianca, I'm coming.
 
 411
-00:17:48,976 --> 00:17:51,046
+00:17:49,020 --> 00:17:50,460
 -还有谁在里面 -快出来
 - Who else is in there? - Get out!
 
 412
-00:17:53,986 --> 00:17:57,716
+00:17:53,920 --> 00:17:57,600
 事实证明我不是甜心帅哥 也不是幽默达人
 It turns out I'm not the sweet guy or the funny guy.
 
@@ -2069,22 +2069,22 @@ No, Manny, don't go in! Por favor!
 I must!
 
 415
-00:18:06,336 --> 00:18:07,807
+00:18:06,580 --> 00:18:07,300
 我来了
 I'm coming!
 
 416
-00:18:07,877 --> 00:18:10,527
+00:18:08,220 --> 00:18:09,970
 曼尼·迪尔加多是个用行动说话的男人
 Manny Delgado is a man of action.
 
 417
-00:18:15,217 --> 00:18:17,407
+00:18:15,540 --> 00:18:17,080
 等等 我的狗狗还在里面
 Wait. My dog is still in there.
 
 418
-00:18:18,677 --> 00:18:21,577
+00:18:18,660 --> 00:18:19,720
 我马上就回来
 I'll be right back.
 
@@ -2094,7 +2094,7 @@ I'll be right back.
 Ow! My arm!
 
 420
-00:18:32,737 --> 00:18:34,627
+00:18:32,680 --> 00:18:34,320
 小宝贝 卢克
 Sweetie? Luke?
 
@@ -2104,12 +2104,12 @@ Sweetie? Luke?
 - What happened, buddy? - What happened?
 
 422
-00:18:36,207 --> 00:18:37,127
+00:18:36,760 --> 00:18:36,860
 出什么事了 宝贝
 What happened, honey?
 
 423
-00:18:37,127 --> 00:18:38,588
+00:18:37,400 --> 00:18:38,280
 嘿 嘿 怎么回事
 Hey, hey. What happened?
 
@@ -2119,7 +2119,7 @@ Hey, hey. What happened?
 - I slipped on these stupid beads. - Oops.
 
 425
-00:18:42,077 --> 00:18:43,598
+00:18:42,380 --> 00:18:43,140
 来 先起来
 Come on. Here we go.
 
@@ -2149,17 +2149,17 @@ Hi, honey. How are you, kid?
 You poor thing.
 
 431
-00:18:56,588 --> 00:18:58,318
+00:18:56,920 --> 00:18:58,180
 哇 大家都来了啊
 Wow. Everybody's here.
 
 432
-00:18:58,388 --> 00:19:00,408
+00:18:58,180 --> 00:19:00,280
 我们当然得来了 你的小翅膀怎么样了
 Of course we are. How's that busted flipper?
 
 433
-00:19:00,508 --> 00:19:02,458
+00:19:00,600 --> 00:19:02,400
 -没事 -今天的事真遗憾 小老弟
 - Okay. - Sorry about today, buddy.
 
@@ -2174,7 +2174,7 @@ We'll try again next year, huh?
 Are you kidding? This was the best birthday ever.
 
 436
-00:19:06,558 --> 00:19:09,168
+00:19:06,780 --> 00:19:08,940
 -什么 -我打了个石膏
 - What? - I got a cast.
 
@@ -2184,32 +2184,32 @@ Are you kidding? This was the best birthday ever.
 - You like a cast? - I've always wanted one.
 
 438
-00:19:12,028 --> 00:19:14,838
+00:19:12,000 --> 00:19:14,640
 -几周后 里面就会发臭 -恶
 - After a few weeks, they start to smell. -Ew!
 
 439
-00:19:14,898 --> 00:19:16,838
+00:19:14,780 --> 00:19:16,800
 你真是个怪胎 你知道吗
 You are so weird, you know that?
 
 440
-00:19:16,908 --> 00:19:18,469
+00:19:16,960 --> 00:19:18,360
 -我可以在上面签名吗 -当然
 - Can I sign it? - Sure.
 
 441
-00:19:18,528 --> 00:19:20,638
+00:19:18,560 --> 00:19:20,280
 -嘿 我先来 -这边
 - Hey. Me first. - Here.
 
 442
-00:19:20,698 --> 00:19:22,308
+00:19:20,660 --> 00:19:22,100
 如果你在派对举办之前问我
 If you'd asked me before the party...
 
 443
-00:19:22,368 --> 00:19:24,928
+00:19:22,100 --> 00:19:24,740
 是否希望发生一系列灾难的连锁反应
 if I wanted there to be a chain reaction of disasters...
 
@@ -2224,27 +2224,27 @@ that led to Luke breaking his arm, I probably would've said no.
 - Probably? - Prob- Definite- Definitely not.
 
 446
-00:19:31,688 --> 00:19:33,049
+00:19:31,880 --> 00:19:32,860
 不希望发生那种事
 Would not want that.
 
 447
-00:19:34,158 --> 00:19:36,608
+00:19:34,700 --> 00:19:36,460
 但是 不管怎么样
 But, one way or another,
 
 448
-00:19:36,718 --> 00:19:38,618
+00:19:36,560 --> 00:19:38,440
 卢克在他生日这天是众人关心的焦点
 Luke was the center of attention on his birthday,
 
 449
-00:19:38,618 --> 00:19:40,688
+00:19:38,440 --> 00:19:40,120
 而且全家人都聚在一起
 and the whole family was together...
 
 450
-00:19:42,388 --> 00:19:44,489
+00:19:42,000 --> 00:19:43,760
 那正是家庭生日会该有的样子
 just the way it should be.
 
@@ -2259,7 +2259,7 @@ Fizbo delivery! I brought the cake!
 Bravo!
 
 453
-00:19:51,559 --> 00:19:52,670
+00:19:50,720 --> 00:19:52,540
 我心理承受不住
 I can't do this.
 
@@ -2269,7 +2269,7 @@ I can't do this.
 Oh, God. I'm out.
 
 455
-00:20:00,159 --> 00:20:03,219
+00:20:00,120 --> 00:20:00,680
 蛋糕
 Cake.
 
@@ -2299,41 +2299,41 @@ I'm starting to feel smothered.
 I really like my cast, but it's starting to itch.
 
 461
-00:20:21,389 --> 00:20:24,659
+00:20:21,600 --> 00:20:24,060
 幸好有我妈特制的挠痒神器
 Good thing my mom made me this personal scratcher.
 
 462
-00:20:25,639 --> 00:20:27,579
+00:20:25,880 --> 00:20:27,280
 好东西用了才知道
 Oh, that's good stuff.
 
 463
-00:20:27,639 --> 00:20:30,289
+00:20:27,280 --> 00:20:30,180
 如果有别的女人想勾搭你的男人
 If another woman is messing with your man,
 
 464
-00:20:30,349 --> 00:20:32,380
+00:20:30,460 --> 00:20:31,820
 你一定要先发制人
 you have to get proactive.
 
 465
-00:20:32,440 --> 00:20:33,920
+00:20:32,320 --> 00:20:33,940
 我不管她有多漂亮
 I don't care how pretty she is
 
 466
-00:20:33,920 --> 00:20:36,630
+00:20:33,940 --> 00:20:36,400
 或者她有多少只恶心的爬虫
 or how many stupid reptiles she has.
 
 467
-00:20:36,690 --> 00:20:39,380
+00:20:36,640 --> 00:20:38,940
 只要她想抢我的东西
 She tries to take what's mine,
 
 468
-00:20:39,450 --> 00:20:41,630
+00:20:39,400 --> 00:20:40,920
 我就不择手段坑死你
 girlfriend's gonna get stung.

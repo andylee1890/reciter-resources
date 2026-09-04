@@ -1,10 +1,10 @@
 1
-00:00:34,667 --> 00:00:35,973
+00:00:33,940 --> 00:00:35,480
 关于基因改良过的星际战士
 What's the best first-person shooter
 
 2
-00:00:35,973 --> 00:00:38,325
+00:00:35,480 --> 00:00:37,580
 最棒的第一人称射击游戏是什么
 about genetically modified space marines?
 
@@ -44,7 +44,7 @@ haven't been spending quality time together.
 Sure thing. Luke!
 
 10
-00:00:50,436 --> 00:00:51,512
+00:00:49,680 --> 00:00:50,720
 我觉得他好像不在
 I don't think he's here.
 
@@ -64,82 +64,82 @@ Where is he?
 I am certain he is probably out with his usual crew of cut-ups.
 
 14
-00:00:58,031 --> 00:00:59,536
+00:00:57,560 --> 00:00:58,960
 你没有洗衣服吧
 You're not doing laundry, are you?
 
 15
-00:00:59,536 --> 00:01:01,839
+00:00:58,960 --> 00:01:01,480
 没 但你叮嘱过的话 我马上就去洗
 God, no. But I'm about to if I'm supposed to.
 
 16
-00:01:01,839 --> 00:01:02,975
+00:01:01,560 --> 00:01:02,540
 不 不 不要洗
 No, no. Don't. Don't.
 
 17
-00:01:02,975 --> 00:01:03,792
+00:01:02,640 --> 00:01:03,440
 但你能在我回家前
 But can you vacuum out
 
 18
-00:01:03,792 --> 00:01:05,068
+00:01:03,440 --> 00:01:04,520
 把通风管道清理干净吗
 the dryer vent before I get home?
 
 19
-00:01:05,068 --> 00:01:06,713
+00:01:04,660 --> 00:01:05,900
 我一定会清理的
 I will absolutely do that.
 
 20
-00:01:07,650 --> 00:01:08,657
+00:01:07,380 --> 00:01:07,740
 谢了
 Thanks.
 
 21
-00:01:11,078 --> 00:01:12,314
+00:01:10,360 --> 00:01:11,860
 我联系不上海莉了
 I can't get in touch with Haley.
 
 22
-00:01:12,314 --> 00:01:14,517
+00:01:11,980 --> 00:01:13,660
 自从我们吵架后 我就没跟她说上话
 I haven't talked to her since we got in that fight.
 
 23
-00:01:14,587 --> 00:01:15,175
+00:01:14,320 --> 00:01:14,700
 她在吗
 She around?
 
 24
-00:01:15,175 --> 00:01:17,139
+00:01:14,840 --> 00:01:16,620
 我觉得她好像去朋友家过夜了
 I think she slept at a friend's house.
 
 25
-00:01:17,139 --> 00:01:18,146
+00:01:16,820 --> 00:01:17,240
 什么朋友
 What friend?
 
 26
-00:01:19,561 --> 00:01:20,617
+00:01:19,000 --> 00:01:20,300
 不是个常见的名字
 Not a normal name,
 
 27
-00:01:20,617 --> 00:01:22,740
+00:01:20,440 --> 00:01:21,920
 是元音开头的 很可能是个外国人
 starts with a vowel, possibly foreign.
 
 28
-00:01:22,740 --> 00:01:25,153
+00:01:22,460 --> 00:01:24,780
 或许艾丽克斯知道 她在家吗
 Oh, maybe Alex knows. Is she home?
 
 29
-00:01:25,153 --> 00:01:27,943
+00:01:24,860 --> 00:01:26,940
 不在 我已经好几个小时没见到她了
 Nope. I have not seen her for hours.
 
@@ -149,12 +149,12 @@ Nope. I have not seen her for hours.
 Does Haley know an Arjibarge?
 
 31
-00:01:30,146 --> 00:01:32,279
+00:01:29,980 --> 00:01:31,500
 -嗨 妈 -嗨 宝贝 你在哪儿呢
 - Hi, mom. - Hi, honey. Where are you?
 
 32
-00:01:32,279 --> 00:01:33,725
+00:01:32,020 --> 00:01:32,900
 我在厨房啊
 I'm in the kitchen.
 
@@ -164,7 +164,7 @@ I'm in the kitchen.
 Alex? When'd you get home?
 
 34
-00:01:36,665 --> 00:01:38,340
+00:01:36,360 --> 00:01:37,540
 我一整天都在家里啊
 I've been here all day.
 
@@ -204,17 +204,17 @@ Sounds good. Love you, too.
 Alex, do you know where Haley is?
 
 42
-00:01:52,025 --> 00:01:53,899
+00:01:51,540 --> 00:01:53,620
 我知道她昨晚去给莉莉当保姆了
 I mean, I know she was babysitting Lily last night,
 
 43
-00:01:53,899 --> 00:01:55,434
+00:01:53,620 --> 00:01:54,600
 但从那之后我就没见过她了
 but I haven't seen her since.
 
 44
-00:01:55,434 --> 00:01:56,042
+00:01:55,040 --> 00:01:55,700
 顺便说下
 By the way,
 
@@ -234,17 +234,17 @@ I just sent you a new version.
 Uh, okay. I will go read that one right now.
 
 48
-00:02:25,635 --> 00:02:27,848
+00:02:25,440 --> 00:02:27,700
 天啊 你在干什么 你在拍我吗
 Oh, my god. What are you doing? Are you filming me?
 
 49
-00:02:27,848 --> 00:02:30,888
+00:02:27,700 --> 00:02:30,540
 是的 我想让你看看你的表现有多疯狂
 Yes! I want you to see how crazy you are acting.
 
 50
-00:02:30,888 --> 00:02:33,749
+00:02:30,760 --> 00:02:33,540
 我? 我去找你说一件很重要的事
 Me?! I come to talk to you about something important,
 
@@ -294,27 +294,27 @@ and then the smell from the garbage almost made me throw up!
 That's exactly how I feel!
 
 60
-00:02:50,913 --> 00:02:51,730
+00:02:50,920 --> 00:02:51,660
 别烦我了
 Leave me alone!
 
 61
-00:02:51,730 --> 00:02:52,986
+00:02:51,680 --> 00:02:52,880
 我的烦心事已经够多的了[盘子上很多脏东西]
 I have a lot on my plate!
 
 62
-00:02:52,986 --> 00:02:54,601
+00:02:52,980 --> 00:02:54,440
 是的 是的 我看到了 亲爱的
 Yes. Yes, I can see that, honey.
 
 63
-00:02:54,601 --> 00:02:55,498
+00:02:54,440 --> 00:02:55,460
 你把脏盘子都堆在洗碗池里了
 You left it in the sink!
 
 64
-00:02:55,498 --> 00:02:56,534
+00:02:55,700 --> 00:02:56,380
 天啊
 Oh, my god!
 
@@ -329,32 +329,32 @@ I waited in line for two hours, but I got it.
 Ooh, we making a home movie?
 
 67
-00:03:25,390 --> 00:03:26,208
+00:03:25,340 --> 00:03:25,700
 喂
 Hello?
 
 68
-00:03:26,287 --> 00:03:27,285
+00:03:26,420 --> 00:03:26,920
 你好 老爸
 Hey, dad.
 
 69
-00:03:27,553 --> 00:03:29,497
+00:03:27,580 --> 00:03:29,080
 爸 把手机从耳朵旁边拿下来
 Dad, take the phone away from your ear.
 
 70
-00:03:29,756 --> 00:03:30,523
+00:03:29,780 --> 00:03:30,540
 为什么要拿下来
 Why would I do this?
 
 71
-00:03:30,523 --> 00:03:31,361
+00:03:30,540 --> 00:03:31,380
 现在我听不到你说话了
 Now I can't hear you.
 
 72
-00:03:31,361 --> 00:03:33,205
+00:03:31,440 --> 00:03:32,640
 放在你面前
 Put it in front of your face.
 
@@ -364,22 +364,22 @@ Put it in front of your face.
 How'd you get in my phone?
 
 74
-00:03:36,823 --> 00:03:38,567
+00:03:36,800 --> 00:03:38,660
 这是不是意味着那天我们通话时
 Does this mean when we talked the other day
 
 75
-00:03:38,567 --> 00:03:40,062
+00:03:38,660 --> 00:03:39,860
 你知道我是在厕所里
 that you knew I was in the can?
 
 76
-00:03:40,062 --> 00:03:40,740
+00:03:40,020 --> 00:03:40,720
 我这下知道了
 I do now.
 
 77
-00:03:40,740 --> 00:03:41,956
+00:03:40,840 --> 00:03:41,700
 会议展示做得怎么样
 How was the presentation?
 
@@ -394,32 +394,32 @@ Actually went really well.
 The client loves the whole re-design.
 
 80
-00:03:44,418 --> 00:03:45,684
+00:03:44,580 --> 00:03:45,900
 但希望我们换掉长方形把手
 They just want us to swap out the handles --
 
 81
-00:03:45,684 --> 00:03:47,289
+00:03:45,920 --> 00:03:47,400
 -该死的 -我懂的
 - Damn it! - I know.
 
 82
-00:03:47,289 --> 00:03:49,013
+00:03:47,460 --> 00:03:49,120
 只有蠢货才会想要旋钮
 Only knobs want knobs.
 
 83
-00:03:49,013 --> 00:03:51,934
+00:03:49,220 --> 00:03:51,660
 不是 是乔咬了我 他在出牙
 No, Joe bit me. He's teething.
 
 84
-00:03:51,934 --> 00:03:53,219
+00:03:51,660 --> 00:03:53,320
 我觉得安迪这周末请假
 I don't think it's a coincidence
 
 85
-00:03:53,219 --> 00:03:54,894
+00:03:53,320 --> 00:03:54,640
 不是巧合
 that Andy took the weekend off.
 
@@ -429,22 +429,22 @@ that Andy took the weekend off.
 Kid's like a beaver.
 
 87
-00:03:56,887 --> 00:03:58,432
+00:03:57,000 --> 00:03:58,360
 我都不敢穿短裤了
 I'm afraid to wear short pants.
 
 88
-00:03:58,432 --> 00:04:00,047
+00:03:58,720 --> 00:03:59,720
 好啊 克莱尔
 Hola, Claire.
 
 89
-00:04:00,047 --> 00:04:00,844
+00:04:00,220 --> 00:04:00,960
 好啊 歌洛莉亚
 Hey, Gloria.
 
 90
-00:04:00,844 --> 00:04:03,147
+00:04:00,960 --> 00:04:03,100
 出差怎么样 玩得开心吗
 How's your trip? Are you having any fun?
 
@@ -454,22 +454,22 @@ How's your trip? Are you having any fun?
 Uh...yeah. You know, it's a little windy, but, eh.
 
 92
-00:04:07,323 --> 00:04:09,735
+00:04:07,540 --> 00:04:09,620
 你同意我帮卢克剪头发吧
 So, you're okay with me cutting Luke's hair, right?
 
 93
-00:04:09,735 --> 00:04:11,151
+00:04:09,900 --> 00:04:11,180
 -妈妈 -好啊
 - Hey, mom. - Well, hello.
 
 94
-00:04:11,151 --> 00:04:13,284
+00:04:11,300 --> 00:04:13,300
 知道你没死在某个小巷里真是太好了
 It's nice to know you're not dead in an alley somewhere.
 
 95
-00:04:13,284 --> 00:04:14,601
+00:04:13,460 --> 00:04:14,280
 你也是
 Right back at you.
 
@@ -479,27 +479,27 @@ Right back at you.
 Yes, I am fine with you cutting his hair.
 
 97
-00:04:16,214 --> 00:04:18,118
+00:04:16,500 --> 00:04:17,780
 两边别留太长就行
 Just don't leave it too long on the sides.
 
 98
-00:04:18,118 --> 00:04:20,450
+00:04:18,340 --> 00:04:20,220
 我很擅长剪男孩的头发
 I am very good cutting boys' hair.
 
 99
-00:04:20,450 --> 00:04:22,464
+00:04:20,220 --> 00:04:22,580
 你以后该让我剪你的
 You should let me cut yours someday.
 
 100
-00:04:22,464 --> 00:04:24,836
+00:04:22,800 --> 00:04:24,420
 好吧 再见 歌洛莉亚
 Okay, bye-bye, Gloria.
 
 101
-00:04:26,341 --> 00:04:27,598
+00:04:26,240 --> 00:04:27,380
 你还在吗
 You still there?
 
@@ -509,47 +509,47 @@ You still there?
 Crap. Dad, did you know
 
 103
-00:04:30,508 --> 00:04:31,604
+00:04:30,840 --> 00:04:31,820
 米奇尔的生日吗
 it was Mitchell's birthday today?
 
 104
-00:04:31,604 --> 00:04:33,219
+00:04:31,860 --> 00:04:33,520
 当然啦 我已经给他打了电话
 Of course. I already called him
 
 105
-00:04:33,219 --> 00:04:34,764
+00:04:33,520 --> 00:04:35,040
 因为我是个体贴周到的人
 because I'm a considerate person
 
 106
-00:04:34,764 --> 00:04:36,628
+00:04:35,040 --> 00:04:36,500
 对家人由衷地关心
 who really cares about his family.
 
 107
-00:04:36,628 --> 00:04:38,880
+00:04:36,860 --> 00:04:38,680
 是我提醒的他 我拨的电话
 I reminded him and dialed the phone.
 
 108
-00:04:39,030 --> 00:04:39,957
+00:04:39,260 --> 00:04:40,060
 旅途顺利
 Fly safe.
 
 109
-00:04:39,957 --> 00:04:41,611
+00:04:40,100 --> 00:04:41,640
 记住你可以向后靠[倒退]
 And remember you can recline.
 
 110
-00:04:41,611 --> 00:04:43,196
+00:04:41,960 --> 00:04:43,460
 到了天上也还是美国
 It's still America up there.
 
 111
-00:04:43,196 --> 00:04:44,542
+00:04:43,600 --> 00:04:44,340
 谢了 老爸
 Thanks, dad.
 
@@ -589,12 +589,12 @@ Yes, thank you.
 Uh, Lily,
 
 119
-00:05:04,806 --> 00:05:07,497
+00:05:05,080 --> 00:05:07,780
 她给我做了她拿手的巧克力豆炒蛋
 she made me her famous chocolate-chip scrambled eggs...
 
 120
-00:05:07,497 --> 00:05:10,039
+00:05:07,780 --> 00:05:09,940
 她还看着我吃了下去
 ...which she then watched me eat.
 
@@ -609,32 +609,32 @@ Yeah.
 You got my present, didn't you?
 
 123
-00:05:12,221 --> 00:05:12,740
+00:05:12,520 --> 00:05:13,000
 没有
 No.
 
 124
-00:05:12,740 --> 00:05:15,032
+00:05:13,000 --> 00:05:15,340
 该死 他们跟我保证会按时送到
 Darn it. They promised it would be there on time.
 
 125
-00:05:15,032 --> 00:05:16,198
+00:05:15,500 --> 00:05:16,680
 我等不及拆开礼物
 Oh, well, I can't wait to open it
 
 126
-00:05:16,198 --> 00:05:18,023
+00:05:16,680 --> 00:05:17,820
 看看发票上的日期了
 and check the date on the invoice.
 
 127
-00:05:18,142 --> 00:05:19,258
+00:05:18,400 --> 00:05:19,660
 -那是克莱尔吗 -是
 - Hey, is that Claire? - Yeah.
 
 128
-00:05:19,258 --> 00:05:20,793
+00:05:19,700 --> 00:05:20,740
 -好啊 克莱尔 -好啊
 - Hi, Claire! - Hi.
 
@@ -694,22 +694,22 @@ Oh, shoot, I forgot.
 It's the one thing you had to do in Chicago!
 
 140
-00:05:41,645 --> 00:05:42,543
+00:05:42,020 --> 00:05:43,060
 你太对了
 You are so right.
 
 141
-00:05:42,543 --> 00:05:45,523
+00:05:43,180 --> 00:05:45,940
 很抱歉 我因为工作分心了
 I'm sorry that I let myself get distracted by my job.
 
 142
-00:05:45,523 --> 00:05:47,606
+00:05:46,180 --> 00:05:48,160
 我要的是甜中带咸 克莱尔
 Okay, I'm looking for sweet and salty, Claire,
 
 143
-00:05:47,606 --> 00:05:48,464
+00:05:48,200 --> 00:05:48,760
 不是苦的[尖酸]
 not bitter.
 
@@ -814,27 +814,27 @@ Okay, you're screaming.
 I don't know where she went. Maybe Dylan knows.
 
 164
-00:06:22,303 --> 00:06:23,748
+00:06:23,080 --> 00:06:24,220
 迪兰 他怎么会知道
 Dylan? Why would Dylan know?
 
 165
-00:06:23,748 --> 00:06:25,851
+00:06:24,340 --> 00:06:26,500
 他来过 他们在沙发上说话
 He came over, and they were talking on the couch
 
 166
-00:06:25,851 --> 00:06:27,914
+00:06:26,500 --> 00:06:28,680
 我那时候在另一间房里
 while I was in the other room...
 
 167
-00:06:28,622 --> 00:06:30,167
+00:06:29,580 --> 00:06:30,020
 很乖的
 behaving.
 
 168
-00:06:30,626 --> 00:06:33,277
+00:06:31,160 --> 00:06:33,320
 她还在跟迪兰说话吗 真的吗
 She's still talking to Dylan? Really?
 
@@ -849,7 +849,7 @@ Oh, wait, guys, I got to go.
 Uh, happy birthday, Babs.
 
 171
-00:06:37,623 --> 00:06:39,008
+00:06:38,020 --> 00:06:39,260
 那是什么意思
 What does she mean by that?
 
@@ -889,12 +889,12 @@ Oh, please, I can see your eyes
 darting around the screen.
 
 179
-00:06:48,836 --> 00:06:50,261
+00:06:49,680 --> 00:06:50,580
 读新的那篇就好
 Just read the new one.
 
 180
-00:06:50,640 --> 00:06:53,252
+00:06:51,300 --> 00:06:53,400
 你能不能帮我个忙 给你姐姐打电话
 Can you just do me a favor and call your sister?
 
@@ -904,12 +904,12 @@ Can you just do me a favor and call your sister?
 If she's screening, I'm not making the cut.
 
 182
-00:06:55,953 --> 00:06:57,299
+00:06:56,700 --> 00:06:58,100
 你何不偷窥她的Facebook页面
 Why don't you just snoop on her facebook page
 
 183
-00:06:57,299 --> 00:06:58,675
+00:06:58,100 --> 00:06:58,940
 用你的假个人主页
 with your fake profile?
 
@@ -929,7 +929,7 @@ Mom, save it. Brody Kendall just logged in.
 That trick might've worked on Haley,
 
 187
-00:07:06,219 --> 00:07:08,183
+00:07:07,000 --> 00:07:08,380
 但我知道照片是察琪的
 but I know that's a picture of Chachi.
 
@@ -944,92 +944,92 @@ Oh, my God. What?
 Please tell me that's some kind of mistake!
 
 190
-00:07:12,628 --> 00:07:14,243
+00:07:13,480 --> 00:07:14,760
 哪里 哪一段
 Where? Which paragraph?
 
 191
-00:07:14,243 --> 00:07:15,739
+00:07:14,920 --> 00:07:16,180
 去叫你爸来 马上
 Get your father -- now!
 
 192
-00:07:15,988 --> 00:07:17,114
+00:07:16,900 --> 00:07:18,000
 爸 老妈找你
 Dad, mom needs you!
 
 193
-00:07:17,114 --> 00:07:18,670
+00:07:18,060 --> 00:07:18,940
 告诉她我在洗澡
 Tell her I'm in the shower!
 
 194
-00:07:23,084 --> 00:07:25,078
+00:07:22,340 --> 00:07:24,320
 亲爱的 我们该打给谁 该怎么办
 Honey, who do we call? What do we do?
 
 195
-00:07:25,078 --> 00:07:27,420
+00:07:24,400 --> 00:07:26,320
 海莉怎么可能结婚了
 There's no way Haley's married.
 
 196
-00:07:27,420 --> 00:07:29,184
+00:07:26,640 --> 00:07:28,400
 那她为什么换了Facebook的状态
 Then why did she change her Facebook status?
 
 197
-00:07:29,184 --> 00:07:30,211
+00:07:28,540 --> 00:07:29,480
 她应该没有吧
 She probably didn't.
 
 198
-00:07:30,211 --> 00:07:32,783
+00:07:29,680 --> 00:07:32,020
 可能是电脑的问题 有人黑了她的账号
 It could be a computer glitch, someone hacked her account.
 
 199
-00:07:32,783 --> 00:07:35,653
+00:07:32,220 --> 00:07:34,880
 我觉得在知道真相前我们都该冷静点
 I just think we should stay calm until we know the story.
 
 200
-00:07:35,653 --> 00:07:39,212
+00:07:35,140 --> 00:07:38,360
 亲爱的 失去联系又不清楚情况
 Honey, I cannot get on a plane for four hours
 
 201
-00:07:39,212 --> 00:07:41,684
+00:07:38,360 --> 00:07:40,600
 你叫我怎么在飞机上待四个小时
 and be out of touch and not know what happened!
 
 202
-00:07:42,062 --> 00:07:43,528
+00:07:41,440 --> 00:07:42,680
 不只是Facebook
 It's not just the Facebook thing.
 
 203
-00:07:43,528 --> 00:07:46,209
+00:07:43,040 --> 00:07:45,640
 她从米奇尔那里借了一件婚礼用的蓝西装
 She borrowed a blue suit from Mitchell for a wedding.
 
 204
-00:07:46,209 --> 00:07:47,375
+00:07:45,740 --> 00:07:46,820
 借来的 蓝色的[婚礼习俗]
 Something borrowed, something blue?
 
 205
-00:07:47,375 --> 00:07:48,043
+00:07:46,840 --> 00:07:47,540
 你意识到了吗
 Do you get it?
 
 206
-00:07:48,043 --> 00:07:49,727
+00:07:47,560 --> 00:07:48,560
 她要嫁给谁呢
 Who would she even marry?
 
 207
-00:07:49,967 --> 00:07:51,741
+00:07:49,120 --> 00:07:51,160
 我不知道 但她昨天跟迪兰在一起
 I don't know, but she was with Dylan yesterday,
 
@@ -1049,17 +1049,17 @@ she would definitely hide that from us.
 But that makes no sense. Why wouldn't he call me?
 
 211
-00:07:59,854 --> 00:08:01,838
+00:07:59,240 --> 00:08:01,360
 -你好 邓太太 -你好 迪兰
 - Oh, hey, Mrs. "D". - Hey, Dylan!
 
 212
-00:08:01,838 --> 00:08:03,074
+00:08:01,420 --> 00:08:02,580
 你好 邓先生
 Oh, hi, Mr. "D"!
 
 213
-00:08:03,074 --> 00:08:05,177
+00:08:02,620 --> 00:08:04,600
 -你跟海莉在一起吗 -以什么方式
 - Are you with Haley? - In what way?
 
@@ -1079,12 +1079,12 @@ No. I'm at work. I have a career now.
 Hey, uh, can you hold this phone for a second?
 
 217
-00:08:18,414 --> 00:08:20,318
+00:08:17,740 --> 00:08:19,880
 所以你不知道海莉现在在哪里
 So, you have no idea where Haley is right now?
 
 218
-00:08:20,318 --> 00:08:23,298
+00:08:19,920 --> 00:08:22,660
 你是说精神上 还是地理上
 You mean spiritually, geographically?
 
@@ -1154,92 +1154,92 @@ Haley got married?! That's so upsetting!
 Done.
 
 232
-00:08:57,307 --> 00:08:59,490
+00:08:51,540 --> 00:08:59,040
 -妈 -你有海莉的iCloud密码吗
 - Hi, mom. - Do you have Haley's iCloud Password?
 
 233
-00:08:59,490 --> 00:09:01,154
+00:08:59,240 --> 00:09:00,820
 是的 她放在一个小信封里
 Yeah, she gave it to me in a little envelope
 
 234
-00:09:01,154 --> 00:09:01,882
+00:09:00,820 --> 00:09:01,600
 跟她的日记本钥匙
 with her diary key
 
 235
-00:09:01,882 --> 00:09:03,865
+00:09:01,600 --> 00:09:03,160
 以及最怕的事物清单一起交给了我
 and a list of things she's most afraid of.
 
 236
-00:09:04,523 --> 00:09:05,500
+00:09:03,980 --> 00:09:05,180
 也许我们能猜出来
 Maybe we could guess it.
 
 237
-00:09:05,500 --> 00:09:07,922
+00:09:05,180 --> 00:09:07,600
 克莱尔 你不小心把电话挂了
 Claire, you accidentally hung up on me.
 
 238
-00:09:07,922 --> 00:09:10,255
+00:09:07,720 --> 00:09:09,880
 对 亲爱的 你知道我不太会用电脑
 Oh, yeah, well, honey, you know me and computers.
 
 239
-00:09:10,255 --> 00:09:11,959
+00:09:10,080 --> 00:09:11,720
 妈妈在猜海莉的iCloud密码
 Mom's trying to guess Haley's iCloud password.
 
 240
-00:09:11,959 --> 00:09:15,069
+00:09:11,760 --> 00:09:14,260
 个人觉得这侵犯了她的隐私
 Which, personally, I think is an invasion of her privacy.
 
 241
-00:09:15,388 --> 00:09:16,924
+00:09:15,220 --> 00:09:16,140
 试试看"密码"行不行
 Ooh, try "Password."
 
 242
-00:09:18,996 --> 00:09:20,033
+00:09:18,480 --> 00:09:19,820
 还好不是这个
 I'm kind of glad that didn't work.
 
 243
-00:09:20,033 --> 00:09:21,777
+00:09:19,880 --> 00:09:21,620
 等等 我记得我告诉过她
 Wait, I think I remember telling her to use something
 
 244
-00:09:21,777 --> 00:09:22,844
+00:09:21,620 --> 00:09:22,660
 要用别人不知道的东西做密码
 that people wouldn't know about her,
 
 245
-00:09:22,844 --> 00:09:24,927
+00:09:22,660 --> 00:09:24,100
 比如她最喜欢的文学形象
 like her favorite literary character.
 
 246
-00:09:27,299 --> 00:09:27,797
+00:09:26,960 --> 00:09:27,560
 进去了
 I'm in!
 
 247
-00:09:27,797 --> 00:09:29,093
+00:09:27,640 --> 00:09:28,700
 不是吧 是什么
 What? What was it?
 
 248
-00:09:29,093 --> 00:09:30,171
+00:09:29,000 --> 00:09:29,340
 史努比[爱窥探的]
 Snoopy.
 
 249
-00:09:30,409 --> 00:09:31,535
+00:09:30,120 --> 00:09:31,340
 可以当你的新外号了
 And that could be your new nickname.
 
@@ -1249,17 +1249,17 @@ And that could be your new nickname.
 Okay. Find my iPhone.
 
 251
-00:09:36,439 --> 00:09:38,014
+00:09:36,080 --> 00:09:37,580
 不是吧 她在拉斯维加斯
 Oh, no! She's in Vegas.
 
 252
-00:09:38,014 --> 00:09:38,801
+00:09:37,780 --> 00:09:38,460
 你没开玩笑吧
 Are you serious?
 
 253
-00:09:38,801 --> 00:09:40,466
+00:09:38,720 --> 00:09:40,340
 等等 我在放大 等等 等等
 Oh, hang on. I'm zooming in. Hold on, hold on.
 
@@ -1269,7 +1269,7 @@ Oh, hang on. I'm zooming in. Hold on, hold on.
 Let me see what I can, uh...
 
 255
-00:09:43,576 --> 00:09:44,932
+00:09:43,440 --> 00:09:44,240
 快点
 Come on.
 
@@ -1279,7 +1279,7 @@ Come on.
 And -- oh, God!
 
 257
-00:09:47,792 --> 00:09:49,965
+00:09:48,100 --> 00:09:49,680
 亲爱的 她在一间婚礼教堂里
 Honey, she's at a wedding chapel!
 
@@ -1299,7 +1299,7 @@ If she's not with Dylan, who would she be marrying?
 I don't know!
 
 261
-00:09:54,779 --> 00:09:56,404
+00:09:54,780 --> 00:09:56,220
 艾丽克斯 她一定跟你说过什么
 Alex, she had to have told you something!
 
@@ -1319,12 +1319,12 @@ She won't even tell me what conditioner she uses.
 I have 12 minutes! Think!
 
 265
-00:10:03,730 --> 00:10:04,836
+00:10:03,560 --> 00:10:04,680
 我不知道 去问米尔奇舅舅吧
 I don't know. Ask uncle Mitchell.
 
 266
-00:10:04,836 --> 00:10:06,860
+00:10:04,780 --> 00:10:06,180
 她们总是聊男孩子的事
 They're always giggling about boys.
 
@@ -1359,7 +1359,7 @@ Although, they are better at making girls disappear
 than they are finding them.
 
 273
-00:10:18,123 --> 00:10:18,971
+00:10:17,920 --> 00:10:18,360
 什么事
 What?
 
@@ -1374,12 +1374,12 @@ Lily, honey, I need you get Mitchell.
 But they said I could have 20 minute of iPad time.
 
 276
-00:10:23,695 --> 00:10:24,548
+00:10:23,780 --> 00:10:25,400
 米奇尔 米奇尔
 Mitchell? Mitchell?!
 
 277
-00:10:24,548 --> 00:10:27,384
+00:10:25,780 --> 00:10:26,940
 怎么了
 Hey, what's up?
 
@@ -1394,17 +1394,17 @@ I-I really need to talk to Mitchell.
 It's my iPad time!
 
 280
-00:10:31,470 --> 00:10:33,373
+00:10:31,540 --> 00:10:33,320
 宝贝 关于自私这事我怎么跟你说的
 Honey, what did I tell you about being selfish?
 
 281
-00:10:33,373 --> 00:10:34,948
+00:10:33,540 --> 00:10:34,940
 只要克莱尔姨妈买到我要的爆米花
 Aunt Claire needs to speak to other daddy
 
 282
-00:10:34,948 --> 00:10:36,802
+00:10:34,940 --> 00:10:36,760
 她就能跟二爸说话啦
 just as soon as she gets me my popcorn.
 
@@ -1429,17 +1429,17 @@ but right now, I need to talk to Mitchell!
 - Okay, cheese and caramel. - Fine.
 
 287
-00:10:43,819 --> 00:10:44,746
+00:10:43,900 --> 00:10:44,560
 -还有焦糖味的 -记住了
 - And caramel. - Fine.
 
 288
-00:10:44,746 --> 00:10:45,514
+00:10:44,800 --> 00:10:45,340
 怎么了
 Hey, what's up?
 
 289
-00:10:45,514 --> 00:10:49,102
+00:10:45,620 --> 00:10:49,040
 我很确定海莉在赌城结婚了
 So, I'm pretty sure that Haley is getting married in Vegas.
 
@@ -1449,7 +1449,7 @@ So, I'm pretty sure that Haley is getting married in Vegas.
 - What?! - What?!
 
 291
-00:10:49,850 --> 00:10:51,654
+00:10:49,880 --> 00:10:51,220
 我要知道她在和谁约会
 Yeah, I need to know who she's been dating.
 
@@ -1479,22 +1479,22 @@ but I-I guess that could still be thing.
 Oh, hang on, hang on, getting a call from dad.
 
 297
-00:11:03,455 --> 00:11:04,553
+00:11:03,300 --> 00:11:04,180
 快做
 Do the thing.
 
 298
-00:11:05,180 --> 00:11:06,475
+00:11:05,220 --> 00:11:06,180
 做那个可爱的动作
 Do the cute thing.
 
 299
-00:11:06,475 --> 00:11:07,990
+00:11:06,620 --> 00:11:08,120
 -爸 -克莱尔
 - Dad? - Claire?
 
 300
-00:11:07,990 --> 00:11:09,606
+00:11:08,260 --> 00:11:09,200
 -爸 -米奇尔
 - Dad? - Mitchell?
 
@@ -1504,32 +1504,32 @@ Do the cute thing.
 What are you doing in my phone?
 
 302
-00:11:10,592 --> 00:11:11,499
+00:11:10,800 --> 00:11:11,600
 你打给我的 老爸
 You called me, dad.
 
 303
-00:11:11,499 --> 00:11:13,512
+00:11:11,660 --> 00:11:13,520
 我没有 我在跟乔拍视频
 No, I didn't. I'm shooting a video with Joe.
 
 304
-00:11:13,512 --> 00:11:15,277
+00:11:13,680 --> 00:11:14,980
 我现在在你的厨房里吗
 Am I in your kitchen with you?
 
 305
-00:11:15,476 --> 00:11:15,984
+00:11:15,660 --> 00:11:16,020
 不在
 No.
 
 306
-00:11:15,984 --> 00:11:17,709
+00:11:16,120 --> 00:11:17,760
 所以你没在跟乔拍视频
 Then you're not shooting a video with Joe.
 
 307
-00:11:17,709 --> 00:11:21,127
+00:11:17,900 --> 00:11:20,460
 杰 你好 克莱尔要去办点事
 Hi, Jay! Claire was just about to go run an errand!
 
@@ -1554,7 +1554,7 @@ would you mind watching my computer for me for a minute?
 - Thank you so much. - Of course, dear.
 
 312
-00:11:28,533 --> 00:11:30,696
+00:11:28,480 --> 00:11:30,420
 米奇尔 我喜欢这顶新帽子
 Hey, Mitch, I'm liking the new hat.
 
@@ -1584,12 +1584,12 @@ Y-you like one of those tough guys in an old western movie.
 Oh, I guess it is kind of badass.
 
 318
-00:11:40,165 --> 00:11:41,740
+00:11:40,400 --> 00:11:41,560
 如果我把它往后折一点呢
 What if I tilt it a little bit?
 
 319
-00:11:41,740 --> 00:11:42,808
+00:11:41,900 --> 00:11:42,560
 那就毁了
 You ruined it.
 
@@ -1614,12 +1614,12 @@ Well, you're welcome.
 Okay, thank you.
 
 324
-00:11:49,006 --> 00:11:51,698
+00:11:49,280 --> 00:11:51,500
 把你改变人生的爆米花买回来了
 All right, got your life-changing popcorn.
 
 325
-00:11:51,698 --> 00:11:52,775
+00:11:51,980 --> 00:11:52,420
 真棒
 Yes!
 
@@ -1664,57 +1664,57 @@ Whoa, Haley got married?! She is in so much trouble!
 Luke, what have you done to your hair?!
 
 334
-00:12:07,566 --> 00:12:09,280
+00:12:07,960 --> 00:12:09,600
 克莱尔 你这种反应
 Claire, when you react like this,
 
 335
-00:12:09,280 --> 00:12:11,104
+00:12:09,600 --> 00:12:10,840
 正是他想看到的
 you're just giving him what he wants.
 
 336
-00:12:11,174 --> 00:12:13,068
+00:12:11,380 --> 00:12:13,420
 卢克说你知道的
 Luke said that you knew about it!
 
 337
-00:12:13,068 --> 00:12:14,792
+00:12:13,420 --> 00:12:15,020
 我不知道
 I didn't know about it!
 
 338
-00:12:14,792 --> 00:12:16,895
+00:12:15,060 --> 00:12:16,980
 我说有家长知道
 I said a parent knew about it.
 
 339
-00:12:16,895 --> 00:12:18,073
+00:12:17,340 --> 00:12:17,820
 菲尔
 Phil!
 
 340
-00:12:21,630 --> 00:12:22,577
+00:12:21,780 --> 00:12:23,020
 我知道还没到这步
 I know we're not there yet,
 
 341
-00:12:22,577 --> 00:12:24,012
+00:12:23,020 --> 00:12:24,300
 但我在网上搜了婚姻无效条约
 but I've been researching annulments.
 
 342
-00:12:24,012 --> 00:12:25,009
+00:12:24,420 --> 00:12:25,360
 就要到这步了
 Oh, we are there
 
 343
-00:12:25,009 --> 00:12:27,321
+00:12:25,360 --> 00:12:27,080
 因为你同意他剪莫霍克发型
 because you let our child get a Mohawk!
 
 344
-00:12:28,418 --> 00:12:29,426
+00:12:28,820 --> 00:12:29,180
 真棒
 Sweet!
 
@@ -1759,17 +1759,17 @@ who Haley has married in Vegas.
 - Hold on. Someone's at the door.- Okay.
 
 353
-00:12:43,060 --> 00:12:44,087
+00:12:43,380 --> 00:12:44,520
 海莉在赌城吗
 So, Haley's in Vegas?
 
 354
-00:12:44,087 --> 00:12:46,050
+00:12:44,620 --> 00:12:46,460
 -对 -你想的话 我可以打给安迪
 - Yes. - If you want, I can call Andy.
 
 355
-00:12:46,050 --> 00:12:48,283
+00:12:46,460 --> 00:12:48,300
 他也在 也许他能找到她
 He's there, too. Maybe he can find her.
 
@@ -1834,22 +1834,22 @@ I would hope she would have the decency
 and the self-control--
 
 368
-00:13:06,543 --> 00:13:08,686
+00:13:07,100 --> 00:13:09,160
 天呐 她嫁给了安迪
 Oh, my God! Oh, my god, she married Andy!
 
 369
-00:13:08,686 --> 00:13:09,863
+00:13:09,220 --> 00:13:10,340
 我就知道她还喜欢他
 I knew she was still into him.
 
 370
-00:13:09,863 --> 00:13:11,856
+00:13:10,420 --> 00:13:12,080
 她说他俩不合适 但我就说
 She said he wasn't her type, but I'm like,
 
 371
-00:13:11,866 --> 00:13:14,398
+00:13:12,340 --> 00:13:14,300
 "他是个男的 有呼吸的男的"
 "He's a man. He's breathing."
 
@@ -1889,32 +1889,32 @@ He's a stand-up guy.
 Well, that seems like an invasion of her priv--
 
 379
-00:13:29,668 --> 00:13:31,651
+00:13:30,500 --> 00:13:31,620
 打开
 Open it!
 
 380
-00:13:35,359 --> 00:13:37,333
+00:13:35,700 --> 00:13:37,400
 《孕期指南》
 "What to expect when you're expecting."
 
 381
-00:13:37,333 --> 00:13:38,738
+00:13:37,900 --> 00:13:38,980
 老天啊
 Oh, my god!
 
 382
-00:13:38,738 --> 00:13:40,921
+00:13:39,080 --> 00:13:40,940
 我就说他是个正"直"的男人
 I told you he was a stand-up guy.
 
 383
-00:13:48,955 --> 00:13:50,031
+00:13:47,940 --> 00:13:49,220
 她不接电话 菲尔
 She's not answering, phil.
 
 384
-00:13:50,031 --> 00:13:50,829
+00:13:49,260 --> 00:13:49,960
 你在给安迪打电话吗
 Are you calling andy?
 
@@ -2039,107 +2039,107 @@ His last name is Bailey?
 Oh, my god, she's gonna be Haley Bailey.
 
 409
-00:14:39,500 --> 00:14:41,593
+00:14:38,700 --> 00:14:40,700
 -等等 我想到一件事 -什么事
 - Wait. I just thought of something. - What?
 
 410
-00:14:41,593 --> 00:14:43,128
+00:14:40,700 --> 00:14:42,480
 我成了家里第一个
 I'm going to be the first woman in my family
 
 411
-00:14:43,128 --> 00:14:45,301
+00:14:42,480 --> 00:14:44,080
 没因为怀孕从大学退学的女人
 not to get pregnant and drop out of college.
 
 412
-00:14:45,760 --> 00:14:47,653
+00:14:45,040 --> 00:14:47,080
 也许我论文该写这个
 Ooh, maybe that should be my essay.
 
 413
-00:14:47,653 --> 00:14:49,099
+00:14:47,140 --> 00:14:48,500
 老娘大学毕业了啊
 I graduated from college.
 
 414
-00:14:49,099 --> 00:14:50,674
+00:14:48,540 --> 00:14:50,060
 没错 而且海莉退学时
 Yeah, and haley got kicked out of college
 
 415
-00:14:50,674 --> 00:14:51,900
+00:14:50,060 --> 00:14:51,020
 还没怀孕呢
 before she got pregnant.
 
 416
-00:14:51,900 --> 00:14:55,837
+00:14:51,360 --> 00:14:54,660
 等一下 亲爱的 我给你发张图片
 Okay, hang on, honey. I am sending you a picture.
 
 417
-00:14:55,837 --> 00:14:59,465
+00:14:55,120 --> 00:14:58,220
 你觉得这个纵火犯像留胡子的安迪吗
 Do you think that this arsonist looks like Andy with a beard?
 
 418
-00:14:59,983 --> 00:15:02,226
+00:14:59,380 --> 00:15:01,600
 不 他不是纵火犯
 No. He's not an arsonist.
 
 419
-00:15:02,226 --> 00:15:04,080
+00:15:01,720 --> 00:15:03,380
 歌洛莉亚请他照顾孩子呢
 Gloria hired him to take care of her baby.
 
 420
-00:15:04,080 --> 00:15:05,695
+00:15:03,580 --> 00:15:05,120
 对了 问问歌洛莉亚
 Gloria. Right, of course.
 
 421
-00:15:05,695 --> 00:15:07,329
+00:15:05,140 --> 00:15:06,780
 你知道她保护欲有多强
 You know how protective she is.
 
 422
-00:15:07,329 --> 00:15:09,462
+00:15:06,780 --> 00:15:08,380
 她肯定仔细查过他的底细
 I'm sure she had him thoroughly vetted.
 
 423
-00:15:10,329 --> 00:15:11,057
+00:15:09,680 --> 00:15:10,160
 你好
 Hola!
 
 424
-00:15:11,057 --> 00:15:12,761
+00:15:10,600 --> 00:15:12,120
 歌洛莉亚 你在哪找到的安迪
 Gloria, where did you find Andy?
 
 425
-00:15:12,761 --> 00:15:14,954
+00:15:12,220 --> 00:15:14,260
 公园里 当时他在追小孩
 At the park, chasing some children.
 
 426
-00:15:14,954 --> 00:15:17,018
+00:15:14,500 --> 00:15:16,140
 -天呐 -我再给他打电话
 - Oh, my god. - I'm gonna call him again.
 
 427
-00:15:17,356 --> 00:15:18,662
+00:15:16,740 --> 00:15:17,960
 老妈快看
 Hey, mom, check it out.
 
 428
-00:15:18,662 --> 00:15:20,225
+00:15:18,200 --> 00:15:19,660
 天呐 卢克你做了什么
 God, Luke, what have you done?!
 
 429
-00:15:20,225 --> 00:15:22,918
+00:15:19,820 --> 00:15:21,900
 就是 他有什么必要叛逆
 I know. What does he have to rebel against?
 
@@ -2254,7 +2254,7 @@ Claire, don't do that.
 Yes, Claire, don't do that!
 
 452
-00:16:40,595 --> 00:16:41,503
+00:16:40,060 --> 00:16:40,620
 听着
 Look...
 
@@ -2294,17 +2294,17 @@ We don't know anything for sure yet.
 So take a deep breath...
 
 460
-00:16:55,217 --> 00:16:57,091
+00:16:54,600 --> 00:16:56,440
 放下爆米花
 ...put the popcorn down...
 
 461
-00:16:57,440 --> 00:16:58,905
+00:16:56,800 --> 00:17:00,420
 然后振...
 And just get your...
 
 462
-00:17:01,437 --> 00:17:02,902
+00:17:01,200 --> 00:17:02,160
 太不地道了 外婆
 Not cool, grandma!
 
@@ -2364,27 +2364,27 @@ I'm sorry. I wasn't that helpful. Are you okay?
 Our little baby got married without us.
 
 474
-00:17:35,845 --> 00:17:37,569
+00:17:35,900 --> 00:17:36,960
 我本应该送她出嫁的
 I was supposed to give her away.
 
 475
-00:17:38,396 --> 00:17:39,483
+00:17:38,240 --> 00:17:39,580
 我本应该牵着她的手走过红毯
 I was supposed to walk her down the aisle
 
 476
-00:17:39,483 --> 00:17:41,765
+00:17:39,580 --> 00:17:41,040
 然后对她的未来丈夫这样说
 and give her husband-to-be one of these.
 
 477
-00:17:42,403 --> 00:17:43,919
+00:17:42,160 --> 00:17:43,340
 她是我的宝贝女儿
 "That's my baby girl.
 
 478
-00:17:44,566 --> 00:17:46,042
+00:17:44,360 --> 00:17:45,740
 你一定要照顾好她
 You take care of her."
 
@@ -2399,42 +2399,42 @@ You take care of her."
 I got to call my dad.
 
 481
-00:17:48,762 --> 00:17:49,311
+00:17:48,780 --> 00:17:49,400
 拜托别告诉他
 Please don't tell him
 
 482
-00:17:49,311 --> 00:17:51,065
+00:17:49,400 --> 00:17:50,480
 她是在我的看管下离开的
 I was in charge when she left.
 
 483
-00:17:54,494 --> 00:17:56,268
+00:17:54,360 --> 00:17:56,040
 喂 看得到我吗
 Hello. Can you see me?
 
 484
-00:17:56,268 --> 00:17:57,554
+00:17:56,340 --> 00:17:57,000
 手指头 爸
 Thumb, dad.
 
 485
-00:17:58,431 --> 00:17:59,856
+00:17:58,360 --> 00:17:59,920
 他们淘汰老式旋转电话的那一刻
 The minute they got rid of rotary phones,
 
 486
-00:17:59,856 --> 00:18:01,242
+00:17:59,920 --> 00:18:00,780
 一切都完蛋了
 everything went to hell.
 
 487
-00:18:01,242 --> 00:18:04,312
+00:18:00,780 --> 00:18:03,660
 爸 真抱歉我以前私奔了
 Dad, I'm really sorry that I eloped.
 
 488
-00:18:04,561 --> 00:18:06,146
+00:18:04,560 --> 00:18:05,880
 你是个非常优秀的老爸
 You were a great dad,
 
@@ -2459,27 +2459,27 @@ and I've never apologized for taking that away from you.
 Well, we got to do that thing in Hawaii, and that was nice.
 
 493
-00:18:14,937 --> 00:18:17,289
+00:18:15,000 --> 00:18:17,320
 是 真是一报还一报啊
 Yeah. Guess what goes around comes around, huh?
 
 494
-00:18:17,289 --> 00:18:20,469
+00:18:17,380 --> 00:18:20,420
 你现在正处在龙卷风的中心
 Look...you're in the eye of the tornado right now,
 
 495
-00:18:20,469 --> 00:18:21,725
+00:18:20,420 --> 00:18:21,900
 除了看到你的生活席卷而来
 and you can't see anything but
 
 496
-00:18:21,725 --> 00:18:23,728
+00:18:21,900 --> 00:18:23,500
 其它都看不到
 your life swirling around you.
 
 497
-00:18:24,227 --> 00:18:27,476
+00:18:24,180 --> 00:18:27,060
 不过安迪是个好孩子 跟菲尔一样
 But Andy's a good guy, just like Phil,
 
@@ -2494,17 +2494,17 @@ and years from now, you might look back on this
 and think, "The best thing that could've happened...
 
 500
-00:18:34,493 --> 00:18:37,055
+00:18:34,180 --> 00:18:36,620
 那个傻瓜把我女儿的肚子搞大了"
 was that dipstick knocking up my daughter."
 
 501
-00:18:38,699 --> 00:18:40,056
+00:18:38,500 --> 00:18:39,640
 太感人了
 That's so sweet.
 
 502
-00:18:40,135 --> 00:18:41,580
+00:18:40,380 --> 00:18:41,580
 -他一直在听吗 -是的
 - Was he listening?! - Yeah.
 
@@ -2529,7 +2529,7 @@ I take it all back!
 I am trying to fix it!
 
 507
-00:18:47,222 --> 00:18:50,112
+00:18:47,620 --> 00:18:49,760
 歌洛莉亚在跟我说话 有些是英语
 Gloria's talking to me. Some of it's in English.
 
@@ -2539,7 +2539,7 @@ Gloria's talking to me. Some of it's in English.
 Claire, Claire! Look, look, I fix Luke's hair!
 
 509
-00:18:54,388 --> 00:18:56,162
+00:18:54,620 --> 00:18:56,060
 老天呐 他看起来像善璞
 Oh, my god, he looks like Shemp!
 
@@ -2549,17 +2549,17 @@ Oh, my god, he looks like Shemp!
 Okay, yes, it's true, but --
 
 511
-00:18:57,608 --> 00:19:00,339
+00:18:57,960 --> 00:19:00,600
 也许如果我把这面再剪短一点...
 but maybe if I cut a little bit more on the sides or in --
 
 512
-00:19:00,339 --> 00:19:01,814
+00:19:00,600 --> 00:19:01,920
 不 不要 别再剪了
 Oh, no, no, no. No more cutting.
 
 513
-00:19:01,814 --> 00:19:03,867
+00:19:02,100 --> 00:19:03,660
 给我个机会习惯下就好了
 Just give me a chance to get used to it.
 
@@ -2569,42 +2569,42 @@ Just give me a chance to get used to it.
 - Oh, it's Haley! Haley's calling! - What?!
 
 515
-00:19:06,907 --> 00:19:09,231
+00:19:08,080 --> 00:19:08,860
 妈妈
 Hi, mom.
 
 516
-00:19:09,379 --> 00:19:09,871
+00:19:09,600 --> 00:19:10,320
 就跟我说这个吗
 "Hi, mom"?!
 
 517
-00:19:09,871 --> 00:19:12,808
+00:19:10,540 --> 00:19:12,720
 我们一整天都试图联系你
 We have been trying to get in touch with you all day!
 
 518
-00:19:12,808 --> 00:19:14,901
+00:19:12,980 --> 00:19:15,000
 -我一直在床上 -天呐
 - I've been in bed. - Oh, goodness.
 
 519
-00:19:14,901 --> 00:19:15,878
+00:19:15,180 --> 00:19:16,680
 我们不需要听细节
 I don't think we need to hear the details.
 
 520
-00:19:15,878 --> 00:19:18,818
+00:19:16,880 --> 00:19:18,080
 海莉 我们都知道了
 Haley... we know everything.
 
 521
-00:19:18,818 --> 00:19:20,593
+00:19:19,000 --> 00:19:20,840
 我明白你为什么对我们隐瞒此事
 And I understand why you hid it from us,
 
 522
-00:19:20,593 --> 00:19:23,413
+00:19:20,860 --> 00:19:23,300
 尽管我们很不高兴 年轻的女士
 and while we are not happy, young lady,
 
@@ -2614,7 +2614,7 @@ and while we are not happy, young lady,
 we're gonna work this out.
 
 524
-00:19:24,859 --> 00:19:27,879
+00:19:25,440 --> 00:19:27,780
 在我承认什么事之前
 Uh, before I admit to anything,
 
@@ -2624,32 +2624,32 @@ Uh, before I admit to anything,
 maybe you could be more specific?
 
 526
-00:19:32,255 --> 00:19:34,109
+00:19:32,500 --> 00:19:33,960
 海莉 你在家啊
 Haley! You're home!
 
 527
-00:19:34,109 --> 00:19:36,351
+00:19:34,320 --> 00:19:36,380
 是啊 我一整天都在家 一直在睡觉
 Yeah, I've been home all day. I've been sleeping.
 
 528
-00:19:36,351 --> 00:19:37,913
+00:19:36,660 --> 00:19:37,800
 这么说你没结婚
 So, you didn't get married?!
 
 529
-00:19:37,913 --> 00:19:40,067
+00:19:38,660 --> 00:19:40,360
 结婚 我为什么要结婚
 Married?! Why would I get married?!
 
 530
-00:19:40,067 --> 00:19:42,073
+00:19:40,500 --> 00:19:42,120
 因为你怀了安迪的孩子
 Because you're pregnant with Andy's baby!
 
 531
-00:19:42,073 --> 00:19:44,512
+00:19:42,420 --> 00:19:44,480
 什么 你为什么会那样想
 What?! Why would you think that?!
 
@@ -2664,7 +2664,7 @@ Because you changed your Facebook status to "Married"
 and then we tracked your cellphone
 
 534
-00:19:48,412 --> 00:19:50,405
+00:19:48,800 --> 00:19:50,200
 到赌城的一间婚礼教堂
 to a wedding chapel in Vegas.
 
@@ -2674,22 +2674,22 @@ to a wedding chapel in Vegas.
 And you ordered this book!
 
 536
-00:19:51,940 --> 00:19:54,253
+00:19:52,000 --> 00:19:54,460
 首先 这叫隐私
 Wow, first of all, it's called privacy.
 
 537
-00:19:54,253 --> 00:19:54,861
+00:19:54,740 --> 00:19:55,300
 不信去查
 Google it.
 
 538
-00:19:54,861 --> 00:19:56,456
+00:19:55,360 --> 00:19:56,620
 第二 我嫁给了一个甜甜圈
 Second, I married a cronut.
 
 539
-00:19:56,456 --> 00:19:57,304
+00:19:56,860 --> 00:19:57,140
 什么
 What?
 
@@ -2744,12 +2744,12 @@ because he's designing maternity clothes
 and he wants to get inside the mind of preggos!
 
 550
-00:20:17,676 --> 00:20:18,703
+00:20:18,120 --> 00:20:18,820
 谢天谢地
 Thank god!
 
 551
-00:20:18,703 --> 00:20:20,946
+00:20:19,020 --> 00:20:20,900
 真是松了一口气
 I'm so relieved!
 
@@ -2774,17 +2774,17 @@ I unfriended you.
 She's Brody Kendall.
 
 556
-00:20:28,461 --> 00:20:29,807
+00:20:28,620 --> 00:20:30,260
 天呐 真恶心
 Oh, my god, gross!
 
 557
-00:20:29,807 --> 00:20:32,000
+00:20:30,260 --> 00:20:31,940
 我居然一直在跟我妈玩糖果粉粹机
 I've been playing Candy Crush with my mother!
 
 558
-00:20:32,000 --> 00:20:33,655
+00:20:32,320 --> 00:20:33,600
 你是怎么追踪到我的手机的
 How did you track my phone?
 
@@ -2799,7 +2799,7 @@ Well, I don't think that really matters,
 and there's a perfectly reasona--
 
 561
-00:20:41,708 --> 00:20:45,007
+00:20:41,920 --> 00:20:45,240
 省省吧 我能看到你后面有人走过
 Oh, cut it out. I can see people walking behind you.
 

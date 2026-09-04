@@ -1,10 +1,10 @@
 1
-00:00:04,938 --> 00:00:06,845
+00:00:05,160 --> 00:00:05,560
 麦克
 Mike.
 
 2
-00:00:09,142 --> 00:00:10,131
+00:00:09,460 --> 00:00:09,860
 Mike.
 
 3
@@ -83,7 +83,7 @@ Just don't think for a minute I bought into your act...
 and thanks for going to the trouble of trying to deceive me.
 
 18
-00:01:01,461 --> 00:01:03,973
+00:01:01,940 --> 00:01:02,500
 随时乐意
 Anytime.
 
@@ -168,7 +168,7 @@ How, oh, how, will I ever top that?
 Well, I've got the perfect present.
 
 35
-00:02:06,426 --> 00:02:07,300
+00:02:06,360 --> 00:02:06,860
 是什么？
 What?
 
@@ -287,7 +287,7 @@ I'm a master communicator.
 Nothing exciting happened with any of your patients?
 
 59
-00:04:24,380 --> 00:04:25,260
+00:04:23,800 --> 00:04:25,020
 没，没，没
 No, no, no.
 
@@ -307,7 +307,7 @@ Fred Mathis called me into his office...
 and assigned me an entire series for next week.
 
 63
-00:04:35,275 --> 00:04:36,680
+00:04:35,180 --> 00:04:35,680
 是吗？
 Really?
 
@@ -317,7 +317,7 @@ Really?
 "Let's get serious about raw sewage."
 
 65
-00:04:43,116 --> 00:04:43,940
+00:04:43,080 --> 00:04:43,640
 哇!
 Wow!
 
@@ -412,7 +412,7 @@ So how much you spending?
 I don't know. How much you gonna spend?
 
 84
-00:05:45,720 --> 00:05:48,200
+00:05:45,720 --> 00:05:48,420
 -需要多少就多少 -不能超过10块
 - As much as it takes. - Okay, but not over $10.
 
@@ -422,7 +422,7 @@ I don't know. How much you gonna spend?
 $10? I only get $2 a week.
 
 86
-00:05:53,680 --> 00:05:54,960
+00:05:53,680 --> 00:05:55,160
 好吧，10块差不多了
 Okay, I can live with $10.
 
@@ -444,12 +444,12 @@ Of course, with a card it might cost a little more.
 - Mike. - All right, all right. $11.
 
 90
-00:06:08,968 --> 00:06:10,873
+00:06:08,620 --> 00:06:09,900
 -15块 -凯罗
 - $15. - Carol.
 
 91
-00:06:12,580 --> 00:06:13,480
+00:06:12,580 --> 00:06:13,920
 好吧，25块
 All right, okay. $25.
 
@@ -624,7 +624,7 @@ Ben, your father is not expecting...
 - a big expensive gift from you. - He isn't?
 
 126
-00:08:28,241 --> 00:08:29,784
+00:08:28,600 --> 00:08:29,160
 是的
 No.
 
@@ -634,7 +634,7 @@ No.
 He doesn't care what you get him.
 
 128
-00:08:36,182 --> 00:08:37,590
+00:08:36,040 --> 00:08:36,600
 唉
 Great.
 
@@ -719,7 +719,7 @@ Ben, you can't pray for money. Believe me, I've tried.
 You actually think God's gonna send you a check or something?
 
 145
-00:09:44,450 --> 00:09:45,791
+00:09:44,320 --> 00:09:44,960
 阿门
 Amen.
 
@@ -934,7 +934,7 @@ Yes, look at that.
 - I can take it back. - No.
 
 188
-00:12:22,341 --> 00:12:26,883
+00:12:22,400 --> 00:12:26,720
 这好极了 钓到每一条鱼我都会想起你
 No, this is perfect. Every time I kill a fish, I'll think of you.
 
@@ -979,7 +979,7 @@ Look at this! "Superstars of the '60s."
 Yes. See, everybody on this album died of a drug overdose.
 
 197
-00:13:01,280 --> 00:13:02,455
+00:13:01,420 --> 00:13:01,740
 妙极了
 Groovy.
 
@@ -1079,7 +1079,7 @@ this is fabulous.
 Jason, I didn't.
 
 217
-00:14:02,022 --> 00:14:03,974
+00:14:02,040 --> 00:14:02,560
 本.
 Ben...
 
@@ -1099,7 +1099,7 @@ Even an idiot could work it.
 - Ben, where'd you get this? - At Newstrom's Camera Store.
 
 221
-00:14:13,820 --> 00:14:16,040
+00:14:13,820 --> 00:14:16,520
 满300块送皮套一个
 They throw in a leather case every time you spend over $300.
 
@@ -1194,7 +1194,7 @@ but Mom knows raw sewage when she sees it.
 Carol, I am her firstborn. You might say the woman is putty in my hands.
 
 240
-00:15:33,132 --> 00:15:34,121
+00:15:35,060 --> 00:15:35,540
 Oh?
 
 241
@@ -1253,7 +1253,7 @@ Did I mention that the camera is self-winding?
 - Ben. - And automatic focus?
 
 252
-00:16:10,417 --> 00:16:12,229
+00:16:10,520 --> 00:16:11,000
 是吗？
 Really?
 
@@ -1347,12 +1347,12 @@ That is your bedtime, Ben.
 Oh, yeah.
 
 271
-00:17:08,200 --> 00:17:11,800
+00:17:08,200 --> 00:17:12,180
 要么罚我25岁才能拿驾照
 Okay, then, I don't get my driver's license until I'm 25.
 
 272
-00:17:14,100 --> 00:17:16,160
+00:17:14,100 --> 00:17:17,040
 -算了，惩罚还是我决定吧 -26岁？
 - Forget it. I'll decide your punishment. - 26?
 
@@ -1622,7 +1622,7 @@ Well, let me tell you a little secret...
 and this is something I've never told you kids before.
 
 326
-00:20:08,955 --> 00:20:10,432
+00:20:09,200 --> 00:20:09,760
 什么？
 Yeah?
 
@@ -1817,12 +1817,12 @@ I'm sorry I went soft on you.
 - Well, that's okay. I kinda like you soft. - You do?
 
 365
-00:22:42,640 --> 00:22:46,212
+00:22:42,640 --> 00:22:46,340
 其实让你唱红脸也是好事情
 Well, actually, it was pretty nice having you be the bad cop, for a change.
 
 366
-00:22:46,212 --> 00:22:48,129
+00:22:46,660 --> 00:22:47,020
 是吗？
 Really?
 

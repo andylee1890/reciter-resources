@@ -299,12 +299,12 @@ It stinks, but I am still gonna have so much fun
 visiting all my favorite places
 
 61
-00:02:04,020 --> 00:02:05,830
+00:02:04,020 --> 00:02:05,840
 当年在那里短期留学时最爱的地方
 from the semester I spent there in college.
 
 62
-00:02:05,830 --> 00:02:07,205
+00:02:05,980 --> 00:02:07,080
 房地产紧急事件
 Real-estate emergency.
 
@@ -479,7 +479,7 @@ Oh, come on. You know it's always been my dream to --
 to bring the magic of Fizbo to the streets of Paris.
 
 97
-00:03:28,596 --> 00:03:29,920
+00:03:28,720 --> 00:03:29,820
 你并不是倒不过来时差
 You're not jet-lagged.
 
@@ -714,7 +714,7 @@ I'm -- I'm so sorry.
 Have a nice visit.
 
 144
-00:05:27,251 --> 00:05:28,194
+00:05:27,520 --> 00:05:28,080
 不好意西
 Excusez-moi.
 
@@ -739,7 +739,7 @@ Mona Lisa? McDonald's?
 Both are that way.
 
 149
-00:05:35,551 --> 00:05:38,800
+00:05:35,560 --> 00:05:38,220
 先提醒你 我们法国这里餐点都是正常大小
 Heads up, the portions here are normal-size.
 
@@ -799,12 +799,12 @@ Burl Saunders!
 Close. Earl Chambers.
 
 161
-00:06:11,760 --> 00:06:12,998
+00:06:11,760 --> 00:06:13,020
 得奖的人不是杰
 Jay isn't getting the award.
 
 162
-00:06:12,998 --> 00:06:15,580
+00:06:13,240 --> 00:06:15,440
 他是来替他的前搭档厄尔领奖的人
 He's accepting it on behalf of his ex-partner, Earl.
 
@@ -1019,7 +1019,7 @@ Oh, my God. What are you doing here?
 Claire, you know this Guy?
 
 205
-00:07:46,527 --> 00:07:48,557
+00:07:46,840 --> 00:07:48,660
 以前认识的啦
 Well, um...I used to.
 
@@ -1254,7 +1254,7 @@ Bonjour.
 B-Bonjour.
 
 252
-00:09:35,880 --> 00:09:36,360
+00:09:38,160 --> 00:09:38,640
 你好
 Bonjour.
 
@@ -1309,7 +1309,7 @@ Well, there's nothing more beautiful than a life creating life,
 - which in turn -- - Creates more life.
 
 263
-00:10:16,162 --> 00:10:19,196
+00:10:16,240 --> 00:10:19,040
 克莱尔和我该走了
 Well, uh...Claire and I should get going.
 
@@ -1779,12 +1779,12 @@ I was the imposteur.
 If that's the word.
 
 357
-00:13:38,580 --> 00:13:40,158
+00:13:38,580 --> 00:13:40,180
 我高中的语言课
 For my high school language requirement,
 
 358
-00:13:40,158 --> 00:13:41,728
+00:13:40,240 --> 00:13:41,380
 我选修了拍卖语言
 I took auction-calling.
 
@@ -2239,7 +2239,7 @@ I mean, I thought Fizbo was all about joy.
 He is. He's the embodiment of childlike innocence.
 
 449
-00:17:13,440 --> 00:17:13,560
+00:17:13,440 --> 00:17:13,500
 这就对了
 Exactly.
 

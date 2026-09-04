@@ -104,12 +104,12 @@ Hi. Um, this is my husband, Phil.
 - Desiree just moved in down the block. - Fun. Where?
 
 22
-00:01:16,180 --> 00:01:17,399
+00:01:16,180 --> 00:01:17,420
 -314 -是嘛
 - 314. - Oh!
 
 23
-00:01:17,399 --> 00:01:20,866
+00:01:17,420 --> 00:01:20,480
 就那栋双卧室别墅 室内外兼配家庭活动室
 The two-bedroom cottage with the indoor-outdoor family room.
 
@@ -184,7 +184,7 @@ We'll have to have you over sometime.
 Heard she already slept with two dads from the school.
 
 38
-00:01:52,743 --> 00:01:54,560
+00:01:52,940 --> 00:01:53,860
 -什么 -就是
 - What? - Mm-hmm.
 
@@ -794,7 +794,7 @@ We're all over here taking turns blowing bubbles.
 Well, how nice for... the babies.
 
 160
-00:06:58,689 --> 00:06:59,527
+00:06:59,320 --> 00:06:59,660
 是啊
 Mm-hmm.
 
@@ -1149,7 +1149,7 @@ for... dry skin and, you know, calloused hands.
 Yeah, it's a candle.
 
 231
-00:10:30,812 --> 00:10:32,482
+00:10:31,200 --> 00:10:32,580
 -完了 -怎么了
 - Uh-oh. - What's wrong?
 
@@ -1579,12 +1579,12 @@ I don't wanna be with you either. I'm gonna go wait for my dad.
 You know what? I wish you never married my mom.
 
 317
-00:14:19,140 --> 00:14:21,859
+00:14:19,140 --> 00:14:21,880
 -我讨厌住在这里 -你以为我喜欢这样
 - I hate living here. - You think I like this arrangement?
 
 318
-00:14:21,859 --> 00:14:24,420
+00:14:22,180 --> 00:14:24,400
 我有两辆跑车闲置在车道上
 I got a two-seater parked in the driveway!
 
@@ -1639,7 +1639,7 @@ So, where were you when it got stolen?
 Oh, I was getting some gas.
 
 329
-00:14:52,400 --> 00:14:54,480
+00:14:51,920 --> 00:14:54,480
 是吗 你加油的时候竟然不在车旁边吗
 Uh-huh. You don't stand near the car when you get gas?
 

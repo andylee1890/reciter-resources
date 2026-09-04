@@ -1034,12 +1034,12 @@ All--all right. Thank you, Serena.
 See you tonight.
 
 208
-00:07:48,553 --> 00:07:51,134
+00:07:48,800 --> 00:07:51,080
 好消息 他们帮我把按摩时间调早上了
 Good news--they rescheduled my massage for the morning.
 
 209
-00:07:51,504 --> 00:07:52,815
+00:07:51,580 --> 00:07:52,720
 坏消息是按摩师换成男的了
 Bad news--it's a dude.
 
@@ -1169,7 +1169,7 @@ Okay. That's all I see now.
 - How about this one? - Okay. Um...
 
 235
-00:08:39,177 --> 00:08:41,563
+00:08:39,040 --> 00:08:41,440
 毛绒兔子失踪 毛色灰白相间
 "Missing--stuffed bunny. Brown and white fur.
 
@@ -1184,7 +1184,7 @@ Sympathetic eyes." What are sympathetic eyes?
 Not those.
 
 238
-00:08:45,881 --> 00:08:47,680
+00:08:46,100 --> 00:08:47,680
 我只是 没法接受
 I just--I don't really love the idea
 
@@ -1209,7 +1209,7 @@ How about I be the problem, and you be the solution?
 I'm sorry. I shouldn't be so critical.
 
 243
-00:08:55,510 --> 00:08:57,490
+00:08:55,500 --> 00:08:57,460
 我知道你不过是想 有了
 I know you're just trying to--got it!
 
@@ -1809,7 +1809,7 @@ And didn't it make you stronger?
 Yeah, because I was a growing boy
 
 363
-00:13:43,100 --> 00:13:44,500
+00:13:43,100 --> 00:13:44,320
 而动物肉富含了蛋白质 高营养
 and they were chock-full of protein.
 
@@ -1959,7 +1959,7 @@ You're closer.
 It's your journey. Luke Skywalker?
 
 393
-00:14:32,460 --> 00:14:34,060
+00:14:32,700 --> 00:14:33,980
 想想"超越自我" 想想你爹 快去
 Pattern-breaking? Your father? Get in there.
 
@@ -2049,7 +2049,7 @@ Now it's not technically a-a passenger train,
 So we gotta get running real good.
 
 411
-00:15:26,159 --> 00:15:28,380
+00:15:26,160 --> 00:15:28,380
 高跟鞋就算了吧 还有带上那毛毯
 No high-heeled shoes. And it wouldn't be wrong
 
@@ -2579,7 +2579,7 @@ Well, your loss is my gain.
 It really is.
 
 517
-00:20:17,731 --> 00:20:18,833
+00:20:16,340 --> 00:20:18,640
 -不对 -咋了
 - Uh-oh. - What?
 

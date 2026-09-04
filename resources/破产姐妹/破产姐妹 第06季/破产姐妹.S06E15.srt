@@ -54,7 +54,7 @@ a robot in a bowtie.
 This is a room service robot that delivers food.
 
 12
-00:00:34,960 --> 00:00:36,280
+00:00:34,960 --> 00:00:36,660
 我阿姨的假日酒店倒闭了
 My aunt's Holiday Inn went belly-up.
 
@@ -824,7 +824,7 @@ I thought I left you at the apartment.
 Which is what my abductor said
 
 166
-00:07:09,920 --> 00:07:10,880
+00:07:09,920 --> 00:07:11,480
 在冰激凌店遇到我时也这么说
 when I ran into him at Baskin-Robbins.
 

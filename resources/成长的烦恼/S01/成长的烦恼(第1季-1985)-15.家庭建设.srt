@@ -138,7 +138,7 @@ you'll lose your phone privileges, your stereo...
 and your allowance for two months.
 
 29
-00:02:33,253 --> 00:02:34,754
+00:02:33,460 --> 00:02:33,900
 妈妈
 Mom.
 
@@ -188,7 +188,7 @@ Well, I just thought, I mean, in light of our new relationship and all...
 that we could work here.
 
 39
-00:03:01,614 --> 00:03:03,525
+00:03:02,360 --> 00:03:02,800
 关系？
 Relationship?
 
@@ -233,7 +233,7 @@ Come on, guys, I can feel the love in this room.
 So, what brought you two kids together, anyway?
 
 48
-00:03:35,782 --> 00:03:37,431
+00:03:36,040 --> 00:03:36,560
 命运的安排
 Destiny.
 
@@ -253,7 +253,7 @@ so they wouldn't pick you.
 What? Richie, you bought me?
 
 52
-00:03:47,660 --> 00:03:49,174
+00:03:47,740 --> 00:03:48,260
 是的
 Yeah.
 
@@ -283,7 +283,7 @@ I can see the headlines now: "Carol Seaver gets an F. Nation in shock.
 "President to fly back from Santa Barbara."
 
 58
-00:04:08,681 --> 00:04:10,161
+00:04:08,980 --> 00:04:09,460
 麦克
 Mike.
 
@@ -332,7 +332,7 @@ Listen, Jason. Why don't you take a break?
 I've really got to get this done.
 
 68
-00:04:47,920 --> 00:04:48,909
+00:04:47,980 --> 00:04:48,420
 Oh.
 
 69
@@ -376,12 +376,12 @@ Mike must have been about eight years old. Wasn't he a cutie-pie?
 I believe the word his second grade teacher used was "devil boy."
 
 77
-00:05:18,980 --> 00:05:21,120
+00:05:18,980 --> 00:05:21,360
 可她住院后，麦克送她卡片了
 Oh, come on, he sent her a card in the hospital.
 
 78
-00:05:21,120 --> 00:05:22,432
+00:05:21,360 --> 00:05:21,700
 是啊
 Yeah.
 
@@ -406,7 +406,7 @@ Yeah, little Ben. He was always such a happy baby.
 Yeah. I remember the way he used to laugh every time he'd fill a diaper.
 
 83
-00:05:39,072 --> 00:05:40,452
+00:05:39,360 --> 00:05:39,920
 是啊
 Yeah.
 
@@ -426,7 +426,7 @@ and I saw Jessica take her first steps.
 It was so exciting.
 
 87
-00:05:52,020 --> 00:05:53,920
+00:05:52,020 --> 00:05:54,420
 是很有意思，那孩子都17岁了
 I would think so. The girl's 17.
 
@@ -576,7 +576,7 @@ Mike.
 No, it's all right, Carol, I'll handle this.
 
 117
-00:07:51,437 --> 00:07:52,650
+00:07:51,440 --> 00:07:51,880
 麦克
 Mike...
 
@@ -686,7 +686,7 @@ and I'll pay you back for that.
 - That, plus $30. - $30?
 
 139
-00:09:06,112 --> 00:09:07,428
+00:09:06,520 --> 00:09:06,880
 手续费
 Overhead.
 
@@ -1181,7 +1181,7 @@ Well, if that's the way you feel about it, have your own darn baby.
 I could if I wanted to.
 
 238
-00:15:04,957 --> 00:15:06,499
+00:15:06,100 --> 00:15:06,700
 麦姬.
 Maggie...
 
@@ -1336,7 +1336,7 @@ How's the man supposed to defend our country in wrinkled pants?
 Oh, my cookies are ready, Michael. And I like them hot.
 
 269
-00:17:26,499 --> 00:17:28,139
+00:17:27,000 --> 00:17:27,560
 好的
 Right.
 
@@ -1351,7 +1351,7 @@ Channel 7, Mike.
 My cookies, Michael. I could swear I smell them burning.
 
 272
-00:17:48,087 --> 00:17:49,761
+00:17:48,760 --> 00:17:49,060
 好的
 Right.
 
@@ -1371,7 +1371,7 @@ Seaver residence. Home of the Royal Ben...
 Jennifer, hi.
 
 276
-00:18:03,402 --> 00:18:05,144
+00:18:03,720 --> 00:18:04,520
 珍妮？
 Jennifer?
 
@@ -1561,12 +1561,12 @@ Jason, what if he's a girl?
 Uh-oh. I better get back to work.
 
 314
-00:20:18,760 --> 00:20:21,740
+00:20:18,760 --> 00:20:22,380
 要是个女儿，我会帮她取名为.
 Jason, I was thinking that if it's a girl, that we could name her...
 
 315
-00:20:21,740 --> 00:20:23,582
+00:20:22,380 --> 00:20:22,980
 丽贝卡
 Rebecca.
 
@@ -1620,7 +1620,7 @@ Uh-huh.
 I see.
 
 326
-00:20:57,710 --> 00:20:59,346
+00:20:58,320 --> 00:20:58,860
 好
 Yes.
 

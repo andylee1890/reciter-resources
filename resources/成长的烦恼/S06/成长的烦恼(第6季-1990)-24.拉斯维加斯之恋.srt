@@ -24,7 +24,7 @@ Kate: You know, Mike, I had great time tonight.
 Mike: Oh, I did too, Kate.
 
 6
-00:00:16,420 --> 00:00:17,800
+00:00:16,380 --> 00:00:17,800
 凯特:而且昨晚我也很开心.
 Kate: And I had a great time last night.
 
@@ -1110,7 +1110,7 @@ Mike: You don't have any doubts?
 Eddy: You think I should have doubts?
 
 224
-00:13:24,540 --> 00:13:26,300
+00:13:24,540 --> 00:13:26,660
 我可能没有做对事情.
 You think there's a chance I might not be doing the right thing.
 

@@ -84,7 +84,7 @@ Leap day is stupid.
 You're not understanding the logic behind it.
 
 18
-00:00:39,086 --> 00:00:43,220
+00:00:39,340 --> 00:00:42,940
 一年实际上有365.25天
 A year is actually 365.25 days.
 
@@ -369,7 +369,7 @@ Yeah, just a simple party.
 I'm simply taking Cam's favorite movie, "The wizard of Oz,"
 
 75
-00:03:00,240 --> 00:03:03,680
+00:03:00,400 --> 00:03:03,340
 把家里变身为绿野仙踪主题嘉年华
 and turning our house into an oz-themed extravaganza--
 
@@ -839,7 +839,7 @@ Gloria, I get-- I get the impression
 - you're disappointed I didn't punch that guy. - Of course not.
 
 169
-00:06:36,800 --> 00:06:40,652
+00:06:36,840 --> 00:06:40,540
 谁在乎那些为媳妇不顾一切的爷们气概啊
 Who needs all that manly, protect-your-woman stuff?
 
@@ -889,7 +889,7 @@ this area will be in black and white,
 and then an explosion of technicolor.
 
 179
-00:06:59,979 --> 00:07:02,303
+00:07:00,100 --> 00:07:02,500
 最棒的部分 宾客一进来
 Best part--as the guests are coming in...
 
@@ -1144,7 +1144,7 @@ The tornado always wins.
 Okay, well, it's gonna be so much fun tonight!
 
 230
-00:08:46,162 --> 00:08:48,273
+00:08:46,380 --> 00:08:48,140
 我知道 10岁大关
 I know! The big 1-0!
 
@@ -1709,7 +1709,7 @@ Like Jay and me. Like Jay.
 I'm back!
 
 343
-00:12:49,577 --> 00:12:52,805
+00:12:49,880 --> 00:12:52,520
 谁会想到 我把帅呆了的太阳眼镜给忘了
 Wouldn't you know, I forgot my ding-dang sunglasses.
 
@@ -2139,7 +2139,7 @@ Okay, don't worry, everybody.
 Soon we'll be way, way out at sea, bouncing on the waves
 
 429
-00:16:04,226 --> 00:16:07,008
+00:16:04,260 --> 00:16:06,520
 闻到的都是蓝鲸兄弟姐妹们的甜甜香气
 with all of his sweet-smelling brothers and sisters. Okay?
 
@@ -2559,7 +2559,7 @@ Well, you can't have it, Cam!
 You wanna know why?! Because you're 40!
 
 513
-00:18:56,844 --> 00:18:58,889
+00:18:56,740 --> 00:18:58,540
 你是个40岁的大男人
 You're a 40-year-old man!
 

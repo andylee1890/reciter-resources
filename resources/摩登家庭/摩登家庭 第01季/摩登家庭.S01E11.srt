@@ -299,12 +299,12 @@ sing songs about how fun it is to be a pirate?
 Jay. Such a beautiful house, huh?
 
 61
-00:02:25,080 --> 00:02:26,679
+00:02:25,080 --> 00:02:26,700
 我们正打算出去吃晚餐
 So, we were just headed out to dinner.
 
 62
-00:02:26,679 --> 00:02:28,220
+00:02:26,880 --> 00:02:28,060
 你以为我空手来的
 What, you think I show up empty-handed?
 
@@ -874,7 +874,7 @@ I see a picture over here of you on a motorcycle.
 Used to? Used to?
 
 176
-00:06:49,100 --> 00:06:49,220
+00:06:49,100 --> 00:06:49,180
 杰
 Jay,
 
@@ -2324,7 +2324,7 @@ Ten years: Sweet little convertible.
 Twenty years:
 
 466
-00:18:34,304 --> 00:18:38,647
+00:18:34,890 --> 00:18:38,710
 你好啊 语言表达清晰 全功能的机器人
 Hello, fully articulating, five-function robot...
 
@@ -2339,12 +2339,12 @@ that can read my mind and has feelings.
 Phil, you're not leaving without saying good-bye, are you?
 
 469
-00:18:47,270 --> 00:18:48,189
+00:18:47,270 --> 00:18:48,210
 嘿 伊莱恩
 Hey, Elaine.
 
 470
-00:18:48,189 --> 00:18:50,334
+00:18:48,370 --> 00:18:50,170
 -他是你老公吗 -是啊
 - Is this your husband? - Uh-huh.
 
@@ -2434,7 +2434,7 @@ but she can't grow up with
 one huggy, happy, cuddly dad...
 
 488
-00:19:42,300 --> 00:19:45,910
+00:19:42,230 --> 00:19:45,870
 我却是那个死板严肃 满嘴教条的爸爸
 and one frowny, lesson-teachy dad.
 

@@ -494,7 +494,7 @@ I have a big announcement.
 Well, more like a 5'1 annoucement.
 
 100
-00:03:55,480 --> 00:03:56,920
+00:03:55,480 --> 00:03:57,500
 我要把餐厅改造现代化的餐厅
 I am changing the diner to state-of-the-art
 
@@ -1449,7 +1449,7 @@ You won't be laughing in a minute.
 Look, it's a cupcake from the new
 
 291
-00:12:01,200 --> 00:12:02,600
+00:12:00,620 --> 00:12:02,600
 自助小蛋糕机买来的小蛋糕
 state-of-the-art cupcake ATM machine.
 

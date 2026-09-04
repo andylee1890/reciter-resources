@@ -1054,12 +1054,12 @@ Didn't you guys get a cat together?
 Okay, you know? Y-Y-Yes!
 
 212
-00:06:47,640 --> 00:06:49,160
+00:06:47,640 --> 00:06:49,180
 你被炒了 行了吧
 You're fired! Okay?
 
 213
-00:06:49,160 --> 00:06:50,720
+00:06:49,180 --> 00:06:50,540
 你就是个没能力的戏精
 You're an incompetent man-diva.
 
@@ -1419,12 +1419,12 @@ Didn't you two have something you wanted to talk about?
 Um, so, Cam...
 
 285
-00:09:03,761 --> 00:09:05,143
+00:09:03,820 --> 00:09:05,240
 我正在试着连无线网
 I'm trying to get Wi-Fi
 
 286
-00:09:05,143 --> 00:09:07,500
+00:09:05,240 --> 00:09:07,500
 这样才能看我老家的
 so I can watch the pumpkin weigh-in
 
@@ -1474,12 +1474,12 @@ Um, but I just wanted to say to you --
 You know, as with every pumpkin, there's a story.
 
 296
-00:09:23,400 --> 00:09:25,377
+00:09:23,400 --> 00:09:25,400
 那是一个寒冷的夜晚
 It was a cold, bitter night,
 
 297
-00:09:25,377 --> 00:09:28,340
+00:09:25,400 --> 00:09:27,680
 窗户传来咚咚咚敲打的声音
 when tap-tap-tap on the window.
 
@@ -1879,12 +1879,12 @@ Wait, wait, I can explain!
 I can explain! Somebody help!
 
 377
-00:12:13,940 --> 00:12:16,450
+00:12:13,940 --> 00:12:16,460
 于是我遮住我的淤伤
 So I covered up my bruises
 
 378
-00:12:16,450 --> 00:12:18,420
+00:12:16,460 --> 00:12:18,420
 清理了所有和小卖部有关的证据
 and checked for any snack-bar-related evidence
 
@@ -2034,12 +2034,12 @@ It really gives your kitchen some flair.
 Oh, hey, Gloria.
 
 408
-00:13:12,564 --> 00:13:14,318
+00:13:12,460 --> 00:13:14,560
 我终于找到无线网信号最好的地方了
 I finally found a great spot for the Wi-Fi
 
 409
-00:13:14,318 --> 00:13:16,400
+00:13:14,560 --> 00:13:16,180
 正好赶上南瓜称重
 just in time for the pumpkin weigh-in.
 
@@ -2409,7 +2409,7 @@ I puzzled that one out.
 You're right.
 
 483
-00:16:15,144 --> 00:16:17,228
+00:16:15,740 --> 00:16:17,220
 我就是个痴迷万圣节的大孩子
 I'm a Halloween-obsessed child-man.
 
@@ -2459,7 +2459,7 @@ We have IRAs, right?
 Rude awakening, Claire.
 
 493
-00:16:34,018 --> 00:16:36,180
+00:16:34,500 --> 00:16:36,180
 你以为自己是有趣有爱的爸爸
 You think you're the fun-loving dad,
 
@@ -2469,12 +2469,12 @@ You think you're the fun-loving dad,
 putting smiles on faces, keeping childhood alive.
 
 495
-00:16:39,980 --> 00:16:41,500
+00:16:39,980 --> 00:16:41,520
 结果你只是一个坐在南瓜坦克里
 Turns out you're just the weird guy
 
 496
-00:16:41,500 --> 00:16:43,660
+00:16:41,520 --> 00:16:43,500
 冲下人家车道的怪叔叔
 barreling down a driveway in a pumpkin-tank.
 
@@ -2704,12 +2704,12 @@ And she was really upset
 You suck!
 
 542
-00:18:17,820 --> 00:18:20,240
+00:18:17,820 --> 00:18:20,260
 我竟然浪费了那么多时间
 To think I wasted so much time
 
 543
-00:18:20,240 --> 00:18:23,020
+00:18:20,260 --> 00:18:22,600
 在你这个爱哭粘人幼稚烂人身上
 on such a weepy, clingy, Pez-eating snore!
 
@@ -2799,12 +2799,12 @@ I know I crossed boundaries.
 It's how I grew up.
 
 561
-00:19:08,280 --> 00:19:09,490
+00:19:08,280 --> 00:19:09,500
 所有人之间都没有秘密
 Nobody had secrets from anybody.
 
 562
-00:19:09,490 --> 00:19:11,500
+00:19:09,580 --> 00:19:11,220
 高中派对时 "真心话大冒险"我们只玩大冒险
 At high-school parties, we just played Dare.
 
@@ -2829,12 +2829,12 @@ We had to bring in a stranger
 so that the children could learn who not to talk to.
 
 567
-00:19:19,540 --> 00:19:21,782
+00:19:19,540 --> 00:19:21,800
 我必须说 你的家乡往事
 You know, I have to say, sometimes your hometown stories
 
 568
-00:19:21,782 --> 00:19:22,720
+00:19:21,800 --> 00:19:22,580
 有时听起来是编的
 sound a little made-up.
 
@@ -2899,7 +2899,7 @@ Wait. I have something for you.
 A pumpkin seed?
 
 581
-00:19:56,608 --> 00:19:59,941
+00:19:56,160 --> 00:19:59,900
 我想或许明年它也能打破记录
 I think it can be next year's record-breaker.
 
@@ -3009,7 +3009,7 @@ for the North American 50-yard pumpkin dash is 18 seconds.
 You can do it! Beat that 18 seconds!
 
 603
-00:20:42,140 --> 00:20:42,260
+00:20:42,140 --> 00:20:42,220
 你们快到了
 You're so close!
 

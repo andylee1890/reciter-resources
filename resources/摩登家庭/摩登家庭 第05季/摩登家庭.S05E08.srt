@@ -239,7 +239,7 @@ Oh, that's actually really quaint.
 Is it one of those little triangle thi--
 
 49
-00:01:42,127 --> 00:01:45,640
+00:01:42,400 --> 00:01:45,200
 三郡范围内最响亮的吆喝
 Loudest call in the tri-county area.
 
@@ -369,7 +369,7 @@ She loves him.
 Hey, "Manimal." How was picture day?
 
 75
-00:02:50,220 --> 00:02:51,420
+00:02:50,420 --> 00:02:51,320
 你知道什么对我帮助最大吗
 You know what's super-helpful?
 
@@ -389,7 +389,7 @@ I was trying to relax you.
 It was right in front of you
 
 79
-00:02:56,740 --> 00:02:57,800
+00:02:56,740 --> 00:02:57,600
 应该叫"布拉德·皮特汗渍"
 -- "Brad Pitt-Stains."
 
@@ -694,7 +694,7 @@ Classy.
 Let me just fix this. You're looking so great.
 
 140
-00:05:06,192 --> 00:05:07,680
+00:05:05,680 --> 00:05:07,640
 我妈妈比较以自我为中心
 My mom was pretty self-involved,
 
@@ -854,7 +854,7 @@ No, well, yeah, we say it... here, but not normally.
 Well, did you ever think this is how I really talk
 
 172
-00:06:11,120 --> 00:06:13,580
+00:06:11,120 --> 00:06:13,340
 我离开这里时 说的话就不一样了吗
 and that I talk different-like when I'm not here?
 
@@ -869,7 +869,7 @@ Y'all fighting?
 No, no, sweetie, we're just having a conversation
 
 175
-00:06:16,540 --> 00:06:18,460
+00:06:16,540 --> 00:06:18,240
 聊你二爸有多么高傲
 about how your daddy can be so stuck-up.
 
@@ -994,7 +994,7 @@ Sisters before misters!
 - Stalker! - Trollop.
 
 200
-00:07:08,577 --> 00:07:10,326
+00:07:09,260 --> 00:07:10,280
 不知道那是什么意思
 Ha-ha, don't know what it means --
 
@@ -1219,7 +1219,7 @@ Who's this?
 Oh, dear.
 
 245
-00:08:34,960 --> 00:08:38,471
+00:08:35,260 --> 00:08:38,140
 奶奶 这位是巴德 新来的农工
 Uh...well, grams, this is Bud, our new farmhand.
 
@@ -1234,7 +1234,7 @@ Bud?
 Yeah, Bud's a little simpleminded
 
 248
-00:08:41,139 --> 00:08:44,240
+00:08:41,620 --> 00:08:44,240
 所以脑子有点不好使 是不是
 on account of getting mule-kicked, isn't he?
 
@@ -1829,7 +1829,7 @@ We're saving an old lady some unnecessary upset.
 Why don't you give her a little credit?
 
 367
-00:12:48,340 --> 00:12:50,400
+00:12:48,360 --> 00:12:50,400
 她说不定比你想的更开明
 She might be more open-minded than you think.
 
@@ -1914,7 +1914,7 @@ But I guess there's nothing more important than family...
 no matter how they come.
 
 384
-00:13:31,440 --> 00:13:33,711
+00:13:31,540 --> 00:13:33,680
 您真是太开明了
 Well, that is mighty open-minded of you.
 
@@ -1944,7 +1944,7 @@ But I do wish I had another
 little one like that to spoil.
 
 390
-00:13:48,120 --> 00:13:49,340
+00:13:48,120 --> 00:13:50,020
 要是我说你确实有个曾孙女呢
 What if I told you you did have a great-grandbaby?
 

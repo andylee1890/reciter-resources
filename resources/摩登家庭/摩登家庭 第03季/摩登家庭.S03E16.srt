@@ -329,12 +329,12 @@ and by "work" I meant "the golf course."
 Remember that time we went golfing together,
 
 67
-00:02:08,889 --> 00:02:10,411
+00:02:08,780 --> 00:02:10,580
 -你一杆进洞来着 -记得啊
 - and you got a hole-in-one? - Yeah?
 
 68
-00:02:10,648 --> 00:02:11,695
+00:02:10,660 --> 00:02:11,880
 你其实没打出一杆进洞
 You never got a hole-in-one.
 
@@ -479,7 +479,7 @@ When she grabs them with her grubby little hands,
 off goes the trap.
 
 97
-00:03:24,542 --> 00:03:26,441
+00:03:24,480 --> 00:03:26,560
 砰 一大滩牛奶
 Boom--big puddle of milk.
 
@@ -644,7 +644,7 @@ It's my fault Cam fell.
 No, no need. Uh, the "My sweet companion" store
 
 130
-00:04:52,264 --> 00:04:54,620
+00:04:52,380 --> 00:04:54,480
 有个医院 里面有位值班医生
 actually has a hospital with an on-call doctor.
 
@@ -1034,7 +1034,7 @@ Oh, I should have just kept my mouth shut.
 I mean, it was such a great day.
 
 208
-00:07:57,474 --> 00:07:59,377
+00:07:57,400 --> 00:07:59,180
 在他以为自己一杆进洞后
 After he thought he got that hole-in-one,
 
@@ -1054,7 +1054,7 @@ He bought me my first beer.
 Well, there you go. He's probably hurt
 
 212
-00:08:04,100 --> 00:08:06,633
+00:08:04,100 --> 00:08:06,400
 你毁了一段特殊的父子经历
 because you marred a very special father-son experience.
 
@@ -1414,7 +1414,7 @@ Both.
 That's what I thought.
 
 284
-00:10:34,457 --> 00:10:35,400
+00:10:34,000 --> 00:10:35,220
 瞧瞧啊
 Uh-oh, check it out.
 
@@ -1509,7 +1509,7 @@ Taking her out or doing her taxes?
 So I'm trying to find a way to come clean
 
 303
-00:11:08,120 --> 00:11:10,142
+00:11:08,120 --> 00:11:10,240
 一杆进洞的囧事时 我突然间想
 about the hole-in-one, when it occurs to me...
 
@@ -1579,7 +1579,7 @@ I-I'm sorry to interrupt,
 No, he didn't even know until today
 
 317
-00:11:40,852 --> 00:11:42,600
+00:11:40,940 --> 00:11:42,560
 -他从没打出一杆进洞 -这下可好
 - that he never made the hole-in-one. - Okay.
 
@@ -1604,12 +1604,12 @@ and he raced down here to confess to you,
 that just shows the kind of man he is.
 
 322
-00:11:50,170 --> 00:11:52,559
+00:11:50,380 --> 00:11:52,520
 他是个一杆进洞型的男人
 He is a hole-in-one kind of man.
 
 323
-00:11:53,535 --> 00:11:55,340
+00:11:53,480 --> 00:11:55,220
 你从没打出一杆进洞
 You never got a hole-in-one?
 
@@ -1939,7 +1939,7 @@ and we can all sign it. Yeah?
 Uh, yeah. Sure.
 
 389
-00:14:31,659 --> 00:14:34,233
+00:14:32,120 --> 00:14:34,340
 其实 我说砸了
 Fact--I blew it.
 
@@ -2024,7 +2024,7 @@ Please stop calling me that. I hate that movie.
 What movie?
 
 406
-00:15:38,351 --> 00:15:39,979
+00:15:38,660 --> 00:15:39,920
 天 到头了
 Uh-oh! Dead end!
 
@@ -2349,7 +2349,7 @@ and, uh...
 It was one of the greatest days we ever spent together.
 
 471
-00:18:09,096 --> 00:18:11,480
+00:18:09,080 --> 00:18:11,420
 那天不应该是关于毫无意义的一杆进洞
 And it wasn't about some meaningless hole-in-one,
 
@@ -2359,7 +2359,7 @@ And it wasn't about some meaningless hole-in-one,
 it was about us.
 
 473
-00:18:12,920 --> 00:18:14,982
+00:18:13,100 --> 00:18:14,620
 不 那天的意义就在于一杆进洞
 No. It was about a hole-in-one.
 

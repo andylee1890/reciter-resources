@@ -74,7 +74,7 @@ You knew my whole life.
 Have you ever seen me take a lesson?
 
 16
-00:00:29,360 --> 00:00:31,314
+00:00:29,360 --> 00:00:31,040
 我以为你自学了呢
 I thought maybe you were self-taught.
 
@@ -299,12 +299,12 @@ Hello?
 What?
 
 61
-00:01:54,721 --> 00:01:57,325
+00:01:55,420 --> 00:01:56,620
 不...是吧
 No...way!
 
 62
-00:01:57,419 --> 00:01:59,680
+00:01:57,760 --> 00:01:59,360
 1988年6月10日
 June 10, 1988.
 
@@ -389,7 +389,7 @@ But then it dawned on me --
 I was cheating on my wife
 
 79
-00:02:35,580 --> 00:02:38,103
+00:02:35,580 --> 00:02:38,140
 跟别的女人的热烈回忆是对我老婆不忠
 with the red-hot memory of another woman.
 
@@ -479,7 +479,7 @@ Can I wear this for the family photo?
 Oh, honey, that's adorable, but, you know,
 
 97
-00:03:38,940 --> 00:03:40,800
+00:03:38,960 --> 00:03:40,800
 歌洛莉亚要我们穿牛仔裤配黑T恤
 Gloria wants us in jeans and a black T-shirt --
 
@@ -494,7 +494,7 @@ Classic and casual.
 And then maybe afterwards, we can stop by
 
 100
-00:03:43,880 --> 00:03:45,520
+00:03:43,880 --> 00:03:45,300
 去帮高中话剧表演换布景
 and change the scenery in a high-school play.
 
@@ -714,7 +714,7 @@ What do you think is the minimum age for a spray tanning?
 Now that Joe is here
 
 144
-00:05:06,090 --> 00:05:08,660
+00:05:06,080 --> 00:05:08,620
 他的头也终于是正常大小了
 and that his head is finally normal-shaped,
 
@@ -1149,7 +1149,7 @@ just because she brought it up.
 Well, I know. That's why I'm looking for a photo
 
 231
-00:08:11,600 --> 00:08:13,880
+00:08:11,600 --> 00:08:13,760
 别人的旧衣服的照片给卡莱尔看
 of Lily in a hand-me-down to show Claire,
 
@@ -1179,7 +1179,7 @@ Yes! Sometimes I feel like this family looks right past --
 You're suggesting that we stage a photograph.
 
 237
-00:08:24,432 --> 00:08:25,948
+00:08:24,660 --> 00:08:25,940
 给莉莉穿上旧衣服
 Put Lily in some hand-me-downs.
 
@@ -1204,7 +1204,7 @@ Simplicity itself.
 That's not remotely what I'm saying --
 
 242
-00:08:33,020 --> 00:08:34,580
+00:08:33,020 --> 00:08:34,320
 米奇尔 不要怀疑自己了
 Mitchell, don't second-guess yourself.
 
@@ -1539,7 +1539,7 @@ Can you get those again?
 Or was that just, like, a one-time thing with your uncle?
 
 309
-00:10:41,136 --> 00:10:42,419
+00:10:41,320 --> 00:10:42,420
 只有那一次
 It was a one-time thing.
 
@@ -1744,7 +1744,7 @@ for a ride home in a horse trailer.
 But...
 
 350
-00:11:53,915 --> 00:11:57,113
+00:11:53,800 --> 00:11:56,400
 看来某人拿到音乐会的纪念衫啦
 Looks like someone got a concert t-shirt.
 
@@ -2094,7 +2094,7 @@ All right. Shake a leg.
 - Hey, sweetie. - Hi!
 
 420
-00:14:00,560 --> 00:14:03,080
+00:14:02,140 --> 00:14:03,080
 莉莉 小心点
 Hey, Lily, be careful.
 
@@ -2164,7 +2164,7 @@ No me.
 No me.
 
 434
-00:14:23,409 --> 00:14:26,363
+00:14:23,320 --> 00:14:26,300
 找到了 去年圣诞节早上
 Ah. There we are.Christmas morning last year.
 
@@ -2199,12 +2199,12 @@ What's that?
 Uh, the calendar opened to december,
 
 441
-00:14:37,206 --> 00:14:39,161
+00:14:37,560 --> 00:14:39,300
 给圣诞老人的饼干被吃了一半
 the half-eaten cookies for Santa Claus,
 
 442
-00:14:39,161 --> 00:14:41,363
+00:14:39,420 --> 00:14:41,640
 给驯鹿的胡萝卜被啃过 哪里有问题
 the nibbled-on carrots for reindeer? I don't know.
 
@@ -2304,7 +2304,7 @@ It's causing too many fights.
 That's why today I just put everybody
 
 462
-00:15:15,320 --> 00:15:18,010
+00:15:15,320 --> 00:15:17,680
 大家都穿简单的T恤和牛仔裤
 in a simple T-shirt-and-jeans outfit.
 

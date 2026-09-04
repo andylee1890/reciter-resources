@@ -274,12 +274,12 @@ He's taking me to Buon Cibo's at 6:00.
 I'm going to Buon Cibo's at 6:00 with Janice.
 
 56
-00:02:00,560 --> 00:02:01,979
+00:02:00,560 --> 00:02:02,000
 好恶心 我可不想看着你
 Ew! I don't want to watch you
 
 57
-00:02:01,979 --> 00:02:03,900
+00:02:02,000 --> 00:02:03,700
 对她使用烂俗的泡妞手段
 run your discount body-spray game on her.
 
@@ -564,12 +564,12 @@ Look, I know you breastfed until you could stand,
 but aren't you a little old to be trick-or-treating?
 
 114
-00:03:57,100 --> 00:03:58,055
+00:03:57,100 --> 00:03:58,080
 这不是为万圣节准备的
 This isn't for Halloween.
 
 115
-00:03:58,055 --> 00:04:00,800
+00:03:58,320 --> 00:04:00,440
 我的单人秀正处于最后的排练阶段
 I'm in final rehearsals for my one-man show
 
@@ -864,7 +864,7 @@ for that super scary Japanese film.
 How scary? How Japanese?
 
 174
-00:06:08,788 --> 00:06:11,155
+00:06:08,840 --> 00:06:10,920
 返老婴儿杀人案
 "Make Dead with Old-Face Baby."
 
@@ -1254,12 +1254,12 @@ Why did I talk you out of that mime major?
 Spidey -- 11:00.
 
 252
-00:08:55,146 --> 00:08:56,876
+00:08:55,400 --> 00:08:56,780
 蜘蛛侠 等等
 Spider-Man! Hold up!
 
 253
-00:08:56,972 --> 00:08:59,640
+00:08:56,780 --> 00:08:59,160
 老子才不是蜘蛛侠 是死侍好吗
 I'm not Spider-Man, okay? I'm Deadpool.
 
@@ -1379,12 +1379,12 @@ I really love hooking up with you.
 Well, I hate to think
 
 277
-00:09:40,520 --> 00:09:42,679
+00:09:40,520 --> 00:09:42,700
 我害你没去参加万圣节狂欢
 I'm pulling you away from some Halloween fun.
 
 278
-00:09:42,679 --> 00:09:46,000
+00:09:42,820 --> 00:09:45,600
 就是跟你那些更...年轻的朋友开派对
 You know, partying with your more...youthful friends.
 
@@ -1689,7 +1689,7 @@ It's kind of subtle, so --
 That was my house.
 
 339
-00:11:47,696 --> 00:11:50,320
+00:11:48,100 --> 00:11:49,980
 但你住在公寓啊
 But...you live in a condo.
 
@@ -2209,7 +2209,7 @@ No more record stores.
 6-year-old sons too grown up
 
 443
-00:15:47,873 --> 00:15:49,859
+00:15:47,920 --> 00:15:49,380
 万圣节不愿意跟老爸去要糖果
 to go trick-or-treating with their dads.
 

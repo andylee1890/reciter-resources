@@ -44,17 +44,17 @@ Are you Daniel Boone?
 Who's asking?
 
 10
-00:00:48,860 --> 00:00:50,481
+00:00:48,860 --> 00:00:50,500
 我是来参观下肯塔基州的
 I just came to see Kentucky,
 
 11
-00:00:50,481 --> 00:00:52,407
+00:00:50,820 --> 00:00:52,700
 全国第五大烟草出产州
 the fifth-largest tobacco producer
 
 12
-00:00:52,407 --> 00:00:55,839
+00:00:52,700 --> 00:00:55,900
 和第三大产煤州
 and the third-largest coal producer in the country.
 
@@ -1449,7 +1449,7 @@ Yes, well, well, well.
 I see your cold is better.
 
 291
-00:10:45,418 --> 00:10:48,000
+00:10:46,000 --> 00:10:47,720
 后来发现我只是有一点过敏啦
 Turns out it was, like, an allergy...thing.
 
@@ -1564,17 +1564,17 @@ Public restroom, huh?
 Shame he can't go in the privacy of his own car.
 
 314
-00:11:36,780 --> 00:11:39,120
+00:11:36,780 --> 00:11:39,140
 确实 房车里确实有卫生间
 It's true. The RV does have a bathroom.
 
 315
-00:11:39,120 --> 00:11:40,727
+00:11:39,340 --> 00:11:40,720
 还有嵌死的咖啡机
 And a bolted-down Mr. Coffee,
 
 316
-00:11:40,727 --> 00:11:42,813
+00:11:40,980 --> 00:11:42,660
 防熊的底盘食品箱
 bear-proof undercarriage food bins.
 
@@ -2089,7 +2089,7 @@ and then -- bam -- they're gone.
 But it's okay, because in its place
 
 419
-00:15:39,551 --> 00:15:42,000
+00:15:40,140 --> 00:15:42,000
 是个学步的娃娃
 is this...toddler
 
@@ -2134,7 +2134,7 @@ but you never get the chance to miss any of them,
 Until they grow up.
 
 428
-00:16:01,954 --> 00:16:05,280
+00:16:02,160 --> 00:16:05,040
 然后 突然
 And then...in a moment,
 
@@ -2334,12 +2334,12 @@ Yeah, really nice couple,
 soon to be empty nesters --
 
 468
-00:17:24,960 --> 00:17:27,398
+00:17:24,960 --> 00:17:27,420
 有3个孩子 2个新生的外孙
 three kids, two new grandkids.
 
 469
-00:17:27,398 --> 00:17:29,420
+00:17:28,060 --> 00:17:29,420
 老婆有点神经兮兮
 Wife's a little high-strung.
 
@@ -2714,7 +2714,7 @@ didn't we?
 so, uh, we -- we have to tell the agency tonight?
 
 544
-00:20:22,081 --> 00:20:27,185
+00:20:21,760 --> 00:20:26,520
 我们应该有24小时的时间可以做决定
 Well, technically, we have 24 hours to, uh...decide.
 

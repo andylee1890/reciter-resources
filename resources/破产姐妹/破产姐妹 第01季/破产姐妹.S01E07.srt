@@ -179,7 +179,7 @@ who ever ordered the croque monsieur as croque monsieur
 and not "crock monster."
 
 37
-00:01:49,380 --> 00:01:51,260
+00:01:50,160 --> 00:01:51,260
 他们求见做小蛋糕的师傅
 They wanna meet the woman who made the cupcakes.
 
@@ -239,7 +239,7 @@ Yeah, what's the problem?
 Spit it out, I've got a life.
 
 49
-00:02:13,520 --> 00:02:17,040
+00:02:13,520 --> 00:02:15,960
 我们是想告诉你  你这口味
 We just wanted to tell you that your flavor palate is...
 
@@ -579,7 +579,7 @@ Oh. So now you're a bartender,
 a street artist, and a pimp.
 
 117
-00:05:06,180 --> 00:05:08,100
+00:05:06,640 --> 00:05:08,100
 兼职帮小弟弟拉拉皮条有啥不对
 Ain't nuttin' wrong with me pimpin' some boy on the side.
 
@@ -704,7 +704,7 @@ For your information, I've dated all kinds of men.
 I once had a Spaniard in Monte Carlo.
 
 142
-00:06:29,740 --> 00:06:31,440
+00:06:30,200 --> 00:06:31,440
 怎么听起来像阿巴乐队的歌名啊
 Isn't the title of an Abba song?
 
@@ -774,7 +774,7 @@ Oh, I thought we should stop by that new coffee place tomorrow
 and introduce ourselves and your cupcakes.
 
 156
-00:07:05,520 --> 00:07:07,780
+00:07:06,200 --> 00:07:07,780
 我才不去呢  感觉像是出卖自己
 I'm not gonna walk in there. I feel like I'm selling out.
 
@@ -1089,7 +1089,7 @@ It's my yoga name.
 Help me, God.
 
 219
-00:09:37,720 --> 00:09:41,180
+00:09:38,680 --> 00:09:41,180
 西蒙娜  我们刚在本区开了家小蛋糕店
 Well, Semhar, we just opened a local neighborhood cupcake company.
 
@@ -1114,17 +1114,17 @@ to local boulangeries.
 Please try a sample. Max.
 
 224
-00:09:47,700 --> 00:09:48,289
+00:09:47,700 --> 00:09:50,340
 你是想来个椰子咖啡味的  巧克力咖喱味
 Would you like coconut-coffee, chocolate-curry,
 
 225
-00:09:50,340 --> 00:09:51,701
+00:09:50,340 --> 00:09:51,680
 还是蓝莓柠檬味
 or blueberry-lemon zest?
 
 226
-00:09:51,900 --> 00:09:53,840
+00:09:51,900 --> 00:09:54,600
 我最喜欢的是椰子咖啡味
 My absolute fave is the coconut-coffee.
 
@@ -1164,7 +1164,7 @@ They're not pretty enough.
 Perhaps if you tried one,
 
 234
-00:10:11,400 --> 00:10:13,720
+00:10:11,400 --> 00:10:13,120
 会发现这口味有多棒
 you'd see how amazing our flavor palate is.
 
@@ -1289,7 +1289,7 @@ No, they're bugging me. I decided to take the night off.
 Be careful with decisions like that.
 
 259
-00:11:20,760 --> 00:11:23,540
+00:11:20,760 --> 00:11:23,040
 当年我也决定歇一晚  缺席地球风与火乐队
 In 1987, I took a night off from Earth, Wind, and Fire
 
@@ -1304,7 +1304,7 @@ and the next day, they earth, wind, and fired my ass.
 Hi. Sorry I'm late.
 
 262
-00:11:33,460 --> 00:11:34,360
+00:11:32,940 --> 00:11:34,360
 在你阴道里午后小睡了一把吗
 Mid-afternoon nap in your vagina?
 
@@ -1339,7 +1339,7 @@ It's the basic cake decorating kit.
 And best of all I found us a fun, reasonable
 
 269
-00:11:46,700 --> 00:11:48,320
+00:11:46,060 --> 00:11:48,320
 一个好玩又价格合理的两课时蛋糕装饰课
 two-session cupcake decorating class at a bakery.
 
@@ -1949,7 +1949,7 @@ That looks good.
 I suck. I'm starting over.
 
 391
-00:16:09,120 --> 00:16:11,120
+00:16:09,840 --> 00:16:11,120
 麦克斯  你干嘛啊  真的不错呀
 Max, why'd you do that? It was good.
 
@@ -2074,7 +2074,7 @@ just saying maybe we'd have a shop too
 Keep it down.
 
 416
-00:17:03,060 --> 00:17:04,720
+00:17:03,420 --> 00:17:04,720
 你想明早看到栗宝被杀"马"儆猴
 You wanna wake up tomorrow with Chestnut's head
 

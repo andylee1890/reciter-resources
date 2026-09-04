@@ -24,12 +24,12 @@ Your Camry.
 My GPS is broken.
 
 6
-00:00:09,340 --> 00:00:10,288
+00:00:09,340 --> 00:00:10,300
 我们可以交换车吗
 Can we trade cars?
 
 7
-00:00:10,288 --> 00:00:13,180
+00:00:10,500 --> 00:00:13,180
 我最近离开了我的房地产公司
 I recently left my real-estate partners
 
@@ -354,7 +354,7 @@ What's -- what's wrong with her?
 Should I get the hex poppet?
 
 72
-00:02:40,572 --> 00:02:42,096
+00:02:40,660 --> 00:02:41,940
 我在哭而已
 I'm just cry-talking.
 
@@ -434,12 +434,12 @@ My dad took me to an air show like this
 for my 12th birthday.
 
 88
-00:03:12,940 --> 00:03:15,318
+00:03:12,940 --> 00:03:15,340
 我们看到了蓝天使 战斗机
 We saw Blue Angels, fighter jets,
 
 89
-00:03:15,318 --> 00:03:16,880
+00:03:15,600 --> 00:03:16,880
 一架B-52轰炸机
 a B-52 bomber.
 
@@ -584,7 +584,7 @@ because they're only for the good children!
 Keep your brownies!
 
 118
-00:04:06,785 --> 00:04:08,980
+00:04:07,140 --> 00:04:08,980
 曼尼努力装成熟
 It's cute, that grown-up routine
 
@@ -664,12 +664,12 @@ I-I don't know,
 hit the materials lab and whip up some mouth flubber.
 
 134
-00:04:42,520 --> 00:04:43,455
+00:04:42,520 --> 00:04:43,480
 克莱尔 谢天谢地
 Claire, thank goodness.
 
 135
-00:04:43,455 --> 00:04:46,060
+00:04:43,480 --> 00:04:45,560
 运货卡车有点搞混了
 There was a bit of a trucking mix-up.
 
@@ -744,7 +744,7 @@ Oh, no. Mi Hu is going to Carlsbad.
 These are your future,
 
 150
-00:05:17,244 --> 00:05:22,680
+00:05:17,320 --> 00:05:22,680
 而它们飞出了窗户
 And they're headed...out...the window...
 
@@ -984,7 +984,7 @@ and quickly realized my only chance for survival
 was to push my companion overboard --
 
 198
-00:07:05,711 --> 00:07:09,260
+00:07:06,080 --> 00:07:08,860
 我如影随形的同伴 恐惧
 my constant companion...fear.
 
@@ -1209,12 +1209,12 @@ Uh, let's check on the dessert in the kitchen.
 What kind of schools allow a teacher to date a student?
 
 243
-00:08:58,500 --> 00:08:59,836
+00:08:58,500 --> 00:08:59,860
 我想艺术学院都这样
 I'm guessing any art school.
 
 244
-00:08:59,836 --> 00:09:02,280
+00:08:59,980 --> 00:09:01,800
 他不能和三十岁的人约会
 He can't date a 30-year-old.
 
@@ -1229,7 +1229,7 @@ Manny's still a child.
 Manny wasn't a child when I met him.
 
 247
-00:09:06,830 --> 00:09:08,060
+00:09:06,660 --> 00:09:08,060
 曾经有十年时间
 Look, there was a 10-year period
 
@@ -1864,12 +1864,12 @@ Mwah! Let me call you back a little later.
 Meanwhile, uh, I am sending you a pic
 
 374
-00:13:40,720 --> 00:13:43,580
+00:13:40,720 --> 00:13:43,600
 我在最后已知出现位置享受自然的照片
 of me enjoying nature at my last known location
 
 375
-00:13:43,580 --> 00:13:45,982
+00:13:43,600 --> 00:13:45,660
 穿的是我十分容易辨识的防水夹克
 in my very identifiable red Gore-Tex jacket.
 
@@ -2109,12 +2109,12 @@ and Shane says there's literally Dum-Dums everywhere.
 Okay. So, Shane --
 
 423
-00:15:18,760 --> 00:15:21,799
+00:15:18,760 --> 00:15:21,820
 不是个喜欢羞辱你的16岁毒品贩子
 not a 16-year-old drug dealer who enjoys humiliating you --
 
 424
-00:15:21,799 --> 00:15:23,380
+00:15:21,820 --> 00:15:23,380
 而是个娃娃脸警察
 but a baby-faced police officer,
 
@@ -2414,7 +2414,7 @@ What do we got here?
 Oh, let me guess -- your -- your drug money,
 
 484
-00:17:21,559 --> 00:17:22,840
+00:17:21,920 --> 00:17:22,840
 对讲机
 walkie-talkie.
 
@@ -2614,12 +2614,12 @@ Remember how terrified I was when I took over for my dad?
 The night before my first day in the big office,
 
 524
-00:18:59,420 --> 00:19:01,422
+00:18:59,420 --> 00:19:01,440
 我睡不着 心砰砰跳
 I was up, heart pounding,
 
 525
-00:19:01,422 --> 00:19:03,580
+00:19:01,620 --> 00:19:03,580
 在客厅疯狂来回踱步
 pacing a hole in the living-room floor.
 
@@ -2739,7 +2739,7 @@ Now that you're so into the wild...
 I like where this is going.
 
 549
-00:20:00,324 --> 00:20:02,338
+00:20:00,800 --> 00:20:02,580
 别这样 求你了
 Don't...do that, please.
 

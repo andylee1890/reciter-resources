@@ -234,12 +234,12 @@ I'd gotten a call that he was wandering
 around the grocery store he used to run.
 
 48
-00:01:53,340 --> 00:01:54,938
+00:01:53,340 --> 00:01:54,960
 我想搞清楚他是否没事
 I wanted to find out if he was okay,
 
 49
-00:01:54,938 --> 00:01:58,204
+00:01:54,980 --> 00:01:58,000
 但是 这种事没办法直接询问
 but...that's not something you can just ask.
 
@@ -514,17 +514,17 @@ she gave me a picture of me as an old-time sheriff.
 Today was my second chance,
 
 104
-00:04:01,120 --> 00:04:03,159
+00:04:01,120 --> 00:04:03,180
 但我都没勇气去跟她打招呼
 but I couldn't even get up the nerve to say "Hi."
 
 105
-00:04:03,159 --> 00:04:05,815
+00:04:03,740 --> 00:04:05,720
 11岁的曼尼一定会觉得我恶心至极
 11-year-old Manny would be disgusted by me.
 
 106
-00:04:05,815 --> 00:04:08,344
+00:04:05,940 --> 00:04:07,900
 现在你明白12岁的莉莉当时的感受了
 Well, now you know how 12-year-old Lily feels.
 
@@ -999,7 +999,7 @@ against society's worst criminals is what I do.
 How's that case against the deaf old lady
 
 201
-00:07:34,031 --> 00:07:36,880
+00:07:34,220 --> 00:07:36,800
 售卖培根卷热狗的老太太的案子怎么样了
 who sells bacon-wrapped hot dogs outside Laker games going?
 
@@ -1039,7 +1039,7 @@ Okay, yeah, yeah, yeah. Here it is, here it is.
 I can get on this CSI train.
 
 209
-00:07:54,360 --> 00:08:00,160
+00:07:54,360 --> 00:07:58,780
 那地方建造于1958年 所以我们是1983年去的
 Okay, "Founded in 1958," So that puts us there in '83.
 
@@ -1144,7 +1144,7 @@ talk to her like you don't care,
 And present himself as some brooding mystery man
 
 230
-00:08:41,925 --> 00:08:44,602
+00:08:42,020 --> 00:08:44,380
 让她得努力博得他如父亲一般的认可吗
 whose dad-like approval she has to work for?
 
@@ -1844,7 +1844,7 @@ Would you do 50 bucks?
 Will you throw in a puppy?
 
 370
-00:13:59,202 --> 00:14:01,720
+00:13:59,160 --> 00:14:01,340
 我的晚年做了两个项目
 I've had two late-in-life projects.
 
@@ -1914,7 +1914,7 @@ No. That we might have to let Dad skate on this one.
 Never.
 
 384
-00:14:27,889 --> 00:14:29,932
+00:14:28,280 --> 00:14:29,920
 少吃点泡泡糖香烟 米奇尔
 Go easy on those bubble-gum cigarettes, Mitchell.
 
@@ -2159,12 +2159,12 @@ Well, that is a little weird, though.
 It says, "To Jay Pritchett,
 
 433
-00:16:00,820 --> 00:16:02,440
+00:16:00,820 --> 00:16:02,460
 世界上最伟大的酒保
 the greatest bartender in the universe.
 
 434
-00:16:02,440 --> 00:16:04,700
+00:16:02,600 --> 00:16:04,360
 迪恩·马丁 1983年5月1日"
 Dean Martin. May 1, 1983."
 
@@ -2394,7 +2394,7 @@ These are my blessings.
 Do I like ethnic women? Guilty.
 
 480
-00:17:40,806 --> 00:17:43,440
+00:17:41,080 --> 00:17:42,980
 你们喜欢新鲜下的蛋吗
 Do you like farm-fresh eggs?
 
@@ -2534,12 +2534,12 @@ I mean, where is the pride?
 Old days, they used to deliver my oranges on Tuesdays.
 
 508
-00:18:45,620 --> 00:18:47,621
+00:18:45,620 --> 00:18:47,640
 就算有一万个希伯来奴隶
 I could not have built a pyramid faster
 
 509
-00:18:47,621 --> 00:18:49,840
+00:18:47,640 --> 00:18:49,800
 我造金字塔也没那么快
 with 10,000 Hebrews.
 

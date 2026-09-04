@@ -903,12 +903,12 @@ Hey, you'd better be careful,
 I don't have any money.
 
 182
-00:08:28,620 --> 00:08:30,016
+00:08:28,620 --> 00:08:30,040
 有这么好的身材 你不需要挣钱
 Well, with a body like that, you don't need any.
 
 183
-00:08:30,016 --> 00:08:31,731
+00:08:30,140 --> 00:08:31,280
 妙啊
 Oh! Ba-bam!
 
@@ -1378,12 +1378,12 @@ My role model! We're staying.
 $75? To do what...
 
 277
-00:12:57,480 --> 00:12:59,321
+00:12:57,480 --> 00:12:59,340
 傻站着 然后在
 stand here and dance next to...
 
 278
-00:12:59,321 --> 00:13:02,223
+00:12:59,340 --> 00:13:01,580
 男人婆和娘娘腔旁翩翩起舞吗
 guy-girl and girl-guy over there?
 
@@ -2243,7 +2243,7 @@ Didn't you get anything out of it?
 You mean, besides mono
 
 450
-00:20:27,560 --> 00:20:29,200
+00:20:27,560 --> 00:20:29,860
 一个画手指画只喜欢用手摸
 and an art teacher whose idea of finger-painting
 

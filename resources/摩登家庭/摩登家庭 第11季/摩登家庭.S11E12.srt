@@ -44,12 +44,12 @@ I definitely have to carve out some extra time for giggling.
 You can't discriminate against the poor guy
 
 10
-00:00:20,620 --> 00:00:21,776
+00:00:20,620 --> 00:00:21,800
 长得性感帅气就活该被歧视吗
 just because he's a smoke show.
 
 11
-00:00:21,776 --> 00:00:24,640
+00:00:21,940 --> 00:00:24,540
 我这一辈子都在跟"性感羞辱"作斗争
 I've been battling hot-shaming my entire life.
 
@@ -124,12 +124,12 @@ I don't have enough work for my assistant, Margaret.
 Been with me 40 years.
 
 26
-00:00:51,420 --> 00:00:52,880
+00:00:51,420 --> 00:00:52,900
 我总不能直接把她丢弃
 I can't just put her out to pasture
 
 27
-00:00:52,880 --> 00:00:54,880
+00:00:52,900 --> 00:00:54,460
 就像处理年迈孱弱的老马一样
 like some worn-out plow horse.
 
@@ -214,7 +214,7 @@ Cam, come on, let's go.
 No, hold on just a second. I need to finish this.
 
 44
-00:01:35,220 --> 00:01:37,934
+00:01:35,520 --> 00:01:37,880
 求你告诉我你不是又在搞写信请愿的事
 Please tell me this isn't another letter-writing campaign.
 
@@ -239,12 +239,12 @@ a very fun tribute to an American treasure,
 but, no, that's not what this is.
 
 49
-00:01:44,380 --> 00:01:45,540
+00:01:44,380 --> 00:01:45,560
 小卡 快点 我想快点走
 Cam, come on. I want to go.
 
 50
-00:01:45,540 --> 00:01:47,400
+00:01:45,660 --> 00:01:47,320
 商店半小时后就开门了
 The store opens in a half-hour, okay?
 
@@ -259,12 +259,12 @@ You know I get all my pants for the entire year at this sale,
 and 32 is a very, very common pant size.
 
 53
-00:01:51,720 --> 00:01:52,878
+00:01:51,720 --> 00:01:52,900
 你要是有哪一天
 It'd be great if we could go a day
 
 54
-00:01:52,878 --> 00:01:55,060
+00:01:52,900 --> 00:01:54,920
 不提你32英寸的腰围就好了
 without you mentioning your 32-inch waist size.
 
@@ -469,7 +469,7 @@ Oh, my God. Did he actually die?
 Calm down! I'm -- I'm first aid certified!
 
 95
-00:03:22,860 --> 00:03:22,980
+00:03:22,860 --> 00:03:22,940
 莫里
 Murray?
 
@@ -554,12 +554,12 @@ Just don't jump at the first offer.
 That's what I used to tell you about boys.
 
 112
-00:03:52,720 --> 00:03:54,676
+00:03:52,720 --> 00:03:54,700
 他来了 他来了
 He's here! He's here!!
 
 113
-00:03:54,676 --> 00:03:57,300
+00:03:55,360 --> 00:03:57,300
 今天 我们曾经的邻居 如今的科技大亨
 Today, our old neighbor- turned-tech-titan,
 
@@ -659,12 +659,12 @@ going back to thank the people who inspired them.
 Elon Musk got his math teacher an island.
 
 133
-00:04:52,000 --> 00:04:53,008
+00:04:52,000 --> 00:04:53,020
 那我能得到什么
 What am I getting?
 
 134
-00:04:53,008 --> 00:04:54,420
+00:04:53,020 --> 00:04:54,300
 假设那个人 是我
 Assuming it's...me.
 
@@ -704,7 +704,7 @@ he taught me to always dream big
 and reach for the stars.
 
 142
-00:05:09,958 --> 00:05:12,509
+00:05:10,060 --> 00:05:12,260
 为了感谢你 菲尔
 And as a thank-you, Phil,
 
@@ -744,7 +744,7 @@ This is the most amazing thing that's ever happened to me!
 Except of -- of course,
 
 150
-00:05:33,129 --> 00:05:36,358
+00:05:33,120 --> 00:05:35,920
 非连续两次赢得年度最佳房地产经纪人奖
 ...winning two non-consecutive Realtor of the Year Awards.
 
@@ -899,7 +899,7 @@ Nice to see you. Come in.
 - Hey, Dad! - There's my boy!
 
 181
-00:06:50,498 --> 00:06:54,141
+00:06:50,520 --> 00:06:53,800
 某人用了我定制的古龙香水
 Someone has been wearing my custom-made cologne --
 
@@ -954,12 +954,12 @@ with your giant, new beaver mouth?
 I don't know why I made that stupid promise.
 
 192
-00:07:15,620 --> 00:07:16,759
+00:07:15,620 --> 00:07:16,760
 金句源源不绝
 I am on fire!
 
 193
-00:07:16,759 --> 00:07:20,140
+00:07:16,880 --> 00:07:20,040
 我在高赌注牌局里拿到了同花顺
 I was in a high-stakes poker game with a King-high Flush.
 
@@ -974,12 +974,12 @@ So I bet my house.
 No, no, no, no, no.
 
 196
-00:07:23,220 --> 00:07:24,598
+00:07:23,220 --> 00:07:24,620
 你不能睡在曼尼的房间
 You're not living in Manny's room.
 
 197
-00:07:24,598 --> 00:07:28,200
+00:07:24,620 --> 00:07:28,080
 我赢下了为期一年的环球航行
 I won a year-long cruise around the world.
 
@@ -1029,12 +1029,12 @@ Oh, thanks, Margaret.
 Oh, God. I-Is there bourbon in this?
 
 207
-00:07:52,700 --> 00:07:54,118
+00:07:52,700 --> 00:07:54,140
 你跟我要咖啡的时候
 When you asked for coffee,
 
 208
-00:07:54,118 --> 00:07:56,780
+00:07:54,400 --> 00:07:56,560
 不是给了我眼神示意吗
 didn't you give me a "wink-wink"?
 
@@ -1179,12 +1179,12 @@ When the Internet goes out,
 they're forced to talk to each other.
 
 237
-00:09:01,480 --> 00:09:02,621
+00:09:01,480 --> 00:09:02,640
 我给戏取名为
 I call it
 
 238
-00:09:02,621 --> 00:09:05,040
+00:09:02,640 --> 00:09:04,840
 《谁什么何时哪里为何无线网》
 "Who, What, When, Where, Wi-Fi."
 
@@ -1229,12 +1229,12 @@ the lady's clothes come off.
 If my son wants to spend some time with me,
 
 247
-00:09:22,580 --> 00:09:23,459
+00:09:22,580 --> 00:09:23,480
 他应该有这个自由
 he should be able to.
 
 248
-00:09:23,459 --> 00:09:25,420
+00:09:23,620 --> 00:09:25,400
 杰 帮我说两句
 Jay...back me up.
 
@@ -1574,7 +1574,7 @@ you're not allowed to quote "Star Wars" to me anymore.
 - I love you. - I know.
 
 316
-00:11:43,035 --> 00:11:44,616
+00:11:43,680 --> 00:11:44,560
 肯尼思
 Hey...Kenneth.
 
@@ -2204,7 +2204,7 @@ Okay, now, hold on, hold on. Let me write these down.
 Alright. You call his wife...
 
 442
-00:16:12,573 --> 00:16:14,612
+00:16:12,440 --> 00:16:15,080
 无线网断了
 Hey, the Wi-Fi's out.
 
@@ -2334,7 +2334,7 @@ when there's so much love swirling around us,
 that all we need to do is --
 
 468
-00:17:21,430 --> 00:17:22,789
+00:17:21,360 --> 00:17:22,520
 网又好了
 Wi-Fi's back on!
 
@@ -2799,12 +2799,12 @@ Oh, good, you're here.
 Manny's about to model his new cruise wear for me.
 
 561
-00:20:49,840 --> 00:20:50,775
+00:20:49,840 --> 00:20:50,800
 看来有好戏看了
 This should be good.
 
 562
-00:20:50,775 --> 00:20:53,340
+00:20:50,800 --> 00:20:52,980
 杰 别让他自我羞耻
 Jay, don't make him self-conscious.
 

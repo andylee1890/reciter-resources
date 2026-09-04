@@ -84,7 +84,7 @@ Pour me another me.
 I hate to say it, but I go down easy.
 
 18
-00:01:01,540 --> 00:01:05,140
+00:01:02,300 --> 00:01:05,140
 "卡洛琳"是放在微冰杯里的柠檬杜松子酒
 "The Caroline" is Lemon Schnapps in a slightly frosty glass.
 
@@ -434,7 +434,7 @@ And I know, 'cause I tried once.
 Max! Oh, my God! What have you done?
 
 88
-00:04:52,240 --> 00:04:54,500
+00:04:52,880 --> 00:04:54,500
 我发现我不想吃我不爱吃的东西
 I realized I don't like a strawberry center.
 
@@ -499,7 +499,7 @@ Besides our lives.
 It's the Polish food.
 
 101
-00:05:33,360 --> 00:05:35,320
+00:05:33,360 --> 00:05:35,840
 我觉得其中有个香肠是用旧人字拖做的
 I think one of those sausages is made of old flip-flops.
 
@@ -689,7 +689,7 @@ I didn't do it.
 And just so you know,
 
 139
-00:07:28,640 --> 00:07:31,040
+00:07:29,220 --> 00:07:31,040
 我在纽瓦克市干的那件事  法律追溯期过了
 the statute of limitations is up on that Newark thing.
 
@@ -784,7 +784,7 @@ But we need to evacuate the building first.
 So let's go.
 
 158
-00:08:20,760 --> 00:08:24,020
+00:08:21,660 --> 00:08:24,020
 好吧  首先我可以先跟你谈清楚几件事吗
 All right, can I just put a few things away first.
 
@@ -874,7 +874,7 @@ You know who I think it is?
 Smells Like Cats But Has No Cats.
 
 176
-00:09:21,500 --> 00:09:23,340
+00:09:21,500 --> 00:09:23,740
 是吗  感觉他不像这么有实践力的人啊
 Really? He doesn't seem like a go-getter.
 
@@ -944,7 +944,7 @@ Ew. You were not exaggerating.
 She was born with all that skin.
 
 190
-00:09:57,740 --> 00:09:59,280
+00:09:58,200 --> 00:09:59,280
 她高中的时候
 She had a chip clip on her back
 
@@ -999,7 +999,7 @@ Oh, come on.
 No fair, they just let a guy in here a few minutes ago.
 
 201
-00:10:22,200 --> 00:10:24,480
+00:10:22,540 --> 00:10:24,480
 就因为你的朋友们不是寻炸弹狗
 Just 'cause your friends aren't bomb-sniffing dogs,
 
@@ -1104,7 +1104,7 @@ Hi. Excuse me.
 Excuse me?
 
 222
-00:11:14,480 --> 00:11:15,258
+00:11:14,480 --> 00:11:15,780
 我是玛利亚·阿隆索-冈萨雷斯
 I'm Maria Alonso-Gonzalez.
 
@@ -1129,7 +1129,7 @@ about tonight's disturbing discovery?
 Just go with me and my business savvy.
 
 227
-00:11:24,240 --> 00:11:24,979
+00:11:24,240 --> 00:11:25,300
 当然可以  玛利亚·阿隆索-冈萨雷斯
 Yes, Maria Alonso-Gonzalez,
 
@@ -1204,7 +1204,7 @@ Hey, Rula, Uma, Greta, look.
 This is him.
 
 242
-00:12:04,960 --> 00:12:05,640
+00:12:04,960 --> 00:12:06,420
 这位就是准新郎
 This is the groom-to-be.
 
@@ -1534,7 +1534,7 @@ So you just didn't want to tell people the specials.
 I can't believe this.
 
 308
-00:15:16,920 --> 00:15:19,320
+00:15:16,920 --> 00:15:19,780
 我们等了这么久  就等着小蛋糕T恤出名
 We waited so long for something to happen to our cupcake t-shirts.
 
@@ -1554,7 +1554,7 @@ And on the one day he chooses to not wear
 his "Pull my finger" shirt.
 
 312
-00:15:25,540 --> 00:15:26,300
+00:15:25,540 --> 00:15:27,180
 我是玛利亚·阿隆索-冈萨雷斯
 This is Maria Alonso-Gonzalez,
 
@@ -1604,7 +1604,7 @@ are allergic to work, much in the same way
 Dilbert is allergic to Mondays.
 
 322
-00:15:49,160 --> 00:15:50,140
+00:15:49,160 --> 00:15:50,920
 换个话题  玛利亚·阿隆索-冈萨雷斯
 Moving on, Maria Alonso-Gonzalez,
 
@@ -1624,7 +1624,7 @@ would you care to come into The Williamsburg Diner,
 open 8:00 A.M. till 2:00 A.M.,
 
 326
-00:15:57,820 --> 00:16:00,680
+00:15:58,280 --> 00:16:00,680
 喝一杯特色酒  "小蛋糕人质"大都会鸡尾酒
 for our signature drink: The Cupcake Captive Cosmo?
 
@@ -1649,7 +1649,7 @@ I need to make room for Han's body.
 I'm keeping the head as a warning to others who cross us.
 
 331
-00:16:16,020 --> 00:16:17,940
+00:16:16,020 --> 00:16:17,540
 我们要跟媒体安排一次采访
 We need to take back our t-shirts' image
 
@@ -1999,7 +1999,7 @@ No, I really am this time.
 - So am I. - Me, too.
 
 401
-00:19:22,560 --> 00:19:24,620
+00:19:23,140 --> 00:19:24,620
 吃了这根香肠  我才知道我吃过
 Until this sausage, I thought the grossest thing
 
@@ -2064,7 +2064,7 @@ I thought we needed a little pink.
 You're right. We did.
 
 414
-00:19:53,426 --> 00:19:54,840
+00:19:53,360 --> 00:19:54,840
 因为我们的T恤生意已经完了
 'Cause our t-shirt business is over.
 
@@ -2084,7 +2084,7 @@ We'll figure something out. We always do.
 Hey, girls, come quick.
 
 418
-00:20:01,820 --> 00:20:04,720
+00:20:02,580 --> 00:20:04,720
 我们要玩"猜猜苏菲最爱的性交体位"
 We're gonna play "Guess Sophie's Favorite Sex Position"
 
@@ -2094,7 +2094,7 @@ We're gonna play "Guess Sophie's Favorite Sex Position"
 It's on all fours, watching How To Get Away With Murder.
 
 420
-00:20:11,900 --> 00:20:14,120
+00:20:11,900 --> 00:20:13,440
 瞧  我就说我会赢嘛
 See? I told you I was gonna win.
 

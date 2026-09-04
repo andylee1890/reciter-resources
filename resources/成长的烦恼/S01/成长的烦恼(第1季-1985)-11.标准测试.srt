@@ -13,7 +13,7 @@ And he's tearing up the board, folks. This man cannot be stopped.
 All right, give me your best shot here, Carol. I feel hot. I feel ready.
 
 4
-00:01:10,791 --> 00:01:11,996
+00:01:11,060 --> 00:01:11,540
 好
 Okay.
 
@@ -148,7 +148,7 @@ Well, at least he had two great years.
 That's better than that poor guy a couple of popes ago.
 
 31
-00:03:44,044 --> 00:03:45,283
+00:03:44,240 --> 00:03:44,760
 杰森
 Jason.
 
@@ -328,7 +328,7 @@ you're either napping or throwing darts?
 That's how I unwind.
 
 67
-00:05:33,721 --> 00:05:35,233
+00:05:34,080 --> 00:05:34,520
 麦克.
 Mike.
 
@@ -338,7 +338,7 @@ Mike.
 Look, Mike, are you saying that you're trying as hard as you can?
 
 69
-00:05:39,827 --> 00:05:41,032
+00:05:39,880 --> 00:05:40,320
 是的
 Yeah.
 
@@ -408,12 +408,12 @@ Oh, don't be modest, Carol. Come on, let's share this special moment.
 Oh, I'm so proud of you, Carol.
 
 83
-00:06:27,500 --> 00:06:29,920
+00:06:27,060 --> 00:06:29,920
 代数：优! 社会科：优!
 Algebra : A! Social Studies: A!
 
 84
-00:06:32,220 --> 00:06:34,140
+00:06:31,260 --> 00:06:34,140
 -书呆子科：特优! -我不是书呆子
 - Advanced Nerdiness: A+! - I'm not a nerd.
 
@@ -858,7 +858,7 @@ That's more like it.
 A state of mind.
 
 173
-00:12:11,418 --> 00:12:12,691
+00:12:11,300 --> 00:12:11,940
 喂？
 Hello?
 
@@ -873,7 +873,7 @@ Okay, wait one second. It's for you.
 Don't go away, now. We're not done.
 
 176
-00:12:21,428 --> 00:12:22,701
+00:12:21,520 --> 00:12:21,940
 喂
 Hello.
 
@@ -953,7 +953,7 @@ Well, let me just put this in context for you, Mrs. Seaver.
 Now, a score of 100 is about average, 120 is very bright...
 
 192
-00:13:21,320 --> 00:13:24,040
+00:13:20,760 --> 00:13:24,040
 140是天才，160是.
 140 is considered a genius, 160 is--
 
@@ -1003,7 +1003,7 @@ Yeah, you're saying my son is an idiot.
 No, technically, he's an imbecile.
 
 202
-00:13:49,349 --> 00:13:50,517
+00:13:49,400 --> 00:13:49,920
 什么？
 What?
 
@@ -1033,7 +1033,7 @@ No, wait. What's 50 to 60?
 I don't know. A bozo?
 
 208
-00:14:06,700 --> 00:14:08,269
+00:14:07,000 --> 00:14:07,520
 不
 No!
 
@@ -1063,7 +1063,7 @@ Now, Dr. and Mrs. Seaver, the worst thing we can do is to overreact to this.
 Has Mike taken a sharp blow to the head recently?
 
 214
-00:14:23,617 --> 00:14:24,822
+00:14:23,820 --> 00:14:24,300
 没有
 No.
 
@@ -1188,7 +1188,7 @@ Well, either that, Mrs. Seaver, or he's a highly artistic imbecile.
 What is it? That's pretty.
 
 239
-00:15:54,708 --> 00:15:55,811
+00:15:54,800 --> 00:15:55,320
 没什么
 Nothing.
 
@@ -1223,7 +1223,7 @@ Mom and Dad really don't care about that sort of thing, so, you know...
 don't feel bad.
 
 246
-00:16:17,340 --> 00:16:18,400
+00:16:17,340 --> 00:16:19,540
 你拿到27分？
 You got a 27?
 
@@ -1273,7 +1273,7 @@ You see before you we're born, Mom and Dad came to me and they said:
 "but that he's a real independent, free-thinker, like you."
 
 256
-00:16:52,532 --> 00:16:53,703
+00:16:52,780 --> 00:16:53,160
 是的
 Yeah.
 
@@ -1283,7 +1283,7 @@ Yeah.
 Little did they know, you had peaked intellectually.
 
 258
-00:16:57,304 --> 00:16:58,850
+00:16:57,600 --> 00:16:58,200
 麦克.
 Mike?
 
@@ -1373,12 +1373,12 @@ Maybe you should have told me that you we're only interested...
 in having kids with high IQ scores.
 
 276
-00:18:03,169 --> 00:18:04,681
+00:18:03,580 --> 00:18:04,060
 麦克
 Mike.
 
 277
-00:18:07,507 --> 00:18:08,780
+00:18:08,220 --> 00:18:08,700
 麦克
 Mike.
 
@@ -1548,7 +1548,7 @@ Hey, did we just start a new conversation?
 Come on, what year?
 
 311
-00:20:13,080 --> 00:20:13,740
+00:20:12,420 --> 00:20:13,740
 1973年，什么意思？
 1973. So what does that mean?
 
@@ -1708,12 +1708,12 @@ Yeah, who knows? Mine might even be higher.
 et's not get hysterical, now.
 
 343
-00:22:03,320 --> 00:22:05,111
+00:22:03,320 --> 00:22:05,260
 -凯罗 -嗯？
 - Hey, Carol? - Yeah?
 
 344
-00:22:05,111 --> 00:22:06,282
+00:22:05,260 --> 00:22:05,700
 谢谢
 Thanks.
 
@@ -1753,7 +1753,7 @@ Saturday morning, 10:00.
 Oh, that's great, Dad, but....
 
 352
-00:22:46,280 --> 00:22:48,220
+00:22:46,280 --> 00:22:48,700
 我很满意27分这个分数
 Well, I've been thinking about it and I'm kind of happy with the 27.
 

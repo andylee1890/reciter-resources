@@ -39,7 +39,7 @@ We are taking a new photo for above our mantel.
 Lily's not in the one up there now,
 
 9
-00:00:14,909 --> 00:00:18,111
+00:00:14,900 --> 00:00:18,120
 我们察觉到...这似乎让她有点...
 and we...started to get the slight impression that...
 
@@ -699,7 +699,7 @@ so I can see what we're doing wrong.
 That's how I figured out
 
 141
-00:04:47,220 --> 00:04:49,460
+00:04:47,220 --> 00:04:49,260
 粉蓝色风衣让我看起来没精神的
 that powder-blue windbreaker washed me out so much.
 
@@ -1024,12 +1024,12 @@ And this building is home to one of our five Nobel laureates
 currently teaching here.
 
 206
-00:06:53,827 --> 00:06:56,508
+00:06:53,780 --> 00:06:56,780
 里面还有高电流
 It also houses our high-current,
 
 207
-00:06:56,508 --> 00:06:59,012
+00:06:56,800 --> 00:06:58,760
 高稳定性的粒子加速器
 high-stability particle accelerator.
 
@@ -1664,7 +1664,7 @@ I'm Jason.
 Alex.
 
 334
-00:11:17,208 --> 00:11:19,131
+00:11:17,600 --> 00:11:19,040
 这里是你的第一志愿吗
 Is this your first-choice school?
 
@@ -1709,7 +1709,7 @@ Sunday dinners, laundry,
 make sure my brother doesn't mess with
 
 343
-00:11:33,260 --> 00:11:35,281
+00:11:33,260 --> 00:11:34,960
 手工上色的南北战争模型
 my hand-painted civil war miniatures...
 
@@ -2279,7 +2279,7 @@ show those eggheads that we're not sheep!
 No! Breaking the rules doesn't make you a hero!
 
 457
-00:15:12,120 --> 00:15:13,660
+00:15:12,280 --> 00:15:13,340
 而是个傻瓜
 It makes you a screw-up!
 
@@ -2304,7 +2304,7 @@ becomes Steve Jobs.
 Do you know who become losers with no jobs?
 
 462
-00:15:19,760 --> 00:15:21,899
+00:15:19,980 --> 00:15:21,320
 剩下的九万九千人
 The other 99,000!
 
@@ -2579,7 +2579,7 @@ Please use number 2 pencils.
 Yeah, just wall.
 
 517
-00:17:30,919 --> 00:17:32,876
+00:17:30,860 --> 00:17:32,240
 这才是测试
 So this is the...test.
 
@@ -2839,7 +2839,7 @@ You should see every picture
 we have of Luke from third grade.
 
 569
-00:19:21,060 --> 00:19:23,423
+00:19:21,180 --> 00:19:23,180
 他看上去好像在打喷嚏 实在太可惜了
 He looks like he's mid-sneeze, which is a shame,
 
@@ -2929,7 +2929,7 @@ As you know, our acceptance rate is 8%,
 so in the fall, I look forward to seeing one out of...
 
 587
-00:19:58,323 --> 00:19:59,757
+00:19:58,200 --> 00:19:59,260
 必然不会有他
 So...not him.
 

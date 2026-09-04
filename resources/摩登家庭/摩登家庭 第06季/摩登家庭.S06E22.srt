@@ -14,12 +14,12 @@ I got the list of what you need for your project.
 - Uh, glitter glue... - Okay.
 
 4
-00:00:06,340 --> 00:00:07,186
+00:00:06,340 --> 00:00:07,200
 荧光圆片
 glitter dots...
 
 5
-00:00:07,186 --> 00:00:10,020
+00:00:07,720 --> 00:00:08,840
 荧光纸
 glitter...paper.
 
@@ -149,12 +149,12 @@ if not the universe.
 a sauce delivered from heaven...
 
 31
-00:00:59,640 --> 00:01:00,258
+00:00:59,640 --> 00:01:00,280
 肯萨斯市来的
 From Kansas city.
 
 32
-00:01:00,258 --> 00:01:03,340
+00:01:00,340 --> 00:01:03,300
 夹在刚出炉完美烤制的圆面包中
 all on a perfectly toasted, fresh-baked bun.
 
@@ -489,12 +489,12 @@ This is a nightmare.
 Worst day of my life.
 
 99
-00:03:25,140 --> 00:03:26,879
+00:03:25,140 --> 00:03:26,900
 各位 我们该庆祝一番
 Guys, we should be celebrating.
 
 100
-00:03:26,879 --> 00:03:28,760
+00:03:27,040 --> 00:03:28,400
 这是真正意义上的双赢
 This is literally a win/win.
 
@@ -519,12 +519,12 @@ I'd like to check the GPAs myself.
 Have at it.
 
 105
-00:03:37,340 --> 00:03:38,938
+00:03:37,340 --> 00:03:38,960
 这俩人怎么了啊
 What is it with these two?
 
 106
-00:03:38,938 --> 00:03:42,198
+00:03:39,200 --> 00:03:41,720
 我同意他们 平局不是美国风格
 I agree with them. Ties are un-American.
 
@@ -584,12 +584,12 @@ What are you guys all doing here?
 What are the last two states to be admitted into the union?
 
 118
-00:04:13,820 --> 00:04:14,776
+00:04:13,820 --> 00:04:14,800
 阿拉斯加和夏威夷
 Alaska and Hawaii.
 
 119
-00:04:14,776 --> 00:04:17,300
+00:04:15,120 --> 00:04:17,060
 列举两个内阁职位[橱柜位置]
 Name two cabinet-level positions.
 
@@ -799,12 +799,12 @@ have completed this semester's mile run.
 We were at a debate tournament.
 
 161
-00:05:59,680 --> 00:06:01,438
+00:05:59,680 --> 00:06:01,460
 -我们赢了 多亏了我 -得了吧
 - Which we won, thanks to me. - Oh, please.
 
 162
-00:06:01,438 --> 00:06:03,440
+00:06:01,480 --> 00:06:03,360
 你对安乐死进行冗长总结时
 After your long-winded summation on euthanasia,
 
@@ -939,12 +939,12 @@ It was called "Mr. Lamb Buys a Ham."
 But really, it was about the holocaust.
 
 189
-00:06:52,080 --> 00:06:53,230
+00:06:52,080 --> 00:06:53,240
 桑杰16岁时
 When he was 16,
 
 190
-00:06:53,230 --> 00:06:56,040
+00:06:53,480 --> 00:06:55,920
 是州里排名第一的国际象棋手
 Sanjay was the highest-ranked chess player in the state.
 
@@ -1914,12 +1914,12 @@ Yeah, I heard the moaning. Are we terrible people?
 I don't think we are. Look, hear -- hear me out.
 
 384
-00:14:04,680 --> 00:14:06,601
+00:14:04,680 --> 00:14:06,620
 我们吃了那些汉堡就避免了
 By eating those burgers, we denied them
 
 385
-00:14:06,601 --> 00:14:09,000
+00:14:06,620 --> 00:14:09,000
 让它们被那些可能来这家餐厅的
 from the sort of narrow-minded homophobes
 
@@ -2309,12 +2309,12 @@ I guess it still bothers me
 that you have all these ties to Javier.
 
 463
-00:16:43,520 --> 00:16:44,841
+00:16:43,520 --> 00:16:44,860
 什么联系 你瞎扯些什么
 What ties? What are you talking about?
 
 464
-00:16:44,841 --> 00:16:46,920
+00:16:45,040 --> 00:16:46,880
 歌洛莉亚·迪尔加多-普里契特
 Gloria Delgado-Pritchett.
 
@@ -2704,7 +2704,7 @@ Okay, that's enough.
 I-I think -- I think we can dial it back.
 
 542
-00:19:30,039 --> 00:19:32,600
+00:19:30,320 --> 00:19:32,360
 那么就一起做联合学生代表吧
 So, co-valedictorians it is.
 

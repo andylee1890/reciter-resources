@@ -269,12 +269,12 @@ The name's a placeholder.
 But probably still available.
 
 55
-00:01:55,160 --> 00:01:57,479
+00:01:55,160 --> 00:01:57,500
 爸 我希望你知道我超爱你的面糊发射器
 Dad, I want you to know I love your pancake shooter.
 
 56
-00:01:57,479 --> 00:02:01,955
+00:01:57,900 --> 00:02:01,640
 那你看到这个改进版的...
 Have you seen the updates...to...
 
@@ -564,12 +564,12 @@ Isn't it a lot like clowning?
 Mascot-ing is nothing like clowning!
 
 114
-00:03:59,560 --> 00:04:01,614
+00:03:59,560 --> 00:04:01,640
 小丑是宫廷小丑的后代
 Clowns are descendants of the court jester,
 
 115
-00:04:01,614 --> 00:04:03,855
+00:04:02,060 --> 00:04:03,440
 是国王的忠实谏臣
 truth-teller to the king.
 
@@ -729,12 +729,12 @@ If you have trouble telling them apart,
 just take off their diapers.
 
 147
-00:05:06,440 --> 00:05:07,940
+00:05:06,440 --> 00:05:07,960
 我在乔治的纸尿裤里面写了他的名字
 I wrote George's name inside his.
 
 148
-00:05:07,940 --> 00:05:09,740
+00:05:08,060 --> 00:05:09,580
 我的曾孙们来了
 There's my great-grandchildren.
 
@@ -804,12 +804,12 @@ without the lollipop and a great catchphrase.
 Okay, and you two, I know how precious alone time is
 
 162
-00:05:36,340 --> 00:05:37,559
+00:05:36,340 --> 00:05:37,580
 有多宝贵
 for new parents,
 
 163
-00:05:37,559 --> 00:05:39,240
+00:05:37,580 --> 00:05:39,220
 -所以你们都走吧 -拜拜
 - so everybody go. - Bye-bye!
 
@@ -1574,12 +1574,12 @@ Well, I thought we heard a yes.
 No, I'm -- I'm still having a conversation with my wife.
 
 316
-00:10:57,280 --> 00:10:58,998
+00:10:57,280 --> 00:10:59,020
 你先放轻松坐好
 Please, make yourself comfortable.
 
 317
-00:10:58,998 --> 00:11:01,240
+00:10:59,020 --> 00:11:01,240
 要不把你那双胶底鞋脱了
 Maybe kick off those rubber-soled shoes
 
@@ -1829,17 +1829,17 @@ What the hell's a priest doing here?
 Oh, it's just a check-up.
 
 367
-00:13:39,420 --> 00:13:42,980
+00:13:39,660 --> 00:13:42,660
 宝宝之一或许被附身了
 One of the babies maybe is...possessed.
 
 368
-00:13:42,980 --> 00:13:45,002
+00:13:42,980 --> 00:13:45,020
 等等 你要瞒着海莉和那个谁
 Wait, are you baptizing them behind Haley
 
 369
-00:13:45,002 --> 00:13:46,160
+00:13:45,020 --> 00:13:46,060
 让宝宝们受洗
 and what's-his-name's back?
 
@@ -1944,12 +1944,12 @@ Why didn't you just ask us?
 I did. I did ask you.
 
 390
-00:14:33,460 --> 00:14:35,299
+00:14:33,460 --> 00:14:35,320
 你答应了 我想你当时喝得很醉
 You said yes. I think you were very drunk.
 
 391
-00:14:35,299 --> 00:14:37,579
+00:14:35,760 --> 00:14:37,460
 海莉 新菲尔
 Haley, New-Phil,
 
@@ -2054,7 +2054,7 @@ like Joan of Arc, Mother Theresa,
 Danny DeVito when he dies.
 
 412
-00:15:23,680 --> 00:15:23,800
+00:15:23,680 --> 00:15:23,740
 开始吧
 Go.
 

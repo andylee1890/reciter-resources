@@ -134,7 +134,7 @@ Oh, oh, that's me.
 Oh, I gotta run.
 
 28
-00:00:54,577 --> 00:00:56,120
+00:00:54,700 --> 00:00:56,120
 我今天要连续开两场会
 I got back-to-back meetings today
 
@@ -239,12 +239,12 @@ And then I would show the client
 comparable sales from the past year.
 
 49
-00:01:55,420 --> 00:01:58,320
+00:01:55,420 --> 00:01:58,340
 我布置的作业 是呈现一个吸引人的销售推介
 The assignment was to present a compelling sales pitch,
 
 50
-00:01:58,320 --> 00:02:01,360
+00:01:58,400 --> 00:02:01,280
 不是用无止尽的房地产陈腔滥调把我无聊死
 not bore me with endless real-estate cliches.
 
@@ -284,12 +284,12 @@ I'm sorry, are -- are -- are those sentences?
 Why so harsh?
 
 58
-00:02:14,700 --> 00:02:17,679
+00:02:14,700 --> 00:02:17,700
 因为歌洛莉亚在这方面有独特的天赋
 Because Gloria's gift is that special.
 
 59
-00:02:17,679 --> 00:02:20,480
+00:02:17,800 --> 00:02:20,380
 堪称划时代的房地产天才
 A generational real-estate talent.
 
@@ -329,7 +329,7 @@ Government Code 12955.
 Multi-family dwellings!
 
 67
-00:02:35,030 --> 00:02:37,242
+00:02:35,240 --> 00:02:37,220
 《民法》第1101.1条
 Civil Code 1101.1.
 
@@ -374,12 +374,12 @@ Yes!
 Someone is paying attention.
 
 76
-00:02:50,900 --> 00:02:52,016
+00:02:50,900 --> 00:02:52,040
 很难不认真听
 It's hard not to.
 
 77
-00:02:52,016 --> 00:02:53,800
+00:02:52,320 --> 00:02:53,800
 你关于房产法规的说唱式课程
 Your rap-lectures on property codes
 
@@ -419,7 +419,7 @@ She must hate the sea turtles.
 I was gonna get you one that said "World's Greatest,"
 
 85
-00:03:06,919 --> 00:03:08,820
+00:03:06,940 --> 00:03:08,640
 但我不想显得太过拍马屁
 but I didn't want to look like a suck-up.
 
@@ -534,12 +534,12 @@ This was for the cover of Corner Office Magazine.
 I mean, that's basically Vogue for female CEOs.
 
 108
-00:03:57,500 --> 00:03:59,520
+00:03:57,500 --> 00:03:59,540
 最近 我们家似乎更适合
 Lately, my family has seemed more suited
 
 109
-00:03:59,520 --> 00:04:01,982
+00:03:59,540 --> 00:04:01,460
 鳄鱼农场的广告看板
 to a gator-farm billboard.
 
@@ -1034,12 +1034,12 @@ Alex?
 What -- What are you doing home from Antarctica?!
 
 208
-00:07:53,460 --> 00:07:55,316
+00:07:53,460 --> 00:07:55,340
 我实在受不了寒冷了
 I couldn't take the cold anymore.
 
 209
-00:07:55,316 --> 00:07:56,760
+00:07:55,400 --> 00:07:56,760
 我太迫不及待早点回家
 Mm-hmm? I was so desperate,
 
@@ -1149,7 +1149,7 @@ Well, it was a disaster.
 George head-butted me and gave me this black eye.
 
 231
-00:08:47,900 --> 00:08:49,780
+00:08:47,960 --> 00:08:49,780
 迪伦读到说肌肤接触
 And Dylan read that skin-to-skin contact
 
@@ -1174,7 +1174,7 @@ Can you tell?
 Oh, plus, we forgot the diaper bag,
 
 236
-00:08:56,833 --> 00:08:58,780
+00:08:56,880 --> 00:08:58,780
 于是只好用在迪伦车上找到的
 so we had to use fast-food wrappers
 
@@ -1569,7 +1569,7 @@ Splendid, my good man.
 The British accent gets me better service.
 
 315
-00:12:29,474 --> 00:12:30,917
+00:12:29,940 --> 00:12:30,400
 再会
 Tally-ho!
 
@@ -1924,12 +1924,12 @@ Sorry we're such an embarrassment.
 You're right.
 
 386
-00:15:32,820 --> 00:15:34,994
+00:15:32,820 --> 00:15:35,020
 我的所作所为没有借口
 There's no excuse for what I did.
 
 387
-00:15:34,994 --> 00:15:37,640
+00:15:36,100 --> 00:15:37,640
 除了
 I-I mean, except that
 
@@ -2494,12 +2494,12 @@ and I ran over Libby,
 and that's why you're hiding in the bushes like a sheep?
 
 500
-00:20:00,940 --> 00:20:01,879
+00:20:00,940 --> 00:20:01,900
 你这样感觉像是
 Well, now it just seems like
 
 501
-00:20:01,879 --> 00:20:04,100
+00:20:01,900 --> 00:20:04,100
 专门挑出今天我最难堪的那些事情来说
 you're cherry-picking what happened today
 

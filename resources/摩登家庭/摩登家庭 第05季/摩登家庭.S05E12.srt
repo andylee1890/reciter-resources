@@ -104,7 +104,7 @@ Alex, sweet...
 I really need to focus!
 
 22
-00:00:36,720 --> 00:00:39,080
+00:00:37,120 --> 00:00:39,080
 有个16岁的科学天才
 There is a 16-year-old science prodigy
 
@@ -199,7 +199,7 @@ And there she is.
 - Hi, pretty girl. - How'd you sleep?
 
 41
-00:01:22,120 --> 00:01:24,660
+00:01:22,420 --> 00:01:24,660
 -不错 -你的头发看起来超柔软 小艾
 - Fine. - Your hair looks super-soft, Al.
 
@@ -279,7 +279,7 @@ I will be taking the bus.
 - Okay. - That sounds good.
 
 57
-00:01:55,545 --> 00:01:57,381
+00:01:55,660 --> 00:01:57,120
 她简直像个自动清洁炉
 She's like a self-cleaning oven.
 
@@ -444,12 +444,12 @@ I haven't printed anything since 2004.
 I was gonna e-mail you.
 
 90
-00:02:53,681 --> 00:02:54,964
+00:02:53,860 --> 00:02:54,940
 用你那高耗电的电脑吗
 On your power-hungry computer?
 
 91
-00:02:54,964 --> 00:02:56,600
+00:02:55,040 --> 00:02:56,240
 我整座房子都是用太阳能供电的
 My entire house is solar-powered.
 
@@ -479,7 +479,7 @@ so, you know, I'm pretty green.
 So is your lawn.
 
 97
-00:03:05,443 --> 00:03:06,760
+00:03:05,280 --> 00:03:06,400
 我的庭院是抗干旱的
 I went drought-tolerant --
 
@@ -539,7 +539,7 @@ for a school open house?
 I want to impress Manny's history teacher.
 
 109
-00:03:32,260 --> 00:03:34,645
+00:03:32,260 --> 00:03:34,180
 我想让曼尼去华盛顿
 I want Manny to go to Washington, D.C.
 
@@ -949,7 +949,7 @@ Dr. Donna Duncan,
 Wesley's mom.
 
 191
-00:06:04,380 --> 00:06:06,580
+00:06:04,760 --> 00:06:06,580
 一点小谢礼 不成敬意
 Just brought you a little thank-you
 
@@ -1024,7 +1024,7 @@ You want some? It's Scotch.
 No. Put it away.
 
 206
-00:06:32,680 --> 00:06:34,280
+00:06:32,780 --> 00:06:34,060
 别这么娘娘腔
 Don't be such a goody-goody.
 
@@ -1374,7 +1374,7 @@ With Luke and Haley,
 I'm on top of everything because they aren't.
 
 276
-00:08:55,420 --> 00:08:57,908
+00:08:55,720 --> 00:08:57,660
 但是艾丽克斯是那么的自立
 But Alex is so self-sufficient,
 
@@ -1549,7 +1549,7 @@ He had the nerve to come over here
 and tell me that I'm not green enough.
 
 311
-00:10:09,260 --> 00:10:11,077
+00:10:09,500 --> 00:10:11,060
 不会吧 你超级环保的
 Shut up! You're super-green.
 
@@ -1654,7 +1654,7 @@ like those aren't endangered.
 You know what? I am gonna do that.
 
 332
-00:10:44,857 --> 00:10:46,722
+00:10:44,760 --> 00:10:46,540
 让他知道我有多环保
 Show him to out-green me.
 
@@ -1944,7 +1944,7 @@ We're really not supposed to, but you know what?
 Hey, guys, listen to this. My name's Cam.
 
 390
-00:12:51,140 --> 00:12:54,699
+00:12:51,380 --> 00:12:54,500
 是"多比"镇警官 其实是"躲避"球
 I'm the sheriff of Dodge...ball.
 
@@ -2349,7 +2349,7 @@ First down! All right.
 Best open house ever.
 
 471
-00:15:43,260 --> 00:15:45,540
+00:15:43,560 --> 00:15:45,360
 在影音俱乐部里一切都轻而易举
 It's all gravy when you're in the A.V.
 
@@ -2449,7 +2449,7 @@ My parents didn't even know I was in it.
 I just felt this weight on my shoulders,
 
 491
-00:16:23,540 --> 00:16:26,560
+00:16:23,620 --> 00:16:26,560
 就好像如果输了 我会 我也不知道
 like if I lost, I'd...I don't know.
 
@@ -2494,7 +2494,7 @@ That's one way to put it.
 And this responsibility -- where does it come from?
 
 500
-00:16:46,716 --> 00:16:49,920
+00:16:46,720 --> 00:16:49,560
 我也不知道 它就自然存在了
 I'm not sure. It's just...there.
 
@@ -2789,7 +2789,7 @@ Thank you! Thank you so much!
 If I could just have a second to think
 
 559
-00:19:10,060 --> 00:19:11,965
+00:19:10,060 --> 00:19:11,540
 我就能静下心来计算了
 without all the tippy-tappy typing.
 

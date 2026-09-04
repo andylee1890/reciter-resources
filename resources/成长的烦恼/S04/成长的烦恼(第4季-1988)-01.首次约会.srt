@@ -34,7 +34,7 @@ Jenny: Watch it you pig, dog, wart hog. Ah, got to go. Ballet class.
 Good game Ben.
 
 8
-00:00:16,600 --> 00:00:18,460
+00:00:16,440 --> 00:00:18,460
 本:詹妮,你好好去玩吧.我们还得比一下.
 Ben: Nice going Jenny. We're still champs.
 
@@ -827,7 +827,7 @@ Ben: (in his head) She's just a girl, it's no big deal. I'll ask her like Mike a
 Jenny: What is it Ben?
 
 167
-00:09:08,420 --> 00:09:10,840
+00:09:07,860 --> 00:09:10,840
 本:我只是在想万圣节要到了……
 Ben: I was just thinking about Halloween coming up and...
 
@@ -2026,7 +2026,7 @@ Girl: Molly.
 Mike: Ben,
 
 407
-00:21:32,900 --> 00:21:36,120
+00:21:30,860 --> 00:21:36,120
 本:你,嗯,想,嗯,跳舞吗?
 Ben: Would you, um, like to to, um, dance?
 

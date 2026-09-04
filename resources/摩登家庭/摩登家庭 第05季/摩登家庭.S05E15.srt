@@ -19,7 +19,7 @@ But if I don't take anything and I don't sleep,
 I'll be groggy for the meeting, you know?
 
 5
-00:00:11,413 --> 00:00:13,480
+00:00:11,400 --> 00:00:13,480
 我在再次竞选当地房地产经纪人团体的
 I was up for re-election as social chair
 
@@ -174,7 +174,7 @@ Never met Art Wagner.
 They took away his realtor's license after Gategate.
 
 36
-00:01:08,440 --> 00:01:09,540
+00:01:08,200 --> 00:01:09,340
 别再追忆历史了 "蹬腿"
 Okay, enough history, "Done-for."
 
@@ -419,7 +419,7 @@ It'll get my mind off this meeting with your friend.
 I am so nervous.
 
 85
-00:03:15,540 --> 00:03:17,853
+00:03:15,740 --> 00:03:17,760
 我很久没开过销售会议了
 I haven't had a sales meeting in...forever.
 
@@ -954,7 +954,7 @@ Our kids are wrestling each other.
 - Are you kidding? - Nope!
 
 192
-00:06:37,753 --> 00:06:39,699
+00:06:37,800 --> 00:06:39,700
 那个就是我的小选手
 There's my little bra-snapper right there.
 
@@ -1169,7 +1169,7 @@ What -- forever?
 What happened to him?
 
 235
-00:08:00,518 --> 00:08:02,600
+00:08:00,740 --> 00:08:02,600
 上高中前 他没有这么强烈的
 He didn't used to be that self-conscious
 
@@ -1304,7 +1304,7 @@ What else would she be doing?
 Playing...?
 
 262
-00:08:56,016 --> 00:08:58,260
+00:08:57,140 --> 00:08:58,020
 玩...什么
 Playing...what?
 
@@ -1449,12 +1449,12 @@ He called it "Groom with a view."
 Somebody got it into his head to call it the "Cam-cam."
 
 291
-00:09:44,026 --> 00:09:45,345
+00:09:44,340 --> 00:09:45,440
 于是就有了各种跳脚
 Then there was a lot of foot-stomping
 
 292
-00:09:45,345 --> 00:09:47,440
+00:09:45,440 --> 00:09:47,200
 折手杖 摔单眼镜
 and cane-snapping and monocle-smashing.
 
@@ -1819,7 +1819,7 @@ Come here, little rusty.
 No, listen, you --
 
 365
-00:12:01,800 --> 00:12:04,140
+00:12:01,840 --> 00:12:04,140
 什么样的禽兽为了自身利益
 What kind of monster puts their self-interest
 
@@ -2399,12 +2399,12 @@ then you run and hide because your face is red.
 You're right.
 
 481
-00:15:58,380 --> 00:16:00,672
+00:15:58,980 --> 00:16:00,980
 我一直怪其他高中生
 I keep blaming the high-school boys
 
 482
-00:16:00,672 --> 00:16:02,360
+00:16:00,980 --> 00:16:02,260
 老是害你难为情
 for making you self-conscious,
 
@@ -2804,7 +2804,7 @@ Oh, my god. He was saving him.
 Oh. Have a good day.
 
 562
-00:18:24,726 --> 00:18:26,820
+00:18:24,780 --> 00:18:26,100
 结果好 一切好
 Well...all's well that ends well.
 
@@ -2969,7 +2969,7 @@ about this stupid invention.
 It has a name
 
 595
-00:19:50,020 --> 00:19:52,417
+00:19:50,060 --> 00:19:52,040
 注册商标 "真感觉挠头器"
 "The real head scratcher, T.M."
 

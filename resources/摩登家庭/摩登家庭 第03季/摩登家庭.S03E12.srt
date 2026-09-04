@@ -14,22 +14,22 @@ KEYp your cool...
 KEYp informed...
 
 4
-00:00:14,208 --> 00:00:15,558
+00:00:13,960 --> 00:00:15,100
 腿脚勤快
 Legwork.
 
 5
-00:00:15,558 --> 00:00:18,578
+00:00:15,360 --> 00:00:18,460
 我刚成为一家新房地产公司的合伙人
 I recently became a partner in a new agency,
 
 6
-00:00:18,588 --> 00:00:20,408
+00:00:18,460 --> 00:00:20,400
 所以我要办个解说会
 so I put together a seminar
 
 7
-00:00:20,408 --> 00:00:22,808
+00:00:20,400 --> 00:00:22,160
 来吸引第一次买房的新手
 to recruit first-time home buyers.
 
@@ -49,22 +49,22 @@ of exactly what I can do for them.
 Am I worried tha they might write it all down
 
 11
-00:00:29,067 --> 00:00:30,587
+00:00:29,120 --> 00:00:30,200
 自己去挑选房子
 and just do it themselves?
 
 12
-00:00:30,677 --> 00:00:34,187
+00:00:30,900 --> 00:00:34,100
 坦白说 我现在才察觉到这个问题
 Quite frankly, I hadn't thought about it until just now.
 
 13
-00:00:34,677 --> 00:00:35,937
+00:00:34,760 --> 00:00:35,960
 我非得去参加吗
 Do I really have to go to this thing?
 
 14
-00:00:35,937 --> 00:00:37,367
+00:00:36,160 --> 00:00:37,340
 当然 你今天戏份大着呢
 Yes. You're a big part of today.
 
@@ -79,7 +79,7 @@ You're my support staff.
 Then why am I not getting paid?
 
 17
-00:00:40,977 --> 00:00:42,076
+00:00:40,940 --> 00:00:41,980
 问得好
 That is a good question.
 
@@ -99,17 +99,17 @@ on that cell phone we pay for.
 Honey, do you wanna practice your part again?
 
 21
-00:00:47,156 --> 00:00:49,556
+00:00:47,280 --> 00:00:49,580
 不 就一个问题而已 我记住了
 Uh, no. It's just one question. I think I got it.
 
 22
-00:00:49,556 --> 00:00:51,226
+00:00:49,700 --> 00:00:51,300
 是的 可那是最关键的问题
 Yeah, but it's the most important question
 
 23
-00:00:51,226 --> 00:00:53,036
+00:00:51,300 --> 00:00:53,020
 它将引出我的压轴好戏
 because it launches me into my big finish.
 
@@ -119,22 +119,22 @@ because it launches me into my big finish.
 - Yes. - That way, people leave excited.
 
 25
-00:00:55,526 --> 00:00:58,056
+00:00:55,340 --> 00:00:57,700
 我看是很高兴能离开吧
 Oh, I think people will be excited to leave.
 
 26
-00:01:02,015 --> 00:01:03,225
+00:01:02,000 --> 00:01:02,440
 卢克
 Luke...
 
 27
-00:01:03,825 --> 00:01:04,595
+00:01:03,820 --> 00:01:04,260
 你在干嘛
 Why?
 
 28
-00:01:04,595 --> 00:01:06,565
+00:01:04,600 --> 00:01:06,100
 抱歉 我是为了完成学校作业
 I'm sorry. It's for school.
 
@@ -149,7 +149,7 @@ I have to design a container that'll protect an egg
 in a 1-story drop.
 
 31
-00:01:09,965 --> 00:01:10,995
+00:01:10,120 --> 00:01:10,980
 好吧 所以
 Yeah, so, um,
 
@@ -159,7 +159,7 @@ Yeah, so, um,
 you thought you would go with an egg carton?
 
 33
-00:01:13,435 --> 00:01:16,775
+00:01:13,460 --> 00:01:16,180
 也许最佳方法就藏在我眼皮底下呢
 What if the best idea was under my nose the whole time?
 
@@ -169,22 +169,22 @@ What if the best idea was under my nose the whole time?
 You're gonna need to come down and clean this up now.
 
 35
-00:01:18,504 --> 00:01:20,424
+00:01:18,680 --> 00:01:20,440
 其实我本来完全不用瞎折腾的
 Ugh! I wouldn't have to do any of this
 
 36
-00:01:20,424 --> 00:01:23,524
+00:01:20,440 --> 00:01:23,440
 都怪艾丽克斯不肯让我用她当年上这课时的作品
 if Alex would just let me use hers from when she took the class.
 
 37
-00:01:23,524 --> 00:01:24,174
+00:01:23,440 --> 00:01:23,760
 门都没有
 Never.
 
 38
-00:01:24,174 --> 00:01:26,764
+00:01:23,760 --> 00:01:26,360
 那设计是我的知识产权
 That design is my intellectual property.
 
@@ -194,12 +194,12 @@ That design is my intellectual property.
 I think it has applications for unmanned space flight.
 
 40
-00:01:29,104 --> 00:01:29,994
+00:01:29,240 --> 00:01:30,160
 你再继续当科学怪胎
 Keep talking like that
 
 41
-00:01:29,994 --> 00:01:31,844
+00:01:30,160 --> 00:01:31,440
 一辈子都无人可"嫁"了
 and you'll go through life unmanned.
 
@@ -219,17 +219,17 @@ Luke, honey, listen to me.
 You're gonna need to do this project on your own.
 
 45
-00:01:36,713 --> 00:01:39,353
+00:01:36,720 --> 00:01:38,740
 你能做到的 只要努力动动脑子
 And you can do it. Just... really think.
 
 46
-00:01:39,713 --> 00:01:40,463
+00:01:39,680 --> 00:01:40,480
 我想到了
 I've got it!
 
 47
-00:01:40,463 --> 00:01:42,333
+00:01:40,500 --> 00:01:42,100
 用我自身做容器如何
 What if I'm the container?
 
@@ -239,7 +239,7 @@ What if I'm the container?
 There's a thought. You could be...
 
 49
-00:01:44,303 --> 00:01:46,133
+00:01:44,240 --> 00:01:45,660
 别 卢克 卢克
 No, Luke! Luke!
 
@@ -369,7 +369,7 @@ But isn't he, like, a little, like...
 I bet Claire's gonna help him,
 
 75
-00:02:57,419 --> 00:03:00,519
+00:02:57,680 --> 00:03:00,000
 就像上次美术课帮他画自画像一样
 just like she did with his self-portrait for art class.
 
@@ -384,12 +384,12 @@ There was life in those eyes.
 It was haunting.
 
 78
-00:03:03,069 --> 00:03:05,308
+00:03:03,220 --> 00:03:05,140
 那行 我要将此不正之风扼杀于萌芽中
 Tell you what. I'm gonna nip this in the bud.
 
 79
-00:03:06,088 --> 00:03:08,128
+00:03:05,920 --> 00:03:07,760
 你应该有公平竞争的机会
 You deserve a fighting chance.
 
@@ -434,27 +434,27 @@ Again, dad?
 Oh, I'm sorry, it just...
 
 88
-00:03:23,057 --> 00:03:24,557
+00:03:23,380 --> 00:03:25,080
 总让我不爽而已
 bugs me, is all.
 
 89
-00:03:25,187 --> 00:03:27,277
+00:03:25,080 --> 00:03:27,000
 我要说的是 我不会帮忙
 The point is, I'm not helping,
 
 90
-00:03:27,277 --> 00:03:29,797
+00:03:27,000 --> 00:03:29,780
 我希望大家也都别帮忙
 and I hope no one else is helping, either.
 
 91
-00:03:29,797 --> 00:03:31,917
+00:03:30,000 --> 00:03:32,000
 好吧 爸爸 多谢你提醒
 Okay, dad. Thanks for the heads-up.
 
 92
-00:03:31,927 --> 00:03:33,987
+00:03:32,000 --> 00:03:33,720
 爱你哦 再见
 Love you. Bye-bye.
 
@@ -469,32 +469,32 @@ Well, my dad is doing Manny's project for him.
 He called to tell you that?
 
 95
-00:03:38,107 --> 00:03:40,457
+00:03:38,200 --> 00:03:40,560
 不 他打来告诉我他不会帮忙
 Oh, no. He called to tell me that he wasn't,
 
 96
-00:03:40,457 --> 00:03:42,726
+00:03:40,560 --> 00:03:42,820
 那正是当你要插手帮忙时
 which is exactly what you say when you are,
 
 97
-00:03:42,726 --> 00:03:44,606
+00:03:42,820 --> 00:03:44,820
 又不想引人怀疑的说辞
 but you don't want anybody to suspect it.
 
 98
-00:03:44,606 --> 00:03:46,046
+00:03:44,820 --> 00:03:45,280
 是吗
 Really?
 
 99
-00:03:46,076 --> 00:03:48,516
+00:03:45,880 --> 00:03:48,360
 那你和你爸之间的问题又是什么说辞呢
 What would you say if you had issues with your father?
 
 100
-00:03:48,516 --> 00:03:51,436
+00:03:48,360 --> 00:03:51,240
 克莱尔和杰非常喜欢一较高低
 Claire and Jay are incredibly competitive.
 
@@ -519,27 +519,27 @@ Claire is the son that my dad never had.
 I mean, he just wanted someone to throw a ball in the backyard.
 
 105
-00:04:01,615 --> 00:04:03,095
+00:04:01,380 --> 00:04:02,980
 我投过一次 可是
 I did once, but...
 
 106
-00:04:03,725 --> 00:04:05,235
+00:04:03,440 --> 00:04:05,820
 他没有来
 He did not attend.
 
 107
-00:04:07,065 --> 00:04:08,215
+00:04:06,840 --> 00:04:08,000
 看起来挺有趣的
 Looks like fun.
 
 108
-00:04:08,215 --> 00:04:09,715
+00:04:08,000 --> 00:04:09,820
 开始是 可现在变难了
 It was, but now it's hard.
 
 109
-00:04:09,715 --> 00:04:13,085
+00:04:10,160 --> 00:04:11,700
 你一定能做得很好 老弟
 Oh, I'm sure you're gonna do great, buddy...
 
@@ -559,17 +559,17 @@ Uh, I am just showing interest in our son's project,
 which any parent would--
 
 113
-00:04:21,724 --> 00:04:25,224
+00:04:22,040 --> 00:04:25,220
 想想 好好想 我在想
 Think! Think... to do. Thinking... I am,
 
 114
-00:04:25,224 --> 00:04:26,784
+00:04:25,220 --> 00:04:26,920
 或许我应该留在这儿
 that maybe I should stay here
 
 115
-00:04:26,784 --> 00:04:29,254
+00:04:26,920 --> 00:04:28,540
 以防卢克有什么问题要问
 in case Luke has any questions.
 
@@ -604,17 +604,17 @@ Well, I mean, it's just one question,
 and the seminar isn't for a few hours...
 
 122
-00:04:40,403 --> 00:04:42,893
+00:04:40,260 --> 00:04:42,240
 喂 歌洛莉亚 帮个小忙
 Hey, Gloria? Quick favor.
 
 123
-00:04:44,293 --> 00:04:46,353
+00:04:44,140 --> 00:04:46,280
 好吧 那边见 拜拜
 Okay. See you there. Bye-bye.
 
 124
-00:04:46,353 --> 00:04:47,433
+00:04:46,280 --> 00:04:47,260
 什么事
 What was that?
 
@@ -624,12 +624,12 @@ What was that?
 Phil.
 
 126
-00:04:47,953 --> 00:04:50,983
+00:04:47,960 --> 00:04:50,740
 他请我去帮他完成一个解说会
 He needs help with a seminar that he's giving.
 
 127
-00:04:50,983 --> 00:04:52,462
+00:04:50,740 --> 00:04:52,310
 怎么不找克莱尔帮他
 Why can't Claire help him?
 
@@ -649,32 +649,32 @@ because she's knee-deep in Luke's egg drop project.
 She said that she was not going to help.
 
 131
-00:04:58,492 --> 00:05:00,162
+00:04:58,660 --> 00:05:00,220
 那正是我对自己的惯用说辞
 That's exactly what I would say to me
 
 132
-00:05:00,162 --> 00:05:02,482
+00:05:00,220 --> 00:05:02,560
 用于我想帮孩子 又想骗自己说没插手的场合
 if I was helping my kid and didn't want me to know.
 
 133
-00:05:02,482 --> 00:05:04,482
+00:05:02,560 --> 00:05:04,340
 你为什么会跟自己说话
 Why would you be talking to you?
 
 134
-00:05:04,482 --> 00:05:06,372
+00:05:04,640 --> 00:05:06,420
 我只是说 那样对曼尼不公平
 I'm just saying it's unfair to Manny.
 
 135
-00:05:06,372 --> 00:05:08,632
+00:05:06,440 --> 00:05:08,320
 那孩子只靠自己是没希望赢的
 The kid doesn't stand a chance on his own.
 
 136
-00:05:08,772 --> 00:05:09,862
+00:05:08,320 --> 00:05:09,860
 我要插手了
 I'm tagging in here.
 
@@ -684,17 +684,17 @@ I'm tagging in here.
 Jay, he doesn't need you to baby him.
 
 138
-00:05:11,491 --> 00:05:12,961
+00:05:11,820 --> 00:05:13,100
 我就给他一点点指导而已
 I'm just gonna give him a few tips.
 
 139
-00:05:12,961 --> 00:05:14,451
+00:05:13,100 --> 00:05:14,300
 孩子 去吃点东西
 Kid, get yourself a snack.
 
 140
-00:05:14,451 --> 00:05:16,731
+00:05:14,300 --> 00:05:16,680
 好吧 我给他切点葡萄
 Okay, I'll cut him some grapes.
 
@@ -709,7 +709,7 @@ Damn it!
 Not like that, Jay.
 
 143
-00:05:18,631 --> 00:05:20,391
+00:05:18,640 --> 00:05:20,320
 是这样 瞧着
 Like this. Look.
 
@@ -719,12 +719,12 @@ Like this. Look.
 It just irritates me, you know what I mean?
 
 145
-00:05:25,961 --> 00:05:27,951
+00:05:26,080 --> 00:05:27,980
 我们近期在见一些孕妇 以预备将来领养
 We're meeting with prospective birth mothers.
 
 146
-00:05:27,951 --> 00:05:29,280
+00:05:27,980 --> 00:05:29,280
 我们曾有过一些类似的见面
 We've had a few of these meetings,
 
@@ -739,7 +739,7 @@ and they're very nerve-racking.
 You want to look good,
 
 149
-00:05:31,700 --> 00:05:33,640
+00:05:31,920 --> 00:05:33,460
 给对方留下良好的第一印象
 You want to make a good first impression
 
@@ -759,52 +759,52 @@ Actually, it's--it's the opposite of a first date.
 You don't wanna have sex, but you do want a baby.
 
 153
-00:05:40,780 --> 00:05:42,770
+00:05:40,940 --> 00:05:42,780
 我必须承认 莉莉太可爱了
 I have to say, Lily is adorable,
 
 154
-00:05:42,780 --> 00:05:44,170
+00:05:42,780 --> 00:05:44,120
 而且很能吃哦
 and such a good eater.
 
 155
-00:05:44,170 --> 00:05:45,570
+00:05:44,120 --> 00:05:45,640
 并非总是如此
 Oh, not all the time.
 
 156
-00:05:45,570 --> 00:05:48,709
+00:05:45,640 --> 00:05:48,260
 她只是喜欢我做的金枪鱼沙拉而已
 She just happens to love my tuna salad.
 
 157
-00:05:48,829 --> 00:05:49,969
+00:05:48,800 --> 00:05:50,020
 当然 我们没吃海豚
 Dolphin safe, of course.
 
 158
-00:05:49,969 --> 00:05:51,689
+00:05:50,180 --> 00:05:51,840
 谁在乎那个啦
 Oh, who cares about that?
 
 159
-00:05:51,699 --> 00:05:53,759
+00:05:51,840 --> 00:05:53,520
 我觉得海豚们介意
 Well, I bet the dolphins do.
 
 160
-00:05:53,769 --> 00:05:56,749
+00:05:53,520 --> 00:05:56,500
 你意思是说吃金枪鱼可以 吃海豚就不行
 It's okay to eat tuna, but not dolphin?
 
 161
-00:05:56,749 --> 00:05:58,879
+00:05:56,500 --> 00:05:58,940
 我却觉得 鱼就是鱼而已
 My theory is, a fish is a fish.
 
 162
-00:05:59,619 --> 00:06:01,039
+00:05:59,980 --> 00:06:00,540
 其实呢
 Well...
 
@@ -844,12 +844,12 @@ Excuse us.
 Okay, this is not really about the scones.
 
 170
-00:06:14,098 --> 00:06:16,078
+00:06:14,320 --> 00:06:16,140
 是吗 你一个人能拿得了六块饼吗
 Oh, really? You didn't need help carrying six scones?
 
 171
-00:06:16,088 --> 00:06:18,048
+00:06:16,140 --> 00:06:17,940
 不 问题是你得改掉
 No, this is about your need to correct
 
@@ -874,17 +874,17 @@ I thought that she could use a basic biology lesson.
 Well, let me give you a basic biology lesson--
 
 176
-00:06:25,167 --> 00:06:26,927
+00:06:25,200 --> 00:06:26,500
 你跟我生不了孩子
 you and I can't make a baby.
 
 177
-00:06:27,127 --> 00:06:30,457
+00:06:27,100 --> 00:06:30,000
 所以如果她指着一盏灯 说那是乔治叔叔
 So if she points to a lamp and calls it "Uncle George,"
 
 178
-00:06:30,457 --> 00:06:31,847
+00:06:30,000 --> 00:06:31,400
 你怎么说
 What are you gonna say?
 
@@ -904,17 +904,17 @@ Very good. Now let's get out there,
 smile, nod, and get ourselves a baby.
 
 182
-00:06:37,397 --> 00:06:38,227
+00:06:37,400 --> 00:06:38,040
 好吧
 Okay.
 
 183
-00:06:38,227 --> 00:06:41,986
+00:06:38,040 --> 00:06:40,820
 眼前就是你们的五把钥匙[关键要点]
 And those are your five keys.
 
 184
-00:06:41,986 --> 00:06:45,536
+00:06:41,860 --> 00:06:45,160
 如果没有别的问题的话
 Now if there are no more questions...
 
@@ -924,17 +924,17 @@ Now if there are no more questions...
 Ah, yes, the lovely home buyer right here
 
 186
-00:06:47,846 --> 00:06:49,256
+00:06:47,860 --> 00:06:49,100
 正跃跃欲试呢
 On the edge of her seat.
 
 187
-00:06:50,206 --> 00:06:51,806
+00:06:49,880 --> 00:06:51,340
 我想问的是
 I was wondering...
 
 188
-00:06:52,696 --> 00:06:54,656
+00:06:51,340 --> 00:06:54,720
 我想问的是
 I was wondering,
 
@@ -949,7 +949,7 @@ Is there a sixth key?
 As a matter of fact,
 
 191
-00:06:58,835 --> 00:07:00,115
+00:06:59,080 --> 00:06:59,880
 的确有
 There is.
 
@@ -984,7 +984,7 @@ Fire the confetti cannon, drop the banner,
 autographs, autographs, autographs,
 
 198
-00:07:14,545 --> 00:07:15,554
+00:07:14,720 --> 00:07:15,380
 然后搞定
 and we're done.
 
@@ -1034,7 +1034,7 @@ Ooh, and I can get my nailse done.
 Is it okay?
 
 208
-00:07:31,284 --> 00:07:32,604
+00:07:31,520 --> 00:07:32,260
 好吧 走吧
 Okay. Sure.
 
@@ -1049,17 +1049,17 @@ Oh, oh!
 Could one of you guys stick this under a chair on your way out?
 
 211
-00:07:35,053 --> 00:07:36,563
+00:07:35,200 --> 00:07:36,760
 某个幸运参会者可以带回家
 One of the lucky attendees is going home
 
 212
-00:07:36,563 --> 00:07:38,203
+00:07:36,760 --> 00:07:37,880
 一个新型鼠标垫哦
 with a brand-new mouse pad.
 
 213
-00:07:38,203 --> 00:07:39,343
+00:07:38,240 --> 00:07:38,980
 等一下 等一下
 Wait, wait, wait, wait!
 
@@ -1074,42 +1074,42 @@ I don't wanna see which chair.
 I wanna be blown away like everyone else.
 
 216
-00:07:45,583 --> 00:07:48,243
+00:07:45,960 --> 00:07:48,100
 没错 那就叫顺应风水
 Yes. Now that is feng shui.
 
 217
-00:07:48,243 --> 00:07:49,433
+00:07:48,100 --> 00:07:49,520
 现在是不是感觉舒服多了
 Doesn't that feel better?
 
 218
-00:07:49,433 --> 00:07:51,342
+00:07:49,540 --> 00:07:51,400
 还真是 现在的格局"真适合"聊天
 Oh, yes. It's wonderful for conversation.
 
 219
-00:07:51,342 --> 00:07:52,242
+00:07:51,400 --> 00:07:52,460
 没错 感觉真好
 Yes, this is nice.
 
 220
-00:07:52,242 --> 00:07:55,652
+00:07:52,480 --> 00:07:55,340
 让室内有一种流通感 我真的好喜欢
 It gives the room a nice flow, which I'm really liking.
 
 221
-00:07:55,652 --> 00:07:59,662
+00:07:55,840 --> 00:07:59,160
 有时候 你的家具会告诉你 它们想被放在哪里
 Sometimes, your furniture tells you where it wants to be.
 
 222
-00:08:01,682 --> 00:08:02,562
+00:08:01,500 --> 00:08:01,900
 对
 Yeah.
 
 223
-00:08:02,562 --> 00:08:04,162
+00:08:02,380 --> 00:08:03,940
 我能用一下卫生间吗
 Do you mind if I use your restroom?
 
@@ -1119,32 +1119,32 @@ Do you mind if I use your restroom?
 Not at all. It's-- it's just down the hall.
 
 225
-00:08:06,982 --> 00:08:08,722
+00:08:06,640 --> 00:08:08,860
 顺便说一下 里面有些家具
 Just be warned--there's some furniture in there
 
 226
-00:08:08,722 --> 00:08:10,591
+00:08:08,860 --> 00:08:10,280
 貌似就喜欢现在的摆放位置哦
 that kind of likes where it is!
 
 227
-00:08:11,341 --> 00:08:13,211
+00:08:11,040 --> 00:08:13,360
 好吧 我明白让你如此卑躬屈膝装孙子很折磨人
 Okay, I know it's killing you to do this whole song and dance,
 
 228
-00:08:13,211 --> 00:08:14,991
+00:08:13,360 --> 00:08:15,120
 但是我觉得进行的很顺利
 But I think it's going great.
 
 229
-00:08:14,991 --> 00:08:16,241
+00:08:15,120 --> 00:08:16,380
 小卡 得有个度才行 懂吗
 Cam, there's a limit, okay?
 
 230
-00:08:16,241 --> 00:08:19,481
+00:08:16,380 --> 00:08:19,480
 我们已经答应会带她儿子逛遍52个州
 We already promised her that we would show her son all 52 states.
 
@@ -1189,22 +1189,22 @@ Yeah, we sing to Lily... all of the time.
 I wish I could hear you guys.
 
 239
-00:08:32,830 --> 00:08:34,770
+00:08:33,000 --> 00:08:34,640
 噢哈 谢谢夸奖
 Oh, well, that's very sweet.
 
 240
-00:08:34,770 --> 00:08:36,090
+00:08:34,640 --> 00:08:36,000
 不是 我现在想听
 No, now.
 
 241
-00:08:36,430 --> 00:08:38,070
+00:08:36,600 --> 00:08:38,120
 宝宝的亲生父亲是个音乐家
 The baby's father is a musician,
 
 242
-00:08:38,070 --> 00:08:39,410
+00:08:38,120 --> 00:08:39,320
 所以我真的很希望
 and I would love to know
 
@@ -1214,7 +1214,7 @@ and I would love to know
 that he's growing up in a musical househo.
 
 244
-00:08:44,390 --> 00:08:46,369
+00:08:44,480 --> 00:08:45,880
 -好吧 -太好了
 - Okay. - Great.
 
@@ -1229,17 +1229,17 @@ Okay. Now we are actually doing a song and dance.
 Okay, well, look at it this way--
 
 247
-00:08:51,149 --> 00:08:52,369
+00:08:51,260 --> 00:08:52,400
 我们不仅是是领养了一个宝宝
 We're not only adopting a baby,
 
 248
-00:08:52,369 --> 00:08:55,049
+00:08:52,420 --> 00:08:54,980
 也避免了他将一生都用于寻找东达科他州
 we're saving it from a life spent searching for east Dakota.
 
 249
-00:08:56,869 --> 00:08:57,439
+00:08:56,600 --> 00:08:57,420
 神啊
 Oh, God.
 
@@ -1264,22 +1264,22 @@ It broke again.
 Mm. Yes, I saw.
 
 254
-00:09:05,268 --> 00:09:07,478
+00:09:05,540 --> 00:09:07,300
 我们只需要把棉层加倍就好了
 We'll just need to double up on the cotton.
 
 255
-00:09:07,748 --> 00:09:09,908
+00:09:07,800 --> 00:09:10,380
 瞧着 反正都是碎 不如直接摔
 Here, let me save you a step.
 
 256
-00:09:11,468 --> 00:09:12,618
+00:09:11,780 --> 00:09:12,180
 艾丽克斯
 Alex!
 
 257
-00:09:12,718 --> 00:09:14,128
+00:09:12,920 --> 00:09:13,720
 开门开门
 Knock, knock!
 
@@ -1294,12 +1294,12 @@ Dad! Hey! What are you doing here?
 Manny needs that solder iron I lent to Phil.
 
 260
-00:09:18,768 --> 00:09:21,167
+00:09:18,840 --> 00:09:21,240
 他那装置上的一个螺钉总是拧不紧
 One of the screws on his project keeps coming loose.
 
 261
-00:09:21,167 --> 00:09:23,097
+00:09:21,240 --> 00:09:22,680
 除了那个毛病 其余的就无懈可击了
 Other than that, it's flawless.
 
@@ -1324,22 +1324,22 @@ I had nothing. I had to get in Claire's head.
 Sometimes the best thing to do in race to the top...
 
 266
-00:09:34,447 --> 00:09:36,527
+00:09:34,340 --> 00:09:36,000
 最好是玩点阴的
 is grease the pole behind you.
 
 267
-00:09:36,527 --> 00:09:38,197
+00:09:36,620 --> 00:09:38,160
 这么说 曼尼还在做吗
 Wow. So Manny's still working?
 
 268
-00:09:38,197 --> 00:09:39,506
+00:09:38,160 --> 00:09:39,680
 卢克几小时之前就完成了
 Luke finished a couple hours ago.
 
 269
-00:09:39,516 --> 00:09:41,506
+00:09:39,680 --> 00:09:41,380
 所以地上才有这么多烂鸡蛋吗
 Is that why all these eggs are on the floor?
 
@@ -1354,7 +1354,7 @@ Oh, well, you know, after so many landed safely,
 we thought we should test 'em,
 
 272
-00:09:45,716 --> 00:09:48,886
+00:09:45,920 --> 00:09:48,800
 确保这些不是超级摔不烂鸡蛋
 make sure we weren't working with a super strong batch.
 
@@ -1414,82 +1414,82 @@ Cause we don't have a-a spring problem.
 Run 5?
 
 284
-00:10:09,145 --> 00:10:10,245
+00:10:10,260 --> 00:10:10,780
 一言为定
 Perfect.
 
 285
-00:10:12,955 --> 00:10:14,994
+00:10:12,560 --> 00:10:15,040
 您多担待 我们久未开过嗓了
 Okay. Bear with us. We're a little rusty.
 
 286
-00:10:14,994 --> 00:10:17,394
+00:10:15,040 --> 00:10:17,040
 没错 请把手机调至震动状态
 Yes, and please put all cell phones on vibrate.
 
 287
-00:10:20,694 --> 00:10:23,124
+00:10:20,380 --> 00:10:23,080
 *不要把我心伤*
 *Don't go breaking my heart*
 
 288
-00:10:23,454 --> 00:10:25,904
+00:10:23,660 --> 00:10:25,380
 *我怎能把你心伤*
 *I couldn't if I tried*
 
 289
-00:10:26,814 --> 00:10:29,974
+00:10:26,900 --> 00:10:30,040
 *宝贝 如果我焦躁不安*
 *Honey, if I get restless*
 
 290
-00:10:29,974 --> 00:10:34,183
+00:10:30,040 --> 00:10:33,920
 *宝贝 你不是那种人*
 *Baby, you're not that kind*
 
 291
-00:10:36,773 --> 00:10:38,803
+00:10:36,440 --> 00:10:38,940
 *无人知晓*
 *Nobody knows it*
 
 292
-00:10:38,813 --> 00:10:40,703
+00:10:38,940 --> 00:10:40,460
 *无人知晓*
 *Nobody knows*
 
 293
-00:10:40,703 --> 00:10:42,403
+00:10:40,460 --> 00:10:42,380
 *当我心潮低落*
 *When I was down*
 
 294
-00:10:42,433 --> 00:10:44,273
+00:10:42,380 --> 00:10:44,400
 *我就是逗你笑的小丑*
 *I was your clown*
 
 295
-00:10:44,683 --> 00:10:45,583
+00:10:44,400 --> 00:10:45,880
 我真的是个小丑
 I really am a clown.
 
 296
-00:10:47,943 --> 00:10:50,872
+00:10:47,880 --> 00:10:49,900
 *我把心都给了你*
 *I gave you my heart*
 
 297
-00:10:52,392 --> 00:10:54,942
+00:10:51,760 --> 00:10:55,040
 *所以不要把我心伤*
 *So don't go breaking my heart*
 
 298
-00:10:55,532 --> 00:10:57,322
+00:10:55,040 --> 00:10:57,420
 *我不会把你心伤*
 *I won't go breaking your heart*
 
 299
-00:10:57,322 --> 00:10:58,762
+00:10:57,420 --> 00:10:58,540
 *不要把我心伤*
 *Don't go breaking my*
 
@@ -1499,7 +1499,7 @@ I really am a clown.
 *Don't go breaking my heart.Yeah*
 
 301
-00:11:04,102 --> 00:11:05,692
+00:11:03,220 --> 00:11:05,580
 -谢谢 -唱得太好了
 - Thank you. - It was wonderful.
 
@@ -1534,42 +1534,42 @@ Really? Because mitchell has such a lovely voice.
 Well, I think he was following my lead.
 
 308
-00:11:16,701 --> 00:11:18,541
+00:11:16,820 --> 00:11:18,620
 一个好的领唱可以带动全场呢
 You know, a good leader can make all the difference.
 
 309
-00:11:18,541 --> 00:11:20,461
+00:11:18,620 --> 00:11:20,540
 事实上 你的音不太准
 Actually, you were a little pitchy.
 
 310
-00:11:20,461 --> 00:11:22,701
+00:11:20,540 --> 00:11:22,040
 但总体真的很棒 真的
 But it was terrific, really.
 
 311
-00:11:23,161 --> 00:11:24,221
+00:11:23,000 --> 00:11:23,840
 谢谢
 Thank you.
 
 312
-00:11:24,391 --> 00:11:26,550
+00:11:23,840 --> 00:11:26,180
 谢谢你的点评
 Yes. Thank you for your opinion.
 
 313
-00:11:30,060 --> 00:11:33,750
+00:11:30,020 --> 00:11:33,240
 快点 快点 你爸那边要迟到了
 Faster! Faster! We're going to be late to your father.
 
 314
-00:11:33,800 --> 00:11:36,100
+00:11:33,240 --> 00:11:36,000
 为什么你还得给你的脚趾头做美甲
 Why did you have to do your toes, too?
 
 315
-00:11:36,100 --> 00:11:38,160
+00:11:36,180 --> 00:11:38,140
 学校里有个超可爱的男生
 Well, there's this really cute boy at school
 
@@ -1579,7 +1579,7 @@ Well, there's this really cute boy at school
 who's kinda into my feet.
 
 317
-00:11:39,560 --> 00:11:42,110
+00:11:39,580 --> 00:11:41,840
 小心点 说不定那人是个变态
 Be careful. That can get really creepy fast.
 
@@ -1589,42 +1589,42 @@ Be careful. That can get really creepy fast.
 Ay. Where is the car? I parked it here!
 
 319
-00:11:46,009 --> 00:11:47,129
+00:11:46,060 --> 00:11:47,040
 这是禁停区
 It's a tow zone.
 
 320
-00:11:47,129 --> 00:11:47,909
+00:11:47,040 --> 00:11:48,140
 那牌子肯定是刚刚挂上的
 Somebody just put that there,
 
 321
-00:11:47,909 --> 00:11:49,489
+00:11:48,140 --> 00:11:49,440
 因为我停车的时候还没有那块牌呢
 because that wasn't here when I parked!
 
 322
-00:11:49,489 --> 00:11:50,879
+00:11:49,440 --> 00:11:51,000
 我觉得那块牌已经风吹日晒很久了啊
 It looks pretty old to me.
 
 323
-00:11:50,879 --> 00:11:53,279
+00:11:51,000 --> 00:11:52,920
 海莉 别瞎说 刚刚真没那块牌
 Haley, don't lie. That was not here!
 
 324
-00:12:04,198 --> 00:12:06,868
+00:12:04,780 --> 00:12:06,860
 女士们先生们
 Ladies and gentlemen...
 
 325
-00:12:06,868 --> 00:12:09,698
+00:12:07,000 --> 00:12:09,500
 准备好欢迎
 Get ready for one of the giants
 
 326
-00:12:09,708 --> 00:12:12,448
+00:12:09,500 --> 00:12:11,640
 房地产行业巨子
 of residential real estate...
 
@@ -1664,12 +1664,12 @@ Now I have to.
 Just get back here by the end.
 
 334
-00:12:27,067 --> 00:12:28,267
+00:12:27,160 --> 00:12:28,260
 未来的投资者们
 Future investors,
 
 335
-00:12:28,267 --> 00:12:29,917
+00:12:28,260 --> 00:12:29,260
 别再找借口了
 Stop making excuses!
 
@@ -1684,32 +1684,32 @@ And start... making your dreams come true!
 Ladies and gentlemen, Phil Dunphy!
 
 338
-00:12:43,446 --> 00:12:44,856
+00:12:43,340 --> 00:12:44,540
 你们好吗
 How are you?
 
 339
-00:12:45,026 --> 00:12:47,596
+00:12:45,120 --> 00:12:47,540
 谢谢 麦克 多谢了
 Thanks, Mike. I appreciate it.
 
 340
-00:12:48,256 --> 00:12:49,466
+00:12:48,980 --> 00:12:49,420
 欢迎各位
 Welcome.
 
 341
-00:12:49,786 --> 00:12:51,306
+00:12:50,480 --> 00:12:50,920
 计程车
 Taxi!
 
 342
-00:12:51,766 --> 00:12:53,886
+00:12:51,960 --> 00:12:53,920
 看到没 见我是拉美裔就不停车
 You see? They don't stop because I'm latina.
 
 343
-00:12:53,886 --> 00:12:56,615
+00:12:53,920 --> 00:12:56,480
 或者因为那是辆黄色私家小轿车
 Or because that was just a yellow car.
 
@@ -1719,12 +1719,12 @@ Or because that was just a yellow car.
 My dad is gonna freak out.
 
 345
-00:12:58,515 --> 00:13:00,245
+00:12:58,680 --> 00:13:00,320
 你得把错都揽在自己身上
 You have to take the blame for this.
 
 346
-00:13:00,245 --> 00:13:01,295
+00:13:00,320 --> 00:13:01,200
 为什么
 Why me?
 
@@ -1734,7 +1734,7 @@ Why me?
 Oh, because he'll never get mad at you.
 
 348
-00:13:03,505 --> 00:13:05,435
+00:13:03,600 --> 00:13:05,260
 他把你当女神一样膜拜
 He totally puts you on a pedestal.
 
@@ -1744,27 +1744,27 @@ He totally puts you on a pedestal.
 That's not true.
 
 350
-00:13:06,285 --> 00:13:07,815
+00:13:06,360 --> 00:13:07,860
 就是
 Yeah, it is.
 
 351
-00:13:07,875 --> 00:13:09,835
+00:13:07,860 --> 00:13:09,940
 我打电话到计程车公司叫车吧
 Let me just call the cab company.
 
 352
-00:13:10,435 --> 00:13:13,065
+00:13:11,380 --> 00:13:11,820
 计程车
 Taxi!
 
 353
-00:13:13,115 --> 00:13:16,064
+00:13:12,820 --> 00:13:15,880
 有那么难找吗 各位 红色的小卡片而已
 It's not rocket science, people, it's just a little red card.
 
 354
-00:13:17,674 --> 00:13:21,004
+00:13:18,340 --> 00:13:20,820
 好吧 看来没人需要鼠标垫
 Okay. I guess nobody needs a mouse pad.
 
@@ -1774,47 +1774,47 @@ Okay. I guess nobody needs a mouse pad.
 How's my favorite kid doing?
 
 356
-00:13:25,984 --> 00:13:27,164
+00:13:26,340 --> 00:13:26,660
 最爱
 Favorite?
 
 357
-00:13:27,224 --> 00:13:29,474
+00:13:27,500 --> 00:13:29,400
 我知道 父母不该偏爱哪个孩子
 Yeah, I know, we're not supposed to have favorites.
 
 358
-00:13:29,474 --> 00:13:30,874
+00:13:29,400 --> 00:13:30,720
 可事实是 我们的确有偏爱
 But you know what? We do.
 
 359
-00:13:30,874 --> 00:13:34,443
+00:13:30,720 --> 00:13:34,020
 好消息是 宝贝疙瘩就是你
 And the good news is, it's you.
 
 360
-00:13:35,043 --> 00:13:36,383
+00:13:34,820 --> 00:13:36,360
 我不会把我的设计给你的
 I'm not giving you my design.
 
 361
-00:13:36,383 --> 00:13:38,253
+00:13:36,360 --> 00:13:37,740
 谁说要你白给了
 Who said anything about giving?
 
 362
-00:13:38,483 --> 00:13:39,783
+00:13:38,440 --> 00:13:39,680
 可以商量下条件嘛
 We can work out an arrangement.
 
 363
-00:13:39,783 --> 00:13:41,083
+00:13:39,680 --> 00:13:40,740
 你这是作弊
 It's cheating.
 
 364
-00:13:41,083 --> 00:13:42,893
+00:13:40,740 --> 00:13:42,820
 你想要什么 钱吗
 What do you want? Money?
 
@@ -1824,17 +1824,17 @@ What do you want? Money?
 I got a little something set aside.
 
 366
-00:13:45,193 --> 00:13:47,923
+00:13:45,000 --> 00:13:48,060
 好吧 我根本不该给你提示的
 Okay. I shouldn't even be giving you this hint,
 
 367
-00:13:47,923 --> 00:13:50,872
+00:13:48,060 --> 00:13:50,580
 但是 首先找面镜子
 but, first get a mirror.
 
 368
-00:13:50,912 --> 00:13:51,962
+00:13:50,580 --> 00:13:51,520
 镜子
 A mirror?
 
@@ -1849,22 +1849,22 @@ Then you're gonna look in it,
 and you're gonna see a crazy woman.
 
 371
-00:13:54,392 --> 00:13:56,052
+00:13:54,620 --> 00:13:56,140
 她需要你的帮助
 She needs your help.
 
 372
-00:13:57,002 --> 00:13:59,812
+00:13:56,840 --> 00:13:59,920
 我产出的卵子[蛋]创造了你
 You know, I made the egg that made you,
 
 373
-00:13:59,812 --> 00:14:01,292
+00:14:00,040 --> 00:14:01,380
 你又产出了那个科学设计
 that made that project,
 
 374
-00:14:01,292 --> 00:14:03,932
+00:14:01,380 --> 00:14:03,680
 说来说去 你的设计本来就是属于我的
 so in a lot of ways, that design is already mine!
 
@@ -1874,22 +1874,22 @@ so in a lot of ways, that design is already mine!
 Oh, you're fine.
 
 376
-00:14:08,471 --> 00:14:14,391
+00:14:08,280 --> 00:14:13,960
 大家确定没有任何问题了吗
 Are you sure that there are no more questions?
 
 377
-00:14:14,391 --> 00:14:15,821
+00:14:14,420 --> 00:14:15,780
 没问题了吗 很好
 No more questions? Yes!
 
 378
-00:14:15,821 --> 00:14:19,651
+00:14:15,780 --> 00:14:19,080
 请将麦克风递给那位大胡子先生
 If we could just get that over to the mustachioed gentleman.
 
 379
-00:14:21,011 --> 00:14:21,781
+00:14:20,600 --> 00:14:21,600
 我想问
 Yes, I was--
 
@@ -1899,17 +1899,17 @@ Yes, I was--
 Oh, hey, I think we're all tired of that sound.
 
 381
-00:14:23,911 --> 00:14:25,010
+00:14:24,040 --> 00:14:24,920
 我走过来好了
 Let me just come to you.
 
 382
-00:14:25,010 --> 00:14:26,250
+00:14:24,920 --> 00:14:26,300
 我敢肯定我知道你想问什么
 I bet I know what your question is.
 
 383
-00:14:26,250 --> 00:14:27,570
+00:14:26,300 --> 00:14:27,320
 你可能好奇
 You're probably wondering
 
@@ -1924,17 +1924,17 @@ if there's sixth key.
 No, I was wondering about--
 
 386
-00:14:30,740 --> 00:14:34,970
+00:14:31,200 --> 00:14:34,740
 我是想问关于加急契约的问题
 I was wondering about accelerated escrow.
 
 387
-00:14:34,970 --> 00:14:36,260
+00:14:34,740 --> 00:14:36,300
 如果买卖双方都愿意
 If it works for both parties,
 
 388
-00:14:36,260 --> 00:14:38,090
+00:14:36,460 --> 00:14:37,900
 可以加快过户速度
 it's a great way to expedite the deal.
 
@@ -1954,22 +1954,22 @@ about this mysterious sixth key.
 - I didn't say anything-- - The sixth key is the key
 
 392
-00:14:44,709 --> 00:14:47,789
+00:14:44,760 --> 00:14:47,840
 就是以低于市场价购入新房的关键
 to the new home that you purchased below market.
 
 393
-00:14:47,789 --> 00:14:51,829
+00:14:47,840 --> 00:14:51,700
 利用你们今天所学到的简单原理
 Using the simple principles that you learned here today...
 
 394
-00:14:51,829 --> 00:14:53,509
+00:14:51,700 --> 00:14:53,620
 也不是那么简单 你们依然需要
 But not so simple that you don't still need
 
 395
-00:14:53,509 --> 00:14:54,879
+00:14:53,620 --> 00:14:54,700
 专业的房地产公司的服务
 the professional services
 
@@ -1979,7 +1979,7 @@ the professional services
 of Woosnum, Keneally... And Dunphy!
 
 397
-00:15:03,528 --> 00:15:04,828
+00:15:03,340 --> 00:15:05,080
 感谢各位的光临
 Thank you for coming.
 
@@ -1994,7 +1994,7 @@ Son of a--
 So is--is there anything that you'd like to know about us?
 
 400
-00:15:17,938 --> 00:15:19,197
+00:15:17,980 --> 00:15:19,180
 我看不用了
 I don't think so.
 
@@ -2004,7 +2004,7 @@ I don't think so.
 In fact, I don't think I need to interview any more people.
 
 402
-00:15:22,027 --> 00:15:24,107
+00:15:22,100 --> 00:15:24,060
 你们太合适了
 You guys are perfect.
 
@@ -2014,7 +2014,7 @@ You guys are perfect.
 Are--are you saying what I think you're saying?
 
 404
-00:15:26,617 --> 00:15:29,617
+00:15:27,020 --> 00:15:29,480
 我不应该直接对你们说什么
 I'm not supposed to say anything to you directly,
 
@@ -2034,7 +2034,7 @@ Aah! Oh, gosh!
 Oh, I know, I know, you're not saying anything!
 
 408
-00:15:37,196 --> 00:15:40,136
+00:15:37,340 --> 00:15:39,640
 但你没说出口的话 是天大的好消息
 But what you're not saying is wonderful!
 
@@ -2054,27 +2054,27 @@ Yes, yes. Okay, okay.
 It wouldn't be a celebration without cider
 
 412
-00:15:45,416 --> 00:15:47,466
+00:15:45,420 --> 00:15:47,580
 没有庆祝之歌也一样
 or a celebratory song.
 
 413
-00:15:47,466 --> 00:15:50,016
+00:15:47,580 --> 00:15:49,960
 不过这次 我希望你坐在这里
 But this time, I want you to sit right here.
 
 414
-00:15:50,026 --> 00:15:50,926
+00:15:49,960 --> 00:15:51,060
 坐下吧
 So have a seat here.
 
 415
-00:15:50,926 --> 00:15:54,585
+00:15:51,140 --> 00:15:54,280
 把你乱掉的头发拂到肩后
 Let's just get this mop out of the way there.
 
 416
-00:16:00,075 --> 00:16:02,575
+00:15:59,080 --> 00:16:02,500
 *如果你现在离我而去*
 *If you leave me now*
 
@@ -2094,12 +2094,12 @@ Let's just get this mop out of the way there.
 *Ooh, ooh, ooh, no, I just want you to stay*
 
 420
-00:16:25,494 --> 00:16:28,174
+00:16:25,300 --> 00:16:28,200
 没错 她很伤心 不过往好处想
 Yes, she was upset, but on a positive note,
 
 421
-00:16:28,174 --> 00:16:31,573
+00:16:28,200 --> 00:16:31,380
 从此事中得到的结论就是 我的歌声很能打动人
 what I take from this experience is, I can sing.
 
@@ -2109,7 +2109,7 @@ what I take from this experience is, I can sing.
 Uh, what we didn't take away from the experience is a baby,
 
 423
-00:16:33,833 --> 00:16:35,983
+00:16:33,940 --> 00:16:35,460
 人家决定留下孩子自己养
 Because she decided to keep it.
 
@@ -2134,7 +2134,7 @@ Bummer.
 More than a bummer, Haley.
 
 428
-00:16:47,173 --> 00:16:49,212
+00:16:47,200 --> 00:16:49,180
 此次推广对我来说很重要 却被你弄砸了
 This was really important to me, and you blew it.
 
@@ -2144,37 +2144,37 @@ This was really important to me, and you blew it.
 Ay, no, Phil, it was my fault.
 
 430
-00:16:50,512 --> 00:16:52,162
+00:16:50,640 --> 00:16:51,780
 不关她的事
 It was not her fault.
 
 431
-00:16:52,452 --> 00:16:54,002
+00:16:52,340 --> 00:16:54,040
 算了 木已成舟
 Okay. What's done is done.
 
 432
-00:16:54,002 --> 00:16:56,232
+00:16:54,100 --> 00:16:55,940
 你把宣传册子拿上车吧
 Can you take the brochures out to the car?
 
 433
-00:16:56,532 --> 00:16:58,062
+00:16:56,660 --> 00:16:57,960
 满满一盒都没动
 Wow. It's still full.
 
 434
-00:16:58,062 --> 00:16:59,402
+00:16:57,960 --> 00:16:59,460
 是的
 Yeah, it is.
 
 435
-00:16:59,632 --> 00:17:01,582
+00:16:59,460 --> 00:17:01,520
 推广效果不好吗
 So it was not very good?
 
 436
-00:17:01,582 --> 00:17:03,542
+00:17:02,140 --> 00:17:03,180
 不好
 Um... no.
 
@@ -2199,12 +2199,12 @@ It's okay.
 No, it's not okay.
 
 441
-00:17:11,191 --> 00:17:14,301
+00:17:11,280 --> 00:17:14,200
 我们迟到了 我们毁了你的解说会
 We came late and we ruined your whole presentation.
 
 442
-00:17:14,311 --> 00:17:15,401
+00:17:14,200 --> 00:17:15,320
 人都有倒霉的时候
 These things happen.
 
@@ -2214,22 +2214,22 @@ These things happen.
 Yeah, it happens, and people get angry.
 
 444
-00:17:17,491 --> 00:17:18,871
+00:17:17,600 --> 00:17:18,900
 歌洛莉亚 没事的
 Gloria, it's fine.
 
 445
-00:17:18,871 --> 00:17:19,761
+00:17:18,900 --> 00:17:19,860
 不 有事
 No, it's not fine!
 
 446
-00:17:19,761 --> 00:17:21,091
+00:17:19,940 --> 00:17:21,240
 我努力与你沟通
 I'm trying to have a real conversation,
 
 447
-00:17:21,091 --> 00:17:23,650
+00:17:21,240 --> 00:17:23,100
 而你却把我当女神一样膜拜
 and all you do is put me on a pedestal!
 
@@ -2254,52 +2254,52 @@ supposed to treat each other!
 You know how family's supposed to treat each other?
 
 452
-00:17:33,270 --> 00:17:35,670
+00:17:33,560 --> 00:17:35,440
 家人之间应该为对方考虑
 They're supposed to actually think about each other!
 
 453
-00:17:35,680 --> 00:17:36,860
+00:17:35,440 --> 00:17:37,020
 我求你帮一个忙
 I asked you to do one thing...
 
 454
-00:17:36,860 --> 00:17:38,540
+00:17:37,020 --> 00:17:38,580
 但你却这么自私 这么不负责任
 And you were too selfish and irresponsible
 
 455
-00:17:38,540 --> 00:17:40,580
+00:17:38,580 --> 00:17:40,620
 连一天都不支持我 信不信由你
 to come through for me on a day that, believe it or not,
 
 456
-00:17:40,580 --> 00:17:42,429
+00:17:40,720 --> 00:17:42,060
 今天对我真的很重要
 was really important to me!
 
 457
-00:17:43,509 --> 00:17:46,179
+00:17:43,560 --> 00:17:46,240
 天哪 你居然哭了 真对不起
 Oh, my god. You're crying. I'm so sorry.
 
 458
-00:17:46,189 --> 00:17:48,519
+00:17:46,240 --> 00:17:48,720
 不 这正是我想要的
 No! That's what I want!
 
 459
-00:17:48,519 --> 00:17:51,709
+00:17:48,820 --> 00:17:51,560
 你吼我是因为爱我
 You yell at me because you love me!
 
 460
-00:17:51,709 --> 00:17:53,499
+00:17:51,560 --> 00:17:53,180
 你惹我生气了嘛
 Well, you made me mad.
 
 461
-00:17:53,499 --> 00:17:54,719
+00:17:53,180 --> 00:17:54,460
 你生气也是应该的
 And you should be.
 
@@ -2334,22 +2334,22 @@ Oh, how do you do that?
 It makes me so...
 
 468
-00:18:05,468 --> 00:18:06,528
+00:18:05,480 --> 00:18:06,160
 气死我了
 Mad.
 
 469
-00:18:08,618 --> 00:18:10,978
+00:18:08,280 --> 00:18:10,960
 对一个13岁孩子来说 手工做的相当不错啊
 That's a pretty nice piece of handiwork for a 13-year-old.
 
 470
-00:18:10,978 --> 00:18:11,978
+00:18:10,960 --> 00:18:12,020
 是啊 卢克做的也很好啊
 Yeah, Luke did pretty good, too,
 
 471
-00:18:11,978 --> 00:18:14,158
+00:18:12,020 --> 00:18:13,940
 毕竟平时他脱下书包都需要人帮助
 for a kid who still needs help getting out of his backpack.
 
@@ -2364,57 +2364,57 @@ for a kid who still needs help getting out of his backpack.
 Okay, let's do this.
 
 474
-00:18:17,128 --> 00:18:18,537
+00:18:17,340 --> 00:18:18,700
 孩子们看着点儿 扔下来了哦
 Watch out, kids! They're coming down!
 
 475
-00:18:18,537 --> 00:18:20,467
+00:18:18,700 --> 00:18:20,200
 一 二 三
 One, two, three.
 
 476
-00:18:22,947 --> 00:18:24,077
+00:18:22,820 --> 00:18:24,280
 怎么样
 How'd we do?
 
 477
-00:18:25,087 --> 00:18:26,457
+00:18:25,200 --> 00:18:26,340
 两只蛋都完好无损
 Both eggs are okay.
 
 478
-00:18:26,457 --> 00:18:27,717
+00:18:26,340 --> 00:18:27,860
 太好了 看来我们都是赢家
 Great. So we both win.
 
 479
-00:18:27,717 --> 00:18:28,687
+00:18:27,860 --> 00:18:28,580
 无法接受
 Unacceptable.
 
 480
-00:18:28,687 --> 00:18:29,567
+00:18:28,720 --> 00:18:29,680
 我们升级一层楼吧
 We're going up another level.
 
 481
-00:18:29,567 --> 00:18:31,037
+00:18:29,680 --> 00:18:31,160
 没错 来吧 三楼了哈
 Absolutely. Come on. Third floor.
 
 482
-00:18:31,037 --> 00:18:32,357
+00:18:31,200 --> 00:18:32,460
 艾丽克斯 上来找我们 走吧
 Meet us there, Alex. Let's go.
 
 483
-00:18:32,357 --> 00:18:33,077
+00:18:32,460 --> 00:18:32,980
 等等
 Wait.
 
 484
-00:18:33,077 --> 00:18:34,417
+00:18:33,020 --> 00:18:34,320
 没这必要啊
 You don't have to do this.
 
@@ -2429,32 +2429,32 @@ The assignment was for a 1-story drop.
 We both get A's.
 
 487
-00:18:37,316 --> 00:18:38,546
+00:18:37,340 --> 00:18:38,200
 就按我们说的办
 We're doing this.
 
 488
-00:18:40,786 --> 00:18:42,006
+00:18:40,260 --> 00:18:42,020
 真讨厌
 I don't like this.
 
 489
-00:18:42,026 --> 00:18:43,346
+00:18:42,020 --> 00:18:43,360
 他俩在一起一合计
 The two of them talking up there--
 
 490
-00:18:43,346 --> 00:18:44,866
+00:18:43,360 --> 00:18:44,860
 肯定会发现我们的诡计
 they're gonna figure out what we did.
 
 491
-00:18:44,866 --> 00:18:46,396
+00:18:44,860 --> 00:18:46,260
 我们是迫不得已
 We did what we had to.
 
 492
-00:18:46,396 --> 00:18:47,776
+00:18:46,260 --> 00:18:47,940
 我们会被抓现行的
 We're gonna get caught.
 
@@ -2464,52 +2464,52 @@ We're gonna get caught.
 Look at them down there.
 
 494
-00:18:49,736 --> 00:18:51,336
+00:18:49,800 --> 00:18:51,220
 他俩压根就不关心
 They're not even paying attention.
 
 495
-00:18:51,336 --> 00:18:52,886
+00:18:51,220 --> 00:18:53,000
 现在才是最精彩的嘛
 This is the best part.
 
 496
-00:18:53,235 --> 00:18:55,245
+00:18:53,520 --> 00:18:55,300
 事实上 曼尼好像挺不乐意的
 Actually, Manny looks kind of upset.
 
 497
-00:18:55,255 --> 00:18:57,555
+00:18:55,300 --> 00:18:57,420
 他不乐意啥 他马上要让卢克好看了哎
 Why would he be? He's about to kick Luke's butt.
 
 498
-00:18:57,555 --> 00:18:58,425
+00:18:57,420 --> 00:18:58,560
 拉倒吧
 Oh, knock it off.
 
 499
-00:18:58,425 --> 00:19:00,095
+00:18:58,560 --> 00:19:00,300
 卢克和曼尼在这个项目中根本毫无付出
 Luke and Manny had as much to do with this project
 
 500
-00:19:00,095 --> 00:19:02,215
+00:19:00,300 --> 00:19:01,940
 就好比曼哈顿计划跟他们完全无关一样
 as they did with the Manhattan Project.
 
 501
-00:19:02,975 --> 00:19:04,415
+00:19:02,780 --> 00:19:04,460
 你觉得是这么回事吗
 You think that's what's going on?
 
 502
-00:19:04,415 --> 00:19:06,345
+00:19:04,620 --> 00:19:06,360
 他们烦是因为我们抢了他们的活儿
 They're upset because we took over for them?
 
 503
-00:19:06,345 --> 00:19:07,295
+00:19:06,460 --> 00:19:06,900
 也许吧
 Maybe.
 
@@ -2529,12 +2529,12 @@ and--and we ruined it.
 - We should go talk to them. - Yeah.
 
 507
-00:19:17,844 --> 00:19:19,044
+00:19:17,700 --> 00:19:18,980
 孩子们 我们谈谈吧
 Boys, we need to talk.
 
 508
-00:19:19,044 --> 00:19:20,654
+00:19:18,980 --> 00:19:20,520
 天哪 天啊
 Oh, god. Oh, god.
 
@@ -2564,12 +2564,12 @@ Ok, we admit it.
 We tricked you into doing our projects for us.
 
 514
-00:19:31,033 --> 00:19:31,563
+00:19:31,040 --> 00:19:31,460
 什么
 What?
 
 515
-00:19:31,563 --> 00:19:33,933
+00:19:31,720 --> 00:19:33,700
 我也是才知道的
 This is the first I'm hearing of this.
 
@@ -2579,37 +2579,37 @@ This is the first I'm hearing of this.
 We knew you'd do all the work
 
 517
-00:19:35,063 --> 00:19:37,173
+00:19:35,300 --> 00:19:37,060
 就得让你们之间相互较劲儿
 if you thought you were competing with each other.
 
 518
-00:19:37,173 --> 00:19:39,163
+00:19:37,060 --> 00:19:39,240
 所以我告诉你 克莱尔可能在帮卢克的忙
 So I told you I thought Claire was helping Luke,
 
 519
-00:19:39,163 --> 00:19:40,203
+00:19:39,240 --> 00:19:40,280
 然后你就打给了克莱尔
 and then you called Claire...
 
 520
-00:19:40,203 --> 00:19:41,453
+00:19:40,280 --> 00:19:41,820
 所以就这么把我扯进来了...
 which got me involved, and...
 
 521
-00:19:41,453 --> 00:19:43,003
+00:19:41,820 --> 00:19:42,760
 行了 接下来这样子
 All right. Here's what's gonna happen--
 
 522
-00:19:43,233 --> 00:19:45,443
+00:19:43,220 --> 00:19:45,160
 你给我上车 我们马上开车回家
 You're gonna get in the car, we're gonna drive home,
 
 523
-00:19:45,523 --> 00:19:48,442
+00:19:45,160 --> 00:19:48,120
 然后你们各做各的 自己动手
 and you're each gonna do your own projects.
 
@@ -2644,12 +2644,12 @@ It's so sick, two 13-year-olds
 Know how to take advantage of us.
 
 530
-00:20:01,122 --> 00:20:03,792
+00:20:01,240 --> 00:20:03,820
 而且 其实 是你把我变成这样的
 And you know what? You made me this way.
 
 531
-00:20:03,792 --> 00:20:05,041
+00:20:03,820 --> 00:20:04,700
 你怎么能这么想
 How do you figure that?
 
@@ -2664,62 +2664,62 @@ Dad! You pushed me into sports.
 You never let me win. You know, that stuff--
 
 534
-00:20:09,101 --> 00:20:10,661
+00:20:09,180 --> 00:20:10,760
 对女孩子是会有影响的
 it does something to a girl.
 
 535
-00:20:10,661 --> 00:20:13,371
+00:20:10,760 --> 00:20:13,240
 在我看来 你天生就是这么争强好胜啊
 For your information, you came out of the womb like that.
 
 536
-00:20:13,371 --> 00:20:15,551
+00:20:13,240 --> 00:20:15,680
 我有时都怀疑 你妈怀的是不是双胞胎
 I'm not entirely sure there wasn't a twin in there
 
 537
-00:20:15,551 --> 00:20:16,821
+00:20:15,680 --> 00:20:16,620
 另一个被你在子宫里干掉了
 you bumped off.
 
 538
-00:20:16,881 --> 00:20:19,661
+00:20:16,620 --> 00:20:19,680
 如果你早看出我这性格 为何不纠正我
 If you saw that in me, why didn't you discourage it?
 
 539
-00:20:19,661 --> 00:20:21,791
+00:20:19,760 --> 00:20:21,520
 我为什么要纠正我爱的东西
 Why would I discourage something that I love?
 
 540
-00:20:22,860 --> 00:20:24,000
+00:20:22,940 --> 00:20:23,360
 真的吗
 Really?
 
 541
-00:20:24,050 --> 00:20:25,040
+00:20:24,180 --> 00:20:24,680
 开什么玩笑
 You kidding?
 
 542
-00:20:25,040 --> 00:20:26,340
+00:20:25,180 --> 00:20:26,160
 你可是个斗士
 You're a fighter.
 
 543
-00:20:26,380 --> 00:20:29,020
+00:20:26,160 --> 00:20:28,760
 我爱的就是你这种永不放弃的个性
 The thing I love about you is you never give up.
 
 544
-00:20:30,220 --> 00:20:33,760
+00:20:32,620 --> 00:20:33,040
 老爸
 Dad.
 
 545
-00:20:33,770 --> 00:20:36,100
+00:20:33,040 --> 00:20:35,980
 尽管我的设计明显比你的好
 Even though I clearly designed a superior egg container.
 
@@ -2734,7 +2734,7 @@ Out of your mind, old man.
 Only one way to find out.
 
 548
-00:20:42,729 --> 00:20:43,309
+00:20:42,420 --> 00:20:43,280
 放弃吧
 Give up.
 
@@ -2744,37 +2744,37 @@ Give up.
 You're all just playing for second.
 
 550
-00:20:47,849 --> 00:20:49,229
+00:20:47,500 --> 00:20:48,880
 那妞也遗传了点不正常基因
 There's something wrong with that one.
 
 551
-00:20:53,139 --> 00:20:54,339
+00:20:52,800 --> 00:20:54,200
 我才没有不正常
 I'm not wrong.
 
 552
-00:20:54,339 --> 00:20:56,309
+00:20:54,200 --> 00:20:55,960
 老妈有时候很疯狂 对吧
 Mom can be crazy, right?
 
 553
-00:20:56,319 --> 00:20:57,799
+00:20:56,800 --> 00:20:57,320
 喂
 Hello!
 
 554
-00:20:58,508 --> 00:20:59,888
+00:20:58,640 --> 00:20:59,680
 谢谢你
 Thank you.
 
 555
-00:21:00,218 --> 00:21:03,728
+00:21:00,480 --> 00:21:03,520
 但是生她气的同时 我也挺内疚的
 At the same time, I feel guilty when I get mad at her.
 
 556
-00:21:03,728 --> 00:21:05,378
+00:21:03,520 --> 00:21:05,120
 我不觉得那算古怪啊
 I don't think that's weird.
 
@@ -2794,7 +2794,7 @@ I don't wanna share it.
 Everybody has his own thing.
 
 560
-00:21:10,618 --> 00:21:12,128
+00:21:10,680 --> 00:21:11,520
 谢谢你 海莉
 Thanks, Haley.
 
@@ -2824,7 +2824,7 @@ Ok, Corey, just one picture.
 Hold on.
 
 566
-00:21:22,677 --> 00:21:25,427
+00:21:22,860 --> 00:21:24,740
 从这个角度看我的脚好胖啊
 My feet look fat from this angle.
 

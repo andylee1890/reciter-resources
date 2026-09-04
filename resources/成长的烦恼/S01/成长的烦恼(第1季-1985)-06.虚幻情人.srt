@@ -123,7 +123,7 @@ Maggie?
 Please, come in.
 
 26
-00:02:24,911 --> 00:02:26,276
+00:02:25,060 --> 00:02:25,620
 谢谢
 Thanks.
 
@@ -178,7 +178,7 @@ And rightly so, I'm sure.
 I'll call Mike.
 
 37
-00:03:05,084 --> 00:03:06,278
+00:03:05,340 --> 00:03:06,040
 麦克
 Mike.
 
@@ -233,7 +233,7 @@ I was just in the neighborhood, breaking up with my old boyfriend.
 He was just too immature.
 
 48
-00:03:50,100 --> 00:03:52,840
+00:03:50,100 --> 00:03:53,400
 -他岁数比你小？ -不，他27岁
 - Was he younger than you? - No, he was 27.
 
@@ -248,7 +248,7 @@ What an amazing coincidence...
 cause I was just up on the phone, breaking up with my old girlfriend.
 
 51
-00:03:59,800 --> 00:04:00,180
+00:03:59,800 --> 00:04:00,620
 她43岁
 She was 43.
 
@@ -273,7 +273,7 @@ Why don't you go take a walk by his place?
 Mike, your uncle Steve's in Connecticut.
 
 56
-00:04:18,157 --> 00:04:19,181
+00:04:18,220 --> 00:04:18,660
 那怎样了？
 So?
 
@@ -393,17 +393,17 @@ Jason, she's a tramp.
 Come on, Maggie.
 
 80
-00:05:42,180 --> 00:05:45,411
+00:05:42,180 --> 00:05:45,460
 我承认她确实穿得.
 No. I mean, I admit she doesn't dress with a lot of....
 
 81
-00:05:45,411 --> 00:05:46,708
+00:05:45,460 --> 00:05:46,000
 她是没穿
 Clothing.
 
 82
-00:05:47,447 --> 00:05:48,573
+00:05:47,620 --> 00:05:48,120
 没有品味
 Taste.
 
@@ -528,7 +528,7 @@ So anyway, when I told Ed I was breaking up with him, he, like, cried.
 l, like, never cry.
 
 107
-00:07:06,192 --> 00:07:07,386
+00:07:06,360 --> 00:07:06,880
 真的？
 Really?
 
@@ -573,7 +573,7 @@ I mean, he, like, got upset because I went camping with Phil Crawly...
 - Mom. - I'm sorry.
 
 116
-00:07:38,157 --> 00:07:39,249
+00:07:38,300 --> 00:07:38,720
 丽莎.
 Lisa...
 
@@ -768,7 +768,7 @@ to get to know somebody, to get a--
 - A medical report. - That, too, I guess.
 
 155
-00:10:10,343 --> 00:10:12,072
+00:10:10,840 --> 00:10:11,360
 那么.
 So....
 
@@ -1098,7 +1098,7 @@ Well, you know, I was just trying to make my top lip match up, roughly...
 - with your-- - I mean, inside.
 
 221
-00:14:23,162 --> 00:14:24,390
+00:14:23,520 --> 00:14:24,120
 心里？
 Inside?
 
@@ -1263,7 +1263,7 @@ You're a killer and you know it!
 Both of you, neutral corners.
 
 254
-00:16:55,581 --> 00:16:56,775
+00:16:55,160 --> 00:16:56,080
 爸爸
 Dad...
 
@@ -1303,7 +1303,7 @@ You look me squarely in the eye, and you tell me that she's mistaken...
 and then not another word will be said about it. Okay?
 
 262
-00:17:20,906 --> 00:17:22,032
+00:17:22,520 --> 00:17:23,040
 本？
 Ben?
 
@@ -1313,7 +1313,7 @@ Ben?
 - Did you kill Wendy? - No.
 
 264
-00:17:27,246 --> 00:17:28,474
+00:17:27,100 --> 00:17:27,580
 好吧
 Okay.
 
@@ -1408,7 +1408,7 @@ I think he's in the kitchen.
 Well, did you two have a good time together?
 
 283
-00:18:42,821 --> 00:18:44,083
+00:18:42,760 --> 00:18:43,320
 很开心
 Sure.
 
@@ -1423,7 +1423,7 @@ Sure.
 Did you watch any TV?
 
 286
-00:18:57,503 --> 00:18:58,697
+00:18:57,440 --> 00:18:57,940
 没有
 No.
 
@@ -1478,7 +1478,7 @@ and you said, "Yeah." What does that mean?
 I don't know. I guess it means she's an interesting girl.
 
 297
-00:19:37,309 --> 00:19:38,469
+00:19:39,560 --> 00:19:39,980
 那么.
 So...
 
@@ -1648,7 +1648,7 @@ But there are other great-looking girls out there...
 who also happen to be warm, caring people.
 
 331
-00:21:52,844 --> 00:21:54,038
+00:21:52,580 --> 00:21:53,240
 是吗？
 Really?
 
@@ -1688,7 +1688,7 @@ but trust me, you'll find a way to overcome it.
 Your father did.
 
 339
-00:22:20,539 --> 00:22:21,631
+00:22:20,560 --> 00:22:21,080
 爸爸？
 Dad?
 
@@ -1708,7 +1708,7 @@ Yeah, I guess you could say that.
 I met her. She was very nice.
 
 343
-00:22:43,095 --> 00:22:44,084
+00:22:42,200 --> 00:22:43,280
 嘿
 Hey.
 
@@ -1718,7 +1718,7 @@ Hey.
 - You okay? - Yeah, I'm fine, Dad.
 
 345
-00:22:49,000 --> 00:22:50,194
+00:22:48,820 --> 00:22:49,340
 真的
 Really.
 

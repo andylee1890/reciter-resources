@@ -44,12 +44,12 @@ Are you sure?
 'cause they don't seem like they fit right.
 
 10
-00:00:19,000 --> 00:00:20,498
+00:00:19,000 --> 00:00:20,520
 我觉得你这么做很勇敢
 I think it's a bold step,
 
 11
-00:00:20,498 --> 00:00:22,940
+00:00:20,520 --> 00:00:22,840
 我支持你为自我提升而做出的努力
 And I support you in your journey of self-improvement.
 
@@ -354,12 +354,12 @@ Why does this keep happening?
 Well, it's not because Joe dresses like an adult.
 
 72
-00:02:36,900 --> 00:02:38,098
+00:02:36,900 --> 00:02:38,120
 我穿得很像成年人
 I dress like an adult.
 
 73
-00:02:38,098 --> 00:02:40,440
+00:02:38,220 --> 00:02:40,320
 电台司令演唱会那次你穿着闪光运动鞋
 You wore light-up sneakers to a Radiohead concert.
 
@@ -619,12 +619,12 @@ Phil, nothing.
 It's just a little gift I got Alex.
 
 125
-00:04:17,320 --> 00:04:18,769
+00:04:17,320 --> 00:04:18,780
 但我们已经送过礼物了啊
 But we already gave her our present.
 
 126
-00:04:18,769 --> 00:04:21,508
+00:04:18,840 --> 00:04:21,240
 16件套拉杆箱超赞的
 That 16-piece luggage set was a real winner.
 
@@ -1144,7 +1144,7 @@ And you gave me a b-minus as an uncle.
 I was mad because you wasted your vote on Ralph Nader.
 
 230
-00:08:43,299 --> 00:08:45,180
+00:08:43,160 --> 00:08:45,180
 而今天你拿到了A+
 But today, you get an A-plus,
 
@@ -1199,12 +1199,12 @@ get kind of a weird vibe from Beth?
 You know, like maybe something's a little off?
 
 241
-00:09:10,940 --> 00:09:12,599
+00:09:10,940 --> 00:09:12,620
 贝丝 怎么会 她超棒的
 Beth? No. She's an angel.
 
 242
-00:09:12,599 --> 00:09:14,113
+00:09:12,740 --> 00:09:14,040
 对啊 她人可好了
 Yeah, she seems super-sweet.
 
@@ -1249,7 +1249,7 @@ around here anymore, hmm?
 Thanks, mom.
 
 251
-00:09:30,669 --> 00:09:32,326
+00:09:30,940 --> 00:09:32,100
 贝丝超性感
 Beth's super-hot.
 
@@ -1564,7 +1564,7 @@ A trip for just the two of us. It's perfect.
 *When you don't --*
 
 314
-00:11:52,980 --> 00:11:53,100
+00:11:52,980 --> 00:11:53,080
 克莱尔
 Claire?
 
@@ -1594,7 +1594,7 @@ I just wanted her to know how much she meant to me.
 I hate this family.
 
 320
-00:12:07,899 --> 00:12:10,179
+00:12:08,360 --> 00:12:09,820
 菲尔 我需要跟你进行男人之间的谈话
 Phil, I need to talk to you, man-to-man.
 
@@ -2204,7 +2204,7 @@ You sure? Maybe I can give him a little hug or something.
 No, it's too much.
 
 442
-00:16:56,410 --> 00:16:57,289
+00:16:56,600 --> 00:16:57,180
 走好
 Bye-bye.
 

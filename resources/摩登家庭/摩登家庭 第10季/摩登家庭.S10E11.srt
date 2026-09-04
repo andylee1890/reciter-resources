@@ -1,20 +1,20 @@
 1
-00:00:02,106 --> 00:00:02,936
+00:00:01,740 --> 00:00:02,640
 你們等一下
 Hey, you guys.
 
 2
-00:00:02,936 --> 00:00:05,256
+00:00:02,920 --> 00:00:05,100
 我打包了一些碗碟給你們在新房子用
 I packed up some dishes for the new house.
 
 3
-00:00:05,256 --> 00:00:06,736
+00:00:05,420 --> 00:00:06,720
 我甚至還找到了你的舊鴨嘴杯
 I even found your old sippy cup
 
 4
-00:00:06,736 --> 00:00:08,196
+00:00:06,720 --> 00:00:08,100
 給小不點出生以后用
 for when the little one comes along.
 
@@ -24,7 +24,7 @@ for when the little one comes along.
 - Aww. - Thanks, Mr. D.
 
 6
-00:00:09,286 --> 00:00:10,206
+00:00:09,300 --> 00:00:10,060
 謝謝爸爸
 Thanks, Dad.
 
@@ -34,12 +34,12 @@ Thanks, Dad.
 Is, uh, Mom still in there making that judgy face?
 
 8
-00:00:12,726 --> 00:00:14,645
+00:00:12,780 --> 00:00:14,420
 海莉 你都認識她二十五年了
 Haley, you've known her for 25 years.
 
 9
-00:00:14,645 --> 00:00:16,065
+00:00:14,600 --> 00:00:15,700
 黑臉是她的預設表情
 Just call it her face.
 
@@ -49,27 +49,27 @@ Just call it her face.
 Haley's pregnancy is off to a rough start.
 
 11
-00:00:18,245 --> 00:00:21,025
+00:00:18,880 --> 00:00:20,900
 惡心反胃 情緒無常 失眠...
 Nausea, moodiness, trouble sleeping...
 
 12
-00:00:21,025 --> 00:00:22,086
+00:00:21,040 --> 00:00:21,800
 這些癥狀克萊爾都有
 Claire's got it all.
 
 13
-00:00:22,375 --> 00:00:24,645
+00:00:22,380 --> 00:00:24,580
 至于我 我只想保持
 Me, I'm just trying to keep the peace
 
 14
-00:00:24,645 --> 00:00:26,305
+00:00:24,580 --> 00:00:25,660
 激素水平穩定
 here in Hormone Town.
 
 15
-00:00:26,615 --> 00:00:28,455
+00:00:26,600 --> 00:00:28,240
 你能相信嗎 克萊爾
 Oh, can you believe it, Claire?
 
@@ -94,32 +94,32 @@ we were carrying all these boxes downstairs
 after she got arrested and kicked out of college.
 
 20
-00:00:35,104 --> 00:00:37,044
+00:00:35,240 --> 00:00:36,780
 是啊 我也經歷了很多
 Yeah, I've been through a lot, too.
 
 21
-00:00:37,064 --> 00:00:39,404
+00:00:37,200 --> 00:00:39,340
 我當過加長禮車司機 當過主唱
 I've been a limo driver, a lead singer,
 
 22
-00:00:39,404 --> 00:00:42,104
+00:00:39,540 --> 00:00:41,600
 當過牧場工人 還有迪士尼樂園的唱歌紳士
 a ranch hand, a Dapper Dan at Disneyland,
 
 23
-00:00:42,104 --> 00:00:43,944
+00:00:42,220 --> 00:00:43,860
 T恤設計師 標志牌旋舞者
 a t-shirt designer, a sign spinner
 
 24
-00:00:43,944 --> 00:00:46,473
+00:00:43,900 --> 00:00:46,020
 現在是個即將迎來小寶寶的護理專業學生
 and now a nursing student with a baby on the way.
 
 25
-00:00:46,863 --> 00:00:48,483
+00:00:46,760 --> 00:00:48,240
 一切都按計劃進行
 It's all going according to plan.
 
@@ -149,7 +149,7 @@ Oh... Oh, honey, I don't --
 we -- we really don't have to.
 
 31
-00:00:56,723 --> 00:00:58,083
+00:00:56,780 --> 00:00:57,840
 別啊 會很棒的
 No, no, no. It'll be cute.
 
@@ -159,7 +159,7 @@ No, no, no. It'll be cute.
 Uh, Dad, you're being weird. No one wants this.
 
 33
-00:00:59,953 --> 00:01:00,913
+00:01:00,100 --> 00:01:00,780
 保持姿勢
 Hang on here.
 
@@ -169,27 +169,27 @@ Hang on here.
 Nope, that's my finger.
 
 35
-00:01:03,102 --> 00:01:04,272
+00:01:02,800 --> 00:01:04,140
 有好多有趣的濾鏡
 So many fun filters.
 
 36
-00:01:04,272 --> 00:01:05,762
+00:01:04,360 --> 00:01:05,580
 趕緊拍吧
 Just take the picture!
 
 37
-00:01:18,351 --> 00:01:20,851
+00:01:18,200 --> 00:01:20,480
 克萊爾 想得陽光一些
 Claire, look at the positive.
 
 38
-00:01:20,851 --> 00:01:22,441
+00:01:20,780 --> 00:01:22,300
 我們的孩子之一終于搬走了
 One of our kids is finally moving out.
 
 39
-00:01:22,441 --> 00:01:25,271
+00:01:22,460 --> 00:01:24,980
 她驗孕之后我就再也不想聽到"陽"字了
 After her pregnancy test, I've had enough positives.
 
@@ -229,52 +229,52 @@ and put a dream catcher in Dylan's ear,
 and it's exactly the same.
 
 47
-00:01:36,580 --> 00:01:37,840
+00:01:36,620 --> 00:01:37,940
 親愛的 我昨晚做了個夢
 Honey, I had a dream last night
 
 48
-00:01:37,840 --> 00:01:39,920
+00:01:37,940 --> 00:01:39,720
 他們把寶寶忘在出租車上
 that they left the baby in an Uber,
 
 49
-00:01:39,920 --> 00:01:41,750
+00:01:39,720 --> 00:01:41,760
 我不得不縮小自己
 and I had to shrink myself down
 
 50
-00:01:41,750 --> 00:01:43,950
+00:01:41,760 --> 00:01:43,720
 征用一只蜂鳥去找寶寶
 to commandeer a hummingbird to find it.
 
 51
-00:01:43,950 --> 00:01:46,320
+00:01:43,800 --> 00:01:46,040
 不是你又跟知名主播的春夢我就很慶幸了
 I'm just glad it wasn't another Jake Tapper sex dream.
 
 52
-00:01:46,320 --> 00:01:48,879
+00:01:46,220 --> 00:01:48,800
 我很焦慮 我害怕他們能力不足...
 I'm mad. I'm scared they're in over their heads --
 
 53
-00:01:48,879 --> 00:01:50,959
+00:01:48,820 --> 00:01:50,820
 克萊爾 已經發生了 他們要有寶寶了
 Claire, it's happening. They're having the baby.
 
 54
-00:01:50,959 --> 00:01:53,249
+00:01:50,860 --> 00:01:52,680
 列車都離站了 你就上車吧
 The train's left the station. Get on board.
 
 55
-00:01:53,549 --> 00:01:54,420
+00:01:53,520 --> 00:01:53,900
 行吧
 Fine.
 
 56
-00:01:54,489 --> 00:01:55,460
+00:01:54,660 --> 00:01:55,060
 你說得對
 You're right.
 
@@ -294,12 +294,12 @@ Good. I was gonna go pick up a house-warming gift for them.
 - Why don't you come with me? - Oh, okay, let's do that.
 
 60
-00:02:02,899 --> 00:02:05,258
+00:02:03,000 --> 00:02:05,240
 等一下 你要怎么登上一輛
 Wait a second. How do you board a train
 
 61
-00:02:05,258 --> 00:02:07,088
+00:02:05,240 --> 00:02:06,640
 已經離站的列車
 that's already left the station?
 
@@ -314,42 +314,42 @@ I don't know. Maybe you could catch up to them
 on a hummingbird with Jake Tapper.
 
 64
-00:02:12,198 --> 00:02:13,588
+00:02:12,100 --> 00:02:13,380
 你脫身了
 Well, you're off the hook.
 
 65
-00:02:13,588 --> 00:02:15,098
+00:02:13,540 --> 00:02:14,940
 我要獨自飛往布蘭森
 I'm flying to Branson solo,
 
 66
-00:02:15,098 --> 00:02:17,158
+00:02:14,940 --> 00:02:17,060
 我想我會坐在一個陌生人身旁
 and I guess I'll be sitting next to a stranger
 
 67
-00:02:17,158 --> 00:02:19,677
+00:02:17,060 --> 00:02:19,360
 參加《奧斯蒙兄弟:向嘻哈致敬》
 at The Osmond Brothers: A Tribute to Hip Hop.
 
 68
-00:02:19,677 --> 00:02:21,717
+00:02:19,540 --> 00:02:21,400
 他們來康普頓的時候我會抓住機會的
 Well, I'll catch them when they come to Compton,
 
 69
-00:02:21,717 --> 00:02:22,517
+00:02:21,400 --> 00:02:22,380
 不過還是謝了
 but thank you.
 
 70
-00:02:22,517 --> 00:02:23,947
+00:02:22,820 --> 00:02:23,980
 你為我姐姐小帕做了那么多
 Well, it's the least I could do
 
 71
-00:02:23,947 --> 00:02:26,177
+00:02:23,980 --> 00:02:25,700
 這是我唯一能做的
 after what you did for my sister, Pam.
 
@@ -364,47 +364,47 @@ My sister, Pam, is coming to pick up Cal to --
 to take him back to Missouri.
 
 74
-00:02:29,967 --> 00:02:32,507
+00:02:30,000 --> 00:02:32,460
 她本來應該在監獄里再待三個月的
 She was supposed to be in prison another three months,
 
 75
-00:02:32,507 --> 00:02:34,587
+00:02:32,480 --> 00:02:34,640
 但我了不起的丈夫
 but my wonderful husband,
 
 76
-00:02:34,587 --> 00:02:37,206
+00:02:34,640 --> 00:02:37,280
 普里契特地檢官助理 寫了一封信
 Assistant D.A. Pritchett, wrote a letter
 
 77
-00:02:37,206 --> 00:02:39,336
+00:02:37,280 --> 00:02:39,200
 呼吁提早釋放她
 advocating for her early release.
 
 78
-00:02:39,336 --> 00:02:40,737
+00:02:39,280 --> 00:02:40,340
 這沒什么
 It was nothing.
 
 79
-00:02:41,246 --> 00:02:42,586
+00:02:41,180 --> 00:02:42,500
 其實真的沒什么
 It actually was nothing.
 
 80
-00:02:42,586 --> 00:02:43,846
+00:02:42,540 --> 00:02:43,720
 我從來沒寫過什么信
 I never wrote any letter.
 
 81
-00:02:43,846 --> 00:02:46,396
+00:02:43,840 --> 00:02:45,900
 因為... 感覺就是不對的
 It just -- It didn't feel right.
 
 82
-00:02:46,576 --> 00:02:49,326
+00:02:46,700 --> 00:02:49,240
 小帕毫無悔改之意 她的判決也很公正
 Pam showed no remorse, and her sentence was fair.
 
@@ -414,7 +414,7 @@ Pam showed no remorse, and her sentence was fair.
 And -- And then for some reason,
 
 84
-00:02:50,786 --> 00:02:53,105
+00:02:51,020 --> 00:02:53,080
 但不管怎樣 他們決定讓她早點出獄
 they decided to let her out early anyway.
 
@@ -424,37 +424,37 @@ they decided to let her out early anyway.
 Fortunately, uh, parole records are sealed,
 
 86
-00:02:56,135 --> 00:02:58,085
+00:02:56,180 --> 00:02:57,900
 所以小帕和小卡永遠也不會知道
 so Pam and Cam will never know,
 
 87
-00:02:58,205 --> 00:02:59,655
+00:02:58,200 --> 00:02:59,560
 我也不用去布蘭森了
 and I don't have to go to Branson
 
 88
-00:02:59,655 --> 00:03:02,095
+00:02:59,560 --> 00:03:01,660
 聽奧斯蒙兄弟叫觀眾喊個"啥啥"
 and hear the Osmonds ask if they can get a "What-what."
 
 89
-00:03:02,705 --> 00:03:03,515
+00:03:02,460 --> 00:03:03,400
 是她
 That's her!
 
 90
-00:03:03,515 --> 00:03:04,855
+00:03:03,680 --> 00:03:04,640
 卡爾 你媽媽來啦
 Cal, that's your mom!
 
 91
-00:03:04,855 --> 00:03:07,744
+00:03:04,840 --> 00:03:07,480
 她剛結束了... 旅行
 She's back from her, um...trip?
 
 92
-00:03:07,744 --> 00:03:08,895
+00:03:07,760 --> 00:03:08,720
 鐵窗之旅
 Up the river.
 
@@ -504,7 +504,7 @@ Aw, don't worry, baby.
 That's all over now.
 
 102
-00:03:29,963 --> 00:03:32,153
+00:03:30,060 --> 00:03:31,820
 差點忘了
 Oh, almost forgot!
 
@@ -549,12 +549,12 @@ Good.
 - I dabbled in lesbianism. - Oh.
 
 111
-00:03:47,722 --> 00:03:48,822
+00:03:47,960 --> 00:03:48,720
 并不反感
 Didn't hate it.
 
 112
-00:03:48,822 --> 00:03:51,102
+00:03:48,760 --> 00:03:50,840
 就是事后話太多
 But there was just too much talking afterwards.
 
@@ -574,7 +574,7 @@ Again, I'm -- I'm so sorry that you can't stay upstairs.
 - We have this new renter coming in, and - Cram it.
 
 116
-00:03:58,421 --> 00:04:00,111
+00:03:58,460 --> 00:03:59,920
 我知道你根本沒寄那封信
 I know you didn't send that letter.
 
@@ -594,17 +594,17 @@ That don't matter.
 All that matters is you're gonna pay.
 
 120
-00:04:04,131 --> 00:04:07,261
+00:04:04,600 --> 00:04:07,100
 在監獄里大家叫我肉毒桿菌
 In prison, they called me BOTOX,
 
 121
-00:04:07,261 --> 00:04:09,670
+00:04:07,100 --> 00:04:09,340
 因為雖然所有女人都想要我[美容用]
 because even though all the ladies want me,
 
 122
-00:04:09,930 --> 00:04:11,720
+00:04:09,580 --> 00:04:11,360
 我還是會弄爛你的臉
 I will wreck your face.
 
@@ -614,42 +614,42 @@ I will wreck your face.
 Sherry, I-I don't know if I like these.
 
 124
-00:04:17,670 --> 00:04:18,760
+00:04:17,680 --> 00:04:18,600
 褲子太短了
 They're so short.
 
 125
-00:04:18,760 --> 00:04:20,320
+00:04:18,720 --> 00:04:19,880
 不啊 就是這種風格 寶貝
 No, that's the style, boo.
 
 126
-00:04:20,320 --> 00:04:22,210
+00:04:20,260 --> 00:04:22,000
 我就是覺得自己的腳踝不太適合穿這個
 I just don't know if I have the ankles for this.
 
 127
-00:04:22,210 --> 00:04:24,420
+00:04:22,200 --> 00:04:24,380
 對 這種褲子對拉丁人一點都不友好
 Yeah, those pants are no good for Latin people.
 
 128
-00:04:24,420 --> 00:04:27,119
+00:04:24,500 --> 00:04:26,760
 穿上去像是要跑著趟水過河
 They make you look like you're trying to run across a river.
 
 129
-00:04:27,119 --> 00:04:28,649
+00:04:27,060 --> 00:04:28,380
 我倒覺得你看起來很不錯
 Well, I think you look great.
 
 130
-00:04:28,649 --> 00:04:31,189
+00:04:28,660 --> 00:04:30,860
 你應該以后只穿這種褲子
 You should only wear pants like that from now on.
 
 131
-00:04:31,269 --> 00:04:32,190
+00:04:31,280 --> 00:04:31,660
 好的
 Okay.
 
@@ -679,27 +679,27 @@ the Ojai Mime and Wine Festival for your birthday?
 Oh, yeah, maybe we shouldn't do the party, Mom.
 
 137
-00:04:44,658 --> 00:04:46,008
+00:04:44,780 --> 00:04:45,880
 這太瘋狂了
 This is crazy.
 
 138
-00:04:46,008 --> 00:04:48,278
+00:04:46,480 --> 00:04:48,100
 曼尼害怕啞劇
 Manny's terrified of mimes.
 
 139
-00:04:48,278 --> 00:04:50,838
+00:04:48,220 --> 00:04:50,300
 而且他討厭中央山谷的葡萄酒
 And he hates Central Valley wine.
 
 140
-00:04:51,408 --> 00:04:53,068
+00:04:51,380 --> 00:04:52,760
 好消息
 Hey, great news.
 
 141
-00:04:53,068 --> 00:04:55,598
+00:04:53,080 --> 00:04:55,140
 我的當月香腸早到了一天
 My Sausage of the Month arrived a day early.
 
@@ -734,32 +734,32 @@ I told you it's not a suggestion.
 The web page is just asking you to choose one.
 
 148
-00:05:06,387 --> 00:05:07,807
+00:05:06,460 --> 00:05:07,680
 總之 我們有麻煩了
 Anyways, we have a problem.
 
 149
-00:05:07,807 --> 00:05:09,697
+00:05:08,000 --> 00:05:09,520
 雪莉總是對曼尼發號施令
 Sherry is bossing Manny around.
 
 150
-00:05:09,697 --> 00:05:11,547
+00:05:09,720 --> 00:05:11,720
 這太讓人難以接受了
 Oof, that's a lot to take in.
 
 151
-00:05:12,117 --> 00:05:15,096
+00:05:12,420 --> 00:05:14,980
 你能用你的獨家醬料做一下香腸嗎
 Can you cook these up with that special sauce you do?
 
 152
-00:05:15,096 --> 00:05:16,196
+00:05:15,080 --> 00:05:16,100
 你得去告訴他
 You have to go and tell him
 
 153
-00:05:16,196 --> 00:05:18,776
+00:05:16,100 --> 00:05:18,660
 -他要站起來為自己說話 -為什么我去
 - that he needs to stand up for himself. - Why me?
 
@@ -789,37 +789,37 @@ I can't.
 If I say something bad about Manny's girlfriend,
 
 159
-00:05:26,916 --> 00:05:28,885
+00:05:26,960 --> 00:05:28,920
 他是不會聽的 因為那樣我就成了
 he's not gonna listen, because I am the mother
 
 160
-00:05:28,885 --> 00:05:31,695
+00:05:28,920 --> 00:05:31,560
 認為沒人配得上她小寶貝的那種媽媽
 who thinks that nobody's good enough for her little boy.
 
 161
-00:05:31,695 --> 00:05:34,055
+00:05:31,680 --> 00:05:34,100
 -那就別插手了 -不行 因為她就是
 - Just let it go. - I can't because she's not good enough
 
 162
-00:05:34,055 --> 00:05:35,316
+00:05:34,100 --> 00:05:34,880
 配不上我的小寶貝
 for my little boy.
 
 163
-00:05:35,695 --> 00:05:36,865
+00:05:35,620 --> 00:05:36,480
 我還是不了
 I'm gonna take a pass.
 
 164
-00:05:36,865 --> 00:05:39,555
+00:05:36,760 --> 00:05:39,480
 那我也不用我外婆的洋蔥辣醬
 Then I'm gonna take a pass making your sausages
 
 165
-00:05:39,555 --> 00:05:41,915
+00:05:39,480 --> 00:05:41,800
 給你做香腸
 with my grandmother's spicy onion sauce.
 
@@ -834,17 +834,17 @@ Fine, I'll do it.
 But all these demands don't sound very second wife-y.
 
 168
-00:05:49,634 --> 00:05:50,595
+00:05:49,460 --> 00:05:50,260
 孩子
 Hey, kid.
 
 169
-00:05:51,124 --> 00:05:53,924
+00:05:50,980 --> 00:05:53,520
 我得跟你聊聊你和你女朋友
 I need to talk to you about you and your girlfriend.
 
 170
-00:05:54,834 --> 00:05:56,164
+00:05:54,760 --> 00:05:55,900
 這話題可能有點敏感
 It's a sensitive subject.
 
@@ -854,67 +854,67 @@ It's a sensitive subject.
 If this is about the sounds coming from my room last night,
 
 172
-00:05:58,254 --> 00:05:59,394
+00:05:58,260 --> 00:05:59,200
 那不是你想的那樣
 it wasn't what you think.
 
 173
-00:05:59,394 --> 00:06:00,983
+00:05:59,420 --> 00:06:00,860
 我們是在重新布置家具
 We were rearranging the furniture, and then
 
 174
-00:06:00,983 --> 00:06:02,803
+00:06:00,860 --> 00:06:02,720
 然后為成功改造而慶功
 we were congratulating each other on how it turned out.
 
 175
-00:06:02,803 --> 00:06:04,273
+00:06:02,860 --> 00:06:03,980
 令人難過的是 我真的信你
 Sadly, I believe you.
 
 176
-00:06:04,323 --> 00:06:07,123
+00:06:04,360 --> 00:06:06,880
 我以為你喜歡家具保持原樣
 I thought you liked your furniture exactly like it was?
 
 177
-00:06:07,123 --> 00:06:09,283
+00:06:07,080 --> 00:06:09,060
 我們還因為這開除了兩個清潔女工
 We fired two cleaning women over this.
 
 178
-00:06:09,283 --> 00:06:11,233
+00:06:09,460 --> 00:06:11,060
 我之前也以為 但是其實不是的
 I thought I did, too, but it turns out I didn't.
 
 179
-00:06:11,233 --> 00:06:13,303
+00:06:11,260 --> 00:06:12,960
 其實我不想聊的正是這件事
 Actually, that's what I don't want to talk to you about.
 
 180
-00:06:13,303 --> 00:06:15,632
+00:06:13,360 --> 00:06:15,300
 有沒有可能雪莉總是對你發號施令
 Is it possible Sherry pushes you around?
 
 181
-00:06:15,862 --> 00:06:16,702
+00:06:15,840 --> 00:06:16,460
 你什么意思
 What are you saying?
 
 182
-00:06:16,702 --> 00:06:17,753
+00:06:16,680 --> 00:06:17,400
 我不知道
 I don't know.
 
 183
-00:06:18,532 --> 00:06:20,252
+00:06:18,400 --> 00:06:20,080
 就是男人一點
 Be the man, you know.
 
 184
-00:06:20,442 --> 00:06:21,932
+00:06:20,480 --> 00:06:21,460
 有點骨氣
 Show some backbone.
 
@@ -929,32 +929,32 @@ Show some backbone.
 It's such an old way of looking at relationships.
 
 187
-00:06:26,472 --> 00:06:27,812
+00:06:26,560 --> 00:06:27,720
 性別角色不再重要了
 Gender roles don't matter anymore.
 
 188
-00:06:27,812 --> 00:06:29,452
+00:06:27,780 --> 00:06:29,040
 這就是你穿她褲子的原因嗎
 Is that why you're wearing her pants?
 
 189
-00:06:29,452 --> 00:06:30,652
+00:06:29,280 --> 00:06:30,480
 我來跟你講講 杰
 Let me tell you something, Jay.
 
 190
-00:06:30,652 --> 00:06:31,721
+00:06:30,640 --> 00:06:31,620
 就像長腿褲
 Just like long pants,
 
 191
-00:06:31,721 --> 00:06:33,341
+00:06:31,700 --> 00:06:33,300
 荼毒人心的男子氣概那一套已經落伍了
 toxic machismo has gone out of style.
 
 192
-00:06:33,341 --> 00:06:36,161
+00:06:33,640 --> 00:06:35,980
 對對 你說的都對 男子氣概不好
 Yeah. Yeah, masculinity's bad
 
@@ -974,17 +974,17 @@ Welcome to 14 7/8 Fletcher Ave.
 Wow. This is cozy, huh?
 
 196
-00:06:50,400 --> 00:06:51,880
+00:06:50,360 --> 00:06:51,820
 這是車庫改裝的
 Well, it's a converted garage,
 
 197
-00:06:51,880 --> 00:06:53,260
+00:06:51,820 --> 00:06:53,040
 所以是有點小
 so I know it's a little bit small.
 
 198
-00:06:53,260 --> 00:06:55,430
+00:06:53,240 --> 00:06:55,240
 親愛的 只有用來住人才算小
 Oh, honey, it's only small for a place to live.
 
@@ -994,7 +994,7 @@ Oh, honey, it's only small for a place to live.
 Hey, we got you guys a housewarming gift.
 
 200
-00:06:57,030 --> 00:06:58,750
+00:06:57,100 --> 00:06:58,620
 是個菠蘿裝飾
 It's a decorative pineapple
 
@@ -1014,12 +1014,12 @@ Thanks, Mr. D.
 That's way better than our giant cherry.
 
 204
-00:07:04,319 --> 00:07:06,199
+00:07:04,540 --> 00:07:05,980
 這是干凈馬桶的象征
 That's just a symbol of a clean toilet.
 
 205
-00:07:06,199 --> 00:07:06,899
+00:07:06,460 --> 00:07:06,760
 謝謝老爸
 Thanks, Dad.
 
@@ -1029,37 +1029,37 @@ Thanks, Dad.
 You've very welcome.
 
 207
-00:07:07,599 --> 00:07:10,539
+00:07:07,820 --> 00:07:10,400
 這其實是我們倆一起的心意 對吧親愛的
 It's actually from both of us, right, honey?
 
 208
-00:07:10,539 --> 00:07:12,749
+00:07:10,580 --> 00:07:12,820
 對對 因為我覺得
 Right. Right, because I thought
 
 209
-00:07:12,749 --> 00:07:14,219
+00:07:12,820 --> 00:07:13,980
 你會需要很多好運
 you would want a lot of luck.
 
 210
-00:07:14,219 --> 00:07:15,919
+00:07:14,380 --> 00:07:15,880
 媽媽 我知道你有何想法
 Mom, look. I know what you're thinking...
 
 211
-00:07:15,919 --> 00:07:17,609
+00:07:15,880 --> 00:07:17,560
 但我們能省很多錢
 ...but we're saving a ton of money.
 
 212
-00:07:17,609 --> 00:07:19,438
+00:07:17,800 --> 00:07:19,120
 房租包水電費
 Utilities are included,
 
 213
-00:07:19,438 --> 00:07:20,868
+00:07:19,280 --> 00:07:20,820
 我們不需要很多家具
 we don't need a lot of furniture,
 
@@ -1074,27 +1074,27 @@ and it'll be easy to keep track of the baby!
 And they can, uh -- they can walk to the airport.
 
 216
-00:07:28,038 --> 00:07:30,318
+00:07:27,840 --> 00:07:29,900
 然后又回到客廳
 Which brings us back to the living room.
 
 217
-00:07:30,518 --> 00:07:32,928
+00:07:30,400 --> 00:07:32,820
 厲害 我們不用走動就看完你家了呢
 Wow. We got the whole tour without even moving.
 
 218
-00:07:32,928 --> 00:07:34,847
+00:07:33,200 --> 00:07:34,800
 這年頭就流行小房子
 Tiny-homes are very trendy these days.
 
 219
-00:07:34,847 --> 00:07:36,417
+00:07:35,040 --> 00:07:36,460
 對了 我也是這么
 And, by the way, it's what I called
 
 220
-00:07:36,417 --> 00:07:38,687
+00:07:36,460 --> 00:07:38,300
 稱呼我高中的黑人矮子死黨
 my short, black best friend in high school.
 
@@ -1134,27 +1134,27 @@ A little too clean.
 It's -- It's not a skylight.
 
 228
-00:07:54,576 --> 00:07:55,816
+00:07:54,620 --> 00:07:55,680
 是你屋頂上有個洞
 There's a hole in your roof.
 
 229
-00:07:55,816 --> 00:07:58,206
+00:07:55,780 --> 00:07:58,140
 真好 我一直想學如何安裝天窗
 Cool, I always wanted to learn how to install a skylight.
 
 230
-00:07:58,206 --> 00:07:59,706
+00:07:58,140 --> 00:07:59,640
 擇日不如撞日了
 I guess today's the day.
 
 231
-00:07:59,706 --> 00:08:02,016
+00:07:59,940 --> 00:08:02,000
 那你有沒有過把浴室里的插座
 Have you also always wanted to move an electrical outlet
 
 232
-00:08:02,016 --> 00:08:03,376
+00:08:02,000 --> 00:08:03,080
 移到別處的想法呢
 that's currently in the shower?
 
@@ -1164,22 +1164,22 @@ that's currently in the shower?
 - Well, that can't be code. - It's not.
 
 234
-00:08:04,876 --> 00:08:06,715
+00:08:05,040 --> 00:08:06,340
 我就是在說真實情況
 I'm telling you exactly what's going on.
 
 235
-00:08:07,935 --> 00:08:08,916
+00:08:07,800 --> 00:08:09,760
 抱歉 我接個電話
 Oh, excuse me.
 
 236
-00:08:09,995 --> 00:08:11,905
+00:08:10,340 --> 00:08:11,460
 海莉 乖女兒
 Haley, honey.
 
 237
-00:08:11,935 --> 00:08:13,815
+00:08:11,560 --> 00:08:13,560
 你無法在這里養育寶寶
 You can't raise a baby in here.
 
@@ -1199,12 +1199,12 @@ What happens if -- if the baby's crying
 We're gonna put up a sheet to make it like a little room.
 
 241
-00:08:19,505 --> 00:08:21,284
+00:08:20,040 --> 00:08:21,120
 好機智
 Oh, smart.
 
 242
-00:08:21,284 --> 00:08:22,684
+00:08:21,280 --> 00:08:22,480
 告訴我這哪里有用了
 Tell me how this works.
 
@@ -1224,7 +1224,7 @@ I know it's not perfect, but we've got this.
 We're a lot more grown up than you think.
 
 246
-00:08:29,694 --> 00:08:31,734
+00:08:29,920 --> 00:08:31,540
 海莉 你能來廚房跟我談談嗎
 Haley, can I talk to you for a second in the kitchen?
 
@@ -1239,17 +1239,17 @@ Yeah.
 Uh, that was the doctor.
 
 249
-00:08:34,894 --> 00:08:36,324
+00:08:35,060 --> 00:08:36,200
 我們這會兒應該到那里的
 We're supposed to be there right now.
 
 250
-00:08:36,324 --> 00:08:38,773
+00:08:36,300 --> 00:08:38,540
 老天 超聲波 我忘得一干二凈了
 Oh, my God. The ultrasound -- I totally spaced!
 
 251
-00:08:38,773 --> 00:08:40,403
+00:08:38,800 --> 00:08:40,120
 千萬不能讓我媽知道
 We can't let my mom find out.
 
@@ -1274,27 +1274,27 @@ So, we need to go and get toothbrushes.
 You should've put up a sheet.
 
 256
-00:08:49,333 --> 00:08:50,783
+00:08:49,340 --> 00:08:50,360
 我們都聽見了
 We heard everything.
 
 257
-00:08:50,783 --> 00:08:52,732
+00:08:50,800 --> 00:08:52,680
 你錯過了第一次超聲波預約嗎
 You missed your first ultrasound appointment?
 
 258
-00:08:52,732 --> 00:08:54,632
+00:08:52,700 --> 00:08:54,500
 你再繼續教訓我 就真趕不上了
 Well, we will if you keep lecturing me.
 
 259
-00:08:54,632 --> 00:08:56,282
+00:08:54,560 --> 00:08:56,140
 -醫生是誰 -我們從點評網上找到的
 - Who's the doctor? - We found her on Yelp.
 
 260
-00:08:56,282 --> 00:08:57,642
+00:08:56,140 --> 00:08:57,380
 她有四星好評呢
 She has, like, four stars.
 
@@ -1304,32 +1304,32 @@ She has, like, four stars.
 So does the sushi place that gave Luke worms.
 
 262
-00:08:59,702 --> 00:09:00,702
+00:08:59,800 --> 00:09:00,500
 我跟你一起去
 I'm coming with you.
 
 263
-00:09:00,702 --> 00:09:01,712
+00:09:00,740 --> 00:09:01,720
 那我就留在這
 I think I'm just gonna hang back
 
 264
-00:09:01,712 --> 00:09:03,762
+00:09:01,720 --> 00:09:03,560
 完成安裝天窗的任務吧
 and commence Operation Skylight.
 
 265
-00:09:03,762 --> 00:09:05,592
+00:09:03,860 --> 00:09:06,260
 我車停在后面了 我們從這邊走
 I parked in back. Let's go this way.
 
 266
-00:09:06,992 --> 00:09:07,763
+00:09:06,660 --> 00:09:07,560
 老天
 Oh, God!
 
 267
-00:09:09,501 --> 00:09:11,781
+00:09:09,480 --> 00:09:11,380
 真幸運 我們剛買了掃把
 That is lucky! We just bought a broom.
 
@@ -1359,32 +1359,32 @@ Um, "How do you fix a broken gorilla?"
 Mm, well, I guess we're gonna find out soon.
 
 273
-00:09:23,051 --> 00:09:25,110
+00:09:23,200 --> 00:09:24,820
 棍子不止能用來寫冷笑話
 Sticks are good for more than joking.
 
 274
-00:09:25,110 --> 00:09:26,350
+00:09:25,280 --> 00:09:26,420
 我在監獄里學會了如何把
 In prison, I learned how to fashion
 
 275
-00:09:26,350 --> 00:09:28,370
+00:09:26,420 --> 00:09:28,060
 各式各樣的棍子磨成小刀
 all manner of sticks into knives.
 
 276
-00:09:28,370 --> 00:09:30,970
+00:09:28,220 --> 00:09:30,820
 你在牢里還有時間做手工 好棒呀
 You know, I love that you had time for crafts in there.
 
 277
-00:09:30,970 --> 00:09:33,670
+00:09:30,920 --> 00:09:33,380
 我還學會了 如果你不兌現自己所做的承諾
 I also learned if you don't do what you say you're gonna,
 
 278
-00:09:33,670 --> 00:09:34,991
+00:09:33,800 --> 00:09:34,460
 就會被教訓
 you get hurt.
 
@@ -1399,17 +1399,17 @@ Um, I'm gonna go, uh, check on Cal.
 No, no, no, I'll do it.
 
 281
-00:09:38,040 --> 00:09:40,289
+00:09:38,180 --> 00:09:40,280
 我想在你帶他回家前
 I want to soak up as much time with him as I can
 
 282
-00:09:40,289 --> 00:09:41,759
+00:09:40,280 --> 00:09:41,440
 盡量多跟他在一起
 before you take him home.
 
 283
-00:09:41,849 --> 00:09:42,750
+00:09:41,920 --> 00:09:42,220
 小卡爾
 Cal.
 
@@ -1419,12 +1419,12 @@ Cal.
 Cal, what is -- Put that down!
 
 285
-00:09:44,759 --> 00:09:46,169
+00:09:44,640 --> 00:09:45,960
 他從哪弄來的芝士漢堡
 Where did he get a cheeseburger?
 
 286
-00:09:46,169 --> 00:09:47,220
+00:09:46,100 --> 00:09:47,120
 我不知道
 I don't know.
 
@@ -1434,17 +1434,17 @@ I don't know.
 Hey, look. I'm -- I-I'm sorry about the letter,
 
 288
-00:09:51,019 --> 00:09:52,579
+00:09:51,040 --> 00:09:52,580
 但結果不是很好嗎
 but it all worked out.
 
 289
-00:09:52,579 --> 00:09:54,189
+00:09:52,580 --> 00:09:54,600
 你還是提前獲釋了
 You still got out early.
 
 290
-00:09:54,709 --> 00:09:58,088
+00:09:55,000 --> 00:09:58,620
 那僅僅是因為我自愿幫忙訓練警犬
 Only because I volunteered to help train police dogs.
 
@@ -1474,7 +1474,7 @@ Get off of me!
 I feel it!
 
 296
-00:10:10,798 --> 00:10:11,847
+00:10:10,680 --> 00:10:11,760
 你到底想要我怎么樣
 What do you want from me?
 
@@ -1484,12 +1484,12 @@ What do you want from me?
 - Miles. - Uh, what?
 
 298
-00:10:13,577 --> 00:10:16,387
+00:10:13,600 --> 00:10:16,240
 我知道你們有錢人的信用卡積分能兌換里程
 I know all you fancy people have rewards cards.
 
 299
-00:10:16,387 --> 00:10:18,927
+00:10:16,340 --> 00:10:18,780
 被關了那么久 我很想去旅行
 Being all cooped up has given me the travel bug.
 
@@ -1499,12 +1499,12 @@ Being all cooped up has given me the travel bug.
 But I've been saving those.
 
 301
-00:10:19,897 --> 00:10:22,097
+00:10:19,900 --> 00:10:22,080
 我有半年都去加油站買日用品
 I bought groceries at a gas station for six months
 
 302
-00:10:22,097 --> 00:10:23,107
+00:10:22,080 --> 00:10:22,900
 就為了得到三倍積分
 to get triple points.
 
@@ -1519,17 +1519,17 @@ For -- For Lily's birthday breakfast,
 we gave her something called Pop Zarts.
 
 305
-00:10:26,737 --> 00:10:28,016
+00:10:26,860 --> 00:10:27,960
 今天之內
 I want them in my account
 
 306
-00:10:28,016 --> 00:10:29,916
+00:10:27,960 --> 00:10:29,740
 把里程轉到我賬戶 否則我就告訴小卡
 by the end of the day or I tell Cameron.
 
 307
-00:10:29,916 --> 00:10:33,316
+00:10:29,880 --> 00:10:32,820
 但我差不多能兌換兩張去巴黎的非熱門時段機票了
 But I almost have enough for two off-peak flights to Paris.
 
@@ -1539,12 +1539,12 @@ But I almost have enough for two off-peak flights to Paris.
 Ha, "Monkey wrench."
 
 309
-00:10:35,286 --> 00:10:36,836
+00:10:35,320 --> 00:10:36,600
 你還說得真輕巧
 Yeah, that's putting it mildly.
 
 310
-00:10:36,836 --> 00:10:40,586
+00:10:36,880 --> 00:10:40,120
 不是 這是修好壞掉的大猩猩的方法 死蠢
 No, that's how you fix a broken gorilla, you dummy.
 
@@ -1569,52 +1569,52 @@ He got all mad, called me old-fashioned.
 Me -- the guy who bought Alex a book
 
 315
-00:10:51,185 --> 00:10:52,835
+00:10:51,260 --> 00:10:52,620
 有關成功商業女士的書
 on successful business ladies.
 
 316
-00:10:52,835 --> 00:10:54,605
+00:10:52,880 --> 00:10:54,480
 不好意思 我沒聽懂
 Sorry, I didn't understand that.
 
 317
-00:10:54,605 --> 00:10:55,615
+00:10:54,600 --> 00:10:55,420
 請再說一遍
 Please try again.
 
 318
-00:10:55,615 --> 00:10:57,875
+00:10:55,500 --> 00:10:57,700
 那個咖啡研磨機怎么老和我說話
 Why does that coffee grinder keep talking to me?
 
 319
-00:10:57,875 --> 00:10:59,444
+00:10:57,860 --> 00:10:59,440
 你信守諾言
 Well, you kept your end of the bargain,
 
 320
-00:10:59,444 --> 00:11:00,634
+00:10:59,460 --> 00:11:00,620
 所以我會給你做香腸
 so I'm gonna make the sausages,
 
 321
-00:11:00,634 --> 00:11:02,494
+00:11:00,620 --> 00:11:02,360
 然后來討論下一步計劃吧
 and we'll talk about the second step later.
 
 322
-00:11:02,494 --> 00:11:03,854
+00:11:02,380 --> 00:11:03,860
 沒有下一步 我已經去說過了
 There's no second steps. I did it.
 
 323
-00:11:03,854 --> 00:11:05,514
+00:11:03,860 --> 00:11:05,360
 我不想再聽到這件事了
 That's the last I want to hear about it.
 
 324
-00:11:05,514 --> 00:11:06,764
+00:11:05,520 --> 00:11:06,400
 真是"謝謝"你啊 杰
 Thanks a lot, Jay.
 
@@ -1624,12 +1624,12 @@ Thanks a lot, Jay.
 I should've ignored you,
 
 326
-00:11:07,824 --> 00:11:09,094
+00:11:07,880 --> 00:11:08,960
 但你的話影響了我
 but you got in my head.
 
 327
-00:11:09,094 --> 00:11:11,824
+00:11:09,100 --> 00:11:11,560
 什么呀 我第一次聽到這事情呢
 About what? This is first time I hear of this.
 
@@ -1654,7 +1654,7 @@ and now she called a car and she's leaving.
 The best relationship I've ever had,
 
 332
-00:11:20,293 --> 00:11:21,874
+00:11:20,360 --> 00:11:21,480
 估計要結束了
 and I think it might be ending.
 
@@ -1674,17 +1674,17 @@ Don't worry, papi. Those things have a way
 - of working themselves out. - Eh, what're ya gonna do?
 
 336
-00:11:28,123 --> 00:11:30,412
+00:11:28,140 --> 00:11:30,200
 是個好問題 你還能"怎么做"呢
 Yeah, that's a good question. What are you going to do?
 
 337
-00:11:30,412 --> 00:11:31,552
+00:11:30,340 --> 00:11:31,480
 這樣不好
 I'm calling it.
 
 338
-00:11:31,552 --> 00:11:32,662
+00:11:31,640 --> 00:11:32,400
 我不來了
 I'm done.
 
@@ -1694,27 +1694,27 @@ I'm done.
 Calling Brian Dunn.
 
 340
-00:11:34,002 --> 00:11:35,822
+00:11:34,040 --> 00:11:35,420
 別別別
 No. No, no.
 
 341
-00:11:35,842 --> 00:11:36,932
+00:11:35,820 --> 00:11:36,580
 我欠他錢呢
 I owe him money.
 
 342
-00:11:36,932 --> 00:11:38,232
+00:11:36,900 --> 00:11:38,120
 杰 你得去跟雪莉談談
 Jay, you need to talk to Sherry
 
 343
-00:11:38,232 --> 00:11:39,782
+00:11:38,120 --> 00:11:39,600
 和她說這都是你的餿主意
 and tell her that it was your idea.
 
 344
-00:11:39,782 --> 00:11:41,432
+00:11:39,780 --> 00:11:41,300
 我已經遵守約定了
 I've kept up my part of the bargain.
 
@@ -1739,12 +1739,12 @@ you're not making those sausages,
 'cause I already took a second statin.
 
 349
-00:11:46,721 --> 00:11:49,951
+00:11:47,200 --> 00:11:50,800
 對不起 這次你得不到你想要的
 Sorry, for once, you're not getting your way.
 
 350
-00:11:51,471 --> 00:11:53,601
+00:11:51,580 --> 00:11:53,400
 雪兒 有空嗎
 Hey, Sher, got a sec?
 
@@ -1769,52 +1769,52 @@ I know you're upset with Manny.
 That's on me.
 
 355
-00:11:59,871 --> 00:12:01,380
+00:11:59,920 --> 00:12:01,380
 是我說了話影響了他的想法
 I put some ideas in his head.
 
 356
-00:12:01,380 --> 00:12:02,870
+00:12:01,440 --> 00:12:02,740
 你知道 我對他來說就像個英雄
 You know, I'm kind of a hero to him.
 
 357
-00:12:02,870 --> 00:12:04,460
+00:12:02,800 --> 00:12:04,040
 我沒想引起任何麻煩
 I didn't mean to cause any trouble.
 
 358
-00:12:04,460 --> 00:12:05,870
+00:12:04,500 --> 00:12:05,880
 你知道 我很愛他
 You know, I'm crazy about the kid,
 
 359
-00:12:05,870 --> 00:12:08,450
+00:12:05,880 --> 00:12:07,980
 我只是想確保他處于良好的戀愛關系之中
 and I just want to make sure he's in a healthy relationship.
 
 360
-00:12:08,450 --> 00:12:10,110
+00:12:08,520 --> 00:12:09,920
 歌洛莉亞讓你這么做的 是不是
 Gloria put you up to this, didn't she?
 
 361
-00:12:10,110 --> 00:12:11,032
+00:12:10,080 --> 00:12:10,980
 很復雜
 It's complicated.
 
 362
-00:12:11,052 --> 00:12:13,470
+00:12:11,820 --> 00:12:13,280
 你看得出這有多諷刺吧
 You do see the irony of this, right?
 
 363
-00:12:13,470 --> 00:12:15,360
+00:12:13,600 --> 00:12:15,380
 她擔心曼尼被人控制
 She's so worried about Manny getting bossed around,
 
 364
-00:12:15,360 --> 00:12:17,239
+00:12:15,380 --> 00:12:17,140
 但她對你這樣就沒問題啦
 yet she has no problem bossing you around?
 
@@ -1824,62 +1824,62 @@ yet she has no problem bossing you around?
 - No, no, that's crazy. - Really?
 
 366
-00:12:19,449 --> 00:12:21,279
+00:12:19,540 --> 00:12:20,960
 你本來是這么安排下午時光的嗎
 Is this how you wanted to spend your afternoon?
 
 367
-00:12:21,279 --> 00:12:22,419
+00:12:21,280 --> 00:12:22,220
 不 我討厭這樣
 No, I hate this.
 
 368
-00:12:22,419 --> 00:12:23,989
+00:12:22,400 --> 00:12:23,620
 我一整天都計劃好了
 Man, I had a whole day planned.
 
 369
-00:12:24,019 --> 00:12:26,749
+00:12:24,100 --> 00:12:26,720
 聽著 我打算讓曼尼著急幾個小時
 Listen, I'm gonna let Manny spiral for a few hours,
 
 370
-00:12:26,749 --> 00:12:27,919
+00:12:26,720 --> 00:12:27,900
 然后我們就上樓
 and then we're gonna go back upstairs
 
 371
-00:12:27,919 --> 00:12:28,829
+00:12:27,900 --> 00:12:28,820
 "移家具"去
 and move the furniture around.
 
 372
-00:12:28,829 --> 00:12:30,009
+00:12:28,840 --> 00:12:29,800
 天啊 居然真是"那檔事"
 Oh, God, it was that.
 
 373
-00:12:30,009 --> 00:12:31,589
+00:12:29,920 --> 00:12:31,340
 但你需要為自己發聲
 But you need to stand up for yourself.
 
 374
-00:12:31,589 --> 00:12:33,138
+00:12:31,420 --> 00:12:33,180
 你回去 告訴歌洛莉亞
 You go back in there, and you tell Gloria
 
 375
-00:12:33,138 --> 00:12:34,848
+00:12:33,180 --> 00:12:34,740
 你受夠了對她唯唯諾諾
 that you're tired of being told what to do.
 
 376
-00:12:34,848 --> 00:12:36,498
+00:12:34,840 --> 00:12:36,520
 -讓我想一下 -別想了
 - Let me think about it. - Don't think.
 
 377
-00:12:36,498 --> 00:12:38,059
+00:12:36,520 --> 00:12:37,720
 -做就對了 -好
 - Just do it. - Okay.
 
@@ -1889,17 +1889,17 @@ that you're tired of being told what to do.
 Oh! Oh.
 
 379
-00:12:43,618 --> 00:12:46,098
+00:12:43,880 --> 00:12:45,940
 放輕松 你有的我都看過
 Relax. It's nothing I haven't seen before.
 
 380
-00:12:46,098 --> 00:12:47,918
+00:12:45,940 --> 00:12:47,840
 我以前可是在男子摔跤隊
 I was on the boys' wrestling team.
 
 381
-00:12:47,918 --> 00:12:49,937
+00:12:47,980 --> 00:12:49,740
 你想要什么 我已經把里程給你了
 What do you want? I transferred the miles.
 
@@ -1909,22 +1909,22 @@ What do you want? I transferred the miles.
 I got 'em. Decided I don't want to travel, though --
 
 383
-00:12:52,717 --> 00:12:54,657
+00:12:52,900 --> 00:12:54,520
 我把他們都換成禮品卡了
 converted them all into gift cards.
 
 384
-00:12:54,657 --> 00:12:57,107
+00:12:54,660 --> 00:12:56,920
 不不不 他們說你不應該這么做
 No, no, no, they say you're not supposed to do that.
 
 385
-00:12:57,107 --> 00:12:59,357
+00:12:57,020 --> 00:12:59,020
 我決定我想要點其他的
 I decided I want something else.
 
 386
-00:12:59,357 --> 00:13:00,857
+00:12:59,360 --> 00:13:00,740
 我想搬到樓上
 I want to move in upstairs,
 
@@ -1939,17 +1939,17 @@ and I want a HEPA air filter on account of I shed.
 I told you it's rented. I can't just cancel on them.
 
 389
-00:13:06,816 --> 00:13:07,866
+00:13:06,980 --> 00:13:07,800
 你確定嗎
 You sure about that?
 
 390
-00:13:07,866 --> 00:13:09,246
+00:13:07,900 --> 00:13:09,200
 因為我得不到我想要的
 Because when I don't get what I want,
 
 391
-00:13:09,246 --> 00:13:11,926
+00:13:09,220 --> 00:13:11,340
 我就能讓事情變得"很難受"
 I can make things real uncomfortable.
 
@@ -1959,12 +1959,12 @@ I can make things real uncomfortable.
 Oh, cold, cold!
 
 393
-00:13:13,876 --> 00:13:14,897
+00:13:13,740 --> 00:13:14,560
 怎么了
 What's going on?
 
 394
-00:13:15,076 --> 00:13:15,956
+00:13:15,080 --> 00:13:15,440
 沒事
 Nothing.
 
@@ -1979,12 +1979,12 @@ Mitchell and I's just talking.
 No, no, we weren't. I can't --
 
 397
-00:13:18,546 --> 00:13:20,505
+00:13:18,560 --> 00:13:20,160
 我不能再忍受了 對不起
 I can't take this anymore. I'm sorry.
 
 398
-00:13:20,855 --> 00:13:23,865
+00:13:20,780 --> 00:13:23,460
 -我沒給假釋委員會寫信 -什么
 - I never wrote the letter to the parole board. - What?
 
@@ -1999,7 +1999,7 @@ I -- I tried to lie, but I just -- I couldn't do it.
 Yet you had no problem lying to me.
 
 401
-00:13:28,265 --> 00:13:31,975
+00:13:28,360 --> 00:13:31,600
 你就讓我姐姐待在可怕的監獄里受罪嗎
 You just let my sister rot in that horrific hell hole?
 
@@ -2014,12 +2014,12 @@ Oh, please, they have a Taco Tuesday!
 - Uh, Cam, c-can we talk? - Oh, hold up.
 
 404
-00:13:38,164 --> 00:13:39,564
+00:13:38,240 --> 00:13:39,580
 我在翻看一些
 I'm just looking through some pictures of me
 
 405
-00:13:39,564 --> 00:13:40,674
+00:13:39,580 --> 00:13:40,400
 我幫你家人忙的照片
 helping out your family.
 
@@ -2039,32 +2039,32 @@ and, oh, this is me, uh, helping Alex move into her dorm room,
 and who can forget when I helped Phil with that magic trick
 
 409
-00:13:48,454 --> 00:13:49,834
+00:13:48,520 --> 00:13:49,620
 我讓他把我變沒了
 and let him make me disappear.
 
 410
-00:13:49,834 --> 00:13:50,854
+00:13:49,800 --> 00:13:50,660
 你沒在那個相片里
 You're not in that picture.
 
 411
-00:13:50,854 --> 00:13:52,493
+00:13:50,800 --> 00:13:52,400
 這說明我幫忙很到位
 That's how good I am at helping out.
 
 412
-00:13:52,493 --> 00:13:53,953
+00:13:52,620 --> 00:13:53,980
 現在我們來看看
 Now let's take a look at some pictures
 
 413
-00:13:53,953 --> 00:13:55,613
+00:13:53,980 --> 00:13:55,180
 你幫我家人的照片吧
 of you helping out my family.
 
 414
-00:13:56,163 --> 00:13:57,673
+00:13:56,180 --> 00:13:57,660
 小卡 我有嘗試寫信
 Cam, I tried to write the letter.
 
@@ -2074,12 +2074,12 @@ Cam, I tried to write the letter.
 I -- I really did, but she broke the law,
 
 416
-00:14:00,223 --> 00:14:01,723
+00:14:00,240 --> 00:14:01,600
 她得到了公平的判決
 and she got a fair sentence.
 
 417
-00:14:01,723 --> 00:14:03,723
+00:14:01,600 --> 00:14:03,520
 她不應該提前出獄
 She did not deserve to get out early.
 
@@ -2089,32 +2089,32 @@ She did not deserve to get out early.
 I-I couldn't bring myself to lie about it.
 
 419
-00:14:05,693 --> 00:14:07,002
+00:14:05,800 --> 00:14:07,060
 少來了你
 Oh, give me a break.
 
 420
-00:14:07,002 --> 00:14:09,042
+00:14:07,120 --> 00:14:09,040
 我曾聽你親口說出
 I have heard you say the words,
 
 421
-00:14:09,042 --> 00:14:10,902
+00:14:09,300 --> 00:14:10,420
 "頭發燙得真好看 曼尼"
 "Nice perm, Manny."
 
 422
-00:14:11,052 --> 00:14:12,232
+00:14:10,840 --> 00:14:11,960
 你可以沒下限到那份上
 You can get there.
 
 423
-00:14:12,232 --> 00:14:13,642
+00:14:12,160 --> 00:14:13,520
 我是法界人士
 I am an officer of the law.
 
 424
-00:14:13,642 --> 00:14:15,942
+00:14:13,660 --> 00:14:15,680
 -我宣過誓 -那我們的誓言呢
 - I took an oath. - What about our oath?
 
@@ -2144,52 +2144,52 @@ But it's implied.
 Stop. Stop.
 
 430
-00:14:22,771 --> 00:14:24,172
+00:14:22,780 --> 00:14:23,640
 米奇爾說得對
 Mitchell's right.
 
 431
-00:14:24,401 --> 00:14:26,581
+00:14:24,260 --> 00:14:26,260
 我一整天都在恐嚇他
 I spent the day terrorizing him.
 
 432
-00:14:26,731 --> 00:14:28,401
+00:14:26,540 --> 00:14:28,040
 我是個糟糕的人
 I'm a horrible person.
 
 433
-00:14:28,411 --> 00:14:30,121
+00:14:28,400 --> 00:14:29,800
 我不該這么早出獄
 I should still be in jail.
 
 434
-00:14:30,121 --> 00:14:31,462
+00:14:30,200 --> 00:14:31,300
 看我偷了什么
 Look what I took.
 
 435
-00:14:32,171 --> 00:14:33,612
+00:14:31,900 --> 00:14:33,300
 那是我的剃須刀嗎
 Is that my beard trimmer?
 
 436
-00:14:33,881 --> 00:14:35,731
+00:14:33,960 --> 00:14:35,300
 也能剃其他地方的毛
 Works on other hairs.
 
 437
-00:14:37,051 --> 00:14:38,331
+00:14:36,780 --> 00:14:37,900
 對不起
 I'm sorry.
 
 438
-00:14:38,331 --> 00:14:42,090
+00:14:38,400 --> 00:14:41,540
 我偷 我騙 我操縱他人
 I am a thief and a liar and a manipulator.
 
 439
-00:14:42,280 --> 00:14:45,000
+00:14:42,100 --> 00:14:44,800
 不能放任我這樣的人重返社會
 I can't be trusted to rejoin society.
 
@@ -2199,22 +2199,22 @@ I can't be trusted to rejoin society.
 Hey, don't say that. You're-you're gonna be fine.
 
 441
-00:14:48,200 --> 00:14:49,620
+00:14:48,140 --> 00:14:49,180
 小卡爾怎么辦
 What about little Cal?
 
 442
-00:14:49,620 --> 00:14:51,280
+00:14:49,580 --> 00:14:51,100
 他在這過得很好
 He's doing so good here.
 
 443
-00:14:51,280 --> 00:14:52,650
+00:14:51,200 --> 00:14:52,460
 我只會毀了他
 I'm just gonna ruin him.
 
 444
-00:14:52,930 --> 00:14:56,459
+00:14:52,900 --> 00:14:56,000
 我需要監管 需要重新被關起來
 I need supervision, to be locked back up.
 
@@ -2244,17 +2244,17 @@ Pam, hey, you...
 You don't have to go back to prison, okay?
 
 450
-00:15:04,879 --> 00:15:07,119
+00:15:04,900 --> 00:15:06,540
 你可以住在樓上
 You can stay upstairs.
 
 451
-00:15:07,249 --> 00:15:08,460
+00:15:07,180 --> 00:15:08,220
 你是真心的嗎
 Do you mean it?
 
 452
-00:15:09,099 --> 00:15:10,559
+00:15:08,780 --> 00:15:10,060
 你們的租客怎么辦
 What about your renters?
 
@@ -2269,47 +2269,47 @@ We'll cancel, um,
 and-and we'll help take care of Cal
 
 455
-00:15:13,638 --> 00:15:16,478
+00:15:13,740 --> 00:15:15,880
 直到你重新站穩腳跟 好嗎
 until you can get back on your feet, okay?
 
 456
-00:15:16,588 --> 00:15:17,719
+00:15:16,400 --> 00:15:17,500
 家人是第一位的
 Family first.
 
 457
-00:15:19,098 --> 00:15:20,399
+00:15:18,900 --> 00:15:19,820
 放在相冊里
 One for the book.
 
 458
-00:15:20,878 --> 00:15:23,668
+00:15:20,580 --> 00:15:23,900
 我去樓上安頓一下 如果可以的話
 I'm gonna go get settled upstairs. if it's okay,
 
 459
-00:15:23,668 --> 00:15:26,857
+00:15:23,960 --> 00:15:26,880
 我泡完澡再下來照顧卡爾
 I'll come back down for Cal after my tub.
 
 460
-00:15:27,097 --> 00:15:28,157
+00:15:27,340 --> 00:15:27,920
 謝謝你們倆
 Thank you both.
 
 461
-00:15:28,157 --> 00:15:29,378
+00:15:28,460 --> 00:15:29,940
 我不會忘記這份恩情的
 I won't forget this.
 
 462
-00:15:30,527 --> 00:15:31,427
+00:15:30,600 --> 00:15:31,440
 你真善良
 That was so sweet.
 
 463
-00:15:31,427 --> 00:15:33,817
+00:15:31,840 --> 00:15:33,660
 我很高興卡爾能留下來
 I'm glad Cal gets to stick around.
 
@@ -2319,57 +2319,57 @@ I'm glad Cal gets to stick around.
 And now with Pam here,
 
 465
-00:15:34,557 --> 00:15:36,907
+00:15:34,560 --> 00:15:36,460
 我們去布蘭森時她可以幫忙喂貓
 she can feed the cat while we go to Branson.
 
 466
-00:15:38,747 --> 00:15:41,646
+00:15:38,900 --> 00:15:41,520
 辛格醫生 您凝膠涂得絕妙
 Dr. Singh, that is some exquisite gel work,
 
 467
-00:15:41,646 --> 00:15:43,246
+00:15:41,560 --> 00:15:43,220
 作為一名準護士
 and I say that as a soon-to-be nurse
 
 468
-00:15:43,246 --> 00:15:45,456
+00:15:43,220 --> 00:15:45,240
 和用很多發"膠"的人 佩服
 and someone who wears a lot of product in his hair.
 
 469
-00:15:45,456 --> 00:15:46,587
+00:15:45,480 --> 00:15:46,200
 謝謝
 Thank you.
 
 470
-00:15:46,626 --> 00:15:48,406
+00:15:46,880 --> 00:15:48,280
 海莉 你有沒有服用產前維生素
 Haley, have you been taking your prenatal vitamins?
 
 471
-00:15:48,406 --> 00:15:50,156
+00:15:48,420 --> 00:15:50,020
 我會確保她從現在起按時服用
 I'll make sure she does from now on.
 
 472
-00:15:50,256 --> 00:15:51,246
+00:15:50,300 --> 00:15:50,940
 放松點 媽
 Calm down, Mom.
 
 473
-00:15:51,246 --> 00:15:52,936
+00:15:51,020 --> 00:15:52,800
 每天吃一顆藥這種事我能記住
 I can remember to take a pill every day.
 
 474
-00:15:52,936 --> 00:15:53,937
+00:15:52,960 --> 00:15:53,460
 真能記住嗎[避孕藥]
 Can you?
 
 475
-00:15:54,466 --> 00:15:56,206
+00:15:54,280 --> 00:15:55,460
 聽到心跳了
 There's the heartbeat.
 
@@ -2384,32 +2384,32 @@ Oh, it-it sounds so fast, is everything okay?
 No, that's good. That's the way a baby's heart should sound.
 
 478
-00:16:03,315 --> 00:16:04,065
+00:16:03,300 --> 00:16:03,900
 他說得對
 He's right.
 
 479
-00:16:04,065 --> 00:16:05,355
+00:16:04,000 --> 00:16:05,340
 聽起來是一個非常健康...
 It's the sound of a very healthy --
 
 480
-00:16:06,405 --> 00:16:07,396
+00:16:06,280 --> 00:16:06,880
 怎么了
 What?
 
 481
-00:16:09,045 --> 00:16:10,825
+00:16:08,800 --> 00:16:10,280
 還有另一個心跳
 There's a second heartbeat.
 
 482
-00:16:10,905 --> 00:16:12,695
+00:16:10,800 --> 00:16:12,220
 寶寶長了兩顆心嗎
 A baby with two hearts?
 
 483
-00:16:12,784 --> 00:16:14,814
+00:16:12,700 --> 00:16:14,740
 我吃那塊大麻布朗尼時不知道自己懷孕了
 I didn't know I was pregnant when I ate that brownie!
 
@@ -2419,22 +2419,22 @@ I didn't know I was pregnant when I ate that brownie!
 - I didn't -- - No, H-Haley, breathe.
 
 485
-00:16:17,344 --> 00:16:18,854
+00:16:17,340 --> 00:16:18,480
 你懷了雙胞胎
 You're having twins.
 
 486
-00:16:19,364 --> 00:16:21,424
+00:16:19,240 --> 00:16:21,260
 那不可能 你弄錯了
 That's impossible. It's a mistake.
 
 487
-00:16:21,424 --> 00:16:23,124
+00:16:21,260 --> 00:16:23,000
 沒有弄錯 我很擅長我的工作
 It's not. I'm pretty good at this.
 
 488
-00:16:23,124 --> 00:16:25,304
+00:16:23,240 --> 00:16:25,700
 她沒弄錯 在這能看到兩個寶寶
 She's right. You can see them right here.
 
@@ -2509,37 +2509,37 @@ Yeah, he'll be here, but I meant me. I'll be here.
 Yeah, but you kind of haven't been lately.
 
 503
-00:16:49,652 --> 00:16:50,802
+00:16:49,800 --> 00:16:50,820
 我知道
 I know, I know,
 
 504
-00:16:50,802 --> 00:16:52,352
+00:16:51,000 --> 00:16:52,460
 我十分抱歉
 and I'm very sorry about that,
 
 505
-00:16:52,352 --> 00:16:53,742
+00:16:52,540 --> 00:16:53,840
 但正如你很快就會發現的那樣
 but as you're about to find out,
 
 506
-00:16:53,742 --> 00:16:56,882
+00:16:53,840 --> 00:16:56,480
 做媽媽十分復雜
 being a mom is very complicated.
 
 507
-00:16:56,882 --> 00:16:59,482
+00:16:57,180 --> 00:16:59,440
 幸運的是 會激發很多母性本能
 Luckily, there are these instincts that kick in,
 
 508
-00:16:59,482 --> 00:17:01,691
+00:16:59,560 --> 00:17:01,200
 特別是你的孩子遇到麻煩時
 especially when your kid's in trouble.
 
 509
-00:17:01,961 --> 00:17:04,371
+00:17:02,100 --> 00:17:04,000
 所以假如你應顧不暇了
 So if you're ever overwhelmed,
 
@@ -2554,32 +2554,32 @@ I am right over your shoulder
 on the wings of a hummingbird.
 
 512
-00:17:09,451 --> 00:17:11,091
+00:17:09,180 --> 00:17:10,780
 這下我知道她的大麻布朗尼是從哪來的了
 Now I know where she got the brownie.
 
 513
-00:17:11,091 --> 00:17:14,261
+00:17:11,040 --> 00:17:13,900
 我會在你身后一起騎蜂鳥 鄧太太
 And I'll be right behind you on that hummingbird, Mrs. D.
 
 514
-00:17:14,261 --> 00:17:16,020
+00:17:14,100 --> 00:17:16,420
 這只蜂鳥只能一個人騎
 It's kind of a hummingbird for one.
 
 515
-00:17:18,230 --> 00:17:20,770
+00:17:18,300 --> 00:17:20,560
 好了 曼尼和他女朋友沒事了
 Okay, Manny and his girlfriend are good.
 
 516
-00:17:20,770 --> 00:17:22,060
+00:17:20,660 --> 00:17:21,980
 煮起來烤起來吧
 Let's boil and broil.
 
 517
-00:17:22,060 --> 00:17:24,590
+00:17:22,140 --> 00:17:24,540
 謝謝你 杰 這就給你做兩根香腸
 Thank you, Jay. Two sausages coming up.
 
@@ -2604,7 +2604,7 @@ So, what did Sherry say exactly?
 Not much. I, you know -- I did most of the talking.
 
 522
-00:17:31,180 --> 00:17:33,539
+00:17:31,300 --> 00:17:33,480
 希望她現在不會再對曼尼那么頤指氣使
 Well, hopefully now she'll stop being so controlling.
 
@@ -2614,37 +2614,37 @@ Well, hopefully now she'll stop being so controlling.
 Yeah.
 
 524
-00:17:35,619 --> 00:17:36,730
+00:17:35,520 --> 00:17:36,500
 不過其實挺好笑
 Funny, though.
 
 525
-00:17:37,109 --> 00:17:37,929
+00:17:36,960 --> 00:17:37,720
 什么好笑
 What is?
 
 526
-00:17:37,929 --> 00:17:39,159
+00:17:37,920 --> 00:17:39,240
 只是嘛... 你懂的
 Well, it's just that, you know,
 
 527
-00:17:39,159 --> 00:17:41,139
+00:17:39,240 --> 00:17:41,180
 你很擔心曼尼妻管嚴
 you were worried about Manny being pushed around,
 
 528
-00:17:41,139 --> 00:17:42,509
+00:17:41,180 --> 00:17:42,660
 但如果你反省一下
 and if you think about it,
 
 529
-00:17:42,559 --> 00:17:45,229
+00:17:42,660 --> 00:17:44,860
 你也整天對我發號施令啊
 you've been sort of pushing me around all day.
 
 530
-00:17:45,229 --> 00:17:46,499
+00:17:45,220 --> 00:17:46,360
 好笑的地方在哪
 What's the funny part?
 
@@ -2674,17 +2674,17 @@ No, you don't think of stuff.
 - This is Sherry. - No, it isn't.
 
 536
-00:17:53,538 --> 00:17:55,078
+00:17:53,600 --> 00:17:54,900
 但如果是她說的 這話也不無道理啊
 But if it were, she'd have a point.
 
 537
-00:17:55,078 --> 00:17:57,228
+00:17:55,100 --> 00:17:57,040
 是嗎 所以你覺得我很愛控制人嗎
 Oh, really? So you think I'm very controlling?
 
 538
-00:17:57,228 --> 00:17:59,298
+00:17:57,260 --> 00:17:59,240
 那這榮耀交給你 以后醫生你選
 Well, you're welcome to choose the doctors,
 
@@ -2694,117 +2694,117 @@ Well, you're welcome to choose the doctors,
 pick the handymen, make plans with friends,
 
 540
-00:18:01,538 --> 00:18:02,857
+00:18:01,560 --> 00:18:02,760
 取消聚會你去說吧
 cancel plans with friends.
 
 541
-00:18:02,857 --> 00:18:04,777
+00:18:02,960 --> 00:18:04,740
 行行行 我懂了
 Okay, okay, I get it.
 
 542
-00:18:04,777 --> 00:18:05,597
+00:18:04,800 --> 00:18:05,600
 不不不不
 No, no, no, no.
 
 543
-00:18:05,597 --> 00:18:07,337
+00:18:05,600 --> 00:18:07,360
 你的確是應該多管管事了
 You do need to take more control.
 
 544
-00:18:07,337 --> 00:18:09,127
+00:18:07,460 --> 00:18:09,140
 而且擇日不如撞日
 Actually, from now on,
 
 545
-00:18:09,127 --> 00:18:12,987
+00:18:09,180 --> 00:18:12,220
 你的香腸怎么烹調自己來決定吧
 you should decide how to cook your own sausage.
 
 546
-00:18:13,927 --> 00:18:15,677
+00:18:13,920 --> 00:18:15,340
 行啊 你以為我不會嗎
 Fine, you don't think I can do it?
 
 547
-00:18:16,697 --> 00:18:20,506
+00:18:16,980 --> 00:18:19,980
 咖啡研磨機 我該怎么做她的獨家醬料
 Coffee grinder, how do I make Gloria's special sauce?
 
 548
-00:18:21,206 --> 00:18:22,596
+00:18:21,140 --> 00:18:22,140
 現在你不出聲了嗎
 Now you're quiet?
 
 549
-00:18:24,426 --> 00:18:25,386
+00:18:24,260 --> 00:18:24,860
 杰
 Hey, Jay.
 
 550
-00:18:25,386 --> 00:18:27,086
+00:18:25,280 --> 00:18:26,860
 -準備好出發了嗎 -去哪
 - You ready to go? - Go where?
 
 551
-00:18:27,086 --> 00:18:28,486
+00:18:27,000 --> 00:18:28,460
 歌洛莉亞說你會幫忙我
 Gloria said you'd help me put in a skylight
 
 552
-00:18:28,486 --> 00:18:29,436
+00:18:28,460 --> 00:18:29,260
 給海莉家裝天窗
 at Haley's new place.
 
 553
-00:18:29,436 --> 00:18:31,796
+00:18:29,460 --> 00:18:31,440
 是的 我吩咐她這么說的
 Oh, yeah, I empowered her to say that.
 
 554
-00:18:31,796 --> 00:18:32,906
+00:18:31,820 --> 00:18:32,760
 搬家進行得如何
 How's the move going?
 
 555
-00:18:32,906 --> 00:18:34,715
+00:18:32,860 --> 00:18:34,340
 很好 非常好
 So good. Really good.
 
 556
-00:18:34,775 --> 00:18:35,645
+00:18:34,760 --> 00:18:35,580
 好得不能再好了
 Good, good, good, good.
 
 557
-00:18:35,645 --> 00:18:36,695
+00:18:35,580 --> 00:18:36,600
 -那很好啊 -一點都不好
 - That's good. - No, it's not.
 
 558
-00:18:36,695 --> 00:18:38,175
+00:18:36,680 --> 00:18:38,160
 簡直就是場災難 那屋子太小了
 It's a disaster. The place is too small.
 
 559
-00:18:38,175 --> 00:18:40,255
+00:18:38,220 --> 00:18:40,160
 所有東西都需要修 我努力保持冷靜 但...
 Everything needs fixing. I'm trying to stay calm, but...
 
 560
-00:18:41,455 --> 00:18:43,835
+00:18:41,320 --> 00:18:43,600
 他們的屋頂有個洞啊 杰
 There's a hole in the ceiling, Jay --
 
 561
-00:18:43,835 --> 00:18:46,075
+00:18:43,860 --> 00:18:45,980
 屋頂有洞啊
 a hole in the ceiling.
 
 562
-00:18:46,075 --> 00:18:47,435
+00:18:46,040 --> 00:18:47,400
 雨水會滴到嬰兒床里
 Rain is gonna fall on the crib.
 
@@ -2829,22 +2829,22 @@ picks up a-a pinecone and drops it?
 What would an owl be doing with a pinecone?
 
 567
-00:18:55,714 --> 00:18:58,324
+00:18:55,740 --> 00:18:57,980
 最多也就是叼著老鼠或囊地鼠寶寶罷了
 At the most, it would be a mouse or a baby gopher.
 
 568
-00:18:58,324 --> 00:18:59,864
+00:18:58,320 --> 00:18:59,920
 迪蘭感覺開始靠譜點了
 Dylan seems like he's getting his life together,
 
 569
-00:18:59,864 --> 00:19:02,064
+00:18:59,920 --> 00:19:01,780
 但他最多也就算是個未知數
 but he's still a wild card at best.
 
 570
-00:19:02,064 --> 00:19:03,784
+00:19:01,980 --> 00:19:03,440
 我完全懂你現在的感受
 I know exactly how you feel.
 
@@ -2859,22 +2859,22 @@ I guess you do. I was your wild card, huh?
 I didn't have a lot of faith.
 
 573
-00:19:07,273 --> 00:19:09,263
+00:19:07,340 --> 00:19:09,120
 你那時候耳邊還吊著羽毛之類的吧
 Didn't you have feathers hanging off your ear?
 
 574
-00:19:09,263 --> 00:19:11,513
+00:19:09,460 --> 00:19:11,040
 -是阻擋惡夢的捕夢網 -那就是我的惡夢
 - It was a dream catcher. - It was my nightmare.
 
 575
-00:19:11,823 --> 00:19:13,384
+00:19:11,840 --> 00:19:12,940
 我想我懂你要說的意思了
 I think I see what you're saying.
 
 576
-00:19:14,523 --> 00:19:16,493
+00:19:14,660 --> 00:19:16,300
 我能變得這么棒 沒道理他不行
 If I can become awesome, so can Dylan.
 
@@ -2884,17 +2884,17 @@ If I can become awesome, so can Dylan.
 That's not what I'm saying.
 
 578
-00:19:17,743 --> 00:19:19,283
+00:19:17,840 --> 00:19:19,180
 鬼知道之后會變怎么樣啊
 Who the hell knows what's gonna happen?
 
 579
-00:19:19,283 --> 00:19:20,804
+00:19:19,220 --> 00:19:20,480
 讓我告訴你人生是怎么回事
 Let me tell you something about life.
 
 580
-00:19:21,153 --> 00:19:24,022
+00:19:21,060 --> 00:19:23,580
 我們都有覺得自己能掌控人生的錯覺
 We all have this illusion that we're in control.
 
@@ -2904,12 +2904,12 @@ We all have this illusion that we're in control.
 I wanted to play pro football,
 
 582
-00:19:25,652 --> 00:19:26,832
+00:19:25,720 --> 00:19:26,820
 結果被人弄得膝蓋不行了
 some guy takes my knee out.
 
 583
-00:19:26,832 --> 00:19:28,012
+00:19:26,840 --> 00:19:27,980
 我從校園畢業
 I graduate from school,
 
@@ -2929,32 +2929,32 @@ and some suit pulls my draft number.
 I worked my ass off to send my daughter to college,
 
 587
-00:19:34,582 --> 00:19:36,282
+00:19:34,620 --> 00:19:35,980
 一個玩雜耍的家伙把她肚子搞大
 some juggler knocks her up.
 
 588
-00:19:36,282 --> 00:19:37,791
+00:19:35,980 --> 00:19:37,760
 大人 再次跟您道歉
 Again, sir, I'm very sorry about that.
 
 589
-00:19:37,791 --> 00:19:39,821
+00:19:37,900 --> 00:19:39,800
 我投入無數年心血建立起我的生意
 I put in the years, I build my business
 
 590
-00:19:39,821 --> 00:19:41,141
+00:19:39,800 --> 00:19:41,000
 好讓自己不用臣服于其他人
 so I don't have to answer to anyone,
 
 591
-00:19:41,141 --> 00:19:42,651
+00:19:41,000 --> 00:19:42,700
 可現在我還是得歷經磨難
 and I still have to jump through hoops
 
 592
-00:19:42,651 --> 00:19:44,201
+00:19:42,700 --> 00:19:43,840
 才能換得香腸吃
 to get a damn sausage.
 
@@ -2964,32 +2964,32 @@ to get a damn sausage.
 You lost me there at that last part.
 
 594
-00:19:45,761 --> 00:19:48,851
+00:19:45,820 --> 00:19:48,760
 聽我說 我的意思是
 Look, all I'm saying is things
 
 595
-00:19:49,061 --> 00:19:51,031
+00:19:48,760 --> 00:19:50,820
 計劃永遠趕不上變化
 are always gonna change,
 
 596
-00:19:51,031 --> 00:19:52,940
+00:19:50,820 --> 00:19:52,800
 所以你得關關難過關關過
 and you have to deal with it.
 
 597
-00:19:52,940 --> 00:19:55,860
+00:19:52,920 --> 00:19:55,740
 但好消息是 五年后的這時候
 But the good news is, five years from now
 
 598
-00:19:55,860 --> 00:19:57,480
+00:19:55,740 --> 00:19:57,360
 當你跟自己的孫兒玩的時候
 while you're playing with your grandkid,
 
 599
-00:19:57,480 --> 00:19:59,930
+00:19:57,360 --> 00:19:59,400
 今天早就拋到九霄云外了
 you won't even remember today.
 
@@ -3004,7 +3004,7 @@ I hadn't thought about it like that.
 Thanks, Jay.
 
 602
-00:20:09,299 --> 00:20:11,919
+00:20:08,540 --> 00:20:11,580
 海莉與迪蘭要搬回來跟我們住了
 Huh. Haley and Dylan are gonna have to move back in with us.
 
@@ -3014,17 +3014,17 @@ Huh. Haley and Dylan are gonna have to move back in with us.
 That's okay. I can handle that.
 
 604
-00:20:17,179 --> 00:20:18,979
+00:20:17,100 --> 00:20:18,460
 她懷了雙胞胎
 She's having twins.
 
 605
-00:20:19,369 --> 00:20:20,919
+00:20:19,240 --> 00:20:20,740
 給你來根香腸吧
 Let's get you a sausage.
 
 606
-00:20:29,548 --> 00:20:30,689
+00:20:29,380 --> 00:20:30,280
 謝謝
 Thank you.
 
@@ -3034,12 +3034,12 @@ Thank you.
 It was a box of cloth.
 
 608
-00:20:34,628 --> 00:20:36,978
+00:20:34,660 --> 00:20:37,240
 是小帕請她母親給她寄來
 Pam asked her mom to ship to her,
 
 609
-00:20:37,178 --> 00:20:38,998
+00:20:37,240 --> 00:20:38,600
 三天前寄出的
 three days ago.
 
@@ -3049,17 +3049,17 @@ three days ago.
 You faked that break down so you could stay here.
 
 611
-00:20:42,727 --> 00:20:44,067
+00:20:42,800 --> 00:20:43,920
 干得漂亮 律師
 Well done, counselor.
 
 612
-00:20:44,067 --> 00:20:46,127
+00:20:44,060 --> 00:20:46,060
 你看 這就是為什么我寫不出那封信
 See! This is why I couldn't write that letter for you.
 
 613
-00:20:46,127 --> 00:20:49,427
+00:20:46,140 --> 00:20:49,300
 你對你坑蒙拐騙的事情毫無悔意
 You have no remorse for your lying, stealing ways.
 
@@ -3074,7 +3074,7 @@ But I'm on to you.
 And I'm going to make you pay.
 
 616
-00:20:53,237 --> 00:20:54,507
+00:20:53,100 --> 00:20:53,880
 你省省吧
 No, you ain't.
 
@@ -3089,6 +3089,6 @@ You're tiny.
 Hey, hey! Are those our lamps?
 
 619
-00:20:57,636 --> 00:20:58,937
+00:20:57,940 --> 00:20:58,320
 小帕
 Pam!

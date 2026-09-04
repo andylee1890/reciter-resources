@@ -219,7 +219,7 @@ to honor the spirit of Thanksgiving,
 you can open your doors and feed the homeless.
 
 45
-00:02:04,380 --> 00:02:06,460
+00:02:04,380 --> 00:02:05,460
 对啊  把你的钱放在你的"玉米秆"那儿
 Yeah, put your money where your cornstalk is.
 
@@ -404,7 +404,7 @@ and with all the potential Christmas cupcakes
 and festive gift baskets,
 
 82
-00:03:33,220 --> 00:03:34,960
+00:03:33,700 --> 00:03:34,960
 你会需要一个帮手的
 you're gonna need as much help as you can get.
 
@@ -599,7 +599,7 @@ With your father in prison, how are you doing?
 I'm doing great.
 
 121
-00:05:02,620 --> 00:05:04,640
+00:05:02,620 --> 00:05:04,020
 其实我刚发现正因为是感恩节
 I actually just found out that since it's Thanksgiving,
 
@@ -654,7 +654,7 @@ Now into the mixer.
 There, how was that?
 
 132
-00:05:32,820 --> 00:05:33,760
+00:05:32,300 --> 00:05:33,760
 我们又不是在玩
 Uh-uh. We're not playing
 
@@ -1009,17 +1009,17 @@ Please try and get into the holiday spirit.
 I know. If we get hired,
 
 203
-00:08:24,280 --> 00:08:26,780
+00:08:24,280 --> 00:08:26,720
 我们就马上回家看《34街奇迹》吧
 we'll go right home and watch Miracle on 34th Street.
 
 204
-00:08:27,160 --> 00:08:29,020
+00:08:27,160 --> 00:08:28,960
 如果我们能在这艘精灵运奴船上
 It'll be a miracle on 34th Street
 
 205
-00:08:29,020 --> 00:08:31,220
+00:08:29,020 --> 00:08:30,340
 成功下船而不染上精灵坏血病
 if we make it out of the bottom of this slave ship
 
@@ -1059,7 +1059,7 @@ My second favorite is it's a wonderful life.
 Mine too!
 
 213
-00:08:45,400 --> 00:08:46,660
+00:08:45,400 --> 00:08:47,120
 我有蓝光的《辛德勒的名单》
 I've got Schindler's List on Blu-Ray.
 
@@ -1269,7 +1269,7 @@ Okay, well...
 Great, 3:00 A.M.--
 
 255
-00:10:38,680 --> 00:10:39,800
+00:10:38,680 --> 00:10:41,220
 你  我  和一个老处女玛丽
 you, me, and definitely-a-Virgin-Mary.
 
@@ -1424,7 +1424,7 @@ We have to be at Santaland in an hour.
 Why you have to be there in the middle of the night?
 
 286
-00:11:57,480 --> 00:12:00,180
+00:11:57,480 --> 00:11:59,880
 因为今天是黑色星期五  清晨五点就开门了
 Because it's Black Friday, and the doors open at 5:00 A.M.
 
@@ -1469,7 +1469,7 @@ Max, I'm not doing cocaine.
 If we could afford cocaine, we could afford a mixer.
 
 295
-00:12:18,240 --> 00:12:20,720
+00:12:17,680 --> 00:12:20,720
 坚挺九小时提神饮料  又名精灵果汁
 Nine-hour energy shots, aka elf juice.
 
@@ -1479,7 +1479,7 @@ Nine-hour energy shots, aka elf juice.
 I've never done these. Do they work?
 
 297
-00:12:23,000 --> 00:12:25,620
+00:12:23,620 --> 00:12:25,620
 成千上万大学生精力充沛的最佳选择
 Millions of wired-off-their-asses college students can't be wrong.
 
@@ -1739,7 +1739,7 @@ I can't. It's embarrassing.
 Look, either you ask her, or you rip out the crotch
 
 349
-00:14:18,984 --> 00:14:21,000
+00:14:18,980 --> 00:14:20,980
 或冒着露出冬日"阴"境给小朋友的风险
 and risk showing six-year-olds your winter wonderland.
 
@@ -1794,7 +1794,7 @@ and I was back at my desk by 2:00.
 Follow me...
 
 360
-00:14:46,080 --> 00:14:48,760
+00:14:46,580 --> 00:14:48,760
 除非你不想每个小时多挣两块钱
 Unless, uh, you don't want that extra $2 an hour.
 
@@ -1879,7 +1879,7 @@ It's me, Mary.
 "Mary Christmas."
 
 377
-00:15:36,000 --> 00:15:38,500
+00:15:36,000 --> 00:15:38,020
 -我哥哥派翠克总这么说  -你说过了
 - You know, like my brother Patrick always says. - Yeah, you said that.
 
@@ -2204,7 +2204,7 @@ Jingles, come into my little house.
 No, Max. They should know.
 
 442
-00:18:17,500 --> 00:18:19,740
+00:18:17,500 --> 00:18:19,640
 34街根本没有奇迹
 There is no miracle on 34th Street,
 
@@ -2459,7 +2459,7 @@ Jingles, did you steal this?
 Yeah.
 
 493
-00:20:32,840 --> 00:20:34,960
+00:20:33,620 --> 00:20:34,960
 在他们扔咱们出去时  我趁乱拿的
 I grabbed it when they were throwing us out.
 

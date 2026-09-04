@@ -364,7 +364,7 @@ I'm not allowed over there.
 I guess we should donate it somewhere,
 
 74
-00:02:51,563 --> 00:02:53,317
+00:02:51,450 --> 00:02:53,030
 顺便把那千斤重的大猩猩也捐了
 along with the 800-pound gorilla.
 
@@ -724,7 +724,7 @@ Manny, I can take care of a baby.
 I took care of you.
 
 146
-00:05:22,250 --> 00:05:24,969
+00:05:22,310 --> 00:05:24,670
 拜托 我是个奇才 我自学的怎么用便壶
 Please. I was an anomaly. I self-potty trained.
 
@@ -1844,7 +1844,7 @@ No, she will always be Norma Jeane Baker to me.
 What is your point, exactly?
 
 370
-00:13:46,670 --> 00:13:48,690
+00:13:46,730 --> 00:13:48,410
 就像离过三次婚的女星
 That like the thrice-married starlet,
 
@@ -2014,7 +2014,7 @@ Where?
 Well, someplace with a vibrant theater scene...
 
 404
-00:15:06,576 --> 00:15:08,110
+00:15:06,550 --> 00:15:07,570
 处处是高级餐厅
 Top-notch restaurants...
 
@@ -2104,7 +2104,7 @@ Come here.
 I already feel better.
 
 422
-00:15:47,010 --> 00:15:47,130
+00:15:47,010 --> 00:15:47,110
 我也是
 Me, too.
 
@@ -2219,7 +2219,7 @@ Anyway, I'll be sleeping in it.
 It's got a bathroom.
 
 445
-00:16:40,100 --> 00:16:41,750
+00:16:40,250 --> 00:16:41,590
 准确的说 是半间
 More of a half-bath.
 
@@ -2294,7 +2294,7 @@ I'm just expressing concern.
 Let me guess-- about my bone density.
 
 460
-00:17:06,630 --> 00:17:08,246
+00:17:06,670 --> 00:17:07,910
 不得不说 你真是个聪明蛋
 You know, you're a real smart-ass.
 

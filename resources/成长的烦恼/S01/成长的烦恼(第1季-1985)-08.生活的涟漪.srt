@@ -18,7 +18,7 @@ coffees considered to be an aphrodisiac.
 More coffee?
 
 5
-00:01:13,467 --> 00:01:14,905
+00:01:13,580 --> 00:01:14,260
 有请
 Please.
 
@@ -153,7 +153,7 @@ Ben, Jacques had a submarine.
 Not when he was nine.
 
 32
-00:02:41,722 --> 00:02:43,058
+00:02:41,860 --> 00:02:42,480
 本.
 Ben....
 
@@ -168,7 +168,7 @@ Great. I wanted to be immortal.
 Instead, I'm just wet.
 
 35
-00:02:48,696 --> 00:02:49,997
+00:02:49,220 --> 00:02:49,280
 永垂不朽？
 Immortal?
 
@@ -188,7 +188,7 @@ Since I was two.
 Well, if you promise to stay out of the bathroom, maybe I'll help you.
 
 39
-00:03:01,909 --> 00:03:03,000
+00:03:02,000 --> 00:03:02,460
 好吧
 Okay.
 
@@ -298,7 +298,7 @@ Mike, I think I speak for both your father and myself when I ask you:
 Is there a girl in this class?
 
 61
-00:04:10,744 --> 00:04:12,045
+00:04:10,600 --> 00:04:11,120
 什么？
 What?
 
@@ -443,7 +443,7 @@ Well, it's a test to measure dullness.
 It's so dull, I can't even talk about it.
 
 90
-00:05:53,881 --> 00:05:55,353
+00:05:53,980 --> 00:05:54,540
 杰森？
 Jason?
 
@@ -473,7 +473,7 @@ I knew we would say that.
 - Don't be such a stick-in-the-mud. - Such a stick-in-the-mud.
 
 96
-00:06:13,367 --> 00:06:14,930
+00:06:13,620 --> 00:06:14,840
 我这么容易被看穿？
 Am I that predictable?
 
@@ -548,7 +548,7 @@ The questions are profound, astute, full of insight.
 Especially the smutty ones.
 
 111
-00:06:54,620 --> 00:06:55,160
+00:06:54,620 --> 00:06:55,720
 是啊，第12题
 Yes, Number 12.
 
@@ -611,7 +611,7 @@ was the most important reason to study karate?
 No, no, I was out getting the Goobers.
 
 124
-00:07:30,210 --> 00:07:31,238
+00:07:30,480 --> 00:07:30,980
 对
 Yeah.
 
@@ -776,7 +776,7 @@ I take it you're going for endurance here, not accuracy.
 How much longer before he gets in the book?
 
 157
-00:09:55,155 --> 00:09:57,185
+00:09:54,920 --> 00:09:56,980
 -现在几点？ -1点半
 - What time is it now? - 1 :30.
 
@@ -786,12 +786,12 @@ How much longer before he gets in the book?
 A week from Thursday.
 
 159
-00:10:01,395 --> 00:10:02,696
+00:10:01,340 --> 00:10:01,900
 凯罗
 Carol.
 
 160
-00:10:02,763 --> 00:10:04,167
+00:10:02,800 --> 00:10:03,360
 本!
 Ben!
 
@@ -966,7 +966,7 @@ You said "yes."
 Well, that's what I meant.
 
 195
-00:11:47,300 --> 00:11:48,431
+00:11:47,260 --> 00:11:47,760
 什么？
 What?
 
@@ -1021,12 +1021,12 @@ Come on, Maggie, what are you making such a big deal of this for?
 I've always been honest with you.
 
 206
-00:12:23,036 --> 00:12:24,064
+00:12:22,860 --> 00:12:23,440
 是吗？
 Oh?
 
 207
-00:12:24,404 --> 00:12:25,569
+00:12:24,620 --> 00:12:25,200
 是的
 Yes.
 
@@ -1166,7 +1166,7 @@ Damn it, be serious.
 - You want a serious example? - Yes.
 
 235
-00:13:48,488 --> 00:13:49,858
+00:13:48,580 --> 00:13:49,100
 好吧
 Okay.
 
@@ -1441,12 +1441,12 @@ Nice to meet you, Mr. Seaver.
 You thought Debbie DiZomba was an animal.
 
 290
-00:17:25,205 --> 00:17:26,233
+00:17:25,120 --> 00:17:25,680
 嗨
 Hi.
 
 291
-00:17:28,742 --> 00:17:29,770
+00:17:28,700 --> 00:17:29,260
 嗨
 Hi.
 
@@ -1461,7 +1461,7 @@ Don't let me disturb you. I just think I left my glasses in here somewhere.
 So you did.
 
 294
-00:17:43,623 --> 00:17:44,856
+00:17:43,600 --> 00:17:44,160
 谢谢
 Thanks.
 
@@ -1541,7 +1541,7 @@ I mean, I love him, and he's a great father, but sometimes--
 Drink to excess? Scratch himself in public?
 
 310
-00:18:36,543 --> 00:18:37,708
+00:18:36,400 --> 00:18:37,020
 没有
 No.
 
@@ -1561,7 +1561,7 @@ Because he doesn't believe in total honesty.
 Mrs. Seaver, are you being totally honest with me now?
 
 314
-00:18:47,787 --> 00:18:48,918
+00:18:48,100 --> 00:18:48,380
 是的
 Yes.
 
@@ -1571,12 +1571,12 @@ Yes.
 Well, there's one sure way to find out.
 
 316
-00:18:53,993 --> 00:18:55,329
+00:18:54,140 --> 00:18:54,700
 催眠
 Hypnosis.
 
 317
-00:18:57,297 --> 00:18:58,701
+00:18:57,580 --> 00:18:58,140
 催眠？
 Hypnosis?
 
@@ -1656,7 +1656,7 @@ His red plaid blazer?
 Well, I think that it really brings out the color of his...
 
 333
-00:19:50,650 --> 00:19:51,815
+00:19:51,200 --> 00:19:51,500
 很相称
 gums.
 
@@ -1826,7 +1826,7 @@ Jason, I'm sorry.
 I should have told you.
 
 367
-00:21:32,986 --> 00:21:34,151
+00:21:32,940 --> 00:21:33,480
 也许吧
 Maybe.
 
@@ -1846,7 +1846,7 @@ so you kept it to yourself.
 I admire you for that.
 
 371
-00:21:43,630 --> 00:21:45,034
+00:21:43,580 --> 00:21:44,040
 是吗？
 Really?
 
@@ -1906,12 +1906,12 @@ Something I've never tried before with a patient.
 What's that?
 
 383
-00:22:25,738 --> 00:22:27,142
+00:22:25,560 --> 00:22:26,740
 第42题
 Number 42.
 
 384
-00:22:27,974 --> 00:22:29,207
+00:22:28,180 --> 00:22:28,780
 医生
 Doctor.
 

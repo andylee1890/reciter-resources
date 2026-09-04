@@ -1,10 +1,10 @@
 1
-00:00:01,480 --> 00:00:05,511
+00:00:01,480 --> 00:00:05,520
 所以说 扩散率等于什么鬼
 So the rate of diffusion equals something
 
 2
-00:00:05,511 --> 00:00:09,137
+00:00:05,520 --> 00:00:08,000
 乘以什么鬼的平方根
 times the square root of...something...
 
@@ -114,7 +114,7 @@ Come on, sweetie.
 I'm just saying -- she's never gonna get a job,
 
 24
-00:00:44,370 --> 00:00:47,080
+00:00:44,800 --> 00:00:47,080
 不过没准她能傍上某个中东富豪
 and how do we know the right middle-eastern businessman
 
@@ -179,12 +179,12 @@ or one of them new fancy flyin' machines?
 You know, Missouri is more cosmopolitan
 
 37
-00:01:12,380 --> 00:01:13,620
+00:01:12,380 --> 00:01:13,640
 比你说的要现代化得多 米奇尔
 than you give it credit for, Mitchell.
 
 38
-00:01:13,620 --> 00:01:16,010
+00:01:13,680 --> 00:01:15,800
 充满了活灵活现的牛仔田园风情
 It's got a very vibrant cowboy-poetry scene.
 
@@ -564,12 +564,12 @@ Just end it.
 Okay, but be gentle.
 
 114
-00:04:33,580 --> 00:04:35,951
+00:04:33,580 --> 00:04:35,960
 青春期的男孩都很敏感的
 Boys are surprisingly sensitive at that age.
 
 115
-00:04:35,951 --> 00:04:37,071
+00:04:36,120 --> 00:04:36,860
 又来了 水球女的故事
 Water-polo-girl story.
 
@@ -624,12 +624,12 @@ I'm begging, I'm begging --
 at some point I realize
 
 126
-00:04:55,620 --> 00:04:56,867
+00:04:55,620 --> 00:04:56,880
 我屁股底下坐着的是
 I'm sitting on the button
 
 127
-00:04:56,867 --> 00:04:59,130
+00:04:56,880 --> 00:04:59,040
 全校广播的开关
 to the high-school intercom system.
 
@@ -744,7 +744,7 @@ I texted Dylan. It's over.
 I'll bet that's him.
 
 150
-00:05:45,841 --> 00:05:47,715
+00:05:46,380 --> 00:05:47,420
 哭丧着脸的表情
 Sad-face emoticon!
 
@@ -799,7 +799,7 @@ I have not!
 Okay. Sorry. My mistake.
 
 161
-00:06:11,860 --> 00:06:15,959
+00:06:12,140 --> 00:06:15,320
 肯定是小卡母亲的错 是她有问题
 Must be Cam's mom...her issues.
 
@@ -1279,7 +1279,7 @@ Okay. You --
 you, uh, you can go ahead and exit
 
 257
-00:09:37,069 --> 00:09:38,820
+00:09:37,120 --> 00:09:38,500
 从 正门出去的
 through the...front door.
 
@@ -1484,7 +1484,7 @@ Just put your fingers all over my...
 my fanny.
 
 298
-00:10:58,394 --> 00:11:00,937
+00:10:58,060 --> 00:11:00,640
 用你的回春之手 巴布
 Your magic fingers...Barb.
 
@@ -2159,7 +2159,7 @@ of what belongs to me.
 - Dad? - Haley?
 
 433
-00:16:00,072 --> 00:16:03,100
+00:16:00,380 --> 00:16:03,100
 我的天 那件运动衫
 Oh...my...god -- the sweatshirt?
 
@@ -2194,12 +2194,12 @@ Okay, put the phone down.
 what is going on?
 
 440
-00:16:12,480 --> 00:16:14,089
+00:16:12,480 --> 00:16:14,100
 他需要一个可以倾诉的人
 He needed someone to talk to.
 
 441
-00:16:14,089 --> 00:16:16,136
+00:16:14,380 --> 00:16:16,080
 他的心都快碎了
 He took the break-up pretty hard.
 
@@ -2239,12 +2239,12 @@ maybe it's best if we're apart.
 Nice.
 
 449
-00:16:30,840 --> 00:16:33,511
+00:16:30,840 --> 00:16:33,520
 我只是觉得
 I mean, I think I just need
 
 450
-00:16:33,511 --> 00:16:36,060
+00:16:33,520 --> 00:16:35,860
 我需要一点时间去跟迪兰约会
 a little time to date...Dylan.
 
@@ -2264,7 +2264,7 @@ So, we're still broken up?
 Yeah, I think so.
 
 454
-00:16:45,411 --> 00:16:51,482
+00:16:45,560 --> 00:16:51,120
 好吧 那就 再见吧
 Wow. Okay...um...I don't know -- I'll see you.
 
@@ -2479,7 +2479,7 @@ but, you know, I don't know.
 I guess I have been having some fun with you,
 
 497
-00:18:19,390 --> 00:18:22,040
+00:18:18,780 --> 00:18:22,040
 我 我以为摸两把没事的
 and I...I thought that it was harmless,
 
