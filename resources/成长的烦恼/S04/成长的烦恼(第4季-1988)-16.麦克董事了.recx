@@ -205,7 +205,7 @@
 <tag time1='658.07' time2='660.03' text='6bqm55CqOuWTpiznjrDlnKjkvaDlupTor6Xlvojpq5jlhbTkuoYuCk1hZ2dpZTogT2ggbm93IGFyZW4ndCB5b3UgZ2xhZCB5b3UgYXNrZWQ/' input='' num='201' star='0' ng='0' ok='0' score='0' sy='0'/>
 <tag time1='660.59' time2='662.19' text='6L+I5YWLOuW/q+S5kOaXoOazleiogOWWuy4KTWlrZTogV29yZHMgY2Fubm90IGV4cHJlc3MgbXkgam95Lg==' input='' num='202' star='0' ng='0' ok='0' score='0' sy='0'/>
 <tag time1='662.19' time2='662.29' text='5p2w5qOuOui/iOWFiy4KSmFzb246IE1pa2Uu' input='' num='203' star='0' ng='0' ok='0' score='0' sy='0'/>
-<tag time1='665.39' time2='666.85' text='6L+I5YWLOuWYvyzniLjniLgsCk1pa2U6IEhleSBkYWQsIGxldCBtZSBhc2sgeW91IHNvbWV0aGluZy4=' input='' num='204' star='0' ng='0' ok='0' score='0' sy='0'/>
+<tag time1='663.95' time2='666.85' text='6L+I5YWLOuWYvyzniLjniLgsCk1pa2U6IEhleSBkYWQsIGxldCBtZSBhc2sgeW91IHNvbWV0aGluZy4=' input='' num='204' star='0' ng='0' ok='0' score='0' sy='0'/>
 <tag time1='667.61' time2='670.95' text='6K6p5oiR6Zeu5L2g5Lu25LqLLuS9oOacieayoeacieW+l+WIsOi/h+afkOS6m+ecn+W+l+W+iOWlvSzljbTkuI3phY3mi6XmnInnmoTkuJzopb8uCkhhdmUgeW91IGV2ZW4gZ290IHNvbWV0aGluZyByZWFsbHkgZ29vZCwgdGhhdCB5b3UgZGlkbid0IGRlc2VydmU/' input='' num='205' star='0' ng='0' ok='0' score='0' sy='0'/>
 <tag time1='670.95' time2='671.05' text='6bqm55CqOuWTpizku5bmnIku5LuW5b6X5Yiw5LqG5oiRLgpNYWdnaWU6IE9oLCBzdXJlIGhlIGRpZC5IZSBnb3QgbWUu' input='' num='206' star='0' ng='0' ok='0' score='0' sy='0'/>
 <tag time1='676.75' time2='678.73' text='6L+I5YWLOuS4jSzkuI0s5LiNLuaIkeaYr+ivtOS9oOW+iOaDs+W+l+WIsOeahOS4nOilvy4KTWlrZTogTm8sIG5vLCBuby5JIG1lYW4gc29tZXRoaW5nIHRoYXQgeW91IHJlYWxseSB3YW50ZWQu' input='' num='207' star='0' ng='0' ok='0' score='0' sy='0'/>
@@ -293,12 +293,12 @@
 <tag time1='961.05' time2='961.79' text='5oiR5Lus6L+Y5rKh5pyJ5a6M5oiQ5LiK5qyh5L2g5LiK54+t5LmL5YmN55qE6LCI6K+d5ZGiPwp5b3UgbGVmdCBmb3Igd29yaz8=' input='' num='289' star='0' ng='0' ok='0' score='0' sy='0'/>
 <tag time1='962.09' time2='962.65' text='6L+I5YWLOuWFs+S6juS7gOS5iD8KTWlrZTogQWJvdXQgd2hhdD8=' input='' num='290' star='0' ng='0' ok='0' score='0' sy='0'/>
 <tag time1='962.65' time2='962.75' text='6bqm55CqOuaIkeS7rOWPquehruWumui/meWSjOWls+WtqeaXoOWFsy7lmL8s5p2w5qOuPwpNYWdnaWU6IFdlbGwgd2UgYXJlIGZhaXJseSBzdXJlIGl0IHdhc24ndCBhYm91dCBnaXJscy5IZXkgSmFzb24/' input='' num='291' star='0' ng='0' ok='0' score='0' sy='0'/>
-<tag time1='966.39' time2='968.97' text='5p2w5qOuOumdnuW4uOehruS/oS4KSmFzb246IE1vcmUgc3VyZSB0aGFuIEkndmUgYmVlbiBhYm91dCBhbnl0aGluZyBpbiBteSBsaWZlLg==' input='' num='292' star='0' ng='0' ok='0' score='0' sy='0'/>
+<tag time1='966.05' time2='968.97' text='5p2w5qOuOumdnuW4uOehruS/oS4KSmFzb246IE1vcmUgc3VyZSB0aGFuIEkndmUgYmVlbiBhYm91dCBhbnl0aGluZyBpbiBteSBsaWZlLg==' input='' num='292' star='0' ng='0' ok='0' score='0' sy='0'/>
 <tag time1='969.67' time2='971.01' text='6L+I5YWLOuWTpiwKTWlrZTogTG9vaywgaXQgdHVybmVkIG91dCB0byBiZSBub3RoaW5nLg==' input='' num='293' star='0' ng='0' ok='0' score='0' sy='0'/>
 <tag time1='971.17' time2='973.71' text='5bey57uP5rKh5LqL5LqGLuS9oOS7rOacieayoeacieWboOS4uuiHquW3seivtOmUmeS6huivnSwKSSBtZWFuIGhhdmUgeW91IGV2ZXIganVzdCBvcGVuZWQgdXAgeW91ciBtb3V0aCBhbmQgbWFkZSBhIGNvbXBsZXRlIGZvb2w=' input='' num='294' star='0' ng='0' ok='0' score='0' sy='0'/>
 <tag time1='973.85' time2='974.35' text='6ICM6K6p6Ieq5bex5oiQ5LqG5Liq5YK755OcPwpvZiB5b3Vyc2VsZj8=' input='' num='295' star='0' ng='0' ok='0' score='0' sy='0'/>
 <tag time1='974.35' time2='974.45' text='6bqm55CqOuWXryzmnbDmo64/Ck1hZ2dpZTogVW0sIEphc29uPw==' input='' num='296' star='0' ng='0' ok='0' score='0' sy='0'/>
-<tag time1='979.27' time2='981.73' text='5p2w5qOuOui/iOWFiyzkvaDopoHor7Tku4DkuYg/5L2g5Zyo5ZKM6LCB6K+05ZGiPwpKYXNvbjogU28gbWlrZS5XaGF0IGRpZCB5b3Ugc2F5P1dobyBkaWQgeW91IHNheSBpdCB0bz8=' input='' num='297' star='0' ng='0' ok='0' score='0' sy='0'/>
+<tag time1='975.41' time2='981.73' text='5p2w5qOuOui/iOWFiyzkvaDopoHor7Tku4DkuYg/5L2g5Zyo5ZKM6LCB6K+05ZGiPwpKYXNvbjogU28gbWlrZS5XaGF0IGRpZCB5b3Ugc2F5P1dobyBkaWQgeW91IHNheSBpdCB0bz8=' input='' num='297' star='0' ng='0' ok='0' score='0' sy='0'/>
 <tag time1='982.37' time2='985.41' text='6L+I5YWLOueciyzmiJHljp/mnaXku6XkuLrmiJHlt6XkvZzkuIrlvpfliLDkuobnibnliKvnmoTnhafpob4sCk1pa2U6IFNlZSwgSSBqdXN0IHRob3VnaHQgdGhhdCBJIHdhcyBnZXR0aW5nIHNwZWNpYWwgdHJlYXRtZW50IGF0IHdvcms=' input='' num='298' star='0' ng='0' ok='0' score='0' sy='0'/>
 <tag time1='985.41' time2='986.25' text='5piv5Zug5Li65oiR5piv5Liq55m95Lq6LgpiZWNhdXNlIEknbSB3aGl0ZS4=' input='' num='299' star='0' ng='0' ok='0' score='0' sy='0'/>
 <tag time1='987.31' time2='987.95' text='6bqm55CqOuaAjuS5iOWbnuS6iz8KTWFnZ2llOiBFeGN1c2UgbWU/' input='' num='300' star='0' ng='0' ok='0' score='0' sy='0'/>
