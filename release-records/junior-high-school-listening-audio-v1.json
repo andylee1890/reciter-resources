@@ -1,0 +1,716 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-07T17:35:48.816898Z",
+  "tag": "junior-high-school-listening-audio-v1",
+  "title": "Junior High School English Listening Audio v1",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/Exams/初中听力",
+  "createdAt": "2026-09-08 01:33:47 +0800",
+  "poster": {
+    "id": "junior-high-school-listening",
+    "kind": "collection-cover",
+    "sourceType": "user-provided-local-image",
+    "original": {
+      "path": "artwork/posters/junior-high-school-listening.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/junior-high-school-listening.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/junior-high-school-listening.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/junior-high-school-listening.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/junior-high-school-listening.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/junior-high-school-listening.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.056696,
+        "width": 1.0,
+        "height": 0.886607
+      },
+      "sourceSize": {
+        "width": 993,
+        "height": 1400
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/junior-high-school-listening-audio-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 37,
+  "totalSizeMiB": 48.19,
+  "audio": [
+    {
+      "name": "七年级上册Unit8 When is your birthday_ Section A 2e 听力.mp3",
+      "sizeMiB": 1.04,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit8.When.is.your.birthday.Section.A.2e.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20Section%20A%202e%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20Section%20A%202e%20%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20Section%20A%202e%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20Section%20A%202e%20%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "七年级上册Unit8 When is your birthday_ Section B 1b 听力.mp3",
+      "sizeMiB": 1.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit8.When.is.your.birthday.Section.B.1b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20Section%20B%201b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20Section%20B%201b%20%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20Section%20B%201b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20Section%20B%201b%20%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "七年级上册Unit8 When is your birthday_ Section B 2b 听力.mp3",
+      "sizeMiB": 1.67,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit8.When.is.your.birthday.Section.B.2b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "七年级上册Unit8 When is your birthday_ 单词朗读听力.mp3",
+      "sizeMiB": 4.69,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit8.When.is.your.birthday.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "七年级上册Unit9 My favorite subject is science Section A 1b 听力.mp3",
+      "sizeMiB": 1.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit9.My.favorite.subject.is.science.Section.A.1b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%201b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%201b%20%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%201b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%201b%20%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "七年级上册Unit9 My favorite subject is science Section A 2a 听力.mp3",
+      "sizeMiB": 0.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit9.My.favorite.subject.is.science.Section.A.2a.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%202a%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%202a%20%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%202a%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%202a%20%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "七年级上册Unit9 My favorite subject is science Section A 2b 听力.mp3",
+      "sizeMiB": 1.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit9.My.favorite.subject.is.science.Section.A.2b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%202b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%202b%20%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%202b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%202b%20%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "七年级上册Unit9 My favorite subject is science Section A 2d 听力.mp3",
+      "sizeMiB": 1.33,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit9.My.favorite.subject.is.science.Section.A.2d.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%202d%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%202d%20%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%202d%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%202d%20%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "七年级上册Unit9 My favorite subject is science Section B 1b 听力.mp3",
+      "sizeMiB": 1.54,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit9.My.favorite.subject.is.science.Section.B.1b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20B%201b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20B%201b%20%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20B%201b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20B%201b%20%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "七年级上册Unit9 My favorite subject is science Section B 2b 听力.mp3",
+      "sizeMiB": 2.15,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit9.My.favorite.subject.is.science.Section.B.2b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20B%202b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20B%202b%20%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20B%202b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20B%202b%20%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "七年级上册Unit9 My favorite subject is science 单词朗读听力.mp3",
+      "sizeMiB": 3.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit9.My.favorite.subject.is.science.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册Unit7 How much are these socks_ Section A 1b 听力.mp3",
+      "sizeMiB": 0.85,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit7.How.much.are.these.socks.Section.A.1b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20A%201b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20A%201b%20%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20A%201b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20A%201b%20%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册Unit7 How much are these socks_ Section A 2b 听力.mp3",
+      "sizeMiB": 1.91,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit7.How.much.are.these.socks.Section.A.2b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20A%202b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20A%202b%20%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20A%202b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20A%202b%20%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册Unit7 How much are these socks_ Section A 2c 听力.mp3",
+      "sizeMiB": 1.89,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit7.How.much.are.these.socks.Section.A.2c.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20A%202c%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20A%202c%20%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20A%202c%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20A%202c%20%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册Unit7 How much are these socks_ Section B 2b 听力.mp3",
+      "sizeMiB": 2.02,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit7.How.much.are.these.socks.Section.B.2b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册Unit7 How much are these socks_ 单词朗读听力.mp3",
+      "sizeMiB": 4.71,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit7.How.much.are.these.socks.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册英语Unit1 My name's Gina Section B 1d and 1e 听力（含音频）.mp3",
+      "sizeMiB": 1.43,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit1.My.name.s.Gina.Section.B.1d.and.1e.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit1%20My%20name%27s%20Gina%20Section%20B%201d%20and%201e%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit1%20My%20name%27s%20Gina%20Section%20B%201d%20and%201e%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit1%20My%20name%27s%20Gina%20Section%20B%201d%20and%201e%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit1%20My%20name%27s%20Gina%20Section%20B%201d%20and%201e%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册英语Unit2 This is my sister Section B 1b 听力（含音频）.mp3",
+      "sizeMiB": 0.83,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit2.This.is.my.sister.Section.B.1b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit2%20This%E2%80%82is%E2%80%82my%E2%80%82sister%20Section%20B%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit2%20This%E2%80%82is%E2%80%82my%E2%80%82sister%20Section%20B%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit2%20This%E2%80%82is%E2%80%82my%E2%80%82sister%20Section%20B%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit2%20This%E2%80%82is%E2%80%82my%E2%80%82sister%20Section%20B%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册英语Unit4 Where's my schoolbag_ Section B 1c 听力（含音频）.mp3",
+      "sizeMiB": 1.81,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit4.Where.s.my.schoolbag.Section.B.1c.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit4%20Where%27s%20my%20schoolbag_%20Section%20B%201c%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit4%20Where%27s%20my%20schoolbag_%20Section%20B%201c%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit4%20Where%27s%20my%20schoolbag_%20Section%20B%201c%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit4%20Where%27s%20my%20schoolbag_%20Section%20B%201c%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册英语Unit4 Where's my schoolbag_ Section B 2b 听力（含音频）.mp3",
+      "sizeMiB": 1.38,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit4.Where.s.my.schoolbag.Section.B.2b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit4%20Where%27s%20my%20schoolbag_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit4%20Where%27s%20my%20schoolbag_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit4%20Where%27s%20my%20schoolbag_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit4%20Where%27s%20my%20schoolbag_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册英语Unit5 Do you have a soccer ball_ Section A 1b 听力（含音频）.mp3",
+      "sizeMiB": 0.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit5.Do.you.have.a.soccer.ball.Section.A.1b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20A%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20A%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20A%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20A%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册英语Unit5 Do you have a soccer ball_ Section A 2a-2b 听力（含音频）.mp3",
+      "sizeMiB": 1.19,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit5.Do.you.have.a.soccer.ball.Section.A.2a.2b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20A%202a-2b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20A%202a-2b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20A%202a-2b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20A%202a-2b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册英语Unit5 Do you have a soccer ball_ Section A 2d 听力（含音频）.mp3",
+      "sizeMiB": 0.67,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit5.Do.you.have.a.soccer.ball.Section.A.2d.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20A%202d%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20A%202d%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20A%202d%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20A%202d%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册英语Unit5 Do you have a soccer ball_ Section B 1b 听力（含音频）.mp3",
+      "sizeMiB": 0.84,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit5.Do.you.have.a.soccer.ball.Section.B.1b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20B%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20B%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20B%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20B%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册英语Unit5 Do you have a soccer ball_ Section B 1c 听力（含音频）.mp3",
+      "sizeMiB": 0.95,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit5.Do.you.have.a.soccer.ball.Section.B.1c.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20B%201c%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20B%201c%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20B%201c%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20B%201c%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册英语Unit5 Do you have a soccer ball_ Section B 2b 听力（含音频）.mp3",
+      "sizeMiB": 1.2,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit5.Do.you.have.a.soccer.ball.Section.B.2b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册英语Unit6 Do you like bananas_  Section A 1b 听力（含音频）.mp3",
+      "sizeMiB": 0.07,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit6.Do.you.like.bananas.Section.A.1b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20%20Section%20A%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20%20Section%20A%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20%20Section%20A%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20%20Section%20A%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册英语Unit6 Do you like bananas_  Section B 1c 听力（含音频）.mp3",
+      "sizeMiB": 0.1,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit6.Do.you.like.bananas.Section.B.1c.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20%20Section%20B%201c%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20%20Section%20B%201c%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20%20Section%20B%201c%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20%20Section%20B%201c%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册英语Unit6 Do you like bananas_ Section B 2b 听力音频.mp3",
+      "sizeMiB": 0.14,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit6.Do.you.like.bananas.Section.B.2b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级上册英语Unit6 Do you like bananas_ 听力 单词朗读.mp3",
+      "sizeMiB": 1.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit6.Do.you.like.bananas.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20%E5%90%AC%E5%8A%9B%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20%E5%90%AC%E5%8A%9B%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20%E5%90%AC%E5%8A%9B%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20%E5%90%AC%E5%8A%9B%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级下册英语Unit 1 Animal Friends Section A 1b 听力.mp3",
+      "sizeMiB": 0.06,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit.1.Animal.Friends.Section.A.1b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20A%201b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20A%201b%20%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20A%201b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20A%201b%20%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级下册英语Unit 1 Animal Friends Section A 1c 听力.mp3",
+      "sizeMiB": 0.43,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit.1.Animal.Friends.Section.A.1c.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20A%201c%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20A%201c%20%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20A%201c%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20A%201c%20%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级下册英语Unit 1 Animal Friends Section A 2a and 2c 听力.mp3",
+      "sizeMiB": 0.17,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit.1.Animal.Friends.Section.A.2a.and.2c.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20A%202a%20and%202c%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20A%202a%20and%202c%20%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20A%202a%20and%202c%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20A%202a%20and%202c%20%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级下册英语Unit 1 Animal Friends Section B 1b 听力.mp3",
+      "sizeMiB": 0.25,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit.1.Animal.Friends.Section.B.1b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20B%201b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20B%201b%20%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20B%201b%20%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20B%201b%20%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级英语上册Unit1 My name's Gina Section A 1b 听力（含音频）.mp3",
+      "sizeMiB": 0.68,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit1.My.name.s.Gina.Section.A.1b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E8%8B%B1%E8%AF%AD%E4%B8%8A%E5%86%8CUnit1%20My%20name%27s%20Gina%20Section%20A%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E8%8B%B1%E8%AF%AD%E4%B8%8A%E5%86%8CUnit1%20My%20name%27s%20Gina%20Section%20A%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E8%8B%B1%E8%AF%AD%E4%B8%8A%E5%86%8CUnit1%20My%20name%27s%20Gina%20Section%20A%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E8%8B%B1%E8%AF%AD%E4%B8%8A%E5%86%8CUnit1%20My%20name%27s%20Gina%20Section%20A%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级英语上册Unit1 My name's Gina Section A 2a 听力（含音频）.mp3",
+      "sizeMiB": 0.9,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit1.My.name.s.Gina.Section.A.2a.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E8%8B%B1%E8%AF%AD%E4%B8%8A%E5%86%8CUnit1%20My%20name%27s%20Gina%20Section%20A%202a%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E8%8B%B1%E8%AF%AD%E4%B8%8A%E5%86%8CUnit1%20My%20name%27s%20Gina%20Section%20A%202a%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E8%8B%B1%E8%AF%AD%E4%B8%8A%E5%86%8CUnit1%20My%20name%27s%20Gina%20Section%20A%202a%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E8%8B%B1%E8%AF%AD%E4%B8%8A%E5%86%8CUnit1%20My%20name%27s%20Gina%20Section%20A%202a%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "人教版七年级英语上册Unit1 My name's Gina Section A 2b 听力（含音频）.mp3",
+      "sizeMiB": 1.05,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit1.My.name.s.Gina.Section.A.2b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E8%8B%B1%E8%AF%AD%E4%B8%8A%E5%86%8CUnit1%20My%20name%27s%20Gina%20Section%20A%202b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E8%8B%B1%E8%AF%AD%E4%B8%8A%E5%86%8CUnit1%20My%20name%27s%20Gina%20Section%20A%202b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E8%8B%B1%E8%AF%AD%E4%B8%8A%E5%86%8CUnit1%20My%20name%27s%20Gina%20Section%20A%202b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E8%8B%B1%E8%AF%AD%E4%B8%8A%E5%86%8CUnit1%20My%20name%27s%20Gina%20Section%20A%202b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.recx"
+        }
+      }
+    }
+  ]
+}
