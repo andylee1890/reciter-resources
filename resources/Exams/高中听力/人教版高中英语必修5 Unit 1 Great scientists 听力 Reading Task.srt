@@ -1,0 +1,163 @@
+1
+00:00:01,940 --> 00:00:03,380
+Reading Task
+
+2
+00:00:04,780 --> 00:00:07,100
+Finding the Solution
+
+3
+00:00:08,500 --> 00:00:09,440
+Do you like puzzles?
+
+4
+00:00:10,400 --> 00:00:11,080
+Euler did.
+
+5
+00:00:12,160 --> 00:00:14,900
+Did you solve the one you heard for the listening task?
+
+6
+00:00:16,620 --> 00:00:19,240
+Well, don't worry, Euler didn't either!
+
+7
+00:00:20,020 --> 00:00:22,400
+As he loved mathematical puzzles,
+
+8
+00:00:22,620 --> 00:00:25,560
+he wanted to know why this one wouldn't work.
+
+9
+00:00:45,780 --> 00:00:47,440
+He just had to know why.
+
+10
+00:00:48,000 --> 00:00:50,900
+So he decided to look at the problem another way.
+
+11
+00:00:52,020 --> 00:00:56,860
+He drew himself a picture of the town and the seven bridges like the one above.
+
+12
+00:00:57,920 --> 00:00:59,760
+He marked the land and the bridges.
+
+13
+00:01:15,000 --> 00:01:19,640
+He noticed that some points had three lines going to them (A,
+
+14
+00:01:19,980 --> 00:01:24,460
+B and C) and one had five (D).
+
+15
+00:01:25,140 --> 00:01:29,180
+He wondered if this was important and why the puzzle would not work.
+
+16
+00:01:30,160 --> 00:01:34,840
+As three and five are odd numbers he called them "odd" points.
+
+17
+00:01:55,880 --> 00:01:58,440
+He counted the lines going to points A,
+
+18
+00:01:58,800 --> 00:02:01,380
+B, C and D.
+
+19
+00:02:01,760 --> 00:02:03,460
+This time they were different.
+
+20
+00:02:04,540 --> 00:02:09,840
+Two of them had even numbers of lines (B had two and D had four).
+
+21
+00:02:10,840 --> 00:02:16,360
+Two and four are both even numbers so Euler called them "even" points.
+
+22
+00:02:29,640 --> 00:02:33,800
+Using this new diagram Euler started at point A,
+
+23
+00:02:34,000 --> 00:02:37,560
+went along the straight line to B and then to C.
+
+24
+00:02:38,240 --> 00:02:42,740
+Then he followed the curved line through D and back to A.
+
+25
+00:02:43,880 --> 00:02:49,500
+Finally he followed the other curved line from A back through D to C where
+
+26
+00:02:49,500 --> 00:02:50,580
+he finished the pattern.
+
+27
+00:02:51,600 --> 00:02:52,660
+This time it worked.
+
+28
+00:02:53,580 --> 00:02:57,400
+He had been able to go over the figure visiting each point
+
+29
+00:02:57,760 --> 00:03:02,640
+but not going over any line twice or lifting his pencil from the page.
+
+30
+00:03:04,460 --> 00:03:05,880
+Euler became very excited.
+
+31
+00:03:06,700 --> 00:03:10,940
+Now he knew that the number of odd points was the key to the puzzle.
+
+32
+00:03:11,820 --> 00:03:16,660
+However, you still needed some even points in your figure if you wanted it to work.
+
+33
+00:03:17,440 --> 00:03:19,420
+So Euler looked for a general rule:
+
+34
+00:03:20,860 --> 00:03:23,180
+If a figure has more than two odd points,
+
+35
+00:03:23,620 --> 00:03:29,520
+you cannot go over it without lifting your pencil from the page or going over a line twice.
+
+36
+00:03:31,720 --> 00:03:34,760
+Quickly he went to his textbooks to find some more figures.
+
+37
+00:03:34,760 --> 00:03:39,200
+He looked at the four diagrams shown below and found that
+
+38
+00:03:39,200 --> 00:03:43,460
+when he used his rule, he could tell if he could go over the whole figure
+
+39
+00:03:43,460 --> 00:03:45,800
+without taking his pencil from the paper.
+
+40
+00:03:46,600 --> 00:03:47,980
+He was overjoyed.
+
+41
+00:03:48,440 --> 00:03:54,720
+He did not know it but his little puzzle had started a whole new branch of mathematics called "topology".
