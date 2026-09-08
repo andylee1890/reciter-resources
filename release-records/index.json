@@ -4617,7 +4617,7 @@
     },
     {
       "tag": "junior-high-school-listening-audio-v1",
-      "title": "Junior High School English Listening Audio v1",
+      "title": "初中听力",
       "createdAt": "2026-09-08 01:33:47 +0800",
       "audioCount": 37,
       "totalSizeMiB": 48.19,
@@ -5410,7 +5410,7 @@
     },
     {
       "tag": "senior-high-school-listening-audio-v1",
-      "title": "Senior High School English Listening Audio v1",
+      "title": "高中听力",
       "createdAt": "2026-09-08 01:33:47 +0800",
       "audioCount": 62,
       "totalSizeMiB": 165.48,
