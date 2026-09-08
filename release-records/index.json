@@ -4616,6 +4616,57 @@
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/growing-pains-s07-audio-v1"
     },
     {
+      "tag": "junior-high-school-listening-audio-v1",
+      "title": "Junior High School English Listening Audio v1",
+      "createdAt": "2026-09-08 01:33:47 +0800",
+      "audioCount": 37,
+      "totalSizeMiB": 48.19,
+      "detailFile": "junior-high-school-listening-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/junior-high-school-listening-audio-v1.json",
+      "poster": {
+        "id": "junior-high-school-listening",
+        "kind": "collection-cover",
+        "sourceType": "user-provided-local-image",
+        "original": {
+          "path": "artwork/posters/junior-high-school-listening.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/junior-high-school-listening.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/junior-high-school-listening.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/junior-high-school-listening.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/junior-high-school-listening.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/junior-high-school-listening.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.056696,
+            "width": 1.0,
+            "height": 0.886607
+          },
+          "sourceSize": {
+            "width": 993,
+            "height": 1400
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/junior-high-school-listening-audio-v1"
+        },
+        "mirrors": [
+          {
+            "provider": "r2",
+            "rootUrl": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/"
+          }
+        ]
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/junior-high-school-listening-audio-v1"
+    },
+    {
       "tag": "modern-family-s01-audio-v1",
       "title": "Modern Family Season 01 Audio v1",
       "createdAt": "2026-09-03 00:48:27 +0800",
@@ -5356,6 +5407,57 @@
         ]
       },
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/new-concept-english-4-us-audio-v1"
+    },
+    {
+      "tag": "senior-high-school-listening-audio-v1",
+      "title": "Senior High School English Listening Audio v1",
+      "createdAt": "2026-09-08 01:33:47 +0800",
+      "audioCount": 62,
+      "totalSizeMiB": 165.48,
+      "detailFile": "senior-high-school-listening-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/senior-high-school-listening-audio-v1.json",
+      "poster": {
+        "id": "senior-high-school-listening",
+        "kind": "collection-cover",
+        "sourceType": "user-provided-local-image",
+        "original": {
+          "path": "artwork/posters/senior-high-school-listening.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/senior-high-school-listening.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/senior-high-school-listening.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/senior-high-school-listening.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/senior-high-school-listening.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/senior-high-school-listening.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.058036,
+            "width": 1.0,
+            "height": 0.883929
+          },
+          "sourceSize": {
+            "width": 990,
+            "height": 1400
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/senior-high-school-listening-audio-v1"
+        },
+        "mirrors": [
+          {
+            "provider": "r2",
+            "rootUrl": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/"
+          }
+        ]
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/senior-high-school-listening-audio-v1"
     },
     {
       "tag": "the-big-bang-theory-s01-audio-v1",
@@ -6642,98 +6744,6 @@
         ]
       },
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/yes-prime-minister-audio-v1"
-    },
-    {
-      "tag": "junior-high-school-listening-audio-v1",
-      "title": "Junior High School English Listening Audio v1",
-      "createdAt": "2026-09-08 01:33:47 +0800",
-      "audioCount": 37,
-      "totalSizeMiB": 48.19,
-      "detailFile": "junior-high-school-listening-audio-v1.json",
-      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/junior-high-school-listening-audio-v1.json",
-      "poster": {
-        "id": "junior-high-school-listening",
-        "kind": "collection-cover",
-        "sourceType": "user-provided-local-image",
-        "original": {
-          "path": "artwork/posters/junior-high-school-listening.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/junior-high-school-listening.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/junior-high-school-listening.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/junior-high-school-listening.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/junior-high-school-listening.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/junior-high-school-listening.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.056696,
-            "width": 1.0,
-            "height": 0.886607
-          },
-          "sourceSize": {
-            "width": 993,
-            "height": 1400
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/junior-high-school-listening-audio-v1"
-        },
-        "mirrors": []
-      },
-      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/junior-high-school-listening-audio-v1"
-    },
-    {
-      "tag": "senior-high-school-listening-audio-v1",
-      "title": "Senior High School English Listening Audio v1",
-      "createdAt": "2026-09-08 01:33:47 +0800",
-      "audioCount": 62,
-      "totalSizeMiB": 165.48,
-      "detailFile": "senior-high-school-listening-audio-v1.json",
-      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/senior-high-school-listening-audio-v1.json",
-      "poster": {
-        "id": "senior-high-school-listening",
-        "kind": "collection-cover",
-        "sourceType": "user-provided-local-image",
-        "original": {
-          "path": "artwork/posters/senior-high-school-listening.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/senior-high-school-listening.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/senior-high-school-listening.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/senior-high-school-listening.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/senior-high-school-listening.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/senior-high-school-listening.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.058036,
-            "width": 1.0,
-            "height": 0.883929
-          },
-          "sourceSize": {
-            "width": 990,
-            "height": 1400
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/senior-high-school-listening-audio-v1"
-        },
-        "mirrors": []
-      },
-      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/senior-high-school-listening-audio-v1"
     }
   ]
 }
