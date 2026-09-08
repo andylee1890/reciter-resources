@@ -13,6 +13,7 @@ import hashlib
 import os
 import re
 import shutil
+import unicodedata
 import subprocess
 import sys
 from pathlib import Path
@@ -74,13 +75,23 @@ def release_asset_url(repo: str, tag: str, filename: str) -> str:
 
 
 def github_release_asset_name(filename: str) -> str:
-    """Create a stable, collision-free flat name for a Release asset."""
+    """Create the portable filename GitHub exposes from a Release upload.
+
+    The download endpoint resolves the uploaded asset name, not the optional
+    display label passed to ``gh release upload``. Keep underscores, hyphens,
+    dots and plus signs because GitHub preserves them; normalize the remaining
+    non-ASCII separators to dots.
+    """
     path = Path(filename)
-    parts = path.with_suffix("").parts
-    normalized_parts = [
-        re.sub(r"[^A-Za-z0-9]+", ".", part).strip(".") for part in parts
-    ]
-    normalized_stem = ".".join(part for part in normalized_parts if part)
+    transliterated: list[str] = []
+    for character in path.with_suffix("").as_posix():
+        decomposed = unicodedata.normalize("NFKD", character)
+        ascii_characters = "".join(
+            part for part in decomposed if ord(part) < 128 and not unicodedata.combining(part)
+        )
+        transliterated.append(ascii_characters or character)
+    normalized_stem = re.sub(r"[^A-Za-z0-9_.+-]+", ".", "".join(transliterated))
+    normalized_stem = re.sub(r"\.{2,}", ".", normalized_stem).strip(".")
     if not normalized_stem:
         # Keep the externally published name portable even when a source name
         # contains no ASCII letters or digits. The mapping is written to the
