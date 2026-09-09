@@ -167,7 +167,7 @@ python release-tools/publish_season_release.py \
 ## 索引生成
 
 `generate_release_index.py` 从 `release-records/*.md` 生成站点可直接消费的 `release-records/index.json`，以及每个已发布资料包的 `release-records/<tag>.json`。
-它只收录 `Published: True` 的记录。主索引只列资料包摘要和明细文件名；每个资料包 JSON 保留实际配置的音频投递方式、镜像数组、GitHub Raw sidecar 和 jsDelivr sidecar 链接。只有远端逐文件校验通过的 Internet Archive 条目才会进入 `platforms.mirrors` 和每首音频的 `audio.mirrors`。
+它只收录 `Published: True` 的记录。主索引只列资料包摘要和明细文件名，并为每个音频资料包提供页面分类字段：`first_class`、`second_class` 和预留给英语阅读书籍的 `author`。每个资料包 JSON 保留实际配置的音频投递方式、镜像数组、GitHub Raw sidecar 和 jsDelivr sidecar 链接。只有远端逐文件校验通过的 Internet Archive 条目才会进入 `platforms.mirrors` 和每首音频的 `audio.mirrors`。
 
 ```bash
 python release-tools/generate_release_index.py

@@ -20,6 +20,46 @@ PART_RELEASE_TABLE_HEADER = (
     "| Audio | Size MiB | GitHub Release asset | Internet Archive file | GitHub Raw sidecars | jsDelivr sidecars |"
 )
 
+DRAMA_SERIES = {
+    "2-broke-girls": "破产姐妹",
+    "friends": "老友记",
+    "growing-pains": "成长的烦恼",
+    "modern-family": "摩登家庭",
+    "the-big-bang-theory": "生活大爆炸",
+    "the-office-us": "办公室（美版）",
+}
+DRAMA_SEASON_PATTERN = re.compile(r"^(?P<series>.+)-s(?P<season>\d+)-audio-v\d+$")
+
+
+def catalog_metadata(tag: str, fallback_title: str) -> dict[str, str]:
+    """Return stable, page-facing metadata for a published audio collection."""
+    season = DRAMA_SEASON_PATTERN.fullmatch(tag)
+    if season and season["series"] in DRAMA_SERIES:
+        return {
+            "title": f"{DRAMA_SERIES[season['series']]} 第{int(season['season'])}季",
+            "first_class": "影视英语",
+            "second_class": DRAMA_SERIES[season["series"]],
+            "author": "",
+        }
+    if tag in {"yes-minister-audio-v1", "yes-prime-minister-audio-v1"}:
+        return {
+            "title": "是，大臣" if tag == "yes-minister-audio-v1" else "是，首相",
+            "first_class": "影视英语",
+            "second_class": "大臣、首相",
+            "author": "",
+        }
+    if tag.startswith("cambridge-ielts-"):
+        return {"title": fallback_title, "first_class": "考试英语", "second_class": "雅思", "author": ""}
+    if tag.startswith("toefl-"):
+        return {"title": fallback_title, "first_class": "考试英语", "second_class": "托福", "author": ""}
+    if tag == "junior-high-school-listening-audio-v1":
+        return {"title": "初中听力", "first_class": "考试英语", "second_class": "初中听力", "author": ""}
+    if tag == "senior-high-school-listening-audio-v1":
+        return {"title": "高中听力", "first_class": "考试英语", "second_class": "高中听力", "author": ""}
+    if tag.startswith(("new-concept-english-", "american-accent-training-")):
+        return {"title": fallback_title, "first_class": "教材课程", "second_class": "", "author": ""}
+    return {"title": fallback_title, "first_class": "其他资料", "second_class": "", "author": ""}
+
 
 def repository_root() -> Path:
     return Path(__file__).resolve().parents[1]
@@ -195,6 +235,7 @@ def platforms_for(record: dict[str, Any]) -> dict[str, Any]:
 def release_detail(record: dict[str, Any], generated_at: str, poster: dict[str, Any]) -> dict[str, Any]:
     archive = record["internetArchive"]
     archive_has_direct_files = archive is not None and archive.get("directFiles") == "true"
+    catalog = catalog_metadata(record["tag"], record["title"])
 
     def track_mirrors(track: dict[str, Any]) -> list[dict[str, str]]:
         if archive is None:
@@ -219,7 +260,7 @@ def release_detail(record: dict[str, Any], generated_at: str, poster: dict[str, 
         "schemaVersion": 5,
         "generatedAt": generated_at,
         "tag": record["tag"],
-        "title": record["title"],
+        "title": catalog["title"],
         "repository": record["repository"],
         "branch": record["branch"],
         "folder": record["folder"],
@@ -278,7 +319,7 @@ def master_index(
         "releases": [
             {
                 "tag": record["tag"],
-                "title": record["title"],
+                **catalog_metadata(record["tag"], record["title"]),
                 "createdAt": record["createdAt"],
                 "audioCount": record["audioCount"],
                 "totalSizeMiB": record["totalSizeMiB"],

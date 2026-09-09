@@ -2659,6 +2659,9 @@
     {
       "tag": "2-broke-girls-s01-audio-v1",
       "title": "破产姐妹 第1季",
+      "first_class": "影视英语",
+      "second_class": "破产姐妹",
+      "author": "",
       "createdAt": "2026-09-03 13:05:52 +0800",
       "audioCount": 24,
       "totalSizeMiB": 563.96,
@@ -2707,6 +2710,9 @@
     {
       "tag": "2-broke-girls-s02-audio-v1",
       "title": "破产姐妹 第2季",
+      "first_class": "影视英语",
+      "second_class": "破产姐妹",
+      "author": "",
       "createdAt": "2026-09-03 13:15:33 +0800",
       "audioCount": 24,
       "totalSizeMiB": 569.11,
@@ -2755,6 +2761,9 @@
     {
       "tag": "2-broke-girls-s03-audio-v1",
       "title": "破产姐妹 第3季",
+      "first_class": "影视英语",
+      "second_class": "破产姐妹",
+      "author": "",
       "createdAt": "2026-09-03 13:25:08 +0800",
       "audioCount": 24,
       "totalSizeMiB": 570.18,
@@ -2803,6 +2812,9 @@
     {
       "tag": "2-broke-girls-s04-audio-v1",
       "title": "破产姐妹 第4季",
+      "first_class": "影视英语",
+      "second_class": "破产姐妹",
+      "author": "",
       "createdAt": "2026-09-03 13:34:19 +0800",
       "audioCount": 22,
       "totalSizeMiB": 520.77,
@@ -2851,6 +2863,9 @@
     {
       "tag": "2-broke-girls-s05-audio-v1",
       "title": "破产姐妹 第5季",
+      "first_class": "影视英语",
+      "second_class": "破产姐妹",
+      "author": "",
       "createdAt": "2026-09-03 13:43:17 +0800",
       "audioCount": 22,
       "totalSizeMiB": 517.5,
@@ -2899,6 +2914,9 @@
     {
       "tag": "2-broke-girls-s06-audio-v1",
       "title": "破产姐妹 第6季",
+      "first_class": "影视英语",
+      "second_class": "破产姐妹",
+      "author": "",
       "createdAt": "2026-09-03 13:51:24 +0800",
       "audioCount": 21,
       "totalSizeMiB": 507.61,
@@ -2947,6 +2965,9 @@
     {
       "tag": "american-accent-training-4e-audio-v1",
       "title": "American Accent Training 4e Audio",
+      "first_class": "教材课程",
+      "second_class": "",
+      "author": "",
       "createdAt": "2026-08-16 03:16:49 +0800",
       "audioCount": 459,
       "totalSizeMiB": 1055.82,
@@ -3006,6 +3027,9 @@
     {
       "tag": "cambridge-ielts-05-listening-v1",
       "title": "Cambridge IELTS 05 Listening v1",
+      "first_class": "考试英语",
+      "second_class": "雅思",
+      "author": "",
       "createdAt": "2026-08-18 01:52:26 +0800",
       "audioCount": 16,
       "totalSizeMiB": 65.27,
@@ -3052,6 +3076,9 @@
     {
       "tag": "cambridge-ielts-06-listening-v1",
       "title": "Cambridge IELTS 06 Listening v1",
+      "first_class": "考试英语",
+      "second_class": "雅思",
+      "author": "",
       "createdAt": "2026-08-18 02:11:27 +0800",
       "audioCount": 16,
       "totalSizeMiB": 57.54,
@@ -3098,6 +3125,9 @@
     {
       "tag": "cambridge-ielts-07-listening-v1",
       "title": "Cambridge IELTS 07 Listening v1",
+      "first_class": "考试英语",
+      "second_class": "雅思",
+      "author": "",
       "createdAt": "2026-08-18 02:17:00 +0800",
       "audioCount": 16,
       "totalSizeMiB": 60.16,
@@ -3144,6 +3174,9 @@
     {
       "tag": "cambridge-ielts-08-listening-v1",
       "title": "Cambridge IELTS 08 Listening v1",
+      "first_class": "考试英语",
+      "second_class": "雅思",
+      "author": "",
       "createdAt": "2026-08-18 02:22:32 +0800",
       "audioCount": 16,
       "totalSizeMiB": 62.08,
@@ -3190,6 +3223,9 @@
     {
       "tag": "cambridge-ielts-09-listening-v1",
       "title": "Cambridge IELTS 09 Listening v1",
+      "first_class": "考试英语",
+      "second_class": "雅思",
+      "author": "",
       "createdAt": "2026-08-18 02:28:09 +0800",
       "audioCount": 16,
       "totalSizeMiB": 61.47,
@@ -3236,6 +3272,9 @@
     {
       "tag": "cambridge-ielts-10-listening-v1",
       "title": "Cambridge IELTS 10 Listening v1",
+      "first_class": "考试英语",
+      "second_class": "雅思",
+      "author": "",
       "createdAt": "2026-08-18 02:31:48 +0800",
       "audioCount": 16,
       "totalSizeMiB": 63.23,
@@ -3282,6 +3321,9 @@
     {
       "tag": "cambridge-ielts-11-listening-v1",
       "title": "Cambridge IELTS 11 Listening v1",
+      "first_class": "考试英语",
+      "second_class": "雅思",
+      "author": "",
       "createdAt": "2026-08-18 02:40:50 +0800",
       "audioCount": 16,
       "totalSizeMiB": 72.28,
@@ -3328,6 +3370,9 @@
     {
       "tag": "cambridge-ielts-12-listening-v1",
       "title": "Cambridge IELTS 12 Listening v1",
+      "first_class": "考试英语",
+      "second_class": "雅思",
+      "author": "",
       "createdAt": "2026-08-18 02:45:54 +0800",
       "audioCount": 16,
       "totalSizeMiB": 50.64,
@@ -3374,6 +3419,9 @@
     {
       "tag": "cambridge-ielts-13-listening-v1",
       "title": "Cambridge IELTS 13 Listening v1",
+      "first_class": "考试英语",
+      "second_class": "雅思",
+      "author": "",
       "createdAt": "2026-08-18 02:50:09 +0800",
       "audioCount": 16,
       "totalSizeMiB": 53.14,
@@ -3420,6 +3468,9 @@
     {
       "tag": "cambridge-ielts-14-listening-v1",
       "title": "Cambridge IELTS 14 Listening v1",
+      "first_class": "考试英语",
+      "second_class": "雅思",
+      "author": "",
       "createdAt": "2026-08-18 02:59:04 +0800",
       "audioCount": 16,
       "totalSizeMiB": 59.81,
@@ -3466,6 +3517,9 @@
     {
       "tag": "cambridge-ielts-15-listening-v1",
       "title": "Cambridge IELTS 15 Listening v1",
+      "first_class": "考试英语",
+      "second_class": "雅思",
+      "author": "",
       "createdAt": "2026-08-18 03:02:39 +0800",
       "audioCount": 16,
       "totalSizeMiB": 90.8,
@@ -3512,6 +3566,9 @@
     {
       "tag": "cambridge-ielts-16-listening-v1",
       "title": "Cambridge IELTS 16 Listening v1",
+      "first_class": "考试英语",
+      "second_class": "雅思",
+      "author": "",
       "createdAt": "2026-08-18 03:08:00 +0800",
       "audioCount": 16,
       "totalSizeMiB": 148.4,
@@ -3558,6 +3615,9 @@
     {
       "tag": "cambridge-ielts-17-listening-v1",
       "title": "Cambridge IELTS 17 Listening v1",
+      "first_class": "考试英语",
+      "second_class": "雅思",
+      "author": "",
       "createdAt": "2026-08-18 03:19:34 +0800",
       "audioCount": 16,
       "totalSizeMiB": 73.9,
@@ -3604,6 +3664,9 @@
     {
       "tag": "cambridge-ielts-18-listening-v1",
       "title": "Cambridge IELTS 18 Listening v1",
+      "first_class": "考试英语",
+      "second_class": "雅思",
+      "author": "",
       "createdAt": "2026-08-18 03:24:28 +0800",
       "audioCount": 16,
       "totalSizeMiB": 98.85,
@@ -3650,6 +3713,9 @@
     {
       "tag": "cambridge-ielts-19-listening-v1",
       "title": "Cambridge IELTS 19 Listening v1",
+      "first_class": "考试英语",
+      "second_class": "雅思",
+      "author": "",
       "createdAt": "2026-08-18 03:30:36 +0800",
       "audioCount": 16,
       "totalSizeMiB": 73.02,
@@ -3696,6 +3762,9 @@
     {
       "tag": "cambridge-ielts-20-listening-v1",
       "title": "Cambridge IELTS 20 Listening v1",
+      "first_class": "考试英语",
+      "second_class": "雅思",
+      "author": "",
       "createdAt": "2026-08-18 03:36:34 +0800",
       "audioCount": 16,
       "totalSizeMiB": 72.84,
@@ -3742,6 +3811,9 @@
     {
       "tag": "friends-s01-audio-v1",
       "title": "老友记 第1季",
+      "first_class": "影视英语",
+      "second_class": "老友记",
+      "author": "",
       "createdAt": "2026-08-04 02:28:16 +0800",
       "audioCount": 24,
       "totalSizeMiB": 498.64,
@@ -3796,6 +3868,9 @@
     {
       "tag": "friends-s02-audio-v1",
       "title": "老友记 第2季",
+      "first_class": "影视英语",
+      "second_class": "老友记",
+      "author": "",
       "createdAt": "2026-08-04 03:15:13 +0800",
       "audioCount": 24,
       "totalSizeMiB": 500.07,
@@ -3850,6 +3925,9 @@
     {
       "tag": "friends-s03-audio-v1",
       "title": "老友记 第3季",
+      "first_class": "影视英语",
+      "second_class": "老友记",
+      "author": "",
       "createdAt": "2026-08-04 04:00:52 +0800",
       "audioCount": 25,
       "totalSizeMiB": 522.0,
@@ -3904,6 +3982,9 @@
     {
       "tag": "friends-s04-audio-v1",
       "title": "老友记 第4季",
+      "first_class": "影视英语",
+      "second_class": "老友记",
+      "author": "",
       "createdAt": "2026-08-04 04:39:05 +0800",
       "audioCount": 24,
       "totalSizeMiB": 490.51,
@@ -3958,6 +4039,9 @@
     {
       "tag": "friends-s05-audio-v1",
       "title": "老友记 第5季",
+      "first_class": "影视英语",
+      "second_class": "老友记",
+      "author": "",
       "createdAt": "2026-08-04 04:53:25 +0800",
       "audioCount": 24,
       "totalSizeMiB": 488.25,
@@ -4012,6 +4096,9 @@
     {
       "tag": "friends-s06-audio-v1",
       "title": "老友记 第6季",
+      "first_class": "影视英语",
+      "second_class": "老友记",
+      "author": "",
       "createdAt": "2026-08-04 05:03:08 +0800",
       "audioCount": 25,
       "totalSizeMiB": 503.99,
@@ -4066,6 +4153,9 @@
     {
       "tag": "friends-s07-audio-v1",
       "title": "老友记 第7季",
+      "first_class": "影视英语",
+      "second_class": "老友记",
+      "author": "",
       "createdAt": "2026-08-04 05:11:41 +0800",
       "audioCount": 24,
       "totalSizeMiB": 482.67,
@@ -4120,6 +4210,9 @@
     {
       "tag": "friends-s08-audio-v1",
       "title": "老友记 第8季",
+      "first_class": "影视英语",
+      "second_class": "老友记",
+      "author": "",
       "createdAt": "2026-08-04 05:24:37 +0800",
       "audioCount": 24,
       "totalSizeMiB": 482.66,
@@ -4174,6 +4267,9 @@
     {
       "tag": "friends-s09-audio-v1",
       "title": "老友记 第9季",
+      "first_class": "影视英语",
+      "second_class": "老友记",
+      "author": "",
       "createdAt": "2026-08-04 05:30:53 +0800",
       "audioCount": 23,
       "totalSizeMiB": 537.17,
@@ -4228,6 +4324,9 @@
     {
       "tag": "friends-s10-audio-v1",
       "title": "老友记 第10季",
+      "first_class": "影视英语",
+      "second_class": "老友记",
+      "author": "",
       "createdAt": "2026-08-04 05:35:29 +0800",
       "audioCount": 16,
       "totalSizeMiB": 380.29,
@@ -4282,6 +4381,9 @@
     {
       "tag": "growing-pains-s01-audio-v1",
       "title": "成长的烦恼 第1季",
+      "first_class": "影视英语",
+      "second_class": "成长的烦恼",
+      "author": "",
       "createdAt": "2026-09-03 20:11:12 +0800",
       "audioCount": 22,
       "totalSizeMiB": 478.35,
@@ -4330,6 +4432,9 @@
     {
       "tag": "growing-pains-s02-audio-v1",
       "title": "成长的烦恼 第2季",
+      "first_class": "影视英语",
+      "second_class": "成长的烦恼",
+      "author": "",
       "createdAt": "2026-09-03 20:16:44 +0800",
       "audioCount": 22,
       "totalSizeMiB": 503.85,
@@ -4378,6 +4483,9 @@
     {
       "tag": "growing-pains-s03-audio-v1",
       "title": "成长的烦恼 第3季",
+      "first_class": "影视英语",
+      "second_class": "成长的烦恼",
+      "author": "",
       "createdAt": "2026-09-03 20:21:51 +0800",
       "audioCount": 26,
       "totalSizeMiB": 549.77,
@@ -4426,6 +4534,9 @@
     {
       "tag": "growing-pains-s04-audio-v1",
       "title": "成长的烦恼 第4季",
+      "first_class": "影视英语",
+      "second_class": "成长的烦恼",
+      "author": "",
       "createdAt": "2026-09-03 20:26:21 +0800",
       "audioCount": 22,
       "totalSizeMiB": 483.06,
@@ -4474,6 +4585,9 @@
     {
       "tag": "growing-pains-s05-audio-v1",
       "title": "成长的烦恼 第5季",
+      "first_class": "影视英语",
+      "second_class": "成长的烦恼",
+      "author": "",
       "createdAt": "2026-09-03 20:34:35 +0800",
       "audioCount": 26,
       "totalSizeMiB": 628.05,
@@ -4522,6 +4636,9 @@
     {
       "tag": "growing-pains-s06-audio-v1",
       "title": "成长的烦恼 第6季",
+      "first_class": "影视英语",
+      "second_class": "成长的烦恼",
+      "author": "",
       "createdAt": "2026-09-03 20:41:41 +0800",
       "audioCount": 24,
       "totalSizeMiB": 599.83,
@@ -4570,6 +4687,9 @@
     {
       "tag": "growing-pains-s07-audio-v1",
       "title": "成长的烦恼 第7季",
+      "first_class": "影视英语",
+      "second_class": "成长的烦恼",
+      "author": "",
       "createdAt": "2026-09-03 20:46:35 +0800",
       "audioCount": 24,
       "totalSizeMiB": 619.01,
@@ -4618,6 +4738,9 @@
     {
       "tag": "junior-high-school-listening-audio-v1",
       "title": "初中听力",
+      "first_class": "考试英语",
+      "second_class": "初中听力",
+      "author": "",
       "createdAt": "2026-09-08 01:33:47 +0800",
       "audioCount": 37,
       "totalSizeMiB": 48.19,
@@ -4669,6 +4792,9 @@
     {
       "tag": "modern-family-s01-audio-v1",
       "title": "摩登家庭 第1季",
+      "first_class": "影视英语",
+      "second_class": "摩登家庭",
+      "author": "",
       "createdAt": "2026-09-03 00:48:27 +0800",
       "audioCount": 24,
       "totalSizeMiB": 1177.43,
@@ -4717,6 +4843,9 @@
     {
       "tag": "modern-family-s02-audio-v1",
       "title": "摩登家庭 第2季",
+      "first_class": "影视英语",
+      "second_class": "摩登家庭",
+      "author": "",
       "createdAt": "2026-09-03 01:03:51 +0800",
       "audioCount": 24,
       "totalSizeMiB": 1172.05,
@@ -4765,6 +4894,9 @@
     {
       "tag": "modern-family-s03-audio-v1",
       "title": "摩登家庭 第3季",
+      "first_class": "影视英语",
+      "second_class": "摩登家庭",
+      "author": "",
       "createdAt": "2026-09-03 01:28:28 +0800",
       "audioCount": 24,
       "totalSizeMiB": 1179.9,
@@ -4813,6 +4945,9 @@
     {
       "tag": "modern-family-s04-audio-v1",
       "title": "摩登家庭 第4季",
+      "first_class": "影视英语",
+      "second_class": "摩登家庭",
+      "author": "",
       "createdAt": "2026-09-03 01:53:52 +0800",
       "audioCount": 24,
       "totalSizeMiB": 1183.05,
@@ -4861,6 +4996,9 @@
     {
       "tag": "modern-family-s05-audio-v1",
       "title": "摩登家庭 第5季",
+      "first_class": "影视英语",
+      "second_class": "摩登家庭",
+      "author": "",
       "createdAt": "2026-09-03 02:04:51 +0800",
       "audioCount": 24,
       "totalSizeMiB": 1176.96,
@@ -4909,6 +5047,9 @@
     {
       "tag": "modern-family-s06-audio-v1",
       "title": "摩登家庭 第6季",
+      "first_class": "影视英语",
+      "second_class": "摩登家庭",
+      "author": "",
       "createdAt": "2026-09-03 02:44:15 +0800",
       "audioCount": 24,
       "totalSizeMiB": 1035.24,
@@ -4957,6 +5098,9 @@
     {
       "tag": "modern-family-s07-audio-v1",
       "title": "摩登家庭 第7季",
+      "first_class": "影视英语",
+      "second_class": "摩登家庭",
+      "author": "",
       "createdAt": "2026-09-03 02:53:27 +0800",
       "audioCount": 22,
       "totalSizeMiB": 599.87,
@@ -5005,6 +5149,9 @@
     {
       "tag": "modern-family-s08-audio-v1",
       "title": "摩登家庭 第8季",
+      "first_class": "影视英语",
+      "second_class": "摩登家庭",
+      "author": "",
       "createdAt": "2026-09-03 03:02:22 +0800",
       "audioCount": 22,
       "totalSizeMiB": 560.76,
@@ -5053,6 +5200,9 @@
     {
       "tag": "modern-family-s09-audio-v1",
       "title": "摩登家庭 第9季",
+      "first_class": "影视英语",
+      "second_class": "摩登家庭",
+      "author": "",
       "createdAt": "2026-09-03 12:41:35 +0800",
       "audioCount": 21,
       "totalSizeMiB": 414.38,
@@ -5101,6 +5251,9 @@
     {
       "tag": "modern-family-s10-audio-v1",
       "title": "摩登家庭 第10季",
+      "first_class": "影视英语",
+      "second_class": "摩登家庭",
+      "author": "",
       "createdAt": "2026-09-03 12:49:38 +0800",
       "audioCount": 22,
       "totalSizeMiB": 467.85,
@@ -5149,6 +5302,9 @@
     {
       "tag": "modern-family-s11-audio-v1",
       "title": "摩登家庭 第11季",
+      "first_class": "影视英语",
+      "second_class": "摩登家庭",
+      "author": "",
       "createdAt": "2026-09-03 12:56:12 +0800",
       "audioCount": 17,
       "totalSizeMiB": 335.49,
@@ -5197,6 +5353,9 @@
     {
       "tag": "new-concept-english-1-us-audio-v1",
       "title": "New Concept English Book 1 American Audio v1",
+      "first_class": "教材课程",
+      "second_class": "",
+      "author": "",
       "createdAt": "2026-08-03 18:33:02 +0800",
       "audioCount": 72,
       "totalSizeMiB": 111.05,
@@ -5251,6 +5410,9 @@
     {
       "tag": "new-concept-english-2-us-audio-v1",
       "title": "New Concept English Book 2 American Audio v1",
+      "first_class": "教材课程",
+      "second_class": "",
+      "author": "",
       "createdAt": "2026-08-03 18:49:30 +0800",
       "audioCount": 96,
       "totalSizeMiB": 161.86,
@@ -5305,6 +5467,9 @@
     {
       "tag": "new-concept-english-3-us-audio-v1",
       "title": "New Concept English Book 3 American Audio v1",
+      "first_class": "教材课程",
+      "second_class": "",
+      "author": "",
       "createdAt": "2026-08-03 18:56:09 +0800",
       "audioCount": 60,
       "totalSizeMiB": 187.13,
@@ -5359,6 +5524,9 @@
     {
       "tag": "new-concept-english-4-us-audio-v1",
       "title": "New Concept English Book 4 American Audio v1",
+      "first_class": "教材课程",
+      "second_class": "",
+      "author": "",
       "createdAt": "2026-08-03 19:00:20 +0800",
       "audioCount": 48,
       "totalSizeMiB": 156.48,
@@ -5411,6 +5579,9 @@
     {
       "tag": "senior-high-school-listening-audio-v1",
       "title": "高中听力",
+      "first_class": "考试英语",
+      "second_class": "高中听力",
+      "author": "",
       "createdAt": "2026-09-08 01:33:47 +0800",
       "audioCount": 62,
       "totalSizeMiB": 165.48,
@@ -5462,6 +5633,9 @@
     {
       "tag": "the-big-bang-theory-s01-audio-v1",
       "title": "生活大爆炸 第1季",
+      "first_class": "影视英语",
+      "second_class": "生活大爆炸",
+      "author": "",
       "createdAt": "2026-08-04 06:14:40 +0800",
       "audioCount": 17,
       "totalSizeMiB": 163.14,
@@ -5514,6 +5688,9 @@
     {
       "tag": "the-big-bang-theory-s02-audio-v1",
       "title": "生活大爆炸 第2季",
+      "first_class": "影视英语",
+      "second_class": "生活大爆炸",
+      "author": "",
       "createdAt": "2026-08-04 06:17:56 +0800",
       "audioCount": 23,
       "totalSizeMiB": 221.22,
@@ -5566,6 +5743,9 @@
     {
       "tag": "the-big-bang-theory-s03-audio-v1",
       "title": "生活大爆炸 第3季",
+      "first_class": "影视英语",
+      "second_class": "生活大爆炸",
+      "author": "",
       "createdAt": "2026-08-04 06:21:17 +0800",
       "audioCount": 23,
       "totalSizeMiB": 216.61,
@@ -5618,6 +5798,9 @@
     {
       "tag": "the-big-bang-theory-s04-audio-v1",
       "title": "生活大爆炸 第4季",
+      "first_class": "影视英语",
+      "second_class": "生活大爆炸",
+      "author": "",
       "createdAt": "2026-08-04 06:24:40 +0800",
       "audioCount": 24,
       "totalSizeMiB": 229.98,
@@ -5670,6 +5853,9 @@
     {
       "tag": "the-big-bang-theory-s05-audio-v1",
       "title": "生活大爆炸 第5季",
+      "first_class": "影视英语",
+      "second_class": "生活大爆炸",
+      "author": "",
       "createdAt": "2026-08-04 06:27:59 +0800",
       "audioCount": 24,
       "totalSizeMiB": 228.99,
@@ -5722,6 +5908,9 @@
     {
       "tag": "the-big-bang-theory-s06-audio-v1",
       "title": "生活大爆炸 第6季",
+      "first_class": "影视英语",
+      "second_class": "生活大爆炸",
+      "author": "",
       "createdAt": "2026-08-04 06:31:19 +0800",
       "audioCount": 24,
       "totalSizeMiB": 228.22,
@@ -5774,6 +5963,9 @@
     {
       "tag": "the-big-bang-theory-s07-audio-v1",
       "title": "生活大爆炸 第7季",
+      "first_class": "影视英语",
+      "second_class": "生活大爆炸",
+      "author": "",
       "createdAt": "2026-08-04 06:34:46 +0800",
       "audioCount": 24,
       "totalSizeMiB": 223.66,
@@ -5826,6 +6018,9 @@
     {
       "tag": "the-big-bang-theory-s08-audio-v1",
       "title": "生活大爆炸 第8季",
+      "first_class": "影视英语",
+      "second_class": "生活大爆炸",
+      "author": "",
       "createdAt": "2026-08-04 06:38:53 +0800",
       "audioCount": 24,
       "totalSizeMiB": 219.77,
@@ -5878,6 +6073,9 @@
     {
       "tag": "the-big-bang-theory-s09-audio-v1",
       "title": "生活大爆炸 第9季",
+      "first_class": "影视英语",
+      "second_class": "生活大爆炸",
+      "author": "",
       "createdAt": "2026-08-04 06:43:24 +0800",
       "audioCount": 24,
       "totalSizeMiB": 214.47,
@@ -5930,6 +6128,9 @@
     {
       "tag": "the-big-bang-theory-s10-audio-v1",
       "title": "生活大爆炸 第10季",
+      "first_class": "影视英语",
+      "second_class": "生活大爆炸",
+      "author": "",
       "createdAt": "2026-08-04 06:46:51 +0800",
       "audioCount": 24,
       "totalSizeMiB": 216.45,
@@ -5982,6 +6183,9 @@
     {
       "tag": "the-big-bang-theory-s11-audio-v1",
       "title": "生活大爆炸 第11季",
+      "first_class": "影视英语",
+      "second_class": "生活大爆炸",
+      "author": "",
       "createdAt": "2026-08-04 06:50:22 +0800",
       "audioCount": 24,
       "totalSizeMiB": 223.92,
@@ -6034,6 +6238,9 @@
     {
       "tag": "the-office-us-s01-audio-v1",
       "title": "办公室（美版） 第1季",
+      "first_class": "影视英语",
+      "second_class": "办公室（美版）",
+      "author": "",
       "createdAt": "2026-08-03 19:07:39 +0800",
       "audioCount": 6,
       "totalSizeMiB": 123.9,
@@ -6086,6 +6293,9 @@
     {
       "tag": "the-office-us-s02-audio-v1",
       "title": "办公室（美版） 第2季",
+      "first_class": "影视英语",
+      "second_class": "办公室（美版）",
+      "author": "",
       "createdAt": "2026-08-03 19:13:15 +0800",
       "audioCount": 22,
       "totalSizeMiB": 438.71,
@@ -6138,6 +6348,9 @@
     {
       "tag": "the-office-us-s03-audio-v1",
       "title": "办公室（美版） 第3季",
+      "first_class": "影视英语",
+      "second_class": "办公室（美版）",
+      "author": "",
       "createdAt": "2026-08-03 19:32:13 +0800",
       "audioCount": 22,
       "totalSizeMiB": 525.49,
@@ -6190,6 +6403,9 @@
     {
       "tag": "the-office-us-s04-audio-v1",
       "title": "办公室（美版） 第4季",
+      "first_class": "影视英语",
+      "second_class": "办公室（美版）",
+      "author": "",
       "createdAt": "2026-08-03 19:39:42 +0800",
       "audioCount": 14,
       "totalSizeMiB": 370.96,
@@ -6242,6 +6458,9 @@
     {
       "tag": "the-office-us-s05-audio-v1",
       "title": "办公室（美版） 第5季",
+      "first_class": "影视英语",
+      "second_class": "办公室（美版）",
+      "author": "",
       "createdAt": "2026-08-04 05:40:49 +0800",
       "audioCount": 26,
       "totalSizeMiB": 556.41,
@@ -6294,6 +6513,9 @@
     {
       "tag": "the-office-us-s06-audio-v1",
       "title": "办公室（美版） 第6季",
+      "first_class": "影视英语",
+      "second_class": "办公室（美版）",
+      "author": "",
       "createdAt": "2026-08-04 05:48:29 +0800",
       "audioCount": 25,
       "totalSizeMiB": 549.0,
@@ -6346,6 +6568,9 @@
     {
       "tag": "the-office-us-s07-audio-v1",
       "title": "办公室（美版） 第7季",
+      "first_class": "影视英语",
+      "second_class": "办公室（美版）",
+      "author": "",
       "createdAt": "2026-08-04 05:55:18 +0800",
       "audioCount": 24,
       "totalSizeMiB": 560.05,
@@ -6398,6 +6623,9 @@
     {
       "tag": "the-office-us-s08-audio-v1",
       "title": "办公室（美版） 第8季",
+      "first_class": "影视英语",
+      "second_class": "办公室（美版）",
+      "author": "",
       "createdAt": "2026-08-04 06:00:30 +0800",
       "audioCount": 24,
       "totalSizeMiB": 499.94,
@@ -6450,6 +6678,9 @@
     {
       "tag": "the-office-us-s09-audio-v1",
       "title": "办公室（美版） 第9季",
+      "first_class": "影视英语",
+      "second_class": "办公室（美版）",
+      "author": "",
       "createdAt": "2026-08-04 06:04:18 +0800",
       "audioCount": 23,
       "totalSizeMiB": 545.28,
@@ -6502,6 +6733,9 @@
     {
       "tag": "toefl-listening-announcements-v1",
       "title": "TOEFL Listening Announcements v1",
+      "first_class": "考试英语",
+      "second_class": "托福",
+      "author": "",
       "createdAt": "2026-08-18 03:50:14 +0800",
       "audioCount": 74,
       "totalSizeMiB": 38.13,
@@ -6548,6 +6782,9 @@
     {
       "tag": "toefl-listening-dialogues-v1",
       "title": "TOEFL Listening Dialogues v1",
+      "first_class": "考试英语",
+      "second_class": "托福",
+      "author": "",
       "createdAt": "2026-08-18 03:43:55 +0800",
       "audioCount": 122,
       "totalSizeMiB": 65.55,
@@ -6594,6 +6831,9 @@
     {
       "tag": "toefl-listening-lectures-v1",
       "title": "TOEFL Listening Lectures v1",
+      "first_class": "考试英语",
+      "second_class": "托福",
+      "author": "",
       "createdAt": "2026-08-18 03:57:32 +0800",
       "audioCount": 81,
       "totalSizeMiB": 141.95,
@@ -6640,6 +6880,9 @@
     {
       "tag": "yes-minister-audio-v1",
       "title": "是，大臣",
+      "first_class": "影视英语",
+      "second_class": "大臣、首相",
+      "author": "",
       "createdAt": "2026-08-04 06:08:05 +0800",
       "audioCount": 22,
       "totalSizeMiB": 308.42,
@@ -6694,6 +6937,9 @@
     {
       "tag": "yes-prime-minister-audio-v1",
       "title": "是，首相",
+      "first_class": "影视英语",
+      "second_class": "大臣、首相",
+      "author": "",
       "createdAt": "2026-08-04 06:11:24 +0800",
       "audioCount": 16,
       "totalSizeMiB": 217.18,
