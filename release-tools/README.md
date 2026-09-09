@@ -90,6 +90,14 @@ python release-tools/audit_transport_filenames.py --root resources --strict
 `generate_release_index.py`；未发布资料的封面文件保留在 `artwork/posters/`，但不进入
 生产索引。
 
+### 制作中资源
+
+`artwork/posters/index.json` 中可登记 `status: "processing"` 的预告封面。此类条目会
+由 `generate_release_index.py` 合并到主索引的 `releases` 数组，保持与已发布资源相同的
+分类和封面结构，但 `audioCount` 为 `0`，`detailFile`、`detailRaw` 和下载地址为空。
+资源完成后，应创建正式发布记录并移除预告状态；生成器会将正式条目标记为
+`status: "finished"`。标记为“暂时忽略”的资料不应登记为 processing。
+
 ## RECX 波形生成
 
 `generate_recx.py` 为音频生成兼容 EasyTyeReciter 的 `.recx` sidecar。它使用

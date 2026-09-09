@@ -23,7 +23,7 @@ SIDECAR_LABELS = {
 
 CATEGORY_ORDER = {
     "教材课程": 0,
-    "考试英语": 1,
+    "考试听力": 1,
     "影视英语": 2,
     "其他资料": 3,
     "英语阅读": 4,
@@ -31,7 +31,7 @@ CATEGORY_ORDER = {
 
 SECOND_CLASS_ORDER = {
     "教材课程": {"新概念英语": 0, "其他教材": 1},
-    "考试英语": {"雅思": 0, "托福": 1, "初中听力": 2, "高中听力": 3, "中考": 4, "高考": 5, "CET4": 6, "CET6": 7},
+    "考试听力": {"雅思": 0, "托福": 1, "初中听力": 2, "高中听力": 3, "四、六级": 4},
     "影视英语": {
         "破产姐妹": 0,
         "老友记": 1,
@@ -40,6 +40,17 @@ SECOND_CLASS_ORDER = {
         "生活大爆炸": 4,
         "办公室（美版）": 5,
         "大臣、首相": 6,
+    },
+    "英语阅读": {
+        "A1": 0,
+        "A1-A2": 1,
+        "A2": 2,
+        "A2-B1": 3,
+        "B1": 4,
+        "B1-B2": 5,
+        "B2": 6,
+        "B2-C1": 7,
+        "C1": 8,
     },
 }
 
@@ -72,6 +83,8 @@ def sidecar_labels(detail: dict[str, Any]) -> str:
 
 
 def download_link(release: dict[str, Any]) -> str:
+    if release.get("status") == "processing":
+        return "敬请期待"
     release_url = release.get("releaseUrl")
     if isinstance(release_url, str) and release_url:
         return f"[GitHub Release]({release_url})"
@@ -104,18 +117,20 @@ def catalog_sort_key(release: dict[str, Any]) -> tuple[Any, ...]:
 
 
 def catalog_row(root: Path, release: dict[str, Any]) -> str:
-    detail = load_json(root / "release-records" / release["detailFile"])
     poster_path = release["poster"]["card"]["path"]
     title = display_title(release["title"])
     poster = f'<img src="./{poster_path}" alt="{html.escape(title)}" width="72" />'
-    content = f"{release['audioCount']} 条音频；可用 {sidecar_labels(detail)} 文本。"
-    updated_at = release["createdAt"].split(" ", 1)[0]
+    processing = release.get("status") == "processing"
+    detail = None if processing else load_json(root / "release-records" / release["detailFile"])
+    content = "制作中；音频与字幕整理中。" if processing else f"{release['audioCount']} 条音频；可用 {sidecar_labels(detail)} 文本。"
+    updated_at = release.get("createdAt", "").split(" ", 1)[0] or "-"
     return " | ".join(
         (
             f'<div align="center">{poster}<br/><strong>{html.escape(title)}</strong></div>',
             content,
+            "制作中" if processing else "已完成",
             updated_at,
-            f"`{version_from_tag(release['tag'])}`",
+            "-" if processing else f"`{version_from_tag(release['tag'])}`",
             download_link(release),
         )
     )
@@ -126,8 +141,8 @@ def catalog_markdown(root: Path, index: dict[str, Any]) -> str:
         CATALOG_START,
         "资源海报、介绍、更新日期、版本和下载入口会保持同步。",
         "",
-        "| 卡组 | 介绍 | 更新日期 | 版本 | 下载链接 |",
-        "| :---: | --- | :---: | :---: | :---: |",
+        "| 卡组 | 介绍 | 状态 | 更新日期 | 版本 | 下载链接 |",
+        "| :---: | --- | :---: | :---: | :---: | :---: |",
     ]
     releases = sorted(index["releases"], key=catalog_sort_key)
     lines.extend(f"| {catalog_row(root, release)} |" for release in releases)

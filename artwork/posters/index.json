@@ -2629,6 +2629,1108 @@
       },
       "usedBy": "senior-high-school-listening-audio-v1",
       "title": "高中英语听力"
+    },
+    {
+      "id": "oxford-reading-tree",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/oxford-reading-tree.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/oxford-reading-tree.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/oxford-reading-tree.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/oxford-reading-tree.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 428,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/oxford-reading-tree.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/oxford-reading-tree.webp"
+      },
+      "usedBy": "graded-reading-oxford-reading-tree",
+      "title": "牛津阅读树 (Oxford Reading Tree)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "A1",
+      "third_class": "",
+      "author": "[英] Roderick Hunt / Alex Brychta (罗德里克·亨特 / 亚历克斯·布里奇塔)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "frog-and-toad",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/frog-and-toad.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/frog-and-toad.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/frog-and-toad.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/frog-and-toad.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 366,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/frog-and-toad.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/frog-and-toad.webp"
+      },
+      "usedBy": "graded-reading-frog-and-toad",
+      "title": "青蛙和蟾蜍 (Frog and Toad)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "A1",
+      "third_class": "",
+      "author": "[美] Arnold Lobel (阿诺德·洛贝尔)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "maisy",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/maisy.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/maisy.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/maisy.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/maisy.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 500,
+          "height": 415
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/maisy.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/maisy.webp"
+      },
+      "usedBy": "graded-reading-maisy",
+      "title": "小鼠波波 (Maisy)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "A1",
+      "third_class": "",
+      "author": "[英] Lucy Cousins (露西·卡曾斯)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "magic-tree-house",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/magic-tree-house.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/magic-tree-house.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/magic-tree-house.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/magic-tree-house.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 419,
+          "height": 475
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/magic-tree-house.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/magic-tree-house.webp"
+      },
+      "usedBy": "graded-reading-magic-tree-house",
+      "title": "神奇树屋 (Magic Tree House)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "A1-A2",
+      "third_class": "",
+      "author": "[美] Mary Pope Osborne (玛丽·波·奥斯本)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "junie-b-jones",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/junie-b-jones.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/junie-b-jones.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/junie-b-jones.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/junie-b-jones.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 323,
+          "height": 475
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/junie-b-jones.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/junie-b-jones.webp"
+      },
+      "usedBy": "graded-reading-junie-b-jones",
+      "title": "朱妮·B·琼斯 (Junie B. Jones)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "A1-A2",
+      "third_class": "",
+      "author": "[美] Barbara Park (芭芭拉·帕克)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "the-wonderful-wizard-of-oz",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/the-wonderful-wizard-of-oz.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-wonderful-wizard-of-oz.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-wonderful-wizard-of-oz.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-wonderful-wizard-of-oz.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 371,
+          "height": 475
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-wonderful-wizard-of-oz.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-wonderful-wizard-of-oz.webp"
+      },
+      "usedBy": "graded-reading-the-wonderful-wizard-of-oz",
+      "title": "绿野仙踪 (The Wonderful Wizard of Oz)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "A2",
+      "third_class": "",
+      "author": "[美] L. Frank Baum (莱曼·弗兰克·鲍姆)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "the-secret-garden",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/the-secret-garden.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-secret-garden.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-secret-garden.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-secret-garden.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 333,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-secret-garden.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-secret-garden.webp"
+      },
+      "usedBy": "graded-reading-the-secret-garden",
+      "title": "秘密花园 (The Secret Garden)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "A2-B1",
+      "third_class": "",
+      "author": "[英] Frances Hodgson Burnett (弗朗西丝·霍奇森·伯内特)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "black-beauty",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/black-beauty.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/black-beauty.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/black-beauty.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/black-beauty.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 400,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/black-beauty.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/black-beauty.webp"
+      },
+      "usedBy": "graded-reading-black-beauty",
+      "title": "黑骏马 (Black Beauty)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "A2-B1",
+      "third_class": "",
+      "author": "[英] Anna Sewell (安娜·塞维尔)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "alice-in-wonderland",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/alice-in-wonderland.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/alice-in-wonderland.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/alice-in-wonderland.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/alice-in-wonderland.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 335,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/alice-in-wonderland.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/alice-in-wonderland.webp"
+      },
+      "usedBy": "graded-reading-alice-in-wonderland",
+      "title": "爱丽丝梦游仙境 (Alice's Adventures in Wonderland)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "A2-B1",
+      "third_class": "",
+      "author": "[英] Lewis Carroll (刘易斯·卡罗尔)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "the-little-prince",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/the-little-prince.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-little-prince.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-little-prince.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-little-prince.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 308,
+          "height": 475
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-little-prince.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-little-prince.webp"
+      },
+      "usedBy": "graded-reading-the-little-prince",
+      "title": "小王子 (The Little Prince)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "A2-B1",
+      "third_class": "",
+      "author": "[法] Antoine de Saint-Exupéry (安托万·德·圣-埃克苏佩里)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "charlottes-web",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/charlottes-web.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/charlottes-web.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/charlottes-web.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/charlottes-web.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 335,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/charlottes-web.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/charlottes-web.webp"
+      },
+      "usedBy": "graded-reading-charlottes-web",
+      "title": "夏洛的网 (Charlotte's Web)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "B1",
+      "third_class": "",
+      "author": "[美] E. B. White (E·B·怀特)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "the-giver",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/the-giver.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-giver.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-giver.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-giver.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 333,
+          "height": 499
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-giver.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-giver.webp"
+      },
+      "usedBy": "graded-reading-the-giver",
+      "title": "记忆传授人 (The Giver)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "B1",
+      "third_class": "",
+      "author": "[美] Lois Lowry (洛伊丝·劳里)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "wonder",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/wonder.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/wonder.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/wonder.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/wonder.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 310,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/wonder.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/wonder.webp"
+      },
+      "usedBy": "graded-reading-wonder",
+      "title": "奇迹男孩 (Wonder)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "B1",
+      "third_class": "",
+      "author": "[美] R. J. Palacio (R·J·帕拉西奥)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "animal-farm",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/animal-farm.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/animal-farm.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/animal-farm.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/animal-farm.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 330,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/animal-farm.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/animal-farm.webp"
+      },
+      "usedBy": "graded-reading-animal-farm",
+      "title": "动物农场 (Animal Farm)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "B1-B2",
+      "third_class": "",
+      "author": "[英] George Orwell (乔治·奥威尔)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "the-great-gatsby",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/the-great-gatsby.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-great-gatsby.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-great-gatsby.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-great-gatsby.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 324,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-great-gatsby.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-great-gatsby.webp"
+      },
+      "usedBy": "graded-reading-the-great-gatsby",
+      "title": "了不起的盖茨比 (The Great Gatsby)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "B1-B2",
+      "third_class": "",
+      "author": "[美] F. Scott Fitzgerald (F·斯科特·菲茨杰拉德)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "the-hobbit",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/the-hobbit.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-hobbit.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-hobbit.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-hobbit.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 301,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-hobbit.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-hobbit.webp"
+      },
+      "usedBy": "graded-reading-the-hobbit",
+      "title": "霍比特人 (The Hobbit)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "B1-B2",
+      "third_class": "",
+      "author": "[英] J. R. R. Tolkien (J·R·R·托尔金)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "1984",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/1984.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/1984.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/1984.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/1984.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 360,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/1984.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/1984.webp"
+      },
+      "usedBy": "graded-reading-1984",
+      "title": "一九八四 (Nineteen Eighty-Four)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "B2",
+      "third_class": "",
+      "author": "[英] George Orwell (乔治·奥威尔)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "lord-of-the-flies",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/lord-of-the-flies.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/lord-of-the-flies.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/lord-of-the-flies.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/lord-of-the-flies.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 316,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/lord-of-the-flies.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/lord-of-the-flies.webp"
+      },
+      "usedBy": "graded-reading-lord-of-the-flies",
+      "title": "蝇王 (Lord of the Flies)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "B2",
+      "third_class": "",
+      "author": "[英] William Golding (威廉·戈尔丁)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "the-picture-of-dorian-gray",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/the-picture-of-dorian-gray.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-picture-of-dorian-gray.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-picture-of-dorian-gray.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-picture-of-dorian-gray.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 317,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-picture-of-dorian-gray.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-picture-of-dorian-gray.webp"
+      },
+      "usedBy": "graded-reading-the-picture-of-dorian-gray",
+      "title": "道林·格雷的画像 (The Picture of Dorian Gray)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "B2",
+      "third_class": "",
+      "author": "[爱尔兰] Oscar Wilde (奥斯卡·王尔德)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "pride-and-prejudice",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/pride-and-prejudice.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/pride-and-prejudice.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/pride-and-prejudice.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/pride-and-prejudice.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 313,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/pride-and-prejudice.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/pride-and-prejudice.webp"
+      },
+      "usedBy": "graded-reading-pride-and-prejudice",
+      "title": "傲慢与偏见 (Pride and Prejudice)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "B2-C1",
+      "third_class": "",
+      "author": "[英] Jane Austen (简·奥斯汀)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "jane-eyre",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/jane-eyre.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/jane-eyre.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/jane-eyre.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/jane-eyre.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 306,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/jane-eyre.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/jane-eyre.webp"
+      },
+      "usedBy": "graded-reading-jane-eyre",
+      "title": "简·爱 (Jane Eyre)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "B2-C1",
+      "third_class": "",
+      "author": "[英] Charlotte Brontë (夏洛蒂·勃朗特)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "the-count-of-monte-cristo",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/the-count-of-monte-cristo.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-count-of-monte-cristo.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-count-of-monte-cristo.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-count-of-monte-cristo.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 384,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-count-of-monte-cristo.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-count-of-monte-cristo.webp"
+      },
+      "usedBy": "graded-reading-the-count-of-monte-cristo",
+      "title": "基督山伯爵 (The Count of Monte Cristo)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "B2-C1",
+      "third_class": "",
+      "author": "[法] Alexandre Dumas (大仲马)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "wuthering-heights",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/wuthering-heights.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/wuthering-heights.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/wuthering-heights.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/wuthering-heights.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 309,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/wuthering-heights.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/wuthering-heights.webp"
+      },
+      "usedBy": "graded-reading-wuthering-heights",
+      "title": "呼啸山庄 (Wuthering Heights)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "C1",
+      "third_class": "",
+      "author": "[英] Emily Brontë (艾米莉·勃朗特)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "great-expectations",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/great-expectations.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/great-expectations.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/great-expectations.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/great-expectations.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 270,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/great-expectations.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/great-expectations.webp"
+      },
+      "usedBy": "graded-reading-great-expectations",
+      "title": "远大前程 (Great Expectations)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "C1",
+      "third_class": "",
+      "author": "[英] Charles Dickens (查尔斯·狄更斯)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "moby-dick",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/moby-dick.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/moby-dick.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/moby-dick.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/moby-dick.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 327,
+          "height": 500
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/moby-dick.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/moby-dick.webp"
+      },
+      "usedBy": "graded-reading-moby-dick",
+      "title": "白鲸 (Moby-Dick)",
+      "status": "processing",
+      "first_class": "英语阅读",
+      "second_class": "C1",
+      "third_class": "",
+      "author": "[美] Herman Melville (赫尔曼·梅尔维尔)",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "cet4-listening",
+      "kind": "collection-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/cet4-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cet4-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/cet4-listening.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/cet4-listening.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 800,
+          "height": 800
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet4-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet4-listening.webp"
+      },
+      "usedBy": "cet4-listening-audio-v1",
+      "title": "CET4听力",
+      "status": "processing",
+      "first_class": "考试听力",
+      "second_class": "四、六级",
+      "third_class": "CET4听力",
+      "author": "",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "cet6-listening",
+      "kind": "collection-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/cet6-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cet6-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/cet6-listening.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/cet6-listening.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 733,
+          "height": 1000
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet6-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet6-listening.webp"
+      },
+      "usedBy": "cet6-listening-audio-v1",
+      "title": "CET6听力",
+      "status": "processing",
+      "first_class": "考试听力",
+      "second_class": "四、六级",
+      "third_class": "CET6听力",
+      "author": "",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "zhongkao-listening",
+      "kind": "collection-cover",
+      "sourceType": "user-provided-local-image",
+      "original": {
+        "path": "artwork/posters/junior-high-school-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/junior-high-school-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/junior-high-school-listening.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/junior-high-school-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/junior-high-school-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/junior-high-school-listening.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.056696,
+          "width": 1.0,
+          "height": 0.886607
+        },
+        "sourceSize": {
+          "width": 993,
+          "height": 1400
+        }
+      },
+      "usedBy": "zhongkao-listening-audio-v1",
+      "title": "中考听力",
+      "status": "processing",
+      "first_class": "考试听力",
+      "second_class": "初中听力",
+      "third_class": "中考听力",
+      "author": "",
+      "createdAt": "2026-09-10"
+    },
+    {
+      "id": "gaokao-listening",
+      "kind": "collection-cover",
+      "sourceType": "user-provided-local-image",
+      "original": {
+        "path": "artwork/posters/senior-high-school-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/senior-high-school-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/senior-high-school-listening.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/senior-high-school-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/senior-high-school-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/senior-high-school-listening.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.058036,
+          "width": 1.0,
+          "height": 0.883929
+        },
+        "sourceSize": {
+          "width": 990,
+          "height": 1400
+        }
+      },
+      "usedBy": "gaokao-listening-audio-v1",
+      "title": "高考听力",
+      "status": "processing",
+      "first_class": "考试听力",
+      "second_class": "高中听力",
+      "third_class": "高考听力",
+      "author": "",
+      "createdAt": "2026-09-10"
     }
   ]
 }

@@ -39,6 +39,7 @@ def catalog_metadata(tag: str, fallback_title: str) -> dict[str, str]:
             "title": f"{DRAMA_SERIES[season['series']]} 第{int(season['season'])}季",
             "first_class": "影视英语",
             "second_class": DRAMA_SERIES[season["series"]],
+            "third_class": "",
             "author": "",
         }
     if tag in {"yes-minister-audio-v1", "yes-prime-minister-audio-v1"}:
@@ -46,30 +47,32 @@ def catalog_metadata(tag: str, fallback_title: str) -> dict[str, str]:
             "title": "是，大臣" if tag == "yes-minister-audio-v1" else "是，首相",
             "first_class": "影视英语",
             "second_class": "大臣、首相",
+            "third_class": "",
             "author": "",
         }
     if tag.startswith("cambridge-ielts-"):
         match = re.match(r"^cambridge-ielts-(\d+)-", tag)
         title = f"剑桥雅思{int(match.group(1)):02d}" if match else fallback_title
-        return {"title": title, "first_class": "考试英语", "second_class": "雅思", "author": ""}
+        return {"title": title, "first_class": "考试听力", "second_class": "雅思", "third_class": "剑桥雅思", "author": ""}
     if tag.startswith("toefl-"):
         toefl_titles = {
             "toefl-listening-announcements-v1": "托福听力·公告",
             "toefl-listening-dialogues-v1": "托福听力·对话",
             "toefl-listening-lectures-v1": "托福听力·讲座",
         }
-        return {"title": toefl_titles.get(tag, fallback_title), "first_class": "考试英语", "second_class": "托福", "author": ""}
+        third_class = toefl_titles.get(tag, fallback_title).removeprefix("托福听力·")
+        return {"title": toefl_titles.get(tag, fallback_title), "first_class": "考试听力", "second_class": "托福", "third_class": third_class, "author": ""}
     if tag == "junior-high-school-listening-audio-v1":
-        return {"title": "初中听力", "first_class": "考试英语", "second_class": "初中听力", "author": ""}
+        return {"title": "初中听力", "first_class": "考试听力", "second_class": "初中听力", "third_class": "", "author": ""}
     if tag == "senior-high-school-listening-audio-v1":
-        return {"title": "高中听力", "first_class": "考试英语", "second_class": "高中听力", "author": ""}
+        return {"title": "高中听力", "first_class": "考试听力", "second_class": "高中听力", "third_class": "", "author": ""}
     if tag.startswith("new-concept-english-"):
         match = re.match(r"^new-concept-english-(\d+)-", tag)
         title = f"新概念英语第{int(match.group(1))}册（美音）" if match else fallback_title
-        return {"title": title, "first_class": "教材课程", "second_class": "新概念英语", "author": ""}
+        return {"title": title, "first_class": "教材课程", "second_class": "新概念英语", "third_class": "", "author": ""}
     if tag.startswith("american-accent-training-"):
-        return {"title": fallback_title, "first_class": "教材课程", "second_class": "其他教材", "author": ""}
-    return {"title": fallback_title, "first_class": "其他资料", "second_class": "", "author": ""}
+        return {"title": fallback_title, "first_class": "教材课程", "second_class": "其他教材", "third_class": "", "author": ""}
+    return {"title": fallback_title, "first_class": "其他资料", "second_class": "", "third_class": "", "author": ""}
 
 
 def repository_root() -> Path:
@@ -318,37 +321,43 @@ def master_index(
     generated_at: str,
     posters_by_tag: dict[str, dict[str, Any]],
     courses: list[dict[str, Any]],
+    processing: list[dict[str, Any]],
 ) -> dict[str, Any]:
     repositories = {record["repository"] for record in records}
+    finished_releases = [
+        {
+            "tag": record["tag"],
+            "status": "finished",
+            **catalog_metadata(record["tag"], record["title"]),
+            "createdAt": record["createdAt"],
+            "audioCount": record["audioCount"],
+            "totalSizeMiB": record["totalSizeMiB"],
+            "detailFile": f"{record['tag']}.json",
+            "detailRaw": (
+                f"https://raw.githubusercontent.com/{record['repository']}/"
+                f"{record['branch']}/release-records/{record['tag']}.json"
+            ),
+            "poster": posters_by_tag[record["tag"]],
+            "platforms": platforms_for(record),
+            **(
+                {"releaseUrl": record["releaseUrl"]}
+                if record["audioDelivery"] == "githubRelease"
+                else {}
+            ),
+        }
+        for record in records
+    ]
+    all_posters = posters + [
+        {**item["poster"], "usedBy": item["tag"]} for item in processing
+    ]
     return {
-        "schemaVersion": 5,
+        "schemaVersion": 6,
         "generatedAt": generated_at,
         "repository": repositories.pop() if len(repositories) == 1 else None,
         "posterIndex": poster_index_reference(records),
-        "posters": posters,
+        "posters": all_posters,
         "courses": course_summaries(courses),
-        "releases": [
-            {
-                "tag": record["tag"],
-                **catalog_metadata(record["tag"], record["title"]),
-                "createdAt": record["createdAt"],
-                "audioCount": record["audioCount"],
-                "totalSizeMiB": record["totalSizeMiB"],
-                "detailFile": f"{record['tag']}.json",
-                "detailRaw": (
-                    f"https://raw.githubusercontent.com/{record['repository']}/"
-                    f"{record['branch']}/release-records/{record['tag']}.json"
-                ),
-                "poster": posters_by_tag[record["tag"]],
-                "platforms": platforms_for(record),
-                **(
-                    {"releaseUrl": record["releaseUrl"]}
-                    if record["audioDelivery"] == "githubRelease"
-                    else {}
-                ),
-            }
-            for record in records
-        ],
+        "releases": finished_releases + processing,
     }
 
 
@@ -359,6 +368,78 @@ def poster_urls(repository: str, branch: str, path: str) -> dict[str, str]:
         "githubRaw": f"https://raw.githubusercontent.com/{repository}/{branch}/{quoted_path}",
         "jsDelivr": f"https://cdn.jsdelivr.net/gh/{repository}@{branch}/{quoted_path}",
     }
+
+
+def poster_asset(item: dict[str, Any], repository: str, branch: str) -> dict[str, Any]:
+    """Build a public poster reference from its durable artwork registry entry."""
+    original = item.get("original", {})
+    card = item.get("card", {})
+    original_path = original.get("path") or f"artwork/posters/{item.get('file', '')}"
+    card_path = card.get("path") or f"artwork/posters/{card.get('file', '')}"
+    if not original_path or not card_path or original_path.endswith("/") or card_path.endswith("/"):
+        raise ValueError(f"Poster {item.get('id')} has invalid asset paths")
+    asset = {
+        "id": item["id"],
+        "kind": item["kind"],
+        "sourceType": item["sourceType"],
+        "original": poster_urls(repository, branch, original_path),
+        "card": {
+            **poster_urls(repository, branch, card_path),
+            **{
+                key: value
+                for key, value in card.items()
+                if key not in {"file", "path", "githubRaw", "jsDelivr"}
+            },
+        },
+    }
+    for key in ("source", "sourceImage"):
+        if key in item:
+            asset[key] = item[key]
+    return asset
+
+
+def processing_releases(records: list[dict[str, Any]], root: Path) -> list[dict[str, Any]]:
+    """Expose prepared covers as in-progress releases without inventing media links."""
+    if not records:
+        return []
+    source = json.loads(poster_index_path(root).read_text(encoding="utf-8"))
+    items = source.get("posters")
+    if not isinstance(items, list):
+        raise ValueError(f"{poster_index_path(root)}: poster list is missing")
+    repository = records[0]["repository"]
+    branch = records[0]["branch"]
+    published_tags = {record["tag"] for record in records}
+    processing: list[dict[str, Any]] = []
+    seen_tags: set[str] = set()
+    required_fields = ("title", "first_class", "second_class", "third_class", "author")
+    for item in items:
+        if item.get("status") != "processing":
+            continue
+        tag = item.get("usedBy")
+        if not isinstance(tag, str) or not tag:
+            raise ValueError(f"{poster_index_path(root)}: processing poster {item.get('id')} needs one usedBy tag")
+        if tag in published_tags or tag in seen_tags:
+            raise ValueError(f"{poster_index_path(root)}: duplicate processing tag: {tag}")
+        missing = [field for field in required_fields if not isinstance(item.get(field), str)]
+        if missing:
+            raise ValueError(f"{poster_index_path(root)}: processing poster {item.get('id')} missing {', '.join(missing)}")
+        seen_tags.add(tag)
+        processing.append(
+            {
+                "tag": tag,
+                "status": "processing",
+                **{field: item[field] for field in required_fields},
+                "createdAt": item.get("createdAt", ""),
+                "audioCount": 0,
+                "totalSizeMiB": 0,
+                "detailFile": "",
+                "detailRaw": "",
+                "poster": poster_asset(item, repository, branch),
+                "platforms": {"githubRelease": {"releaseUrl": ""}, "mirrors": []},
+                "releaseUrl": "",
+            }
+        )
+    return processing
 
 
 def published_courses(root: Path) -> list[dict[str, Any]]:
@@ -583,6 +664,7 @@ def main() -> int:
     generated_at = dt.datetime.now(dt.timezone.utc).isoformat().replace("+00:00", "Z")
     posters, posters_by_tag = published_posters(records, root)
     courses = published_courses(root)
+    processing = processing_releases(records, root)
     for record in records:
         detail_path = records_dir / f"{record['tag']}.json"
         detail_path.write_text(
@@ -607,10 +689,10 @@ def main() -> int:
             newline="\n",
         )
 
-    index = master_index(records, posters, generated_at, posters_by_tag, courses)
+    index = master_index(records, posters, generated_at, posters_by_tag, courses, processing)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
-    print(f"Wrote {len(records)} published releases to {output_path}")
+    print(f"Wrote {len(records)} published and {len(processing)} processing releases to {output_path}")
     return 0
 
 
