@@ -49,15 +49,24 @@ def catalog_metadata(tag: str, fallback_title: str) -> dict[str, str]:
             "author": "",
         }
     if tag.startswith("cambridge-ielts-"):
-        return {"title": fallback_title, "first_class": "考试英语", "second_class": "雅思", "author": ""}
+        match = re.match(r"^cambridge-ielts-(\d+)-", tag)
+        title = f"剑桥雅思{int(match.group(1)):02d}" if match else fallback_title
+        return {"title": title, "first_class": "考试英语", "second_class": "雅思", "author": ""}
     if tag.startswith("toefl-"):
-        return {"title": fallback_title, "first_class": "考试英语", "second_class": "托福", "author": ""}
+        toefl_titles = {
+            "toefl-listening-announcements-v1": "托福听力·公告",
+            "toefl-listening-dialogues-v1": "托福听力·对话",
+            "toefl-listening-lectures-v1": "托福听力·讲座",
+        }
+        return {"title": toefl_titles.get(tag, fallback_title), "first_class": "考试英语", "second_class": "托福", "author": ""}
     if tag == "junior-high-school-listening-audio-v1":
         return {"title": "初中听力", "first_class": "考试英语", "second_class": "初中听力", "author": ""}
     if tag == "senior-high-school-listening-audio-v1":
         return {"title": "高中听力", "first_class": "考试英语", "second_class": "高中听力", "author": ""}
     if tag.startswith("new-concept-english-"):
-        return {"title": fallback_title, "first_class": "教材课程", "second_class": "新概念英语", "author": ""}
+        match = re.match(r"^new-concept-english-(\d+)-", tag)
+        title = f"新概念英语第{int(match.group(1))}册（美音）" if match else fallback_title
+        return {"title": title, "first_class": "教材课程", "second_class": "新概念英语", "author": ""}
     if tag.startswith("american-accent-training-"):
         return {"title": fallback_title, "first_class": "教材课程", "second_class": "其他教材", "author": ""}
     return {"title": fallback_title, "first_class": "其他资料", "second_class": "", "author": ""}

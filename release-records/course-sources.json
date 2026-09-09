@@ -5,17 +5,17 @@
   "courses": [
     {
       "tag": "new-concept-english-2-us-audio-course-v1",
-      "title": "New Concept English Book 2 American Course Subtitles",
+      "title": "新概念英语第2册（美音）课程字幕",
       "folder": "resources/NCE2-美音-(MP3+LRC)/courses"
     },
     {
       "tag": "new-concept-english-3-us-audio-course-v1",
-      "title": "New Concept English Book 3 American Course Subtitles",
+      "title": "新概念英语第3册（美音）课程字幕",
       "folder": "resources/NCE3-美音-(MP3+LRC)/courses"
     },
     {
       "tag": "new-concept-english-4-us-audio-course-v1",
-      "title": "New Concept English Book 4 American Course Subtitles",
+      "title": "新概念英语第4册（美音）课程字幕",
       "folder": "resources/NCE4-美音-(MP3+LRC)/courses"
     }
   ]
