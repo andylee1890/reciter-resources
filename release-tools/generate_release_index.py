@@ -56,8 +56,10 @@ def catalog_metadata(tag: str, fallback_title: str) -> dict[str, str]:
         return {"title": "初中听力", "first_class": "考试英语", "second_class": "初中听力", "author": ""}
     if tag == "senior-high-school-listening-audio-v1":
         return {"title": "高中听力", "first_class": "考试英语", "second_class": "高中听力", "author": ""}
-    if tag.startswith(("new-concept-english-", "american-accent-training-")):
-        return {"title": fallback_title, "first_class": "教材课程", "second_class": "", "author": ""}
+    if tag.startswith("new-concept-english-"):
+        return {"title": fallback_title, "first_class": "教材课程", "second_class": "新概念英语", "author": ""}
+    if tag.startswith("american-accent-training-"):
+        return {"title": fallback_title, "first_class": "教材课程", "second_class": "其他教材", "author": ""}
     return {"title": fallback_title, "first_class": "其他资料", "second_class": "", "author": ""}
 
 
