@@ -21,6 +21,28 @@ SIDECAR_LABELS = {
     "recx": "RECX",
 }
 
+CATEGORY_ORDER = {
+    "教材课程": 0,
+    "考试英语": 1,
+    "影视英语": 2,
+    "其他资料": 3,
+    "英语阅读": 4,
+}
+
+SECOND_CLASS_ORDER = {
+    "教材课程": {"新概念英语": 0, "其他教材": 1},
+    "考试英语": {"雅思": 0, "托福": 1, "初中听力": 2, "高中听力": 3, "中考": 4, "高考": 5, "CET4": 6, "CET6": 7},
+    "影视英语": {
+        "破产姐妹": 0,
+        "老友记": 1,
+        "成长的烦恼": 2,
+        "摩登家庭": 3,
+        "生活大爆炸": 4,
+        "办公室（美版）": 5,
+        "大臣、首相": 6,
+    },
+}
+
 
 def repository_root() -> Path:
     return Path(__file__).resolve().parents[1]
@@ -63,6 +85,24 @@ def download_link(release: dict[str, Any]) -> str:
     return f"[资源明细]({release['detailRaw']})"
 
 
+def catalog_sort_key(release: dict[str, Any]) -> tuple[Any, ...]:
+    """Keep the public catalog aligned with the product's category order."""
+    first_class = release.get("first_class", "")
+    second_class = release.get("second_class", "")
+    title = release.get("title", "")
+    number_match = re.search(r"第(\d+)(?:册|季)", title)
+    if number_match is None:
+        number_match = re.search(r"雅思(\d+)", title)
+    number = int(number_match.group(1)) if number_match else -1
+    return (
+        CATEGORY_ORDER.get(first_class, 99),
+        SECOND_CLASS_ORDER.get(first_class, {}).get(second_class, 99),
+        number,
+        title,
+        release.get("tag", ""),
+    )
+
+
 def catalog_row(root: Path, release: dict[str, Any]) -> str:
     detail = load_json(root / "release-records" / release["detailFile"])
     poster_path = release["poster"]["card"]["path"]
@@ -89,7 +129,8 @@ def catalog_markdown(root: Path, index: dict[str, Any]) -> str:
         "| 卡组 | 介绍 | 更新日期 | 版本 | 下载链接 |",
         "| :---: | --- | :---: | :---: | :---: |",
     ]
-    lines.extend(f"| {catalog_row(root, release)} |" for release in index["releases"])
+    releases = sorted(index["releases"], key=catalog_sort_key)
+    lines.extend(f"| {catalog_row(root, release)} |" for release in releases)
     lines.append(CATALOG_END)
     return "\n".join(lines)
 
