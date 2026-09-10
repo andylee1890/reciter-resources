@@ -1,0 +1,2084 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-10T17:52:39.435674Z",
+  "tag": "zhongkao-listening-audio-v1",
+  "title": "中考听力",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/考试/中考听力",
+  "createdAt": "2026-09-11 01:24:32 +0800",
+  "poster": {
+    "id": "zhongkao-listening",
+    "kind": "collection-cover",
+    "sourceType": "user-provided-local-image",
+    "original": {
+      "path": "artwork/posters/junior-high-school-listening.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/junior-high-school-listening.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/junior-high-school-listening.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/junior-high-school-listening.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/junior-high-school-listening.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/junior-high-school-listening.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.056696,
+        "width": 1.0,
+        "height": 0.886607
+      },
+      "sourceSize": {
+        "width": 993,
+        "height": 1400
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/zhongkao-listening-audio-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 113,
+  "totalSizeMiB": 1337.02,
+  "audio": [
+    {
+      "name": "中考听力-p01-2025年陕西省中考英语听力.mp3",
+      "sizeMiB": 11.21,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p01-2025.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p01-2025%E5%B9%B4%E9%99%95%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p01-2025%E5%B9%B4%E9%99%95%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p01-2025%E5%B9%B4%E9%99%95%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p01-2025%E5%B9%B4%E9%99%95%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p02-2025年贵州省中考英语听力.mp3",
+      "sizeMiB": 9.37,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p02-2025.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p02-2025%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p02-2025%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p02-2025%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p02-2025%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p03-2025年福建省中考英语听力.mp3",
+      "sizeMiB": 10.66,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p03-2025.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p03-2025%E5%B9%B4%E7%A6%8F%E5%BB%BA%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p03-2025%E5%B9%B4%E7%A6%8F%E5%BB%BA%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p03-2025%E5%B9%B4%E7%A6%8F%E5%BB%BA%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p03-2025%E5%B9%B4%E7%A6%8F%E5%BB%BA%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p04-2025年眉山市中考英语听力.mp3",
+      "sizeMiB": 12.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p04-2025.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p04-2025%E5%B9%B4%E7%9C%89%E5%B1%B1%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p04-2025%E5%B9%B4%E7%9C%89%E5%B1%B1%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p04-2025%E5%B9%B4%E7%9C%89%E5%B1%B1%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p04-2025%E5%B9%B4%E7%9C%89%E5%B1%B1%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p05-2025年泰安市中考英语听力.mp3",
+      "sizeMiB": 7.71,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p05-2025.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p05-2025%E5%B9%B4%E6%B3%B0%E5%AE%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p05-2025%E5%B9%B4%E6%B3%B0%E5%AE%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p05-2025%E5%B9%B4%E6%B3%B0%E5%AE%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p05-2025%E5%B9%B4%E6%B3%B0%E5%AE%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p06-2025年河南省中考英语听力.mp3",
+      "sizeMiB": 11.16,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p06-2025.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p06-2025%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p06-2025%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p06-2025%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p06-2025%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p07-2025年河北省中考英语听力.mp3",
+      "sizeMiB": 13.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p07-2025.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p07-2025%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p07-2025%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p07-2025%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p07-2025%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p08-2025年江西省中考英语听力.mp3",
+      "sizeMiB": 4.54,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p08-2025.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p08-2025%E5%B9%B4%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p08-2025%E5%B9%B4%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p08-2025%E5%B9%B4%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p08-2025%E5%B9%B4%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p09-2025年新疆中考英语听力.mp3",
+      "sizeMiB": 10.09,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p09-2025.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p09-2025%E5%B9%B4%E6%96%B0%E7%96%86%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p09-2025%E5%B9%B4%E6%96%B0%E7%96%86%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p09-2025%E5%B9%B4%E6%96%B0%E7%96%86%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p09-2025%E5%B9%B4%E6%96%B0%E7%96%86%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p10-0 2020年湖南省衡阳市中考英语听力.mp3",
+      "sizeMiB": 13.0,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p10-0.2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-0%202020%E5%B9%B4%E6%B9%96%E5%8D%97%E7%9C%81%E8%A1%A1%E9%98%B3%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-0%202020%E5%B9%B4%E6%B9%96%E5%8D%97%E7%9C%81%E8%A1%A1%E9%98%B3%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-0%202020%E5%B9%B4%E6%B9%96%E5%8D%97%E7%9C%81%E8%A1%A1%E9%98%B3%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-0%202020%E5%B9%B4%E6%B9%96%E5%8D%97%E7%9C%81%E8%A1%A1%E9%98%B3%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p10-1 2020年湖南省怀化市中考英语听力.mp3",
+      "sizeMiB": 7.29,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p10-1.2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-1%202020%E5%B9%B4%E6%B9%96%E5%8D%97%E7%9C%81%E6%80%80%E5%8C%96%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-1%202020%E5%B9%B4%E6%B9%96%E5%8D%97%E7%9C%81%E6%80%80%E5%8C%96%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-1%202020%E5%B9%B4%E6%B9%96%E5%8D%97%E7%9C%81%E6%80%80%E5%8C%96%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-1%202020%E5%B9%B4%E6%B9%96%E5%8D%97%E7%9C%81%E6%80%80%E5%8C%96%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p10-2 2020年吉林省中考英语听力.mp3",
+      "sizeMiB": 9.28,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p10-2.2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-2%202020%E5%B9%B4%E5%90%89%E6%9E%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-2%202020%E5%B9%B4%E5%90%89%E6%9E%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-2%202020%E5%B9%B4%E5%90%89%E6%9E%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-2%202020%E5%B9%B4%E5%90%89%E6%9E%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p10-2025年广西中考英语听力.mp3",
+      "sizeMiB": 13.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p10-2025.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-2025%E5%B9%B4%E5%B9%BF%E8%A5%BF%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-2025%E5%B9%B4%E5%B9%BF%E8%A5%BF%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-2025%E5%B9%B4%E5%B9%BF%E8%A5%BF%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-2025%E5%B9%B4%E5%B9%BF%E8%A5%BF%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p10-3 2020年内蒙古包头市中考英语听力.mp3",
+      "sizeMiB": 12.93,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p10-3.2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-3%202020%E5%B9%B4%E5%86%85%E8%92%99%E5%8F%A4%E5%8C%85%E5%A4%B4%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-3%202020%E5%B9%B4%E5%86%85%E8%92%99%E5%8F%A4%E5%8C%85%E5%A4%B4%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-3%202020%E5%B9%B4%E5%86%85%E8%92%99%E5%8F%A4%E5%8C%85%E5%A4%B4%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-3%202020%E5%B9%B4%E5%86%85%E8%92%99%E5%8F%A4%E5%8C%85%E5%A4%B4%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p10-4 2020年宁夏回族自治区中考英语听力.mp3",
+      "sizeMiB": 10.1,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p10-4.2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-4%202020%E5%B9%B4%E5%AE%81%E5%A4%8F%E5%9B%9E%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-4%202020%E5%B9%B4%E5%AE%81%E5%A4%8F%E5%9B%9E%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-4%202020%E5%B9%B4%E5%AE%81%E5%A4%8F%E5%9B%9E%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-4%202020%E5%B9%B4%E5%AE%81%E5%A4%8F%E5%9B%9E%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p10-5 2020年山东省德州市中考英语听力.mp3",
+      "sizeMiB": 12.93,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p10-5.2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-5%202020%E5%B9%B4%E5%B1%B1%E4%B8%9C%E7%9C%81%E5%BE%B7%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-5%202020%E5%B9%B4%E5%B1%B1%E4%B8%9C%E7%9C%81%E5%BE%B7%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-5%202020%E5%B9%B4%E5%B1%B1%E4%B8%9C%E7%9C%81%E5%BE%B7%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-5%202020%E5%B9%B4%E5%B1%B1%E4%B8%9C%E7%9C%81%E5%BE%B7%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p10-6 2020年陕西省中考英语听力.mp3",
+      "sizeMiB": 6.4,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p10-6.2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-6%202020%E5%B9%B4%E9%99%95%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-6%202020%E5%B9%B4%E9%99%95%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-6%202020%E5%B9%B4%E9%99%95%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-6%202020%E5%B9%B4%E9%99%95%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p10-7 2020年上海市中考英语听力.mp3",
+      "sizeMiB": 13.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p10-7.2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-7%202020%E5%B9%B4%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-7%202020%E5%B9%B4%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-7%202020%E5%B9%B4%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-7%202020%E5%B9%B4%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p10-8 2020年四川省南充市中考英语听力.mp3",
+      "sizeMiB": 13.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p10-8.2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-8%202020%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%8D%97%E5%85%85%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-8%202020%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%8D%97%E5%85%85%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-8%202020%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%8D%97%E5%85%85%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-8%202020%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%8D%97%E5%85%85%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p10-9 2020年四川省宜宾市中考英语听力.mp3",
+      "sizeMiB": 11.11,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p10-9.2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-9%202020%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%AE%9C%E5%AE%BE%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-9%202020%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%AE%9C%E5%AE%BE%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-9%202020%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%AE%9C%E5%AE%BE%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p10-9%202020%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%AE%9C%E5%AE%BE%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p11-0 2020年四川省自贡市中考英语听力.mp3",
+      "sizeMiB": 16.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p11-0.2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-0%202020%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%87%AA%E8%B4%A1%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-0%202020%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%87%AA%E8%B4%A1%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-0%202020%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%87%AA%E8%B4%A1%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-0%202020%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%87%AA%E8%B4%A1%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p11-1 2020年新疆省建设兵团中考英语听力.mp3",
+      "sizeMiB": 6.83,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p11-1.2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-1%202020%E5%B9%B4%E6%96%B0%E7%96%86%E7%9C%81%E5%BB%BA%E8%AE%BE%E5%85%B5%E5%9B%A2%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-1%202020%E5%B9%B4%E6%96%B0%E7%96%86%E7%9C%81%E5%BB%BA%E8%AE%BE%E5%85%B5%E5%9B%A2%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-1%202020%E5%B9%B4%E6%96%B0%E7%96%86%E7%9C%81%E5%BB%BA%E8%AE%BE%E5%85%B5%E5%9B%A2%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-1%202020%E5%B9%B4%E6%96%B0%E7%96%86%E7%9C%81%E5%BB%BA%E8%AE%BE%E5%85%B5%E5%9B%A2%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p11-2 2020年浙江省杭州市中考英语听力.mp3",
+      "sizeMiB": 8.49,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p11-2.2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-2%202020%E5%B9%B4%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-2%202020%E5%B9%B4%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-2%202020%E5%B9%B4%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-2%202020%E5%B9%B4%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p11-2025年广东省中考英语听力.mp3",
+      "sizeMiB": 10.66,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p11-2025.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-2025%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-2025%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-2025%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-2025%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p11-3 2020年重庆市中考英语听力.mp3",
+      "sizeMiB": 7.02,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p11-3.2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-3%202020%E5%B9%B4%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-3%202020%E5%B9%B4%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-3%202020%E5%B9%B4%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p11-3%202020%E5%B9%B4%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p12-2025年山西省中考英语听力.mp3",
+      "sizeMiB": 13.35,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p12-2025.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p12-2025%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p12-2025%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p12-2025%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p12-2025%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p13-2025年安徽省中考英语听力.mp3",
+      "sizeMiB": 4.74,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p13-2025.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p13-2025%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p13-2025%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p13-2025%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p13-2025%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p14-2024湖北省中考听力音频.mp3",
+      "sizeMiB": 13.77,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p14-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p14-2024%E6%B9%96%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p14-2024%E6%B9%96%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p14-2024%E6%B9%96%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p14-2024%E6%B9%96%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p15-2024年长沙市中考英语听力.mp3",
+      "sizeMiB": 12.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p15-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p15-2024%E5%B9%B4%E9%95%BF%E6%B2%99%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p15-2024%E5%B9%B4%E9%95%BF%E6%B2%99%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p15-2024%E5%B9%B4%E9%95%BF%E6%B2%99%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p15-2024%E5%B9%B4%E9%95%BF%E6%B2%99%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p16-2024年菏泽市中考英语听力.mp3",
+      "sizeMiB": 10.87,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p16-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p16-2024%E5%B9%B4%E8%8F%8F%E6%B3%BD%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p16-2024%E5%B9%B4%E8%8F%8F%E6%B3%BD%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p16-2024%E5%B9%B4%E8%8F%8F%E6%B3%BD%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p16-2024%E5%B9%B4%E8%8F%8F%E6%B3%BD%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p17-2024年福建省中考听力.mp3",
+      "sizeMiB": 16.14,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p17-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p17-2024%E5%B9%B4%E7%A6%8F%E5%BB%BA%E7%9C%81%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p17-2024%E5%B9%B4%E7%A6%8F%E5%BB%BA%E7%9C%81%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p17-2024%E5%B9%B4%E7%A6%8F%E5%BB%BA%E7%9C%81%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p17-2024%E5%B9%B4%E7%A6%8F%E5%BB%BA%E7%9C%81%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p18-2024年济宁市中考英语听力.mp3",
+      "sizeMiB": 12.22,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p18-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p18-2024%E5%B9%B4%E6%B5%8E%E5%AE%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p18-2024%E5%B9%B4%E6%B5%8E%E5%AE%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p18-2024%E5%B9%B4%E6%B5%8E%E5%AE%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p18-2024%E5%B9%B4%E6%B5%8E%E5%AE%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p19-2024年济南市中考英语听力.mp3",
+      "sizeMiB": 5.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p19-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p19-2024%E5%B9%B4%E6%B5%8E%E5%8D%97%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p19-2024%E5%B9%B4%E6%B5%8E%E5%8D%97%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p19-2024%E5%B9%B4%E6%B5%8E%E5%8D%97%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p19-2024%E5%B9%B4%E6%B5%8E%E5%8D%97%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p20-2024年泰安市中考英语听力.mp3",
+      "sizeMiB": 9.06,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p20-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p20-2024%E5%B9%B4%E6%B3%B0%E5%AE%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p20-2024%E5%B9%B4%E6%B3%B0%E5%AE%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p20-2024%E5%B9%B4%E6%B3%B0%E5%AE%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p20-2024%E5%B9%B4%E6%B3%B0%E5%AE%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p21-2024年河南省中考听力音频.mp3",
+      "sizeMiB": 9.85,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p21-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p21-2024%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p21-2024%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p21-2024%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p21-2024%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p22-2024年河北省中考英语听力.mp3",
+      "sizeMiB": 11.92,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p22-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p22-2024%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p22-2024%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p22-2024%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p22-2024%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p23-2024年武汉市中考听力.mp3",
+      "sizeMiB": 10.95,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p23-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p23-2024%E5%B9%B4%E6%AD%A6%E6%B1%89%E5%B8%82%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p23-2024%E5%B9%B4%E6%AD%A6%E6%B1%89%E5%B8%82%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p23-2024%E5%B9%B4%E6%AD%A6%E6%B1%89%E5%B8%82%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p23-2024%E5%B9%B4%E6%AD%A6%E6%B1%89%E5%B8%82%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p24-2024年新疆中考英语听力.mp3",
+      "sizeMiB": 8.18,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p24-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p24-2024%E5%B9%B4%E6%96%B0%E7%96%86%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p24-2024%E5%B9%B4%E6%96%B0%E7%96%86%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p24-2024%E5%B9%B4%E6%96%B0%E7%96%86%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p24-2024%E5%B9%B4%E6%96%B0%E7%96%86%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p25-2024年成都市中考英语听力.mp3",
+      "sizeMiB": 11.85,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p25-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p25-2024%E5%B9%B4%E6%88%90%E9%83%BD%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p25-2024%E5%B9%B4%E6%88%90%E9%83%BD%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p25-2024%E5%B9%B4%E6%88%90%E9%83%BD%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p25-2024%E5%B9%B4%E6%88%90%E9%83%BD%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p26-2024年广西中考听力音频.mp3",
+      "sizeMiB": 13.41,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p26-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p26-2024%E5%B9%B4%E5%B9%BF%E8%A5%BF%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p26-2024%E5%B9%B4%E5%B9%BF%E8%A5%BF%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p26-2024%E5%B9%B4%E5%B9%BF%E8%A5%BF%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p26-2024%E5%B9%B4%E5%B9%BF%E8%A5%BF%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p27-2024年广东省中考英语听力.mp3",
+      "sizeMiB": 10.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p27-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p27-2024%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p27-2024%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p27-2024%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p27-2024%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p28-2024年山西省中考英语听力.mp3",
+      "sizeMiB": 12.4,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p28-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p28-2024%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p28-2024%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p28-2024%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p28-2024%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p29-2024年安徽省中考英语听力.mp3",
+      "sizeMiB": 9.53,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p29-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p29-2024%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p29-2024%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p29-2024%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p29-2024%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p30-2024年天津市中考英语听力.mp3",
+      "sizeMiB": 8.1,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p30-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p30-2024%E5%B9%B4%E5%A4%A9%E6%B4%A5%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p30-2024%E5%B9%B4%E5%A4%A9%E6%B4%A5%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p30-2024%E5%B9%B4%E5%A4%A9%E6%B4%A5%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p30-2024%E5%B9%B4%E5%A4%A9%E6%B4%A5%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p31-2024年大庆市中考英语听力音频.mp3",
+      "sizeMiB": 8.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p31-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p31-2024%E5%B9%B4%E5%A4%A7%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p31-2024%E5%B9%B4%E5%A4%A7%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p31-2024%E5%B9%B4%E5%A4%A7%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p31-2024%E5%B9%B4%E5%A4%A7%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p32-2024年四川省资阳市中考英语听力.mp3",
+      "sizeMiB": 17.28,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p32-2024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p32-2024%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%B5%84%E9%98%B3%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p32-2024%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%B5%84%E9%98%B3%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p32-2024%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%B5%84%E9%98%B3%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p32-2024%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%B5%84%E9%98%B3%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p33-2023年陕西省中考英语听力.mp3",
+      "sizeMiB": 11.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p33-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p33-2023%E5%B9%B4%E9%99%95%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p33-2023%E5%B9%B4%E9%99%95%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p33-2023%E5%B9%B4%E9%99%95%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p33-2023%E5%B9%B4%E9%99%95%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p34-2023年长沙市中考英语听力.mp3",
+      "sizeMiB": 13.47,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p34-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p34-2023%E5%B9%B4%E9%95%BF%E6%B2%99%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p34-2023%E5%B9%B4%E9%95%BF%E6%B2%99%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p34-2023%E5%B9%B4%E9%95%BF%E6%B2%99%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p34-2023%E5%B9%B4%E9%95%BF%E6%B2%99%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p35-2023年福建省中考英语听力.mp3",
+      "sizeMiB": 14.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p35-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p35-2023%E5%B9%B4%E7%A6%8F%E5%BB%BA%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p35-2023%E5%B9%B4%E7%A6%8F%E5%BB%BA%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p35-2023%E5%B9%B4%E7%A6%8F%E5%BB%BA%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p35-2023%E5%B9%B4%E7%A6%8F%E5%BB%BA%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p36-2023年甘肃省定西市中考英语听力.mp3",
+      "sizeMiB": 12.37,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p36-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p36-2023%E5%B9%B4%E7%94%98%E8%82%83%E7%9C%81%E5%AE%9A%E8%A5%BF%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p36-2023%E5%B9%B4%E7%94%98%E8%82%83%E7%9C%81%E5%AE%9A%E8%A5%BF%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p36-2023%E5%B9%B4%E7%94%98%E8%82%83%E7%9C%81%E5%AE%9A%E8%A5%BF%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p36-2023%E5%B9%B4%E7%94%98%E8%82%83%E7%9C%81%E5%AE%9A%E8%A5%BF%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p37-2023年湖南省怀化市中考英语听力.mp3",
+      "sizeMiB": 11.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p37-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p37-2023%E5%B9%B4%E6%B9%96%E5%8D%97%E7%9C%81%E6%80%80%E5%8C%96%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p37-2023%E5%B9%B4%E6%B9%96%E5%8D%97%E7%9C%81%E6%80%80%E5%8C%96%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p37-2023%E5%B9%B4%E6%B9%96%E5%8D%97%E7%9C%81%E6%80%80%E5%8C%96%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p37-2023%E5%B9%B4%E6%B9%96%E5%8D%97%E7%9C%81%E6%80%80%E5%8C%96%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p38-2023年浙江省杭州市中考英语听力.mp3",
+      "sizeMiB": 11.94,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p38-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p38-2023%E5%B9%B4%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p38-2023%E5%B9%B4%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p38-2023%E5%B9%B4%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p38-2023%E5%B9%B4%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p39-2023年济南市中考英语听力.mp3",
+      "sizeMiB": 8.24,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p39-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p39-2023%E5%B9%B4%E6%B5%8E%E5%8D%97%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p39-2023%E5%B9%B4%E6%B5%8E%E5%8D%97%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p39-2023%E5%B9%B4%E6%B5%8E%E5%8D%97%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p39-2023%E5%B9%B4%E6%B5%8E%E5%8D%97%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p40-2023年泰安市中考英语听力.mp3",
+      "sizeMiB": 10.77,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p40-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p40-2023%E5%B9%B4%E6%B3%B0%E5%AE%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p40-2023%E5%B9%B4%E6%B3%B0%E5%AE%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p40-2023%E5%B9%B4%E6%B3%B0%E5%AE%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p40-2023%E5%B9%B4%E6%B3%B0%E5%AE%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p41-2023年河南省中考英语听力.mp3",
+      "sizeMiB": 8.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p41-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p41-2023%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p41-2023%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p41-2023%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p41-2023%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p42-2023年河北省中考英语听力.mp3",
+      "sizeMiB": 12.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p42-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p42-2023%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p42-2023%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p42-2023%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p42-2023%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p43-2023年武汉市中考英语听力.mp3",
+      "sizeMiB": 10.94,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p43-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p43-2023%E5%B9%B4%E6%AD%A6%E6%B1%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p43-2023%E5%B9%B4%E6%AD%A6%E6%B1%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p43-2023%E5%B9%B4%E6%AD%A6%E6%B1%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p43-2023%E5%B9%B4%E6%AD%A6%E6%B1%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p44-2023年新疆中考英语听力.mp3",
+      "sizeMiB": 9.35,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p44-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p44-2023%E5%B9%B4%E6%96%B0%E7%96%86%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p44-2023%E5%B9%B4%E6%96%B0%E7%96%86%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p44-2023%E5%B9%B4%E6%96%B0%E7%96%86%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p44-2023%E5%B9%B4%E6%96%B0%E7%96%86%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p45-2023年成都市中考英语听力.mp3",
+      "sizeMiB": 21.54,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p45-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p45-2023%E5%B9%B4%E6%88%90%E9%83%BD%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p45-2023%E5%B9%B4%E6%88%90%E9%83%BD%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p45-2023%E5%B9%B4%E6%88%90%E9%83%BD%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p45-2023%E5%B9%B4%E6%88%90%E9%83%BD%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p46-2023年广东省中考英语听力.mp3",
+      "sizeMiB": 17.7,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p46-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p46-2023%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p46-2023%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p46-2023%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p46-2023%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p47-2023年山西省中考英语听力.mp3",
+      "sizeMiB": 9.94,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p47-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p47-2023%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p47-2023%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p47-2023%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p47-2023%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p48-2023年安徽省中考英语听力.mp3",
+      "sizeMiB": 12.43,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p48-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p48-2023%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p48-2023%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p48-2023%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p48-2023%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p49-2023年天津市中考听力.mp3",
+      "sizeMiB": 11.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p49-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p49-2023%E5%B9%B4%E5%A4%A9%E6%B4%A5%E5%B8%82%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p49-2023%E5%B9%B4%E5%A4%A9%E6%B4%A5%E5%B8%82%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p49-2023%E5%B9%B4%E5%A4%A9%E6%B4%A5%E5%B8%82%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p49-2023%E5%B9%B4%E5%A4%A9%E6%B4%A5%E5%B8%82%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p50-2023年内蒙古自治区包头市中考英语听力.mp3",
+      "sizeMiB": 6.81,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p50-2023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p50-2023%E5%B9%B4%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA%E5%8C%85%E5%A4%B4%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p50-2023%E5%B9%B4%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA%E5%8C%85%E5%A4%B4%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p50-2023%E5%B9%B4%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA%E5%8C%85%E5%A4%B4%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p50-2023%E5%B9%B4%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA%E5%8C%85%E5%A4%B4%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p51-2022年长沙市中考英语听力.mp3",
+      "sizeMiB": 10.69,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p51-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p51-2022%E5%B9%B4%E9%95%BF%E6%B2%99%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p51-2022%E5%B9%B4%E9%95%BF%E6%B2%99%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p51-2022%E5%B9%B4%E9%95%BF%E6%B2%99%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p51-2022%E5%B9%B4%E9%95%BF%E6%B2%99%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p52-2022年重庆市中考英语听力(B卷).mp3",
+      "sizeMiB": 11.76,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p52-2022.B.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p52-2022%E5%B9%B4%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%28B%E5%8D%B7%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p52-2022%E5%B9%B4%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%28B%E5%8D%B7%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p52-2022%E5%B9%B4%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%28B%E5%8D%B7%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p52-2022%E5%B9%B4%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%28B%E5%8D%B7%29.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p53-2022年重庆市中考英语听力(A卷).mp3",
+      "sizeMiB": 11.76,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p53-2022.A.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p53-2022%E5%B9%B4%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%28A%E5%8D%B7%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p53-2022%E5%B9%B4%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%28A%E5%8D%B7%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p53-2022%E5%B9%B4%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%28A%E5%8D%B7%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p53-2022%E5%B9%B4%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%28A%E5%8D%B7%29.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p54-2022年遂宁市中考英语听力.mp3",
+      "sizeMiB": 17.96,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p54-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p54-2022%E5%B9%B4%E9%81%82%E5%AE%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p54-2022%E5%B9%B4%E9%81%82%E5%AE%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p54-2022%E5%B9%B4%E9%81%82%E5%AE%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p54-2022%E5%B9%B4%E9%81%82%E5%AE%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p55-2022年贵州省铜仁市中考英语听力.mp3",
+      "sizeMiB": 14.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p55-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p55-2022%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%93%9C%E4%BB%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p55-2022%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%93%9C%E4%BB%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p55-2022%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%93%9C%E4%BB%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p55-2022%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%93%9C%E4%BB%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p56-2022年聊城市中考英语听力.mp3",
+      "sizeMiB": 15.06,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p56-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p56-2022%E5%B9%B4%E8%81%8A%E5%9F%8E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p56-2022%E5%B9%B4%E8%81%8A%E5%9F%8E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p56-2022%E5%B9%B4%E8%81%8A%E5%9F%8E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p56-2022%E5%B9%B4%E8%81%8A%E5%9F%8E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p57-2022年绍兴市中考英语听力.mp3",
+      "sizeMiB": 9.18,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p57-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p57-2022%E5%B9%B4%E7%BB%8D%E5%85%B4%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p57-2022%E5%B9%B4%E7%BB%8D%E5%85%B4%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p57-2022%E5%B9%B4%E7%BB%8D%E5%85%B4%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p57-2022%E5%B9%B4%E7%BB%8D%E5%85%B4%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p58-2022年甘肃省平凉市中考英语听力.mp3",
+      "sizeMiB": 10.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p58-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p58-2022%E5%B9%B4%E7%94%98%E8%82%83%E7%9C%81%E5%B9%B3%E5%87%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p58-2022%E5%B9%B4%E7%94%98%E8%82%83%E7%9C%81%E5%B9%B3%E5%87%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p58-2022%E5%B9%B4%E7%94%98%E8%82%83%E7%9C%81%E5%B9%B3%E5%87%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p58-2022%E5%B9%B4%E7%94%98%E8%82%83%E7%9C%81%E5%B9%B3%E5%87%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p59-2022年滨州市中考英语听力.mp3",
+      "sizeMiB": 13.51,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p59-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p59-2022%E5%B9%B4%E6%BB%A8%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p59-2022%E5%B9%B4%E6%BB%A8%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p59-2022%E5%B9%B4%E6%BB%A8%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p59-2022%E5%B9%B4%E6%BB%A8%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p60-2022年海南省中考英语听力.mp3",
+      "sizeMiB": 3.22,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p60-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p60-2022%E5%B9%B4%E6%B5%B7%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p60-2022%E5%B9%B4%E6%B5%B7%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p60-2022%E5%B9%B4%E6%B5%B7%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p60-2022%E5%B9%B4%E6%B5%B7%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p61-2022年泰安市中考英语听力.mp3",
+      "sizeMiB": 13.96,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p61-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p61-2022%E5%B9%B4%E6%B3%B0%E5%AE%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p61-2022%E5%B9%B4%E6%B3%B0%E5%AE%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p61-2022%E5%B9%B4%E6%B3%B0%E5%AE%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p61-2022%E5%B9%B4%E6%B3%B0%E5%AE%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p62-2022年河北省中考英语听力.mp3",
+      "sizeMiB": 24.4,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p62-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p62-2022%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p62-2022%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p62-2022%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p62-2022%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p63-2022年武汉市中考英语听力.mp3",
+      "sizeMiB": 16.34,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p63-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p63-2022%E5%B9%B4%E6%AD%A6%E6%B1%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p63-2022%E5%B9%B4%E6%AD%A6%E6%B1%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p63-2022%E5%B9%B4%E6%AD%A6%E6%B1%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p63-2022%E5%B9%B4%E6%AD%A6%E6%B1%89%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p64-2022年昆明市中考英语听力.mp3",
+      "sizeMiB": 16.98,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p64-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p64-2022%E5%B9%B4%E6%98%86%E6%98%8E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p64-2022%E5%B9%B4%E6%98%86%E6%98%8E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p64-2022%E5%B9%B4%E6%98%86%E6%98%8E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p64-2022%E5%B9%B4%E6%98%86%E6%98%8E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p65-2022年成都市中考英语听力.mp3",
+      "sizeMiB": 17.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p65-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p65-2022%E5%B9%B4%E6%88%90%E9%83%BD%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p65-2022%E5%B9%B4%E6%88%90%E9%83%BD%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p65-2022%E5%B9%B4%E6%88%90%E9%83%BD%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p65-2022%E5%B9%B4%E6%88%90%E9%83%BD%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p66-2022年广西省北部湾中考英语听力.mp3",
+      "sizeMiB": 15.7,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p66-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p66-2022%E5%B9%B4%E5%B9%BF%E8%A5%BF%E7%9C%81%E5%8C%97%E9%83%A8%E6%B9%BE%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p66-2022%E5%B9%B4%E5%B9%BF%E8%A5%BF%E7%9C%81%E5%8C%97%E9%83%A8%E6%B9%BE%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p66-2022%E5%B9%B4%E5%B9%BF%E8%A5%BF%E7%9C%81%E5%8C%97%E9%83%A8%E6%B9%BE%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p66-2022%E5%B9%B4%E5%B9%BF%E8%A5%BF%E7%9C%81%E5%8C%97%E9%83%A8%E6%B9%BE%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p67-2022年广东省中考英语听力.mp3",
+      "sizeMiB": 17.86,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p67-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p67-2022%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p67-2022%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p67-2022%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p67-2022%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p68-2022年山西省中考英语听力.mp3",
+      "sizeMiB": 13.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p68-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p68-2022%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p68-2022%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p68-2022%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p68-2022%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p69-2022年安徽省中考英语听力.mp3",
+      "sizeMiB": 10.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p69-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p69-2022%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p69-2022%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p69-2022%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p69-2022%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p70-2022年天津市中考英语听力.mp3",
+      "sizeMiB": 17.91,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p70-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p70-2022%E5%B9%B4%E5%A4%A9%E6%B4%A5%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p70-2022%E5%B9%B4%E5%A4%A9%E6%B4%A5%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p70-2022%E5%B9%B4%E5%A4%A9%E6%B4%A5%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p70-2022%E5%B9%B4%E5%A4%A9%E6%B4%A5%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p71-2022年北部湾区中考英语听力.mp3",
+      "sizeMiB": 20.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p71-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p71-2022%E5%B9%B4%E5%8C%97%E9%83%A8%E6%B9%BE%E5%8C%BA%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p71-2022%E5%B9%B4%E5%8C%97%E9%83%A8%E6%B9%BE%E5%8C%BA%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p71-2022%E5%B9%B4%E5%8C%97%E9%83%A8%E6%B9%BE%E5%8C%BA%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p71-2022%E5%B9%B4%E5%8C%97%E9%83%A8%E6%B9%BE%E5%8C%BA%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p72-2022年上海市中考英语听力.mp3",
+      "sizeMiB": 17.61,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p72-2022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p72-2022%E5%B9%B4%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p72-2022%E5%B9%B4%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p72-2022%E5%B9%B4%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p72-2022%E5%B9%B4%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p73-2021年陕西省中考英语听力.mp3",
+      "sizeMiB": 9.94,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p73-2021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p73-2021%E5%B9%B4%E9%99%95%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p73-2021%E5%B9%B4%E9%99%95%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p73-2021%E5%B9%B4%E9%99%95%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p73-2021%E5%B9%B4%E9%99%95%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p74-2021年重庆市中考英语听力.mp3",
+      "sizeMiB": 8.46,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p74-2021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p74-2021%E5%B9%B4%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p74-2021%E5%B9%B4%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p74-2021%E5%B9%B4%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p74-2021%E5%B9%B4%E9%87%8D%E5%BA%86%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p75-2021年贵州省铜仁市中考英语听力.mp3",
+      "sizeMiB": 8.03,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p75-2021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p75-2021%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%93%9C%E4%BB%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p75-2021%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%93%9C%E4%BB%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p75-2021%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%93%9C%E4%BB%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p75-2021%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%93%9C%E4%BB%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p76-2021年海南省中考英语听力.mp3",
+      "sizeMiB": 5.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p76-2021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p76-2021%E5%B9%B4%E6%B5%B7%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p76-2021%E5%B9%B4%E6%B5%B7%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p76-2021%E5%B9%B4%E6%B5%B7%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p76-2021%E5%B9%B4%E6%B5%B7%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p77-2021年河北省中考英语听力.mp3",
+      "sizeMiB": 21.25,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p77-2021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p77-2021%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p77-2021%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p77-2021%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p77-2021%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p78-2021年广东省中考英语听力.mp3",
+      "sizeMiB": 13.19,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p78-2021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p78-2021%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p78-2021%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p78-2021%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p78-2021%E5%B9%B4%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p79-2021年山西省中考英语听力.mp3",
+      "sizeMiB": 9.89,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p79-2021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p79-2021%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p79-2021%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p79-2021%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p79-2021%E5%B9%B4%E5%B1%B1%E8%A5%BF%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p80-2021年安徽省中考英语听力.mp3",
+      "sizeMiB": 7.55,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p80-2021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p80-2021%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p80-2021%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p80-2021%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p80-2021%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p81-2021年四川省乐山中考英语听力.mp3",
+      "sizeMiB": 15.14,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p81-2021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p81-2021%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E4%B9%90%E5%B1%B1%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p81-2021%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E4%B9%90%E5%B1%B1%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p81-2021%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E4%B9%90%E5%B1%B1%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p81-2021%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E4%B9%90%E5%B1%B1%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p82-2021年四川省中考英语听力.mp3",
+      "sizeMiB": 12.29,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p82-2021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p82-2021%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p82-2021%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p82-2021%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p82-2021%E5%B9%B4%E5%9B%9B%E5%B7%9D%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p83-2021年吉林省中考英语听力.mp3",
+      "sizeMiB": 4.67,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p83-2021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p83-2021%E5%B9%B4%E5%90%89%E6%9E%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p83-2021%E5%B9%B4%E5%90%89%E6%9E%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p83-2021%E5%B9%B4%E5%90%89%E6%9E%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p83-2021%E5%B9%B4%E5%90%89%E6%9E%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p84-2021年南充市中考英语听力.mp3",
+      "sizeMiB": 14.0,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p84-2021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p84-2021%E5%B9%B4%E5%8D%97%E5%85%85%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p84-2021%E5%B9%B4%E5%8D%97%E5%85%85%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p84-2021%E5%B9%B4%E5%8D%97%E5%85%85%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p84-2021%E5%B9%B4%E5%8D%97%E5%85%85%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p85-2021年内蒙古包头市中考英语听力.mp3",
+      "sizeMiB": 7.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p85-2021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p85-2021%E5%B9%B4%E5%86%85%E8%92%99%E5%8F%A4%E5%8C%85%E5%A4%B4%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p85-2021%E5%B9%B4%E5%86%85%E8%92%99%E5%8F%A4%E5%8C%85%E5%A4%B4%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p85-2021%E5%B9%B4%E5%86%85%E8%92%99%E5%8F%A4%E5%8C%85%E5%A4%B4%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p85-2021%E5%B9%B4%E5%86%85%E8%92%99%E5%8F%A4%E5%8C%85%E5%A4%B4%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p86-2021年云南省中考英语听力.mp3",
+      "sizeMiB": 16.43,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p86-2021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p86-2021%E5%B9%B4%E4%BA%91%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p86-2021%E5%B9%B4%E4%BA%91%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p86-2021%E5%B9%B4%E4%BA%91%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p86-2021%E5%B9%B4%E4%BA%91%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p87-2021年上海市中考英语听力.mp3",
+      "sizeMiB": 12.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p87-2021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p87-2021%E5%B9%B4%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p87-2021%E5%B9%B4%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p87-2021%E5%B9%B4%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p87-2021%E5%B9%B4%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p88-2020年安徽省中考英语听力.mp3",
+      "sizeMiB": 9.34,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p88-2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p88-2020%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p88-2020%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p88-2020%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p88-2020%E5%B9%B4%E5%AE%89%E5%BE%BD%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p89-2020年福建省中考英语听力.mp3",
+      "sizeMiB": 12.79,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p89-2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p89-2020%E5%B9%B4%E7%A6%8F%E5%BB%BA%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p89-2020%E5%B9%B4%E7%A6%8F%E5%BB%BA%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p89-2020%E5%B9%B4%E7%A6%8F%E5%BB%BA%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p89-2020%E5%B9%B4%E7%A6%8F%E5%BB%BA%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p90-2020年甘肃省武威市中考英语听力.mp3",
+      "sizeMiB": 9.03,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p90-2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p90-2020%E5%B9%B4%E7%94%98%E8%82%83%E7%9C%81%E6%AD%A6%E5%A8%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p90-2020%E5%B9%B4%E7%94%98%E8%82%83%E7%9C%81%E6%AD%A6%E5%A8%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p90-2020%E5%B9%B4%E7%94%98%E8%82%83%E7%9C%81%E6%AD%A6%E5%A8%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p90-2020%E5%B9%B4%E7%94%98%E8%82%83%E7%9C%81%E6%AD%A6%E5%A8%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p91-2020年贵州省黔东南州中考英语听力.mp3",
+      "sizeMiB": 6.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p91-2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p91-2020%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%BB%94%E4%B8%9C%E5%8D%97%E5%B7%9E%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p91-2020%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%BB%94%E4%B8%9C%E5%8D%97%E5%B7%9E%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p91-2020%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%BB%94%E4%B8%9C%E5%8D%97%E5%B7%9E%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p91-2020%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%BB%94%E4%B8%9C%E5%8D%97%E5%B7%9E%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p92-2020年贵州省铜仁市中考英语听力.mp3",
+      "sizeMiB": 9.35,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p92-2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p92-2020%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%93%9C%E4%BB%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p92-2020%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%93%9C%E4%BB%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p92-2020%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%93%9C%E4%BB%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p92-2020%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E9%93%9C%E4%BB%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p93-2020年海南省中考英语听力.mp3",
+      "sizeMiB": 16.46,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p93-2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p93-2020%E5%B9%B4%E6%B5%B7%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p93-2020%E5%B9%B4%E6%B5%B7%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p93-2020%E5%B9%B4%E6%B5%B7%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p93-2020%E5%B9%B4%E6%B5%B7%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p94-2020年河北省中考英语听力.mp3",
+      "sizeMiB": 12.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p94-2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p94-2020%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p94-2020%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p94-2020%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p94-2020%E5%B9%B4%E6%B2%B3%E5%8C%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p95-2020年河南省中考英语听力.mp3",
+      "sizeMiB": 10.91,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p95-2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p95-2020%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p95-2020%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p95-2020%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p95-2020%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p96-2020年湖北省黄冈市中考英语听力.mp3",
+      "sizeMiB": 10.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p96-2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p96-2020%E5%B9%B4%E6%B9%96%E5%8C%97%E7%9C%81%E9%BB%84%E5%86%88%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p96-2020%E5%B9%B4%E6%B9%96%E5%8C%97%E7%9C%81%E9%BB%84%E5%86%88%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p96-2020%E5%B9%B4%E6%B9%96%E5%8C%97%E7%9C%81%E9%BB%84%E5%86%88%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p96-2020%E5%B9%B4%E6%B9%96%E5%8C%97%E7%9C%81%E9%BB%84%E5%86%88%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p97-2020年湖北省随州市中考英语听力.mp3",
+      "sizeMiB": 12.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p97-2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p97-2020%E5%B9%B4%E6%B9%96%E5%8C%97%E7%9C%81%E9%9A%8F%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p97-2020%E5%B9%B4%E6%B9%96%E5%8C%97%E7%9C%81%E9%9A%8F%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p97-2020%E5%B9%B4%E6%B9%96%E5%8C%97%E7%9C%81%E9%9A%8F%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p97-2020%E5%B9%B4%E6%B9%96%E5%8C%97%E7%9C%81%E9%9A%8F%E5%B7%9E%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p98-2020年湖北省咸宁市中考英语听力.mp3",
+      "sizeMiB": 10.57,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p98-2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p98-2020%E5%B9%B4%E6%B9%96%E5%8C%97%E7%9C%81%E5%92%B8%E5%AE%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p98-2020%E5%B9%B4%E6%B9%96%E5%8C%97%E7%9C%81%E5%92%B8%E5%AE%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p98-2020%E5%B9%B4%E6%B9%96%E5%8C%97%E7%9C%81%E5%92%B8%E5%AE%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p98-2020%E5%B9%B4%E6%B9%96%E5%8C%97%E7%9C%81%E5%92%B8%E5%AE%81%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    },
+    {
+      "name": "中考听力-p99-2020年湖北省襄阳市中考英语听力.mp3",
+      "sizeMiB": 19.85,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/zhongkao-listening-audio-v1/-p99-2020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p99-2020%E5%B9%B4%E6%B9%96%E5%8C%97%E7%9C%81%E8%A5%84%E9%98%B3%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p99-2020%E5%B9%B4%E6%B9%96%E5%8C%97%E7%9C%81%E8%A5%84%E9%98%B3%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p99-2020%E5%B9%B4%E6%B9%96%E5%8C%97%E7%9C%81%E8%A5%84%E9%98%B3%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B/%E4%B8%AD%E8%80%83%E5%90%AC%E5%8A%9B-p99-2020%E5%B9%B4%E6%B9%96%E5%8C%97%E7%9C%81%E8%A5%84%E9%98%B3%E5%B8%82%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B.recx"
+        }
+      }
+    }
+  ]
+}

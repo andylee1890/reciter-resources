@@ -1,0 +1,932 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-10T17:52:39.435674Z",
+  "tag": "cet4-listening-audio-v1",
+  "title": "CET4听力",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/考试/CET4听力真题",
+  "createdAt": "2026-09-11 01:00:56 +0800",
+  "poster": {
+    "id": "cet4-listening",
+    "kind": "collection-cover",
+    "sourceType": "prepared-cover",
+    "original": {
+      "path": "artwork/posters/cet4-listening.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cet4-listening.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/cet4-listening.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/cet4-listening.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet4-listening.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet4-listening.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "sourceSize": {
+        "width": 800,
+        "height": 800
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/cet4-listening-audio-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 49,
+  "totalSizeMiB": 151.92,
+  "audio": [
+    {
+      "name": "CET4-p01-2026年6月四级真题（第二套）.mp3",
+      "sizeMiB": 3.56,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p01-2026.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p01-2026%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p01-2026%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p01-2026%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p01-2026%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p02-2026年6月四级真题（第一套）.mp3",
+      "sizeMiB": 3.56,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p02-2026.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p02-2026%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p02-2026%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p02-2026%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p02-2026%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p03-2025年12月四级真题（第二套）.mp3",
+      "sizeMiB": 2.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p03-2025.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p03-2025%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p03-2025%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p03-2025%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p03-2025%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p04-2025年12月四级真题（第一套）.mp3",
+      "sizeMiB": 2.43,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p04-2025.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p04-2025%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p04-2025%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p04-2025%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p04-2025%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p05-2025年6月四级真题（第二套）.mp3",
+      "sizeMiB": 3.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p05-2025.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p05-2025%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p05-2025%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p05-2025%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p05-2025%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p06-2025年6月四级真题（第一套）.mp3",
+      "sizeMiB": 3.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p06-2025.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p06-2025%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p06-2025%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p06-2025%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p06-2025%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p07-2024年12月四级真题（第二套）.mp3",
+      "sizeMiB": 2.9,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p07-2024.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p07-2024%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p07-2024%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p07-2024%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p07-2024%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p08-2024年12月四级真题（第一套）.mp3",
+      "sizeMiB": 2.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p08-2024.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p08-2024%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p08-2024%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p08-2024%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p08-2024%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p09-2024年6月四级真题（第二套）.mp3",
+      "sizeMiB": 3.87,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p09-2024.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p09-2024%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p09-2024%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p09-2024%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p09-2024%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p10-2024年6月四级真题（第一套）.mp3",
+      "sizeMiB": 4.04,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p10-2024.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p10-2024%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p10-2024%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p10-2024%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p10-2024%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p11-2023年12月四级真题（第二套）.mp3",
+      "sizeMiB": 2.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p11-2023.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p11-2023%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p11-2023%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p11-2023%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p11-2023%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p12-2023年12月四级真题（第一套）.mp3",
+      "sizeMiB": 3.04,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p12-2023.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p12-2023%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p12-2023%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p12-2023%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p12-2023%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p13-2023年6月四级真题（第二套）.mp3",
+      "sizeMiB": 2.99,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p13-2023.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p13-2023%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p13-2023%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p13-2023%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p13-2023%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p14-2023年6月四级真题（第一套）.mp3",
+      "sizeMiB": 2.48,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p14-2023.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p14-2023%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p14-2023%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p14-2023%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p14-2023%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p15-2023年3月四级真题.mp3",
+      "sizeMiB": 3.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p15-2023.3.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p15-2023%E5%B9%B43%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p15-2023%E5%B9%B43%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p15-2023%E5%B9%B43%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p15-2023%E5%B9%B43%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p16-2022年12月四级真题（第二套）.mp3",
+      "sizeMiB": 2.82,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p16-2022.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p16-2022%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p16-2022%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p16-2022%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p16-2022%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p17-2022年12月四级真题（第一套）.mp3",
+      "sizeMiB": 3.25,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p17-2022.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p17-2022%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p17-2022%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p17-2022%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p17-2022%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p18-2022年9月四级真题.mp3",
+      "sizeMiB": 3.46,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p18-2022.9.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p18-2022%E5%B9%B49%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p18-2022%E5%B9%B49%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p18-2022%E5%B9%B49%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p18-2022%E5%B9%B49%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p19-2022年6月四级真题.mp3",
+      "sizeMiB": 3.25,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p19-2022.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p19-2022%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p19-2022%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p19-2022%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p19-2022%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p20-2021年12月四级真题（第二套）.mp3",
+      "sizeMiB": 3.01,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p20-2021.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p20-2021%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p20-2021%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p20-2021%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p20-2021%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p21-2021年12月四级真题（第一套）.mp3",
+      "sizeMiB": 3.1,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p21-2021.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p21-2021%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p21-2021%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p21-2021%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p21-2021%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p22-2021年6月四级真题（第二套）.mp3",
+      "sizeMiB": 3.01,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p22-2021.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p22-2021%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p22-2021%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p22-2021%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p22-2021%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p23-2021年6月四级真题（第一套）.mp3",
+      "sizeMiB": 3.11,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p23-2021.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p23-2021%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p23-2021%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p23-2021%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p23-2021%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p24-2020年12月四级真题（第二套）.mp3",
+      "sizeMiB": 2.42,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p24-2020.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p24-2020%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p24-2020%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p24-2020%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p24-2020%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p25-2020年12月四级真题（第一套）.mp3",
+      "sizeMiB": 2.71,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p25-2020.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p25-2020%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p25-2020%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p25-2020%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p25-2020%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p26-2020年9月四级真题（第二套）.mp3",
+      "sizeMiB": 2.63,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p26-2020.9.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p26-2020%E5%B9%B49%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p26-2020%E5%B9%B49%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p26-2020%E5%B9%B49%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p26-2020%E5%B9%B49%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p27-2020年9月四级真题.mp3",
+      "sizeMiB": 2.63,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p27-2020.9.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p27-2020%E5%B9%B49%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p27-2020%E5%B9%B49%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p27-2020%E5%B9%B49%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p27-2020%E5%B9%B49%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p28-2019年12月四级真题（第二套）.mp3",
+      "sizeMiB": 3.53,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p28-2019.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p28-2019%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p28-2019%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p28-2019%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p28-2019%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p29-2019年12月四级真题（第一套）.mp3",
+      "sizeMiB": 2.43,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p29-2019.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p29-2019%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p29-2019%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p29-2019%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p29-2019%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p30-2019年6月四级真题（第二套）.mp3",
+      "sizeMiB": 3.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p30-2019.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p30-2019%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p30-2019%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p30-2019%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p30-2019%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p31-2019年6月四级真题（第一套）.mp3",
+      "sizeMiB": 2.67,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p31-2019.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p31-2019%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p31-2019%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p31-2019%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p31-2019%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p32-2018年12月四级真题（第二套）.mp3",
+      "sizeMiB": 3.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p32-2018.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p32-2018%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p32-2018%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p32-2018%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p32-2018%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p33-2018年12月四级真题（第一套）.mp3",
+      "sizeMiB": 2.55,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p33-2018.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p33-2018%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p33-2018%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p33-2018%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p33-2018%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p34-2018年6月四级真题（第二套）.mp3",
+      "sizeMiB": 2.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p34-2018.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p34-2018%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p34-2018%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p34-2018%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p34-2018%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p35-2018年6月四级真题（第一套）.mp3",
+      "sizeMiB": 2.53,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p35-2018.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p35-2018%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p35-2018%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p35-2018%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p35-2018%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p36-2017年12月四级真题（第二套）.mp3",
+      "sizeMiB": 3.21,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p36-2017.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p36-2017%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p36-2017%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p36-2017%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p36-2017%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p37-2017年12月四级真题（第一套）.mp3",
+      "sizeMiB": 2.44,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p37-2017.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p37-2017%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p37-2017%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p37-2017%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p37-2017%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p38-2017年6月四级真题（第二套）.mp3",
+      "sizeMiB": 2.91,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p38-2017.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p38-2017%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p38-2017%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p38-2017%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p38-2017%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p39-2017年6月四级真题（第一套）.mp3",
+      "sizeMiB": 2.61,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p39-2017.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p39-2017%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p39-2017%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p39-2017%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p39-2017%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p40-2016年12月四级真题（第二套）.mp3",
+      "sizeMiB": 2.99,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p40-2016.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p40-2016%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p40-2016%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p40-2016%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p40-2016%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p41-2016年12月四级真题（第三套）.mp3",
+      "sizeMiB": 3.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p41-2016.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p41-2016%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%89%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p41-2016%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%89%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p41-2016%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%89%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p41-2016%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%89%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p42-2016年12月四级真题（第一套）.mp3",
+      "sizeMiB": 4.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p42-2016.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p42-2016%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p42-2016%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p42-2016%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p42-2016%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p43-2016年6月四级真题（第二套）.mp3",
+      "sizeMiB": 3.11,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p43-2016.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p43-2016%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p43-2016%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p43-2016%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p43-2016%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p44-2016年6月四级真题（第一套）.mp3",
+      "sizeMiB": 4.24,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p44-2016.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p44-2016%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p44-2016%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p44-2016%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p44-2016%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p45-2015年12月四级真题（第二套）.mp3",
+      "sizeMiB": 2.46,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p45-2015.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p45-2015%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p45-2015%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p45-2015%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p45-2015%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p46-2015年12月四级真题（第一套）.mp3",
+      "sizeMiB": 4.47,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p46-2015.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p46-2015%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p46-2015%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p46-2015%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p46-2015%E5%B9%B412%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p47-2015年6月四级真题（第二套）.mp3",
+      "sizeMiB": 2.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p47-2015.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p47-2015%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p47-2015%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p47-2015%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p47-2015%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p48-2015年6月四级真题（第三套）.mp3",
+      "sizeMiB": 3.03,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p48-2015.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p48-2015%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%89%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p48-2015%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%89%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p48-2015%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%89%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p48-2015%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%89%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    },
+    {
+      "name": "CET4-p49-2015年6月四级真题（第一套）.mp3",
+      "sizeMiB": 4.16,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/cet4-listening-audio-v1/CET4-p49-2015.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p49-2015%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p49-2015%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p49-2015%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/%E8%80%83%E8%AF%95/CET4%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98/CET4-p49-2015%E5%B9%B46%E6%9C%88%E5%9B%9B%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%80%E5%A5%97%EF%BC%89.recx"
+        }
+      }
+    }
+  ]
+}

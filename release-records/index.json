@@ -1,6 +1,6 @@
 {
   "schemaVersion": 6,
-  "generatedAt": "2026-09-09T18:25:39.774030Z",
+  "generatedAt": "2026-09-10T17:52:39.435674Z",
   "repository": "andylee1890/reciter-resources",
   "posterIndex": {
     "path": "artwork/posters/index.json",
@@ -2629,6 +2629,130 @@
       "usedBy": "senior-high-school-listening-audio-v1"
     },
     {
+      "id": "cet4-listening",
+      "kind": "collection-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/cet4-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cet4-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/cet4-listening.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/cet4-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet4-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet4-listening.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 800,
+          "height": 800
+        }
+      },
+      "usedBy": "cet4-listening-audio-v1"
+    },
+    {
+      "id": "cet6-listening",
+      "kind": "collection-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/cet6-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cet6-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/cet6-listening.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/cet6-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet6-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet6-listening.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 733,
+          "height": 1000
+        }
+      },
+      "usedBy": "cet6-listening-audio-v1"
+    },
+    {
+      "id": "zhongkao-listening",
+      "kind": "collection-cover",
+      "sourceType": "user-provided-local-image",
+      "original": {
+        "path": "artwork/posters/junior-high-school-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/junior-high-school-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/junior-high-school-listening.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/junior-high-school-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/junior-high-school-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/junior-high-school-listening.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.056696,
+          "width": 1.0,
+          "height": 0.886607
+        },
+        "sourceSize": {
+          "width": 993,
+          "height": 1400
+        }
+      },
+      "usedBy": "zhongkao-listening-audio-v1"
+    },
+    {
+      "id": "gaokao-listening",
+      "kind": "collection-cover",
+      "sourceType": "user-provided-local-image",
+      "original": {
+        "path": "artwork/posters/senior-high-school-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/senior-high-school-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/senior-high-school-listening.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/senior-high-school-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/senior-high-school-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/senior-high-school-listening.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.058036,
+          "width": 1.0,
+          "height": 0.883929
+        },
+        "sourceSize": {
+          "width": 990,
+          "height": 1400
+        }
+      },
+      "usedBy": "gaokao-listening-audio-v1"
+    },
+    {
       "id": "oxford-reading-tree",
       "kind": "book-cover",
       "sourceType": "prepared-cover",
@@ -3402,130 +3526,6 @@
         }
       },
       "usedBy": "graded-reading-moby-dick"
-    },
-    {
-      "id": "cet4-listening",
-      "kind": "collection-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/cet4-listening.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cet4-listening.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/cet4-listening.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/cet4-listening.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet4-listening.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet4-listening.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 800,
-          "height": 800
-        }
-      },
-      "usedBy": "cet4-listening-audio-v1"
-    },
-    {
-      "id": "cet6-listening",
-      "kind": "collection-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/cet6-listening.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cet6-listening.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/cet6-listening.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/cet6-listening.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet6-listening.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet6-listening.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 733,
-          "height": 1000
-        }
-      },
-      "usedBy": "cet6-listening-audio-v1"
-    },
-    {
-      "id": "zhongkao-listening",
-      "kind": "collection-cover",
-      "sourceType": "user-provided-local-image",
-      "original": {
-        "path": "artwork/posters/junior-high-school-listening.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/junior-high-school-listening.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/junior-high-school-listening.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/junior-high-school-listening.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/junior-high-school-listening.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/junior-high-school-listening.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.056696,
-          "width": 1.0,
-          "height": 0.886607
-        },
-        "sourceSize": {
-          "width": 993,
-          "height": 1400
-        }
-      },
-      "usedBy": "zhongkao-listening-audio-v1"
-    },
-    {
-      "id": "gaokao-listening",
-      "kind": "collection-cover",
-      "sourceType": "user-provided-local-image",
-      "original": {
-        "path": "artwork/posters/senior-high-school-listening.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/senior-high-school-listening.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/senior-high-school-listening.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/senior-high-school-listening.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/senior-high-school-listening.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/senior-high-school-listening.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.058036,
-          "width": 1.0,
-          "height": 0.883929
-        },
-        "sourceSize": {
-          "width": 990,
-          "height": 1400
-        }
-      },
-      "usedBy": "gaokao-listening-audio-v1"
     }
   ],
   "courses": [
@@ -4754,6 +4754,108 @@
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/cambridge-ielts-20-listening-v1"
     },
     {
+      "tag": "cet4-listening-audio-v1",
+      "status": "finished",
+      "title": "CET4听力",
+      "first_class": "考试听力",
+      "second_class": "四、六级",
+      "third_class": "CET4听力",
+      "author": "",
+      "createdAt": "2026-09-11 01:00:56 +0800",
+      "audioCount": 49,
+      "totalSizeMiB": 151.92,
+      "detailFile": "cet4-listening-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/cet4-listening-audio-v1.json",
+      "poster": {
+        "id": "cet4-listening",
+        "kind": "collection-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/cet4-listening.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cet4-listening.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/cet4-listening.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/cet4-listening.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet4-listening.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet4-listening.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 800,
+            "height": 800
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/cet4-listening-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/cet4-listening-audio-v1"
+    },
+    {
+      "tag": "cet6-listening-audio-v1",
+      "status": "finished",
+      "title": "CET6听力",
+      "first_class": "考试听力",
+      "second_class": "四、六级",
+      "third_class": "CET6听力",
+      "author": "",
+      "createdAt": "2026-09-11 01:12:58 +0800",
+      "audioCount": 45,
+      "totalSizeMiB": 849.29,
+      "detailFile": "cet6-listening-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/cet6-listening-audio-v1.json",
+      "poster": {
+        "id": "cet6-listening",
+        "kind": "collection-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/cet6-listening.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cet6-listening.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/cet6-listening.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/cet6-listening.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet6-listening.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet6-listening.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 733,
+            "height": 1000
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/cet6-listening-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/cet6-listening-audio-v1"
+    },
+    {
       "tag": "friends-s01-audio-v1",
       "status": "finished",
       "title": "老友记 第1季",
@@ -5342,6 +5444,57 @@
         ]
       },
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/friends-s10-audio-v1"
+    },
+    {
+      "tag": "gaokao-listening-audio-v1",
+      "status": "finished",
+      "title": "高考听力",
+      "first_class": "考试听力",
+      "second_class": "高中听力",
+      "third_class": "高考听力",
+      "author": "",
+      "createdAt": "2026-09-11 01:36:16 +0800",
+      "audioCount": 50,
+      "totalSizeMiB": 863.32,
+      "detailFile": "gaokao-listening-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/gaokao-listening-audio-v1.json",
+      "poster": {
+        "id": "gaokao-listening",
+        "kind": "collection-cover",
+        "sourceType": "user-provided-local-image",
+        "original": {
+          "path": "artwork/posters/senior-high-school-listening.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/senior-high-school-listening.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/senior-high-school-listening.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/senior-high-school-listening.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/senior-high-school-listening.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/senior-high-school-listening.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.058036,
+            "width": 1.0,
+            "height": 0.883929
+          },
+          "sourceSize": {
+            "width": 990,
+            "height": 1400
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/gaokao-listening-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/gaokao-listening-audio-v1"
     },
     {
       "tag": "growing-pains-s01-audio-v1",
@@ -8045,6 +8198,57 @@
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/yes-prime-minister-audio-v1"
     },
     {
+      "tag": "zhongkao-listening-audio-v1",
+      "status": "finished",
+      "title": "中考听力",
+      "first_class": "考试听力",
+      "second_class": "初中听力",
+      "third_class": "中考听力",
+      "author": "",
+      "createdAt": "2026-09-11 01:24:32 +0800",
+      "audioCount": 113,
+      "totalSizeMiB": 1337.02,
+      "detailFile": "zhongkao-listening-audio-v1.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/zhongkao-listening-audio-v1.json",
+      "poster": {
+        "id": "zhongkao-listening",
+        "kind": "collection-cover",
+        "sourceType": "user-provided-local-image",
+        "original": {
+          "path": "artwork/posters/junior-high-school-listening.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/junior-high-school-listening.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/junior-high-school-listening.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/junior-high-school-listening.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/junior-high-school-listening.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/junior-high-school-listening.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.056696,
+            "width": 1.0,
+            "height": 0.886607
+          },
+          "sourceSize": {
+            "width": 993,
+            "height": 1400
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/zhongkao-listening-audio-v1"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/zhongkao-listening-audio-v1"
+    },
+    {
       "tag": "graded-reading-oxford-reading-tree",
       "status": "processing",
       "title": "牛津阅读树 (Oxford Reading Tree)",
@@ -9308,210 +9512,6 @@
           "sourceSize": {
             "width": 327,
             "height": 500
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
-      "tag": "cet4-listening-audio-v1",
-      "status": "processing",
-      "title": "CET4听力",
-      "first_class": "考试听力",
-      "second_class": "四、六级",
-      "third_class": "CET4听力",
-      "author": "",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "cet4-listening",
-        "kind": "collection-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/cet4-listening.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cet4-listening.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/cet4-listening.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/cet4-listening.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet4-listening.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet4-listening.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 800,
-            "height": 800
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
-      "tag": "cet6-listening-audio-v1",
-      "status": "processing",
-      "title": "CET6听力",
-      "first_class": "考试听力",
-      "second_class": "四、六级",
-      "third_class": "CET6听力",
-      "author": "",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "cet6-listening",
-        "kind": "collection-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/cet6-listening.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cet6-listening.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/cet6-listening.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/cet6-listening.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet6-listening.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet6-listening.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 733,
-            "height": 1000
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
-      "tag": "zhongkao-listening-audio-v1",
-      "status": "processing",
-      "title": "中考听力",
-      "first_class": "考试听力",
-      "second_class": "初中听力",
-      "third_class": "中考听力",
-      "author": "",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "zhongkao-listening",
-        "kind": "collection-cover",
-        "sourceType": "user-provided-local-image",
-        "original": {
-          "path": "artwork/posters/junior-high-school-listening.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/junior-high-school-listening.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/junior-high-school-listening.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/junior-high-school-listening.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/junior-high-school-listening.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/junior-high-school-listening.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.056696,
-            "width": 1.0,
-            "height": 0.886607
-          },
-          "sourceSize": {
-            "width": 993,
-            "height": 1400
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
-      "tag": "gaokao-listening-audio-v1",
-      "status": "processing",
-      "title": "高考听力",
-      "first_class": "考试听力",
-      "second_class": "高中听力",
-      "third_class": "高考听力",
-      "author": "",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "gaokao-listening",
-        "kind": "collection-cover",
-        "sourceType": "user-provided-local-image",
-        "original": {
-          "path": "artwork/posters/senior-high-school-listening.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/senior-high-school-listening.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/senior-high-school-listening.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/senior-high-school-listening.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/senior-high-school-listening.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/senior-high-school-listening.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.058036,
-            "width": 1.0,
-            "height": 0.883929
-          },
-          "sourceSize": {
-            "width": 990,
-            "height": 1400
           }
         }
       },
