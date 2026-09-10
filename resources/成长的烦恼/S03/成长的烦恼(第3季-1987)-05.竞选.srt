@@ -1,1920 +1,1659 @@
 1
-00:00:00,920 --> 00:00:06,320
-老师:直角三角形斜边长的平方等于两条直角边长的平方和.
-Teacher: So then the hypotenuse of any right triangle can be found by
+00:00:00,920 --> 00:00:07,560
+So, then, the hypotenuse of any right triangle can be found by squaring each leg,
 
 2
-00:00:06,320 --> 00:00:12,280
-迈克·西维尔!
-squaring each leg summing those totals and then what?Mike Seaver
+00:00:07,800 --> 00:00:10,400
+summing those totals, and then what?
 
 3
-00:00:16,600 --> 00:00:18,500
-迈克:到!
-Mike: Yes, ma'am.
+00:00:11,720 --> 00:00:17,480
+Mike Sieber? Yes, ma 'am?
 
 4
-00:00:18,700 --> 00:00:20,600
-老师:你回答一下我的问题.
-Teacher: I'm waiting for an answer to my question
+00:00:18,700 --> 00:00:20,660
+I'm waiting for an answer to my question.
 
 5
-00:00:20,600 --> 00:00:25,720
-迈克:噢!呃!嗨,错误!
-Mike: Oh, uh, ahem, false!
+00:00:21,120 --> 00:00:22,940
+Oh. Uh... Mm.
 
 6
-00:00:25,720 --> 00:00:28,100
-老师:这道题不是让你判断对错.
-Teacher: This isn't a true/false question.
+00:00:23,460 --> 00:00:28,100
+False. This isn't a true -false question.
 
 7
-00:00:28,300 --> 00:00:33,040
-迈克:那选"D"好了,其他的都是错的.
-Mike: Oh right, 'D' none of the above.
+00:00:28,520 --> 00:00:30,720
+Oh, right. Um...
 
 8
-00:00:33,040 --> 00:00:36,300
-老师:算了吧,迈克!放学后你到我的办公室来一趟,咱们把今天的课补上.
-Teacher: Forget it Mike, I'd like you to stay after school today we'll go over
+00:00:30,720 --> 00:00:31,880
+D, none of the above.
 
 9
-00:00:36,300 --> 00:00:37,460
-the material you've missed
+00:00:32,880 --> 00:00:33,520
+Get it right.
 
 10
-00:00:37,760 --> 00:00:40,600
-迈克:这恐怕不行,列奥希克教练让我去补他的课.
-Mike: Oh gee, I can't.Coach Levocik has me staying after his class today.
+00:00:34,080 --> 00:00:37,140
+I'd like you to stay after school today and we'll go over the material you've
 
 11
-00:00:40,980 --> 00:00:41,980
-老师:那明天吧!
-Teacher: Tomorrow will be fine.
+00:00:37,140 --> 00:00:38,520
+missed. Oh, gee, I can't.
 
 12
-00:00:42,440 --> 00:00:44,200
-迈克:明天也不行,我得去补历史课.
-Mike: No can do, I got detention in history.
+00:00:38,600 --> 00:00:40,600
+Coach Lubbock has me staying after in his class today.
 
 13
-00:00:45,900 --> 00:00:48,100
-老师:行了,周四总可以吧?
-Teacher: Alright, Thursday, then?
+00:00:40,980 --> 00:00:41,980
+Tomorrow will be fine.
 
 14
-00:00:48,740 --> 00:00:49,800
-迈克:老实对你说吧,
-Mike: Ah, look, to tell you the truth Mrs.
+00:00:42,280 --> 00:00:43,040
+Uh, no can do.
 
 15
-00:00:50,060 --> 00:00:53,200
-老师,我这一周天天都得去补课,
-Salinger, my whole week's kinda booked up, but, um,
+00:00:43,120 --> 00:00:44,200
+I got detention in history.
 
 16
-00:00:53,200 --> 00:00:55,260
-下周倒有几天空闲.
-I do have a couple days open next week, though.
+00:00:46,300 --> 00:00:47,880
+All right. Thursday, then?
 
 17
-00:00:57,400 --> 00:01:01,780
-老师:同学们,德威特校长来访,荣幸之至!
-Teacher: Well, class, a visit from Mr.Dewitt, this is an honor indeed.
+00:00:48,340 --> 00:00:49,800
+Uh, look, to tell you the truth, Mrs.
 
 18
-00:01:02,080 --> 00:01:06,600
-德威特校长:别,塞林格老师,我可没心情听这些.
-Mr.Dewitt: Stop sucking up Salinger, I'm in no mood.Where is Mike Seaver?
+00:00:50,060 --> 00:00:51,560
+Salinger, my whole week's kind of booked up.
 
 19
-00:01:07,920 --> 00:01:10,340
-迈克·西维尔在不在?快点出来,就现在.
-Out in the hallway, mister, and I mean now.
+00:00:52,500 --> 00:00:55,260
+But, um, I do have a couple of days open next week, though.
 
 20
-00:01:11,500 --> 00:01:13,360
-迈克:看来下周也没空了.
-Mike: Next week I'll probably be booked up too.
+00:00:57,400 --> 00:00:59,500
+Well, class, a visit from Mr.
 
 21
-00:01:15,400 --> 00:01:17,000
-德威特校长:西维尔先生.
-Mr.Dewitt: Mr.Seaver.
+00:00:59,700 --> 00:01:01,780
+DeWitt. This is an honor indeed.
 
 22
-00:01:17,000 --> 00:01:18,800
-迈克:校长,您如果肯给我机会,我可以把这事解释清楚.
-Mike: Ah, sir, if you just give me a chance I can explain.
+00:01:02,080 --> 00:01:03,420
+Stop sucking up, Salinger.
 
 23
-00:01:19,120 --> 00:01:19,880
-德威特校长:希望如此.
-Mr.Dewitt: I hope so.
+00:01:03,440 --> 00:01:04,240
+I'm in no mood.
 
 24
-00:01:20,740 --> 00:01:23,560
-迈克:我不知道什么事竟然惊动了您,
-Mike: I had no idea something as serious as this would happen and I will
+00:01:05,800 --> 00:01:06,680
+Where's Mike Siever?
 
 25
-00:01:23,560 --> 00:01:24,820
-不过所有损失我一定会照价赔偿.
-pay for all the damages.
+00:01:07,920 --> 00:01:10,340
+Out in the hallway, mister, and I mean now.
 
 26
-00:01:25,800 --> 00:01:27,480
-德威特校长:你说什么?
-Mr.Dewitt: What the gall darn are you talking about?
+00:01:11,500 --> 00:01:13,360
+Next week will probably be booked up, too.
 
 27
-00:01:28,920 --> 00:01:30,480
-迈克:嗯,那您说的是什么?
-Mike: Uh what are you talking about?
+00:01:15,920 --> 00:01:19,000
+Mr. Siever. Uh, sir, if you just give me a chance, I can explain.
 
 28
-00:01:31,160 --> 00:01:31,940
-德威特校长:你先说!
-Mr.Dewitt: You first.
+00:01:19,120 --> 00:01:19,880
+I hope so.
 
 29
-00:01:33,040 --> 00:01:36,820
-迈克:那好,嗯,我很抱歉来这所学校上学.
-Mike: Well, um, I was just kinda apologizing for going to school here.
+00:01:20,260 --> 00:01:24,000
+Um, I had no idea something as serious as this would happen, And then I will pay for
 
 30
-00:01:39,640 --> 00:01:41,040
-德威特校长:现在才说!你说说,以捣蛋出名,天天麻烦不断的你怎么就被学生提名委员会推荐为学生会主席候选人?
-Mr.Dewitt: It's too late for that.
+00:01:24,000 --> 00:01:24,820
+all of the damages.
 
 31
-00:01:41,900 --> 00:01:45,000
-I want you to explain how a boy who is known as the school screw-ball,
+00:01:25,800 --> 00:01:27,480
+What the gull darn are you talking about?
 
 32
-00:01:46,000 --> 00:01:49,980
-a boy who has spent more time sitting outside my office than my secretary,
+00:01:28,920 --> 00:01:30,480
+Uh, what are you talking about?
 
 33
-00:01:49,980 --> 00:01:54,120
-explain how this boy gets picked out by the student nominating committee
+00:01:31,160 --> 00:01:36,820
+You first. Well, um, I was just kind of apologizing for going to school here.
 
 34
-00:01:54,120 --> 00:01:56,860
-to be one of the candidates for student body president?
+00:01:39,640 --> 00:01:41,040
+It's too late for that.
 
 35
-00:01:57,420 --> 00:01:58,900
-迈克:我?学生会主席?
-Mike: Me?In student body government?
+00:01:41,900 --> 00:01:46,720
+I want you to explain how a boy who is known as the school screwball, a boy who has
 
 36
-00:01:59,080 --> 00:01:59,800
-德威特校长:是你搞的鬼吗:
-Mr.Dewitt: It's a mockery!
+00:01:46,720 --> 00:01:51,980
+spent more time sitting outside my office than my secretary, Explain how this boy
 
 37
-00:01:59,800 --> 00:02:00,400
-迈克:不可思议!
-Mike: It stinks!
+00:01:51,980 --> 00:01:55,780
+gets picked by the student nominating committee to be one of the candidates for
 
 38
-00:02:00,700 --> 00:02:01,540
-德威特校长:大家都会怎么想?
-Mr.Dewitt: What will people think?
+00:01:55,780 --> 00:01:56,860
+student body president.
 
 39
-00:02:01,540 --> 00:02:02,200
-迈克:真让人难堪!
-Mike: A total embarrassment!
+00:01:57,420 --> 00:01:58,900
+Me? In student body government?
 
 40
-00:02:02,200 --> 00:02:03,000
-德威特校长:那当然!
-Mr.Dewitt: Absolutely!
+00:01:59,080 --> 00:02:00,140
+It's a mockery.
 
 41
-00:02:03,440 --> 00:02:05,500
-迈克:不仅是我,整个学校的学生都会感到不自在!
-Mike: Not only for me but probably for this whole school, too!
+00:02:00,700 --> 00:02:01,540
+What will people think?
 
 42
-00:02:05,500 --> 00:03:09,700
-德威特校长:这个当然!
-Mr.Dewitt: That...
+00:02:01,540 --> 00:02:02,720
+A total embarrassment.
 
 43
-00:03:10,260 --> 00:03:12,780
-麦琪:开萝尔,这是好事,你应该为你哥哥高兴才是!
-Maggie: Carol, can't you just be happy for your brother?
+00:02:02,800 --> 00:02:05,720
+Absolutely. Not only for me, but for this whole school, too.
 
 44
-00:03:12,780 --> 00:03:16,960
-开萝尔:妈妈,我说过了,
-Carol: Mom, I'm just saying that if any Seaver should be nominated for
+00:02:05,840 --> 00:02:16,080
+That? Show me that smile Ooh, show me that smile Don't waste another minute on your
 
 45
-00:03:16,960 --> 00:03:19,200
-我们家要是有人能被提名为学生会主席,那非我莫属.
-student body president it should be me.
+00:02:16,080 --> 00:02:26,620
+crying We'll know when you'll be in love with you The best is ready to begin Oh, oh
 
 46
-00:03:20,280 --> 00:03:23,320
-杰森:开萝尔:你不觉得这有点像吃不着葡萄就说葡萄酸吗?
-Jason: Now honey, are you sure those just aren't your hurt feelings talking?
+00:02:26,620 --> 00:02:29,840
+As long as we got each other
 
 47
-00:03:23,940 --> 00:03:25,060
-开萝尔:当然不是!
-Carol: Absolutely not!
+00:02:30,540 --> 00:02:39,520
+We got the world spinning right in our hands But you and me We gotta be The luckiest
 
 48
-00:03:26,220 --> 00:03:30,100
-麦琪:开萝尔!很明显,提名委员会能看到迈克的潜力.
-Maggie: Carol, obviously the nominating committee saw beneath Mike's surface.
+00:02:39,520 --> 00:02:48,420
+dreamers who never quit dreaming As long as we keep on giving We can take anything
 
 49
-00:03:31,100 --> 00:03:31,760
-开萝尔:那他们到底发现了什么?
-Carol: And what did they see?
+00:02:48,420 --> 00:02:50,120
+that comes our way.
 
 50
-00:03:32,200 --> 00:03:39,500
-麦琪:嗯,迈克的潜在品质……杰森,你说他们发现了什么?
-Maggie: Well, qualities of umum...Jason, what did they see?
+00:02:50,300 --> 00:02:54,280
+Maybe rain or shine all the time.
 
 51
-00:03:40,100 --> 00:03:41,640
-杰森:这个问题应该由你来回答,亲爱的!
-Jason: This is your point, honey.
+00:02:54,700 --> 00:03:00,620
+We got each other sharing the laughter and love.
 
 52
-00:03:42,920 --> 00:03:46,660
-开萝尔:你们能不能客观点,能不能稍微有点判断力,
-Carol: I mean, isn't there just one person in this house with an scintilla
+00:03:10,260 --> 00:03:12,780
+Carol, can't you just be happy for your brother?
 
 53
-00:03:46,660 --> 00:03:52,580
-能不能公正点,严肃点!
-of objectivity, a granule of judgment be succensible, fairness and decency.
+00:03:12,780 --> 00:03:17,460
+Mom, I'm just saying that if any severs should be nominated for student body
 
 54
-00:03:56,260 --> 00:03:57,860
-杰森:我想这是不可能了.
-Jason: My guess would be no.
+00:03:17,460 --> 00:03:19,200
+president, it should be me.
 
 55
-00:03:59,980 --> 00:04:02,720
-迈克:大家知道我被提名后,
-Mike: When word gets out that I have been nominated people are gonna start
+00:03:20,280 --> 00:03:23,320
+Now, honey, are you sure those aren't just your hurt feelings talking?
 
 56
-00:04:02,720 --> 00:04:06,900
-都开始觉得我是个颇有担当的可造之材.
-accusing me of being a hard working responsible young adult.
+00:03:23,940 --> 00:03:29,660
+Absolutely not. Carol, obviously the nominating committee saw beneath Mike's
 
 57
-00:04:06,900 --> 00:04:10,800
-波纳:嘿,这比我想的糟糕多了.
-Boner: Geez, this is worse than we thought.
+00:03:29,660 --> 00:03:31,760
+surface. And what did they see?
 
 58
-00:04:11,120 --> 00:04:13,780
-Friend: You know Seave, you're turning into a regular Michael J.Fox
+00:03:33,040 --> 00:03:35,200
+Well, qualities of, um...
 
 59
-00:04:16,520 --> 00:04:20,180
-迈克:得了吧,从小到大我可从没有好好学习过,
-Mike: Hey look, I have not worked since Kindergarten on my party animal
+00:03:36,640 --> 00:03:38,780
+um... Jason, what did they see?
 
 60
-00:04:20,180 --> 00:04:21,800
-怎么会有人这么称呼我呢.
-image to have it all flushed down the toilet.
+00:03:40,100 --> 00:03:41,640
+This is your point, honey.
 
 61
-00:04:21,800 --> 00:04:24,400
-波纳:迈克,那你干嘛不退出?
-Boner: Mikey, why don't you just drop out?
+00:03:41,720 --> 00:03:47,820
+Oh. Wait, isn't there just one person in this house with a scintilla of objectivity,
 
 62
-00:04:24,940 --> 00:04:27,420
-迈克:为什么要退出,我已经是候选人了,
-Mike: I can't drop out, my name is already on the ballot.
+00:03:48,140 --> 00:03:52,880
+a granule of judgment, basic sense of fairness and decency of...
 
 63
-00:04:27,660 --> 00:04:30,300
-那岂不被人看扁.
-If I drop out now I'll be a weenie on top of everything else.
+00:03:56,260 --> 00:03:57,860
+My guess would be no.
 
 64
-00:04:31,060 --> 00:04:32,820
-朋友:这他妈的是什么狗屁建议.
-Friend: What a stupid suggestion.
+00:03:59,980 --> 00:04:03,620
+When word gets out that I have been nominated, people are gonna start accusing me of
 
 65
-00:04:33,060 --> 00:04:35,280
-波纳:是吗?我指的不是要他退出竞选,
-Boner: Oh yeah?I wasn't talking about dropping out of the elections,
+00:04:03,620 --> 00:04:06,900
+being a... a hardworking, responsible young adult.
 
 66
-00:04:35,340 --> 00:04:37,840
-我是要他别在这所学校念了,这下谁是蠢才啊?
-I was talking about dropping out of school, now who's stupid?
+00:04:07,780 --> 00:04:09,500
+Gee, this is worse than we thought.
 
 67
-00:04:38,800 --> 00:04:41,700
-(电话铃声)
-(phone rings)
+00:04:11,120 --> 00:04:13,460
+You know, Sam, you're turning into a regular Michael J.
 
 68
-00:04:42,540 --> 00:04:48,980
-迈克:你好!说话啊,
-Mike: Hello?Speaking, who's this?The Schwartz twins?
+00:04:13,560 --> 00:04:20,600
+Fox. Hey, look, I have not worked since kindergarten on my party animal image to
 
 69
-00:04:51,320 --> 00:04:53,140
-你是谁?施瓦兹双胞胎姐妹?你们俩都在?
-I have both of you on the line?
+00:04:20,600 --> 00:04:22,080
+have it all flush down the toilet.
 
 70
-00:04:53,300 --> 00:04:54,400
-朋友:嗨,波纳!我看你还是出去的好!
-Friend: Ah, Bone, you're left out.
+00:04:22,600 --> 00:04:24,080
+Mike, why don't you just drop out?
 
 71
-00:04:54,980 --> 00:04:56,220
-迈克:还有辛迪·鲍尔?
-Mike: And Cindy Bauer, too?
+00:04:24,940 --> 00:04:26,140
+I can't drop out.
 
 72
-00:04:56,300 --> 00:04:58,020
-波纳:波纳又回来啦!
-Boner: The Bone is back in.
+00:04:26,160 --> 00:04:27,420
+My name is already on the ballot.
 
 73
-00:05:00,380 --> 00:05:02,100
-迈克:是谁告诉你们我被提名了?实际上我还没有决定是否参选!
-Mike: Ah, well, who told you ladies that I was a candidate?
+00:04:27,660 --> 00:04:30,300
+If I drop out now, I'll be a weenie on top of everything else.
 
 74
-00:05:03,220 --> 00:05:11,040
-你们都真的为我助选?
-Well I haven't actually decided if what?You would?All of you?
+00:04:31,060 --> 00:04:32,820
+What a stupid suggestion.
 
 75
-00:05:12,700 --> 00:05:19,860
-你们太让人感动了,谢谢,
-Well I'm I'm I'm moved.Uh, ok, you too, bye bye.
+00:04:33,060 --> 00:04:35,280
+Oh, yeah? I wasn't talking about dropping out of the elections.
 
 76
-00:05:21,480 --> 00:05:25,300
-谢谢你们,
-The Schwartz twins said that they are willing to do anything to help us
+00:04:35,340 --> 00:04:36,780
+I was talking about dropping out of school.
 
 77
-00:05:25,300 --> 00:05:26,360
-再见!施瓦兹双胞胎姐妹愿意全力助我竞选!!
-out with my campaign.
+00:04:36,960 --> 00:04:37,840
+Now who's stupid?
 
 78
-00:05:26,500 --> 00:05:31,200
-大家:噢耶!
-ALL: Yeah!
+00:04:42,540 --> 00:04:45,980
+Hello? Speaking. Who's this?
 
 79
-00:05:32,500 --> 00:05:35,920
-德威特校长:现在我向大家介绍本次学生会主席的候选人.第一位是我校橄榄球队的四分卫,
-Mr.Dewitt: Ok, this brings us to the candidates for student body president.
+00:04:47,660 --> 00:04:48,980
+The Schwartz twins?
 
 80
-00:05:39,240 --> 00:05:44,400
-三次名列学校的光荣榜,
-Our first candidate is quarterback of the varsity football team,
+00:04:51,320 --> 00:04:53,140
+I have both of you on the line.
 
 81
-00:05:44,700 --> 00:05:46,700
-曾获全勤奖,
-three time member of the honor roll,
+00:04:53,640 --> 00:04:54,600
+Oh, Bone, you're out.
 
 82
-00:05:47,160 --> 00:05:52,100
-他就是罗伯特·乔丹.他的竞争对手是"大名鼎鼎"的迈克·西维尔,
-and recipient of the perfect attendance award, Robert Jordan.
+00:04:54,980 --> 00:04:56,220
+And Cindy Bauer too.
 
 83
-00:05:57,600 --> 00:06:07,400
-下面先请西维尔先生讲话.记住,
-His opponent, lord knows why, is Mike Seaver.We'll hear first from Mr.
+00:04:56,300 --> 00:04:58,020
+The Bone is back in.
 
 84
-00:06:09,520 --> 00:06:11,120
-不要讲脏话.
-Seaver.You watch your language, mister.
+00:04:59,540 --> 00:05:02,100
+Uh, Will, who told you ladies that I was a candidate?
 
 85
-00:06:11,860 --> 00:06:15,780
-迈克:谢谢,我衷心感谢大家的信任,德威特校长.
-Mike: Thank you, thank you, I mean that very, very sincerely Mr.Dewitt.
+00:05:03,220 --> 00:05:05,320
+Well, I haven't actually decided.
 
 86
-00:06:20,660 --> 00:06:28,580
-众女生:迈克·西维尔是学生会主席的最佳人选,请大家投他一票.
-Girls: Hit it Girls!Okay!Michael Seaver he's our man, vote for him, please oh
+00:05:06,200 --> 00:05:07,820
+What? I'm not sure.
 
 87
-00:06:28,580 --> 00:06:28,880
-please
+00:05:07,820 --> 00:05:11,040
+You would? All of you?
 
 88
-00:06:34,120 --> 00:06:35,640
-迈克:实际上她们不是诗人.为什么我要竞选学生会主席呢?
-Mike: Okay, they're not poets.
+00:05:12,220 --> 00:05:14,580
+Uh, well, I'm, um...
 
 89
-00:06:38,140 --> 00:06:41,580
-为名声,为钱,
-Now why would a dude like me want to be your student body president?
+00:05:14,580 --> 00:05:18,000
+I'm moved. Uh, okay.
 
 90
-00:06:42,100 --> 00:06:50,700
-为权,没错就是为了权?
-Is it the fame?The money, the power?It's the power.Just kidding.
+00:05:18,300 --> 00:05:19,040
+Yeah, you too.
 
 91
-00:06:51,220 --> 00:06:53,660
-开个玩笑,好了,我该说些什么呢,
-Now, what can I tell you people, you all know me.
+00:05:19,580 --> 00:05:25,480
+Bye -bye. The Schwartz twins say that they are willing to do anything to help us out
 
 92
-00:06:53,760 --> 00:06:56,300
-老实说你们都了解我,也知道我拥护什么,
-You know what I'm all about and you know what I stand for.
+00:05:25,480 --> 00:05:26,360
+with my campaign.
 
 93
-00:06:56,800 --> 00:06:58,100
-不管怎么样,请大家投我一票.
-And I ask you to overlook all that and vote for me anyway.
+00:05:27,600 --> 00:05:35,920
+Yeah! Okay, this brings us to the candidates for student body president.
 
 94
-00:06:58,100 --> 00:07:12,700
-众女生:选迈克!一定要选迈克!他是学生会主席的不二人选!
-Girls: Mike!Vote for him!We're gonna vote!He just might be okay.
+00:05:39,240 --> 00:05:45,660
+Our first candidate is quarterback of the varsity football team, three -time member
 
 95
-00:07:13,240 --> 00:07:18,540
-德威特校长:谢谢你那些振奋人心的言辞.下面有请乔丹先生
-Mr.Dewitt: Thank you for those stirring words.Now let's hear from Mr.Jordan.
+00:05:45,660 --> 00:05:52,100
+of the honor roll, and recipient of the perfect attendance award, Robert Jordan.
 
 96
-00:07:23,920 --> 00:07:28,620
-罗伯特:谢谢德威特校长.女士们,先生们,各位同学,大家好!
-Robert: Thank you Mr.Dewitt.Ladies and gentlemen, fellow hooters.
+00:05:57,600 --> 00:06:03,300
+His opponent, Lord knows why, is Mike Zever.
 
 97
-00:07:28,880 --> 00:07:30,780
-朋友:迈克,你的演讲很不错嘛!
-Friend: Way to go out there, Mikey!
+00:06:05,040 --> 00:06:07,400
+We'll hear first from Mr.
 
 98
-00:07:31,500 --> 00:07:32,300
-迈克:这小子倒肯花心思,
-Mike: Can you get a load of this guy?
+00:06:07,600 --> 00:06:11,120
+Siever. You watch your language, mister.
 
 99
-00:07:32,460 --> 00:07:34,720
-你看看竞选传单上竟然还附送巧克力!!
-He's just handing out campaign tags with candy bars.
+00:06:11,860 --> 00:06:12,820
+Thank you, thank you.
 
 100
-00:07:34,800 --> 00:07:37,300
-波纳:嗯…真好吃!
-Boner: Mmm, yeah...
+00:06:12,840 --> 00:06:14,900
+I mean that very, very sincerely, Mr.
 
 101
-00:07:40,320 --> 00:07:41,720
-罗伯特:无论如何,
-Robert: All good reasons,
+00:06:15,780 --> 00:06:21,160
+DeWitt. Hey, girls!
 
 102
-00:07:42,240 --> 00:07:46,440
-我们决不能把学生会交付给迈克,
-but we can ill-afford to turn over the student council to someone who's
+00:06:21,380 --> 00:06:23,610
+Okay! Michael Siever!
 
 103
-00:07:46,440 --> 00:07:50,040
-这家伙被老师关学的时间比我们谁都多.大家再瞧瞧他旁边的竞选伙伴,
-logged more time in detention than most of us have in our regular classes.
+00:06:24,400 --> 00:06:25,620
+He's our man!
 
 104
-00:07:52,600 --> 00:07:56,080
-原来就是和他同样大名鼎鼎的理查德·斯特伯尼,
-And look who he's chosen for his running mate, Richard Stabone,
+00:06:25,960 --> 00:06:27,240
+Vote for him!
 
 105
-00:07:56,300 --> 00:07:57,800
-人称……
-known to one and all as.
+00:06:27,640 --> 00:06:28,880
+Please, oh please!
 
 106
-00:07:57,800 --> 00:08:04,900
-众学生:波纳!!
-Crowd: The Boner!
+00:06:34,120 --> 00:06:35,640
+Okay, they're not poets.
 
 107
-00:08:05,440 --> 00:08:10,080
-罗伯特:我猜想迈克·西维尔一定认为竞选学生会主席很有趣.
-Robert: I bet Mike Seaver thinks it's pretty funny.He can be your president.
+00:06:38,140 --> 00:06:41,580
+Now why would a dude like me want to be your student body president?
 
 108
-00:08:10,780 --> 00:08:13,340
-不过他好像并不知道要是让他如愿以偿,
-What he doesn't realize though is if he is elected president the joke
+00:06:42,100 --> 00:06:45,040
+Is it the fame, the money, the power?
 
 109
-00:08:13,340 --> 00:08:20,280
-那我们可就成了蠢才.大家可以不相信我的话,
-will be on all of us.But, you don't have to take my word for it.
+00:06:46,020 --> 00:06:46,960
+It's the power.
 
 110
-00:08:20,420 --> 00:08:22,600
-最了解迈克的该是他的妹妹,
-Who would know him better than his own sister,
+00:06:49,840 --> 00:06:52,740
+Just kidding. Now, what can I tell you people?
 
 111
-00:08:22,600 --> 00:08:25,420
-优等生开萝尔·西维尔!
-my colleague from the honor society, Carol Seaver.
+00:06:52,800 --> 00:06:56,300
+You all know me, you know what I'm all about, and you know what I stand for.
 
 112
-00:08:26,500 --> 00:08:28,600
-请问开萝尔这次选举你打算支持我还是支持他?
-Carol, who are you supporting in this election?
+00:06:56,800 --> 00:06:59,060
+I ask you to overlook all that and vote for me anyway.
 
 113
-00:08:29,260 --> 00:08:31,840
-开萝尔:呃,这个我还没决定!
-Carol: Uh, well I haven't decided yet.
+00:07:00,980 --> 00:07:03,960
+And I like my boat for him.
 
 114
-00:08:33,880 --> 00:08:36,440
-罗伯特:不好意思,开萝尔!!
-Robert: Right, sorry, Carol, didn't mean to put you on the spot like that.
+00:07:04,140 --> 00:07:07,580
+With enough boats, he just might be okay.
 
 115
-00:08:37,000 --> 00:08:38,200
-我不是有意让你为难!现在我想问问迈克,
-Anyway, my point is,
+00:07:13,240 --> 00:07:15,820
+Thank you for those stirring words.
 
 116
-00:08:38,260 --> 00:08:42,100
-如果连自己的亲妹妹都没打算支持你,那你还不好好掂量掂量自己?
-how bad a candidate can you be if your own sister won't even vote for you?
+00:07:16,600 --> 00:07:18,220
+Now let's hear from Mr.
 
 117
-00:08:42,100 --> 00:08:44,400
-开萝尔:什么?他怎能这样?
-Carol: What?Why did he do that to me?
+00:07:18,340 --> 00:07:25,220
+Jordan. Thank you, Mr.
 
 118
-00:08:44,700 --> 00:08:46,420
-朋友:我本以为你不支持你哥哥呢.
-Friend: I thought you wanted your brother to lose.
+00:07:25,360 --> 00:07:30,780
+DeWitt. Ladies and gentlemen, fellow Hooters, way to go out there, Mikey.
 
 119
-00:08:46,580 --> 00:08:48,960
-开萝尔:没错,我希望他在众人面前出个大洋相,
-Carol: That's right, but I wanted him totally humiliated but I didn't
+00:07:31,040 --> 00:07:32,300
+Thanks, man. Would you get a load of this guy?
 
 120
-00:08:48,960 --> 00:08:50,060
-可我没想着要伤害他.
-want to hurt his feelings.
+00:07:32,460 --> 00:07:34,720
+He's handing out campaign tags with candy bars.
 
 121
-00:08:50,400 --> 00:08:53,300
-朋友:早知你这么想,我就支持迈克了!
-Friend: If I would've known you cared I would have supported Mike.
+00:07:35,700 --> 00:07:44,980
+Mm, yeah. All good reasons why we can ill afford to turn over the student council to
 
 122
-00:08:54,200 --> 00:08:55,440
-开萝尔:烦着呢!
-Carol: I just feel terrible.
+00:07:44,980 --> 00:07:49,560
+someone who's logged more time in detention than most of us have in our regular
 
 123
-00:08:55,780 --> 00:08:57,160
-朋友:如果你愿意我就支持迈克.
-Friend: I'll support him now if you want.
+00:07:49,560 --> 00:07:54,760
+classes. And look who he's chosen for his running mate.
 
 124
-00:08:57,820 --> 00:08:58,900
-开萝尔:我对不起迈克.
-Carol: I'm a traitor.
+00:07:54,760 --> 00:07:58,300
+Richard Stabone, known to one and all as...
 
 125
-00:08:59,640 --> 00:09:01,360
-朋友:我才不管乔丹能否当选,你知不知道迈克之所以能得到提名,
-Friend: It doesn't matter that he doesn't stand a chance,
+00:07:59,000 --> 00:08:08,100
+The Borg! I bet Mike Siever thinks it's pretty funny.
 
 126
-00:09:01,880 --> 00:09:04,280
-是因为乔丹在提名委员会里有几个好朋友!不过这不关我的事,
-doesn't matter that the only reason he's on the ballot is because Jordan
+00:08:09,020 --> 00:08:10,080
+Ha ha. He could be your president.
 
 127
-00:09:04,280 --> 00:09:07,980
-重要的是我爱你,开萝尔.
-had a few friends who are on the nominating committee.I don't care I love you!
+00:08:10,780 --> 00:08:14,920
+What he doesn't realize, though, is that if he is elected, the joke will be on all
 
 128
-00:09:09,520 --> 00:09:10,760
-开萝尔:你刚才说什么来着?
-Carol: What did you just say?
+00:08:14,920 --> 00:08:16,620
+of us. Hey!
 
 129
-00:09:11,380 --> 00:09:12,600
-朋友:我爱你!
-Friend: I love you!
+00:08:17,760 --> 00:08:20,280
+But you don't have to take my word for it.
 
 130
-00:09:14,800 --> 00:09:16,300
-开萝尔:不是这个!
-Carol: No, the important part.
+00:08:20,420 --> 00:08:22,600
+Who would know him better than his own sister?
 
 131
-00:09:16,820 --> 00:09:21,760
-朋友:迈克能被提名,
-Friend: Oh, the only reason Mike's on the ballot is Jordan had a few friends
+00:08:22,600 --> 00:08:25,640
+My colleague from the Honor Society, Carol Siever.
 
 132
-00:09:21,760 --> 00:09:22,860
-是因为乔丹在提名委员会里有一帮好朋友.
-on the nominating committee.
+00:08:26,500 --> 00:08:28,600
+Carol, who are you supporting in this election?
 
 133
-00:09:23,400 --> 00:09:24,600
-开萝尔:这又是为什么?
-Carol: Why?
+00:08:29,260 --> 00:08:31,840
+Uh, well, I haven't decided yet.
 
 134
-00:09:25,600 --> 00:09:27,780
-朋友:嗯,他需要一个大家都熟悉但没人会选的竞选对手,
-Friend: Well, he needed an opponent who looked popular,
+00:08:33,880 --> 00:08:34,780
+Right, sorry, Carol.
 
 135
-00:09:27,820 --> 00:09:30,300
-所以就选了迈克.
-but that no one takes seriously.The perfect loser.
+00:08:34,900 --> 00:08:36,440
+Didn't mean to put you on the spot like that.
 
 136
-00:09:30,300 --> 00:09:36,000
-开萝尔:果真如此?
-Carol: Really?
+00:08:37,000 --> 00:08:41,280
+Anyway, my point is, how bad a candidate can you be if your own sister won't even
 
 137
-00:09:36,700 --> 00:09:37,580
-德威特校长:谢谢你,
-Mr.Dewitt: Thanks, Bob.
+00:08:41,280 --> 00:08:42,120
+vote for you?
 
 138
-00:09:38,640 --> 00:09:42,260
-鲍勃!
-The computer club will be tallying this year's election electronically
+00:08:42,760 --> 00:08:44,160
+Why did you do that to me?
 
 139
-00:09:42,380 --> 00:09:47,020
-计算机协会将采用计算机统计此次选举结果,所以大家请勿折叠,
-so be sure you don't fold, spindle, or mutilate your ballots.
+00:08:44,700 --> 00:08:46,420
+I thought you wanted your brother to lose.
 
 140
-00:09:48,600 --> 00:09:49,720
-皱卷或损坏自己的选票.
-Assembly dismissed.
+00:08:46,580 --> 00:08:49,600
+That's right, I wanted him totally humiliated, but I didn't want to hurt his
 
 141
-00:09:52,220 --> 00:09:54,280
-迈克:请大家等一等,
-Mike: Uh, hold on a second, please.
+00:08:49,600 --> 00:08:53,400
+feelings. If I wouldn't only care, I would have supported Mike.
 
 142
-00:09:55,020 --> 00:09:58,840
-尽管有人认为我是蠢才一个,但我仍然会积极竞选,
-Um, even though some people may think I'm a bozo,
+00:08:54,200 --> 00:08:55,440
+I just feel terrible.
 
 143
-00:09:59,700 --> 00:10:04,060
-因为我打算全心全意为同学们服务.
-I am in this election because I am a Hooter through and through.
+00:08:55,780 --> 00:08:57,160
+I'll support him now if you want.
 
 144
-00:10:06,120 --> 00:10:07,360
-此外,还要申明的一点是,
-And just for the record,
+00:08:57,820 --> 00:08:58,900
+I'm a traitor.
 
 145
-00:10:07,360 --> 00:10:10,520
-我选择波纳为搭档决不是开玩笑!
-I did not ask Boner to be my running-mate as some kind of joke.
+00:08:59,640 --> 00:09:01,360
+It doesn't matter that he doesn't stand a chance.
 
 146
-00:10:10,900 --> 00:10:15,820
-波纳:好兄弟!我是正大光明赢得这个机会的,对吧,迈克?
-Boner: That's right!I won the coin toss fair and square, right, Mikey?
+00:09:01,720 --> 00:09:04,580
+It doesn't matter that the only reason he's on the ballot is because Jordan had a
 
 147
-00:10:26,800 --> 00:10:27,680
-麦琪:你好啊,班尼!
-Maggie: Hi Benny.
+00:09:04,580 --> 00:09:06,000
+few friends on the nominating committee.
 
 148
-00:10:27,940 --> 00:10:28,500
-本:你好,妈妈!
-Ben: Hi Mom!
+00:09:06,340 --> 00:09:07,260
+I don't care.
 
 149
-00:10:28,960 --> 00:10:30,700
-麦琪:我今天的新闻节目怎么样?
-Maggie: So how did I do on tonight's newscast?
+00:09:07,260 --> 00:09:07,980
+I love you.
 
 150
-00:10:30,700 --> 00:10:32,700
-本:哎吆!!
-Ben: Whoops.
+00:09:09,520 --> 00:09:10,760
+What did you just say?
 
 151
-00:11:08,660 --> 00:11:09,320
-麦琪:没事!!
-Maggie: It's okay.
+00:09:11,380 --> 00:09:12,600
+I love you.
 
 152
-00:11:09,320 --> 00:11:09,420
-本:我正为迈克准备竞选标语,瞧见没?
-Ben: I've been busy making signs for Mike's campaign, see?
+00:09:14,800 --> 00:09:16,300
+No, the important part.
 
 153
-00:11:09,420 --> 00:11:09,520
-麦琪:做得不错!
-Maggie: Good for you.
+00:09:16,820 --> 00:09:22,200
+Oh. The only reason Mike's on the ballot is because Jordan had a few friends on the
 
 154
-00:11:09,520 --> 00:11:09,620
-本:耶!迈克说他一定要把那狂妄自大的罗伯特·乔治打得落花流水,
-Ben: Yeah, he says if it's the last thing he does he's kick Robert George's
+00:09:22,200 --> 00:09:22,860
+nominating committee.
 
 155
-00:11:09,620 --> 00:11:09,720
-而且要让开萝尔好看!
-behind and rub Carol's nose in it.
+00:09:24,580 --> 00:09:29,280
+Why? Well, he needed an opponent who looked popular, but no one takes seriously.
 
 156
-00:11:09,720 --> 00:11:09,820
-麦琪:有意思!
-Maggie: What fun.
+00:09:29,760 --> 00:09:30,560
+The perfect loser.
 
 157
-00:11:09,820 --> 00:11:09,920
-杰森:嗨!不知不觉已经这么晚了!
-Jason: Hi honey, I had no idea it was this late.
+00:09:31,200 --> 00:09:37,580
+Really? Thanks, Bob.
 
 158
-00:11:09,920 --> 00:11:10,020
-麦琪:嗯,你没看我的电视新闻!
-Maggie: Mm-hmm.You missed my newscast.
+00:09:38,640 --> 00:09:43,060
+The computer club will be tallying this year's election electronically, so be sure
 
 159
-00:11:10,020 --> 00:11:10,120
-杰森:开玩笑!我当然看了,
-Jason: Are you kidding?No.
+00:09:43,060 --> 00:09:47,280
+you don't fold, spindle, or mutilate your ballot.
 
 160
-00:11:10,120 --> 00:11:10,220
-本和我两个人一起看的,不信你问问?
-Ben and I were right there on the edge of our chairs, right Ben?
+00:09:48,600 --> 00:09:49,720
+Assembly dismissed.
 
 161
-00:11:10,220 --> 00:11:10,320
-本:爸爸,妈妈已经知道了.
-Ben: Too late Dad, I already told her the truth.
+00:09:52,220 --> 00:09:54,280
+Uh, hold on a second, please.
 
 162
-00:11:10,320 --> 00:11:10,420
-杰森:你怎么讲话老是不挑时候?亲爱的,
-Jason: Why did you have to pick now to tell the truth?
+00:09:55,020 --> 00:09:58,840
+Um, now even though some people may think that I am a bozo,
 
 163
-00:11:10,420 --> 00:11:10,520
-其实我真的很想看,不过……
-Honey, I wanted to watch it, I honestly did.
+00:09:59,700 --> 00:10:04,060
+I am in this election because I am a hooter through and through.
 
 164
-00:11:10,520 --> 00:11:11,700
-麦琪:没事,杰森,我知道你是在忙着做晚饭.
-Maggie: Oh, it's okay sweetheart, you had your hands full making dinner
+00:10:04,300 --> 00:10:10,000
+Oh! And just for the record, I did not ask Boner to be my running mate at some kind
 
 165
-00:11:13,240 --> 00:11:14,300
-杰森:嗯,我们今天出去吃行不行?
-Jason: Yeah, well, we're eating out tonight.
+00:10:10,000 --> 00:10:11,800
+of joke. That's right!
 
 166
-00:11:14,300 --> 00:11:15,500
-麦琪:噢?
-Maggie: Oh?
+00:10:12,380 --> 00:10:14,620
+I won the coin toss fair and square.
 
 167
-00:11:16,780 --> 00:11:19,260
-杰森:是啊,迈克为了忙竞选已经把厨房占用了一晚上.
-Jason: Yeah, well Mike commandeered the kitchen for the campaign.
+00:10:15,060 --> 00:10:20,640
+Right, Mikey? Oh, my God!
 
 168
-00:11:19,800 --> 00:11:20,820
-麦琪:顾左右而言他!!
-Maggie: You're changing the subject.
+00:10:26,800 --> 00:10:28,500
+Hi, Benny. Hi, Mom.
 
 169
-00:11:20,940 --> 00:11:22,440
-杰森:对不起!不过,
-Jason: Yes I am, just in time too.
+00:10:28,960 --> 00:10:31,480
+So how did I do on tonight's newscast?
 
 170
-00:11:23,240 --> 00:11:25,540
-迈克,埃迪和波纳真的在厨房里忙着做标语,
-Yea, he's got Eddie and Boner in there making signs, planning strategies.
+00:10:32,600 --> 00:10:35,200
+Whoops. It's OK.
 
 171
-00:11:26,040 --> 00:11:28,160
-制定竞选策略.他对此次竞选的投入准会让你大吃一惊.
-You won't believe the way he's committed to this election.
+00:10:36,520 --> 00:10:39,440
+I've been busy making signs for Mike's campaign, see?
 
 172
-00:11:28,980 --> 00:11:30,840
-迈克:你现在去把这宣传单复印600份,
-Mike: Alright, alright, I want you to get 600 copies of this made,
+00:10:39,660 --> 00:10:40,400
+Good for you.
 
 173
-00:11:30,960 --> 00:11:33,220
-而且在明早之前保证每个储物柜都有一份.
-and by tomorrow morning we're gonna have one stuffed into every locker.
+00:10:40,900 --> 00:10:44,020
+Yeah, he says if it's the last thing he does, he's going to kick Warpert Jordan's
 
 174
-00:11:33,500 --> 00:11:34,000
-波纳和埃迪:保证完成任务.
-Boner, Eddie: Right.
+00:10:44,020 --> 00:10:45,680
+behind and rub Carol's nose in it.
 
 175
-00:11:35,040 --> 00:11:36,680
-本:你说我连25份都完成不了,那你瞧瞧这是什么?
-Ben: And you said I couldn't do 25 of them.
+00:10:47,620 --> 00:10:50,600
+What fun. Hi, honey.
 
 176
-00:11:39,900 --> 00:11:43,900
-迈克:我舔迈克?!!
-Mike: I lick Mike?
+00:10:50,680 --> 00:10:52,080
+I had no idea it was this late.
 
 177
-00:11:43,900 --> 00:11:45,300
-本:不会吧?
-Ben: What?
+00:10:52,520 --> 00:10:54,800
+Mm -hmm. You missed my newscast.
 
 178
-00:11:47,240 --> 00:11:50,140
-迈克:本,你怎么连单词都不会拼??
-Mike: Ben, you misspelled like on every one of these.
+00:10:55,180 --> 00:10:55,960
+Are you kidding?
 
 179
-00:11:50,540 --> 00:11:52,020
-本:那这些都还能用玛?
-Ben: So, you can't use them?
+00:10:56,660 --> 00:10:59,380
+No, Ben and I were right on the edge of our chairs, right, Ben?
 
 180
-00:11:53,140 --> 00:11:54,260
-波纳:你说呢!!
-Boner: Very humorous.
+00:10:59,500 --> 00:11:00,320
+Too late, Dad.
 
 181
-00:11:59,120 --> 00:12:00,140
-本:那我去改好了!
-Ben: I'll fix them.
+00:11:00,380 --> 00:11:01,840
+I already told her the truth.
 
 182
-00:12:00,140 --> 00:12:01,900
-本:专心点,不要看电视!!
-Mike: Alright, just don't watch TV when you do it, huh, Ben?
+00:11:02,280 --> 00:11:04,020
+Why'd you have to pick now to tell the truth?
 
 183
-00:12:03,140 --> 00:12:04,200
-麦琪:这里是西维尔学生会主席竞选总部?
-Maggie: So this is Seaver for President headquarters?
+00:11:05,700 --> 00:11:07,060
+Honey, I wanted to watch.
 
 184
-00:12:04,200 --> 00:12:05,600
-迈克:是的,妈妈.
-Mike: Yeah, hi Mom.
+00:11:07,200 --> 00:11:07,940
+I honestly did.
 
 185
-00:12:07,440 --> 00:12:08,700
-杰森:嗨!候选人先生,
-Jason: Well, Mr.Candidate,
+00:11:08,180 --> 00:11:09,780
+Oh, it's okay, sweetheart.
 
 186
-00:12:08,700 --> 00:12:10,980
-我们打算去那家有名的株式中国餐馆小吃一顿,你要不要一起去?
-we're going to go for some takeout down at the Choo-ChooLe Mieux BBQ.
+00:11:09,820 --> 00:11:11,540
+You had your hands full making dinner.
 
 187
-00:12:11,600 --> 00:12:14,000
-迈克:呃!我这离不开,妈妈,你出门之前能不能帮我看看这个?
-Mike: Uh, look, before you leave, Mom, you think you can take a look at this?
+00:11:13,240 --> 00:11:14,820
+Yeah, well, we're eating out tonight.
 
 188
-00:12:15,640 --> 00:12:16,420
-麦琪:当然可以,迈克,这是什么?
-Maggie: Sure Mike, what is this?
+00:11:16,120 --> 00:11:19,260
+Oh? Yeah, well, Mike commandeered the kitchen for the campaign.
 
 189
-00:12:16,420 --> 00:12:21,700
-迈克:明天就要举行投票了,在这以前,每个候选人都得发表演讲,所以你得看看这东西写得怎么样.
-Mike: Well, um, the elections are tomorrow and each candidate has to read a speech over the PA system so I thought maybe you could take a look at it and tell me if it's ok.
+00:11:19,800 --> 00:11:20,820
+You're changing the subject.
 
 190
-00:12:23,840 --> 00:12:28,820
-麦琪:好!我是迈克·西维尔,
-Maggie: Sure.I'm Mike Seaver your candidate for student body president.
+00:11:20,940 --> 00:11:22,440
+Yes, I am, just in time, too.
 
 191
-00:12:29,380 --> 00:12:32,040
-竞选学生会主席.
-A lot of you think of me as the guy in the back of the classroom
+00:11:22,800 --> 00:11:25,980
+Yeah, he's got Eddie and Boner in there, the making signs, planning strategy.
 
 192
-00:12:32,040 --> 00:12:34,460
-我知道,很多人都把我看成一个专门在课堂里用胳肢窝装鬼叫的人.
-who makes rude noises with my armpit.
+00:11:26,040 --> 00:11:28,160
+You won't believe the way he's committed to this election.
 
 193
-00:12:37,220 --> 00:12:39,620
-没错,这事我干过.
-Uh, well, ok, maybe I've done that,
+00:11:28,520 --> 00:11:31,460
+All right, all right, I want you to get 600 copies of this made, and by tomorrow
 
 194
-00:12:39,740 --> 00:12:44,120
-虽然我不是优等生,
-maybe I'm not a genius or anything and maybe I'm not a jock but that doesn't
+00:11:31,460 --> 00:11:33,220
+morning we're gonna have one stuffed into every locker.
 
 195
-00:12:44,120 --> 00:12:46,260
-也不是运动员,可这并不代表我不关心学校.
-mean I don't care about Dewey High.
+00:11:33,340 --> 00:11:34,440
+Right. Right. Okay.
 
 196
-00:12:46,800 --> 00:12:50,840
-问问我的朋友们,大家就会知道我是多么关心学校和同学,
-Ask my friends, they'll tell you how much I care about our school and
+00:11:35,040 --> 00:11:37,520
+And you said I couldn't do 25 before.
 
 197
-00:12:50,840 --> 00:12:53,760
-我是一名普通学生,要是大家认为一名极为普通的学生,
-about them.Hey, I'm just one of you guys,
+00:11:42,040 --> 00:11:43,420
+I lick my...
 
 198
-00:12:53,840 --> 00:12:57,480
-也能当选学生会主席,
-and if you think somebody just like you might do a good job as student
+00:11:45,580 --> 00:11:50,140
+What? Ben, you misspelled like on every one of these.
 
 199
-00:12:57,480 --> 00:13:02,560
-就请投我一票,谢谢!!
-body president, I ask for your vote today.Thank you.
+00:11:50,540 --> 00:11:52,020
+So you can't use them?
 
 200
-00:13:04,460 --> 00:13:05,480
-迈克:不太好,是吧??
-Mike: No good, huh?
+00:11:53,140 --> 00:12:00,140
+Very humorous. I'll fix them.
 
 201
-00:13:06,900 --> 00:13:09,720
-麦琪:迈克,写得很不错!!
-Maggie: Mike, I wouldn't change a word of this.
+00:12:00,380 --> 00:12:02,260
+All right, just don't watch TV when you do it, huh, Ben?
 
 202
-00:13:09,720 --> 00:13:11,360
-杰森:胳肢窝除外!
-Jason: Except maybe armpit.
+00:12:03,140 --> 00:12:05,880
+So this is Seaver for President Headquarters?
 
 203
-00:13:12,980 --> 00:13:14,700
-迈克:这点我想过了,
-Mike: You know I was kinda thinking about that,
+00:12:06,080 --> 00:12:06,800
+Yeah, hey, Mom.
 
 204
-00:13:14,720 --> 00:13:16,300
-但我是凭这项绝技才出名的.
-but that's kinda how I'm best known.
+00:12:07,440 --> 00:12:11,440
+Well, Mr. Candidate, we're gonna go for some takeout down at the Choo -Choo Lemieux
 
 205
-00:13:18,320 --> 00:13:20,600
-麦琪:真希望现在还在念高中!!
-Maggie: Oh, I wish I were still in high school.
+00:12:11,440 --> 00:12:15,500
+BBQ. Look, before you leave, Mom, do you think you could take a look at this?
 
 206
-00:13:21,300 --> 00:13:22,000
-杰森:我也这么想!
-Jason: So do I.
+00:12:15,640 --> 00:12:16,480
+Sure, Mike. What is it?
 
 207
-00:13:22,000 --> 00:13:22,600
-麦琪:再见,迈克!
-Maggie: Bye!
+00:12:16,680 --> 00:12:19,620
+Well, the, um, the elections are tomorrow, and each candidate has to read a speech
 
 208
-00:13:22,600 --> 00:13:23,600
-杰森:回见,迈克!
-Jason: Bye bye!See you mike!
+00:12:19,620 --> 00:12:20,320
+over the P.A.
 
 209
-00:13:24,940 --> 00:13:31,340
-迈克:再见,玩得开心点!嗯,
-Mike: Bye bye.Have fun.Alright, rude noises with my armpit.
+00:12:20,380 --> 00:12:23,200
+system, so I thought maybe you could take a look at it and, uh, tell me if it's
 
 210
-00:13:32,640 --> 00:13:35,800
-改改也行,用胳肢窝装鬼叫改成用胳肢窝发出怪声.还行!
-Weird noises with my armpit.Much better.
+00:12:23,200 --> 00:12:28,820
+okay. Sure. I'm Mike Siever, your candidate for student body president.
 
 211
-00:13:37,200 --> 00:13:39,200
-开萝尔:迈克?
-Carol: Mike?
+00:12:29,380 --> 00:12:32,900
+A lot of you think of me as the guy in the back of the classroom who makes rude
 
 212
-00:13:40,720 --> 00:13:43,360
-迈克:我现在真的很忙,没功夫跟你闲谈!
-Mike: Uh, Carol, look I really don't have time to talk to you right now.
+00:12:32,900 --> 00:12:34,460
+noises with my armpit.
 
 213
-00:13:43,560 --> 00:13:44,400
-开萝尔:得了吧.从回家一直到现在,我都等了一晚上了,你还没空?
-Carol: Come on, I've been waiting for you to be alone since I got home.
+00:12:37,220 --> 00:12:39,620
+Uh, well, okay, maybe I've done that.
 
 214
-00:13:44,400 --> 00:13:45,300
-迈克:怎么?
-Mike: Why?
+00:12:39,740 --> 00:12:44,340
+Maybe I'm not a genius or anything, and maybe I'm not a jock, but that doesn't mean
 
 215
-00:13:47,200 --> 00:13:49,640
-开萝尔:我为白天的事向你道歉,
-Carol: Well, to apologize for embarrassing you today,
+00:12:44,340 --> 00:12:46,260
+I don't care about Dewey High.
 
 216
-00:13:49,760 --> 00:13:53,880
-因为我对你这样一个差生居然被提名竞选学生会主席,感到很是不解,
-see I was just mad that somebody as pathetically inadequate as you would
+00:12:46,800 --> 00:12:48,020
+Ask my friends.
 
 217
-00:13:53,880 --> 00:13:55,720
-所以……
-be nominated for student body president.
+00:12:48,400 --> 00:12:51,600
+They'll tell you how much I care about our school and about them.
 
 218
-00:13:55,820 --> 00:13:58,520
-迈克:开萝尔,你这是在向我道歉?
-Mike: Look, Carol, when does the apology start?
+00:12:52,220 --> 00:12:56,360
+Hey, I'm just one of you guys, and if you think somebody just like you might do a
 
 219
-00:13:59,640 --> 00:14:01,220
-开萝尔:我已经说过对不起了.
-Carol: Look, I said I was sorry.
+00:12:56,360 --> 00:13:00,600
+good job as student body president, I ask for your vote today.
 
 220
-00:14:01,340 --> 00:14:03,740
-迈克:嘿!或许你以为我毫无胜算,
-Mike: Hey, look, maybe you don't think stand a chance but the nominating
+00:13:01,420 --> 00:13:05,480
+Thank you. No good, huh?
 
 221
-00:14:03,740 --> 00:14:04,200
-但毕竟我被提名参选.
-committee sure did.
+00:13:06,900 --> 00:13:09,720
+Mike, I wouldn't change a word of this.
 
 222
-00:14:05,980 --> 00:14:09,400
-开萝尔:提名委员会?迈克,有些事你可能还不知道.
-Carol: The nominating committee?Mike, you should know something.
+00:13:09,720 --> 00:13:11,360
+Except maybe armpit.
 
 223
-00:14:09,420 --> 00:14:09,640
-迈克:你该知道我虽然学习不好,但绝非胆小怯懦,
-Mike: No, no, no,
+00:13:12,980 --> 00:13:16,300
+You know, I was kind of thinking about that, but that's kind of how I'm best known.
 
 224
-00:14:09,640 --> 00:14:12,860
-虽然很好多人嘲笑我,
-look you should know that I am not some kind of joke just because people
+00:13:18,320 --> 00:13:20,600
+Oh, I wish I were still in high school.
 
 225
-00:14:12,860 --> 00:14:16,300
-但我会坚持立场,积极竞选.
-are laughing at me.With me.You know what I mean.
+00:13:21,300 --> 00:13:22,020
+So do I.
 
 226
-00:14:17,940 --> 00:14:20,840
-开萝尔:迈克,如果你觉得自己能赢,那你就是个不折不扣的蠢才,明白吗?
-Carol: Mike, if you think you can win you're really stupid, I mean.
+00:13:23,600 --> 00:13:24,900
+Bye. See you, Mike.
 
 227
-00:14:20,980 --> 00:14:23,280
-迈克:我知道提名委员会在捣鬼,
-Mike: Look, look, the nominating committee disagrees,
+00:13:24,940 --> 00:13:26,500
+Bye -bye. Have fun.
 
 228
-00:14:23,360 --> 00:14:25,660
-而且不少成员都是乔丹的死党,
-and a lot of those guys happen to be friends of Jordan.
+00:13:27,660 --> 00:13:31,340
+All right. Rude noises with my armpit.
 
 229
-00:14:26,140 --> 00:14:27,500
-这些你以为我不知道??
-So now who's stupid, Carol?
+00:13:32,640 --> 00:13:34,740
+Weird noises with my armpit.
 
 230
-00:14:30,600 --> 00:14:34,740
-德威特校长:投票正在进行,请大家投出自己的一票!!
-PS: Ok, voting is now taking place in all homerooms.Get out and vote.
+00:13:35,000 --> 00:13:39,540
+Much better. Mike?
 
 231
-00:14:35,340 --> 00:14:36,420
-同时请慎重选择.
-Now, people!
+00:13:40,720 --> 00:13:43,360
+Uh, look, Carol, I really don't have time to talk to you right now.
 
 232
-00:14:37,560 --> 00:14:41,700
-众女生:准备好了吗,姐妹们?
-Girls: Ready, girls?Okay!Mike's our man, he's so cute!
+00:13:43,560 --> 00:13:46,060
+Come on, I've been waiting for you to be alone since I got home.
 
 233
-00:14:41,840 --> 00:14:45,020
-迈克是加油,我们相信你.
-If you need a heart or even a sleeve, he'll be your donor!
+00:13:46,300 --> 00:13:49,640
+Why? Well, to apologize for embarrassing you today.
 
 234
-00:14:45,200 --> 00:14:48,040
-我们恭候候选人迈克差遣!还有我们的二号种子波纳!!
-So let's be kind and overlook Boner!
+00:13:49,760 --> 00:13:54,080
+See, I was just mad that somebody as pathetically inadequate as you would be
 
 235
-00:14:52,540 --> 00:14:53,200
-波纳:谢谢!!谢谢!!!
-Boner: Thank you ladies, thank you.
+00:13:54,080 --> 00:13:55,720
+nominated for student body president.
 
 236
-00:14:53,200 --> 00:14:54,600
-迈克:波纳,投票结果出来啦!
-Mike: Bone, look, you got any more returns in?
+00:13:55,820 --> 00:13:58,520
+Look, Carol, when does the apology start?
 
 237
-00:14:54,600 --> 00:15:06,000
-波纳:慢点念,行不行!一年级的结果是……
-Bone: Alright, alright, give them to me slow.Fresh man we've come so far.
+00:13:59,640 --> 00:14:01,220
+Look, I said I was sorry.
 
 238
-00:15:06,000 --> 00:15:15,800
-迈克:让我来!乔丹191票,西维尔56票.
-Mike: Will you give me that?Jordan 191, Seaver 56.
+00:14:01,340 --> 00:14:04,280
+Hey, look, maybe you don't think I stand a chance, but the nominating committee sure
 
 239
-00:15:17,460 --> 00:15:18,700
-埃迪:迈克,没念错吧?
-Eddie: Mike, you sure?
+00:14:05,980 --> 00:14:07,240
+The nominating committee?
 
 240
-00:15:19,680 --> 00:15:20,640
-迈克:没错!
-Mike: Yeah, that's what it says.
+00:14:08,240 --> 00:14:09,400
+Mike, you should know something.
 
 241
-00:15:21,340 --> 00:15:22,000
-波纳:看看下一个.
-Boner: Read the other one.
+00:14:09,420 --> 00:14:12,860
+No, no, look, you should know that I am not some kind of joke just because people
 
 242
-00:15:22,000 --> 00:15:25,100
-迈克:皮维·赫尔曼64票.
-Mike: Pee Wee Herman 64.
+00:14:12,860 --> 00:14:14,160
+are laughing at me.
 
 243
-00:15:26,980 --> 00:15:28,040
-波纳:他也参选了?
-Boner: I didn't even know he was running.
+00:14:14,480 --> 00:14:16,300
+With me. You know what I mean.
 
 244
-00:15:29,560 --> 00:15:30,960
-埃迪:去看看别的结果出来没.
-Eddie: Go see if you can get any more returns.
+00:14:17,940 --> 00:14:20,500
+Mike, if you think you can win, you're really stupid.
 
 245
-00:15:32,060 --> 00:15:34,280
-众女生:迈克,该不该庆贺你赢得了此次选举?
-Girl: Mike, Mike!would you like to hear my victory cheer?
+00:14:20,680 --> 00:14:24,180
+I mean... Hey, look, look, the nominating committee disagrees, and a lot of those
 
 246
-00:15:35,000 --> 00:15:39,740
-迈克:等会!
-Mike: Maybe later.Maybe Carol's right,
+00:14:24,180 --> 00:14:25,660
+guys happen to be friends of Jordan.
 
 247
-00:15:40,160 --> 00:15:42,960
-开萝尔也许说得没错,
-maybe there is no place in politics for a guy who comes to class with
+00:14:26,140 --> 00:14:27,500
+So now who's stupid, Carol?
 
 248
-00:15:42,960 --> 00:15:44,800
-也许像我这种脖子上围着马桶圈来上课的人没资格搞政治.
-a toilet seat cover around his neck.
+00:14:30,600 --> 00:14:33,340
+Voting is now taking place in all homerooms.
 
 249
-00:15:45,900 --> 00:15:47,900
-埃迪:这是美国人民的损失,迈克!
-Eddie: Well then it's a pretty sad day for America, Michael.
+00:14:33,880 --> 00:14:34,740
+Get out and vote.
 
 250
-00:15:47,900 --> 00:15:55,300
-波纳:二年级的结果出来啦:乔丹115票,西维尔106票.
-Boner: Ok, get this.Ok, sophomore class total.Jordan 115, Seaver 106.
+00:14:35,340 --> 00:14:38,480
+Now, people. Ready, girls?
 
 251
-00:15:56,860 --> 00:15:58,060
-埃迪:嘿,迈克!有进步!
-Eddie: Hey, this is good Mikey!
+00:14:38,640 --> 00:14:41,700
+Okay! I'm Starman, he's so cute!
 
 252
-00:15:58,560 --> 00:15:59,940
-波纳:没错,皮维已经退出竞选了.
-Boney: Yeah, Pee Wee dropped out.
+00:14:41,840 --> 00:14:45,020
+If you need a heart or even a state, he'll be your donor!
 
 253
-00:16:02,000 --> 00:16:03,680
-迈克:但是我还落后不少.
-Mike: Yeah, I'm still way behind.
+00:14:45,200 --> 00:14:48,920
+So let's be kind and overlook boners!
 
 254
-00:16:03,680 --> 00:16:04,200
-埃迪:明白!波纳,再去看看!!
-Eddie: Alright, Bone, go see what else you can get, hey buddy?
+00:14:49,800 --> 00:14:53,600
+Yay! Yay! Thank you, ladies.
 
 255
-00:16:06,020 --> 00:16:08,900
-波纳:嘿!怎么总是叫我去!
-Boner: Hey!How come I gotta do all the stupid grunt work?
+00:14:53,640 --> 00:14:55,360
+Thank you. Ah, fun.
 
 256
-00:16:09,520 --> 00:16:09,800
-埃迪:嗯,你不是说自己想当学生会副主席的吗?
-Eddie: Well, you said you wanted to be vice president, right?
+00:14:55,420 --> 00:14:56,480
+Look, you got any more returns in?
 
 257
-00:16:09,800 --> 00:16:12,600
-波纳:噢-噢-噢!差点忘了!
-Boner: Ooo, right.
+00:14:56,480 --> 00:14:57,540
+Yeah, all right, all right.
 
 258
-00:16:14,240 --> 00:16:15,720
-埃迪:千万别放弃,迈克!
-Eddie: Don't you give up yet Michael.
+00:14:57,540 --> 00:14:58,200
+Give them to me slow.
 
 259
-00:16:16,020 --> 00:16:16,920
-迈克:嗯,你放心!
-Mike: Yeah, right.
+00:15:01,880 --> 00:15:05,360
+Freshmen... re... turns...
 
 260
-00:16:17,940 --> 00:16:19,300
-埃迪:嘿!迈克,你还好吧?
-Eddie: Hey, Mikey, you okay?
+00:15:06,160 --> 00:15:08,480
+so... far. Would you give me that?
 
 261
-00:16:21,980 --> 00:16:24,200
-迈克:兄弟,
-Mike: Hey man, this is no big deal.
+00:15:11,540 --> 00:15:13,340
+Jordan, 191, Siever,
 
 262
-00:16:24,380 --> 00:16:26,240
-这没什么了不起的!
-I mean, who wants to be student body president anyway.
+00:15:14,100 --> 00:15:18,700
+56. Mike, you sure?
 
 263
-00:16:26,420 --> 00:16:31,360
-有谁愿意当学生会主席?之所以参加竞选,
-You know, the only reason I'm in this election is because look,
+00:15:19,220 --> 00:15:20,640
+Yeah, yeah, that's what it says.
 
 264
-00:16:31,380 --> 00:16:33,280
-其实是为了凑个热闹.
-this whole thing is just a joke.
+00:15:21,340 --> 00:15:22,200
+Read the other one.
 
 265
-00:16:34,300 --> 00:16:36,480
-波纳:大伙或许不信,三年级的投票结果出来啦:乔丹64票,
-Boner: You guys aren't gonna believe this one.
+00:15:23,940 --> 00:15:25,400
+Peewee Herman, 64.
 
 266
-00:16:39,300 --> 00:16:41,440
-西维尔198票.
-Junior class total, Jordan 64, Seaver, 198.
+00:15:26,520 --> 00:15:28,040
+Yeah, I didn't even know he was running.
 
 267
-00:16:46,000 --> 00:16:48,500
-众女生:198票,奇迹!!
-Girls: 198 so far and!
+00:15:29,560 --> 00:15:31,160
+Go see if we can get any more returns, huh?
 
 268
-00:16:50,020 --> 00:16:54,280
-迈克:得了吧!!
-Mike: No, no!Please.
+00:15:31,660 --> 00:15:34,280
+Mike, Mike, Mike, would you like to hear my victory cheer?
 
 269
-00:16:55,200 --> 00:16:57,100
-埃迪:嘿.你瞧瞧迈克,现在你只比乔丹差10票而已.
-Eddie: Hey, look at this Mickey, You are only ten votes down from Jordan!
+00:15:35,000 --> 00:15:39,740
+Maybe later. Maybe Carol's right.
 
 270
-00:16:57,100 --> 00:16:58,800
-波纳:我去看看毕业班的投票结果.
-Boner: I'll get the senior tally.
+00:15:39,980 --> 00:15:43,160
+I mean, maybe there's no place in politics for a guy who comes to class with a
 
 271
-00:17:00,300 --> 00:17:02,880
-迈克:兄弟们,我真的赢了,真的被选为学生会主席了!!
-Mike: Oh, man.I could actually do this.I might win this one!
+00:15:43,160 --> 00:15:44,800
+toilet seat cover around his neck.
 
 272
-00:17:03,100 --> 00:17:05,100
-德威特校长:请注意!我是德威特校长,
-PA: Attention everyone, this is Mr.Dewitt speaking.
+00:15:45,900 --> 00:15:48,200
+Well, then it's a pretty sad day for America, Michael.
 
 273
-00:17:05,400 --> 00:17:07,560
-现在我宣布此次选举结果.
-We have the results of the student body election.
+00:15:49,640 --> 00:15:50,460
+Look, you get this.
 
 274
-00:17:07,900 --> 00:17:08,940
-埃迪:到时候了!
-Eddie: This is it.
+00:15:51,880 --> 00:15:54,780
+Okay. Sophomore class total, Jordan 115,
 
 275
-00:17:09,140 --> 00:17:16,140
-德威特校长:学生会主席胜出人选是……怎么是他,
-PA: This is it.For student body president, the winner is... him?
+00:15:55,540 --> 00:15:58,060
+Siva 106. Hey, this is good, Mikey.
 
 276
-00:17:16,680 --> 00:17:17,980
-不可能是他!?
-It can't be him.
+00:15:58,560 --> 00:15:59,940
+Yeah, Pee -wee dropped out.
 
 277
-00:17:18,740 --> 00:17:20,900
-迈克:听到没?德威特校长要是这么说,那肯定是我当选了.
-Mike: Did you hear the contempt in his voice?It's gotta be me.
+00:16:02,000 --> 00:16:03,680
+Yeah, I'm still way behind.
 
 278
-00:17:20,900 --> 00:17:25,800
-德威特校长:新一届学生会主席是迈克·西维尔!
-PA: For president, Mike Seaver.
+00:16:03,960 --> 00:16:05,420
+All right, Bone, go see what else you can get, huh, buddy?
 
 279
-00:17:25,800 --> 00:17:35,300
-众女生:迈克·西维尔赢了!迈克赢了!!赢了!!!
-Girls: The votes are in, they have been tallied, Mike Seaver won!Hey, hey, hey!
+00:16:05,460 --> 00:16:08,900
+Okay. Hey. How come I gotta do all the stupid grunt work?
 
 280
-00:17:36,780 --> 00:17:41,160
-波纳:现在我是副主席!理查德·米尔豪斯·斯特伯尼.
-Boner: I am vice-president.Me.Richard Millhouse Stabone.
+00:16:09,520 --> 00:16:11,400
+Well, you said you wanted to be vice president, right?
 
 281
-00:17:44,880 --> 00:17:48,080
-现在起波纳要扬眉吐气了.
-They ain't gonna have Boner to kick around no more.
+00:16:11,680 --> 00:16:15,720
+Oh, right. Don't you give up yet, Michael.
 
 282
-00:17:55,840 --> 00:17:58,460
-麦琪:为迈克·亚伦·西维尔主席干杯.
-Maggie: Ok, to President Michael Aaron Seaver.
+00:16:16,020 --> 00:16:19,300
+Yeah, right. Hey, Mikey, you okay?
 
 283
-00:17:59,480 --> 00:18:01,780
-祝贺他赢得此次选举.
-Who Oh gosh, that has a nice ring to it.
+00:16:21,980 --> 00:16:24,200
+Hey, man. Look, this is no big deal.
 
 284
-00:18:02,380 --> 00:18:03,540
-本:我们重新再来.
-Ben: Here we go again.
+00:16:24,380 --> 00:16:26,240
+I mean, who wants to be student body president anyway?
 
 285
-00:18:03,540 --> 00:18:07,500
-麦琪:不用,不用,我想……我想哭!
-Maggie: No, no, no, no, I'm not gonna, I'm not gonna cry.
+00:16:26,420 --> 00:16:29,300
+You know, the only reason that I'm even in this election is because...
 
 286
-00:18:07,500 --> 00:18:10,100
-杰森:好了,好了!我来致祝酒辞.
-Jason: Ok, alright, I'll take care of the toast.
+00:16:31,000 --> 00:16:33,280
+Look, this whole thing is just a joke.
 
 287
-00:18:11,940 --> 00:18:14,040
-本:那就快点,我的胳膊好酸!
-Ben: Somebody better, my arms getting tired.
+00:16:34,300 --> 00:16:36,480
+You guys ain't gonna believe this one.
 
 288
-00:18:15,440 --> 00:18:16,500
-杰森:开萝尔,现在由你向你哥哥表示祝贺.
-Jason: Carol, hey, you're just in time to toast your brother's victory.
+00:16:39,300 --> 00:16:40,440
+Junior class total.
 
 289
-00:18:16,500 --> 00:18:23,900
-迈克:嗯,好的!开萝尔,我有几句心里话要跟你谈谈.
-Mike: Ah, yea, Carol, something I wanna tell you from the bottom of my heart.
+00:16:41,100 --> 00:16:45,380
+Jordan, 64. Siva, 198.
 
 290
-00:18:23,900 --> 00:18:28,800
-杰森:瞧瞧!迈克,你可能是首位经常被留校的学生会主席.
-Jason: C'mon, you wanna be the first president in history to get grounded for his entire term?
+00:16:48,560 --> 00:16:49,980
+198 so far!
 
 291
-00:18:30,280 --> 00:18:32,360
-开萝尔:你们先吃着,我先回房了.
-Carol: Well, if I'm not wanted I'll go to my room.
+00:16:50,020 --> 00:16:54,280
+No, no. Please.
 
 292
-00:18:32,520 --> 00:18:33,400
-杰森:嘿!别走,留在这!
-Jason: Hey!Hold on here.
+00:16:55,200 --> 00:16:56,100
+Hey, look at this, Mickey.
 
 293
-00:18:33,400 --> 00:18:33,500
-迈克:没事,让她走!
-Mike: Hey, let her go!
+00:16:56,340 --> 00:16:58,320
+You are only ten votes down from Jordan.
 
 294
-00:18:34,140 --> 00:18:34,780
-开萝尔:我走了!
-Carol: I'm going!
+00:16:58,620 --> 00:16:59,740
+I gotta get the senior tally.
 
 295
-00:18:34,820 --> 00:18:35,520
-迈克:终于解脱了!
-Mike: Good riddance!
+00:17:00,300 --> 00:17:01,500
+Oh, man, I can actually do this.
 
 296
-00:18:35,580 --> 00:18:36,580
-本:她终于走了!
-Ben: This is great!
+00:17:01,520 --> 00:17:02,880
+I can, I might win this one.
 
 297
-00:18:36,860 --> 00:18:39,000
-杰森:够了!都给我过来!
-Jason: Stop this!Come on all of you.
+00:17:03,100 --> 00:17:04,480
+Attention, please. This is Mr.
 
 298
-00:18:39,180 --> 00:18:40,460
-麦琪:本,你回房间去!
-Maggie: Ben, go to your room.
+00:17:04,600 --> 00:17:07,560
+DeWitt speaking. We have the results of the student body election.
 
 299
-00:18:40,460 --> 00:18:40,560
-本:为什么?
-Ben: Why?
+00:17:07,900 --> 00:17:08,940
+This is it.
 
 300
-00:18:41,640 --> 00:18:43,060
-麦琪:照我说的做!!
-Maggie: Because somebody has to!
+00:17:09,140 --> 00:17:10,360
+This is it.
 
 301
-00:18:43,060 --> 00:18:43,600
-本:我走,我走,行了吧!
-Ben: I'm going, I'm going.
+00:17:11,320 --> 00:17:14,460
+For student body president, the winner is...
 
 302
-00:18:45,280 --> 00:18:45,400
-麦琪:到底怎么回事?
-Maggie: Now what is going on here?
+00:17:15,920 --> 00:17:17,980
+Him. It can't be him.
 
 303
-00:18:45,400 --> 00:18:46,900
-杰森:迈克?
-Jason: Mike?
+00:17:18,740 --> 00:17:20,380
+Did you hear the contempt in his voice?
 
 304
-00:18:49,200 --> 00:18:57,200
-麦琪:开萝尔?哪也别去!除了你,本!!
-Maggie: Carol?Don't anyone go anywhere.Except you, Ben.
+00:17:20,480 --> 00:17:21,220
+It's gotta be me.
 
 305
-00:18:57,200 --> 00:18:59,600
-本:没劲!
-Ben: Nuts!
+00:17:22,060 --> 00:17:24,680
+For president, Mike Siever.
 
 306
-00:18:59,600 --> 00:19:01,000
-麦琪:你好?
-Maggie: Hello?
+00:17:27,500 --> 00:17:30,100
+The most serious because of the scholars!
 
 307
-00:19:02,020 --> 00:19:04,520
-德威特校长:你好!我是赫维·德威特,迪威高中的校长.
-Mr.Dewitt: Hello, I'm Hewey Dewitt, principal of Dewey-oh!
+00:17:30,160 --> 00:17:31,180
+Mike Siever what?
 
 308
-00:19:04,520 --> 00:19:09,940
-哇噢!你是麦琪·马龙.我天天晚上都收看你的新闻节目.
-Wow, you're Maggie Malone.I watch you on the news every night.
+00:17:31,460 --> 00:17:33,160
+Hey, hey, hey!
 
 309
-00:19:10,300 --> 00:19:14,880
-麦琪:谢谢!!他每天都看我的新闻节目.
-Maggie: Well, thank you.He watches me on the news every night.
+00:17:34,240 --> 00:17:38,560
+Whoo! I am vice president.
 
 310
-00:19:16,220 --> 00:19:19,520
-德威特校长:您是西维尔夫人.我不知道你们是母子.
-Mr.Dewitt: You're Mrs.Seaver.Oh, I didn't make the connection.
+00:17:39,400 --> 00:17:42,160
+Me, Richard Milhouse the Bone.
 
 311
-00:19:20,580 --> 00:19:22,940
-麦琪:嗯,您先请进!这是我丈夫,杰森!
-Maggie: Well, come in.You've met my husband, Jason.
+00:17:44,880 --> 00:17:48,080
+They ain't gonna have bone in a kick around no more.
 
 312
-00:19:23,120 --> 00:19:25,880
-德威特校长:久仰大名!
-Mr.Dewitt: Many, many, many times.
+00:17:54,400 --> 00:17:58,760
+Okay. To President Michael Aaron Sieber,
 
 313
-00:19:27,160 --> 00:19:28,060
-杰森:最近怎么样德威特校长?
-Jason: How are you Mr.Dewitt?
+00:17:59,480 --> 00:18:01,780
+who, oh, gosh, that has a nice ring to it.
 
 314
-00:19:28,400 --> 00:19:28,960
-德威特校长:不太好.
-Mr.Dewitt: Not good.
+00:18:02,380 --> 00:18:03,540
+Here we go again.
 
 315
-00:19:29,120 --> 00:19:29,940
-迈克:吆!德威特校长!
-Mike: Yo, Mr.D!
+00:18:04,020 --> 00:18:05,040
+No, no, no.
 
 316
-00:19:30,920 --> 00:19:33,800
-德威特校长:我想跟二位单独谈谈,
-Mr.Dewitt: I need a word with both of you in private about a grave matter
+00:18:05,100 --> 00:18:05,980
+I'm not gonna...
 
 317
-00:19:33,800 --> 00:19:35,000
-你们的孩子犯了很严重的错误.
-concerning one of your children.
+00:18:06,680 --> 00:18:08,020
+I'm not gonna cry.
 
 318
-00:19:35,000 --> 00:19:36,740
-杰森:迈克,哪也别走!
-Jason: Mike, don't go anywhere.
+00:18:09,480 --> 00:18:11,800
+Okay, all right, I'll take care of the toes.
 
 319
-00:19:36,960 --> 00:19:37,680
-德威特校长:嗯,知子莫如父!!
-Mr.Dewitt: Good choice.
+00:18:11,940 --> 00:18:14,040
+Somebody better my arms getting tired.
 
 320
-00:19:39,260 --> 00:19:40,740
-迈克:我什么都没做啊!?
-Mike: I didn't even do anything.
+00:18:15,440 --> 00:18:18,020
+Carol, hey, you're just in time to toast your brother's victory.
 
 321
-00:19:41,200 --> 00:19:42,660
-麦琪:请到我丈夫的办公室!
-Maggie: My husband's office?
+00:18:18,480 --> 00:18:21,420
+Oh, yeah, yeah, someone want to tell you from the bottom of my heart.
 
 322
-00:19:47,480 --> 00:19:49,240
-开萝尔:我知道出了什么事.
-Carol: I know why he's here.
+00:18:22,180 --> 00:18:29,240
+Pfft. Come on, you want to be the first president in history to get grounded for his
 
 323
-00:19:49,400 --> 00:19:52,080
-迈克:我也知道,但是我没做什么错事,也没伤害到谁!
-Mike: So do I, but it was only fake vomit and nobody got hurt!
+00:18:29,240 --> 00:18:32,360
+entire term? Well, if I'm not wanted, I'll go to my room.
 
 324
-00:19:53,320 --> 00:19:56,380
-开萝尔:迈克,你听我说,他是为了选举的事,选举过程有舞弊!
-Carol: Listen to me, it's about the election, it was rigged!
+00:18:32,520 --> 00:18:33,400
+Hey, hold on here.
 
 325
-00:19:56,940 --> 00:19:59,360
-迈克:你是不是诚心跟我过不去?
-Mike: So this has like, nothing to do with the vomit whatsoever?
+00:18:33,480 --> 00:18:34,780
+Go. I'm going.
 
 326
-00:20:00,500 --> 00:20:03,860
-开萝尔:迈克,正因为我作弊你才赢得了选举.
-Carol: Mike, listen, you won the election because I rigged it.
+00:18:34,820 --> 00:18:36,580
+Good riddance. This is great.
 
 327
-00:20:03,860 --> 00:20:04,720
-迈克:嗯,真的吗?
-Mike: Oh yeah?
+00:18:36,860 --> 00:18:39,000
+Stop it. Come on, all of you.
 
 328
-00:20:04,720 --> 00:20:04,820
-开萝尔:没错!
-Carol: Yeah!
+00:18:39,180 --> 00:18:40,460
+Ben, go to your room.
 
 329
-00:20:05,580 --> 00:20:07,000
-迈克:为什么你要这么做?
-Mike: Why would you do that?
+00:18:40,600 --> 00:18:43,060
+Why? Because somebody has to.
 
 330
-00:20:07,140 --> 00:20:09,440
-开萝尔:现在连我自己也不大清楚,
-Carol: Well, this moment I'm questioning that myself.
+00:18:43,220 --> 00:18:44,720
+I'm going up there.
 
 331
-00:20:11,040 --> 00:20:14,960
-也许我不希望你连皮维·赫尔曼都不如吧!
-Let's just say, I didn't want you finishing behind Pee Wee Herman.
+00:18:45,280 --> 00:18:47,140
+Now, what is going on here?
 
 332
-00:20:16,500 --> 00:20:20,400
-迈克:等等,你真以为我会相信你的这些话?
-Mike: Look, you expect me to believe you could pull something like that off?
+00:18:47,380 --> 00:18:53,920
+Mike? Carol? Don't anyone go anywhere.
 
 333
-00:20:22,300 --> 00:20:24,480
-开萝尔:我在计算机上做了手脚,查到所有的在校学生的学号后,
-Carol: I interfaced with the school computer,
+00:18:56,480 --> 00:18:58,020
+Except you, Ben.
 
 334
-00:20:24,640 --> 00:20:27,940
-我就自己伪造了125个假学号,
-cross-referenced all active student ID numbers to come up with 125 airs
+00:18:59,080 --> 00:19:03,920
+Nuts. Hello? Hello, I'm Willie DeWitt, principal of Dewey.
 
 335
-00:20:30,000 --> 00:20:34,160
-然后把他们编成信息互换标准代码,输入数据库.
-tat ones which I then input as ASP code back into the central data bank.
+00:19:04,020 --> 00:19:07,760
+Oh, wow. You're Maggie Malone.
 
 336
-00:20:38,380 --> 00:20:40,120
-迈克:这办法真的奏效了!
-Mike: Okay, that's one way to do it.
+00:19:08,100 --> 00:19:09,940
+I watch on the news every night.
 
 337
-00:20:43,220 --> 00:20:45,020
-开萝尔:所以校长就来我们家了!
-Carol: That's why the principle's here!
+00:19:10,300 --> 00:19:11,820
+Well, thank you.
 
 338
-00:20:47,080 --> 00:20:48,140
-迈克:我为什么要相信你?你不是曾经反对提名委员会推选我为候选人的吗?
-Mike: Why should I believe you?
+00:19:12,440 --> 00:19:14,880
+He watches me on the news every night.
 
 339
-00:20:48,220 --> 00:20:50,740
-I mean, you have been against me ever since the nominating committee picked
+00:19:16,220 --> 00:19:17,180
+You're Mrs. Eber.
 
 340
-00:20:50,740 --> 00:20:51,000
-me.
+00:19:17,340 --> 00:19:19,520
+Oh, I didn't make the connection.
 
 341
-00:20:51,160 --> 00:20:54,760
-开萝尔:他们推选你是因为他们觉得你必输无疑!
-Carol: They picked you because they thought you were a sure loser.
+00:19:20,580 --> 00:19:21,240
+Well, come in.
 
 342
-00:20:54,900 --> 00:20:56,600
-迈克:得了吧!
-Mike: No, they didn't.
+00:19:21,240 --> 00:19:22,940
+You've met my husband, Jason.
 
 343
-00:20:58,360 --> 00:20:59,900
-开萝尔:迈克你想想看,
-Carol: Mike, think about it.
+00:19:23,120 --> 00:19:25,880
+Many, many, many times.
 
 344
-00:21:00,000 --> 00:21:03,740
-你是用胳肢窝装鬼叫出名的人,
-Didn't it seem a little odd that they choose someone who's best known
+00:19:27,160 --> 00:19:28,060
+How are you, Mr.
 
 345
-00:21:03,740 --> 00:21:05,600
-选你当学生会主席你难道一点也不觉得奇怪吗?
-for making rude noises with his armpit?
+00:19:28,200 --> 00:19:28,960
+Dewey? Not good.
 
 346
-00:21:07,660 --> 00:21:08,580
-迈克:是怪声!
-Mike: Weird noises.
+00:19:29,120 --> 00:19:29,940
+Yo, Mr. D.
 
 347
-00:21:09,960 --> 00:21:12,300
-开萝尔:我只是跟你解释一下.
-Carol: I'm just telling you how it was.
+00:19:30,920 --> 00:19:34,500
+I need a word with both of you in private about a grave matter concerning one of
 
 348
-00:21:13,720 --> 00:21:17,660
-我自己事后都觉得不可思议.不过这和你无关.
-I mean, when I found out, it made me mad.
+00:19:34,500 --> 00:19:36,740
+your children. Mike, don't go anywhere.
 
 349
-00:21:18,380 --> 00:21:22,820
-我就是不想让别人为此嘲笑你.
-I mean, I don't want people laughing at you who aren't related to you.
+00:19:36,960 --> 00:19:40,740
+Good choice. I didn't even do anything.
 
 350
-00:21:26,420 --> 00:21:28,160
-迈克:你为了我在选举中舞弊?!
-Mike: You rigged the election for me?
+00:19:41,200 --> 00:19:42,660
+My husband's office?
 
 351
-00:21:28,900 --> 00:21:34,200
-开萝尔:没错,不过即使我没舞弊,
-Carol: Yeah, and for what it's worth you came really close to winning
+00:19:47,480 --> 00:19:49,240
+I know why he's here.
 
 352
-00:21:34,200 --> 00:21:35,180
-你的得票也还差强人意.
-without my votes.
+00:19:49,400 --> 00:19:52,080
+So do I, but it was only fake vomit and nobody got hurt.
 
 353
-00:21:37,100 --> 00:21:43,280
-迈克:你这么处心积虑全是为了我?我真不知道该说什么好!
-Mike: You actually did something illegal for me?I don't know what to say.
+00:19:52,980 --> 00:19:54,120
+Mike, listen to me.
 
 354
-00:21:44,700 --> 00:21:49,080
-开萝尔:不管怎样你都是我哥哥!
-Carol: Well, you're my brother, like it or not.
+00:19:54,260 --> 00:19:55,520
+It's about the election.
 
 355
-00:21:52,560 --> 00:21:53,960
-杰森:过来!
-Jason: In my office!
+00:19:55,540 --> 00:19:56,380
+It was rigged.
 
 356
-00:21:54,180 --> 00:21:55,200
-麦琪:主席先生!
-Maggie: Mr.President!
+00:19:56,940 --> 00:19:59,360
+So this has, like, nothing to do with the vomit whatsoever?
 
 357
-00:21:56,700 --> 00:21:57,780
-杰森:这跟你无关,开萝尔!
-Jason: This doesn't concern you.
+00:20:00,500 --> 00:20:03,860
+Mike, listen. You won the election because I rigged it.
 
 358
-00:21:57,780 --> 00:21:58,540
-开萝尔:当然有关了!
-Carol: But it does!
+00:20:03,860 --> 00:20:05,240
+Oh, yeah? Yeah!
 
 359
-00:21:58,880 --> 00:21:59,920
-麦琪:开萝尔,你先回房!!迈克!!!
-Maggie: Carol, please.Mike!
+00:20:05,580 --> 00:20:07,000
+Why would you do that?
 
 360
-00:22:00,000 --> 00:22:01,840
-开萝尔:妈妈,有些事情你们还不知道!
-Carol: Mom, I have to tell you something!
+00:20:07,140 --> 00:20:09,440
+Well, at this moment, I'm questioning that myself.
 
 361
-00:22:02,180 --> 00:22:02,780
-杰森:什么事?
-Jason: What is it?
+00:20:11,040 --> 00:20:14,960
+Let's just say I didn't want you finishing behind Pee -wee Herman.
 
 362
-00:22:02,780 --> 00:22:04,100
-开萝尔:事情是这样的…..
-Carol: Ok, alright.
+00:20:16,500 --> 00:20:20,400
+Look, you expect me to believe that you could pull something like that off?
 
 363
-00:22:05,340 --> 00:22:06,520
-迈克:开萝尔,这事与你无关!
-Mike: Ok, this has nothing to do with you, alright?
+00:20:22,300 --> 00:20:26,600
+I interfaced with the school computer, cross -referenced all active student ID
 
 364
-00:22:08,380 --> 00:22:10,040
-事情是我干的,是我在计算机上做了手脚,
-I'm the one who rigged the election, not you.
+00:20:26,600 --> 00:20:33,060
+numbers to come up with 125 airsats once, which I then input as ASCII code back into
 
 365
-00:22:11,260 --> 00:22:14,460
-编了那个号码.事情都是我干的,我知道这不大光彩,
-I interplaced with some of the computer hoosits and I did some stuff,
+00:20:33,060 --> 00:20:34,160
+the central data bank.
 
 366
-00:22:18,400 --> 00:22:20,440
-可不管怎样,事情是坐下来了!!
-some bad stuff, some very, very bad stuff.
+00:20:38,380 --> 00:20:40,120
+Okay, that's one way to do it.
 
 367
-00:22:23,420 --> 00:22:24,580
-开萝尔:不是你!
-Carol: You did not!
+00:20:43,220 --> 00:20:45,020
+That's why the principal's here.
 
 368
-00:22:24,600 --> 00:22:25,300
-迈克:就是我!
-Mike: I did too!
+00:20:46,540 --> 00:20:48,140
+Look, why should I believe you?
 
 369
-00:22:25,300 --> 00:22:25,400
-开萝尔:迈克!
-Carol: Mike!
+00:20:48,220 --> 00:20:51,140
+I mean, you have been against me ever since the nominating committee picked me for
 
 370
-00:22:25,400 --> 00:22:25,500
-迈克:开萝尔!
-Mike: Carol!
+00:20:51,140 --> 00:20:54,760
+this. They picked you because they thought you were a sure loser.
 
 371
-00:22:26,420 --> 00:22:27,180
-麦琪:停!!
-Maggie: Hold it!
+00:20:56,460 --> 00:20:57,540
+Well, they didn't.
 
 372
-00:22:27,180 --> 00:22:29,960
-杰森:我不值得你们两个谁得为此事负责,但是不管谁被学校处分了,
-Jason: Look I don't know who's responsible but whoever gets that detention
+00:20:58,360 --> 00:20:59,900
+Mike, think about it.
 
 373
-00:22:30,220 --> 00:22:34,640
-谁就得天天在家做家务,而且得做很长时间的家务.
-in school will also be held here at home, grounded for a long, long time.
+00:21:00,000 --> 00:21:04,160
+Didn't it seem a little odd that they choose someone who's best known for making
 
 374
-00:22:34,800 --> 00:22:36,500
-开萝尔:迈克干的!
-Carol: He did it!
+00:21:04,160 --> 00:21:05,600
+rude noises with his armpit?
 
 375
-00:22:36,740 --> 00:22:37,620
-迈克:是她干的!
-Mike: She did it!
+00:21:07,660 --> 00:21:12,300
+Weird noises. I'm just telling you how it was.
 
 376
-00:22:42,320 --> 00:22:45,200
-迈克:大家可能都在广播听到了,选举出现了,呃……
-Mike: As you all heard on the PA system this morning, there was some uh...
+00:21:13,720 --> 00:21:17,660
+I mean, what I found out made me mad.
 
 377
-00:22:45,200 --> 00:22:47,100
-德威特校长:舞弊.
-Mr.Dewitt: Fraud.
+00:21:18,380 --> 00:21:22,820
+I mean, I don't want people laughing at you who aren't related to you.
 
 378
-00:22:50,020 --> 00:22:52,500
-迈克:是舞弊!没错是昨天的选举出现了舞弊行为,
-Mike: Ok, fraud, in yesterday's voting,
+00:21:26,420 --> 00:21:28,160
+You rigged the election for me?
 
 379
-00:22:53,040 --> 00:22:58,300
-我不能担任学生会的主席了,不过我还是很感激那些支持我的各位同学,
-so I will not be able to serve as your president but I do want to
+00:21:28,900 --> 00:21:35,180
+Yeah. And for what it's worth, I came really close to winning without my votes.
 
 380
-00:22:58,300 --> 00:23:00,300
-包括存在的和不存在的.
-thank everyone out there who did vote for me,
+00:21:37,100 --> 00:21:40,060
+You actually did something illegal for me?
 
 381
-00:23:00,360 --> 00:23:04,160
-所以既然学生会的章程有规定,凡是选举舞弊的候选人,
-both those who do exist and those who don't.
+00:21:41,880 --> 00:21:43,280
+I -I don't know what to say.
 
 382
-00:23:06,300 --> 00:23:10,580
-不管是谁都没有资格当选主席,因此只有一个人才有资格,
-So, since the charter of the student council says that those who tamper
+00:21:44,700 --> 00:21:46,020
+Well, you're my brother.
 
 383
-00:23:10,580 --> 00:23:13,700
-他是唯一在选举中没有作过弊的人,理查德·米尔豪斯·斯特伯尼.
-with the nominations or the elections must be disqualified,
+00:21:47,400 --> 00:21:49,080
+Like it or not.
 
 384
-00:23:13,980 --> 00:23:16,060
-众学生:波纳!
-here is your new student body president,
+00:21:50,360 --> 00:21:53,960
+Hmm? Gee. In my office.
 
 385
-00:23:16,360 --> 00:23:19,280
-波纳!!波纳!!!
-the only person on either ticket who was not a crook,
+00:21:54,180 --> 00:21:56,360
+Mr. President. Mom, Dad, I...
 
 386
+00:21:56,360 --> 00:21:57,780
+Carol, this doesn't concern you.
+
+387
+00:21:57,780 --> 00:21:58,540
+But it does.
+
+388
+00:21:58,880 --> 00:21:59,920
+Carol, please. Mike?
+
+389
+00:22:00,000 --> 00:22:01,840
+Mom, I have to tell you something.
+
+390
+00:22:01,900 --> 00:22:02,780
+Carol, what is it?
+
+391
+00:22:03,340 --> 00:22:04,500
+OK. All right.
+
+392
+00:22:04,720 --> 00:22:06,900
+Carol, look, this has nothing to do with you, all right?
+
+393
+00:22:07,180 --> 00:22:10,040
+Huh? I am the one who rigged the election, not you.
+
+394
+00:22:10,420 --> 00:22:17,240
+I, uh, I, I interplaced with some of the computer hoosets and I, uh, I, uh, I, I did
+
+395
+00:22:17,240 --> 00:22:20,440
+some stuff. Some, some bad stuff, some very, very bad stuff.
+
+396
+00:22:23,420 --> 00:22:24,580
+You did not.
+
+397
+00:22:24,600 --> 00:22:25,300
+I did too.
+
+398
+00:22:25,320 --> 00:22:27,180
+Mike! Carol. Hold it.
+
+399
+00:22:27,180 --> 00:22:31,320
+I don't know who's responsible, but whoever gets that detention at school will also
+
+400
+00:22:31,320 --> 00:22:34,640
+be held here at home, grounded for a long, long time.
+
+401
+00:22:36,740 --> 00:22:37,620
+She did it!
+
+402
+00:22:42,320 --> 00:22:46,900
+As you all heard on the PA system this morning, there was some, uh...
+
+403
+00:22:47,480 --> 00:22:52,500
+Fraud. Okay, fraud in yesterday's voting.
+
+404
+00:22:53,040 --> 00:22:55,880
+So I will not be able to serve as your president.
+
+405
+00:22:57,260 --> 00:23:01,640
+But I do want to thank everyone out there who did vote for me, both those who do
+
+406
+00:23:01,640 --> 00:23:04,160
+exist and those who don't.
+
+407
+00:23:06,300 --> 00:23:11,160
+So, since the charter of the student council says that those who tamper with the
+
+408
+00:23:11,160 --> 00:23:15,560
+nominations or the elections must be disqualified, here is your new student body
+
+409
+00:23:15,560 --> 00:23:19,280
+president, the only person on either ticket who was not a crook,
+
+410
+00:23:20,360 --> 00:23:22,200
+Richard Milhouse Stubborn.
+
+411
 00:23:30,620 --> 00:23:31,780
-00:23:25,200
-Richard Millhouse Stabone. Crowd: Boner!Boner!Boner!
+Boner! Boner! Boner!
+
+412
+00:23:31,780 --> 00:23:32,420
+Boner! Boner! Boner!
+
+413
+00:23:33,060 --> 00:23:35,320
+Boner! Boner! Boner!
+
+414
+00:23:35,320 --> 00:23:37,380
+Boner! Boner! Boner!
+
+415
+00:23:37,380 --> 00:23:37,840
+Boner! Boner!
