@@ -81,5 +81,9 @@
     ,{"folder": "resources/成长的烦恼/S05", "tag": "growing-pains-s05-audio-v1", "title": "Growing Pains Season 05 Audio v1"}
     ,{"folder": "resources/成长的烦恼/S06", "tag": "growing-pains-s06-audio-v1", "title": "Growing Pains Season 06 Audio v1"}
     ,{"folder": "resources/成长的烦恼/S07", "tag": "growing-pains-s07-audio-v1", "title": "Growing Pains Season 07 Audio v1"}
+    ,{"folder": "resources/考试/CET4听力真题", "tag": "cet4-listening-audio-v1", "title": "CET4听力"}
+    ,{"folder": "resources/考试/CET6听力真题", "tag": "cet6-listening-audio-v1", "title": "CET6听力"}
+    ,{"folder": "resources/考试/中考听力", "tag": "zhongkao-listening-audio-v1", "title": "中考听力"}
+    ,{"folder": "resources/考试/高考听力", "tag": "gaokao-listening-audio-v1", "title": "高考听力"}
   ]
 }

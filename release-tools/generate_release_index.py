@@ -66,6 +66,15 @@ def catalog_metadata(tag: str, fallback_title: str) -> dict[str, str]:
         return {"title": "初中听力", "first_class": "考试听力", "second_class": "初中听力", "third_class": "", "author": ""}
     if tag == "senior-high-school-listening-audio-v1":
         return {"title": "高中听力", "first_class": "考试听力", "second_class": "高中听力", "third_class": "", "author": ""}
+    exam_listening = {
+        "cet4-listening-audio-v1": ("CET4听力", "四、六级", "CET4听力"),
+        "cet6-listening-audio-v1": ("CET6听力", "四、六级", "CET6听力"),
+        "zhongkao-listening-audio-v1": ("中考听力", "初中听力", "中考听力"),
+        "gaokao-listening-audio-v1": ("高考听力", "高中听力", "高考听力"),
+    }
+    if tag in exam_listening:
+        title, second_class, third_class = exam_listening[tag]
+        return {"title": title, "first_class": "考试听力", "second_class": second_class, "third_class": third_class, "author": ""}
     if tag.startswith("new-concept-english-"):
         match = re.match(r"^new-concept-english-(\d+)-", tag)
         title = f"新概念英语第{int(match.group(1))}册（美音）" if match else fallback_title
