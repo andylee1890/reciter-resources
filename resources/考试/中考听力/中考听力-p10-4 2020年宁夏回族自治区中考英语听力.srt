@@ -3,8 +3,8 @@
 听力材料一：听对话，选出正确的图画。
 
 2
-00:00:20,320 --> 00:00:22,620
-what's the weather like in Inchuan?
+00:00:16,800 --> 00:00:22,620
+Text 1. Bob, what's the weather like in Inchuan?
 
 3
 00:00:23,140 --> 00:00:25,000
@@ -91,401 +91,417 @@ Bill, drive carefully.
 There is a ahead.
 
 24
+00:02:20,100 --> 00:02:22,220
+Sorry, I didn't see the sign.
+
+25
+00:02:27,260 --> 00:02:27,890
+Text Text 6.
+
+26
 00:02:27,890 --> 00:02:32,630
 听对话及对话后的问题，然后选择正确答案
 
-25
-00:02:40,880 --> 00:02:44,960
-Text 6. How often do you go to the library?
+27
+00:02:42,720 --> 00:02:44,960
+How often do you go to the library?
 
-26
+28
 00:02:45,620 --> 00:02:48,960
 I go to the library once a week.
 
-27
+29
 00:02:49,920 --> 00:02:55,180
 Question. How often does the man go to the library?
 
-28
+30
 00:02:57,200 --> 00:02:59,660
 How often do you go to the library?
 
-29
+31
 00:03:00,140 --> 00:03:03,020
 I go to the library once a week.
 
-30
+32
 00:03:04,640 --> 00:03:10,880
 Question. How often does the man go to the library?
 
-31
+33
 00:03:22,400 --> 00:03:27,320
 Text 7. What do you want to be when you grow up?
 
-32
+34
 00:03:27,900 --> 00:03:32,780
 My parents want me to be a teacher, but I hope to become a policeman.
 
-33
+35
 00:03:34,560 --> 00:03:38,860
 Question. What does the boy want to be?
 
-34
+36
 00:03:41,240 --> 00:03:43,720
 What do you want to be when you grow up?
 
-35
+37
 00:03:44,280 --> 00:03:49,140
 My parents want me to be a teacher, but I hope to become a policeman.
 
-36
+38
 00:03:50,920 --> 00:03:55,300
 Question. What does the boy want to be?
 
-37
+39
 00:04:07,000 --> 00:04:14,060
 Text 8. you going to the Great Wall or Tiananmen Square?
 
-38
+40
 00:04:14,880 --> 00:04:18,700
 Both, but I'll go to visit Tiananmen Square first.
 
-39
+41
 00:04:20,320 --> 00:04:25,960
 Question. Which place is the boy going to visit first?
 
-40
+42
 00:04:27,380 --> 00:04:32,100
 Are you going to visit the Great Wall or Tiananmen Square?
 
-41
+43
 00:04:32,100 --> 00:04:36,820
 Both, but I'll go to visit Tiananmen Square first.
 
-42
+44
 00:04:40,940 --> 00:04:44,220
 Which place is the boy going to visit first?
 
-43
+45
 00:04:55,720 --> 00:04:59,940
 Text 9. You don't look well.
 
-44
+46
 00:04:59,940 --> 00:05:01,520
 What's the matter, Tom?
 
-45
+47
 00:05:01,980 --> 00:05:03,900
 I have a toothache.
 
-46
+48
 00:05:05,280 --> 00:05:09,040
 Question. What's wrong with Tom?
 
-47
+49
 00:05:10,480 --> 00:05:12,240
 You don't look well.
 
-48
+50
 00:05:12,500 --> 00:05:14,040
 What's the matter, Tom?
 
-49
+51
 00:05:14,340 --> 00:05:15,960
 I have a toothache.
 
-50
+52
 00:05:17,480 --> 00:05:21,440
 Question. What's wrong with Tom?
 
-51
+53
 00:05:34,560 --> 00:05:37,660
 Text 10. What can I do for you,
 
-52
+54
 00:05:38,980 --> 00:05:42,220
 I want to buy a pair of for my son.
 
-53
+55
 00:05:43,780 --> 00:05:47,420
 Question. Where are they talking?
 
-54
+56
 00:05:49,520 --> 00:05:51,440
 What can I do for you, sir?
 
-55
+57
 00:05:52,200 --> 00:05:55,440
 I want to buy a of for my son.
 
-56
-00:05:56,900 --> 00:06:05,910
-Question. are Text 11.
+58
+00:05:56,900 --> 00:06:01,860
+Question. are they talking?
 
-57
+59
+00:06:01,860 --> 00:06:05,910
+Question. Text 11.
+
+60
 00:06:05,910 --> 00:06:09,390
 三，听对话，选择正确答案。
 
-58
+61
 00:06:10,530 --> 00:06:14,910
 听下面一段对话，回答第十一、十二小题。
 
-59
+62
 00:06:29,100 --> 00:06:33,720
 Excuse me. Could you show me the way to the post office?
 
-60
+63
 00:06:34,400 --> 00:06:39,740
 Certainly. Just go along Green Street and turn left at the first crossing.
 
-61
+64
 00:06:40,460 --> 00:06:42,400
 Then go down Bridge Street.
 
-62
+65
 00:06:42,560 --> 00:06:45,840
 You will see the post office is next to the bookstore.
 
-63
+66
 00:06:46,660 --> 00:06:48,120
 Is it far from here?
 
-64
+67
 00:06:48,680 --> 00:06:51,780
 No. It's about two kilometers from here.
 
-65
+68
 00:06:51,880 --> 00:06:54,580
 You can take a bus or walk there.
 
-66
+69
 00:06:54,960 --> 00:06:56,600
 Okay. I'll walk there.
 
-67
+70
 00:06:57,000 --> 00:06:58,320
 Thank you very much.
 
-68
+71
 00:06:59,540 --> 00:07:02,620
 Text 11. Excuse me.
 
-69
+72
 00:07:02,980 --> 00:07:05,740
 Could you show me the way to the post office?
 
-70
+73
 00:07:06,280 --> 00:07:12,220
 Certainly. Just go along Green Street and turn left at the first crossing.
 
-71
+74
 00:07:12,400 --> 00:07:14,480
 Then go down Bridge Street.
 
-72
+75
 00:07:14,600 --> 00:07:17,920
 You will see the post office is next to the bookstore.
 
-73
+76
 00:07:18,680 --> 00:07:20,160
 Is it far from here?
 
-74
+77
 00:07:20,560 --> 00:07:23,860
 No. It's about two kilometers from here.
 
-75
+78
 00:07:24,060 --> 00:07:26,620
 You can take a bus or walk there.
 
-76
+79
 00:07:27,000 --> 00:07:28,900
 Okay. I'll walk there.
 
-77
+80
 00:07:29,080 --> 00:07:30,500
 Thank you very much.
 
-78
+81
 00:07:31,020 --> 00:07:32,020
 Not at all.
 
-79
+82
 00:07:41,650 --> 00:07:46,390
 听下面一段对话，回答第十三至十五小题。
 
-80
+83
 00:08:03,560 --> 00:08:09,600
 Text 12. Tony, what kind of music do you like best?
 
-81
+84
 00:08:10,560 --> 00:08:12,580
 I like many kinds of music.
 
-82
+85
 00:08:12,820 --> 00:08:15,660
 And I like country music best of all.
 
-83
+86
 00:08:16,180 --> 00:08:19,200
 Oh. There will be a concert this afternoon.
 
-84
+87
 00:08:19,680 --> 00:08:21,040
 Would you like to go with me?
 
-85
+88
 00:08:21,620 --> 00:08:23,380
 Sure. I'd love to.
 
-86
+89
 00:08:23,720 --> 00:08:25,180
 When shall we meet then?
 
-87
+90
 00:08:25,180 --> 00:08:27,390
 At a quarter past three.
 
-88
+91
 00:08:28,500 --> 00:08:30,340
 Okay. Where shall we meet?
 
-89
+92
 00:08:31,100 --> 00:08:33,120
 At the gate of the music hall.
 
-90
+93
 00:08:33,820 --> 00:08:35,400
 Okay. See you then.
 
-91
+94
 00:08:35,880 --> 00:08:41,900
 See you. Tony, what kind of music do you like best?
 
-92
+95
 00:08:42,840 --> 00:08:44,880
 I like many kinds of music.
 
-93
+96
 00:08:45,080 --> 00:08:47,960
 And I like country music best of all.
 
-94
+97
 00:08:48,440 --> 00:08:51,540
 Oh. There will be a concert this afternoon.
 
-95
+98
 00:08:51,920 --> 00:08:53,360
 Would you like to go with me?
 
-96
+99
 00:08:53,860 --> 00:08:55,660
 Sure. I'd love to.
 
-97
+100
 00:08:56,120 --> 00:08:57,600
 When shall we meet then?
 
-98
+101
 00:08:58,140 --> 00:08:59,800
 At a quarter past three.
 
-99
+102
 00:09:00,420 --> 00:09:02,620
 Okay. Where shall we meet?
 
-100
+103
 00:09:03,160 --> 00:09:05,440
 At the gate of the music hall.
 
-101
+104
 00:09:06,040 --> 00:09:07,720
 Okay. See you then.
 
-102
+105
 00:09:08,160 --> 00:09:23,750
 See you. Text 13 Hello boys and girls.
 
-103
+106
 00:09:23,750 --> 00:09:32,330
 四、听力，听短文，然后根据表格提示和所听内容完成下列各小题，每空
 
-104
+107
 00:09:32,570 --> 00:09:33,170
 一词。
 
-105
+108
 00:10:05,620 --> 00:10:09,660
 Here is some information about our volunteer activities.
 
-106
+109
 00:10:10,280 --> 00:10:14,860
 We will go to the old people's home on October 2nd.
 
-107
+110
 00:10:14,860 --> 00:10:16,680
 It is not far from our school.
 
-108
+111
 00:10:17,200 --> 00:10:19,580
 So we can go there by bike.
 
-109
+112
 00:10:19,580 --> 00:10:24,860
 The old people there have no family members, so they are very lonely.
 
-110
+113
 00:10:25,300 --> 00:10:29,240
 We can read a newspaper to them or just listen to them.
 
-111
+114
 00:10:29,740 --> 00:10:33,560
 We can also clean their clothes and make dinner for them.
 
-112
+115
 00:10:34,000 --> 00:10:38,260
 If you want to more information about it, you can call Mr.
 
-113
+116
 00:10:38,700 --> 00:10:43,140
 at 754 -8216.
 
-114
+117
 00:10:44,840 --> 00:10:46,820
 Hello boys and girls.
 
-115
+118
 00:10:46,820 --> 00:10:51,420
 Here is some information about our volunteer activities.
 
-116
+119
 00:10:51,960 --> 00:10:55,820
 We will go to the old people's home on October 2nd.
 
-117
+120
 00:10:56,540 --> 00:10:58,380
 It is not far from our school.
 
-118
+121
 00:10:58,960 --> 00:11:01,300
 So we can go there by bike.
 
-119
+122
 00:11:01,940 --> 00:11:06,560
 The old people there have no family members, so they are very lonely.
 
-120
+123
 00:11:06,960 --> 00:11:10,980
 We can read a newspaper to them or just listen to them.
 
-121
+124
 00:11:11,380 --> 00:11:15,320
 We can also clean their clothes and make dinner for them.
 
-122
+125
 00:11:15,320 --> 00:11:19,980
 If you want to more information about you can call Mr.
 
-123
+126
 00:11:20,340 --> 00:11:24,720
 Wong at 754 -8216.
+
+127
+00:11:48,500 --> 00:11:49,900
+Thank

@@ -31,140 +31,140 @@
 每段对话读两遍。
 
 9
-00:00:59,950 --> 00:01:03,600
-1. Hi, Alan.
+00:01:02,460 --> 00:01:04,780
+Hi, Alan. What club are you in?
 
 10
-00:01:03,600 --> 00:01:04,780
-What club are you in?
-
-11
 00:01:05,520 --> 00:01:07,840
 Oh, I'm in the science club.
 
-12
+11
 00:01:09,740 --> 00:01:12,660
 Hi, Alan. What club are you in?
 
-13
+12
 00:01:12,940 --> 00:01:15,400
 Oh, I'm in the science club.
 
-14
+13
 00:01:27,140 --> 00:01:31,040
 2. I help you?
 
-15
+14
 00:01:31,840 --> 00:01:34,960
 Yes, please. I need a cup.
 
-16
+15
 00:01:35,740 --> 00:01:37,400
 How much is it?
 
-17
+16
 00:01:38,160 --> 00:01:42,420
 Sixteen yuan. Can I help you?
 
-18
+17
 00:01:42,420 --> 00:01:46,320
 Yes, please. I need a cup.
 
-19
+18
 00:01:47,200 --> 00:01:48,820
 How much is it?
 
-20
+19
 00:01:49,820 --> 00:02:03,360
 Sixteen yuan. 3.
 
-21
+20
 00:02:04,980 --> 00:02:07,700
 Which season do you like best, Bruce?
 
-22
+21
 00:02:08,520 --> 00:02:10,340
 Spring, of course.
 
-23
+22
 00:02:11,060 --> 00:02:13,700
 I was born in it.
 
-24
+23
 00:02:13,900 --> 00:02:16,980
 Which season do you like best, Bruce?
 
-25
+24
 00:02:18,080 --> 00:02:19,580
 Spring, of course.
 
-26
+25
 00:02:20,240 --> 00:02:25,180
 I was born in it.
 
-27
+26
 00:02:34,020 --> 00:02:39,000
 4. Jack, do you have any plans for Saturday?
 
-28
+27
 00:02:39,940 --> 00:02:44,040
 Sure. I'm going to play ping pong with my friends.
 
-29
+28
 00:02:44,840 --> 00:02:46,940
 Do you want to join us, Mary?
 
-30
+29
 00:02:48,080 --> 00:02:53,880
 Certainly. Jack, do you have any plans for Saturday?
 
-31
+30
 00:02:54,720 --> 00:02:58,820
 Sure. I'm going to play ping pong with my friends.
 
-32
+31
 00:02:59,740 --> 00:03:01,740
 Do you want to join us, Mary?
 
-33
+32
 00:03:03,040 --> 00:03:20,780
 Certainly. 5. Do you like the concert last night?
 
-34
+33
 00:03:20,780 --> 00:03:25,260
 I saw my favorite singer and my favorite pianist.
 
-35
+34
 00:03:27,060 --> 00:03:29,500
 Do you like the concert last night?
 
-36
+35
 00:03:30,540 --> 00:03:33,940
 I saw my favorite singer and my favorite pianist.
 
-37
-00:03:39,420 --> 00:03:40,090
-B. What a happy family!
-
-38
+36
 00:03:40,090 --> 00:03:46,450
 一，请听下面四段对话，每段对话后有几个小题，从题中所给的
 
-39
+37
+00:03:47,160 --> 00:03:47,950
+B, and William, this is my family photo.
+
+38
 00:03:47,950 --> 00:03:53,470
 三个选项中选出最佳选项，并在答题卡上将该项涂黑。
 
-40
+39
 00:03:53,830 --> 00:03:59,950
 听每段对话前，你将有时间阅读各个小题，每小题五秒钟。
 
-41
+40
 00:04:00,270 --> 00:04:06,270
 听完后，各小题给出五秒钟的作答时间，每段对话读两遍。
 
-42
+41
 00:04:07,530 --> 00:04:11,370
 请听第一段对话，回答第六、七小题。
+
+42
+00:04:21,000 --> 00:04:22,400
+What a happy family!
 
 43
 00:04:23,020 --> 00:04:25,380
@@ -287,281 +287,317 @@ You'd better take the subway.
 Where is the subway station?
 
 73
-00:06:18,760 --> 00:06:33,950
-Look. Hey, Jenny.
+00:06:18,760 --> 00:06:23,800
+Look. The subway station is right over there.
 
 74
+00:06:24,740 --> 00:06:26,120
+Thank you very much.
+
+75
+00:06:27,200 --> 00:06:33,950
+You're welcome. Hey, Jenny.
+
+76
 00:06:33,950 --> 00:06:38,150
 请听第三段对话，回答第十至第十二小题。
 
-75
+77
 00:06:45,780 --> 00:06:48,820
 What's up? Hi, Peter.
 
-76
+78
 00:06:49,660 --> 00:06:52,660
 Are you enjoying your vacation in Wugong Mountain?
 
-77
+79
 00:06:53,860 --> 00:06:58,040
 Yes. I'm having a good time with my parents here.
 
-78
+80
 00:06:58,900 --> 00:07:00,700
 What's the weather like there?
 
-79
+81
 00:07:01,580 --> 00:07:04,060
 It's really cool, even in summer.
 
-80
+82
 00:07:05,080 --> 00:07:06,500
 That sounds good.
 
-81
+83
 00:07:07,520 --> 00:07:08,800
 Yeah, it is.
 
-82
+84
 00:07:09,560 --> 00:07:12,020
 So how's your vacation in Gansu?
 
-83
+85
 00:07:13,020 --> 00:07:14,760
 It's also pretty nice.
 
-84
+86
 00:07:15,540 --> 00:07:17,920
 The people here are very friendly.
 
-85
+87
 00:07:20,880 --> 00:07:23,240
 Hey, Jenny. What's up?
 
-86
+88
 00:07:24,240 --> 00:07:29,200
 Hi, Peter. Are you enjoying your vacation in Wugong Mountain?
 
-87
+89
 00:07:30,140 --> 00:07:34,480
 Yes. I'm having a good time with my parents here.
 
-88
+90
 00:07:35,420 --> 00:07:37,220
 What's the weather like there?
 
-89
+91
 00:07:37,840 --> 00:07:40,600
 It's really cool, even in summer.
 
-90
+92
 00:07:40,600 --> 00:07:43,120
 That sounds good.
 
-91
+93
 00:07:44,120 --> 00:07:45,400
 Yeah, it is.
 
-92
+94
 00:07:46,080 --> 00:07:48,600
 So how's your vacation in Gansu?
 
-93
+95
 00:07:49,460 --> 00:07:51,300
 It's also pretty nice.
 
-94
+96
 00:07:52,020 --> 00:07:54,460
 The people here are very friendly.
 
-95
+97
 00:08:00,330 --> 00:08:05,010
 请听第四段对话，回答第十三至第十五小题。
 
-96
+98
+00:08:10,600 --> 00:08:12,580
+What are you going to do tonight?
+
+99
+00:08:13,680 --> 00:08:14,880
+I don't know.
+
+100
+00:08:15,540 --> 00:08:16,720
+I am kind of bored.
+
+101
+00:08:17,660 --> 00:08:19,700
+I have nothing to do today.
+
+102
 00:08:20,720 --> 00:08:22,220
 Would you like to see a movie?
 
-97
+103
 00:08:23,220 --> 00:08:25,700
 Nizha 2 will be on at 7 o 'clock tonight.
 
-98
+104
 00:08:26,700 --> 00:08:29,720
 Nizha 2? I've never heard of it.
 
-99
+105
 00:08:30,140 --> 00:08:31,280
 Is it any good?
 
-100
+106
 00:08:33,120 --> 00:08:38,920
 Sure. Actually, I watched it last Sunday, but I don't mind watching it a second
 
-101
+107
 00:08:38,920 --> 00:08:41,660
 time. Oh, really?
 
-102
+108
 00:08:42,460 --> 00:08:45,600
 I suppose I could go and see it.
 
-103
+109
 00:08:45,840 --> 00:08:52,240
 Great. Since the movie starts at 7 p.m., should I pick you up around 6.30?
 
-104
+110
 00:08:53,160 --> 00:08:56,260
 Okay. That would be very nice.
 
-105
+111
 00:08:57,220 --> 00:08:58,320
 See you then.
 
-106
+112
 00:09:00,840 --> 00:09:02,940
 What are you going to do tonight?
 
-107
+113
 00:09:02,940 --> 00:09:04,960
 I don't know.
 
-108
+114
 00:09:05,780 --> 00:09:07,080
 I am kind of bored.
 
-109
+115
 00:09:07,980 --> 00:09:10,080
 I have nothing to do today.
 
-110
+116
 00:09:11,140 --> 00:09:16,100
 you like to see a Nizha 2 will be on at 7 o tonight.
 
-111
+117
 00:09:17,080 --> 00:09:20,000
 Nizha 2? I've never heard of it.
 
-112
+118
 00:09:20,540 --> 00:09:21,640
 Is it any good?
 
-113
+119
 00:09:23,420 --> 00:09:29,300
 Sure. Actually, I watched it last Sunday, but I don't mind watching it a second
 
-114
+120
 00:09:29,300 --> 00:09:32,100
 time. Oh, really?
 
-115
+121
 00:09:32,720 --> 00:09:35,800
 I suppose I could go and see it.
 
-116
-00:09:36,200 --> 00:09:39,840
-Great. Since the movie starts at 7 p
+122
+00:09:36,200 --> 00:09:42,740
+Great. Since the movie starts at 7 p.m., should I pick you up around 6.30?
 
-117
+123
+00:09:43,500 --> 00:09:46,600
+Okay. That would be very nice.
+
+124
+00:09:47,500 --> 00:09:48,820
+See you then.
+
+125
 00:09:55,210 --> 00:09:59,950
 请听下面一段独白，根据独白内容完成下列句子。
 
-118
+126
 00:10:00,570 --> 00:10:03,090
 每个空格不超过三个单词。
 
-119
+127
 00:10:03,510 --> 00:10:06,570
 将答案填写到答题卡的相应位置。
 
-120
+128
 00:10:06,930 --> 00:10:11,610
 听独白前，你将有五十秒钟的时间阅读句子内容。
 
-121
+129
 00:10:12,090 --> 00:10:13,110
 独白读两遍。
 
-122
-00:10:44,620 --> 00:10:50,240
-Hello, everyone. I'm so excited to tell you about our outdoor class.
+130
+00:10:26,520 --> 00:10:45,820
+Thank you. Hello, everyone.
 
-123
+131
+00:10:46,560 --> 00:10:50,240
+I'm so excited to tell you about our outdoor class.
+
+132
 00:10:50,880 --> 00:10:54,800
 We're going to the new park near our school on Saturday morning.
 
-124
+133
 00:10:55,500 --> 00:11:01,920
 We will meet at our school gate at 8 o When everyone arrives, we are going to the
 
-125
+134
 00:11:01,920 --> 00:11:03,000
 park on foot.
 
-126
+135
 00:11:03,640 --> 00:11:04,960
 So don't be late.
 
-127
+136
 00:11:05,800 --> 00:11:10,180
 We're going to look for different kinds of birds all morning and then we're having
 
-128
+137
 00:11:10,180 --> 00:11:14,800
 lunch together. After lunch, we'll look for some more.
 
-129
+138
 00:11:15,460 --> 00:11:19,120
 Some scientists will be there to explain things to us.
 
-130
+139
 00:11:19,840 --> 00:11:24,300
 So don't forget to take a pen because you have to write everything down.
 
-131
+140
 00:11:24,300 --> 00:11:29,680
 I'm sure all of you will learn more about birds from this special class.
 
-132
+141
 00:11:33,000 --> 00:11:38,340
 Hello, everyone. I'm so excited to tell you about our outdoor class.
 
-133
+142
 00:11:39,160 --> 00:11:42,900
 We're going to the new park near our school on Saturday morning.
 
-134
+143
 00:11:43,540 --> 00:11:46,080
 We will meet at our school gate at 8 o
 
-135
+144
 00:11:46,820 --> 00:11:50,460
 When everyone arrives, we are going to the park on foot.
 
-136
+145
 00:11:51,020 --> 00:11:52,400
 So don't be late.
 
-137
+146
 00:11:52,400 --> 00:11:57,540
 We're going to look for different kinds of birds all morning and then we're having
 
-138
+147
 00:11:57,540 --> 00:12:01,820
 lunch together. After lunch, we'll look for some more.
 
-139
+148
 00:12:02,560 --> 00:12:05,960
 Some scientists will be there to explain things to us.
 
-140
+149
 00:12:06,720 --> 00:12:11,000
 So don't forget to take a pen because you have to write everything down.
 
-141
+150
 00:12:11,580 --> 00:12:16,260
 I'm sure all of you will learn more about birds from this special class.
 
-142
+151
 00:12:18,330 --> 00:12:19,950
 听力部分到此结束。

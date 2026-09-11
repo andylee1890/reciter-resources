@@ -11,24 +11,24 @@
 从题中所给的
 
 4
+00:00:16,300 --> 00:00:17,910
+B, 2. So, are you doing anything this evening?
+
+5
 00:00:17,910 --> 00:00:19,950
 三个选项中选出。
 
-5
+6
 00:00:20,090 --> 00:00:21,290
 五，最佳选项。
 
-6
+7
 00:00:22,610 --> 00:00:31,010
 听完每段对话后，你都有十秒钟的时间来回答有关小题和阅读下一小题。
 
-7
+8
 00:00:31,970 --> 00:00:39,950
 每段对话仅读一遍。
-
-8
-00:01:05,000 --> 00:01:10,680
-2. So, are you doing anything this evening?
 
 9
 00:01:11,180 --> 00:01:14,500
@@ -56,7 +56,7 @@ It's long enough to watch a movie.
 
 15
 00:02:28,600 --> 00:02:39,410
-I'm hungry. I'm going to the library on Saturday morning.
+I'm hungry. B, I'm going to the library on Saturday morning.
 
 16
 00:02:39,410 --> 00:02:39,950
@@ -363,12 +363,12 @@ mind. So that's what I do.
 现在，你有二十秒钟的时间阅读这四个小题。
 
 92
-00:08:28,300 --> 00:08:34,640
-I'm sure everyone here knows all about the terrible sickness Ebola, which makes
+00:08:13,840 --> 00:08:34,220
+Thank you. I'm sure everyone here knows all about the terrible sickness Ebola, which
 
 93
-00:08:34,640 --> 00:08:38,080
-thousands and thousands of people in Africa sick.
+00:08:34,220 --> 00:08:38,080
+makes thousands and thousands of people in Africa sick.
 
 94
 00:08:38,080 --> 00:08:44,900
@@ -453,3 +453,7 @@ I'm sure everyone here knows all about the terrible sickness Ebola, which makes
 114
 00:10:56,860 --> 00:10:57,800
 thousands and thousands of people in Africa
+
+115
+00:11:25,180 --> 00:11:26,580
+I'm

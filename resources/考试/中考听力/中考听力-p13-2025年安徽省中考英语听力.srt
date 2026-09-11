@@ -135,453 +135,469 @@ It's Erhu, a traditional Chinese musical instrument,
 诶，
 
 35
+00:03:41,100 --> 00:03:45,960
+It's Erhu, a traditional Chinese musical instrument,
+
+36
 00:03:52,990 --> 00:03:53,290
 二。
 
-36
+37
 00:03:54,670 --> 00:03:55,990
 长对话理解。
 
-37
+38
 00:03:57,130 --> 00:03:59,950
 你将听到两段对话，每段对话。
 
-38
+39
 00:04:00,090 --> 00:04:03,270
 话后有几个小题，请在每小题所给的
 
-39
+40
+00:04:04,300 --> 00:04:05,370
+B, and questions.
+
+41
 00:04:05,370 --> 00:04:08,070
 三个选项中选出一个最佳选项。
 
-40
+42
 00:04:08,610 --> 00:04:10,350
 每段对话读两遍。
 
-41
+43
 00:04:11,430 --> 00:04:15,390
 听下面一段对话，回答第六、七题。
 
-42
+44
 00:04:40,460 --> 00:04:45,820
 That I will get on the bus at half past five, and get home at about six o
 
-43
+45
 00:04:47,280 --> 00:04:48,600
 That's a little late.
 
-44
+46
 00:04:50,080 --> 00:04:52,360
 Do you have anything special to do tonight?
 
-45
+47
 00:04:53,320 --> 00:04:55,420
 I'll watch a ping -pong game first.
 
-46
+48
 00:04:56,640 --> 00:04:59,280
 Then do some reading after dinner as usual.
 
-47
+49
 00:05:03,220 --> 00:05:05,820
 Oh no, we just missed the bus.
 
-48
+50
 00:05:07,120 --> 00:05:08,840
 Take it easy, John.
 
-49
+51
 00:05:09,180 --> 00:05:12,140
 There will be another one in 15 minutes.
 
-50
+52
 00:05:13,140 --> 00:05:19,040
 That means, I will get on the bus at half past five, and get home at about six o
 
-51
+53
 00:05:20,220 --> 00:05:21,640
 That's a little late.
 
-52
+54
 00:05:22,900 --> 00:05:25,600
 Do you have anything special to do tonight?
 
-53
+55
 00:05:26,260 --> 00:05:28,420
 I'll watch a ping -pong game first.
 
-54
+56
 00:05:28,480 --> 00:05:30,900
 Then do some reading after dinner as usual.
 
-55
+57
 00:05:41,050 --> 00:05:44,710
 听下面一段对话，回答第八至十题。
 
-56
+58
 00:06:06,500 --> 00:06:10,040
 What are you looking at?
 
-57
+59
 00:06:10,760 --> 00:06:12,360
 Some club notices.
 
-58
+60
 00:06:13,260 --> 00:06:16,440
 swimming club on Monday, the science club.
 
-59
+61
 00:06:16,840 --> 00:06:19,740
 Hey Mike, why don't we join one together?
 
-60
+62
 00:06:20,800 --> 00:06:23,800
 Sounds nice. How about the tennis club on Wednesday?
 
-61
+63
 00:06:25,440 --> 00:06:27,680
 I'm not interested in tennis.
 
-62
+64
 00:06:28,220 --> 00:06:29,660
 I like singing.
 
-63
+65
 00:06:30,360 --> 00:06:32,700
 Let's go to the music club on Friday.
 
-64
+66
 00:06:32,700 --> 00:06:37,780
 But Tom and I have chosen the drawing club on Friday.
 
-65
+67
 00:06:38,480 --> 00:06:41,160
 Really? I like drawing too.
 
-66
+68
 00:06:41,580 --> 00:06:44,000
 We can draw together in the club then.
 
-67
+69
 00:06:45,320 --> 00:06:50,560
 Okay. Hello, Lucy.
 
-68
+70
 00:06:50,780 --> 00:06:52,160
 What are you looking at?
 
-69
+71
 00:06:53,640 --> 00:06:55,420
 Some club notices.
 
-70
+72
 00:06:56,180 --> 00:06:59,440
 The swimming club on Monday, the science club.
 
-71
+73
 00:06:59,440 --> 00:07:02,820
 Hey Mike, why don't we join one together?
 
-72
+74
 00:07:03,700 --> 00:07:06,660
 Sounds nice. How about the tennis club on Wednesday?
 
-73
+75
 00:07:08,340 --> 00:07:10,560
 I'm not interested in tennis.
 
-74
+76
 00:07:11,120 --> 00:07:12,560
 I like singing.
 
-75
+77
 00:07:13,120 --> 00:07:15,560
 Let's go to the music club on Friday.
 
-76
+78
 00:07:16,500 --> 00:07:19,700
 But Tom and I have chosen the drawing club on Friday.
 
-77
+79
 00:07:21,360 --> 00:07:24,520
 Really? I like drawing too.
 
-78
+80
 00:07:24,980 --> 00:07:27,480
 We can draw together in the club then.
 
-79
+81
 00:07:27,480 --> 00:07:44,410
-Okay. Today is the cleaning day.
+Okay. the A, B, and
 
-80
+82
 00:07:44,410 --> 00:07:44,770
 三。
 
-81
+83
 00:07:46,090 --> 00:07:47,170
 短文理解。
 
-82
+84
 00:07:48,250 --> 00:07:55,390
 你将听到一篇短文，短文后有五个小题，请根据短文内容，在每小题所给
 
-83
+85
 00:07:57,430 --> 00:07:59,950
 三个选项中选出一个最佳选项。
 
-84
+86
 00:08:00,630 --> 00:08:01,770
 短文读两遍。
 
-85
+87
+00:08:32,860 --> 00:08:35,020
+Today is the cleaning day.
+
+88
 00:08:35,520 --> 00:08:38,120
 It is a tradition in my family.
 
-86
+89
 00:08:38,960 --> 00:08:42,780
 After I got up in the morning, I started to tidy up my bedroom.
 
-87
+90
 00:08:43,580 --> 00:08:46,880
 Mom cleaned the kitchen and Dad cleaned the yard.
 
-88
+91
 00:08:47,880 --> 00:08:53,200
 First, I went through all my clothes and decided to give some to my 11 -year -old
 
-89
+92
 00:08:53,200 --> 00:08:56,460
 cousin. Then I put away my books.
 
-90
+93
 00:08:57,500 --> 00:08:59,920
 Some of them were found behind my desk.
 
-91
+94
 00:09:00,640 --> 00:09:03,480
 I also found a box of building blocks.
 
-92
+95
 00:09:04,220 --> 00:09:07,440
 They were given by Grandma on my 10th birthday.
 
-93
+96
 00:09:08,240 --> 00:09:12,340
 Under my bed, I saw my lost model plane.
 
-94
+97
 00:09:12,980 --> 00:09:14,340
 It's my favorite toy.
 
-95
+98
 00:09:15,400 --> 00:09:19,300
 When all was done, it was 12 o but I didn't feel tired.
 
-96
+99
 00:09:20,360 --> 00:09:22,860
 I shouted to my parents to come in.
 
-97
+100
 00:09:23,480 --> 00:09:27,440
 They were surprised to see the nice clean room and gave me a big hand.
 
-98
+101
 00:09:28,280 --> 00:09:29,650
 I was very happy.
 
-99
+102
 00:09:33,510 --> 00:09:35,750
 Today is the cleaning day.
 
-100
+103
 00:09:36,370 --> 00:09:38,690
 It is a tradition in my family.
 
-101
+104
 00:09:39,270 --> 00:09:43,490
 After I got up in the morning, I started to tidy up my bedroom.
 
-102
+105
 00:09:44,430 --> 00:09:47,070
 Mom cleaned the kitchen and Dad cleaned the yard.
 
-103
+106
 00:09:47,810 --> 00:09:53,050
 First, I went through all my clothes and decided to give some to my 11 -year -old
 
-104
+107
 00:09:53,050 --> 00:09:56,190
 cousin. Then I put away my books.
 
-105
+108
 00:09:56,370 --> 00:09:59,010
 Some of them were found behind my desk.
 
-106
+109
 00:09:59,670 --> 00:10:02,550
 I also found a box of building blocks.
 
-107
+110
 00:10:03,270 --> 00:10:06,310
 They were given by Grandma on my 10th birthday.
 
-108
+111
 00:10:07,090 --> 00:10:10,350
 Under my bed, I saw my lost model plane.
 
-109
+112
 00:10:10,970 --> 00:10:12,530
 It's my favorite toy.
 
-110
+113
 00:10:12,810 --> 00:10:17,430
 When all was done, it was 12 o but I didn't feel tired.
 
-111
+114
 00:10:17,430 --> 00:10:20,950
 I shouted to my parents to come in.
 
-112
+115
 00:10:20,950 --> 00:10:26,050
 They were surprised to see the nice clean room and gave me a big hand.
 
-113
+116
 00:10:26,270 --> 00:10:28,210
 I was very happy.
 
-114
+117
 00:10:56,350 --> 00:10:59,050
 四、信息转换。
 
-115
+118
+00:10:59,090 --> 00:11:00,210
+of word. Read the 5.
+
+119
 00:11:00,210 --> 00:11:07,710
 你将听到一篇短文，请根据短文内容写出下面表格中所缺的单词，每空仅
 
-116
+120
 00:11:07,830 --> 00:11:08,610
 填一词。
 
-117
+121
 00:11:09,210 --> 00:11:10,290
 短文读两遍。
 
-118
+122
 00:11:41,330 --> 00:11:44,870
 Knowing how to start a is a great life skill.
 
-119
+123
 00:11:45,650 --> 00:11:50,350
 If you're unsure of what to talk about with someone, here is some advice to help you
 
-120
+124
 00:11:50,350 --> 00:11:51,970
 break the silence.
 
-121
+125
 00:11:52,650 --> 00:11:54,810
 First, smile to get started.
 
-122
+126
 00:11:55,910 --> 00:11:59,310
 If you look friendly, people will want to talk to you.
 
-123
+127
 00:12:00,010 --> 00:12:02,690
 So, say hello to people with a smile.
 
-124
+128
 00:12:03,990 --> 00:12:06,410
 Second, use starters to get talking.
 
-125
+129
 00:12:07,570 --> 00:12:11,910
 Say something sweet such as I like your coat, or your coat is very nice.
 
-126
+130
 00:12:11,910 --> 00:12:15,790
 Ask simple questions like who is your hero?
 
-127
+131
 00:12:16,530 --> 00:12:18,610
 Or what is your favorite food?
 
-128
+132
 00:12:19,770 --> 00:12:23,810
 Also, you can offer help, saying do you need any help with that?
 
-129
+133
 00:12:24,970 --> 00:12:27,890
 Third, listen carefully and nod.
 
-130
+134
 00:12:28,090 --> 00:12:31,130
 Show that you are interested in what people are saying.
 
-131
+135
 00:12:32,350 --> 00:12:36,910
 Keep the conversation going by asking another question about what they've told you.
 
-132
+136
 00:12:36,910 --> 00:12:44,650
 4. Conversation Knowing how to start a conversation is a great life skill.
 
-133
+137
 00:12:45,390 --> 00:12:49,990
 If you're unsure of what to talk about with someone, here is some advice to help you
 
-134
+138
 00:12:49,990 --> 00:12:51,150
 break the silence.
 
-135
+139
 00:12:51,790 --> 00:12:53,930
 First, smile to get started.
 
-136
+140
 00:12:54,610 --> 00:12:57,990
 If you look friendly, people will want to talk to you.
 
-137
+141
 00:12:58,590 --> 00:13:01,530
 So, say hello to people with a smile.
 
-138
+142
 00:13:01,530 --> 00:13:05,290
 Second, use starters to get talking.
 
-139
+143
 00:13:05,790 --> 00:13:15,810
 Say something sweet such as I like your coat, or your coat is very nice.
 
-140
+144
 00:13:16,930 --> 00:13:21,250
 Ask simple questions like who is your hero?
 
-141
+145
 00:13:22,630 --> 00:13:26,190
 Or what is your favorite food?
 
-142
+146
 00:13:27,090 --> 00:13:33,490
 Also, you can offer help, saying do you need any help with that?
 
-143
+147
 00:13:34,670 --> 00:13:37,350
 Third, listen carefully and nod.
 
-144
+148
 00:13:37,350 --> 00:13:40,910
 Show that you are interested in what people are saying.
 
-145
+149
 00:13:41,430 --> 00:13:46,410
 Keep the conversation going by asking another question about what they've told you.
 
-146
-00:13:55,590 --> 00:13:56,190
-5.
+150
+00:13:55,590 --> 00:14:14,730
+5. for
 
-147
+151
 00:14:14,730 --> 00:14:16,590
 听力测试到此结束。

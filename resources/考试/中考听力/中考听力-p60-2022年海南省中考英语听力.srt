@@ -67,337 +67,357 @@ Number 10 I have a and I'm feeling awful now.
 I have a headache and I'm feeling awful now.
 
 18
+00:03:21,880 --> 00:03:24,350
+Number Bob, what sports do you usually do?
+
+19
 00:03:24,350 --> 00:03:28,370
 第三大题：对话理解。
 
-19
+20
 00:03:29,990 --> 00:03:32,510
 根据你所听到的对话内容，
 
-20
+21
 00:03:34,250 --> 00:03:37,730
 选出能回答所提问题的最佳选项。
 
-21
+22
 00:03:39,410 --> 00:03:39,950
 每段。
 
-22
+23
 00:03:40,030 --> 00:03:41,110
 对话读两遍。
 
-23
+24
 00:03:44,050 --> 00:03:45,550
 听第一段对话。
 
-24
+25
 00:03:47,230 --> 00:03:49,870
 回答第十一和第十二小题。
 
-25
+26
 00:04:01,300 --> 00:04:02,500
 I like swimming.
 
-26
+27
 00:04:03,740 --> 00:04:05,740
 Sometimes I go running.
 
-27
+28
 00:04:06,940 --> 00:04:11,100
 Running? I don't like it.
 
-28
+29
 00:04:11,740 --> 00:04:13,200
 It's a little bit boring.
 
-29
+30
 00:04:14,150 --> 00:04:16,280
 I enjoy table tennis.
 
-30
+31
 00:04:18,600 --> 00:04:20,680
 I can play table tennis too.
 
-31
+32
 00:04:21,860 --> 00:04:23,490
 Maybe we can play together.
 
-32
+33
 00:04:25,560 --> 00:04:29,340
 Yeah. How about this Sunday morning?
 
-33
+34
 00:04:30,900 --> 00:04:35,820
 Okay. I'll wait for you at school then.
 
-34
+35
 00:04:40,680 --> 00:04:45,320
 Bob, what sports do you usually do?
 
-35
+36
 00:04:46,660 --> 00:04:47,800
 I like swimming.
 
-36
+37
 00:04:48,760 --> 00:04:50,780
 Sometimes I go running.
 
-37
+38
 00:04:52,120 --> 00:04:56,440
 Running? I don't like it.
 
-38
+39
 00:04:56,640 --> 00:04:58,440
 It's a little bit boring.
 
-39
+40
 00:04:59,380 --> 00:05:01,340
 I enjoy table tennis.
 
-40
+41
 00:05:01,340 --> 00:05:05,980
 I can play table tennis too.
 
-41
+42
 00:05:06,940 --> 00:05:08,770
 Maybe we can play together.
 
-42
+43
 00:05:11,120 --> 00:05:14,620
 Yeah. How about this Sunday morning?
 
-43
-00:05:15,940 --> 00:05:19,700
-Okay. I'll wait for you at school
-
 44
+00:05:15,940 --> 00:05:21,240
+Okay. I'll wait for you at school then.
+
+45
 00:05:27,170 --> 00:05:28,790
 听第二段对话。
 
-45
+46
 00:05:30,470 --> 00:05:32,750
 回答第3到15小题。
 
-46
+47
+00:05:37,300 --> 00:05:40,160
+What can I do for you, madam?
+
+48
 00:05:40,600 --> 00:05:43,860
 I want to buy a TV set for my new house.
 
-47
+49
 00:05:44,940 --> 00:05:47,500
 What kind of TV set do you like?
 
-48
+50
 00:05:48,600 --> 00:05:51,580
 Actually, I haven't decided yet.
 
-49
+51
 00:05:52,480 --> 00:05:54,120
 How about this one?
 
-50
+52
 00:05:54,580 --> 00:05:56,220
 It sells well.
 
-51
+53
 00:05:58,080 --> 00:06:00,920
 Erm, it looks small.
 
-52
+54
 00:06:02,320 --> 00:06:03,800
 Do you have a bigger one?
 
-53
+55
 00:06:04,720 --> 00:06:11,780
 Yes. Look. Here's a bigger one and it's only 4,000 yuan.
 
-54
+56
 00:06:13,160 --> 00:06:16,420
 Good. I'll take it.
 
-55
+57
 00:06:17,420 --> 00:06:22,040
 Thanks. We'll send you the TV set this afternoon.
 
-56
+58
 00:06:27,800 --> 00:06:30,540
 What can I do for you, madam?
 
-57
+59
 00:06:31,120 --> 00:06:34,260
 I want to buy a TV set for my new house.
 
-58
+60
 00:06:35,360 --> 00:06:37,920
 What kind of TV set do you like?
 
-59
+61
 00:06:38,980 --> 00:06:41,920
 Actually, I haven't decided yet.
 
-60
+62
 00:06:42,860 --> 00:06:44,580
 How about this one?
 
-61
+63
 00:06:45,000 --> 00:06:46,220
 It sells well.
 
-62
+64
 00:06:48,920 --> 00:06:51,060
 Erm, it looks small.
 
-63
+65
 00:06:52,420 --> 00:06:54,080
 Do you have a bigger one?
 
-64
+66
 00:06:54,080 --> 00:07:02,160
 Yes. Look. Here's a bigger one and it's only 4,000 yuan.
 
-65
+67
 00:07:03,480 --> 00:07:06,460
 Good. I'll take it.
 
-66
+68
 00:07:07,760 --> 00:07:12,460
 Thanks. We'll send you the TV set this afternoon.
 
-67
-00:07:17,940 --> 00:07:19,050
-The Fourth Question The Fourth collection house.
-
-68
+69
 00:07:19,050 --> 00:07:19,950
 第四大题。
 
-69
+70
 00:07:20,090 --> 00:07:22,970
 一，短文理解。
 
-70
+71
+00:07:23,920 --> 00:07:24,590
+Fourth Question Fourth Question The Fourth collection house.
+
+72
 00:07:24,590 --> 00:07:27,350
 根据你所听到的短文内容，
 
-71
+73
 00:07:29,030 --> 00:07:30,830
 选出最佳选项。
 
-72
+74
 00:07:32,630 --> 00:07:33,890
 短文读两遍。
 
-73
+75
 00:07:44,560 --> 00:07:46,160
 A building of two floors.
 
-74
+76
 00:07:48,060 --> 00:07:50,780
 We took the school bus and arrived at nine.
 
-75
+77
 00:07:52,520 --> 00:07:54,160
 When we entered the
 
-76
+78
 00:07:54,980 --> 00:07:58,260
 our eyes were caught by a collection of old photos.
 
-77
+79
 00:08:00,020 --> 00:08:03,740
 Those photos told us something about the history of the town.
 
-78
+80
 00:08:05,260 --> 00:08:07,200
 Then we went upstairs.
 
-79
+81
 00:08:08,200 --> 00:08:13,200
 On the left, there were over 100 different clocks.
 
-80
+82
 00:08:15,140 --> 00:08:19,160
 The oldest clock was already more than 200 years old.
 
-81
+83
 00:08:19,960 --> 00:08:24,100
 On the right, there was a stone collection.
 
-82
+84
 00:08:25,820 --> 00:08:30,580
 The stones were in different sizes, colours and shapes.
 
-83
+85
 00:08:31,800 --> 00:08:35,840
 I really loved one stone that looked like a little rabbit,
 
-84
+86
 00:08:36,580 --> 00:08:38,660
 which was eating a carrot.
 
-85
+87
 00:08:40,080 --> 00:08:42,080
 The collections there were wonderful.
 
-86
+88
 00:08:43,840 --> 00:08:45,460
 We stayed there until 11.
 
-87
+89
 00:08:47,020 --> 00:08:50,480
 Everyone had a good time in the school trip.
 
-88
+90
 00:08:54,040 --> 00:08:59,640
 This morning, we had a school trip to the Dashan Collection House.
 
-89
+91
 00:09:00,580 --> 00:09:02,820
 A building of two floors.
 
-90
+92
 00:09:04,400 --> 00:09:07,080
 We took the school bus and arrived at
 
-91
+93
 00:09:08,600 --> 00:09:14,800
 When we entered the house, our eyes were caught by a collection of old photos.
 
-92
+94
 00:09:16,560 --> 00:09:20,320
 Those photos told us something about the history of the town.
 
-93
+95
 00:09:21,980 --> 00:09:24,000
 Then we went upstairs.
 
-94
+96
 00:09:25,100 --> 00:09:30,080
 On the left, there were over 100 different clocks.
 
-95
+97
 00:09:31,980 --> 00:09:35,980
 The oldest clock was already more than 200 years old.
 
-96
+98
 00:09:36,860 --> 00:09:41,060
 On the right, there was a stone collection.
 
-97
+99
 00:09:42,860 --> 00:09:47,420
 The stones were in different sizes, colours and shapes.
 
-98
+100
 00:09:49,220 --> 00:09:52,680
 I really loved one stone that looked like a little rabbit,
 
-99
+101
 00:09:54,000 --> 00:09:56,220
 was eating a carrot.
 
-100
+102
 00:09:57,060 --> 00:09:59,040
 The collections there were wonderful.
 
-101
+103
+00:10:00,740 --> 00:10:02,520
+We stayed there until 11.
+
+104
+00:10:04,160 --> 00:10:07,940
+Everyone had a good time in the school trip.
+
+105
 00:10:12,630 --> 00:10:14,910
 听力测试到此结束。
+
+106
+00:10:36,200 --> 00:10:39,000
+Thank you

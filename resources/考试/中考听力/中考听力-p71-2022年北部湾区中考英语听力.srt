@@ -195,8 +195,8 @@ OK, no problem.
 每个句子读一遍。
 
 50
-00:04:09,680 --> 00:04:13,320
-I am in class 1, grade 9.
+00:03:57,060 --> 00:04:13,320
+1. I am in class 1, grade 9.
 
 51
 00:04:24,080 --> 00:04:29,440
@@ -279,8 +279,8 @@ Lily 10. It is not healthy to sit for a long time.
 请听第一段对话，回答第十一至十三小题。
 
 71
-00:08:37,740 --> 00:08:54,980
-is not 13.
+00:08:37,720 --> 00:08:54,980
+It is not 13.
 
 72
 00:08:59,000 --> 00:09:22,700
@@ -303,589 +303,601 @@ we ride to the park now?
 请听第二段对话，回答第十四至十六小题。
 
 77
+00:10:35,820 --> 00:10:40,280
+Hello, Mike. What will you do this Saturday?
+
+78
 00:10:41,580 --> 00:10:46,040
 Hi, Jane. My parents want to climb the mountain.
 
-78
+79
 00:10:46,700 --> 00:10:48,680
 But I am not sure.
 
-79
+80
 00:10:49,280 --> 00:10:50,500
 What's your plan?
 
-80
+81
 00:10:51,640 --> 00:10:54,640
 I plan to make dumplings at home.
 
-81
+82
 00:10:55,360 --> 00:10:57,060
 Would you like to join me?
 
-82
+83
 00:10:58,080 --> 00:10:59,680
 That sounds great.
 
-83
+84
 00:11:00,240 --> 00:11:02,120
 What can I do to help?
 
-84
+85
 00:11:02,120 --> 00:11:05,760
 I have some vegetables in the fridge.
 
-85
+86
 00:11:06,760 --> 00:11:08,160
 We need some meat.
 
-86
+87
 00:11:09,720 --> 00:11:15,020
 How about going to the supermarket to get some meat this Saturday morning?
 
-87
+88
 00:11:16,320 --> 00:11:24,840
 Good idea. Hello, Mike.
 
-88
+89
 00:11:25,700 --> 00:11:27,560
 What will you do this Saturday?
 
-89
+90
 00:11:28,920 --> 00:11:33,340
 Hi, Jane. My parents want to climb the mountain.
 
-90
+91
 00:11:34,140 --> 00:11:36,000
 But I am not sure.
 
-91
+92
 00:11:36,660 --> 00:11:37,840
 What's your plan?
 
-92
+93
 00:11:39,160 --> 00:11:41,980
 I plan to make dumplings at home.
 
-93
+94
 00:11:42,620 --> 00:11:44,420
 Would you like to join me?
 
-94
+95
 00:11:44,420 --> 00:11:47,040
 That sounds great.
 
-95
+96
 00:11:47,520 --> 00:11:49,480
 What can I do to help?
 
-96
+97
 00:11:50,540 --> 00:11:53,100
 I have some vegetables in the fridge.
 
-97
+98
 00:11:53,940 --> 00:11:55,460
 We need some meat.
 
-98
-00:11:56,880 --> 00:11:59,920
-How about going to the supermarket to get
-
 99
+00:11:56,880 --> 00:12:02,340
+How about going to the supermarket to get some meat this Saturday morning?
+
+100
+00:12:03,580 --> 00:12:17,490
+Good idea. will catch a cold.
+
+101
 00:12:17,490 --> 00:12:19,950
 请听第三段对话。
 
-100
+102
 00:12:20,030 --> 00:12:22,670
 回答第十七至二十小题。
 
-101
-00:12:44,420 --> 00:12:46,160
-will catch a cold.
-
-102
+103
 00:12:47,240 --> 00:12:47,980
 Thanks a lot.
 
-103
+104
 00:12:49,120 --> 00:12:50,540
 Why are you so wet?
 
-104
+105
 00:12:51,380 --> 00:12:55,340
 What happened? I took a bus to school.
 
-105
+106
 00:12:56,420 --> 00:12:58,920
 But too many people were on the bus.
 
-106
+107
 00:12:59,800 --> 00:13:01,880
 And my umbrella is lost.
 
-107
+108
 00:13:03,480 --> 00:13:04,780
 Sorry to hear that.
 
-108
+109
 00:13:06,140 --> 00:13:09,800
 Next time, you'd better take care of your things.
 
-109
+110
 00:13:09,800 --> 00:13:12,580
 Okay, I will.
 
-110
+111
 00:13:13,660 --> 00:13:15,120
 Thank you for your advice.
 
-111
+112
 00:13:16,780 --> 00:13:20,060
 You're welcome. Time for class.
 
-112
+113
 00:13:20,900 --> 00:13:23,740
 Go back to your sit, please.
 
-113
+114
 00:13:29,680 --> 00:13:31,680
 Good morning, Miss Smith.
 
-114
+115
 00:13:32,360 --> 00:13:34,520
 Sorry, I'm late.
 
-115
+116
 00:13:34,980 --> 00:13:36,640
 The rain is too heavy.
 
-116
+117
 00:13:37,400 --> 00:13:39,340
 It's okay, Tom.
 
-117
+118
 00:13:40,040 --> 00:13:41,460
 Come and get dried.
 
-118
+119
 00:13:42,240 --> 00:13:44,380
 Or you will catch a cold.
 
-119
+120
 00:13:45,680 --> 00:13:46,560
 Thanks a lot.
 
-120
+121
 00:13:47,700 --> 00:13:49,120
 Why are you so wet?
 
-121
+122
 00:13:49,920 --> 00:13:53,880
 What happened? I took a bus to school.
 
-122
+123
 00:13:54,960 --> 00:13:57,540
 But too many people were on the bus.
 
-123
+124
 00:13:58,360 --> 00:14:00,460
 And my umbrella is lost.
 
-124
+125
 00:14:01,640 --> 00:14:03,420
 Sorry to hear that.
 
-125
+126
 00:14:04,820 --> 00:14:08,420
 Next time, you'd better take care of your things.
 
-126
+127
 00:14:09,740 --> 00:14:11,140
 Okay, I will.
 
-127
+128
 00:14:12,100 --> 00:14:13,640
 Thank you for your advice.
 
-128
+129
 00:14:15,180 --> 00:14:18,620
 You're welcome. Time for class.
 
-129
-00:14:19,420 --> 00:14:20,090
-Go back Dear Amy, for your last email.
-
 130
+00:14:19,420 --> 00:14:20,090
+Go Read the Dear Amy,
+
+131
 00:14:20,090 --> 00:14:35,810
 到你的座位，请。
 
-131
+132
 00:14:36,050 --> 00:14:39,290
 四听短文，选择最佳答案。
 
-132
+133
 00:14:39,590 --> 00:14:39,950
 你。
 
-133
+134
 00:14:40,090 --> 00:14:48,550
 将听到一篇短文，请根据短文内容选出每个问题的最佳答案，并在答题卡
 
-134
+135
 00:14:48,790 --> 00:14:52,630
 上将选定答案的字母标号涂黑。
 
-135
+136
 00:14:53,710 --> 00:14:55,150
 短文读两遍。
 
-136
+137
+00:15:05,800 --> 00:15:07,520
+for your last email.
+
+138
 00:15:08,280 --> 00:15:12,720
 You asked me about interesting traveling experiences.
 
-137
+139
 00:15:14,240 --> 00:15:18,980
 I had a trip in northwest China three months ago.
 
-138
+140
 00:15:19,580 --> 00:15:24,840
 It was so far away from home, and it was deal a wonderful visit.
 
-139
+141
 00:15:25,920 --> 00:15:28,500
 I stayed there for two weeks.
 
-140
+142
 00:15:29,600 --> 00:15:33,500
 My uncle has lived there for five years.
 
-141
+143
 00:15:34,980 --> 00:15:39,420
 When I arrived, he picked me up at the train station.
 
-142
+144
 00:15:40,220 --> 00:15:43,320
 And he helped me make a trip plan.
 
-143
+145
 00:15:45,040 --> 00:15:49,820
 On the first day, I took a plane tour over the rocks.
 
-144
+146
 00:15:51,140 --> 00:15:56,100
 It was so exciting to see the colorful rocks from the sky.
 
-145
+147
 00:15:57,260 --> 00:16:00,300
 Later, I visited a famous lake.
 
-146
+148
 00:16:00,900 --> 00:16:03,760
 And I took a boat on it.
 
-147
+149
 00:16:04,320 --> 00:16:07,700
 Once, when I ate noodles at a restaurant,
 
-148
+150
 00:16:08,680 --> 00:16:11,560
 I met some friendly local people.
 
-149
+151
 00:16:12,540 --> 00:16:17,400
 We had a talk about the food, the weather, and many other things.
 
-150
+152
 00:16:18,440 --> 00:16:21,420
 I felt like we were old friends.
 
-151
+153
 00:16:22,200 --> 00:16:27,820
 The trip has left lovely and sweet memories in my heart.
 
-152
+154
 00:16:28,600 --> 00:16:31,380
 How about your interesting experiences?
 
-153
+155
 00:16:33,200 --> 00:16:35,260
 Waiting for your reply.
 
-154
+156
 00:16:35,680 --> 00:16:45,120
 Yours, Ellen Dear Amy,
 
-155
+157
 00:16:46,120 --> 00:16:47,920
 Thanks for your last email.
 
-156
+158
 00:16:47,920 --> 00:16:53,240
 You asked me about interesting traveling experiences.
 
-157
+159
 00:16:54,920 --> 00:16:59,380
 I had a trip in northwest China three months ago.
 
-158
+160
 00:17:00,220 --> 00:17:05,380
 It was so far away from home, and it was still a wonderful visit.
 
-159
+161
 00:17:06,480 --> 00:17:09,060
 I stayed there for two weeks.
 
-160
+162
 00:17:10,660 --> 00:17:13,980
 My uncle has lived there for five years.
 
-161
+163
 00:17:15,000 --> 00:17:19,820
 When I arrived, he picked me up at the train station.
 
-162
+164
 00:17:20,760 --> 00:17:23,860
 And he helped me make a trip plan.
 
-163
+165
 00:17:25,480 --> 00:17:30,500
 On the first day, I took a plane tour over the rocks.
 
-164
+166
 00:17:31,940 --> 00:17:36,720
 It was so exciting to see the colorful rocks from the sky.
 
-165
+167
 00:17:37,780 --> 00:17:40,980
 Later, I visited a famous lake.
 
-166
+168
 00:17:41,620 --> 00:17:44,140
 And I took a boat on it.
 
-167
+169
 00:17:44,920 --> 00:17:48,240
 Once, when I ate noodles at a restaurant,
 
-168
+170
 00:17:49,420 --> 00:17:52,300
 I met some friendly local people.
 
-169
+171
 00:17:53,880 --> 00:17:58,620
 We had a talk about the food, the weather, and many other things.
 
-170
+172
 00:17:59,880 --> 00:18:02,600
 I felt like we were old friends.
 
-171
+173
 00:18:03,420 --> 00:18:08,900
 The trip has left lovely and sweet memories in my heart.
 
-172
+174
 00:18:09,660 --> 00:18:12,440
 How about your interesting experiences?
 
-173
+175
 00:18:14,220 --> 00:18:16,120
 Waiting for your reply.
 
-174
+176
 00:18:17,300 --> 00:18:33,230
-Yours, Today, it's my turn to share a with you.
+Yours, Good morning, everyone.
 
-175
+177
 00:18:33,230 --> 00:18:35,990
 五、听短文填信息。
 
-176
+178
 00:18:36,410 --> 00:18:39,950
 你将听到一篇短文，请根据。
 
-177
+179
 00:18:40,090 --> 00:18:46,990
 短文内容将所缺信息填入答题卡对应的横线上，每空一词。
 
-178
+180
 00:18:48,070 --> 00:18:49,630
 短文读两遍。
 
-179
+181
+00:19:00,080 --> 00:19:05,080
+Today, it's my turn to share a with you.
+
+182
 00:19:06,060 --> 00:19:12,260
 It's called Black Beauty, written by British writer Anna Sewell.
 
-180
+183
 00:19:14,280 --> 00:19:17,740
 And the book came out in 1877.
 
-181
+184
 00:19:19,380 --> 00:19:21,040
 The hero is a horse.
 
-182
+185
 00:19:21,660 --> 00:19:23,100
 His name is Beauty.
 
-183
+186
 00:19:24,080 --> 00:19:30,200
 In the book, we can see the world through a horse's eyes.
 
-184
+187
 00:19:31,300 --> 00:19:35,320
 His first owner raises him with love.
 
-185
+188
 00:19:36,020 --> 00:19:39,240
 But when he grows up, he is sold.
 
-186
+189
 00:19:40,280 --> 00:19:44,120
 His new owner does very bad things to him.
 
-187
+190
 00:19:44,160 --> 00:19:46,440
 And his life gets hard.
 
-188
+191
 00:19:47,980 --> 00:19:52,560
 My favorite part is the horse's bravest moment.
 
-189
+192
 00:19:53,660 --> 00:19:58,160
 When his feet touch the first part of the bridge,
 
-190
+193
 00:19:58,980 --> 00:20:00,580
 he feels the danger.
 
-191
+194
 00:20:02,200 --> 00:20:08,560
 He stops and doesn't move at all, though his owner hurts him angrily.
 
-192
+195
 00:20:10,240 --> 00:20:15,940
 In my opinion, his courage saves the lives of many people.
 
-193
+196
 00:20:17,020 --> 00:20:23,340
 When he makes decisions, he always thinks the needs of people.
 
-194
+197
 00:20:24,140 --> 00:20:26,280
 So he can be trusted.
 
-195
+198
 00:20:27,660 --> 00:20:35,600
 Even though he can't decide where his life will go, he still manages to be a brave
 
-196
+199
 00:20:35,600 --> 00:20:37,880
 hero all the time.
 
-197
+200
 00:20:39,260 --> 00:20:41,360
 Do you want to the
 
-198
+201
 00:20:42,320 --> 00:20:43,940
 Thanks for your listening.
 
-199
+202
 00:20:49,700 --> 00:20:52,440
 Good morning, everyone.
 
-200
+203
 00:20:53,580 --> 00:20:57,260
 Today it's my turn to share a with you.
 
-201
+204
 00:20:58,480 --> 00:21:00,240
 It's called Black Beauty,
 
-202
+205
 00:21:01,200 --> 00:21:04,660
 written by British writer Anna Sewell.
 
-203
+206
 00:21:06,680 --> 00:21:10,040
 And the book came out in 1877.
 
-204
+207
 00:21:11,060 --> 00:21:13,580
 The hero is a horse.
 
-205
+208
 00:21:14,060 --> 00:21:15,520
 His name is Beauty.
 
-206
+209
 00:21:17,300 --> 00:21:22,380
 In the book, we can see the world through a horse's eyes.
 
-207
+210
 00:21:23,680 --> 00:21:27,540
 His first owner raises him with love.
 
-208
+211
 00:21:28,420 --> 00:21:31,620
 But when he grows up, he is sold.
 
-209
+212
 00:21:32,640 --> 00:21:36,400
 His new owner does very bad things to him.
 
-210
+213
 00:21:36,400 --> 00:21:39,640
 And his life gets hard.
 
-211
+214
 00:21:40,580 --> 00:21:45,080
 My favorite part is the horse's moment.
 
-212
+215
 00:21:46,760 --> 00:21:50,560
 When his feet touch the first part of the bridge,
 
-213
+216
 00:21:51,400 --> 00:21:52,860
 he feels the danger.
 
-214
+217
 00:21:54,500 --> 00:22:01,300
 He stops and doesn't move at all, though his owner hurts him angrily.
 
-215
+218
 00:22:02,300 --> 00:22:08,820
 In my opinion, his courage saves the lives of many people.
 
-216
+219
 00:22:10,060 --> 00:22:11,920
 When he makes decisions,
 
-217
+220
 00:22:12,700 --> 00:22:15,840
 he always thinks the needs of people.
 
-218
+221
 00:22:16,460 --> 00:22:19,200
 So he can be trusted.
 
-219
+222
 00:22:20,020 --> 00:22:28,000
 Even though he can't decide where his life will go, he still manages to be a brave
 
-220
+223
 00:22:28,000 --> 00:22:30,100
 hero all the time.
 
-221
+224
 00:22:31,300 --> 00:22:33,740
 Do you want to read the
 
-222
+225
 00:22:34,860 --> 00:22:37,300
 Thanks for your listening.
 
-223
+226
 00:22:40,090 --> 00:22:44,350
 测试结束，请关注“锦鲤英语”微信公众号

@@ -59,8 +59,8 @@ Eric, could you please go for a walk with me after lunch?
 选择正确答案。
 
 16
-00:02:40,160 --> 00:02:41,120
-in the morning.
+00:02:32,380 --> 00:02:41,120
+6. I usually go to work at 6 o in the morning.
 
 17
 00:02:41,580 --> 00:02:43,920
@@ -183,121 +183,185 @@ Hello, this is Tony speaking.
 Hi, Tony. Could I speak to Grace please?
 
 47
-00:05:59,680 --> 00:06:15,690
-Oh, Question. Question.
+00:05:59,680 --> 00:06:01,620
+Oh, she's not at home.
 
 48
+00:06:01,880 --> 00:06:04,400
+She is playing volleyball outside.
+
+49
+00:06:05,880 --> 00:06:10,420
+Question. What is Grace doing now?
+
+50
 00:06:15,690 --> 00:06:19,950
 三，图片理解，看图听描述。
 
-49
+51
 00:06:20,090 --> 00:06:25,610
 数，选择与你所听到的描述内容相符合的选项。
 
-50
+52
 00:06:26,450 --> 00:06:30,470
 下列图中有一幅图片与描述内容无关。
 
-51
+53
+00:06:35,860 --> 00:06:38,620
+Question. Question. Question.
+
+54
+00:06:38,620 --> 00:06:39,540
+Question. Question. Question.
+
+55
+00:06:40,600 --> 00:06:51,620
+Question. Question.
+
+56
 00:07:01,560 --> 00:07:04,400
 Question. Question.
 
-52
+57
 00:07:05,760 --> 00:07:09,880
 Jim started to play basketball at the age of
 
-53
+58
 00:07:11,460 --> 00:07:15,680
 Jim started to play basketball at the age of five.
 
-54
+59
 00:07:23,020 --> 00:07:28,400
 Question. Question.
 
-55
+60
 00:07:30,940 --> 00:07:32,220
 Question. Question. Question.
 
-56
+61
 00:07:32,240 --> 00:07:32,340
 Question. Question. Question.
 
-57
+62
 00:07:32,880 --> 00:07:33,220
 Question. Question. Question.
 
-58
+63
 00:07:33,560 --> 00:07:50,280
 Question. Question.
 
-59
+64
 00:07:56,540 --> 00:08:03,660
 Question. Question.
 
-60
+65
 00:08:09,000 --> 00:08:09,340
 Question. Question.
 
-61
-00:08:36,230 --> 00:08:37,670
-四短文理解。
-
-62
-00:08:38,810 --> 00:08:39,950
-根据你所听到。
-
-63
-00:08:40,030 --> 00:08:43,990
-到的短文内容，判断下列各句正误。
-
-64
-00:09:00,320 --> 00:09:01,520
-Question. Question.
-
-65
-00:09:03,300 --> 00:09:11,380
-Question. Question.
-
 66
-00:09:12,780 --> 00:09:15,540
-Question. Question.
+00:08:20,260 --> 00:08:20,380
+Question. Question. Question.
 
 67
-00:09:16,760 --> 00:09:16,880
+00:08:20,400 --> 00:08:20,520
 Question. Question. Question.
 
 68
-00:09:16,900 --> 00:09:43,860
+00:08:21,360 --> 00:08:21,760
 Question. Question.
 
 69
-00:09:45,360 --> 00:09:46,460
+00:08:26,920 --> 00:08:33,180
 Question. Question.
 
 70
-00:09:59,760 --> 00:10:00,240
-Question. Question.
+00:08:36,230 --> 00:08:37,670
+四短文理解。
 
 71
-00:10:15,400 --> 00:10:42,980
-Question. Question. Question.
+00:08:38,810 --> 00:08:39,950
+根据你所听到。
 
 72
-00:10:45,460 --> 00:10:48,120
-Question. Question. Question.
+00:08:40,030 --> 00:08:43,990
+到的短文内容，判断下列各句正误。
 
 73
-00:10:57,280 --> 00:10:58,660
+00:08:44,140 --> 00:08:46,960
 Question. Question. Question.
 
 74
-00:10:58,680 --> 00:10:59,180
+00:08:46,960 --> 00:08:47,240
 Question. Question.
 
 75
+00:08:54,740 --> 00:08:59,260
+Question. Question.
+
+76
+00:09:00,320 --> 00:09:01,520
+Question. Question.
+
+77
+00:09:03,300 --> 00:09:11,380
+Question. Question.
+
+78
+00:09:12,780 --> 00:09:15,540
+Question. Question.
+
+79
+00:09:16,760 --> 00:09:16,880
+Question. Question. Question.
+
+80
+00:09:16,900 --> 00:09:43,860
+Question. Question.
+
+81
+00:09:45,360 --> 00:09:46,460
+Question. Question.
+
+82
+00:09:59,760 --> 00:10:00,240
+Question. Question.
+
+83
+00:10:15,400 --> 00:10:42,980
+Question. Question. Question.
+
+84
+00:10:45,460 --> 00:10:48,120
+Question. Question. Question.
+
+85
+00:10:57,280 --> 00:10:58,660
+Question. Question. Question.
+
+86
+00:10:58,680 --> 00:10:59,180
+Question. Question.
+
+87
 00:11:00,260 --> 00:11:01,040
 Question. Question. Question.
 
-76
+88
 00:11:01,060 --> 00:11:15,640
 Question. Question. Question.
+
+89
+00:11:26,400 --> 00:11:29,260
+Question. Question. Question.
+
+90
+00:11:29,260 --> 00:11:31,800
+Question. Question. Question.
+
+91
+00:11:31,800 --> 00:11:35,400
+Question. Question.
+
+92
+00:11:37,080 --> 00:11:38,480
+Question.

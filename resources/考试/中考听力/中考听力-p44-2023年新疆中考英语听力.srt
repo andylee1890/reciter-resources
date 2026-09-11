@@ -1,14 +1,14 @@
 1
+00:00:02,540 --> 00:00:04,470
+a. How much is the t -shirt?
+
+2
 00:00:04,470 --> 00:00:10,410
 听音选图，根据听到的句子内容选择正确的图片。
 
-2
+3
 00:00:10,950 --> 00:00:19,950
 每小题读两遍。
-
-3
-00:00:22,000 --> 00:00:24,620
-How much is the t -shirt?
 
 4
 00:00:25,740 --> 00:00:33,720
@@ -48,7 +48,7 @@ No. 5 Look, the bus is coming.
 
 13
 00:02:16,180 --> 00:02:20,510
-b. bookstore? No.
+b. No. Excuse me, where is the nearest bookstore?
 
 14
 00:02:20,510 --> 00:02:25,010
@@ -59,8 +59,8 @@ b. bookstore? No.
 每小题读两遍。
 
 16
-00:02:43,940 --> 00:02:49,800
-6 Excuse me, where is the nearest bookstore?
+00:02:42,800 --> 00:02:49,800
+No. 6 Excuse me, where is the nearest bookstore?
 
 17
 00:03:01,860 --> 00:03:07,920
@@ -95,16 +95,16 @@ No. What were you doing at 9 o last night?
 No. were you doing at 9 o last night?
 
 25
+00:04:40,360 --> 00:04:41,050
+c. No. It's a sunny day today, isn't it?
+
+26
 00:04:41,050 --> 00:04:46,210
 对话理解，听对话及问题，选择正确的答案。
 
-26
+27
 00:04:46,810 --> 00:04:48,670
 每组对话读两遍。
-
-27
-00:04:59,980 --> 00:05:01,480
-today, isn't it?
 
 28
 00:05:02,120 --> 00:05:03,340
@@ -267,129 +267,133 @@ Rick, did you get to Shanghai by plane?
 No, I went there by train.
 
 68
+00:08:40,380 --> 00:08:45,300
+Question How did Rick get to Shanghai?
+
+69
 00:08:54,070 --> 00:08:58,390
 短文理解，听短文，选择正确的答案。
 
-69
+70
+00:08:58,860 --> 00:08:58,930
+the Family doctor in the morning.
+
+71
 00:08:58,930 --> 00:08:59,950
 短文读。
 
-70
+72
 00:09:00,030 --> 00:09:00,510
 两遍。
 
-71
-00:09:25,140 --> 00:09:27,600
-Family doctor in the morning.
-
-72
+73
 00:09:28,340 --> 00:09:32,940
 Doctor, I want to know whether my wife's going deaf.
 
-73
+74
 00:09:33,640 --> 00:09:38,620
 The doctor answered, here's something you can test your hearing.
 
-74
+75
 00:09:39,240 --> 00:09:44,120
 Stand some meters away from her and ask her a question.
 
-75
+76
 00:09:44,860 --> 00:09:50,400
 If she doesn't answer, move a little closer and ask again.
 
-76
+77
 00:09:50,400 --> 00:09:53,560
 Keep saying it until she answers.
 
-77
+78
 00:09:54,680 --> 00:09:59,800
 Then you will be able to know whether she is deaf or not.
 
-78
+79
 00:10:00,760 --> 00:10:06,480
 The man went home and began to test his wife's hearing in the evening.
 
-79
+80
 00:10:07,380 --> 00:10:12,360
 He stood by the wall and said, my dear, what's for dinner?
 
-80
+81
 00:10:13,040 --> 00:10:15,120
 He didn't hear an answer.
 
-81
+82
 00:10:15,120 --> 00:10:20,820
 Then he moved closer to her, my dear, what's for dinner?
 
-82
+83
 00:10:21,400 --> 00:10:23,100
 Still no answer.
 
-83
+84
 00:10:23,740 --> 00:10:30,460
 He said this several times until he was standing just a few feet away from her.
 
-84
+85
 00:10:30,480 --> 00:10:38,320
 At last his wife answered, for the eleventh time, I say we will have meat and rice
 
-85
+86
 00:10:38,320 --> 00:10:46,260
 for dinner. A man was talking to his family doctor in the morning.
 
-86
+87
 00:10:47,840 --> 00:10:51,460
 I want to know whether my wife's going deaf.
 
-87
+88
 00:10:51,840 --> 00:10:56,520
 The doctor answered, here's something you can test her hearing.
 
-88
+89
 00:10:57,000 --> 00:11:01,460
 Stand some meters away from her and ask her a question.
 
-89
+90
 00:11:02,040 --> 00:11:07,320
 If she doesn't answer, move a little closer and ask again.
 
-90
+91
 00:11:07,320 --> 00:11:10,540
 Keep saying it until she answers.
 
-91
+92
 00:11:11,000 --> 00:11:15,720
 Then you will be able to know whether she is deaf or not.
 
-92
+93
 00:11:16,380 --> 00:11:21,920
 The man went home and began to test his wife's hearing in the evening.
 
-93
+94
 00:11:22,560 --> 00:11:27,320
 He stood by the wall and said, my dear, what's for dinner?
 
-94
+95
 00:11:27,800 --> 00:11:29,940
 He didn't hear an answer.
 
-95
+96
 00:11:30,160 --> 00:11:35,440
 Then he moved closer to her, my dear, what's for dinner?
 
-96
+97
 00:11:35,440 --> 00:11:37,440
 Still no answer.
 
-97
+98
 00:11:37,920 --> 00:11:44,860
 He said this several times until he was standing just a few feet away from her.
 
-98
+99
 00:11:45,360 --> 00:11:52,940
 At last his wife answered, for the eleventh time, I say we will have meat and rice
 
-99
+100
 00:11:52,940 --> 00:11:53,680
 for dinner.
