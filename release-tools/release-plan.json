@@ -85,5 +85,13 @@
     ,{"folder": "resources/考试/CET6听力真题", "tag": "cet6-listening-audio-v1", "title": "CET6听力"}
     ,{"folder": "resources/考试/中考听力", "tag": "zhongkao-listening-audio-v1", "title": "中考听力"}
     ,{"folder": "resources/考试/高考听力", "tag": "gaokao-listening-audio-v1", "title": "高考听力"}
+    ,{"folder": "resources/reading/Animal Farm", "tag": "graded-reading-animal-farm", "title": "动物农场 (Animal Farm)"}
+    ,{"folder": "resources/reading/Charlotte's Web", "tag": "graded-reading-charlottes-web", "title": "夏洛的网 (Charlotte's Web)"}
+    ,{"folder": "resources/reading/Great Expectations", "tag": "graded-reading-great-expectations", "title": "远大前程 (Great Expectations)"}
+    ,{"folder": "resources/reading/Jane Eyre", "tag": "graded-reading-jane-eyre", "title": "简·爱 (Jane Eyre)"}
+    ,{"folder": "resources/reading/Lord of the Flies", "tag": "graded-reading-lord-of-the-flies", "title": "蝇王 (Lord of the Flies)"}
+    ,{"folder": "resources/reading/Moby-Dick", "tag": "graded-reading-moby-dick", "title": "白鲸 (Moby-Dick)"}
+    ,{"folder": "resources/reading/Pride and Prejudice", "tag": "graded-reading-pride-and-prejudice", "title": "傲慢与偏见 (Pride and Prejudice)"}
+    ,{"folder": "resources/reading/The Hobbit", "tag": "graded-reading-the-hobbit", "title": "霍比特人 (The Hobbit)"}
   ]
 }

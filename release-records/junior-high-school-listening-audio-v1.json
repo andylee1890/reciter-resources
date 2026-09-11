@@ -35,20 +35,13 @@
         "width": 1024,
         "height": 1536
       }
-    },
-    "usedBy": "junior-high-school-listening-audio-v1",
-    "title": "初中英语听力"
+    }
   },
   "platforms": {
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/junior-high-school-listening-audio-v1"
     },
-    "mirrors": [
-      {
-        "provider": "r2",
-        "rootUrl": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/"
-      }
-    ]
+    "mirrors": []
   },
   "audioCount": 37,
   "totalSizeMiB": 48.19,
@@ -58,12 +51,7 @@
       "sizeMiB": 1.04,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit8.When.is.your.birthday_.Section.A.2e.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20Section%20A%202e%20%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -81,12 +69,7 @@
       "sizeMiB": 1.6,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit8.When.is.your.birthday_.Section.B.1b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20Section%20B%201b%20%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -104,12 +87,7 @@
       "sizeMiB": 1.67,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit8.When.is.your.birthday_.Section.B.2b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -127,12 +105,7 @@
       "sizeMiB": 4.69,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit8.When.is.your.birthday_.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit8%20When%20is%20your%20birthday_%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -150,12 +123,7 @@
       "sizeMiB": 1.31,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit9.My.favorite.subject.is.science.Section.A.1b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%201b%20%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -173,12 +141,7 @@
       "sizeMiB": 0.58,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit9.My.favorite.subject.is.science.Section.A.2a.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%202a%20%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -196,12 +159,7 @@
       "sizeMiB": 1.31,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit9.My.favorite.subject.is.science.Section.A.2b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%202b%20%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -219,12 +177,7 @@
       "sizeMiB": 1.33,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit9.My.favorite.subject.is.science.Section.A.2d.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20A%202d%20%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -242,12 +195,7 @@
       "sizeMiB": 1.54,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit9.My.favorite.subject.is.science.Section.B.1b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20B%201b%20%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -265,12 +213,7 @@
       "sizeMiB": 2.15,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit9.My.favorite.subject.is.science.Section.B.2b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20Section%20B%202b%20%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -288,12 +231,7 @@
       "sizeMiB": 3.6,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit9.My.favorite.subject.is.science.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit9%20My%20favorite%20subject%20is%20science%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -311,12 +249,7 @@
       "sizeMiB": 0.85,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit7.How.much.are.these.socks_.Section.A.1b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20A%201b%20%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -334,12 +267,7 @@
       "sizeMiB": 1.91,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit7.How.much.are.these.socks_.Section.A.2b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20A%202b%20%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -357,12 +285,7 @@
       "sizeMiB": 1.89,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit7.How.much.are.these.socks_.Section.A.2c.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20A%202c%20%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -380,12 +303,7 @@
       "sizeMiB": 2.02,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit7.How.much.are.these.socks_.Section.B.2b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -403,12 +321,7 @@
       "sizeMiB": 4.71,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit7.How.much.are.these.socks_.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8CUnit7%20How%20much%20are%20these%20socks_%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -426,12 +339,7 @@
       "sizeMiB": 1.43,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit1.My.name.s.Gina.Section.B.1d.and.1e.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit1%20My%20name%27s%20Gina%20Section%20B%201d%20and%201e%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -449,12 +357,7 @@
       "sizeMiB": 0.83,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit2.This.is.my.sister.Section.B.1b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit2%20This%E2%80%82is%E2%80%82my%E2%80%82sister%20Section%20B%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -472,12 +375,7 @@
       "sizeMiB": 1.81,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit4.Where.s.my.schoolbag_.Section.B.1c.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit4%20Where%27s%20my%20schoolbag_%20Section%20B%201c%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -495,12 +393,7 @@
       "sizeMiB": 1.38,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit4.Where.s.my.schoolbag_.Section.B.2b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit4%20Where%27s%20my%20schoolbag_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -518,12 +411,7 @@
       "sizeMiB": 0.32,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit5.Do.you.have.a.soccer.ball_.Section.A.1b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20A%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -541,12 +429,7 @@
       "sizeMiB": 1.19,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit5.Do.you.have.a.soccer.ball_.Section.A.2a-2b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20A%202a-2b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -564,12 +447,7 @@
       "sizeMiB": 0.67,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit5.Do.you.have.a.soccer.ball_.Section.A.2d.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20A%202d%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -587,12 +465,7 @@
       "sizeMiB": 0.84,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit5.Do.you.have.a.soccer.ball_.Section.B.1b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20B%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -610,12 +483,7 @@
       "sizeMiB": 0.95,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit5.Do.you.have.a.soccer.ball_.Section.B.1c.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20B%201c%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -633,12 +501,7 @@
       "sizeMiB": 1.2,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit5.Do.you.have.a.soccer.ball_.Section.B.2b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit5%20Do%20you%20have%20a%20soccer%20ball_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -656,12 +519,7 @@
       "sizeMiB": 0.07,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit6.Do.you.like.bananas_.Section.A.1b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20%20Section%20A%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -679,12 +537,7 @@
       "sizeMiB": 0.1,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit6.Do.you.like.bananas_.Section.B.1c.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20%20Section%20B%201c%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -702,12 +555,7 @@
       "sizeMiB": 0.14,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit6.Do.you.like.bananas_.Section.B.2b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20Section%20B%202b%20%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -725,12 +573,7 @@
       "sizeMiB": 1.5,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit6.Do.you.like.bananas_.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C%E8%8B%B1%E8%AF%ADUnit6%20Do%20you%20like%20bananas_%20%E5%90%AC%E5%8A%9B%20%E5%8D%95%E8%AF%8D%E6%9C%97%E8%AF%BB.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -748,12 +591,7 @@
       "sizeMiB": 0.06,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit.1.Animal.Friends.Section.A.1b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20A%201b%20%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -771,12 +609,7 @@
       "sizeMiB": 0.43,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit.1.Animal.Friends.Section.A.1c.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20A%201c%20%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -794,12 +627,7 @@
       "sizeMiB": 0.17,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit.1.Animal.Friends.Section.A.2a.and.2c.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20A%202a%20and%202c%20%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -817,12 +645,7 @@
       "sizeMiB": 0.25,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit.1.Animal.Friends.Section.B.1b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C%E8%8B%B1%E8%AF%ADUnit%201%20Animal%20Friends%20Section%20B%201b%20%E5%90%AC%E5%8A%9B.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -840,12 +663,7 @@
       "sizeMiB": 0.68,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit1.My.name.s.Gina.Section.A.1b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E8%8B%B1%E8%AF%AD%E4%B8%8A%E5%86%8CUnit1%20My%20name%27s%20Gina%20Section%20A%201b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -863,12 +681,7 @@
       "sizeMiB": 0.9,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit1.My.name.s.Gina.Section.A.2a.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E8%8B%B1%E8%AF%AD%E4%B8%8A%E5%86%8CUnit1%20My%20name%27s%20Gina%20Section%20A%202a%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -886,12 +699,7 @@
       "sizeMiB": 1.05,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/junior-high-school-listening-audio-v1/Unit1.My.name.s.Gina.Section.A.2b.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E5%88%9D%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E4%B8%83%E5%B9%B4%E7%BA%A7%E8%8B%B1%E8%AF%AD%E4%B8%8A%E5%86%8CUnit1%20My%20name%27s%20Gina%20Section%20A%202b%20%E5%90%AC%E5%8A%9B%EF%BC%88%E5%90%AB%E9%9F%B3%E9%A2%91%EF%BC%89.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {

@@ -1,0 +1,2534 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-11T17:49:39.726502Z",
+  "tag": "graded-reading-moby-dick",
+  "title": "白鲸 (Moby-Dick)",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/reading/Moby-Dick",
+  "createdAt": "2026-09-12 01:38:26 +0800",
+  "poster": {
+    "id": "moby-dick",
+    "kind": "book-cover",
+    "sourceType": "prepared-cover",
+    "original": {
+      "path": "artwork/posters/moby-dick.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/moby-dick.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/moby-dick.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/moby-dick.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/moby-dick.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/moby-dick.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "sourceSize": {
+        "width": 327,
+        "height": 500
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-moby-dick"
+    },
+    "mirrors": []
+  },
+  "audioCount": 138,
+  "totalSizeMiB": 1536.98,
+  "audio": [
+    {
+      "name": "001-Etymology.mp3",
+      "sizeMiB": 2.22,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/001-Etymology.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/001-Etymology.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/001-Etymology.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/001-Etymology.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/001-Etymology.recx"
+        }
+      }
+    },
+    {
+      "name": "002-Extracts.mp3",
+      "sizeMiB": 27.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/002-Extracts.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/002-Extracts.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/002-Extracts.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/002-Extracts.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/002-Extracts.recx"
+        }
+      }
+    },
+    {
+      "name": "003-Chapter 001.mp3",
+      "sizeMiB": 15.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/003-Chapter.001.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/003-Chapter%20001.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/003-Chapter%20001.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/003-Chapter%20001.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/003-Chapter%20001.recx"
+        }
+      }
+    },
+    {
+      "name": "004-Chapter 002.mp3",
+      "sizeMiB": 9.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/004-Chapter.002.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/004-Chapter%20002.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/004-Chapter%20002.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/004-Chapter%20002.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/004-Chapter%20002.recx"
+        }
+      }
+    },
+    {
+      "name": "005-Chapter 003.mp3",
+      "sizeMiB": 35.75,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/005-Chapter.003.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/005-Chapter%20003.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/005-Chapter%20003.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/005-Chapter%20003.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/005-Chapter%20003.recx"
+        }
+      }
+    },
+    {
+      "name": "006-Chapter 004.mp3",
+      "sizeMiB": 10.49,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/006-Chapter.004.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/006-Chapter%20004.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/006-Chapter%20004.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/006-Chapter%20004.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/006-Chapter%20004.recx"
+        }
+      }
+    },
+    {
+      "name": "007-Chapter 005.mp3",
+      "sizeMiB": 4.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/007-Chapter.005.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/007-Chapter%20005.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/007-Chapter%20005.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/007-Chapter%20005.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/007-Chapter%20005.recx"
+        }
+      }
+    },
+    {
+      "name": "008-Chapter 006.mp3",
+      "sizeMiB": 5.82,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/008-Chapter.006.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/008-Chapter%20006.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/008-Chapter%20006.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/008-Chapter%20006.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/008-Chapter%20006.recx"
+        }
+      }
+    },
+    {
+      "name": "009-Chapter 007.mp3",
+      "sizeMiB": 6.71,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/009-Chapter.007.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/009-Chapter%20007.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/009-Chapter%20007.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/009-Chapter%20007.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/009-Chapter%20007.recx"
+        }
+      }
+    },
+    {
+      "name": "010-Chapter 008.mp3",
+      "sizeMiB": 6.44,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/010-Chapter.008.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/010-Chapter%20008.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/010-Chapter%20008.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/010-Chapter%20008.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/010-Chapter%20008.recx"
+        }
+      }
+    },
+    {
+      "name": "011-Chapter 009.mp3",
+      "sizeMiB": 23.66,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/011-Chapter.009.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/011-Chapter%20009.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/011-Chapter%20009.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/011-Chapter%20009.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/011-Chapter%20009.recx"
+        }
+      }
+    },
+    {
+      "name": "012-Chapter 010.mp3",
+      "sizeMiB": 10.22,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/012-Chapter.010.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/012-Chapter%20010.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/012-Chapter%20010.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/012-Chapter%20010.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/012-Chapter%20010.recx"
+        }
+      }
+    },
+    {
+      "name": "013-Chapter 011.mp3",
+      "sizeMiB": 4.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/013-Chapter.011.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/013-Chapter%20011.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/013-Chapter%20011.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/013-Chapter%20011.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/013-Chapter%20011.recx"
+        }
+      }
+    },
+    {
+      "name": "014-Chapter 012.mp3",
+      "sizeMiB": 5.66,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/014-Chapter.012.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/014-Chapter%20012.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/014-Chapter%20012.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/014-Chapter%20012.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/014-Chapter%20012.recx"
+        }
+      }
+    },
+    {
+      "name": "015-Chapter 013.mp3",
+      "sizeMiB": 10.86,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/015-Chapter.013.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/015-Chapter%20013.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/015-Chapter%20013.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/015-Chapter%20013.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/015-Chapter%20013.recx"
+        }
+      }
+    },
+    {
+      "name": "016-Chapter 014.mp3",
+      "sizeMiB": 4.98,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/016-Chapter.014.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/016-Chapter%20014.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/016-Chapter%20014.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/016-Chapter%20014.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/016-Chapter%20014.recx"
+        }
+      }
+    },
+    {
+      "name": "017-Chapter 015.mp3",
+      "sizeMiB": 7.25,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/017-Chapter.015.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/017-Chapter%20015.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/017-Chapter%20015.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/017-Chapter%20015.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/017-Chapter%20015.recx"
+        }
+      }
+    },
+    {
+      "name": "018-Chapter 016.mp3",
+      "sizeMiB": 36.15,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/018-Chapter.016.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/018-Chapter%20016.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/018-Chapter%20016.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/018-Chapter%20016.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/018-Chapter%20016.recx"
+        }
+      }
+    },
+    {
+      "name": "019-Chapter 017.mp3",
+      "sizeMiB": 13.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/019-Chapter.017.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/019-Chapter%20017.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/019-Chapter%20017.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/019-Chapter%20017.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/019-Chapter%20017.recx"
+        }
+      }
+    },
+    {
+      "name": "020-Chapter 018.mp3",
+      "sizeMiB": 9.18,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/020-Chapter.018.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/020-Chapter%20018.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/020-Chapter%20018.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/020-Chapter%20018.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/020-Chapter%20018.recx"
+        }
+      }
+    },
+    {
+      "name": "021-Chapter 019.mp3",
+      "sizeMiB": 7.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/021-Chapter.019.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/021-Chapter%20019.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/021-Chapter%20019.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/021-Chapter%20019.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/021-Chapter%20019.recx"
+        }
+      }
+    },
+    {
+      "name": "022-Chapter 020.mp3",
+      "sizeMiB": 5.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/022-Chapter.020.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/022-Chapter%20020.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/022-Chapter%20020.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/022-Chapter%20020.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/022-Chapter%20020.recx"
+        }
+      }
+    },
+    {
+      "name": "023-Chapter 021.mp3",
+      "sizeMiB": 6.91,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/023-Chapter.021.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/023-Chapter%20021.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/023-Chapter%20021.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/023-Chapter%20021.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/023-Chapter%20021.recx"
+        }
+      }
+    },
+    {
+      "name": "024-Chapter 022.mp3",
+      "sizeMiB": 11.21,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/024-Chapter.022.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/024-Chapter%20022.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/024-Chapter%20022.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/024-Chapter%20022.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/024-Chapter%20022.recx"
+        }
+      }
+    },
+    {
+      "name": "025-Chapter 023.mp3",
+      "sizeMiB": 3.07,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/025-Chapter.023.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/025-Chapter%20023.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/025-Chapter%20023.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/025-Chapter%20023.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/025-Chapter%20023.recx"
+        }
+      }
+    },
+    {
+      "name": "026-Chapter 024.mp3",
+      "sizeMiB": 11.82,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/026-Chapter.024.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/026-Chapter%20024.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/026-Chapter%20024.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/026-Chapter%20024.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/026-Chapter%20024.recx"
+        }
+      }
+    },
+    {
+      "name": "027-Chapter 025.mp3",
+      "sizeMiB": 2.15,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/027-Chapter.025.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/027-Chapter%20025.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/027-Chapter%20025.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/027-Chapter%20025.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/027-Chapter%20025.recx"
+        }
+      }
+    },
+    {
+      "name": "028-Chapter 026.mp3",
+      "sizeMiB": 8.96,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/028-Chapter.026.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/028-Chapter%20026.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/028-Chapter%20026.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/028-Chapter%20026.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/028-Chapter%20026.recx"
+        }
+      }
+    },
+    {
+      "name": "029-Chapter 027.mp3",
+      "sizeMiB": 11.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/029-Chapter.027.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/029-Chapter%20027.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/029-Chapter%20027.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/029-Chapter%20027.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/029-Chapter%20027.recx"
+        }
+      }
+    },
+    {
+      "name": "030-Chapter 028.mp3",
+      "sizeMiB": 10.03,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/030-Chapter.028.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/030-Chapter%20028.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/030-Chapter%20028.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/030-Chapter%20028.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/030-Chapter%20028.recx"
+        }
+      }
+    },
+    {
+      "name": "031-Chapter 029.mp3",
+      "sizeMiB": 8.14,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/031-Chapter.029.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/031-Chapter%20029.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/031-Chapter%20029.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/031-Chapter%20029.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/031-Chapter%20029.recx"
+        }
+      }
+    },
+    {
+      "name": "032-Chapter 030.mp3",
+      "sizeMiB": 2.21,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/032-Chapter.030.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/032-Chapter%20030.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/032-Chapter%20030.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/032-Chapter%20030.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/032-Chapter%20030.recx"
+        }
+      }
+    },
+    {
+      "name": "033-Chapter 031.mp3",
+      "sizeMiB": 5.27,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/033-Chapter.031.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/033-Chapter%20031.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/033-Chapter%20031.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/033-Chapter%20031.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/033-Chapter%20031.recx"
+        }
+      }
+    },
+    {
+      "name": "034-Chapter 032.mp3",
+      "sizeMiB": 38.17,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/034-Chapter.032.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/034-Chapter%20032.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/034-Chapter%20032.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/034-Chapter%20032.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/034-Chapter%20032.recx"
+        }
+      }
+    },
+    {
+      "name": "035-Chapter 033.mp3",
+      "sizeMiB": 7.45,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/035-Chapter.033.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/035-Chapter%20033.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/035-Chapter%20033.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/035-Chapter%20033.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/035-Chapter%20033.recx"
+        }
+      }
+    },
+    {
+      "name": "036-Chapter 034.mp3",
+      "sizeMiB": 15.03,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/036-Chapter.034.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/036-Chapter%20034.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/036-Chapter%20034.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/036-Chapter%20034.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/036-Chapter%20034.recx"
+        }
+      }
+    },
+    {
+      "name": "037-Chapter 035.mp3",
+      "sizeMiB": 17.27,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/037-Chapter.035.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/037-Chapter%20035.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/037-Chapter%20035.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/037-Chapter%20035.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/037-Chapter%20035.recx"
+        }
+      }
+    },
+    {
+      "name": "038-Chapter 036.mp3",
+      "sizeMiB": 22.08,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/038-Chapter.036.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/038-Chapter%20036.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/038-Chapter%20036.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/038-Chapter%20036.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/038-Chapter%20036.recx"
+        }
+      }
+    },
+    {
+      "name": "039-Chapter 037.mp3",
+      "sizeMiB": 4.41,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/039-Chapter.037.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/039-Chapter%20037.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/039-Chapter%20037.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/039-Chapter%20037.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/039-Chapter%20037.recx"
+        }
+      }
+    },
+    {
+      "name": "040-Chapter 038.mp3",
+      "sizeMiB": 3.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/040-Chapter.038.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/040-Chapter%20038.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/040-Chapter%20038.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/040-Chapter%20038.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/040-Chapter%20038.recx"
+        }
+      }
+    },
+    {
+      "name": "041-Chapter 039.mp3",
+      "sizeMiB": 1.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/041-Chapter.039.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/041-Chapter%20039.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/041-Chapter%20039.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/041-Chapter%20039.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/041-Chapter%20039.recx"
+        }
+      }
+    },
+    {
+      "name": "042-Chapter 040.mp3",
+      "sizeMiB": 12.38,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/042-Chapter.040.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/042-Chapter%20040.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/042-Chapter%20040.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/042-Chapter%20040.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/042-Chapter%20040.recx"
+        }
+      }
+    },
+    {
+      "name": "043-Chapter 041.mp3",
+      "sizeMiB": 28.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/043-Chapter.041.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/043-Chapter%20041.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/043-Chapter%20041.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/043-Chapter%20041.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/043-Chapter%20041.recx"
+        }
+      }
+    },
+    {
+      "name": "044-Chapter 042.mp3",
+      "sizeMiB": 28.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/044-Chapter.042.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/044-Chapter%20042.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/044-Chapter%20042.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/044-Chapter%20042.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/044-Chapter%20042.recx"
+        }
+      }
+    },
+    {
+      "name": "045-Chapter 043.mp3",
+      "sizeMiB": 2.25,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/045-Chapter.043.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/045-Chapter%20043.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/045-Chapter%20043.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/045-Chapter%20043.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/045-Chapter%20043.recx"
+        }
+      }
+    },
+    {
+      "name": "046-Chapter 044.mp3",
+      "sizeMiB": 16.1,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/046-Chapter.044.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/046-Chapter%20044.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/046-Chapter%20044.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/046-Chapter%20044.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/046-Chapter%20044.recx"
+        }
+      }
+    },
+    {
+      "name": "047-Chapter 045.mp3",
+      "sizeMiB": 25.25,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/047-Chapter.045.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/047-Chapter%20045.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/047-Chapter%20045.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/047-Chapter%20045.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/047-Chapter%20045.recx"
+        }
+      }
+    },
+    {
+      "name": "048-Chapter 046.mp3",
+      "sizeMiB": 7.49,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/048-Chapter.046.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/048-Chapter%20046.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/048-Chapter%20046.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/048-Chapter%20046.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/048-Chapter%20046.recx"
+        }
+      }
+    },
+    {
+      "name": "049-Chapter 047.mp3",
+      "sizeMiB": 6.84,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/049-Chapter.047.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/049-Chapter%20047.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/049-Chapter%20047.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/049-Chapter%20047.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/049-Chapter%20047.recx"
+        }
+      }
+    },
+    {
+      "name": "050-Chapter 048.mp3",
+      "sizeMiB": 28.14,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/050-Chapter.048.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/050-Chapter%20048.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/050-Chapter%20048.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/050-Chapter%20048.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/050-Chapter%20048.recx"
+        }
+      }
+    },
+    {
+      "name": "051-Chapter 049.mp3",
+      "sizeMiB": 5.72,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/051-Chapter.049.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/051-Chapter%20049.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/051-Chapter%20049.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/051-Chapter%20049.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/051-Chapter%20049.recx"
+        }
+      }
+    },
+    {
+      "name": "052-Chapter 050.mp3",
+      "sizeMiB": 6.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/052-Chapter.050.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/052-Chapter%20050.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/052-Chapter%20050.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/052-Chapter%20050.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/052-Chapter%20050.recx"
+        }
+      }
+    },
+    {
+      "name": "053-Chapter 051.mp3",
+      "sizeMiB": 11.11,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/053-Chapter.051.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/053-Chapter%20051.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/053-Chapter%20051.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/053-Chapter%20051.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/053-Chapter%20051.recx"
+        }
+      }
+    },
+    {
+      "name": "054-Chapter 052.mp3",
+      "sizeMiB": 5.05,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/054-Chapter.052.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/054-Chapter%20052.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/054-Chapter%20052.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/054-Chapter%20052.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/054-Chapter%20052.recx"
+        }
+      }
+    },
+    {
+      "name": "055-Chapter 053.mp3",
+      "sizeMiB": 11.37,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/055-Chapter.053.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/055-Chapter%20053.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/055-Chapter%20053.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/055-Chapter%20053.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/055-Chapter%20053.recx"
+        }
+      }
+    },
+    {
+      "name": "056-Chapter 054.mp3",
+      "sizeMiB": 56.8,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/056-Chapter.054.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/056-Chapter%20054.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/056-Chapter%20054.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/056-Chapter%20054.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/056-Chapter%20054.recx"
+        }
+      }
+    },
+    {
+      "name": "057-Chapter 055.mp3",
+      "sizeMiB": 14.34,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/057-Chapter.055.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/057-Chapter%20055.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/057-Chapter%20055.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/057-Chapter%20055.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/057-Chapter%20055.recx"
+        }
+      }
+    },
+    {
+      "name": "058-Chapter 056.mp3",
+      "sizeMiB": 9.56,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/058-Chapter.056.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/058-Chapter%20056.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/058-Chapter%20056.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/058-Chapter%20056.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/058-Chapter%20056.recx"
+        }
+      }
+    },
+    {
+      "name": "059-Chapter 057.mp3",
+      "sizeMiB": 7.29,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/059-Chapter.057.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/059-Chapter%20057.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/059-Chapter%20057.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/059-Chapter%20057.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/059-Chapter%20057.recx"
+        }
+      }
+    },
+    {
+      "name": "060-Chapter 058.mp3",
+      "sizeMiB": 7.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/060-Chapter.058.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/060-Chapter%20058.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/060-Chapter%20058.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/060-Chapter%20058.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/060-Chapter%20058.recx"
+        }
+      }
+    },
+    {
+      "name": "061-Chapter 059.mp3",
+      "sizeMiB": 7.55,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/061-Chapter.059.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/061-Chapter%20059.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/061-Chapter%20059.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/061-Chapter%20059.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/061-Chapter%20059.recx"
+        }
+      }
+    },
+    {
+      "name": "062-Chapter 060.mp3",
+      "sizeMiB": 10.61,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/062-Chapter.060.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/062-Chapter%20060.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/062-Chapter%20060.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/062-Chapter%20060.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/062-Chapter%20060.recx"
+        }
+      }
+    },
+    {
+      "name": "063-Chapter 061.mp3",
+      "sizeMiB": 14.71,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/063-Chapter.061.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/063-Chapter%20061.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/063-Chapter%20061.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/063-Chapter%20061.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/063-Chapter%20061.recx"
+        }
+      }
+    },
+    {
+      "name": "064-Chapter 062.mp3",
+      "sizeMiB": 4.01,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/064-Chapter.062.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/064-Chapter%20062.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/064-Chapter%20062.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/064-Chapter%20062.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/064-Chapter%20062.recx"
+        }
+      }
+    },
+    {
+      "name": "065-Chapter 063.mp3",
+      "sizeMiB": 3.75,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/065-Chapter.063.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/065-Chapter%20063.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/065-Chapter%20063.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/065-Chapter%20063.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/065-Chapter%20063.recx"
+        }
+      }
+    },
+    {
+      "name": "066-Chapter 064.mp3",
+      "sizeMiB": 20.96,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/066-Chapter.064.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/066-Chapter%20064.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/066-Chapter%20064.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/066-Chapter%20064.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/066-Chapter%20064.recx"
+        }
+      }
+    },
+    {
+      "name": "067-Chapter 065.mp3",
+      "sizeMiB": 6.93,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/067-Chapter.065.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/067-Chapter%20065.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/067-Chapter%20065.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/067-Chapter%20065.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/067-Chapter%20065.recx"
+        }
+      }
+    },
+    {
+      "name": "068-Chapter 066.mp3",
+      "sizeMiB": 4.55,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/068-Chapter.066.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/068-Chapter%20066.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/068-Chapter%20066.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/068-Chapter%20066.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/068-Chapter%20066.recx"
+        }
+      }
+    },
+    {
+      "name": "069-Chapter 067.mp3",
+      "sizeMiB": 5.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/069-Chapter.067.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/069-Chapter%20067.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/069-Chapter%20067.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/069-Chapter%20067.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/069-Chapter%20067.recx"
+        }
+      }
+    },
+    {
+      "name": "070-Chapter 068.mp3",
+      "sizeMiB": 8.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/070-Chapter.068.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/070-Chapter%20068.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/070-Chapter%20068.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/070-Chapter%20068.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/070-Chapter%20068.recx"
+        }
+      }
+    },
+    {
+      "name": "071-Chapter 069.mp3",
+      "sizeMiB": 3.42,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/071-Chapter.069.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/071-Chapter%20069.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/071-Chapter%20069.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/071-Chapter%20069.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/071-Chapter%20069.recx"
+        }
+      }
+    },
+    {
+      "name": "072-Chapter 070.mp3",
+      "sizeMiB": 6.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/072-Chapter.070.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/072-Chapter%20070.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/072-Chapter%20070.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/072-Chapter%20070.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/072-Chapter%20070.recx"
+        }
+      }
+    },
+    {
+      "name": "073-Chapter 071.mp3",
+      "sizeMiB": 16.54,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/073-Chapter.071.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/073-Chapter%20071.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/073-Chapter%20071.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/073-Chapter%20071.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/073-Chapter%20071.recx"
+        }
+      }
+    },
+    {
+      "name": "074-Chapter 072.mp3",
+      "sizeMiB": 11.85,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/074-Chapter.072.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/074-Chapter%20072.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/074-Chapter%20072.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/074-Chapter%20072.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/074-Chapter%20072.recx"
+        }
+      }
+    },
+    {
+      "name": "075-Chapter 073.mp3",
+      "sizeMiB": 13.25,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/075-Chapter.073.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/075-Chapter%20073.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/075-Chapter%20073.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/075-Chapter%20073.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/075-Chapter%20073.recx"
+        }
+      }
+    },
+    {
+      "name": "076-Chapter 074.mp3",
+      "sizeMiB": 11.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/076-Chapter.074.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/076-Chapter%20074.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/076-Chapter%20074.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/076-Chapter%20074.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/076-Chapter%20074.recx"
+        }
+      }
+    },
+    {
+      "name": "077-Chapter 075.mp3",
+      "sizeMiB": 8.95,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/077-Chapter.075.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/077-Chapter%20075.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/077-Chapter%20075.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/077-Chapter%20075.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/077-Chapter%20075.recx"
+        }
+      }
+    },
+    {
+      "name": "078-Chapter 076.mp3",
+      "sizeMiB": 6.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/078-Chapter.076.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/078-Chapter%20076.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/078-Chapter%20076.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/078-Chapter%20076.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/078-Chapter%20076.recx"
+        }
+      }
+    },
+    {
+      "name": "079-Chapter 077.mp3",
+      "sizeMiB": 5.08,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/079-Chapter.077.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/079-Chapter%20077.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/079-Chapter%20077.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/079-Chapter%20077.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/079-Chapter%20077.recx"
+        }
+      }
+    },
+    {
+      "name": "080-Chapter 078.mp3",
+      "sizeMiB": 11.68,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/080-Chapter.078.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/080-Chapter%20078.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/080-Chapter%20078.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/080-Chapter%20078.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/080-Chapter%20078.recx"
+        }
+      }
+    },
+    {
+      "name": "081-Chapter 079.mp3",
+      "sizeMiB": 7.29,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/081-Chapter.079.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/081-Chapter%20079.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/081-Chapter%20079.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/081-Chapter%20079.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/081-Chapter%20079.recx"
+        }
+      }
+    },
+    {
+      "name": "082-Chapter 080.mp3",
+      "sizeMiB": 6.56,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/082-Chapter.080.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/082-Chapter%20080.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/082-Chapter%20080.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/082-Chapter%20080.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/082-Chapter%20080.recx"
+        }
+      }
+    },
+    {
+      "name": "083-Chapter 081.mp3",
+      "sizeMiB": 30.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/083-Chapter.081.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/083-Chapter%20081.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/083-Chapter%20081.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/083-Chapter%20081.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/083-Chapter%20081.recx"
+        }
+      }
+    },
+    {
+      "name": "084-Chapter 082.mp3",
+      "sizeMiB": 8.08,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/084-Chapter.082.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/084-Chapter%20082.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/084-Chapter%20082.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/084-Chapter%20082.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/084-Chapter%20082.recx"
+        }
+      }
+    },
+    {
+      "name": "085-Chapter 083.mp3",
+      "sizeMiB": 5.75,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/085-Chapter.083.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/085-Chapter%20083.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/085-Chapter%20083.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/085-Chapter%20083.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/085-Chapter%20083.recx"
+        }
+      }
+    },
+    {
+      "name": "086-Chapter 084.mp3",
+      "sizeMiB": 6.04,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/086-Chapter.084.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/086-Chapter%20084.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/086-Chapter%20084.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/086-Chapter%20084.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/086-Chapter%20084.recx"
+        }
+      }
+    },
+    {
+      "name": "087-Chapter 085.mp3",
+      "sizeMiB": 14.28,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/087-Chapter.085.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/087-Chapter%20085.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/087-Chapter%20085.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/087-Chapter%20085.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/087-Chapter%20085.recx"
+        }
+      }
+    },
+    {
+      "name": "088-Chapter 086.mp3",
+      "sizeMiB": 13.38,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/088-Chapter.086.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/088-Chapter%20086.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/088-Chapter%20086.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/088-Chapter%20086.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/088-Chapter%20086.recx"
+        }
+      }
+    },
+    {
+      "name": "089-Chapter 087.mp3",
+      "sizeMiB": 34.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/089-Chapter.087.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/089-Chapter%20087.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/089-Chapter%20087.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/089-Chapter%20087.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/089-Chapter%20087.recx"
+        }
+      }
+    },
+    {
+      "name": "090-Chapter 088.mp3",
+      "sizeMiB": 9.02,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/090-Chapter.088.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/090-Chapter%20088.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/090-Chapter%20088.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/090-Chapter%20088.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/090-Chapter%20088.recx"
+        }
+      }
+    },
+    {
+      "name": "091-Chapter 089.mp3",
+      "sizeMiB": 10.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/091-Chapter.089.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/091-Chapter%20089.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/091-Chapter%20089.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/091-Chapter%20089.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/091-Chapter%20089.recx"
+        }
+      }
+    },
+    {
+      "name": "092-Chapter 090.mp3",
+      "sizeMiB": 7.51,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/092-Chapter.090.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/092-Chapter%20090.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/092-Chapter%20090.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/092-Chapter%20090.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/092-Chapter%20090.recx"
+        }
+      }
+    },
+    {
+      "name": "093-Chapter 091.mp3",
+      "sizeMiB": 17.29,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/093-Chapter.091.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/093-Chapter%20091.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/093-Chapter%20091.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/093-Chapter%20091.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/093-Chapter%20091.recx"
+        }
+      }
+    },
+    {
+      "name": "094-Chapter 092.mp3",
+      "sizeMiB": 7.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/094-Chapter.092.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/094-Chapter%20092.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/094-Chapter%20092.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/094-Chapter%20092.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/094-Chapter%20092.recx"
+        }
+      }
+    },
+    {
+      "name": "095-Chapter 093.mp3",
+      "sizeMiB": 11.69,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/095-Chapter.093.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/095-Chapter%20093.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/095-Chapter%20093.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/095-Chapter%20093.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/095-Chapter%20093.recx"
+        }
+      }
+    },
+    {
+      "name": "096-Chapter 094.mp3",
+      "sizeMiB": 9.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/096-Chapter.094.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/096-Chapter%20094.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/096-Chapter%20094.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/096-Chapter%20094.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/096-Chapter%20094.recx"
+        }
+      }
+    },
+    {
+      "name": "097-Chapter 095.mp3",
+      "sizeMiB": 3.72,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/097-Chapter.095.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/097-Chapter%20095.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/097-Chapter%20095.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/097-Chapter%20095.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/097-Chapter%20095.recx"
+        }
+      }
+    },
+    {
+      "name": "098-Chapter 096.mp3",
+      "sizeMiB": 13.09,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/098-Chapter.096.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/098-Chapter%20096.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/098-Chapter%20096.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/098-Chapter%20096.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/098-Chapter%20096.recx"
+        }
+      }
+    },
+    {
+      "name": "099-Chapter 097.mp3",
+      "sizeMiB": 1.9,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/099-Chapter.097.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/099-Chapter%20097.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/099-Chapter%20097.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/099-Chapter%20097.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/099-Chapter%20097.recx"
+        }
+      }
+    },
+    {
+      "name": "100-Chapter 098.mp3",
+      "sizeMiB": 7.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/100-Chapter.098.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/100-Chapter%20098.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/100-Chapter%20098.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/100-Chapter%20098.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/100-Chapter%20098.recx"
+        }
+      }
+    },
+    {
+      "name": "101-Chapter 099.mp3",
+      "sizeMiB": 17.8,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/101-Chapter.099.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/101-Chapter%20099.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/101-Chapter%20099.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/101-Chapter%20099.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/101-Chapter%20099.recx"
+        }
+      }
+    },
+    {
+      "name": "102-Chapter 100.mp3",
+      "sizeMiB": 17.69,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/102-Chapter.100.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/102-Chapter%20100.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/102-Chapter%20100.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/102-Chapter%20100.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/102-Chapter%20100.recx"
+        }
+      }
+    },
+    {
+      "name": "103-Chapter 101.mp3",
+      "sizeMiB": 12.9,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/103-Chapter.101.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/103-Chapter%20101.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/103-Chapter%20101.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/103-Chapter%20101.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/103-Chapter%20101.recx"
+        }
+      }
+    },
+    {
+      "name": "104-Chapter 102.mp3",
+      "sizeMiB": 11.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/104-Chapter.102.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/104-Chapter%20102.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/104-Chapter%20102.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/104-Chapter%20102.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/104-Chapter%20102.recx"
+        }
+      }
+    },
+    {
+      "name": "105-Chapter 103.mp3",
+      "sizeMiB": 6.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/105-Chapter.103.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/105-Chapter%20103.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/105-Chapter%20103.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/105-Chapter%20103.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/105-Chapter%20103.recx"
+        }
+      }
+    },
+    {
+      "name": "106-Chapter 104.mp3",
+      "sizeMiB": 10.78,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/106-Chapter.104.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/106-Chapter%20104.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/106-Chapter%20104.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/106-Chapter%20104.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/106-Chapter%20104.recx"
+        }
+      }
+    },
+    {
+      "name": "107-Chapter 105.mp3",
+      "sizeMiB": 11.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/107-Chapter.105.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/107-Chapter%20105.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/107-Chapter%20105.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/107-Chapter%20105.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/107-Chapter%20105.recx"
+        }
+      }
+    },
+    {
+      "name": "108-Chapter 106.mp3",
+      "sizeMiB": 6.96,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/108-Chapter.106.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/108-Chapter%20106.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/108-Chapter%20106.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/108-Chapter%20106.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/108-Chapter%20106.recx"
+        }
+      }
+    },
+    {
+      "name": "109-Chapter 107.mp3",
+      "sizeMiB": 8.09,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/109-Chapter.107.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/109-Chapter%20107.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/109-Chapter%20107.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/109-Chapter%20107.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/109-Chapter%20107.recx"
+        }
+      }
+    },
+    {
+      "name": "110-Chapter 108.mp3",
+      "sizeMiB": 12.0,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/110-Chapter.108.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/110-Chapter%20108.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/110-Chapter%20108.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/110-Chapter%20108.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/110-Chapter%20108.recx"
+        }
+      }
+    },
+    {
+      "name": "111-Chapter 109.mp3",
+      "sizeMiB": 7.35,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/111-Chapter.109.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/111-Chapter%20109.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/111-Chapter%20109.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/111-Chapter%20109.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/111-Chapter%20109.recx"
+        }
+      }
+    },
+    {
+      "name": "112-Chapter 110.mp3",
+      "sizeMiB": 15.76,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/112-Chapter.110.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/112-Chapter%20110.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/112-Chapter%20110.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/112-Chapter%20110.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/112-Chapter%20110.recx"
+        }
+      }
+    },
+    {
+      "name": "113-Chapter 111.mp3",
+      "sizeMiB": 3.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/113-Chapter.111.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/113-Chapter%20111.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/113-Chapter%20111.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/113-Chapter%20111.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/113-Chapter%20111.recx"
+        }
+      }
+    },
+    {
+      "name": "114-Chapter 112.mp3",
+      "sizeMiB": 7.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/114-Chapter.112.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/114-Chapter%20112.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/114-Chapter%20112.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/114-Chapter%20112.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/114-Chapter%20112.recx"
+        }
+      }
+    },
+    {
+      "name": "115-Chapter 113.mp3",
+      "sizeMiB": 9.68,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/115-Chapter.113.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/115-Chapter%20113.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/115-Chapter%20113.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/115-Chapter%20113.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/115-Chapter%20113.recx"
+        }
+      }
+    },
+    {
+      "name": "116-Chapter 114.mp3",
+      "sizeMiB": 5.27,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/116-Chapter.114.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/116-Chapter%20114.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/116-Chapter%20114.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/116-Chapter%20114.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/116-Chapter%20114.recx"
+        }
+      }
+    },
+    {
+      "name": "117-Chapter 115.mp3",
+      "sizeMiB": 6.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/117-Chapter.115.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/117-Chapter%20115.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/117-Chapter%20115.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/117-Chapter%20115.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/117-Chapter%20115.recx"
+        }
+      }
+    },
+    {
+      "name": "118-Chapter 116.mp3",
+      "sizeMiB": 4.55,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/118-Chapter.116.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/118-Chapter%20116.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/118-Chapter%20116.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/118-Chapter%20116.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/118-Chapter%20116.recx"
+        }
+      }
+    },
+    {
+      "name": "119-Chapter 117.mp3",
+      "sizeMiB": 3.78,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/119-Chapter.117.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/119-Chapter%20117.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/119-Chapter%20117.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/119-Chapter%20117.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/119-Chapter%20117.recx"
+        }
+      }
+    },
+    {
+      "name": "120-Chapter 118.mp3",
+      "sizeMiB": 6.98,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/120-Chapter.118.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/120-Chapter%20118.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/120-Chapter%20118.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/120-Chapter%20118.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/120-Chapter%20118.recx"
+        }
+      }
+    },
+    {
+      "name": "121-Chapter 119.mp3",
+      "sizeMiB": 18.54,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/121-Chapter.119.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/121-Chapter%20119.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/121-Chapter%20119.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/121-Chapter%20119.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/121-Chapter%20119.recx"
+        }
+      }
+    },
+    {
+      "name": "122-Chapter 120.mp3",
+      "sizeMiB": 1.54,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/122-Chapter.120.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/122-Chapter%20120.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/122-Chapter%20120.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/122-Chapter%20120.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/122-Chapter%20120.recx"
+        }
+      }
+    },
+    {
+      "name": "123-Chapter 121.mp3",
+      "sizeMiB": 4.08,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/123-Chapter.121.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/123-Chapter%20121.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/123-Chapter%20121.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/123-Chapter%20121.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/123-Chapter%20121.recx"
+        }
+      }
+    },
+    {
+      "name": "124-Chapter 122.mp3",
+      "sizeMiB": 0.53,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/124-Chapter.122.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/124-Chapter%20122.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/124-Chapter%20122.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/124-Chapter%20122.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/124-Chapter%20122.recx"
+        }
+      }
+    },
+    {
+      "name": "125-Chapter 123.mp3",
+      "sizeMiB": 9.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/125-Chapter.123.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/125-Chapter%20123.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/125-Chapter%20123.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/125-Chapter%20123.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/125-Chapter%20123.recx"
+        }
+      }
+    },
+    {
+      "name": "126-Chapter 124.mp3",
+      "sizeMiB": 9.09,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/126-Chapter.124.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/126-Chapter%20124.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/126-Chapter%20124.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/126-Chapter%20124.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/126-Chapter%20124.recx"
+        }
+      }
+    },
+    {
+      "name": "127-Chapter 125.mp3",
+      "sizeMiB": 8.61,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/127-Chapter.125.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/127-Chapter%20125.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/127-Chapter%20125.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/127-Chapter%20125.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/127-Chapter%20125.recx"
+        }
+      }
+    },
+    {
+      "name": "128-Chapter 126.mp3",
+      "sizeMiB": 9.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/128-Chapter.126.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/128-Chapter%20126.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/128-Chapter%20126.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/128-Chapter%20126.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/128-Chapter%20126.recx"
+        }
+      }
+    },
+    {
+      "name": "129-Chapter 127.mp3",
+      "sizeMiB": 5.84,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/129-Chapter.127.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/129-Chapter%20127.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/129-Chapter%20127.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/129-Chapter%20127.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/129-Chapter%20127.recx"
+        }
+      }
+    },
+    {
+      "name": "130-Chapter 128.mp3",
+      "sizeMiB": 9.92,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/130-Chapter.128.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/130-Chapter%20128.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/130-Chapter%20128.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/130-Chapter%20128.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/130-Chapter%20128.recx"
+        }
+      }
+    },
+    {
+      "name": "131-Chapter 129.mp3",
+      "sizeMiB": 4.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/131-Chapter.129.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/131-Chapter%20129.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/131-Chapter%20129.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/131-Chapter%20129.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/131-Chapter%20129.recx"
+        }
+      }
+    },
+    {
+      "name": "132-Chapter 130.mp3",
+      "sizeMiB": 12.28,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/132-Chapter.130.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/132-Chapter%20130.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/132-Chapter%20130.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/132-Chapter%20130.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/132-Chapter%20130.recx"
+        }
+      }
+    },
+    {
+      "name": "133-Chapter 131.mp3",
+      "sizeMiB": 3.42,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/133-Chapter.131.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/133-Chapter%20131.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/133-Chapter%20131.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/133-Chapter%20131.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/133-Chapter%20131.recx"
+        }
+      }
+    },
+    {
+      "name": "134-Chapter 132.mp3",
+      "sizeMiB": 12.91,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/134-Chapter.132.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/134-Chapter%20132.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/134-Chapter%20132.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/134-Chapter%20132.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/134-Chapter%20132.recx"
+        }
+      }
+    },
+    {
+      "name": "135-Chapter 133.mp3",
+      "sizeMiB": 26.68,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/135-Chapter.133.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/135-Chapter%20133.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/135-Chapter%20133.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/135-Chapter%20133.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/135-Chapter%20133.recx"
+        }
+      }
+    },
+    {
+      "name": "136-Chapter 134.mp3",
+      "sizeMiB": 23.48,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/136-Chapter.134.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/136-Chapter%20134.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/136-Chapter%20134.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/136-Chapter%20134.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/136-Chapter%20134.recx"
+        }
+      }
+    },
+    {
+      "name": "137-Chapter 135.mp3",
+      "sizeMiB": 33.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/137-Chapter.135.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/137-Chapter%20135.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/137-Chapter%20135.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/137-Chapter%20135.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/137-Chapter%20135.recx"
+        }
+      }
+    },
+    {
+      "name": "138-Epilogue.mp3",
+      "sizeMiB": 2.16,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-moby-dick/138-Epilogue.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/138-Epilogue.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Moby-Dick/138-Epilogue.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/138-Epilogue.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Moby-Dick/138-Epilogue.recx"
+        }
+      }
+    }
+  ]
+}

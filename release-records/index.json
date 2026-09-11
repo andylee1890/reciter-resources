@@ -1,6 +1,6 @@
 {
   "schemaVersion": 6,
-  "generatedAt": "2026-09-11T07:05:23.857079Z",
+  "generatedAt": "2026-09-11T17:49:39.726502Z",
   "repository": "andylee1890/reciter-resources",
   "posterIndex": {
     "path": "artwork/posters/index.json",
@@ -2595,8 +2595,7 @@
           "height": 1536
         }
       },
-      "usedBy": "junior-high-school-listening-audio-v1",
-      "title": "初中英语听力"
+      "usedBy": "junior-high-school-listening-audio-v1"
     },
     {
       "id": "senior-high-school-listening",
@@ -2627,8 +2626,255 @@
           "height": 1536
         }
       },
-      "usedBy": "senior-high-school-listening-audio-v1",
-      "title": "高中英语听力"
+      "usedBy": "senior-high-school-listening-audio-v1"
+    },
+    {
+      "id": "charlottes-web",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/charlottes-web.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/charlottes-web.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/charlottes-web.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/charlottes-web.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/charlottes-web.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/charlottes-web.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 335,
+          "height": 500
+        }
+      },
+      "usedBy": "graded-reading-charlottes-web"
+    },
+    {
+      "id": "animal-farm",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/animal-farm.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/animal-farm.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/animal-farm.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/animal-farm.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/animal-farm.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/animal-farm.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 330,
+          "height": 500
+        }
+      },
+      "usedBy": "graded-reading-animal-farm"
+    },
+    {
+      "id": "the-hobbit",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/the-hobbit.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-hobbit.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-hobbit.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-hobbit.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-hobbit.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-hobbit.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 301,
+          "height": 500
+        }
+      },
+      "usedBy": "graded-reading-the-hobbit"
+    },
+    {
+      "id": "lord-of-the-flies",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/lord-of-the-flies.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/lord-of-the-flies.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/lord-of-the-flies.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/lord-of-the-flies.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/lord-of-the-flies.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/lord-of-the-flies.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 316,
+          "height": 500
+        }
+      },
+      "usedBy": "graded-reading-lord-of-the-flies"
+    },
+    {
+      "id": "pride-and-prejudice",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/pride-and-prejudice.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/pride-and-prejudice.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/pride-and-prejudice.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/pride-and-prejudice.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/pride-and-prejudice.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/pride-and-prejudice.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 313,
+          "height": 500
+        }
+      },
+      "usedBy": "graded-reading-pride-and-prejudice"
+    },
+    {
+      "id": "jane-eyre",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/jane-eyre.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/jane-eyre.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/jane-eyre.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/jane-eyre.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/jane-eyre.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/jane-eyre.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 306,
+          "height": 500
+        }
+      },
+      "usedBy": "graded-reading-jane-eyre"
+    },
+    {
+      "id": "great-expectations",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/great-expectations.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/great-expectations.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/great-expectations.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/great-expectations.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/great-expectations.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/great-expectations.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 270,
+          "height": 500
+        }
+      },
+      "usedBy": "graded-reading-great-expectations"
+    },
+    {
+      "id": "moby-dick",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/moby-dick.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/moby-dick.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/moby-dick.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/moby-dick.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/moby-dick.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/moby-dick.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 327,
+          "height": 500
+        }
+      },
+      "usedBy": "graded-reading-moby-dick"
     },
     {
       "id": "cet4-listening",
@@ -2641,6 +2887,8 @@
       },
       "card": {
         "path": "artwork/posters/card/cet4-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet4-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet4-listening.webp",
         "mode": "crop",
         "aspectRatio": "480:600",
         "width": 480,
@@ -2655,18 +2903,9 @@
         "sourceSize": {
           "width": 1024,
           "height": 1536
-        },
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet4-listening.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet4-listening.webp"
+        }
       },
-      "usedBy": "cet4-listening-audio-v1",
-      "title": "CET4听力",
-      "status": "finished",
-      "first_class": "考试听力",
-      "second_class": "四、六级",
-      "third_class": "CET4听力",
-      "author": "",
-      "createdAt": "2026-09-10"
+      "usedBy": "cet4-listening-audio-v1"
     },
     {
       "id": "cet6-listening",
@@ -2679,6 +2918,8 @@
       },
       "card": {
         "path": "artwork/posters/card/cet6-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet6-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet6-listening.webp",
         "mode": "crop",
         "aspectRatio": "480:600",
         "width": 480,
@@ -2693,18 +2934,9 @@
         "sourceSize": {
           "width": 1024,
           "height": 1536
-        },
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet6-listening.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet6-listening.webp"
+        }
       },
-      "usedBy": "cet6-listening-audio-v1",
-      "title": "CET6听力",
-      "status": "finished",
-      "first_class": "考试听力",
-      "second_class": "四、六级",
-      "third_class": "CET6听力",
-      "author": "",
-      "createdAt": "2026-09-10"
+      "usedBy": "cet6-listening-audio-v1"
     },
     {
       "id": "zhongkao-listening",
@@ -2735,14 +2967,7 @@
           "height": 1536
         }
       },
-      "usedBy": "zhongkao-listening-audio-v1",
-      "title": "中考听力",
-      "status": "finished",
-      "first_class": "考试听力",
-      "second_class": "初中听力",
-      "third_class": "中考听力",
-      "author": "",
-      "createdAt": "2026-09-10"
+      "usedBy": "zhongkao-listening-audio-v1"
     },
     {
       "id": "gaokao-listening",
@@ -2773,14 +2998,7 @@
           "height": 1536
         }
       },
-      "usedBy": "gaokao-listening-audio-v1",
-      "title": "高考听力",
-      "status": "finished",
-      "first_class": "考试听力",
-      "second_class": "高中听力",
-      "third_class": "高考听力",
-      "author": "",
-      "createdAt": "2026-09-10"
+      "usedBy": "gaokao-listening-audio-v1"
     },
     {
       "id": "oxford-reading-tree",
@@ -3093,37 +3311,6 @@
       "usedBy": "graded-reading-the-little-prince"
     },
     {
-      "id": "charlottes-web",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/charlottes-web.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/charlottes-web.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/charlottes-web.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/charlottes-web.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/charlottes-web.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/charlottes-web.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 335,
-          "height": 500
-        }
-      },
-      "usedBy": "graded-reading-charlottes-web"
-    },
-    {
       "id": "the-giver",
       "kind": "book-cover",
       "sourceType": "prepared-cover",
@@ -3186,37 +3373,6 @@
       "usedBy": "graded-reading-wonder"
     },
     {
-      "id": "animal-farm",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/animal-farm.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/animal-farm.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/animal-farm.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/animal-farm.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/animal-farm.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/animal-farm.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 330,
-          "height": 500
-        }
-      },
-      "usedBy": "graded-reading-animal-farm"
-    },
-    {
       "id": "the-great-gatsby",
       "kind": "book-cover",
       "sourceType": "prepared-cover",
@@ -3246,37 +3402,6 @@
         }
       },
       "usedBy": "graded-reading-the-great-gatsby"
-    },
-    {
-      "id": "the-hobbit",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/the-hobbit.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-hobbit.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-hobbit.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/the-hobbit.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-hobbit.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-hobbit.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 301,
-          "height": 500
-        }
-      },
-      "usedBy": "graded-reading-the-hobbit"
     },
     {
       "id": "1984",
@@ -3310,37 +3435,6 @@
       "usedBy": "graded-reading-1984"
     },
     {
-      "id": "lord-of-the-flies",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/lord-of-the-flies.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/lord-of-the-flies.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/lord-of-the-flies.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/lord-of-the-flies.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/lord-of-the-flies.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/lord-of-the-flies.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 316,
-          "height": 500
-        }
-      },
-      "usedBy": "graded-reading-lord-of-the-flies"
-    },
-    {
       "id": "the-picture-of-dorian-gray",
       "kind": "book-cover",
       "sourceType": "prepared-cover",
@@ -3370,68 +3464,6 @@
         }
       },
       "usedBy": "graded-reading-the-picture-of-dorian-gray"
-    },
-    {
-      "id": "pride-and-prejudice",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/pride-and-prejudice.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/pride-and-prejudice.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/pride-and-prejudice.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/pride-and-prejudice.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/pride-and-prejudice.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/pride-and-prejudice.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 313,
-          "height": 500
-        }
-      },
-      "usedBy": "graded-reading-pride-and-prejudice"
-    },
-    {
-      "id": "jane-eyre",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/jane-eyre.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/jane-eyre.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/jane-eyre.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/jane-eyre.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/jane-eyre.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/jane-eyre.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 306,
-          "height": 500
-        }
-      },
-      "usedBy": "graded-reading-jane-eyre"
     },
     {
       "id": "the-count-of-monte-cristo",
@@ -3494,68 +3526,6 @@
         }
       },
       "usedBy": "graded-reading-wuthering-heights"
-    },
-    {
-      "id": "great-expectations",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/great-expectations.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/great-expectations.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/great-expectations.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/great-expectations.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/great-expectations.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/great-expectations.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 270,
-          "height": 500
-        }
-      },
-      "usedBy": "graded-reading-great-expectations"
-    },
-    {
-      "id": "moby-dick",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/moby-dick.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/moby-dick.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/moby-dick.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/moby-dick.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/moby-dick.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/moby-dick.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 327,
-          "height": 500
-        }
-      },
-      "usedBy": "graded-reading-moby-dick"
     }
   ],
   "courses": [
@@ -4807,6 +4777,8 @@
         },
         "card": {
           "path": "artwork/posters/card/cet4-listening.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet4-listening.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet4-listening.webp",
           "mode": "crop",
           "aspectRatio": "480:600",
           "width": 480,
@@ -4821,18 +4793,8 @@
           "sourceSize": {
             "width": 1024,
             "height": 1536
-          },
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet4-listening.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet4-listening.webp"
-        },
-        "usedBy": "cet4-listening-audio-v1",
-        "title": "CET4听力",
-        "status": "finished",
-        "first_class": "考试听力",
-        "second_class": "四、六级",
-        "third_class": "CET4听力",
-        "author": "",
-        "createdAt": "2026-09-10"
+          }
+        }
       },
       "platforms": {
         "githubRelease": {
@@ -4866,6 +4828,8 @@
         },
         "card": {
           "path": "artwork/posters/card/cet6-listening.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet6-listening.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet6-listening.webp",
           "mode": "crop",
           "aspectRatio": "480:600",
           "width": 480,
@@ -4880,18 +4844,8 @@
           "sourceSize": {
             "width": 1024,
             "height": 1536
-          },
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet6-listening.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet6-listening.webp"
-        },
-        "usedBy": "cet6-listening-audio-v1",
-        "title": "CET6听力",
-        "status": "finished",
-        "first_class": "考试听力",
-        "second_class": "四、六级",
-        "third_class": "CET6听力",
-        "author": "",
-        "createdAt": "2026-09-10"
+          }
+        }
       },
       "platforms": {
         "githubRelease": {
@@ -5532,15 +5486,7 @@
             "width": 1024,
             "height": 1536
           }
-        },
-        "usedBy": "gaokao-listening-audio-v1",
-        "title": "高考听力",
-        "status": "finished",
-        "first_class": "考试听力",
-        "second_class": "高中听力",
-        "third_class": "高考听力",
-        "author": "",
-        "createdAt": "2026-09-10"
+        }
       },
       "platforms": {
         "githubRelease": {
@@ -5549,6 +5495,414 @@
         "mirrors": []
       },
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/gaokao-listening-audio-v1"
+    },
+    {
+      "tag": "graded-reading-animal-farm",
+      "status": "finished",
+      "title": "动物农场 (Animal Farm)",
+      "first_class": "英语阅读",
+      "second_class": "B1-B2",
+      "third_class": "",
+      "author": "[英] George Orwell (乔治·奥威尔)",
+      "createdAt": "2026-09-12 01:38:19 +0800",
+      "audioCount": 53,
+      "totalSizeMiB": 236.21,
+      "detailFile": "graded-reading-animal-farm.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-animal-farm.json",
+      "poster": {
+        "id": "animal-farm",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/animal-farm.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/animal-farm.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/animal-farm.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/animal-farm.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/animal-farm.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/animal-farm.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 330,
+            "height": 500
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-animal-farm"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-animal-farm"
+    },
+    {
+      "tag": "graded-reading-charlottes-web",
+      "status": "finished",
+      "title": "夏洛的网 (Charlotte's Web)",
+      "first_class": "英语阅读",
+      "second_class": "B1",
+      "third_class": "",
+      "author": "[美] E. B. White (E·B·怀特)",
+      "createdAt": "2026-09-12 01:38:20 +0800",
+      "audioCount": 24,
+      "totalSizeMiB": 275.61,
+      "detailFile": "graded-reading-charlottes-web.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-charlottes-web.json",
+      "poster": {
+        "id": "charlottes-web",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/charlottes-web.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/charlottes-web.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/charlottes-web.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/charlottes-web.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/charlottes-web.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/charlottes-web.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 335,
+            "height": 500
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-charlottes-web"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-charlottes-web"
+    },
+    {
+      "tag": "graded-reading-great-expectations",
+      "status": "finished",
+      "title": "远大前程 (Great Expectations)",
+      "first_class": "英语阅读",
+      "second_class": "C1",
+      "third_class": "",
+      "author": "[英] Charles Dickens (查尔斯·狄更斯)",
+      "createdAt": "2026-09-12 01:38:22 +0800",
+      "audioCount": 60,
+      "totalSizeMiB": 1256.25,
+      "detailFile": "graded-reading-great-expectations.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-great-expectations.json",
+      "poster": {
+        "id": "great-expectations",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/great-expectations.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/great-expectations.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/great-expectations.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/great-expectations.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/great-expectations.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/great-expectations.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 270,
+            "height": 500
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-great-expectations"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-great-expectations"
+    },
+    {
+      "tag": "graded-reading-jane-eyre",
+      "status": "finished",
+      "title": "简·爱 (Jane Eyre)",
+      "first_class": "英语阅读",
+      "second_class": "B2-C1",
+      "third_class": "",
+      "author": "[英] Charlotte Brontë (夏洛蒂·勃朗特)",
+      "createdAt": "2026-09-12 01:38:23 +0800",
+      "audioCount": 39,
+      "totalSizeMiB": 1440.17,
+      "detailFile": "graded-reading-jane-eyre.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-jane-eyre.json",
+      "poster": {
+        "id": "jane-eyre",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/jane-eyre.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/jane-eyre.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/jane-eyre.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/jane-eyre.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/jane-eyre.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/jane-eyre.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 306,
+            "height": 500
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-jane-eyre"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-jane-eyre"
+    },
+    {
+      "tag": "graded-reading-lord-of-the-flies",
+      "status": "finished",
+      "title": "蝇王 (Lord of the Flies)",
+      "first_class": "英语阅读",
+      "second_class": "B2",
+      "third_class": "",
+      "author": "[英] William Golding (威廉·戈尔丁)",
+      "createdAt": "2026-09-12 01:38:24 +0800",
+      "audioCount": 12,
+      "totalSizeMiB": 319.16,
+      "detailFile": "graded-reading-lord-of-the-flies.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-lord-of-the-flies.json",
+      "poster": {
+        "id": "lord-of-the-flies",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/lord-of-the-flies.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/lord-of-the-flies.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/lord-of-the-flies.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/lord-of-the-flies.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/lord-of-the-flies.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/lord-of-the-flies.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 316,
+            "height": 500
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-lord-of-the-flies"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-lord-of-the-flies"
+    },
+    {
+      "tag": "graded-reading-moby-dick",
+      "status": "finished",
+      "title": "白鲸 (Moby-Dick)",
+      "first_class": "英语阅读",
+      "second_class": "C1",
+      "third_class": "",
+      "author": "[美] Herman Melville (赫尔曼·梅尔维尔)",
+      "createdAt": "2026-09-12 01:38:26 +0800",
+      "audioCount": 138,
+      "totalSizeMiB": 1536.98,
+      "detailFile": "graded-reading-moby-dick.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-moby-dick.json",
+      "poster": {
+        "id": "moby-dick",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/moby-dick.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/moby-dick.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/moby-dick.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/moby-dick.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/moby-dick.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/moby-dick.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 327,
+            "height": 500
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-moby-dick"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-moby-dick"
+    },
+    {
+      "tag": "graded-reading-pride-and-prejudice",
+      "status": "finished",
+      "title": "傲慢与偏见 (Pride and Prejudice)",
+      "first_class": "英语阅读",
+      "second_class": "B2-C1",
+      "third_class": "",
+      "author": "[英] Jane Austen (简·奥斯汀)",
+      "createdAt": "2026-09-12 01:38:27 +0800",
+      "audioCount": 17,
+      "totalSizeMiB": 494.52,
+      "detailFile": "graded-reading-pride-and-prejudice.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-pride-and-prejudice.json",
+      "poster": {
+        "id": "pride-and-prejudice",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/pride-and-prejudice.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/pride-and-prejudice.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/pride-and-prejudice.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/pride-and-prejudice.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/pride-and-prejudice.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/pride-and-prejudice.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 313,
+            "height": 500
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-pride-and-prejudice"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-pride-and-prejudice"
+    },
+    {
+      "tag": "graded-reading-the-hobbit",
+      "status": "finished",
+      "title": "霍比特人 (The Hobbit)",
+      "first_class": "英语阅读",
+      "second_class": "B1-B2",
+      "third_class": "",
+      "author": "[英] J. R. R. Tolkien (J·R·R·托尔金)",
+      "createdAt": "2026-09-12 01:38:29 +0800",
+      "audioCount": 19,
+      "totalSizeMiB": 563.31,
+      "detailFile": "graded-reading-the-hobbit.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-the-hobbit.json",
+      "poster": {
+        "id": "the-hobbit",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/the-hobbit.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-hobbit.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-hobbit.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/the-hobbit.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-hobbit.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-hobbit.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 301,
+            "height": 500
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-hobbit"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-hobbit"
     },
     {
       "tag": "growing-pains-s01-audio-v1",
@@ -5962,9 +6316,7 @@
             "width": 1024,
             "height": 1536
           }
-        },
-        "usedBy": "junior-high-school-listening-audio-v1",
-        "title": "初中英语听力"
+        }
       },
       "platforms": {
         "githubRelease": {
@@ -6832,9 +7184,7 @@
             "width": 1024,
             "height": 1536
           }
-        },
-        "usedBy": "senior-high-school-listening-audio-v1",
-        "title": "高中英语听力"
+        }
       },
       "platforms": {
         "githubRelease": {
@@ -8296,15 +8646,7 @@
             "width": 1024,
             "height": 1536
           }
-        },
-        "usedBy": "zhongkao-listening-audio-v1",
-        "title": "中考听力",
-        "status": "finished",
-        "first_class": "考试听力",
-        "second_class": "初中听力",
-        "third_class": "中考听力",
-        "author": "",
-        "createdAt": "2026-09-10"
+        }
       },
       "platforms": {
         "githubRelease": {
@@ -8825,57 +9167,6 @@
       "releaseUrl": ""
     },
     {
-      "tag": "graded-reading-charlottes-web",
-      "status": "processing",
-      "title": "夏洛的网 (Charlotte's Web)",
-      "first_class": "英语阅读",
-      "second_class": "B1",
-      "third_class": "",
-      "author": "[美] E. B. White (E·B·怀特)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "charlottes-web",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/charlottes-web.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/charlottes-web.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/charlottes-web.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/charlottes-web.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/charlottes-web.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/charlottes-web.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 335,
-            "height": 500
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
       "tag": "graded-reading-the-giver",
       "status": "processing",
       "title": "记忆传授人 (The Giver)",
@@ -8978,57 +9269,6 @@
       "releaseUrl": ""
     },
     {
-      "tag": "graded-reading-animal-farm",
-      "status": "processing",
-      "title": "动物农场 (Animal Farm)",
-      "first_class": "英语阅读",
-      "second_class": "B1-B2",
-      "third_class": "",
-      "author": "[英] George Orwell (乔治·奥威尔)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "animal-farm",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/animal-farm.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/animal-farm.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/animal-farm.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/animal-farm.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/animal-farm.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/animal-farm.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 330,
-            "height": 500
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
       "tag": "graded-reading-the-great-gatsby",
       "status": "processing",
       "title": "了不起的盖茨比 (The Great Gatsby)",
@@ -9067,57 +9307,6 @@
           },
           "sourceSize": {
             "width": 324,
-            "height": 500
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
-      "tag": "graded-reading-the-hobbit",
-      "status": "processing",
-      "title": "霍比特人 (The Hobbit)",
-      "first_class": "英语阅读",
-      "second_class": "B1-B2",
-      "third_class": "",
-      "author": "[英] J. R. R. Tolkien (J·R·R·托尔金)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "the-hobbit",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/the-hobbit.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-hobbit.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-hobbit.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/the-hobbit.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-hobbit.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-hobbit.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 301,
             "height": 500
           }
         }
@@ -9182,57 +9371,6 @@
       "releaseUrl": ""
     },
     {
-      "tag": "graded-reading-lord-of-the-flies",
-      "status": "processing",
-      "title": "蝇王 (Lord of the Flies)",
-      "first_class": "英语阅读",
-      "second_class": "B2",
-      "third_class": "",
-      "author": "[英] William Golding (威廉·戈尔丁)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "lord-of-the-flies",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/lord-of-the-flies.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/lord-of-the-flies.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/lord-of-the-flies.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/lord-of-the-flies.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/lord-of-the-flies.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/lord-of-the-flies.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 316,
-            "height": 500
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
       "tag": "graded-reading-the-picture-of-dorian-gray",
       "status": "processing",
       "title": "道林·格雷的画像 (The Picture of Dorian Gray)",
@@ -9271,108 +9409,6 @@
           },
           "sourceSize": {
             "width": 317,
-            "height": 500
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
-      "tag": "graded-reading-pride-and-prejudice",
-      "status": "processing",
-      "title": "傲慢与偏见 (Pride and Prejudice)",
-      "first_class": "英语阅读",
-      "second_class": "B2-C1",
-      "third_class": "",
-      "author": "[英] Jane Austen (简·奥斯汀)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "pride-and-prejudice",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/pride-and-prejudice.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/pride-and-prejudice.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/pride-and-prejudice.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/pride-and-prejudice.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/pride-and-prejudice.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/pride-and-prejudice.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 313,
-            "height": 500
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
-      "tag": "graded-reading-jane-eyre",
-      "status": "processing",
-      "title": "简·爱 (Jane Eyre)",
-      "first_class": "英语阅读",
-      "second_class": "B2-C1",
-      "third_class": "",
-      "author": "[英] Charlotte Brontë (夏洛蒂·勃朗特)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "jane-eyre",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/jane-eyre.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/jane-eyre.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/jane-eyre.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/jane-eyre.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/jane-eyre.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/jane-eyre.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 306,
             "height": 500
           }
         }
@@ -9475,108 +9511,6 @@
           },
           "sourceSize": {
             "width": 309,
-            "height": 500
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
-      "tag": "graded-reading-great-expectations",
-      "status": "processing",
-      "title": "远大前程 (Great Expectations)",
-      "first_class": "英语阅读",
-      "second_class": "C1",
-      "third_class": "",
-      "author": "[英] Charles Dickens (查尔斯·狄更斯)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "great-expectations",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/great-expectations.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/great-expectations.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/great-expectations.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/great-expectations.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/great-expectations.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/great-expectations.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 270,
-            "height": 500
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
-      "tag": "graded-reading-moby-dick",
-      "status": "processing",
-      "title": "白鲸 (Moby-Dick)",
-      "first_class": "英语阅读",
-      "second_class": "C1",
-      "third_class": "",
-      "author": "[美] Herman Melville (赫尔曼·梅尔维尔)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "moby-dick",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/moby-dick.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/moby-dick.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/moby-dick.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/moby-dick.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/moby-dick.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/moby-dick.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 327,
             "height": 500
           }
         }

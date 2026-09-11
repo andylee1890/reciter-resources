@@ -30,9 +30,23 @@ DRAMA_SERIES = {
 }
 DRAMA_SEASON_PATTERN = re.compile(r"^(?P<series>.+)-s(?P<season>\d+)-audio-v\d+$")
 
+READING_CATALOG = {
+    "graded-reading-animal-farm": ("动物农场 (Animal Farm)", "B1-B2", "[英] George Orwell (乔治·奥威尔)"),
+    "graded-reading-charlottes-web": ("夏洛的网 (Charlotte's Web)", "B1", "[美] E. B. White (E·B·怀特)"),
+    "graded-reading-great-expectations": ("远大前程 (Great Expectations)", "C1", "[英] Charles Dickens (查尔斯·狄更斯)"),
+    "graded-reading-jane-eyre": ("简·爱 (Jane Eyre)", "B2-C1", "[英] Charlotte Brontë (夏洛蒂·勃朗特)"),
+    "graded-reading-lord-of-the-flies": ("蝇王 (Lord of the Flies)", "B2", "[英] William Golding (威廉·戈尔丁)"),
+    "graded-reading-moby-dick": ("白鲸 (Moby-Dick)", "C1", "[美] Herman Melville (赫尔曼·梅尔维尔)"),
+    "graded-reading-pride-and-prejudice": ("傲慢与偏见 (Pride and Prejudice)", "B2-C1", "[英] Jane Austen (简·奥斯汀)"),
+    "graded-reading-the-hobbit": ("霍比特人 (The Hobbit)", "B1-B2", "[英] J. R. R. Tolkien (J·R·R·托尔金)"),
+}
+
 
 def catalog_metadata(tag: str, fallback_title: str) -> dict[str, str]:
     """Return stable, page-facing metadata for a published audio collection."""
+    if tag in READING_CATALOG:
+        title, level, author = READING_CATALOG[tag]
+        return {"title": title, "first_class": "英语阅读", "second_class": level, "third_class": "", "author": author}
     season = DRAMA_SEASON_PATTERN.fullmatch(tag)
     if season and season["series"] in DRAMA_SERIES:
         return {

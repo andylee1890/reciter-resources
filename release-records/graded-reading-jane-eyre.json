@@ -1,0 +1,752 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-11T17:49:39.726502Z",
+  "tag": "graded-reading-jane-eyre",
+  "title": "简·爱 (Jane Eyre)",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/reading/Jane Eyre",
+  "createdAt": "2026-09-12 01:38:23 +0800",
+  "poster": {
+    "id": "jane-eyre",
+    "kind": "book-cover",
+    "sourceType": "prepared-cover",
+    "original": {
+      "path": "artwork/posters/jane-eyre.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/jane-eyre.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/jane-eyre.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/jane-eyre.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/jane-eyre.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/jane-eyre.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "sourceSize": {
+        "width": 306,
+        "height": 500
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-jane-eyre"
+    },
+    "mirrors": []
+  },
+  "audioCount": 39,
+  "totalSizeMiB": 1440.17,
+  "audio": [
+    {
+      "name": "001-Introduction.mp3",
+      "sizeMiB": 0.22,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/001-Introduction.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/001-Introduction.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/001-Introduction.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/001-Introduction.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/001-Introduction.recx"
+        }
+      }
+    },
+    {
+      "name": "002-Chapter I.mp3",
+      "sizeMiB": 15.28,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/002-Chapter.I.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/002-Chapter%20I.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/002-Chapter%20I.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/002-Chapter%20I.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/002-Chapter%20I.recx"
+        }
+      }
+    },
+    {
+      "name": "003-Chapter II.mp3",
+      "sizeMiB": 21.72,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/003-Chapter.II.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/003-Chapter%20II.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/003-Chapter%20II.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/003-Chapter%20II.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/003-Chapter%20II.recx"
+        }
+      }
+    },
+    {
+      "name": "004-Chapter III.mp3",
+      "sizeMiB": 24.84,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/004-Chapter.III.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/004-Chapter%20III.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/004-Chapter%20III.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/004-Chapter%20III.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/004-Chapter%20III.recx"
+        }
+      }
+    },
+    {
+      "name": "005-Chapter IV.mp3",
+      "sizeMiB": 45.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/005-Chapter.IV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/005-Chapter%20IV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/005-Chapter%20IV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/005-Chapter%20IV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/005-Chapter%20IV.recx"
+        }
+      }
+    },
+    {
+      "name": "006-Chapter V.mp3",
+      "sizeMiB": 39.16,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/006-Chapter.V.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/006-Chapter%20V.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/006-Chapter%20V.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/006-Chapter%20V.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/006-Chapter%20V.recx"
+        }
+      }
+    },
+    {
+      "name": "007-Chapter VI.mp3",
+      "sizeMiB": 22.55,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/007-Chapter.VI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/007-Chapter%20VI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/007-Chapter%20VI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/007-Chapter%20VI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/007-Chapter%20VI.recx"
+        }
+      }
+    },
+    {
+      "name": "008-Chapter VII.mp3",
+      "sizeMiB": 28.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/008-Chapter.VII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/008-Chapter%20VII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/008-Chapter%20VII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/008-Chapter%20VII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/008-Chapter%20VII.recx"
+        }
+      }
+    },
+    {
+      "name": "009-Chapter VIII.mp3",
+      "sizeMiB": 23.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/009-Chapter.VIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/009-Chapter%20VIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/009-Chapter%20VIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/009-Chapter%20VIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/009-Chapter%20VIII.recx"
+        }
+      }
+    },
+    {
+      "name": "010-Chapter IX.mp3",
+      "sizeMiB": 24.72,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/010-Chapter.IX.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/010-Chapter%20IX.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/010-Chapter%20IX.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/010-Chapter%20IX.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/010-Chapter%20IX.recx"
+        }
+      }
+    },
+    {
+      "name": "011-Chapter X.mp3",
+      "sizeMiB": 33.87,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/011-Chapter.X.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/011-Chapter%20X.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/011-Chapter%20X.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/011-Chapter%20X.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/011-Chapter%20X.recx"
+        }
+      }
+    },
+    {
+      "name": "012-Chapter XI.mp3",
+      "sizeMiB": 49.87,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/012-Chapter.XI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/012-Chapter%20XI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/012-Chapter%20XI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/012-Chapter%20XI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/012-Chapter%20XI.recx"
+        }
+      }
+    },
+    {
+      "name": "013-Chapter XII.mp3",
+      "sizeMiB": 32.42,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/013-Chapter.XII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/013-Chapter%20XII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/013-Chapter%20XII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/013-Chapter%20XII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/013-Chapter%20XII.recx"
+        }
+      }
+    },
+    {
+      "name": "014-Chapter XIII.mp3",
+      "sizeMiB": 31.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/014-Chapter.XIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/014-Chapter%20XIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/014-Chapter%20XIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/014-Chapter%20XIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/014-Chapter%20XIII.recx"
+        }
+      }
+    },
+    {
+      "name": "015-Chapter XIV.mp3",
+      "sizeMiB": 38.34,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/015-Chapter.XIV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/015-Chapter%20XIV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/015-Chapter%20XIV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/015-Chapter%20XIV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/015-Chapter%20XIV.recx"
+        }
+      }
+    },
+    {
+      "name": "016-Chapter XV.mp3",
+      "sizeMiB": 38.57,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/016-Chapter.XV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/016-Chapter%20XV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/016-Chapter%20XV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/016-Chapter%20XV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/016-Chapter%20XV.recx"
+        }
+      }
+    },
+    {
+      "name": "017-Chapter XVI.mp3",
+      "sizeMiB": 29.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/017-Chapter.XVI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/017-Chapter%20XVI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/017-Chapter%20XVI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/017-Chapter%20XVI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/017-Chapter%20XVI.recx"
+        }
+      }
+    },
+    {
+      "name": "018-Chapter XVII.mp3",
+      "sizeMiB": 64.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/018-Chapter.XVII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/018-Chapter%20XVII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/018-Chapter%20XVII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/018-Chapter%20XVII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/018-Chapter%20XVII.recx"
+        }
+      }
+    },
+    {
+      "name": "019-Chapter XVIII.mp3",
+      "sizeMiB": 48.02,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/019-Chapter.XVIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/019-Chapter%20XVIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/019-Chapter%20XVIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/019-Chapter%20XVIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/019-Chapter%20XVIII.recx"
+        }
+      }
+    },
+    {
+      "name": "020-Chapter XIX.mp3",
+      "sizeMiB": 29.05,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/020-Chapter.XIX.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/020-Chapter%20XIX.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/020-Chapter%20XIX.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/020-Chapter%20XIX.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/020-Chapter%20XIX.recx"
+        }
+      }
+    },
+    {
+      "name": "021-Chapter XX.mp3",
+      "sizeMiB": 45.37,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/021-Chapter.XX.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/021-Chapter%20XX.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/021-Chapter%20XX.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/021-Chapter%20XX.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/021-Chapter%20XX.recx"
+        }
+      }
+    },
+    {
+      "name": "022-Chapter XXI.mp3",
+      "sizeMiB": 67.47,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/022-Chapter.XXI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/022-Chapter%20XXI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/022-Chapter%20XXI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/022-Chapter%20XXI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/022-Chapter%20XXI.recx"
+        }
+      }
+    },
+    {
+      "name": "023-Chapter XXII.mp3",
+      "sizeMiB": 21.78,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/023-Chapter.XXII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/023-Chapter%20XXII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/023-Chapter%20XXII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/023-Chapter%20XXII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/023-Chapter%20XXII.recx"
+        }
+      }
+    },
+    {
+      "name": "024-Chapter XXIII.mp3",
+      "sizeMiB": 30.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/024-Chapter.XXIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/024-Chapter%20XXIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/024-Chapter%20XXIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/024-Chapter%20XXIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/024-Chapter%20XXIII.recx"
+        }
+      }
+    },
+    {
+      "name": "025-Chapter XXIV.mp3",
+      "sizeMiB": 54.27,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/025-Chapter.XXIV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/025-Chapter%20XXIV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/025-Chapter%20XXIV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/025-Chapter%20XXIV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/025-Chapter%20XXIV.recx"
+        }
+      }
+    },
+    {
+      "name": "026-Chapter XXV.mp3",
+      "sizeMiB": 38.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/026-Chapter.XXV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/026-Chapter%20XXV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/026-Chapter%20XXV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/026-Chapter%20XXV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/026-Chapter%20XXV.recx"
+        }
+      }
+    },
+    {
+      "name": "027-Chapter XXVI.mp3",
+      "sizeMiB": 34.74,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/027-Chapter.XXVI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/027-Chapter%20XXVI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/027-Chapter%20XXVI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/027-Chapter%20XXVI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/027-Chapter%20XXVI.recx"
+        }
+      }
+    },
+    {
+      "name": "028-Chapter XXVII.mp3",
+      "sizeMiB": 83.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/028-Chapter.XXVII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/028-Chapter%20XXVII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/028-Chapter%20XXVII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/028-Chapter%20XXVII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/028-Chapter%20XXVII.recx"
+        }
+      }
+    },
+    {
+      "name": "029-Chapter XVIII.mp3",
+      "sizeMiB": 52.33,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/029-Chapter.XVIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/029-Chapter%20XVIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/029-Chapter%20XVIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/029-Chapter%20XVIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/029-Chapter%20XVIII.recx"
+        }
+      }
+    },
+    {
+      "name": "030-Chapter XXIX.mp3",
+      "sizeMiB": 34.7,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/030-Chapter.XXIX.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/030-Chapter%20XXIX.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/030-Chapter%20XXIX.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/030-Chapter%20XXIX.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/030-Chapter%20XXIX.recx"
+        }
+      }
+    },
+    {
+      "name": "031-Chapter XXX.mp3",
+      "sizeMiB": 29.81,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/031-Chapter.XXX.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/031-Chapter%20XXX.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/031-Chapter%20XXX.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/031-Chapter%20XXX.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/031-Chapter%20XXX.recx"
+        }
+      }
+    },
+    {
+      "name": "032-Chapter XXXI.mp3",
+      "sizeMiB": 24.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/032-Chapter.XXXI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/032-Chapter%20XXXI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/032-Chapter%20XXXI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/032-Chapter%20XXXI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/032-Chapter%20XXXI.recx"
+        }
+      }
+    },
+    {
+      "name": "033-Chapter XXXII.mp3",
+      "sizeMiB": 36.93,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/033-Chapter.XXXII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/033-Chapter%20XXXII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/033-Chapter%20XXXII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/033-Chapter%20XXXII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/033-Chapter%20XXXII.recx"
+        }
+      }
+    },
+    {
+      "name": "034-Chapter XXXIII.mp3",
+      "sizeMiB": 37.87,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/034-Chapter.XXXIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/034-Chapter%20XXXIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/034-Chapter%20XXXIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/034-Chapter%20XXXIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/034-Chapter%20XXXIII.recx"
+        }
+      }
+    },
+    {
+      "name": "035-Chapter XXXIV.mp3",
+      "sizeMiB": 72.35,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/035-Chapter.XXXIV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/035-Chapter%20XXXIV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/035-Chapter%20XXXIV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/035-Chapter%20XXXIV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/035-Chapter%20XXXIV.recx"
+        }
+      }
+    },
+    {
+      "name": "036-Chapter XXXV.mp3",
+      "sizeMiB": 32.99,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/036-Chapter.XXXV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/036-Chapter%20XXXV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/036-Chapter%20XXXV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/036-Chapter%20XXXV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/036-Chapter%20XXXV.recx"
+        }
+      }
+    },
+    {
+      "name": "037-Chapter XXXVI.mp3",
+      "sizeMiB": 29.89,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/037-Chapter.XXXVI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/037-Chapter%20XXXVI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/037-Chapter%20XXXVI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/037-Chapter%20XXXVI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/037-Chapter%20XXXVI.recx"
+        }
+      }
+    },
+    {
+      "name": "038-Chapter XXXVII.mp3",
+      "sizeMiB": 56.94,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/038-Chapter.XXXVII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/038-Chapter%20XXXVII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/038-Chapter%20XXXVII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/038-Chapter%20XXXVII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/038-Chapter%20XXXVII.recx"
+        }
+      }
+    },
+    {
+      "name": "039-Chapter XXXVIII.mp3",
+      "sizeMiB": 13.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-jane-eyre/039-Chapter.XXXVIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/039-Chapter%20XXXVIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Jane%20Eyre/039-Chapter%20XXXVIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/039-Chapter%20XXXVIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Jane%20Eyre/039-Chapter%20XXXVIII.recx"
+        }
+      }
+    }
+  ]
+}

@@ -18,6 +18,8 @@
     },
     "card": {
       "path": "artwork/posters/card/cet4-listening.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet4-listening.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet4-listening.webp",
       "mode": "crop",
       "aspectRatio": "480:600",
       "width": 480,
@@ -32,18 +34,8 @@
       "sourceSize": {
         "width": 1024,
         "height": 1536
-      },
-      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet4-listening.webp",
-      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet4-listening.webp"
-    },
-    "usedBy": "cet4-listening-audio-v1",
-    "title": "CET4听力",
-    "status": "finished",
-    "first_class": "考试听力",
-    "second_class": "四、六级",
-    "third_class": "CET4听力",
-    "author": "",
-    "createdAt": "2026-09-10"
+      }
+    }
   },
   "platforms": {
     "githubRelease": {

@@ -1,0 +1,356 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-11T17:49:39.726502Z",
+  "tag": "graded-reading-pride-and-prejudice",
+  "title": "傲慢与偏见 (Pride and Prejudice)",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/reading/Pride and Prejudice",
+  "createdAt": "2026-09-12 01:38:27 +0800",
+  "poster": {
+    "id": "pride-and-prejudice",
+    "kind": "book-cover",
+    "sourceType": "prepared-cover",
+    "original": {
+      "path": "artwork/posters/pride-and-prejudice.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/pride-and-prejudice.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/pride-and-prejudice.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/pride-and-prejudice.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/pride-and-prejudice.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/pride-and-prejudice.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "sourceSize": {
+        "width": 313,
+        "height": 500
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-pride-and-prejudice"
+    },
+    "mirrors": []
+  },
+  "audioCount": 17,
+  "totalSizeMiB": 494.52,
+  "audio": [
+    {
+      "name": "001-Pride and Prejudice by Jane Austen.mp3",
+      "sizeMiB": 0.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-pride-and-prejudice/001-Pride.and.Prejudice.by.Jane.Austen.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/001-Pride%20and%20Prejudice%20by%20Jane%20Austen.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/001-Pride%20and%20Prejudice%20by%20Jane%20Austen.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/001-Pride%20and%20Prejudice%20by%20Jane%20Austen.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/001-Pride%20and%20Prejudice%20by%20Jane%20Austen.recx"
+        }
+      }
+    },
+    {
+      "name": "002-Ch 1, 2 and 3.mp3",
+      "sizeMiB": 20.4,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-pride-and-prejudice/002-Ch.1.2.and.3.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/002-Ch%201%2C%202%20and%203.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/002-Ch%201%2C%202%20and%203.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/002-Ch%201%2C%202%20and%203.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/002-Ch%201%2C%202%20and%203.recx"
+        }
+      }
+    },
+    {
+      "name": "003-Ch 4, 5 and 6.mp3",
+      "sizeMiB": 25.51,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-pride-and-prejudice/003-Ch.4.5.and.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/003-Ch%204%2C%205%20and%206.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/003-Ch%204%2C%205%20and%206.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/003-Ch%204%2C%205%20and%206.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/003-Ch%204%2C%205%20and%206.recx"
+        }
+      }
+    },
+    {
+      "name": "004-Ch 7, 8 and 9.mp3",
+      "sizeMiB": 33.09,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-pride-and-prejudice/004-Ch.7.8.and.9.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/004-Ch%207%2C%208%20and%209.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/004-Ch%207%2C%208%20and%209.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/004-Ch%207%2C%208%20and%209.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/004-Ch%207%2C%208%20and%209.recx"
+        }
+      }
+    },
+    {
+      "name": "005-Ch 10, 11 and 12.mp3",
+      "sizeMiB": 25.02,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-pride-and-prejudice/005-Ch.10.11.and.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/005-Ch%2010%2C%2011%20and%2012.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/005-Ch%2010%2C%2011%20and%2012.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/005-Ch%2010%2C%2011%20and%2012.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/005-Ch%2010%2C%2011%20and%2012.recx"
+        }
+      }
+    },
+    {
+      "name": "006-Ch 13, 14 and 15.mp3",
+      "sizeMiB": 26.34,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-pride-and-prejudice/006-Ch.13.14.and.15.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/006-Ch%2013%2C%2014%20and%2015.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/006-Ch%2013%2C%2014%20and%2015.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/006-Ch%2013%2C%2014%20and%2015.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/006-Ch%2013%2C%2014%20and%2015.recx"
+        }
+      }
+    },
+    {
+      "name": "007-Ch 16, 17 and 18.mp3",
+      "sizeMiB": 54.08,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-pride-and-prejudice/007-Ch.16.17.and.18.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/007-Ch%2016%2C%2017%20and%2018.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/007-Ch%2016%2C%2017%20and%2018.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/007-Ch%2016%2C%2017%20and%2018.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/007-Ch%2016%2C%2017%20and%2018.recx"
+        }
+      }
+    },
+    {
+      "name": "008-Ch 19, 20 and 21.mp3",
+      "sizeMiB": 31.39,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-pride-and-prejudice/008-Ch.19.20.and.21.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/008-Ch%2019%2C%2020%20and%2021.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/008-Ch%2019%2C%2020%20and%2021.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/008-Ch%2019%2C%2020%20and%2021.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/008-Ch%2019%2C%2020%20and%2021.recx"
+        }
+      }
+    },
+    {
+      "name": "009-Ch 22, 23 and 24.mp3",
+      "sizeMiB": 29.19,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-pride-and-prejudice/009-Ch.22.23.and.24.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/009-Ch%2022%2C%2023%20and%2024.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/009-Ch%2022%2C%2023%20and%2024.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/009-Ch%2022%2C%2023%20and%2024.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/009-Ch%2022%2C%2023%20and%2024.recx"
+        }
+      }
+    },
+    {
+      "name": "010-Ch 25, 26 and 27.mp3",
+      "sizeMiB": 28.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-pride-and-prejudice/010-Ch.25.26.and.27.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/010-Ch%2025%2C%2026%20and%2027.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/010-Ch%2025%2C%2026%20and%2027.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/010-Ch%2025%2C%2026%20and%2027.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/010-Ch%2025%2C%2026%20and%2027.recx"
+        }
+      }
+    },
+    {
+      "name": "011-Ch 28, 29 and 30.mp3",
+      "sizeMiB": 28.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-pride-and-prejudice/011-Ch.28.29.and.30.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/011-Ch%2028%2C%2029%20and%2030.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/011-Ch%2028%2C%2029%20and%2030.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/011-Ch%2028%2C%2029%20and%2030.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/011-Ch%2028%2C%2029%20and%2030.recx"
+        }
+      }
+    },
+    {
+      "name": "012-Ch 31, 32 and 33.mp3",
+      "sizeMiB": 26.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-pride-and-prejudice/012-Ch.31.32.and.33.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/012-Ch%2031%2C%2032%20and%2033.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/012-Ch%2031%2C%2032%20and%2033.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/012-Ch%2031%2C%2032%20and%2033.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/012-Ch%2031%2C%2032%20and%2033.recx"
+        }
+      }
+    },
+    {
+      "name": "013-Ch 34, 35 and 36.mp3",
+      "sizeMiB": 39.33,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-pride-and-prejudice/013-Ch.34.35.and.36.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/013-Ch%2034%2C%2035%20and%2036.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/013-Ch%2034%2C%2035%20and%2036.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/013-Ch%2034%2C%2035%20and%2036.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/013-Ch%2034%2C%2035%20and%2036.recx"
+        }
+      }
+    },
+    {
+      "name": "014-Ch 37, 38 and 39.mp3",
+      "sizeMiB": 21.87,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-pride-and-prejudice/014-Ch.37.38.and.39.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/014-Ch%2037%2C%2038%20and%2039.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/014-Ch%2037%2C%2038%20and%2039.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/014-Ch%2037%2C%2038%20and%2039.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/014-Ch%2037%2C%2038%20and%2039.recx"
+        }
+      }
+    },
+    {
+      "name": "015-Ch 40, 41 and 42.mp3",
+      "sizeMiB": 32.53,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-pride-and-prejudice/015-Ch.40.41.and.42.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/015-Ch%2040%2C%2041%20and%2042.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/015-Ch%2040%2C%2041%20and%2042.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/015-Ch%2040%2C%2041%20and%2042.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/015-Ch%2040%2C%2041%20and%2042.recx"
+        }
+      }
+    },
+    {
+      "name": "016-Ch 43, 44 and 45.mp3",
+      "sizeMiB": 48.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-pride-and-prejudice/016-Ch.43.44.and.45.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/016-Ch%2043%2C%2044%20and%2045.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/016-Ch%2043%2C%2044%20and%2045.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/016-Ch%2043%2C%2044%20and%2045.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/016-Ch%2043%2C%2044%20and%2045.recx"
+        }
+      }
+    },
+    {
+      "name": "017-Ch 46, 47 and 48.mp3",
+      "sizeMiB": 22.49,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-pride-and-prejudice/017-Ch.46.47.and.48.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/017-Ch%2046%2C%2047%20and%2048.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Pride%20and%20Prejudice/017-Ch%2046%2C%2047%20and%2048.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/017-Ch%2046%2C%2047%20and%2048.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Pride%20and%20Prejudice/017-Ch%2046%2C%2047%20and%2048.recx"
+        }
+      }
+    }
+  ]
+}

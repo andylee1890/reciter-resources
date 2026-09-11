@@ -1,0 +1,1004 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-11T17:49:39.726502Z",
+  "tag": "graded-reading-animal-farm",
+  "title": "动物农场 (Animal Farm)",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/reading/Animal Farm",
+  "createdAt": "2026-09-12 01:38:19 +0800",
+  "poster": {
+    "id": "animal-farm",
+    "kind": "book-cover",
+    "sourceType": "prepared-cover",
+    "original": {
+      "path": "artwork/posters/animal-farm.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/animal-farm.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/animal-farm.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/animal-farm.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/animal-farm.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/animal-farm.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "sourceSize": {
+        "width": 330,
+        "height": 500
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-animal-farm"
+    },
+    "mirrors": []
+  },
+  "audioCount": 53,
+  "totalSizeMiB": 236.21,
+  "audio": [
+    {
+      "name": "001-The Gathering.mp3",
+      "sizeMiB": 6.09,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/001-The.Gathering.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/001-The%20Gathering.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/001-The%20Gathering.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/001-The%20Gathering.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/001-The%20Gathering.recx"
+        }
+      }
+    },
+    {
+      "name": "002-Major's Vision.mp3",
+      "sizeMiB": 8.7,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/002-Major.s.Vision.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/002-Major%27s%20Vision.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/002-Major%27s%20Vision.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/002-Major%27s%20Vision.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/002-Major%27s%20Vision.recx"
+        }
+      }
+    },
+    {
+      "name": "003-Beasts of England.mp3",
+      "sizeMiB": 5.11,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/003-Beasts.of.England.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/003-Beasts%20of%20England.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/003-Beasts%20of%20England.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/003-Beasts%20of%20England.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/003-Beasts%20of%20England.recx"
+        }
+      }
+    },
+    {
+      "name": "004-The Alarm.mp3",
+      "sizeMiB": 0.61,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/004-The.Alarm.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/004-The%20Alarm.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/004-The%20Alarm.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/004-The%20Alarm.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/004-The%20Alarm.recx"
+        }
+      }
+    },
+    {
+      "name": "005-Major's Legacy.mp3",
+      "sizeMiB": 2.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/005-Major.s.Legacy.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/005-Major%27s%20Legacy.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/005-Major%27s%20Legacy.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/005-Major%27s%20Legacy.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/005-Major%27s%20Legacy.recx"
+        }
+      }
+    },
+    {
+      "name": "006-Teaching Animalism.mp3",
+      "sizeMiB": 3.16,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/006-Teaching.Animalism.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/006-Teaching%20Animalism.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/006-Teaching%20Animalism.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/006-Teaching%20Animalism.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/006-Teaching%20Animalism.recx"
+        }
+      }
+    },
+    {
+      "name": "007-The Unexpected Rebellion.mp3",
+      "sizeMiB": 6.91,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/007-The.Unexpected.Rebellion.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/007-The%20Unexpected%20Rebellion.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/007-The%20Unexpected%20Rebellion.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/007-The%20Unexpected%20Rebellion.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/007-The%20Unexpected%20Rebellion.recx"
+        }
+      }
+    },
+    {
+      "name": "008-Dawn of Freedom.mp3",
+      "sizeMiB": 2.91,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/008-Dawn.of.Freedom.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/008-Dawn%20of%20Freedom.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/008-Dawn%20of%20Freedom.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/008-Dawn%20of%20Freedom.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/008-Dawn%20of%20Freedom.recx"
+        }
+      }
+    },
+    {
+      "name": "009-Luxury Discovered.mp3",
+      "sizeMiB": 2.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/009-Luxury.Discovered.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/009-Luxury%20Discovered.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/009-Luxury%20Discovered.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/009-Luxury%20Discovered.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/009-Luxury%20Discovered.recx"
+        }
+      }
+    },
+    {
+      "name": "010-The Seven Commandments.mp3",
+      "sizeMiB": 2.72,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/010-The.Seven.Commandments.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/010-The%20Seven%20Commandments.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/010-The%20Seven%20Commandments.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/010-The%20Seven%20Commandments.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/010-The%20Seven%20Commandments.recx"
+        }
+      }
+    },
+    {
+      "name": "011-The Harvest Success.mp3",
+      "sizeMiB": 13.01,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/011-The.Harvest.Success.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/011-The%20Harvest%20Success.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/011-The%20Harvest%20Success.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/011-The%20Harvest%20Success.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/011-The%20Harvest%20Success.recx"
+        }
+      }
+    },
+    {
+      "name": "012-Learning and Doctrine.mp3",
+      "sizeMiB": 2.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/012-Learning.and.Doctrine.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/012-Learning%20and%20Doctrine.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/012-Learning%20and%20Doctrine.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/012-Learning%20and%20Doctrine.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/012-Learning%20and%20Doctrine.recx"
+        }
+      }
+    },
+    {
+      "name": "013-Squealer's Persuasion.mp3",
+      "sizeMiB": 2.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/013-Squealer.s.Persuasion.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/013-Squealer%27s%20Persuasion.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/013-Squealer%27s%20Persuasion.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/013-Squealer%27s%20Persuasion.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/013-Squealer%27s%20Persuasion.recx"
+        }
+      }
+    },
+    {
+      "name": "014-Rumours Spread.mp3",
+      "sizeMiB": 6.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/014-Rumours.Spread.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/014-Rumours%20Spread.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/014-Rumours%20Spread.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/014-Rumours%20Spread.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/014-Rumours%20Spread.recx"
+        }
+      }
+    },
+    {
+      "name": "015-The Attack Begins.mp3",
+      "sizeMiB": 4.17,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/015-The.Attack.Begins.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/015-The%20Attack%20Begins.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/015-The%20Attack%20Begins.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/015-The%20Attack%20Begins.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/015-The%20Attack%20Begins.recx"
+        }
+      }
+    },
+    {
+      "name": "016-Boxer's Remorse.mp3",
+      "sizeMiB": 2.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/016-Boxer.s.Remorse.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/016-Boxer%27s%20Remorse.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/016-Boxer%27s%20Remorse.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/016-Boxer%27s%20Remorse.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/016-Boxer%27s%20Remorse.recx"
+        }
+      }
+    },
+    {
+      "name": "017-Victory Celebration.mp3",
+      "sizeMiB": 1.29,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/017-Victory.Celebration.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/017-Victory%20Celebration.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/017-Victory%20Celebration.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/017-Victory%20Celebration.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/017-Victory%20Celebration.recx"
+        }
+      }
+    },
+    {
+      "name": "018-Mollie's Betrayal.mp3",
+      "sizeMiB": 3.03,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/018-Mollie.s.Betrayal.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/018-Mollie%27s%20Betrayal.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/018-Mollie%27s%20Betrayal.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/018-Mollie%27s%20Betrayal.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/018-Mollie%27s%20Betrayal.recx"
+        }
+      }
+    },
+    {
+      "name": "019-Winter Politics.mp3",
+      "sizeMiB": 7.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/019-Winter.Politics.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/019-Winter%20Politics.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/019-Winter%20Politics.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/019-Winter%20Politics.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/019-Winter%20Politics.recx"
+        }
+      }
+    },
+    {
+      "name": "020-The Windmill Question.mp3",
+      "sizeMiB": 2.33,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/020-The.Windmill.Question.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/020-The%20Windmill%20Question.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/020-The%20Windmill%20Question.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/020-The%20Windmill%20Question.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/020-The%20Windmill%20Question.recx"
+        }
+      }
+    },
+    {
+      "name": "021-Snowball's Expulsion.mp3",
+      "sizeMiB": 5.67,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/021-Snowball.s.Expulsion.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/021-Snowball%27s%20Expulsion.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/021-Snowball%27s%20Expulsion.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/021-Snowball%27s%20Expulsion.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/021-Snowball%27s%20Expulsion.recx"
+        }
+      }
+    },
+    {
+      "name": "022-Napoleon's Rise.mp3",
+      "sizeMiB": 2.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/022-Napoleon.s.Rise.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/022-Napoleon%27s%20Rise.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/022-Napoleon%27s%20Rise.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/022-Napoleon%27s%20Rise.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/022-Napoleon%27s%20Rise.recx"
+        }
+      }
+    },
+    {
+      "name": "023-Spring And Rewritten History.mp3",
+      "sizeMiB": 4.04,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/023-Spring.And.Rewritten.History.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/023-Spring%20And%20Rewritten%20History.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/023-Spring%20And%20Rewritten%20History.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/023-Spring%20And%20Rewritten%20History.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/023-Spring%20And%20Rewritten%20History.recx"
+        }
+      }
+    },
+    {
+      "name": "024-Snowball's Betrayal.mp3",
+      "sizeMiB": 9.82,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/024-Snowball.s.Betrayal.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/024-Snowball%27s%20Betrayal.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/024-Snowball%27s%20Betrayal.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/024-Snowball%27s%20Betrayal.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/024-Snowball%27s%20Betrayal.recx"
+        }
+      }
+    },
+    {
+      "name": "025-The Resolution Crisis.mp3",
+      "sizeMiB": 6.92,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/025-The.Resolution.Crisis.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/025-The%20Resolution%20Crisis.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/025-The%20Resolution%20Crisis.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/025-The%20Resolution%20Crisis.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/025-The%20Resolution%20Crisis.recx"
+        }
+      }
+    },
+    {
+      "name": "026-The Beds Commandment.mp3",
+      "sizeMiB": 3.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/026-The.Beds.Commandment.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/026-The%20Beds%20Commandment.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/026-The%20Beds%20Commandment.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/026-The%20Beds%20Commandment.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/026-The%20Beds%20Commandment.recx"
+        }
+      }
+    },
+    {
+      "name": "027-Windmill Destroyed.mp3",
+      "sizeMiB": 2.61,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/027-Windmill.Destroyed.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/027-Windmill%20Destroyed.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/027-Windmill%20Destroyed.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/027-Windmill%20Destroyed.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/027-Windmill%20Destroyed.recx"
+        }
+      }
+    },
+    {
+      "name": "028-Winter's Hardship.mp3",
+      "sizeMiB": 6.77,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/028-Winter.s.Hardship.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/028-Winter%27s%20Hardship.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/028-Winter%27s%20Hardship.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/028-Winter%27s%20Hardship.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/028-Winter%27s%20Hardship.recx"
+        }
+      }
+    },
+    {
+      "name": "029-The Egg Confiscation.mp3",
+      "sizeMiB": 3.57,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/029-The.Egg.Confiscation.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/029-The%20Egg%20Confiscation.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/029-The%20Egg%20Confiscation.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/029-The%20Egg%20Confiscation.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/029-The%20Egg%20Confiscation.recx"
+        }
+      }
+    },
+    {
+      "name": "030-Snowball's Shadow.mp3",
+      "sizeMiB": 1.77,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/030-Snowball.s.Shadow.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/030-Snowball%27s%20Shadow.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/030-Snowball%27s%20Shadow.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/030-Snowball%27s%20Shadow.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/030-Snowball%27s%20Shadow.recx"
+        }
+      }
+    },
+    {
+      "name": "031-The Betrayal Revealed.mp3",
+      "sizeMiB": 4.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/031-The.Betrayal.Revealed.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/031-The%20Betrayal%20Revealed.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/031-The%20Betrayal%20Revealed.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/031-The%20Betrayal%20Revealed.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/031-The%20Betrayal%20Revealed.recx"
+        }
+      }
+    },
+    {
+      "name": "032-Public Confession.mp3",
+      "sizeMiB": 5.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/032-Public.Confession.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/032-Public%20Confession.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/032-Public%20Confession.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/032-Public%20Confession.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/032-Public%20Confession.recx"
+        }
+      }
+    },
+    {
+      "name": "033-Hollow Victory.mp3",
+      "sizeMiB": 5.46,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/033-Hollow.Victory.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/033-Hollow%20Victory.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/033-Hollow%20Victory.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/033-Hollow%20Victory.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/033-Hollow%20Victory.recx"
+        }
+      }
+    },
+    {
+      "name": "034-The Song Silenced.mp3",
+      "sizeMiB": 1.4,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/034-The.Song.Silenced.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/034-The%20Song%20Silenced.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/034-The%20Song%20Silenced.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/034-The%20Song%20Silenced.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/034-The%20Song%20Silenced.recx"
+        }
+      }
+    },
+    {
+      "name": "035-The Rise of Napoleon's Cult.mp3",
+      "sizeMiB": 11.05,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/035-The.Rise.of.Napoleon.s.Cult.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/035-The%20Rise%20of%20Napoleon%27s%20Cult.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/035-The%20Rise%20of%20Napoleon%27s%20Cult.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/035-The%20Rise%20of%20Napoleon%27s%20Cult.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/035-The%20Rise%20of%20Napoleon%27s%20Cult.recx"
+        }
+      }
+    },
+    {
+      "name": "036-Timber Negotiations and Betray.mp3",
+      "sizeMiB": 5.18,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/036-Timber.Negotiations.and.Betray.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/036-Timber%20Negotiations%20and%20Betray.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/036-Timber%20Negotiations%20and%20Betray.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/036-Timber%20Negotiations%20and%20Betray.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/036-Timber%20Negotiations%20and%20Betray.recx"
+        }
+      }
+    },
+    {
+      "name": "037-The Forged Banknotes.mp3",
+      "sizeMiB": 1.34,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/037-The.Forged.Banknotes.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/037-The%20Forged%20Banknotes.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/037-The%20Forged%20Banknotes.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/037-The%20Forged%20Banknotes.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/037-The%20Forged%20Banknotes.recx"
+        }
+      }
+    },
+    {
+      "name": "038-The Attack on Animal Farm.mp3",
+      "sizeMiB": 5.98,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/038-The.Attack.on.Animal.Farm.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/038-The%20Attack%20on%20Animal%20Farm.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/038-The%20Attack%20on%20Animal%20Farm.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/038-The%20Attack%20on%20Animal%20Farm.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/038-The%20Attack%20on%20Animal%20Farm.recx"
+        }
+      }
+    },
+    {
+      "name": "039-Victory and Celebration.mp3",
+      "sizeMiB": 3.25,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/039-Victory.and.Celebration.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/039-Victory%20and%20Celebration.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/039-Victory%20and%20Celebration.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/039-Victory%20and%20Celebration.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/039-Victory%20and%20Celebration.recx"
+        }
+      }
+    },
+    {
+      "name": "040-Napoleon's Illness.mp3",
+      "sizeMiB": 4.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/040-Napoleon.s.Illness.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/040-Napoleon%27s%20Illness.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/040-Napoleon%27s%20Illness.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/040-Napoleon%27s%20Illness.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/040-Napoleon%27s%20Illness.recx"
+        }
+      }
+    },
+    {
+      "name": "041-The Altered Commandment.mp3",
+      "sizeMiB": 0.24,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/041-The.Altered.Commandment.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/041-The%20Altered%20Commandment.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/041-The%20Altered%20Commandment.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/041-The%20Altered%20Commandment.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/041-The%20Altered%20Commandment.recx"
+        }
+      }
+    },
+    {
+      "name": "042-Boxer's Long Decline.mp3",
+      "sizeMiB": 13.15,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/042-Boxer.s.Long.Decline.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/042-Boxer%27s%20Long%20Decline.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/042-Boxer%27s%20Long%20Decline.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/042-Boxer%27s%20Long%20Decline.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/042-Boxer%27s%20Long%20Decline.recx"
+        }
+      }
+    },
+    {
+      "name": "043-Moses Returns With Hope.mp3",
+      "sizeMiB": 1.77,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/043-Moses.Returns.With.Hope.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/043-Moses%20Returns%20With%20Hope.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/043-Moses%20Returns%20With%20Hope.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/043-Moses%20Returns%20With%20Hope.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/043-Moses%20Returns%20With%20Hope.recx"
+        }
+      }
+    },
+    {
+      "name": "044-Boxer's Collapse.mp3",
+      "sizeMiB": 4.63,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/044-Boxer.s.Collapse.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/044-Boxer%27s%20Collapse.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/044-Boxer%27s%20Collapse.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/044-Boxer%27s%20Collapse.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/044-Boxer%27s%20Collapse.recx"
+        }
+      }
+    },
+    {
+      "name": "045-The Van Arrives.mp3",
+      "sizeMiB": 3.81,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/045-The.Van.Arrives.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/045-The%20Van%20Arrives.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/045-The%20Van%20Arrives.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/045-The%20Van%20Arrives.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/045-The%20Van%20Arrives.recx"
+        }
+      }
+    },
+    {
+      "name": "046-Squealer's Lies.mp3",
+      "sizeMiB": 4.03,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/046-Squealer.s.Lies.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/046-Squealer%27s%20Lies.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/046-Squealer%27s%20Lies.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/046-Squealer%27s%20Lies.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/046-Squealer%27s%20Lies.recx"
+        }
+      }
+    },
+    {
+      "name": "047-The Banquet Arranged.mp3",
+      "sizeMiB": 0.57,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/047-The.Banquet.Arranged.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/047-The%20Banquet%20Arranged.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/047-The%20Banquet%20Arranged.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/047-The%20Banquet%20Arranged.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/047-The%20Banquet%20Arranged.recx"
+        }
+      }
+    },
+    {
+      "name": "048-The Passage of Years.mp3",
+      "sizeMiB": 9.78,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/048-The.Passage.of.Years.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/048-The%20Passage%20of%20Years.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/048-The%20Passage%20of%20Years.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/048-The%20Passage%20of%20Years.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/048-The%20Passage%20of%20Years.recx"
+        }
+      }
+    },
+    {
+      "name": "049-The Vision Realized.mp3",
+      "sizeMiB": 4.35,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/049-The.Vision.Realized.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/049-The%20Vision%20Realized.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/049-The%20Vision%20Realized.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/049-The%20Vision%20Realized.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/049-The%20Vision%20Realized.recx"
+        }
+      }
+    },
+    {
+      "name": "050-The Altered Commandment.mp3",
+      "sizeMiB": 1.61,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/050-The.Altered.Commandment.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/050-The%20Altered%20Commandment.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/050-The%20Altered%20Commandment.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/050-The%20Altered%20Commandment.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/050-The%20Altered%20Commandment.recx"
+        }
+      }
+    },
+    {
+      "name": "051-The Farmer's Visit.mp3",
+      "sizeMiB": 2.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/051-The.Farmer.s.Visit.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/051-The%20Farmer%27s%20Visit.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/051-The%20Farmer%27s%20Visit.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/051-The%20Farmer%27s%20Visit.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/051-The%20Farmer%27s%20Visit.recx"
+        }
+      }
+    },
+    {
+      "name": "052-The Dinner Party.mp3",
+      "sizeMiB": 4.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/052-The.Dinner.Party.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/052-The%20Dinner%20Party.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/052-The%20Dinner%20Party.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/052-The%20Dinner%20Party.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/052-The%20Dinner%20Party.recx"
+        }
+      }
+    },
+    {
+      "name": "053-The Final Transformation.mp3",
+      "sizeMiB": 5.04,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-animal-farm/053-The.Final.Transformation.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/053-The%20Final%20Transformation.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Animal%20Farm/053-The%20Final%20Transformation.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/053-The%20Final%20Transformation.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Animal%20Farm/053-The%20Final%20Transformation.recx"
+        }
+      }
+    }
+  ]
+}

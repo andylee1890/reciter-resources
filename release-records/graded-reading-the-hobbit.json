@@ -1,0 +1,392 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-11T17:49:39.726502Z",
+  "tag": "graded-reading-the-hobbit",
+  "title": "霍比特人 (The Hobbit)",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/reading/The Hobbit",
+  "createdAt": "2026-09-12 01:38:29 +0800",
+  "poster": {
+    "id": "the-hobbit",
+    "kind": "book-cover",
+    "sourceType": "prepared-cover",
+    "original": {
+      "path": "artwork/posters/the-hobbit.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-hobbit.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-hobbit.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/the-hobbit.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-hobbit.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-hobbit.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "sourceSize": {
+        "width": 301,
+        "height": 500
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-hobbit"
+    },
+    "mirrors": []
+  },
+  "audioCount": 19,
+  "totalSizeMiB": 563.31,
+  "audio": [
+    {
+      "name": "001-Chapter I — An Unexpected Party.mp3",
+      "sizeMiB": 51.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/001-Chapter.I.An.Unexpected.Party.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/001-Chapter%20I%20%E2%80%94%20An%20Unexpected%20Party.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/001-Chapter%20I%20%E2%80%94%20An%20Unexpected%20Party.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/001-Chapter%20I%20%E2%80%94%20An%20Unexpected%20Party.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/001-Chapter%20I%20%E2%80%94%20An%20Unexpected%20Party.recx"
+        }
+      }
+    },
+    {
+      "name": "002-Chapter II — Roast Mutton.mp3",
+      "sizeMiB": 31.21,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/002-Chapter.II.Roast.Mutton.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/002-Chapter%20II%20%E2%80%94%20Roast%20Mutton.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/002-Chapter%20II%20%E2%80%94%20Roast%20Mutton.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/002-Chapter%20II%20%E2%80%94%20Roast%20Mutton.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/002-Chapter%20II%20%E2%80%94%20Roast%20Mutton.recx"
+        }
+      }
+    },
+    {
+      "name": "003-Chapter III — A Short Rest.mp3",
+      "sizeMiB": 17.02,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/003-Chapter.III.A.Short.Rest.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/003-Chapter%20III%20%E2%80%94%20A%20Short%20Rest.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/003-Chapter%20III%20%E2%80%94%20A%20Short%20Rest.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/003-Chapter%20III%20%E2%80%94%20A%20Short%20Rest.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/003-Chapter%20III%20%E2%80%94%20A%20Short%20Rest.recx"
+        }
+      }
+    },
+    {
+      "name": "004-Chapter IV — Over Hill and Under Hill.mp3",
+      "sizeMiB": 24.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/004-Chapter.IV.Over.Hill.and.Under.Hill.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/004-Chapter%20IV%20%E2%80%94%20Over%20Hill%20and%20Under%20Hill.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/004-Chapter%20IV%20%E2%80%94%20Over%20Hill%20and%20Under%20Hill.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/004-Chapter%20IV%20%E2%80%94%20Over%20Hill%20and%20Under%20Hill.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/004-Chapter%20IV%20%E2%80%94%20Over%20Hill%20and%20Under%20Hill.recx"
+        }
+      }
+    },
+    {
+      "name": "005-Chapter V — Riddles in the Dark.mp3",
+      "sizeMiB": 42.86,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/005-Chapter.V.Riddles.in.the.Dark.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/005-Chapter%20V%20%E2%80%94%20Riddles%20in%20the%20Dark.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/005-Chapter%20V%20%E2%80%94%20Riddles%20in%20the%20Dark.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/005-Chapter%20V%20%E2%80%94%20Riddles%20in%20the%20Dark.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/005-Chapter%20V%20%E2%80%94%20Riddles%20in%20the%20Dark.recx"
+        }
+      }
+    },
+    {
+      "name": "006-Chapter VI — Out of the Frying-Pan into the Fire.mp3",
+      "sizeMiB": 39.22,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/006-Chapter.VI.Out.of.the.Frying-Pan.into.the.Fire.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/006-Chapter%20VI%20%E2%80%94%20Out%20of%20the%20Frying-Pan%20into%20the%20Fire.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/006-Chapter%20VI%20%E2%80%94%20Out%20of%20the%20Frying-Pan%20into%20the%20Fire.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/006-Chapter%20VI%20%E2%80%94%20Out%20of%20the%20Frying-Pan%20into%20the%20Fire.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/006-Chapter%20VI%20%E2%80%94%20Out%20of%20the%20Frying-Pan%20into%20the%20Fire.recx"
+        }
+      }
+    },
+    {
+      "name": "007-Chapter VII — Queer Lodgings.mp3",
+      "sizeMiB": 51.94,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/007-Chapter.VII.Queer.Lodgings.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/007-Chapter%20VII%20%E2%80%94%20Queer%20Lodgings.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/007-Chapter%20VII%20%E2%80%94%20Queer%20Lodgings.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/007-Chapter%20VII%20%E2%80%94%20Queer%20Lodgings.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/007-Chapter%20VII%20%E2%80%94%20Queer%20Lodgings.recx"
+        }
+      }
+    },
+    {
+      "name": "008-Chapter VIII — Flies and Spiders.mp3",
+      "sizeMiB": 58.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/008-Chapter.VIII.Flies.and.Spiders.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/008-Chapter%20VIII%20%E2%80%94%20Flies%20and%20Spiders.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/008-Chapter%20VIII%20%E2%80%94%20Flies%20and%20Spiders.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/008-Chapter%20VIII%20%E2%80%94%20Flies%20and%20Spiders.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/008-Chapter%20VIII%20%E2%80%94%20Flies%20and%20Spiders.recx"
+        }
+      }
+    },
+    {
+      "name": "009-Chapter IX — Barrels Out of Bond.mp3",
+      "sizeMiB": 33.2,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/009-Chapter.IX.Barrels.Out.of.Bond.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/009-Chapter%20IX%20%E2%80%94%20Barrels%20Out%20of%20Bond.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/009-Chapter%20IX%20%E2%80%94%20Barrels%20Out%20of%20Bond.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/009-Chapter%20IX%20%E2%80%94%20Barrels%20Out%20of%20Bond.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/009-Chapter%20IX%20%E2%80%94%20Barrels%20Out%20of%20Bond.recx"
+        }
+      }
+    },
+    {
+      "name": "010-Chapter X — A Warm Welcome.mp3",
+      "sizeMiB": 22.81,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/010-Chapter.X.A.Warm.Welcome.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/010-Chapter%20X%20%E2%80%94%20A%20Warm%20Welcome.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/010-Chapter%20X%20%E2%80%94%20A%20Warm%20Welcome.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/010-Chapter%20X%20%E2%80%94%20A%20Warm%20Welcome.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/010-Chapter%20X%20%E2%80%94%20A%20Warm%20Welcome.recx"
+        }
+      }
+    },
+    {
+      "name": "011-Chapter XI — On the Doorstep.mp3",
+      "sizeMiB": 17.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/011-Chapter.XI.On.the.Doorstep.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/011-Chapter%20XI%20%E2%80%94%20On%20the%20Doorstep.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/011-Chapter%20XI%20%E2%80%94%20On%20the%20Doorstep.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/011-Chapter%20XI%20%E2%80%94%20On%20the%20Doorstep.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/011-Chapter%20XI%20%E2%80%94%20On%20the%20Doorstep.recx"
+        }
+      }
+    },
+    {
+      "name": "012-Chapter XII — Inside Information.mp3",
+      "sizeMiB": 42.22,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/012-Chapter.XII.Inside.Information.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/012-Chapter%20XII%20%E2%80%94%20Inside%20Information.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/012-Chapter%20XII%20%E2%80%94%20Inside%20Information.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/012-Chapter%20XII%20%E2%80%94%20Inside%20Information.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/012-Chapter%20XII%20%E2%80%94%20Inside%20Information.recx"
+        }
+      }
+    },
+    {
+      "name": "013-Chapter XIII — Not at Home.mp3",
+      "sizeMiB": 23.57,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/013-Chapter.XIII.Not.at.Home.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/013-Chapter%20XIII%20%E2%80%94%20Not%20at%20Home.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/013-Chapter%20XIII%20%E2%80%94%20Not%20at%20Home.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/013-Chapter%20XIII%20%E2%80%94%20Not%20at%20Home.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/013-Chapter%20XIII%20%E2%80%94%20Not%20at%20Home.recx"
+        }
+      }
+    },
+    {
+      "name": "014-Chapter XIV — Fire and Water.mp3",
+      "sizeMiB": 19.29,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/014-Chapter.XIV.Fire.and.Water.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/014-Chapter%20XIV%20%E2%80%94%20Fire%20and%20Water.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/014-Chapter%20XIV%20%E2%80%94%20Fire%20and%20Water.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/014-Chapter%20XIV%20%E2%80%94%20Fire%20and%20Water.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/014-Chapter%20XIV%20%E2%80%94%20Fire%20and%20Water.recx"
+        }
+      }
+    },
+    {
+      "name": "015-Chapter XV — The Gathering of the Clouds.mp3",
+      "sizeMiB": 19.63,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/015-Chapter.XV.The.Gathering.of.the.Clouds.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/015-Chapter%20XV%20%E2%80%94%20The%20Gathering%20of%20the%20Clouds.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/015-Chapter%20XV%20%E2%80%94%20The%20Gathering%20of%20the%20Clouds.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/015-Chapter%20XV%20%E2%80%94%20The%20Gathering%20of%20the%20Clouds.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/015-Chapter%20XV%20%E2%80%94%20The%20Gathering%20of%20the%20Clouds.recx"
+        }
+      }
+    },
+    {
+      "name": "016-Chapter XVI — A Thief in the Night.mp3",
+      "sizeMiB": 12.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/016-Chapter.XVI.A.Thief.in.the.Night.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/016-Chapter%20XVI%20%E2%80%94%20A%20Thief%20in%20the%20Night.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/016-Chapter%20XVI%20%E2%80%94%20A%20Thief%20in%20the%20Night.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/016-Chapter%20XVI%20%E2%80%94%20A%20Thief%20in%20the%20Night.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/016-Chapter%20XVI%20%E2%80%94%20A%20Thief%20in%20the%20Night.recx"
+        }
+      }
+    },
+    {
+      "name": "017-Chapter XVII — The Clouds Burst.mp3",
+      "sizeMiB": 23.68,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/017-Chapter.XVII.The.Clouds.Burst.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/017-Chapter%20XVII%20%E2%80%94%20The%20Clouds%20Burst.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/017-Chapter%20XVII%20%E2%80%94%20The%20Clouds%20Burst.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/017-Chapter%20XVII%20%E2%80%94%20The%20Clouds%20Burst.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/017-Chapter%20XVII%20%E2%80%94%20The%20Clouds%20Burst.recx"
+        }
+      }
+    },
+    {
+      "name": "018-Chapter XVIII — The Return Journey.mp3",
+      "sizeMiB": 17.01,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/018-Chapter.XVIII.The.Return.Journey.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/018-Chapter%20XVIII%20%E2%80%94%20The%20Return%20Journey.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/018-Chapter%20XVIII%20%E2%80%94%20The%20Return%20Journey.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/018-Chapter%20XVIII%20%E2%80%94%20The%20Return%20Journey.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/018-Chapter%20XVIII%20%E2%80%94%20The%20Return%20Journey.recx"
+        }
+      }
+    },
+    {
+      "name": "019-Chapter XIX — The Last Stage.mp3",
+      "sizeMiB": 15.0,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-hobbit/019-Chapter.XIX.The.Last.Stage.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/019-Chapter%20XIX%20%E2%80%94%20The%20Last%20Stage.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Hobbit/019-Chapter%20XIX%20%E2%80%94%20The%20Last%20Stage.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/019-Chapter%20XIX%20%E2%80%94%20The%20Last%20Stage.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Hobbit/019-Chapter%20XIX%20%E2%80%94%20The%20Last%20Stage.recx"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-11T17:49:39.726502Z",
+  "tag": "graded-reading-charlottes-web",
+  "title": "夏洛的网 (Charlotte's Web)",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/reading/Charlotte's Web",
+  "createdAt": "2026-09-12 01:38:20 +0800",
+  "poster": {
+    "id": "charlottes-web",
+    "kind": "book-cover",
+    "sourceType": "prepared-cover",
+    "original": {
+      "path": "artwork/posters/charlottes-web.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/charlottes-web.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/charlottes-web.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/charlottes-web.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/charlottes-web.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/charlottes-web.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "sourceSize": {
+        "width": 335,
+        "height": 500
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-charlottes-web"
+    },
+    "mirrors": []
+  },
+  "audioCount": 24,
+  "totalSizeMiB": 275.61,
+  "audio": [
+    {
+      "name": "001-INTRO.mp3",
+      "sizeMiB": 1.06,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/001-INTRO.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/001-INTRO.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/001-INTRO.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/001-INTRO.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/001-INTRO.recx"
+        }
+      }
+    },
+    {
+      "name": "002-CHAPTER 1 - Before Breakfast.mp3",
+      "sizeMiB": 8.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/002-CHAPTER.1.-.Before.Breakfast.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/002-CHAPTER%201%20-%20Before%20Breakfast.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/002-CHAPTER%201%20-%20Before%20Breakfast.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/002-CHAPTER%201%20-%20Before%20Breakfast.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/002-CHAPTER%201%20-%20Before%20Breakfast.recx"
+        }
+      }
+    },
+    {
+      "name": "003-CHAPTER 2 - Wilbur.mp3",
+      "sizeMiB": 7.35,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/003-CHAPTER.2.-.Wilbur.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/003-CHAPTER%202%20-%20Wilbur.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/003-CHAPTER%202%20-%20Wilbur.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/003-CHAPTER%202%20-%20Wilbur.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/003-CHAPTER%202%20-%20Wilbur.recx"
+        }
+      }
+    },
+    {
+      "name": "004-CHAPTER 3 - Escape.mp3",
+      "sizeMiB": 17.99,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/004-CHAPTER.3.-.Escape.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/004-CHAPTER%203%20-%20Escape.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/004-CHAPTER%203%20-%20Escape.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/004-CHAPTER%203%20-%20Escape.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/004-CHAPTER%203%20-%20Escape.recx"
+        }
+      }
+    },
+    {
+      "name": "005-CHAPTER 4 - Loneliness.mp3",
+      "sizeMiB": 11.94,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/005-CHAPTER.4.-.Loneliness.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/005-CHAPTER%204%20-%20Loneliness.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/005-CHAPTER%204%20-%20Loneliness.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/005-CHAPTER%204%20-%20Loneliness.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/005-CHAPTER%204%20-%20Loneliness.recx"
+        }
+      }
+    },
+    {
+      "name": "006-CHAPTER 5 - Charlotte.mp3",
+      "sizeMiB": 16.05,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/006-CHAPTER.5.-.Charlotte.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/006-CHAPTER%205%20-%20Charlotte.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/006-CHAPTER%205%20-%20Charlotte.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/006-CHAPTER%205%20-%20Charlotte.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/006-CHAPTER%205%20-%20Charlotte.recx"
+        }
+      }
+    },
+    {
+      "name": "007-CHAPTER 6 - Summer Days.mp3",
+      "sizeMiB": 11.06,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/007-CHAPTER.6.-.Summer.Days.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/007-CHAPTER%206%20-%20Summer%20Days.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/007-CHAPTER%206%20-%20Summer%20Days.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/007-CHAPTER%206%20-%20Summer%20Days.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/007-CHAPTER%206%20-%20Summer%20Days.recx"
+        }
+      }
+    },
+    {
+      "name": "008-CHAPTER 7 - Bad News.mp3",
+      "sizeMiB": 5.85,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/008-CHAPTER.7.-.Bad.News.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/008-CHAPTER%207%20-%20Bad%20News.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/008-CHAPTER%207%20-%20Bad%20News.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/008-CHAPTER%207%20-%20Bad%20News.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/008-CHAPTER%207%20-%20Bad%20News.recx"
+        }
+      }
+    },
+    {
+      "name": "009-CHAPTER 8 - A Talk at Home.mp3",
+      "sizeMiB": 4.67,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/009-CHAPTER.8.-.A.Talk.at.Home.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/009-CHAPTER%208%20-%20A%20Talk%20at%20Home.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/009-CHAPTER%208%20-%20A%20Talk%20at%20Home.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/009-CHAPTER%208%20-%20A%20Talk%20at%20Home.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/009-CHAPTER%208%20-%20A%20Talk%20at%20Home.recx"
+        }
+      }
+    },
+    {
+      "name": "010-CHAPTER 9 - Wilbur's Boast.mp3",
+      "sizeMiB": 15.75,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/010-CHAPTER.9.-.Wilbur.s.Boast.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/010-CHAPTER%209%20-%20Wilbur%27s%20Boast.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/010-CHAPTER%209%20-%20Wilbur%27s%20Boast.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/010-CHAPTER%209%20-%20Wilbur%27s%20Boast.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/010-CHAPTER%209%20-%20Wilbur%27s%20Boast.recx"
+        }
+      }
+    },
+    {
+      "name": "011-CHAPTER 10 - An Explosion.mp3",
+      "sizeMiB": 14.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/011-CHAPTER.10.-.An.Explosion.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/011-CHAPTER%2010%20-%20An%20Explosion.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/011-CHAPTER%2010%20-%20An%20Explosion.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/011-CHAPTER%2010%20-%20An%20Explosion.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/011-CHAPTER%2010%20-%20An%20Explosion.recx"
+        }
+      }
+    },
+    {
+      "name": "012-CHAPTER 11 - The Miracle.mp3",
+      "sizeMiB": 13.28,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/012-CHAPTER.11.-.The.Miracle.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/012-CHAPTER%2011%20-%20The%20Miracle.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/012-CHAPTER%2011%20-%20The%20Miracle.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/012-CHAPTER%2011%20-%20The%20Miracle.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/012-CHAPTER%2011%20-%20The%20Miracle.recx"
+        }
+      }
+    },
+    {
+      "name": "013-CHAPTER 12 - A Meeting.mp3",
+      "sizeMiB": 7.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/013-CHAPTER.12.-.A.Meeting.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/013-CHAPTER%2012%20-%20A%20Meeting.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/013-CHAPTER%2012%20-%20A%20Meeting.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/013-CHAPTER%2012%20-%20A%20Meeting.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/013-CHAPTER%2012%20-%20A%20Meeting.recx"
+        }
+      }
+    },
+    {
+      "name": "014-CHAPTER 13 - Good Progress.mp3",
+      "sizeMiB": 17.7,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/014-CHAPTER.13.-.Good.Progress.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/014-CHAPTER%2013%20-%20Good%20Progress.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/014-CHAPTER%2013%20-%20Good%20Progress.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/014-CHAPTER%2013%20-%20Good%20Progress.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/014-CHAPTER%2013%20-%20Good%20Progress.recx"
+        }
+      }
+    },
+    {
+      "name": "015-CHAPTER 14 - Dr. Dorian.mp3",
+      "sizeMiB": 11.93,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/015-CHAPTER.14.-.Dr.Dorian.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/015-CHAPTER%2014%20-%20Dr.%20Dorian.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/015-CHAPTER%2014%20-%20Dr.%20Dorian.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/015-CHAPTER%2014%20-%20Dr.%20Dorian.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/015-CHAPTER%2014%20-%20Dr.%20Dorian.recx"
+        }
+      }
+    },
+    {
+      "name": "016-CHAPTER 15 - The Crickets.mp3",
+      "sizeMiB": 9.93,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/016-CHAPTER.15.-.The.Crickets.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/016-CHAPTER%2015%20-%20The%20Crickets.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/016-CHAPTER%2015%20-%20The%20Crickets.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/016-CHAPTER%2015%20-%20The%20Crickets.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/016-CHAPTER%2015%20-%20The%20Crickets.recx"
+        }
+      }
+    },
+    {
+      "name": "017-CHAPTER 16 - Off to the Fair.mp3",
+      "sizeMiB": 18.75,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/017-CHAPTER.16.-.Off.to.the.Fair.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/017-CHAPTER%2016%20-%20Off%20to%20the%20Fair.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/017-CHAPTER%2016%20-%20Off%20to%20the%20Fair.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/017-CHAPTER%2016%20-%20Off%20to%20the%20Fair.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/017-CHAPTER%2016%20-%20Off%20to%20the%20Fair.recx"
+        }
+      }
+    },
+    {
+      "name": "018-CHAPTER 17 - Uncle.mp3",
+      "sizeMiB": 10.09,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/018-CHAPTER.17.-.Uncle.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/018-CHAPTER%2017%20-%20Uncle.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/018-CHAPTER%2017%20-%20Uncle.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/018-CHAPTER%2017%20-%20Uncle.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/018-CHAPTER%2017%20-%20Uncle.recx"
+        }
+      }
+    },
+    {
+      "name": "019-CHAPTER 18 - The Cool of the Evening.mp3",
+      "sizeMiB": 9.1,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/019-CHAPTER.18.-.The.Cool.of.the.Evening.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/019-CHAPTER%2018%20-%20The%20Cool%20of%20the%20Evening.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/019-CHAPTER%2018%20-%20The%20Cool%20of%20the%20Evening.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/019-CHAPTER%2018%20-%20The%20Cool%20of%20the%20Evening.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/019-CHAPTER%2018%20-%20The%20Cool%20of%20the%20Evening.recx"
+        }
+      }
+    },
+    {
+      "name": "020-CHAPTER 19 - The Egg Sac.mp3",
+      "sizeMiB": 14.81,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/020-CHAPTER.19.-.The.Egg.Sac.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/020-CHAPTER%2019%20-%20The%20Egg%20Sac.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/020-CHAPTER%2019%20-%20The%20Egg%20Sac.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/020-CHAPTER%2019%20-%20The%20Egg%20Sac.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/020-CHAPTER%2019%20-%20The%20Egg%20Sac.recx"
+        }
+      }
+    },
+    {
+      "name": "021-CHAPTER 20 - The Hour of Triumph.mp3",
+      "sizeMiB": 11.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/021-CHAPTER.20.-.The.Hour.of.Triumph.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/021-CHAPTER%2020%20-%20The%20Hour%20of%20Triumph.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/021-CHAPTER%2020%20-%20The%20Hour%20of%20Triumph.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/021-CHAPTER%2020%20-%20The%20Hour%20of%20Triumph.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/021-CHAPTER%2020%20-%20The%20Hour%20of%20Triumph.recx"
+        }
+      }
+    },
+    {
+      "name": "022-CHAPTER 21 - Last Day.mp3",
+      "sizeMiB": 14.4,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/022-CHAPTER.21.-.Last.Day.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/022-CHAPTER%2021%20-%20Last%20Day.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/022-CHAPTER%2021%20-%20Last%20Day.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/022-CHAPTER%2021%20-%20Last%20Day.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/022-CHAPTER%2021%20-%20Last%20Day.recx"
+        }
+      }
+    },
+    {
+      "name": "023-CHAPTER 22 - A Warm Wind.mp3",
+      "sizeMiB": 19.43,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/023-CHAPTER.22.-.A.Warm.Wind.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/023-CHAPTER%2022%20-%20A%20Warm%20Wind.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/023-CHAPTER%2022%20-%20A%20Warm%20Wind.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/023-CHAPTER%2022%20-%20A%20Warm%20Wind.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/023-CHAPTER%2022%20-%20A%20Warm%20Wind.recx"
+        }
+      }
+    },
+    {
+      "name": "024-OUTRO.mp3",
+      "sizeMiB": 1.76,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-charlottes-web/024-OUTRO.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/024-OUTRO.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Charlotte%27s%20Web/024-OUTRO.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/024-OUTRO.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Charlotte%27s%20Web/024-OUTRO.recx"
+        }
+      }
+    }
+  ]
+}

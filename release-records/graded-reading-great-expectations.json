@@ -1,0 +1,1130 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-11T17:49:39.726502Z",
+  "tag": "graded-reading-great-expectations",
+  "title": "远大前程 (Great Expectations)",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/reading/Great Expectations",
+  "createdAt": "2026-09-12 01:38:22 +0800",
+  "poster": {
+    "id": "great-expectations",
+    "kind": "book-cover",
+    "sourceType": "prepared-cover",
+    "original": {
+      "path": "artwork/posters/great-expectations.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/great-expectations.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/great-expectations.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/great-expectations.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/great-expectations.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/great-expectations.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "sourceSize": {
+        "width": 270,
+        "height": 500
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-great-expectations"
+    },
+    "mirrors": []
+  },
+  "audioCount": 60,
+  "totalSizeMiB": 1256.25,
+  "audio": [
+    {
+      "name": "001-Introduction.mp3",
+      "sizeMiB": 0.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/001-Introduction.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/001-Introduction.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/001-Introduction.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/001-Introduction.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/001-Introduction.recx"
+        }
+      }
+    },
+    {
+      "name": "002-Chapter I.mp3",
+      "sizeMiB": 12.54,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/002-Chapter.I.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/002-Chapter%20I.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/002-Chapter%20I.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/002-Chapter%20I.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/002-Chapter%20I.recx"
+        }
+      }
+    },
+    {
+      "name": "003-Chapter II.mp3",
+      "sizeMiB": 22.92,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/003-Chapter.II.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/003-Chapter%20II.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/003-Chapter%20II.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/003-Chapter%20II.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/003-Chapter%20II.recx"
+        }
+      }
+    },
+    {
+      "name": "004-Chapter III.mp3",
+      "sizeMiB": 12.93,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/004-Chapter.III.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/004-Chapter%20III.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/004-Chapter%20III.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/004-Chapter%20III.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/004-Chapter%20III.recx"
+        }
+      }
+    },
+    {
+      "name": "005-Chapter IV.mp3",
+      "sizeMiB": 23.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/005-Chapter.IV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/005-Chapter%20IV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/005-Chapter%20IV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/005-Chapter%20IV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/005-Chapter%20IV.recx"
+        }
+      }
+    },
+    {
+      "name": "006-Chapter V.mp3",
+      "sizeMiB": 27.8,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/006-Chapter.V.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/006-Chapter%20V.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/006-Chapter%20V.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/006-Chapter%20V.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/006-Chapter%20V.recx"
+        }
+      }
+    },
+    {
+      "name": "007-Chapter VI.mp3",
+      "sizeMiB": 5.04,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/007-Chapter.VI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/007-Chapter%20VI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/007-Chapter%20VI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/007-Chapter%20VI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/007-Chapter%20VI.recx"
+        }
+      }
+    },
+    {
+      "name": "008-Chapter VII.mp3",
+      "sizeMiB": 26.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/008-Chapter.VII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/008-Chapter%20VII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/008-Chapter%20VII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/008-Chapter%20VII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/008-Chapter%20VII.recx"
+        }
+      }
+    },
+    {
+      "name": "009-Chapter VIII.mp3",
+      "sizeMiB": 32.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/009-Chapter.VIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/009-Chapter%20VIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/009-Chapter%20VIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/009-Chapter%20VIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/009-Chapter%20VIII.recx"
+        }
+      }
+    },
+    {
+      "name": "010-Chapter IX.mp3",
+      "sizeMiB": 18.02,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/010-Chapter.IX.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/010-Chapter%20IX.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/010-Chapter%20IX.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/010-Chapter%20IX.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/010-Chapter%20IX.recx"
+        }
+      }
+    },
+    {
+      "name": "011-Chapter X.mp3",
+      "sizeMiB": 17.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/011-Chapter.X.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/011-Chapter%20X.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/011-Chapter%20X.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/011-Chapter%20X.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/011-Chapter%20X.recx"
+        }
+      }
+    },
+    {
+      "name": "012-Chapter XI.mp3",
+      "sizeMiB": 36.4,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/012-Chapter.XI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/012-Chapter%20XI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/012-Chapter%20XI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/012-Chapter%20XI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/012-Chapter%20XI.recx"
+        }
+      }
+    },
+    {
+      "name": "013-Chapter XII.mp3",
+      "sizeMiB": 15.0,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/013-Chapter.XII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/013-Chapter%20XII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/013-Chapter%20XII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/013-Chapter%20XII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/013-Chapter%20XII.recx"
+        }
+      }
+    },
+    {
+      "name": "014-Chapter XIII.mp3",
+      "sizeMiB": 19.56,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/014-Chapter.XIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/014-Chapter%20XIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/014-Chapter%20XIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/014-Chapter%20XIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/014-Chapter%20XIII.recx"
+        }
+      }
+    },
+    {
+      "name": "015-Chapter XIV.mp3",
+      "sizeMiB": 5.67,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/015-Chapter.XIV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/015-Chapter%20XIV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/015-Chapter%20XIV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/015-Chapter%20XIV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/015-Chapter%20XIV.recx"
+        }
+      }
+    },
+    {
+      "name": "016-Chapter XV.mp3",
+      "sizeMiB": 28.92,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/016-Chapter.XV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/016-Chapter%20XV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/016-Chapter%20XV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/016-Chapter%20XV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/016-Chapter%20XV.recx"
+        }
+      }
+    },
+    {
+      "name": "017-Chapter XVI.mp3",
+      "sizeMiB": 13.25,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/017-Chapter.XVI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/017-Chapter%20XVI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/017-Chapter%20XVI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/017-Chapter%20XVI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/017-Chapter%20XVI.recx"
+        }
+      }
+    },
+    {
+      "name": "018-Chapter XVII.mp3",
+      "sizeMiB": 22.08,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/018-Chapter.XVII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/018-Chapter%20XVII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/018-Chapter%20XVII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/018-Chapter%20XVII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/018-Chapter%20XVII.recx"
+        }
+      }
+    },
+    {
+      "name": "019-Chapter XVIII.mp3",
+      "sizeMiB": 34.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/019-Chapter.XVIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/019-Chapter%20XVIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/019-Chapter%20XVIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/019-Chapter%20XVIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/019-Chapter%20XVIII.recx"
+        }
+      }
+    },
+    {
+      "name": "020-Chapter XIX.mp3",
+      "sizeMiB": 38.29,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/020-Chapter.XIX.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/020-Chapter%20XIX.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/020-Chapter%20XIX.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/020-Chapter%20XIX.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/020-Chapter%20XIX.recx"
+        }
+      }
+    },
+    {
+      "name": "021-Chapter XX.mp3",
+      "sizeMiB": 21.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/021-Chapter.XX.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/021-Chapter%20XX.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/021-Chapter%20XX.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/021-Chapter%20XX.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/021-Chapter%20XX.recx"
+        }
+      }
+    },
+    {
+      "name": "022-Chapter XXI.mp3",
+      "sizeMiB": 12.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/022-Chapter.XXI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/022-Chapter%20XXI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/022-Chapter%20XXI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/022-Chapter%20XXI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/022-Chapter%20XXI.recx"
+        }
+      }
+    },
+    {
+      "name": "023-Chapter XXII.mp3",
+      "sizeMiB": 33.69,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/023-Chapter.XXII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/023-Chapter%20XXII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/023-Chapter%20XXII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/023-Chapter%20XXII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/023-Chapter%20XXII.recx"
+        }
+      }
+    },
+    {
+      "name": "024-Chapter XXIII.mp3",
+      "sizeMiB": 21.62,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/024-Chapter.XXIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/024-Chapter%20XXIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/024-Chapter%20XXIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/024-Chapter%20XXIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/024-Chapter%20XXIII.recx"
+        }
+      }
+    },
+    {
+      "name": "025-Chapter XXIV.mp3",
+      "sizeMiB": 15.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/025-Chapter.XXIV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/025-Chapter%20XXIV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/025-Chapter%20XXIV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/025-Chapter%20XXIV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/025-Chapter%20XXIV.recx"
+        }
+      }
+    },
+    {
+      "name": "026-Chapter XXV.mp3",
+      "sizeMiB": 19.93,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/026-Chapter.XXV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/026-Chapter%20XXV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/026-Chapter%20XXV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/026-Chapter%20XXV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/026-Chapter%20XXV.recx"
+        }
+      }
+    },
+    {
+      "name": "027-Chapter XXVI.mp3",
+      "sizeMiB": 19.07,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/027-Chapter.XXVI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/027-Chapter%20XXVI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/027-Chapter%20XXVI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/027-Chapter%20XXVI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/027-Chapter%20XXVI.recx"
+        }
+      }
+    },
+    {
+      "name": "028-Chapter XXVII.mp3",
+      "sizeMiB": 20.42,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/028-Chapter.XXVII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/028-Chapter%20XXVII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/028-Chapter%20XXVII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/028-Chapter%20XXVII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/028-Chapter%20XXVII.recx"
+        }
+      }
+    },
+    {
+      "name": "029-Chapter XXVIII.mp3",
+      "sizeMiB": 16.22,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/029-Chapter.XXVIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/029-Chapter%20XXVIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/029-Chapter%20XXVIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/029-Chapter%20XXVIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/029-Chapter%20XXVIII.recx"
+        }
+      }
+    },
+    {
+      "name": "030-Chapter XXIX.mp3",
+      "sizeMiB": 33.68,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/030-Chapter.XXIX.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/030-Chapter%20XXIX.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/030-Chapter%20XXIX.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/030-Chapter%20XXIX.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/030-Chapter%20XXIX.recx"
+        }
+      }
+    },
+    {
+      "name": "031-Chapter XXX.mp3",
+      "sizeMiB": 23.22,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/031-Chapter.XXX.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/031-Chapter%20XXX.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/031-Chapter%20XXX.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/031-Chapter%20XXX.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/031-Chapter%20XXX.recx"
+        }
+      }
+    },
+    {
+      "name": "032-Chapter XXXI.mp3",
+      "sizeMiB": 14.85,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/032-Chapter.XXXI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/032-Chapter%20XXXI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/032-Chapter%20XXXI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/032-Chapter%20XXXI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/032-Chapter%20XXXI.recx"
+        }
+      }
+    },
+    {
+      "name": "033-Chapter XXXII.mp3",
+      "sizeMiB": 15.08,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/033-Chapter.XXXII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/033-Chapter%20XXXII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/033-Chapter%20XXXII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/033-Chapter%20XXXII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/033-Chapter%20XXXII.recx"
+        }
+      }
+    },
+    {
+      "name": "034-Chapter XXXIII.mp3",
+      "sizeMiB": 18.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/034-Chapter.XXXIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/034-Chapter%20XXXIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/034-Chapter%20XXXIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/034-Chapter%20XXXIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/034-Chapter%20XXXIII.recx"
+        }
+      }
+    },
+    {
+      "name": "035-Chapter XXXIV.mp3",
+      "sizeMiB": 16.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/035-Chapter.XXXIV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/035-Chapter%20XXXIV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/035-Chapter%20XXXIV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/035-Chapter%20XXXIV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/035-Chapter%20XXXIV.recx"
+        }
+      }
+    },
+    {
+      "name": "036-Chapter XXXV.mp3",
+      "sizeMiB": 20.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/036-Chapter.XXXV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/036-Chapter%20XXXV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/036-Chapter%20XXXV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/036-Chapter%20XXXV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/036-Chapter%20XXXV.recx"
+        }
+      }
+    },
+    {
+      "name": "037-Chapter XXXVI.mp3",
+      "sizeMiB": 17.51,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/037-Chapter.XXXVI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/037-Chapter%20XXXVI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/037-Chapter%20XXXVI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/037-Chapter%20XXXVI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/037-Chapter%20XXXVI.recx"
+        }
+      }
+    },
+    {
+      "name": "038-Chpter XXXVII.mp3",
+      "sizeMiB": 19.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/038-Chpter.XXXVII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/038-Chpter%20XXXVII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/038-Chpter%20XXXVII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/038-Chpter%20XXXVII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/038-Chpter%20XXXVII.recx"
+        }
+      }
+    },
+    {
+      "name": "039-Chapter XXXVIII.mp3",
+      "sizeMiB": 33.94,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/039-Chapter.XXXVIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/039-Chapter%20XXXVIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/039-Chapter%20XXXVIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/039-Chapter%20XXXVIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/039-Chapter%20XXXVIII.recx"
+        }
+      }
+    },
+    {
+      "name": "040-Chapter XXXIX.mp3",
+      "sizeMiB": 31.92,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/040-Chapter.XXXIX.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/040-Chapter%20XXXIX.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/040-Chapter%20XXXIX.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/040-Chapter%20XXXIX.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/040-Chapter%20XXXIX.recx"
+        }
+      }
+    },
+    {
+      "name": "041-Chapter XL.mp3",
+      "sizeMiB": 34.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/041-Chapter.XL.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/041-Chapter%20XL.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/041-Chapter%20XL.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/041-Chapter%20XL.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/041-Chapter%20XL.recx"
+        }
+      }
+    },
+    {
+      "name": "042-Chapter XLI.mp3",
+      "sizeMiB": 14.37,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/042-Chapter.XLI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/042-Chapter%20XLI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/042-Chapter%20XLI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/042-Chapter%20XLI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/042-Chapter%20XLI.recx"
+        }
+      }
+    },
+    {
+      "name": "043-Chapter XLII.mp3",
+      "sizeMiB": 19.19,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/043-Chapter.XLII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/043-Chapter%20XLII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/043-Chapter%20XLII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/043-Chapter%20XLII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/043-Chapter%20XLII.recx"
+        }
+      }
+    },
+    {
+      "name": "044-Chapter XLIII.mp3",
+      "sizeMiB": 13.37,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/044-Chapter.XLIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/044-Chapter%20XLIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/044-Chapter%20XLIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/044-Chapter%20XLIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/044-Chapter%20XLIII.recx"
+        }
+      }
+    },
+    {
+      "name": "045-Chapter XLIV.mp3",
+      "sizeMiB": 19.83,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/045-Chapter.XLIV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/045-Chapter%20XLIV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/045-Chapter%20XLIV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/045-Chapter%20XLIV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/045-Chapter%20XLIV.recx"
+        }
+      }
+    },
+    {
+      "name": "046-Chapter XLV.mp3",
+      "sizeMiB": 19.83,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/046-Chapter.XLV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/046-Chapter%20XLV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/046-Chapter%20XLV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/046-Chapter%20XLV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/046-Chapter%20XLV.recx"
+        }
+      }
+    },
+    {
+      "name": "047-Chapter XLVI.mp3",
+      "sizeMiB": 20.74,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/047-Chapter.XLVI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/047-Chapter%20XLVI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/047-Chapter%20XLVI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/047-Chapter%20XLVI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/047-Chapter%20XLVI.recx"
+        }
+      }
+    },
+    {
+      "name": "048-Chapter XLVII.mp3",
+      "sizeMiB": 17.38,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/048-Chapter.XLVII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/048-Chapter%20XLVII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/048-Chapter%20XLVII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/048-Chapter%20XLVII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/048-Chapter%20XLVII.recx"
+        }
+      }
+    },
+    {
+      "name": "049-Chapter XLVIII.mp3",
+      "sizeMiB": 18.49,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/049-Chapter.XLVIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/049-Chapter%20XLVIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/049-Chapter%20XLVIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/049-Chapter%20XLVIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/049-Chapter%20XLVIII.recx"
+        }
+      }
+    },
+    {
+      "name": "050-Chapter XLIX.mp3",
+      "sizeMiB": 24.66,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/050-Chapter.XLIX.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/050-Chapter%20XLIX.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/050-Chapter%20XLIX.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/050-Chapter%20XLIX.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/050-Chapter%20XLIX.recx"
+        }
+      }
+    },
+    {
+      "name": "051-Chapter L.mp3",
+      "sizeMiB": 10.39,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/051-Chapter.L.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/051-Chapter%20L.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/051-Chapter%20L.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/051-Chapter%20L.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/051-Chapter%20L.recx"
+        }
+      }
+    },
+    {
+      "name": "052-Chapter LI.mp3",
+      "sizeMiB": 20.45,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/052-Chapter.LI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/052-Chapter%20LI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/052-Chapter%20LI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/052-Chapter%20LI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/052-Chapter%20LI.recx"
+        }
+      }
+    },
+    {
+      "name": "053-Chapter LII.mp3",
+      "sizeMiB": 13.69,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/053-Chapter.LII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/053-Chapter%20LII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/053-Chapter%20LII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/053-Chapter%20LII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/053-Chapter%20LII.recx"
+        }
+      }
+    },
+    {
+      "name": "054-Chapter LIII.mp3",
+      "sizeMiB": 35.16,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/054-Chapter.LIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/054-Chapter%20LIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/054-Chapter%20LIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/054-Chapter%20LIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/054-Chapter%20LIII.recx"
+        }
+      }
+    },
+    {
+      "name": "055-Chapter LIV.mp3",
+      "sizeMiB": 38.19,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/055-Chapter.LIV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/055-Chapter%20LIV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/055-Chapter%20LIV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/055-Chapter%20LIV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/055-Chapter%20LIV.recx"
+        }
+      }
+    },
+    {
+      "name": "056-Chapter LV.mp3",
+      "sizeMiB": 18.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/056-Chapter.LV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/056-Chapter%20LV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/056-Chapter%20LV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/056-Chapter%20LV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/056-Chapter%20LV.recx"
+        }
+      }
+    },
+    {
+      "name": "057-Chapter LVI.mp3",
+      "sizeMiB": 14.98,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/057-Chapter.LVI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/057-Chapter%20LVI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/057-Chapter%20LVI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/057-Chapter%20LVI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/057-Chapter%20LVI.recx"
+        }
+      }
+    },
+    {
+      "name": "058-Chapter LVII.mp3",
+      "sizeMiB": 32.34,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/058-Chapter.LVII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/058-Chapter%20LVII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/058-Chapter%20LVII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/058-Chapter%20LVII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/058-Chapter%20LVII.recx"
+        }
+      }
+    },
+    {
+      "name": "059-Chapter LVIII.mp3",
+      "sizeMiB": 20.84,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/059-Chapter.LVIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/059-Chapter%20LVIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/059-Chapter%20LVIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/059-Chapter%20LVIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/059-Chapter%20LVIII.recx"
+        }
+      }
+    },
+    {
+      "name": "060-Chapter LIX.mp3",
+      "sizeMiB": 10.39,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-great-expectations/060-Chapter.LIX.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/060-Chapter%20LIX.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Great%20Expectations/060-Chapter%20LIX.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/060-Chapter%20LIX.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Great%20Expectations/060-Chapter%20LIX.recx"
+        }
+      }
+    }
+  ]
+}

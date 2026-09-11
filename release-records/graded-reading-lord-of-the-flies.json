@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-11T17:49:39.726502Z",
+  "tag": "graded-reading-lord-of-the-flies",
+  "title": "蝇王 (Lord of the Flies)",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/reading/Lord of the Flies",
+  "createdAt": "2026-09-12 01:38:24 +0800",
+  "poster": {
+    "id": "lord-of-the-flies",
+    "kind": "book-cover",
+    "sourceType": "prepared-cover",
+    "original": {
+      "path": "artwork/posters/lord-of-the-flies.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/lord-of-the-flies.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/lord-of-the-flies.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/lord-of-the-flies.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/lord-of-the-flies.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/lord-of-the-flies.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "sourceSize": {
+        "width": 316,
+        "height": 500
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-lord-of-the-flies"
+    },
+    "mirrors": []
+  },
+  "audioCount": 12,
+  "totalSizeMiB": 319.16,
+  "audio": [
+    {
+      "name": "001-chapter 1.mp3",
+      "sizeMiB": 40.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-lord-of-the-flies/001-chapter.1.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/001-chapter%201.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/001-chapter%201.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/001-chapter%201.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/001-chapter%201.recx"
+        }
+      }
+    },
+    {
+      "name": "002-chapter 2.mp3",
+      "sizeMiB": 25.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-lord-of-the-flies/002-chapter.2.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/002-chapter%202.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/002-chapter%202.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/002-chapter%202.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/002-chapter%202.recx"
+        }
+      }
+    },
+    {
+      "name": "003-chapter 3.mp3",
+      "sizeMiB": 15.96,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-lord-of-the-flies/003-chapter.3.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/003-chapter%203.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/003-chapter%203.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/003-chapter%203.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/003-chapter%203.recx"
+        }
+      }
+    },
+    {
+      "name": "004-chapter 4.mp3",
+      "sizeMiB": 30.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-lord-of-the-flies/004-chapter.4.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/004-chapter%204.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/004-chapter%204.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/004-chapter%204.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/004-chapter%204.recx"
+        }
+      }
+    },
+    {
+      "name": "005-chapter 5.mp3",
+      "sizeMiB": 31.16,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-lord-of-the-flies/005-chapter.5.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/005-chapter%205.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/005-chapter%205.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/005-chapter%205.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/005-chapter%205.recx"
+        }
+      }
+    },
+    {
+      "name": "006-chapter 6.mp3",
+      "sizeMiB": 21.08,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-lord-of-the-flies/006-chapter.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/006-chapter%206.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/006-chapter%206.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/006-chapter%206.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/006-chapter%206.recx"
+        }
+      }
+    },
+    {
+      "name": "007-chapter 7.mp3",
+      "sizeMiB": 23.07,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-lord-of-the-flies/007-chapter.7.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/007-chapter%207.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/007-chapter%207.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/007-chapter%207.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/007-chapter%207.recx"
+        }
+      }
+    },
+    {
+      "name": "008-chapter 8.mp3",
+      "sizeMiB": 32.19,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-lord-of-the-flies/008-chapter.8.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/008-chapter%208.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/008-chapter%208.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/008-chapter%208.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/008-chapter%208.recx"
+        }
+      }
+    },
+    {
+      "name": "009-chapter 9.mp3",
+      "sizeMiB": 17.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-lord-of-the-flies/009-chapter.9.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/009-chapter%209.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/009-chapter%209.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/009-chapter%209.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/009-chapter%209.recx"
+        }
+      }
+    },
+    {
+      "name": "010-chapter 10.mp3",
+      "sizeMiB": 24.15,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-lord-of-the-flies/010-chapter.10.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/010-chapter%2010.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/010-chapter%2010.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/010-chapter%2010.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/010-chapter%2010.recx"
+        }
+      }
+    },
+    {
+      "name": "011-chapter 11.mp3",
+      "sizeMiB": 23.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-lord-of-the-flies/011-chapter.11.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/011-chapter%2011.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/011-chapter%2011.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/011-chapter%2011.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/011-chapter%2011.recx"
+        }
+      }
+    },
+    {
+      "name": "012-chapter 12.mp3",
+      "sizeMiB": 34.17,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-lord-of-the-flies/012-chapter.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/012-chapter%2012.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Lord%20of%20the%20Flies/012-chapter%2012.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/012-chapter%2012.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Lord%20of%20the%20Flies/012-chapter%2012.recx"
+        }
+      }
+    }
+  ]
+}

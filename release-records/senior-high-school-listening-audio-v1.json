@@ -35,20 +35,13 @@
         "width": 1024,
         "height": 1536
       }
-    },
-    "usedBy": "senior-high-school-listening-audio-v1",
-    "title": "高中英语听力"
+    }
   },
   "platforms": {
     "githubRelease": {
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/senior-high-school-listening-audio-v1"
     },
-    "mirrors": [
-      {
-        "provider": "r2",
-        "rootUrl": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/"
-      }
-    ]
+    "mirrors": []
   },
   "audioCount": 62,
   "totalSizeMiB": 165.48,
@@ -58,12 +51,7 @@
       "sizeMiB": 2.55,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/1.Unit.1.Friendship.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE1%20Unit%201%20Friendship%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -81,12 +69,7 @@
       "sizeMiB": 0.73,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/1.Unit.1.Friendship.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE1%20Unit%201%20Friendship%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -104,12 +87,7 @@
       "sizeMiB": 2.35,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/1.Unit.2.English.around.the.World.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE1%20Unit%202%20English%20around%20the%20World%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -127,12 +105,7 @@
       "sizeMiB": 2.87,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/1.Unit.2.English.around.the.World.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE1%20Unit%202%20English%20around%20the%20World%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -150,12 +123,7 @@
       "sizeMiB": 1.63,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/1.Unit.2.English.around.the.World.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE1%20Unit%202%20English%20around%20the%20World%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -173,12 +141,7 @@
       "sizeMiB": 2.81,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/1.Unit.3.Travel.Journal.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE1%20Unit%203%20Travel%20Journal%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -196,12 +159,7 @@
       "sizeMiB": 3.19,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/1.Unit.3.Travel.Journal.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE1%20Unit%203%20Travel%20Journal%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -219,12 +177,7 @@
       "sizeMiB": 2.21,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/1.Unit.3.Travel.Journal.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE1%20Unit%203%20Travel%20Journal%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -242,12 +195,7 @@
       "sizeMiB": 2.2,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/1.Unit.4.Earthquakes.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE1%20Unit%204%20Earthquakes%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -265,12 +213,7 @@
       "sizeMiB": 3.56,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/1.Unit.4.Earthquakes.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE1%20Unit%204%20Earthquakes%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -288,12 +231,7 @@
       "sizeMiB": 1.09,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/1.Unit.4.Earthquakes.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE1%20Unit%204%20Earthquakes%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -311,12 +249,7 @@
       "sizeMiB": 2.61,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/1.Unit.5.Nelson.Mandela.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE1%20Unit%205%20Nelson%20Mandela%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -334,12 +267,7 @@
       "sizeMiB": 2.87,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/1.Unit.5.Nelson.Mandela.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE1%20Unit%205%20Nelson%20Mandela%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -357,12 +285,7 @@
       "sizeMiB": 2.32,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/1.Unit.5.Nelson.Mandela.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE1%20Unit%205%20Nelson%20Mandela%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -380,12 +303,7 @@
       "sizeMiB": 2.24,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/2.Unit.1.Cultural.relics.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE2%20Unit%201%20Cultural%20relics%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -403,12 +321,7 @@
       "sizeMiB": 2.88,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/2.Unit.1.Cultural.relics.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE2%20Unit%201%20Cultural%20relics%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -426,12 +339,7 @@
       "sizeMiB": 2.22,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/2.Unit.1.Cultural.relics.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE2%20Unit%201%20Cultural%20relics%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -449,12 +357,7 @@
       "sizeMiB": 2.71,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/2.Unit.2.The.Olympic.Games.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE2%20Unit%202%20The%20Olympic%20Games%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -472,12 +375,7 @@
       "sizeMiB": 3.89,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/2.Unit.2.The.Olympic.Games.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE2%20Unit%202%20The%20Olympic%20Games%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -495,12 +393,7 @@
       "sizeMiB": 2.12,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/2.Unit.2.The.Olympic.Games.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE2%20Unit%202%20The%20Olympic%20Games%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -518,12 +411,7 @@
       "sizeMiB": 2.01,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/2.Unit.3.Computers.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE2%20Unit%203%20Computers%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -541,12 +429,7 @@
       "sizeMiB": 2.83,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/2.Unit.3.Computers.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE2%20Unit%203%20Computers%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -564,12 +447,7 @@
       "sizeMiB": 1.68,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/2.Unit.3.Computers.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE2%20Unit%203%20Computers%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -587,12 +465,7 @@
       "sizeMiB": 2.2,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/2.Unit.4.Wildlife.protect.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE2%20Unit%204%20Wildlife%20protect%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -610,12 +483,7 @@
       "sizeMiB": 3.32,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/2.Unit.4.Wildlife.protect.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE2%20Unit%204%20Wildlife%20protect%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -633,12 +501,7 @@
       "sizeMiB": 1.83,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/2.Unit.4.Wildlife.protect.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE2%20Unit%204%20Wildlife%20protect%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -656,12 +519,7 @@
       "sizeMiB": 2.81,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/2.Unit.5.Music.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE2%20Unit%205%20Music%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -679,12 +537,7 @@
       "sizeMiB": 3.07,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/2.Unit.5.Music.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE2%20Unit%205%20Music%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -702,12 +555,7 @@
       "sizeMiB": 1.85,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/2.Unit.5.Music.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE2%20Unit%205%20Music%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -725,12 +573,7 @@
       "sizeMiB": 2.53,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/3.Unit.1.Festivals.around.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE3%20Unit%201%20Festivals%20around%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -748,12 +591,7 @@
       "sizeMiB": 2.19,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/3.Unit.1.Festivals.around.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE3%20Unit%201%20Festivals%20around%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -771,12 +609,7 @@
       "sizeMiB": 2.85,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/3.Unit.1.Festivals.around.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE3%20Unit%201%20Festivals%20around%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -794,12 +627,7 @@
       "sizeMiB": 2.92,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/3.Unit.2.Healthy.eating.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE3%20Unit%202%20Healthy%20eating%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -817,12 +645,7 @@
       "sizeMiB": 2.92,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/3.Unit.2.Healthy.eating.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE3%20Unit%202%20Healthy%20eating%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -840,12 +663,7 @@
       "sizeMiB": 2.65,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/3.Unit.2.Healthy.eating.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE3%20Unit%202%20Healthy%20eating%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -863,12 +681,7 @@
       "sizeMiB": 2.79,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/3.Unit.3.The.Million.Pound.Reading.and.Speaking.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE3%20Unit%203%20The%20Million%20Pound%20%E5%90%AC%E5%8A%9B%20Reading%20and%20Speaking%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -886,12 +699,7 @@
       "sizeMiB": 3.88,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/3.Unit.3.The.Million.Pound.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE3%20Unit%203%20The%20Million%20Pound%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -909,12 +717,7 @@
       "sizeMiB": 3.48,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/3.Unit.3.The.Million.Pound.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE3%20Unit%203%20The%20Million%20Pound%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -932,12 +735,7 @@
       "sizeMiB": 1.78,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/3.Unit.4.Astronomy.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE3%20Unit%204%20Astronomy%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -955,12 +753,7 @@
       "sizeMiB": 3.46,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/3.Unit.4.Astronomy.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE3%20Unit%204%20Astronomy%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -978,12 +771,7 @@
       "sizeMiB": 2.57,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/3.Unit.4.Astronomy.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE3%20Unit%204%20Astronomy%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1001,12 +789,7 @@
       "sizeMiB": 2.74,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/3.Unit.5.Canada.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE3%20Unit%205%20Canada%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1024,12 +807,7 @@
       "sizeMiB": 2.91,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/3.Unit.5.Canada.Reading.1.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE3%20Unit%205%20Canada%20%E5%90%AC%E5%8A%9B%20Reading%281%29.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1047,12 +825,7 @@
       "sizeMiB": 2.74,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/3.Unit.5.Canada.Reading.2.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE3%20Unit%205%20Canada%20%E5%90%AC%E5%8A%9B%20Reading%282%29.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1070,12 +843,7 @@
       "sizeMiB": 2.15,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/4.Unit.1.Women.of.achieve.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE4%20Unit%201%20Women%20of%20achieve%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1093,12 +861,7 @@
       "sizeMiB": 3.65,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/4.Unit.1.Women.of.achieve.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE4%20Unit%201%20Women%20of%20achieve%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1116,12 +879,7 @@
       "sizeMiB": 2.66,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/4.Unit.1.Women.of.achieve.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE4%20Unit%201%20Women%20of%20achieve%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1139,12 +897,7 @@
       "sizeMiB": 2.6,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/4.Unit.2.Working.the.land.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE4%20Unit%202%20Working%20the%20land%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1162,12 +915,7 @@
       "sizeMiB": 3.39,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/4.Unit.2.Working.the.land.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE4%20Unit%202%20Working%20the%20land%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1185,12 +933,7 @@
       "sizeMiB": 3.11,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/4.Unit.2.Working.the.land.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE4%20Unit%202%20Working%20the%20land%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1208,12 +951,7 @@
       "sizeMiB": 2.95,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/4.Unit.3.A.taste.of.English.humor.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE4%20Unit%203%20A%20taste%20of%20English%20humor%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1231,12 +969,7 @@
       "sizeMiB": 3.56,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/4.Unit.3.A.taste.of.English.humor.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE4%20Unit%203%20A%20taste%20of%20English%20humor%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1254,12 +987,7 @@
       "sizeMiB": 1.74,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/4.Unit.3.A.taste.of.English.humor.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE4%20Unit%203%20A%20taste%20of%20English%20humor%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1277,12 +1005,7 @@
       "sizeMiB": 1.9,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/4.Unit.4.A.Body.language.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE4%20Unit%204%20A%20Body%20language%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1300,12 +1023,7 @@
       "sizeMiB": 3.39,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/4.Unit.4.A.Body.language.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE4%20Unit%204%20A%20Body%20language%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1323,12 +1041,7 @@
       "sizeMiB": 3.01,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/4.Unit.4.A.Body.language.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE4%20Unit%204%20A%20Body%20language%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1346,12 +1059,7 @@
       "sizeMiB": 1.64,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/4.Unit.5.Theme.parks.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE4%20Unit%205%20Theme%20parks%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1369,12 +1077,7 @@
       "sizeMiB": 3.51,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/4.Unit.5.Theme.parks.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE4%20Unit%205%20Theme%20parks%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1392,12 +1095,7 @@
       "sizeMiB": 2.54,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/4.Unit.5.Theme.parks.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE4%20Unit%205%20Theme%20parks%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1415,12 +1113,7 @@
       "sizeMiB": 3.68,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/5.Unit.1.Great.scientists.Reading.Task.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE5%20Unit%201%20Great%20scientists%20%E5%90%AC%E5%8A%9B%20Reading%20Task.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1438,12 +1131,7 @@
       "sizeMiB": 3.75,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/5.Unit.1.Great.scientists.Reading.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE5%20Unit%201%20Great%20scientists%20%E5%90%AC%E5%8A%9B%20Reading.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
@@ -1461,12 +1149,7 @@
       "sizeMiB": 3.21,
       "audio": {
         "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/senior-high-school-listening-audio-v1/5.Unit.1.Great.scientists.Using.Language.mp3",
-        "mirrors": [
-          {
-            "provider": "r2",
-            "url": "https://media.englishanchor.online/reciter-resources/resources/Exams/%E9%AB%98%E4%B8%AD%E5%90%AC%E5%8A%9B/%E4%BA%BA%E6%95%99%E7%89%88%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E5%BF%85%E4%BF%AE5%20Unit%201%20Great%20scientists%20%E5%90%AC%E5%8A%9B%20Using%20Language.mp3"
-          }
-        ]
+        "mirrors": []
       },
       "sidecars": {
         "githubRaw": {
