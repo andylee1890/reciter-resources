@@ -1,0 +1,1243 @@
+1
+00:00:01,877 --> 00:00:06,437
+Chapter 48. The first lowering.
+
+2
+00:00:06,438 --> 00:00:11,479
+The phantoms, for so they seemed, were flitting on the other side of the deck,
+
+3
+00:00:11,480 --> 00:00:16,276
+and with a noiseless solarity, were casting loose the tackles and bands of
+
+4
+00:00:16,277 --> 00:00:20,679
+the boat which swung there. This boat had always been deemed one of the spare
+
+5
+00:00:20,680 --> 00:00:24,999
+boats, though technically called the captain's on account of its hanging from
+
+6
+00:00:25,000 --> 00:00:29,638
+the starboard quarter. The figure that now stood by its boughs was tall and
+
+7
+00:00:29,639 --> 00:00:35,077
+swart with one white tooth evily protruding from its steel-like lips. A
+
+8
+00:00:35,078 --> 00:00:40,838
+rumpled Chinese jacket of black cotton ferurially invested him with wide black
+
+9
+00:00:40,839 --> 00:00:46,121
+trousers of the same dark stuff. But strangely crowning this ebbaness was a
+
+10
+00:00:46,122 --> 00:00:51,397
+glistening white pleated turban, the living hair braided and coiled round and
+
+11
+00:00:51,398 --> 00:00:56,518
+round upon his head. Less swar in aspect, the companions of this figure
+
+12
+00:00:56,519 --> 00:01:00,916
+were of that vivid tiger yellow complexion peculiar to some of the
+
+13
+00:01:00,917 --> 00:01:06,596
+aboriginal natives of the Manilas, a race notorious for a certain diabolism
+
+14
+00:01:06,597 --> 00:01:12,276
+of subtlety, and by some honest white mariners supposed to be the paid spies
+
+15
+00:01:12,277 --> 00:01:17,799
+and secret confidential agents on the water of the devil, their lord, whose
+
+16
+00:01:17,800 --> 00:01:21,479
+counting room they supposed to be elsewhere.
+
+17
+00:01:21,480 --> 00:01:26,121
+While yet the wandering ship's company were gazing upon these strangers, Ahab
+
+18
+00:01:26,122 --> 00:01:32,596
+cried out to the white turbaned old man at their head. Already there, Fidala.
+
+19
+00:01:32,597 --> 00:01:38,518
+Ready, was the half-hissed reply. Lower away then, do you hear? Shouting across
+
+20
+00:01:38,519 --> 00:01:42,359
+the deck. Lower away there, I say.
+
+21
+00:01:42,360 --> 00:01:46,679
+Such was the thunder of his voice that spite of their amazement, the men sprang
+
+22
+00:01:46,680 --> 00:01:51,479
+over the rail, the sheav whirled around in the blocks. With a wallow, the three
+
+23
+00:01:51,480 --> 00:01:57,077
+boats dropped into the sea, while with a dextrous off-handed daring unknown in
+
+24
+00:01:57,078 --> 00:02:02,039
+any other vocation, the sailors, goatlike, leaped down the rolling ship's
+
+25
+00:02:02,040 --> 00:02:05,397
+side into the tossed boats below.
+
+26
+00:02:05,398 --> 00:02:10,121
+Hardly had they pulled out from under the ship's lee when a fourth keel coming
+
+27
+00:02:10,122 --> 00:02:14,757
+from the windward side pulled round under the stern and showed the five
+
+28
+00:02:14,758 --> 00:02:21,077
+strangers rowing Ahab who standing erect in the stern loudly hailed Starbucks
+
+29
+00:02:21,078 --> 00:02:26,276
+stub and flask to spread themselves widely so as to cover a large expanse of
+
+30
+00:02:26,277 --> 00:02:31,397
+water. But with all their eyes again riveted upon the swart Fidala and his
+
+31
+00:02:31,398 --> 00:02:36,916
+crew, the inmates of the other boats obeyed not the command. "Captain Ahab,"
+
+32
+00:02:36,917 --> 00:02:40,039
+said Starbucks. "Spread yourselves!"
+
+33
+00:02:40,040 --> 00:02:43,159
+cried Ahab. "Give way all four boats!
+
+34
+00:02:43,160 --> 00:02:47,077
+Thou flask! Pull out more to Lord."
+
+35
+00:02:47,078 --> 00:02:51,799
+"I I sir," cheerfully cried little kingpost, sweeping round his great
+
+36
+00:02:51,800 --> 00:02:58,198
+steering ore. "Lay back!" addressing his crew. There, there, there again. There
+
+37
+00:02:58,199 --> 00:03:01,638
+she blows right ahead, boys. Lay back.
+
+38
+00:03:01,639 --> 00:03:04,838
+Never heed yonder yellow boys, Archie.
+
+39
+00:03:04,839 --> 00:03:07,479
+Oh, I don't mind him, sir, said Archie.
+
+40
+00:03:07,480 --> 00:03:12,121
+I knew it all before now. Didn't I hear him in the hold? And didn't I tell
+
+41
+00:03:12,122 --> 00:03:15,876
+Kabako here of it? What say you, Kabako?
+
+42
+00:03:15,877 --> 00:03:20,198
+There are stowways, Mr. Flask.
+
+43
+00:03:20,199 --> 00:03:26,437
+Pull, pull, my fine hearts alive. Pull, my children. Pull my little ones.
+
+44
+00:03:26,438 --> 00:03:31,556
+Drawlingly and soothingly sighed stubbed his crew, some of whom still showed
+
+45
+00:03:31,557 --> 00:03:37,077
+signs of uneasiness. Why don't you break your backbones, my boys? What is it you
+
+46
+00:03:37,078 --> 00:03:40,916
+stare at? Those chaps in yonder boat.
+
+47
+00:03:40,917 --> 00:03:46,121
+There are only five more hands come to help us. Never mind from where. The more
+
+48
+00:03:46,122 --> 00:03:52,276
+the merrier. Pull then. Do pull. Never mind the brimstone. Devils are good
+
+49
+00:03:52,277 --> 00:03:58,999
+fellows enough. So, so there you are now. That's the stroke for £1,000.
+
+50
+00:03:59,000 --> 00:04:01,397
+That's the stroke to sweep the stakes.
+
+51
+00:04:01,398 --> 00:04:06,916
+Hurrah for the gold cup of sperm oil, my heroes. Three cheers, men. All hearts
+
+52
+00:04:06,917 --> 00:04:11,159
+alive. Easy, easy. Don't be in a hurry.
+
+53
+00:04:11,160 --> 00:04:16,198
+Don't be in a hurry. Why don't you snap your roars, you rascals, bite something,
+
+54
+00:04:16,199 --> 00:04:24,198
+you dogs. So, so, so then, softly, softly. That's it. That's it. Long and
+
+55
+00:04:24,199 --> 00:04:29,479
+strong. Give way there. Give way. The devil fetch you. You rag them up and
+
+56
+00:04:29,480 --> 00:04:35,236
+wrap scallions. You're all asleep. Stop snoring, you sleepers, and pull. Pull.
+
+57
+00:04:35,237 --> 00:04:40,916
+Will you pull? Can't you pull? Won't you? Why, in the name of gudgeons and
+
+58
+00:04:40,917 --> 00:04:46,121
+ginger cakes, don't you pull? Pull and break something. Pull and start your
+
+59
+00:04:46,122 --> 00:04:51,556
+eyes out here. Whipping out the sharp knife from his girdle. Every mother's
+
+60
+00:04:51,557 --> 00:04:56,916
+son of you draw his knife and pull with the blade between your teeth. That's it.
+
+61
+00:04:56,917 --> 00:05:02,838
+That's it. Now you do something. That looks like it. My steel bits. Starter.
+
+62
+00:05:02,839 --> 00:05:05,638
+Starter. My silver spoons. Starter.
+
+63
+00:05:05,639 --> 00:05:08,121
+Marlin spikes.
+
+64
+00:05:08,122 --> 00:05:12,838
+Stub's exordium to his crew is given here at large because he had a rather
+
+65
+00:05:12,839 --> 00:05:17,397
+peculiar way of talking to them in general, and especially in inculcating
+
+66
+00:05:17,398 --> 00:05:22,121
+the religion of rowing. But you must not suppose from this specimen of his
+
+67
+00:05:22,122 --> 00:05:25,876
+sermonizings that he ever flew into downright passions with his
+
+68
+00:05:25,877 --> 00:05:31,556
+congregation. Not at all, and therein consisted his chief peculiarity. He
+
+69
+00:05:31,557 --> 00:05:35,876
+would say the most horrific things to his crew in a tone so strangely
+
+70
+00:05:35,877 --> 00:05:41,479
+compounded of fun and fury, and the fury seemed so calculated merely as a spice
+
+71
+00:05:41,480 --> 00:05:46,276
+to the fun that no orsman could hear such queer invocations without pulling
+
+72
+00:05:46,277 --> 00:05:51,958
+for dear life, and yet pulling for the mere joke of the thing. Besides, he all
+
+73
+00:05:51,959 --> 00:05:56,757
+the time looked so easy and indolent himself, so loungingly managed his
+
+74
+00:05:56,758 --> 00:06:01,876
+steering ore, and so broadly gaped, open-mouthed at times, that the mere
+
+75
+00:06:01,877 --> 00:06:06,838
+sight of such a yawning commander, by sheer force of contrast, acted like a
+
+76
+00:06:06,839 --> 00:06:11,876
+charm upon the crew. Then again, Stub was one of those odd sort of humorists,
+
+77
+00:06:11,877 --> 00:06:17,159
+whose jolly is sometimes so curiously ambiguous as to put all inferiors on
+
+78
+00:06:17,160 --> 00:06:20,596
+their guard in the matter of obeying them.
+
+79
+00:06:20,597 --> 00:06:25,236
+In obedience to a sign from Ahab, Starbucks was now pulling obliquely
+
+80
+00:06:25,237 --> 00:06:30,039
+across Stub's bow, and when, for a minute or so the two boats were pretty
+
+81
+00:06:30,040 --> 00:06:35,717
+near to each other, Stub hailed the mate. "Mr. Starbucks, lar boat there.
+
+82
+00:06:35,718 --> 00:06:40,039
+Ahoy! A word with you, sir, if you please."
+
+83
+00:06:40,040 --> 00:06:44,916
+Hello," returned Starbucks, turning round not a single inch as he spoke,
+
+84
+00:06:44,917 --> 00:06:51,479
+still earnestly but whisperingly urging his crew, his face set like a flint from stubs.
+
+85
+00:06:51,480 --> 00:06:57,799
+"What? Think you of those yellow boys, sir," smuggled on board somehow before the
+
+86
+00:06:57,800 --> 00:07:03,318
+ship sailed. "Strong, strong boys!" in a whisper to his crew, then speaking out
+
+87
+00:07:03,319 --> 00:07:07,159
+loud again. "A sad business, Mr. Stub.
+
+88
+00:07:07,160 --> 00:07:13,077
+Seether, seether, my lads. But never mind, Mr. Stub. All for the best. Let
+
+89
+00:07:13,078 --> 00:07:15,799
+your crew pull strong. Come what will.
+
+90
+00:07:15,800 --> 00:07:21,077
+Spring, my men. Spring. There's hogs heads of sperm ahead, Mr. Stub. And
+
+91
+00:07:21,078 --> 00:07:24,359
+that's what you came for. Pull, my boys.
+
+92
+00:07:24,360 --> 00:07:31,397
+Sperm. Sperm's the play. This at least is duty. Duty and profit hand in hand.
+
+93
+00:07:31,398 --> 00:07:38,198
+I I I thought as much siloquised stub when the boats diverged. As soon as I
+
+94
+00:07:38,199 --> 00:07:43,077
+clapped I on him, I thought so. I I That's what he went into the afterhold
+
+95
+00:07:43,078 --> 00:07:48,276
+for so often, as Doughboy long suspected. They were hidden down there.
+
+96
+00:07:48,277 --> 00:07:50,276
+The white whales at the bottom of it.
+
+97
+00:07:50,277 --> 00:07:52,999
+Well, well, so be it. Can't be helped.
+
+98
+00:07:53,000 --> 00:07:58,999
+All right, give way, men. It ain't the white whale today. Give way.
+
+99
+00:07:59,000 --> 00:08:03,556
+Now, the advent of these outlandish strangers at such a critical instant as
+
+100
+00:08:03,557 --> 00:08:08,039
+the lowering of the boats from the deck, this had not unreasonably awakened a
+
+101
+00:08:08,040 --> 00:08:12,437
+sort of superstitious amazement in some of the ship's company. But Archie's
+
+102
+00:08:12,438 --> 00:08:16,757
+fancied discovery, having some time previous got abroad among them, though
+
+103
+00:08:16,758 --> 00:08:21,717
+indeed not credited then, this had, in some small measure prepared them for the
+
+104
+00:08:21,718 --> 00:08:27,159
+event. It took off the extreme edge of their wonder. So what with all this and
+
+105
+00:08:27,160 --> 00:08:31,876
+Stub's confident way of accounting for their appearance, they were for the time
+
+106
+00:08:31,877 --> 00:08:36,359
+freed from superstitious surmisings, though the affair still left abundant
+
+107
+00:08:36,360 --> 00:08:41,876
+room for all manner of wild conjectures as to Dark Ahab's precise agency in the
+
+108
+00:08:41,877 --> 00:08:46,838
+matter from the beginning. For me, I silently recalled the mysterious shadows
+
+109
+00:08:46,839 --> 00:08:51,958
+I had seen creeping on board the Peekquad during the dim Nantucket dawn,
+
+110
+00:08:51,959 --> 00:08:57,077
+as well as the enigmatical hintings of the unaccountable Elijah.
+
+111
+00:08:57,078 --> 00:09:02,121
+Meanwhile, Ahab, out of hearing of his officers, having cided the furthest to
+
+112
+00:09:02,122 --> 00:09:06,838
+windward, was still ranging ahead of the other boats, a circumstance bespeaking
+
+113
+00:09:06,839 --> 00:09:11,958
+how potent a crew was pulling him. Those tiger yellow creatures of his seemed all
+
+114
+00:09:11,959 --> 00:09:16,518
+steel and whale bone. Like five tripammers, they rose and fell with
+
+115
+00:09:16,519 --> 00:09:20,916
+regular strokes of strength, which periodically started the boat along the
+
+116
+00:09:20,917 --> 00:09:26,916
+water like a horizontal burst boiler out of a Mississippi steamer. As for Fidala,
+
+117
+00:09:26,917 --> 00:09:32,121
+who was seen pulling the harpooner ore, he had thrown aside his black jacket and
+
+118
+00:09:32,122 --> 00:09:36,596
+displayed his naked chest with the whole part of his body above the gunnel,
+
+119
+00:09:36,597 --> 00:09:41,556
+clearly cut against the alternating depressions of the watery horizon. While
+
+120
+00:09:41,557 --> 00:09:45,876
+at the other end of the boat, Ahab, with one arm like a fencers thrown half
+
+121
+00:09:45,877 --> 00:09:50,518
+backward into the air, as if to counterbalance any tendency to trip,
+
+122
+00:09:50,519 --> 00:09:54,999
+Ahab was seen steadily managing his steering ore, as in a thousand boat
+
+123
+00:09:55,000 --> 00:09:59,958
+lowerings there the white whale had torn him. All at once the outstretched arm
+
+124
+00:09:59,959 --> 00:10:05,077
+gave a peculiar motion and then remained fixed, while the boat's five oars were
+
+125
+00:10:05,078 --> 00:10:10,679
+seen simultaneously peaked. Boat and crew sat motionless on the sea.
+
+126
+00:10:10,680 --> 00:10:15,958
+Instantly, the three spread boats in the rear paused on their way. The whales had
+
+127
+00:10:15,959 --> 00:10:20,679
+irregularly settled bodily down into the blue, thus giving no distantly
+
+128
+00:10:20,680 --> 00:10:27,397
+discernable token of the movement, though from his closer vicinity Ahab had observed it.
+
+129
+00:10:27,398 --> 00:10:35,159
+Every man, look out along his oars, cried Starbucks. Thou Quequ stand up.
+
+130
+00:10:35,160 --> 00:10:40,121
+Nimbily springing up on the triangular raised box in the bow, the savage stood
+
+131
+00:10:40,122 --> 00:10:44,838
+erect there, and with intensely eager eyes gazed off towards the spot where
+
+132
+00:10:44,839 --> 00:10:47,479
+the chase had last been described.
+
+133
+00:10:47,480 --> 00:10:52,039
+Likewise, upon the extreme stern of the boat, where it was also triangularly
+
+134
+00:10:52,040 --> 00:10:56,359
+platformed level with the gunnel, Starbucks himself was seen coolly and
+
+135
+00:10:56,360 --> 00:11:01,479
+adroitly balancing himself to the jerking tossings of his chip of a craft,
+
+136
+00:11:01,480 --> 00:11:07,638
+and silently eyeing the vast blue eye of the sea. Not very far distant, Flask's
+
+137
+00:11:07,639 --> 00:11:12,838
+boat was also lying breathlessly still, its commander recklessly standing upon
+
+138
+00:11:12,839 --> 00:11:17,958
+the top of the logger head, a stout sort of post rooted in the keel and rising
+
+139
+00:11:17,959 --> 00:11:23,236
+some 2 ft above the level of the stern platform. It is used for catching turns
+
+140
+00:11:23,237 --> 00:11:28,916
+with the whale line. Its top is not more spacious than the palm of a man's hand,
+
+141
+00:11:28,917 --> 00:11:33,479
+and standing upon such a base as that, flask seemed perched at the mast head of
+
+142
+00:11:33,480 --> 00:11:38,838
+some ship which had sunk to all but her trucks. But Little Kingpost was small
+
+143
+00:11:38,839 --> 00:11:43,556
+and short, and at the same time Little Kingpost was full of a large and tall
+
+144
+00:11:43,557 --> 00:11:50,518
+ambition, so that this loggerhead standpoint of his did by no means satisfy Kingpost.
+
+145
+00:11:50,519 --> 00:11:53,236
+I can't see three C's off. Tip us up an
+
+146
+00:11:53,237 --> 00:11:58,039
+ore there, and let me on to that." Upon this dagu, with either hand upon the
+
+147
+00:11:58,040 --> 00:12:03,236
+gunnel to steady his way, swiftly slid after, and then, erecting himself,
+
+148
+00:12:03,237 --> 00:12:08,999
+volunteered his lofty shoulders for a pedestal. Good amassed head as any, sir.
+
+149
+00:12:09,000 --> 00:12:14,596
+Will you mount? That I will, and thank you very much, my fine fellow, only I
+
+150
+00:12:14,597 --> 00:12:20,121
+wish you 50 ft taller. whereupon planting his feet firmly against two
+
+151
+00:12:20,122 --> 00:12:24,596
+opposite planks of the boat, the gigantic negro, stooping a little,
+
+152
+00:12:24,597 --> 00:12:29,556
+presented his flat palm to Flask's foot, and then putting Flask's hand on his
+
+153
+00:12:29,557 --> 00:12:34,198
+hearseplumed head, and bidding him spring, as he himself should toss, with
+
+154
+00:12:34,199 --> 00:12:39,159
+one dextrous fling, landed the little man high and dry on his shoulders. And
+
+155
+00:12:39,160 --> 00:12:44,274
+here was Flask, now standing, Dagu, with one lifted arm, furnishing him with a
+
+156
+00:12:44,275 --> 00:12:48,274
+breast band to lean against and steady himself by.
+
+157
+00:12:48,275 --> 00:12:52,838
+At any time, it is a strange sight to the Tyro to see with what wondrous
+
+158
+00:12:52,839 --> 00:12:57,558
+habitude of unconscious skill the whaleman will maintain an erect posture
+
+159
+00:12:57,559 --> 00:13:02,359
+in his boat, even when pitched about by the most riotously perverse and
+
+160
+00:13:02,360 --> 00:13:07,238
+crossrunn seas. still more strange to see him giddily perched upon the
+
+161
+00:13:07,239 --> 00:13:11,399
+loggerhead itself under such circumstances. But the sight of little
+
+162
+00:13:11,400 --> 00:13:17,238
+flask mounted upon gigantic dagu was yet more curious for sustaining himself with
+
+163
+00:13:17,239 --> 00:13:23,479
+a cool indifferent easy unthought of barbaric majesty. The noble negro to
+
+164
+00:13:23,480 --> 00:13:28,914
+every role of the sea harmoniously rolled his fine form. On his broad back
+
+165
+00:13:28,915 --> 00:13:31,958
+flax andhaired flask seemed a snowflake.
+
+166
+00:13:31,959 --> 00:13:37,079
+The bearer looked nobler than the rider, though truly vivaceious, tumultuous,
+
+167
+00:13:37,080 --> 00:13:42,435
+ostentatious little flask would now and then stamp with impatience. But not one
+
+168
+00:13:42,436 --> 00:13:48,039
+added heave did he thereby give to the Negro's lordly chest. So have I seen
+
+169
+00:13:48,040 --> 00:13:53,159
+passion and vanity stamping the living magnanimous earth, but the earth did not
+
+170
+00:13:53,160 --> 00:13:58,838
+alter her tides and her seasons for that. Meanwhile, Stub, the third mate,
+
+171
+00:13:58,839 --> 00:14:01,958
+betrayed no such far-gazing solicitudes.
+
+172
+00:14:01,959 --> 00:14:06,435
+The whales might have made one of their regular soundings, not a temporary dive
+
+173
+00:14:06,436 --> 00:14:12,198
+for mere fright, and if that were the case, Stub, as his want, in such cases,
+
+174
+00:14:12,199 --> 00:14:17,479
+it seems, was resolved to solace the languishing interval with his pipe. He
+
+175
+00:14:17,480 --> 00:14:21,878
+withdrew it from his hatband, where he always wore it a slant like a feather.
+
+176
+00:14:21,879 --> 00:14:26,359
+He loaded it and rammed home the loading with his thumb end. But hardly had he
+
+177
+00:14:26,360 --> 00:14:31,238
+ignited his match across the rough sandpaper of his hand, when Tashego, his
+
+178
+00:14:31,239 --> 00:14:36,119
+harpooner, whose eyes had been setting too windward like two fixed stars,
+
+179
+00:14:36,120 --> 00:14:40,518
+suddenly dropped like light from his erect attitude to his seat, crying out
+
+180
+00:14:40,519 --> 00:14:46,755
+in a quick frenzy of hurry, "Down! Down all, and give way! There they are!"
+
+181
+00:14:46,756 --> 00:14:51,799
+To a landsman, no whale, nor any sign of a herring, would have been visible at
+
+182
+00:14:51,800 --> 00:14:56,435
+that moment. Nothing but a troubled bit of greenish white water and thin,
+
+183
+00:14:56,436 --> 00:15:01,719
+scattered puffs of vapor hovering over it, and suffusingly blowing off to lured
+
+184
+00:15:01,720 --> 00:15:06,594
+like the confused scud from white rolling billows. The air around suddenly
+
+185
+00:15:06,595 --> 00:15:11,399
+vibrated and tingled, as it were, like the air over intensely heated plates of
+
+186
+00:15:11,400 --> 00:15:16,435
+iron. Beneath this atmospheric waving and curling, and partially beneath a
+
+187
+00:15:16,436 --> 00:15:21,479
+thin layer of water, also the whales were swimming, seen in advance of all
+
+188
+00:15:21,480 --> 00:15:25,399
+the other indications, the puffs of vapor they spouted, seemed their
+
+189
+00:15:25,400 --> 00:15:30,838
+forerunning couriers and detached flying outr rididers. All four boats were now
+
+190
+00:15:30,839 --> 00:15:36,198
+in keen pursuit of that one spot of troubled water and air, but it bad fair
+
+191
+00:15:36,199 --> 00:15:41,479
+to outstrip them. It flew on and on as a mass of interblending bubbles borne down
+
+192
+00:15:41,480 --> 00:15:47,958
+a rapid stream from the hills. "Pull, pull, my good boys," said Starbucks in
+
+193
+00:15:47,959 --> 00:15:52,999
+the lowest possible but intensest concentrated whisper to his men, while
+
+194
+00:15:53,000 --> 00:15:57,878
+the sharp fixed glance from his eyes darted straight ahead of the bow almost
+
+195
+00:15:57,879 --> 00:16:03,079
+seemed as two visible needles in two unairring binnacle compasses. He did not
+
+196
+00:16:03,080 --> 00:16:07,958
+say much to his crew, though, nor did his crew say anything to him. Only the
+
+197
+00:16:07,959 --> 00:16:11,719
+silence of the boat was at intervals startlingly pierced by one of his
+
+198
+00:16:11,720 --> 00:16:17,958
+peculiar whispers, now harsh with command, now soft with intreaty.
+
+199
+00:16:17,959 --> 00:16:20,518
+How different the loud little kingpost.
+
+200
+00:16:20,519 --> 00:16:23,318
+Sing out and say something, my hearties.
+
+201
+00:16:23,319 --> 00:16:28,999
+Roar and pull, my thunderbolts. Beach me. Beach me on their black backs, boys.
+
+202
+00:16:29,000 --> 00:16:33,878
+Only do that for me and I'll sign over to you my Martha's Vineyard plantation
+
+203
+00:16:33,879 --> 00:16:37,238
+boys, including wife and children, boys.
+
+204
+00:16:37,239 --> 00:16:45,558
+Lay me on. Lay me on. Oh Lord, Lord, but I shall go stark staring mad. See, see
+
+205
+00:16:45,559 --> 00:16:50,838
+that white water. And so shouting, he pulled his hat from his head and stamped
+
+206
+00:16:50,839 --> 00:16:56,119
+up and down on it, then picking it up, flirted it far off upon the sea, and
+
+207
+00:16:56,120 --> 00:17:03,238
+finally fell to rearing and plunging in the boat's stern like a crazed colt from the prairie.
+
+208
+00:17:03,239 --> 00:17:08,274
+Look at that chap now, philosophically drawled stub, who, with his unlighted
+
+209
+00:17:08,275 --> 00:17:12,838
+short pipe, mechanically retained between his teeth at a short distance,
+
+210
+00:17:12,839 --> 00:17:18,755
+followed after. He's got fits. That flask has fits. Yes. Give him fits.
+
+211
+00:17:18,756 --> 00:17:24,274
+That's the very word. Pitch Fitz into them. Merrily, merrily, hearts alive.
+
+212
+00:17:24,275 --> 00:17:30,274
+Pudding for supper. You know, Mary's the word. Pull, babes. Pull, sucklings. Pull
+
+213
+00:17:30,275 --> 00:17:35,958
+all. But what the devil are you hurrying about? Softly, softly, and steadily, my
+
+214
+00:17:35,959 --> 00:17:41,799
+men. Only pull and keep pulling. Nothing more. Crack all your backbones and bite
+
+215
+00:17:41,800 --> 00:17:47,159
+your knives in two, that's all. Take it easy. Why don't you take it easy, I say?
+
+216
+00:17:47,160 --> 00:17:50,914
+And burst all your livers and lungs.
+
+217
+00:17:50,915 --> 00:17:56,594
+But what it was that inscrable Ahab said to that tiger yellow crew of his, these
+
+218
+00:17:56,595 --> 00:18:01,238
+were words best omitted here. For you live under the blessed light of the
+
+219
+00:18:01,239 --> 00:18:06,518
+evangelical land. Only the infidel sharks in the audacious seas may give
+
+220
+00:18:06,519 --> 00:18:12,274
+ear to such words, when, with tornado brow and eyes of red murder and foam
+
+221
+00:18:12,275 --> 00:18:17,079
+glued lips, Ahab leaped after his prey.
+
+222
+00:18:17,080 --> 00:18:22,435
+Meanwhile, all the boats tore on, the repeated specific illusions of flask to
+
+223
+00:18:22,436 --> 00:18:26,838
+that whale, as he called the fictitious monster which he declared to be
+
+224
+00:18:26,839 --> 00:18:31,958
+incessantly tantalizing his boat's bow with its tail. These allusions of his
+
+225
+00:18:31,959 --> 00:18:36,359
+were at times so vivid and lifelike that they would cause some one or two of his
+
+226
+00:18:36,360 --> 00:18:41,399
+men to snatch a fearful look over the shoulder. But this was against all rule,
+
+227
+00:18:41,400 --> 00:18:45,719
+for the oresmen must put out their eyes and ram a skewer through their necks,
+
+228
+00:18:45,720 --> 00:18:51,318
+usage pronouncing that they must have no organs but ears and no limbs but arms in
+
+229
+00:18:51,319 --> 00:18:53,558
+these critical moments.
+
+230
+00:18:53,559 --> 00:18:58,914
+It was a sight full of quick wonder and awe. The vast swells of the omnipotent
+
+231
+00:18:58,915 --> 00:19:04,119
+sea, the surging hollow roar they made as they rolled along the eight gunnels
+
+232
+00:19:04,120 --> 00:19:09,638
+like gigantic bulls in a boundless bowling green. The brief suspended agony
+
+233
+00:19:09,639 --> 00:19:13,638
+of the boat as it would tip for an instant on the knifelike edge of the
+
+234
+00:19:13,639 --> 00:19:18,274
+sharper waves that almost seemed threatening to cut it in two. the sudden
+
+235
+00:19:18,275 --> 00:19:23,638
+profound dip into the watery glenns and hollows, the keen spurrings and goatings
+
+236
+00:19:23,639 --> 00:19:28,679
+to gain the top of the opposite hill, the headlong sled-like slide down its
+
+237
+00:19:28,680 --> 00:19:33,719
+other side. All these, with the cries of the headsmen and harpooners, and the
+
+238
+00:19:33,720 --> 00:19:38,518
+shuddering gasps of the oresman, with the wondrous sight of the ivory peekquad
+
+239
+00:19:38,519 --> 00:19:42,755
+bearing down upon her boats with outstretched sails, like a wild hen
+
+240
+00:19:42,756 --> 00:19:49,079
+after her screaming brood. All this was thrilling. Not the raw recruit marching
+
+241
+00:19:49,080 --> 00:19:53,238
+from the bosom of his wife into the fever heat of his first battle. Not the
+
+242
+00:19:53,239 --> 00:19:57,878
+dead man's ghost encountering the first unknown phantom in the other world.
+
+243
+00:19:57,879 --> 00:20:03,079
+Neither of these can feel stranger and stronger emotions than that man does who
+
+244
+00:20:03,080 --> 00:20:08,359
+for the first time finds himself pulling into the charmed churn circle of the
+
+245
+00:20:08,360 --> 00:20:10,914
+hunted sperm whale.
+
+246
+00:20:10,915 --> 00:20:15,238
+The dancing white water made by the chase was now becoming more and more
+
+247
+00:20:15,239 --> 00:20:20,039
+visible, owing to the increasing darkness of the dun cloud shadows flung
+
+248
+00:20:20,040 --> 00:20:25,479
+upon the sea. The jets of vapor no longer blended, but tilted everywhere to
+
+249
+00:20:25,480 --> 00:20:29,799
+right and left. The whales seemed separating their wakes. The boats were
+
+250
+00:20:29,800 --> 00:20:33,958
+pulled more apart, Starbucks giving chase to three whales running dead to
+
+251
+00:20:33,959 --> 00:20:39,719
+lured. Our sail was now set, and with the still rising wind, we rushed along.
+
+252
+00:20:39,720 --> 00:20:43,638
+The boat going with such madness through the water that the lee oars could
+
+253
+00:20:43,639 --> 00:20:48,838
+scarcely be worked rapidly enough to escape being torn from the rollocks.
+
+254
+00:20:48,839 --> 00:20:53,638
+Soon we were running through a suffusing wide veil of mist, neither ship nor boat
+
+255
+00:20:53,639 --> 00:20:59,159
+to be seen. "Give way, men," whispered Starbucks, drawing still further aft the
+
+256
+00:20:59,160 --> 00:21:04,039
+sheet of his sail. "There is time to kill a fish yet before the squall comes.
+
+257
+00:21:04,040 --> 00:21:08,435
+There's white water again, close to spring.
+
+258
+00:21:08,436 --> 00:21:12,435
+Soon after, two cries in quick succession on each side of us denoted
+
+259
+00:21:12,436 --> 00:21:16,914
+that the other boats had got fast, but hardly were they overheard when, with a
+
+260
+00:21:16,915 --> 00:21:21,558
+lightninglike hurtling whisper, Starbucks said, "Stand up!" And
+
+261
+00:21:21,559 --> 00:21:27,318
+Quiquake, harpoon in hand, sprang to his feet. Though not one of the oresmen was
+
+262
+00:21:27,319 --> 00:21:31,878
+then facing the life and death peril so close to them ahead, yet with their eyes
+
+263
+00:21:31,879 --> 00:21:35,878
+on the intense countenance of the mate in the stern of the boat, they knew that
+
+264
+00:21:35,879 --> 00:21:40,838
+the imminent instant had come. They heard, too an enormous wallowing sound,
+
+265
+00:21:40,839 --> 00:21:45,238
+as of 50 elephants stirring in their litter. Meanwhile, the boat was still
+
+266
+00:21:45,239 --> 00:21:50,119
+booming through the mist, the waves curling and hissing around us like the
+
+267
+00:21:50,120 --> 00:21:53,638
+erected crests of enraged serpents.
+
+268
+00:21:53,639 --> 00:21:59,958
+That's his hump there. There. Give it to him, whispered Starbucks. A short
+
+269
+00:21:59,959 --> 00:22:05,238
+rushing sound leaped out of the boat. It was the darted iron of Quiquake. Then,
+
+270
+00:22:05,239 --> 00:22:09,878
+all in one welded commotion came an invisible push from a stern, while
+
+271
+00:22:09,879 --> 00:22:14,838
+forward the boat seemed striking on a ledge. The sail collapsed and exploded.
+
+272
+00:22:14,839 --> 00:22:18,119
+A gush of scalding vapor shot up nearby.
+
+273
+00:22:18,120 --> 00:22:22,359
+Something rolled and tumbled like an earthquake beneath us. The whole crew
+
+274
+00:22:22,360 --> 00:22:27,079
+were half suffocated as they were tossed helter skelter into the white curdling
+
+275
+00:22:27,080 --> 00:22:32,518
+cream of the squall. Squall, whale, and harpoon had all blended together, and
+
+276
+00:22:32,519 --> 00:22:37,318
+the whale, merely grazed by the iron, escaped.
+
+277
+00:22:37,319 --> 00:22:42,039
+Though completely swamped, the boat was nearly unharmed. Swimming round it, we
+
+278
+00:22:42,040 --> 00:22:46,594
+picked up the floating oes, and lashing them across the gunnel, tumbled back to
+
+279
+00:22:46,595 --> 00:22:51,878
+our places. There we sat up to our knees in the sea, the water covering every rib
+
+280
+00:22:51,879 --> 00:22:56,914
+and plank, so that to our downward gazing eyes the suspended craft seemed a
+
+281
+00:22:56,915 --> 00:23:02,119
+coral boat grown up to us from the bottom of the ocean. The wind increased
+
+282
+00:23:02,120 --> 00:23:06,594
+to a howl. The waves dashed their bucklers together. The whole squall
+
+283
+00:23:06,595 --> 00:23:11,719
+roared, forked, and crackled around us like a white fire upon the prairies, in
+
+284
+00:23:11,720 --> 00:23:17,159
+which unconsumed we were burning, immortal in these jaws of death. In vain
+
+285
+00:23:17,160 --> 00:23:21,958
+we hailed the other boats, as well roar to the live coals down the chimney of a
+
+286
+00:23:21,959 --> 00:23:27,878
+flaming furnace as hail those boats in that storm. Meanwhile, the driving scud,
+
+287
+00:23:27,879 --> 00:23:32,679
+rack, and mist grew darker with the shadows of night. No sign of the ship
+
+288
+00:23:32,680 --> 00:23:38,274
+could be seen. The rising sea forbad all attempts to bail out the boat. The ores
+
+289
+00:23:38,275 --> 00:23:43,238
+were useless as propellers, performing now the office of life preservers. So
+
+290
+00:23:43,239 --> 00:23:47,799
+cutting the lashing of the waterproof match keg, after many failures,
+
+291
+00:23:47,800 --> 00:23:52,594
+Starbucks contrived to ignite the lamp in the lantern. Then stretching it on a
+
+292
+00:23:52,595 --> 00:23:58,039
+waifole, handed it to Quiquake as the standard bearer of this forlorn hope.
+
+293
+00:23:58,040 --> 00:24:04,914
+There, then he sat, holding up that imbecile candle in the heart of that almighty forlornness.
+
+294
+00:24:04,915 --> 00:24:10,518
+There then he sat the sign and symbol of a man without faith, hopelessly holding
+
+295
+00:24:10,519 --> 00:24:14,039
+up hope in the midst of despair.
+
+296
+00:24:14,040 --> 00:24:19,079
+Wet, drenched through, and shivering cold, desparing of ship or boat, we
+
+297
+00:24:19,080 --> 00:24:23,958
+lifted our eyes as the dawn came on, the mist still spread over the sea, the
+
+298
+00:24:23,959 --> 00:24:28,755
+empty lantern lay crushed in the bottom of the boat. Suddenly, Quiquake started
+
+299
+00:24:28,756 --> 00:24:34,119
+to his feet, hollowing his hand to his ear. We all heard a faint creaking as of
+
+300
+00:24:34,120 --> 00:24:39,479
+ropes and yards hitherto muffled by the storm. The sound came nearer and nearer.
+
+301
+00:24:39,480 --> 00:24:44,594
+The thick mists were dimly parted by a huge vague form. A frighted we all
+
+302
+00:24:44,595 --> 00:24:49,558
+sprang into the sea as the ship at last loomed into view, bearing right down
+
+303
+00:24:49,559 --> 00:24:54,435
+upon us within a distance not much more than its length.
+
+304
+00:24:54,436 --> 00:24:59,079
+Floating on the waves, we saw the abandoned boat, as for one instant it
+
+305
+00:24:59,080 --> 00:25:03,159
+tossed and gaped beneath the ship's boughs like a chip at the base of a
+
+306
+00:25:03,160 --> 00:25:08,914
+cataract, and then the vast hull rolled over it, and it was seen no more till it
+
+307
+00:25:08,915 --> 00:25:14,119
+came up weltering a stern. Again we swam for it, were dashed against it by the
+
+308
+00:25:14,120 --> 00:25:19,399
+seas, and were at last taken up, and safely landed on board. Air the squall
+
+309
+00:25:19,400 --> 00:25:23,399
+came close, too. of the other boats had cut loose from their fish and returned
+
+310
+00:25:23,400 --> 00:25:28,594
+to the ship in good time. The ship had given us up, but was still cruising, if
+
+311
+00:25:28,595 --> 00:25:36,480
+happily it might light upon some token of our perishing, an ore or a lance pole.

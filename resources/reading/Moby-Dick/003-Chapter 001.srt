@@ -1,0 +1,659 @@
+1
+00:00:01,880 --> 00:00:06,199
+Chapter 1. loomings.
+
+2
+00:00:06,200 --> 00:00:12,598
+Call me Ishmael. Some years ago, never mind how long precisely, having little
+
+3
+00:00:12,599 --> 00:00:17,639
+or no money in my purse and nothing particular to interest me on shore, I
+
+4
+00:00:17,640 --> 00:00:22,199
+thought I would sail about a little and see the watery part of the world. It is
+
+5
+00:00:22,200 --> 00:00:27,239
+a way I have of driving off the spleen and regulating the circulation.
+
+6
+00:00:27,240 --> 00:00:32,037
+Whenever I find myself growing grim about the mouth, whenever it is a damp,
+
+7
+00:00:32,038 --> 00:00:38,118
+drizzly November in my soul, whenever I find myself involuntarily pausing before
+
+8
+00:00:38,119 --> 00:00:43,239
+coffin warehouses and bringing up the rear of every funeral I meet, and
+
+9
+00:00:43,240 --> 00:00:48,439
+especially whenever my hypos get such an upper hand of me, that it requires a
+
+10
+00:00:48,440 --> 00:00:52,277
+strong moral principle to prevent me from deliberately stepping into the
+
+11
+00:00:52,278 --> 00:00:57,479
+street and methodically knocking people's hats off. Then I accounted high
+
+12
+00:00:57,480 --> 00:01:00,598
+time to get to sea as soon as I can.
+
+13
+00:01:00,599 --> 00:01:06,277
+This is my substitute for pistol and ball. With a philosophical flourish, Ko
+
+14
+00:01:06,278 --> 00:01:11,959
+throws himself upon his sword. I quietly take to the ship. There is nothing
+
+15
+00:01:11,960 --> 00:01:17,397
+surprising in this. If they but knew it, almost all men in their degree sometime
+
+16
+00:01:17,398 --> 00:01:22,678
+or other cherish very nearly the same feelings towards the ocean with me.
+
+17
+00:01:22,679 --> 00:01:28,598
+There now is your insular city of the Manhatted round by warves as Indian
+
+18
+00:01:28,599 --> 00:01:33,959
+isles by coral reefs. Commerce surrounds it with her surf. Right and left the
+
+19
+00:01:33,960 --> 00:01:39,318
+streets take you waterward. Its extreme downtown is the battery where that noble
+
+20
+00:01:39,319 --> 00:01:44,918
+mole is washed by waves and cooled by breezes which a few hours previous were
+
+21
+00:01:44,919 --> 00:01:50,838
+out of sight of land. Look at the crowds of water gazers there. Circumambulate
+
+22
+00:01:50,839 --> 00:01:53,557
+the city of a dreamy Sabbath afternoon.
+
+23
+00:01:53,558 --> 00:01:59,239
+Go from Corier's Hook to Coanti's slip and from then by Whiteall northward.
+
+24
+00:01:59,240 --> 00:02:03,959
+What do you see? Posted like silent sentinels all around the town stand
+
+25
+00:02:03,960 --> 00:02:09,797
+thousands upon thousands of mortal men fixed in ocean rearies. Some leaning
+
+26
+00:02:09,798 --> 00:02:14,758
+against the spiles, some seated upon the peer heads, some looking over the bull
+
+27
+00:02:14,759 --> 00:02:19,879
+works of ships from China, some high aloft in the rigging as if striving to
+
+28
+00:02:19,880 --> 00:02:25,397
+get a still better seawward peep. But these are all landsmen of weekdays pent
+
+29
+00:02:25,398 --> 00:02:30,678
+up in lath and plaster, tied to counters, nailed to benches, clenched to
+
+30
+00:02:30,679 --> 00:02:37,479
+desks. How then is this? Are the green fields gone? What do they hear? But
+
+31
+00:02:37,480 --> 00:02:41,879
+look, here come more crowds pacing straight for the water and seemingly
+
+32
+00:02:41,880 --> 00:02:47,397
+bound for a dive. Strange. Nothing will content them but the extremist limit of
+
+33
+00:02:47,398 --> 00:02:53,158
+the land. Litering under the shady lee of yonder warehouses will not suffice.
+
+34
+00:02:53,159 --> 00:02:58,999
+No, they must get just as nigh the water as they possibly can without falling in.
+
+35
+00:02:59,000 --> 00:03:04,918
+And there they stand, miles of them, leagues. Inlanders all, they come from
+
+36
+00:03:04,919 --> 00:03:10,838
+lanes and alleys, streets and avenues, north, east, south, and west. Yet here
+
+37
+00:03:10,839 --> 00:03:15,959
+they all unite. Tell me, does the magnetic virtue of the needles of the
+
+38
+00:03:15,960 --> 00:03:20,037
+compasses of all those ships attract them thither?
+
+39
+00:03:20,038 --> 00:03:25,158
+Once more, say you are in the country, in some high land of lakes. Take almost
+
+40
+00:03:25,159 --> 00:03:29,397
+any path you please, and 10 to one it carries you down in a dale and leaves
+
+41
+00:03:29,398 --> 00:03:34,678
+you there by a pool in the stream. There is magic in it. Let the most
+
+42
+00:03:34,679 --> 00:03:39,879
+absent-minded of men be plunged in his deepest rearies. Stand that man on his
+
+43
+00:03:39,880 --> 00:03:45,078
+legs, set his feet a going, and he will infallibly lead you to water, if water
+
+44
+00:03:45,079 --> 00:03:50,037
+there be, in all that region. Should you ever be a thirst in the great American
+
+45
+00:03:50,038 --> 00:03:54,918
+desert, try this experiment if your caravan happened to be supplied with a
+
+46
+00:03:54,919 --> 00:04:03,239
+metaphysical professor. Yes, as everyone knows, meditation and water are wedded forever.
+
+47
+00:04:03,240 --> 00:04:07,719
+But here is the artist. He desires to paint you the dreamiest, shadiest,
+
+48
+00:04:07,720 --> 00:04:12,358
+quietest, most enchanting bit of romantic landscape in all the valley of
+
+49
+00:04:12,359 --> 00:04:18,037
+a sacko. What is the chief element he employs? There stand his trees, each
+
+50
+00:04:18,038 --> 00:04:23,239
+with a hollow trunk, as if a hermit and a crucifix were within. And here sleeps
+
+51
+00:04:23,240 --> 00:04:29,158
+his meadow, and there sleep his cattle, and up from yonder cottage goes a sleepy
+
+52
+00:04:29,159 --> 00:04:34,277
+smoke. Deep into the distant woodlands winds a mazy way, reaching to
+
+53
+00:04:34,278 --> 00:04:39,797
+overlapping spurs of mountains bathed in their hillside blue. But though the
+
+54
+00:04:39,798 --> 00:04:45,239
+picture lies thus transed, and though this pine tree shakes down its size like
+
+55
+00:04:45,240 --> 00:04:50,118
+leaves upon the shepherd's head, yet all were vain, unless the shepherd's eye
+
+56
+00:04:50,119 --> 00:04:56,439
+were fixed upon the magic stream before him. Go visit the prairies in June, when
+
+57
+00:04:56,440 --> 00:05:01,479
+for scores on scores of miles you weighed kneede among tiger liies. What
+
+58
+00:05:01,480 --> 00:05:08,358
+is the one charm wanting? Water. There is not a drop of water there. Were
+
+59
+00:05:08,359 --> 00:05:13,078
+Niagara but a cataract of sand, would you travel your thousand miles to see
+
+60
+00:05:13,079 --> 00:05:18,999
+it? Why did the poor poet of Tennessee, upon suddenly receiving two handfuls of
+
+61
+00:05:19,000 --> 00:05:24,118
+silver, deliberate whether to buy him a coat, which he sadly needed, or invest
+
+62
+00:05:24,119 --> 00:05:28,999
+the money in a pedestrian trip to Rockaway Beach? Why is almost every
+
+63
+00:05:29,000 --> 00:05:33,719
+robust, healthy boy with a robust, healthy soul in him at some time or
+
+64
+00:05:33,720 --> 00:05:40,038
+other crazy to go to sea? Why, upon your first voyage as a passenger, did you
+
+65
+00:05:40,039 --> 00:05:45,397
+yourself feel such a mystical vibration when first told that you and your ship
+
+66
+00:05:45,398 --> 00:05:51,158
+were now out of sight of land? Why did the old Persians hold the sea holy? Why
+
+67
+00:05:51,159 --> 00:05:56,357
+did the Greeks give it a separate deity and own brother of Jo?
+
+68
+00:05:56,358 --> 00:06:01,558
+Surely all of this is not without meaning. and still deeper the meaning of
+
+69
+00:06:01,559 --> 00:06:06,439
+that story of Narcissus, who because he could not grasp the tormenting mild
+
+70
+00:06:06,440 --> 00:06:11,959
+image he saw in the fountain, plunged into it and was drowned. But that same
+
+71
+00:06:11,960 --> 00:06:17,877
+image we ourselves see in all rivers and oceans. It is the image of the
+
+72
+00:06:17,878 --> 00:06:24,598
+ungraspable phantom of life, and this is the key to it all.
+
+73
+00:06:24,599 --> 00:06:28,518
+Now when I say I am in the habit of going to sea whenever I begin to grow
+
+74
+00:06:28,519 --> 00:06:33,799
+hazy about the eyes and begin to be overconscious of my lungs, I do not mean
+
+75
+00:06:33,800 --> 00:06:38,357
+to have it inferred that I ever go to see as a passenger. For to go as a
+
+76
+00:06:38,358 --> 00:06:43,158
+passenger, you must needs have a purse, and a purse is but a rag unless you have
+
+77
+00:06:43,159 --> 00:06:48,999
+something in it. Besides, passengers get seasick, grow quarrelome, don't sleep of
+
+78
+00:06:49,000 --> 00:06:54,118
+nights, do not enjoy themselves much as a general thing. No, I never go as a
+
+79
+00:06:54,119 --> 00:06:59,078
+passenger, nor though I am something of assault, do I ever go to see as a
+
+80
+00:06:59,079 --> 00:07:04,279
+commodore or a captain or a cook. I abandon the glory and distinction of
+
+81
+00:07:04,280 --> 00:07:10,439
+such offices to those who like them. For my part, I abominate all honorable,
+
+82
+00:07:10,440 --> 00:07:15,959
+respectable toils, trials, and tribulations of every kind, whatever. It
+
+83
+00:07:15,960 --> 00:07:20,118
+is quite as much as I can do to take care of myself without taking care of
+
+84
+00:07:20,119 --> 00:07:26,198
+ships, barks, brigs, schooners, and whatnot. And as for going as cook,
+
+85
+00:07:26,199 --> 00:07:31,319
+though I confess there is considerable glory in that, a cook being a sort of
+
+86
+00:07:31,320 --> 00:07:37,078
+officer on shipboard, yet somehow I never fancied broiling fowls, though
+
+87
+00:07:37,079 --> 00:07:42,678
+once broiled, judiciously buttered and judgically salted and peppered, there is
+
+88
+00:07:42,679 --> 00:07:47,479
+no one who will speak more respectfully not to say reverently of a broiled fowl
+
+89
+00:07:47,480 --> 00:07:53,638
+than I will. It is out of the idolatrous doting of the old Egyptians upon broiled
+
+90
+00:07:53,639 --> 00:07:58,357
+ibis and roasted riverhorse that you see the mummies of those creatures in their
+
+91
+00:07:58,358 --> 00:08:02,598
+huge bake houses, the pyramids.
+
+92
+00:08:02,599 --> 00:08:07,959
+No, when I go to sea, I go as a simple sailor right before the mast, plumb down
+
+93
+00:08:07,960 --> 00:08:13,479
+into the folks, a loft there to the royal mast head. True, they rather order
+
+94
+00:08:13,480 --> 00:08:18,598
+me about some and make me jump from spar to spar like a grasshopper in a May
+
+95
+00:08:18,599 --> 00:08:24,118
+meadow, and at first this sort of thing is unpleasant enough. It touches one's
+
+96
+00:08:24,119 --> 00:08:28,837
+sense of honor, particularly if you come of an old established family in the
+
+97
+00:08:28,838 --> 00:08:33,399
+land, the Van Wrenellers or Randolphs or Hardanutes.
+
+98
+00:08:33,400 --> 00:08:38,118
+And more than all, if just previous to putting your hand into the tarp pot, you
+
+99
+00:08:38,119 --> 00:08:43,078
+have been lording it as a country school master, making the tallest boys stand in
+
+100
+00:08:43,079 --> 00:08:48,198
+awe of you. The transition is a keen one, I assure you, from a school master
+
+101
+00:08:48,199 --> 00:08:53,799
+to a sailor, and requires a strong decoction of senica and the stoics to
+
+102
+00:08:53,800 --> 00:08:59,959
+enable you to grin and bear it. But even this wears off in time. What of it? If
+
+103
+00:08:59,960 --> 00:09:03,959
+some old hunks of a sea captain orders me to get a broom and sweep down the
+
+104
+00:09:03,960 --> 00:09:08,919
+decks, what does that indignity amount to, weighed, I mean, in these scales of
+
+105
+00:09:08,920 --> 00:09:13,799
+the New Testament? Do you think the Archangel Gabriel thinks anything the
+
+106
+00:09:13,800 --> 00:09:18,198
+less of me because I promptly and respectfully obey that old hunks in that
+
+107
+00:09:18,199 --> 00:09:21,158
+particular instance? Who ain't a slave?
+
+108
+00:09:21,159 --> 00:09:26,518
+Tell me that. Well then, however the old sea captains may order me about, however
+
+109
+00:09:26,519 --> 00:09:31,718
+they may thump and punch me about, I have the satisfaction of knowing that it
+
+110
+00:09:31,719 --> 00:09:36,837
+is all right, that everybody else is in one way or other served in much the same
+
+111
+00:09:36,838 --> 00:09:42,198
+way, either in a physical or metaphysical point of view, that is, and
+
+112
+00:09:42,199 --> 00:09:47,158
+so the universal thump is passed round, and all hands should rub each other's
+
+113
+00:09:47,159 --> 00:09:50,678
+shoulder blades and be content.
+
+114
+00:09:50,679 --> 00:09:55,319
+Again, I always go to sea as a sailor because they make a point of paying me
+
+115
+00:09:55,320 --> 00:10:00,118
+for my trouble, whereas they never pay passengers a single penny that I ever
+
+116
+00:10:00,119 --> 00:10:05,718
+heard of. On the contrary, passengers themselves must pay. And there is all
+
+117
+00:10:05,719 --> 00:10:10,919
+the difference in the world between paying and being paid. The act of paying
+
+118
+00:10:10,920 --> 00:10:15,319
+is perhaps the most uncomfortable infliction that the two orchard thieves
+
+119
+00:10:15,320 --> 00:10:21,479
+entailed upon us. But being paid, what will compare with it? The urbane
+
+120
+00:10:21,480 --> 00:10:26,118
+activity with which a man receives money is really marvelous, considering that we
+
+121
+00:10:26,119 --> 00:10:31,078
+so earnestly believe money to be the root of all earthly ills, and that on no
+
+122
+00:10:31,079 --> 00:10:33,799
+account can a moneyed man enter heaven.
+
+123
+00:10:33,800 --> 00:10:38,919
+Ah, how cheerfully we consign ourselves to predition.
+
+124
+00:10:38,920 --> 00:10:43,399
+Finally, I always go to see a sailor because of the wholesome exercise and
+
+125
+00:10:43,400 --> 00:10:48,518
+pure air of the folkal deck. For, as in this world, headwinds are far more
+
+126
+00:10:48,519 --> 00:10:53,479
+prevalent than winds from a stern. That is, if you never violate the Pythagorean
+
+127
+00:10:53,480 --> 00:10:58,038
+maxim, so for the most part, the commodore on the quarter deck gets his
+
+128
+00:10:58,039 --> 00:11:02,357
+atmosphere at secondhand from the sailors on the folks. He thinks he
+
+129
+00:11:02,358 --> 00:11:07,399
+breathes at first, but not so. In much the same way do the commonality lead
+
+130
+00:11:07,400 --> 00:11:11,399
+their leaders in many other things, at the same time that the leaders little
+
+131
+00:11:11,400 --> 00:11:16,759
+suspected. But wherefore it was that after having repeatedly smelt the sea as
+
+132
+00:11:16,760 --> 00:11:21,158
+a merchant sailor, I should now take it into my head to go on a whailing voyage,
+
+133
+00:11:21,159 --> 00:11:26,118
+this the invisible police officer of the fates, who has the constant surveillance
+
+134
+00:11:26,119 --> 00:11:31,799
+of me and secretly dogs me and influences me in some unaccountable way,
+
+135
+00:11:31,800 --> 00:11:34,999
+he can better answer than anyone else.
+
+136
+00:11:35,000 --> 00:11:39,718
+And doubtless my going on this whailing voyage formed part of the grand program
+
+137
+00:11:39,719 --> 00:11:44,439
+of providence that was drawn up a long time ago. It came as a sort of brief
+
+138
+00:11:44,440 --> 00:11:49,879
+interlude and solo between more extensive performances. I take it that
+
+139
+00:11:49,880 --> 00:11:54,357
+this part of the bill must have run something like this. Grand contested
+
+140
+00:11:54,358 --> 00:11:58,999
+election for the presidency of the United States. Wailing voyage by one
+
+141
+00:11:59,000 --> 00:12:03,158
+Ishmael. Bloody battle in Afghanistan.
+
+142
+00:12:03,159 --> 00:12:08,678
+Though I cannot tell why it was exactly that those stage managers, the fates put
+
+143
+00:12:08,679 --> 00:12:12,999
+me down for this shabby part of a wailing voyage when others were set down
+
+144
+00:12:13,000 --> 00:12:18,518
+for magnificent parts in high tragedies in short and easy parts in gential
+
+145
+00:12:18,519 --> 00:12:22,038
+comedies and jolly parts in farses.
+
+146
+00:12:22,039 --> 00:12:26,999
+Though I cannot tell why this was exactly, yet now that I recall all the
+
+147
+00:12:27,000 --> 00:12:31,158
+circumstances, I think I can see a little into the springs and motives
+
+148
+00:12:31,159 --> 00:12:36,279
+which, being cunningly presented to me under various disguises, induced me to
+
+149
+00:12:36,280 --> 00:12:41,238
+set about performing the part I did, besides cajoling me into the delusion
+
+150
+00:12:41,239 --> 00:12:45,799
+that it was a choice resulting from my own unbiased free will and
+
+151
+00:12:45,800 --> 00:12:50,837
+discriminating judgment. Chief among these motives was the overwhelming idea
+
+152
+00:12:50,838 --> 00:12:56,279
+of the great whale himself. Such a portentious and mysterious monster
+
+153
+00:12:56,280 --> 00:13:01,558
+roused all my curiosity. Then the wild and distant seas where he rolled his
+
+154
+00:13:01,559 --> 00:13:06,999
+island bulk, the undeliverable, the nameless perils of the whale. These,
+
+155
+00:13:07,000 --> 00:13:12,357
+with all the attending marvels of a thousand Patagonian sights and sounds,
+
+156
+00:13:12,358 --> 00:13:17,238
+helped sway me to my wish. With other men perhaps such things would not have
+
+157
+00:13:17,239 --> 00:13:22,759
+been inducements, but as for me, I am tormented with an everlasting itch for
+
+158
+00:13:22,760 --> 00:13:29,718
+things remote. I love to sail forbidden seas and land on barbarous coasts, not
+
+159
+00:13:29,719 --> 00:13:34,439
+ignoring what is good, I am quick to perceive a horror, and could still be
+
+160
+00:13:34,440 --> 00:13:38,999
+social with it, would they let me, since it is but well to be on friendly terms
+
+161
+00:13:39,000 --> 00:13:44,439
+with all the inmates of the place one lodges in. By reason of these things,
+
+162
+00:13:44,440 --> 00:13:49,558
+then the wailing voyage was welcome. The great floodgates of the wonderworld
+
+163
+00:13:49,559 --> 00:13:54,598
+swung open, and into the wild conceits that swayed me to my purpose, two and
+
+164
+00:13:54,599 --> 00:14:00,038
+two there floated into my inmost soul endless processions of the whale, and
+
+165
+00:14:00,039 --> 00:14:08,800
+midmost of them all one grand hooded phantom, like a snowhill in the air.
