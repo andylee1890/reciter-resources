@@ -3659,16 +3659,16 @@
     {
       "id": "zhongkao-listening",
       "kind": "collection-cover",
-      "sourceType": "user-provided-local-image",
+      "sourceType": "ai-generated-original-artwork",
       "original": {
-        "path": "artwork/posters/junior-high-school-listening.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/junior-high-school-listening.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/junior-high-school-listening.webp"
+        "path": "artwork/posters/zhongkao-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/zhongkao-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/zhongkao-listening.webp"
       },
       "card": {
-        "path": "artwork/posters/card/junior-high-school-listening.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/junior-high-school-listening.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/junior-high-school-listening.webp",
+        "path": "artwork/posters/card/zhongkao-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/zhongkao-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/zhongkao-listening.webp",
         "mode": "crop",
         "aspectRatio": "480:600",
         "width": 480,
@@ -3676,13 +3676,13 @@
         "fit": "cover",
         "crop": {
           "x": 0.0,
-          "y": 0.056696,
+          "y": 0.0,
           "width": 1.0,
-          "height": 0.886607
+          "height": 0.833333
         },
         "sourceSize": {
-          "width": 993,
-          "height": 1400
+          "width": 1024,
+          "height": 1536
         }
       },
       "usedBy": "zhongkao-listening-audio-v1",
@@ -3697,16 +3697,16 @@
     {
       "id": "gaokao-listening",
       "kind": "collection-cover",
-      "sourceType": "user-provided-local-image",
+      "sourceType": "ai-generated-original-artwork",
       "original": {
-        "path": "artwork/posters/senior-high-school-listening.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/senior-high-school-listening.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/senior-high-school-listening.webp"
+        "path": "artwork/posters/gaokao-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/gaokao-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/gaokao-listening.webp"
       },
       "card": {
-        "path": "artwork/posters/card/senior-high-school-listening.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/senior-high-school-listening.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/senior-high-school-listening.webp",
+        "path": "artwork/posters/card/gaokao-listening.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/gaokao-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/gaokao-listening.webp",
         "mode": "crop",
         "aspectRatio": "480:600",
         "width": 480,
@@ -3714,13 +3714,13 @@
         "fit": "cover",
         "crop": {
           "x": 0.0,
-          "y": 0.058036,
+          "y": 0.0,
           "width": 1.0,
-          "height": 0.883929
+          "height": 0.833333
         },
         "sourceSize": {
-          "width": 990,
-          "height": 1400
+          "width": 1024,
+          "height": 1536
         }
       },
       "usedBy": "gaokao-listening-audio-v1",
