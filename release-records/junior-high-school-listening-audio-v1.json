@@ -10,7 +10,7 @@
   "poster": {
     "id": "junior-high-school-listening",
     "kind": "collection-cover",
-    "sourceType": "user-provided-local-image",
+    "sourceType": "ai-generated-original-artwork",
     "original": {
       "path": "artwork/posters/junior-high-school-listening.webp",
       "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/junior-high-school-listening.webp",
@@ -27,15 +27,17 @@
       "fit": "cover",
       "crop": {
         "x": 0.0,
-        "y": 0.056696,
+        "y": 0.0,
         "width": 1.0,
-        "height": 0.886607
+        "height": 0.833333
       },
       "sourceSize": {
-        "width": 993,
-        "height": 1400
+        "width": 1024,
+        "height": 1536
       }
-    }
+    },
+    "usedBy": "junior-high-school-listening-audio-v1",
+    "title": "初中英语听力"
   },
   "platforms": {
     "githubRelease": {

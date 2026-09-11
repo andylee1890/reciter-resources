@@ -10,7 +10,7 @@
   "poster": {
     "id": "senior-high-school-listening",
     "kind": "collection-cover",
-    "sourceType": "user-provided-local-image",
+    "sourceType": "ai-generated-original-artwork",
     "original": {
       "path": "artwork/posters/senior-high-school-listening.webp",
       "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/senior-high-school-listening.webp",
@@ -27,15 +27,17 @@
       "fit": "cover",
       "crop": {
         "x": 0.0,
-        "y": 0.058036,
+        "y": 0.0,
         "width": 1.0,
-        "height": 0.883929
+        "height": 0.833333
       },
       "sourceSize": {
-        "width": 990,
-        "height": 1400
+        "width": 1024,
+        "height": 1536
       }
-    }
+    },
+    "usedBy": "senior-high-school-listening-audio-v1",
+    "title": "高中英语听力"
   },
   "platforms": {
     "githubRelease": {

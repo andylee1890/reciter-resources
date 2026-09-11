@@ -2569,7 +2569,7 @@
     {
       "id": "junior-high-school-listening",
       "kind": "collection-cover",
-      "sourceType": "user-provided-local-image",
+      "sourceType": "ai-generated-original-artwork",
       "original": {
         "path": "artwork/posters/junior-high-school-listening.webp",
         "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/junior-high-school-listening.webp",
@@ -2586,21 +2586,22 @@
         "fit": "cover",
         "crop": {
           "x": 0.0,
-          "y": 0.056696,
+          "y": 0.0,
           "width": 1.0,
-          "height": 0.886607
+          "height": 0.833333
         },
         "sourceSize": {
-          "width": 993,
-          "height": 1400
+          "width": 1024,
+          "height": 1536
         }
       },
-      "usedBy": "junior-high-school-listening-audio-v1"
+      "usedBy": "junior-high-school-listening-audio-v1",
+      "title": "初中英语听力"
     },
     {
       "id": "senior-high-school-listening",
       "kind": "collection-cover",
-      "sourceType": "user-provided-local-image",
+      "sourceType": "ai-generated-original-artwork",
       "original": {
         "path": "artwork/posters/senior-high-school-listening.webp",
         "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/senior-high-school-listening.webp",
@@ -2617,21 +2618,22 @@
         "fit": "cover",
         "crop": {
           "x": 0.0,
-          "y": 0.058036,
+          "y": 0.0,
           "width": 1.0,
-          "height": 0.883929
+          "height": 0.833333
         },
         "sourceSize": {
-          "width": 990,
-          "height": 1400
+          "width": 1024,
+          "height": 1536
         }
       },
-      "usedBy": "senior-high-school-listening-audio-v1"
+      "usedBy": "senior-high-school-listening-audio-v1",
+      "title": "高中英语听力"
     },
     {
       "id": "cet4-listening",
       "kind": "collection-cover",
-      "sourceType": "prepared-cover",
+      "sourceType": "ai-generated-original-artwork",
       "original": {
         "path": "artwork/posters/cet4-listening.webp",
         "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cet4-listening.webp",
@@ -2639,8 +2641,6 @@
       },
       "card": {
         "path": "artwork/posters/card/cet4-listening.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet4-listening.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet4-listening.webp",
         "mode": "crop",
         "aspectRatio": "480:600",
         "width": 480,
@@ -2650,19 +2650,28 @@
           "x": 0.0,
           "y": 0.0,
           "width": 1.0,
-          "height": 1.0
+          "height": 0.833333
         },
         "sourceSize": {
-          "width": 800,
-          "height": 800
-        }
+          "width": 1024,
+          "height": 1536
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet4-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet4-listening.webp"
       },
-      "usedBy": "cet4-listening-audio-v1"
+      "usedBy": "cet4-listening-audio-v1",
+      "title": "CET4听力",
+      "status": "finished",
+      "first_class": "考试听力",
+      "second_class": "四、六级",
+      "third_class": "CET4听力",
+      "author": "",
+      "createdAt": "2026-09-10"
     },
     {
       "id": "cet6-listening",
       "kind": "collection-cover",
-      "sourceType": "prepared-cover",
+      "sourceType": "ai-generated-original-artwork",
       "original": {
         "path": "artwork/posters/cet6-listening.webp",
         "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cet6-listening.webp",
@@ -2670,8 +2679,6 @@
       },
       "card": {
         "path": "artwork/posters/card/cet6-listening.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet6-listening.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet6-listening.webp",
         "mode": "crop",
         "aspectRatio": "480:600",
         "width": 480,
@@ -2681,14 +2688,23 @@
           "x": 0.0,
           "y": 0.0,
           "width": 1.0,
-          "height": 1.0
+          "height": 0.833333
         },
         "sourceSize": {
-          "width": 733,
-          "height": 1000
-        }
+          "width": 1024,
+          "height": 1536
+        },
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet6-listening.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet6-listening.webp"
       },
-      "usedBy": "cet6-listening-audio-v1"
+      "usedBy": "cet6-listening-audio-v1",
+      "title": "CET6听力",
+      "status": "finished",
+      "first_class": "考试听力",
+      "second_class": "四、六级",
+      "third_class": "CET6听力",
+      "author": "",
+      "createdAt": "2026-09-10"
     },
     {
       "id": "zhongkao-listening",
@@ -2719,7 +2735,14 @@
           "height": 1536
         }
       },
-      "usedBy": "zhongkao-listening-audio-v1"
+      "usedBy": "zhongkao-listening-audio-v1",
+      "title": "中考听力",
+      "status": "finished",
+      "first_class": "考试听力",
+      "second_class": "初中听力",
+      "third_class": "中考听力",
+      "author": "",
+      "createdAt": "2026-09-10"
     },
     {
       "id": "gaokao-listening",
@@ -2750,7 +2773,14 @@
           "height": 1536
         }
       },
-      "usedBy": "gaokao-listening-audio-v1"
+      "usedBy": "gaokao-listening-audio-v1",
+      "title": "高考听力",
+      "status": "finished",
+      "first_class": "考试听力",
+      "second_class": "高中听力",
+      "third_class": "高考听力",
+      "author": "",
+      "createdAt": "2026-09-10"
     },
     {
       "id": "oxford-reading-tree",
@@ -4769,7 +4799,7 @@
       "poster": {
         "id": "cet4-listening",
         "kind": "collection-cover",
-        "sourceType": "prepared-cover",
+        "sourceType": "ai-generated-original-artwork",
         "original": {
           "path": "artwork/posters/cet4-listening.webp",
           "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cet4-listening.webp",
@@ -4777,8 +4807,6 @@
         },
         "card": {
           "path": "artwork/posters/card/cet4-listening.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet4-listening.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet4-listening.webp",
           "mode": "crop",
           "aspectRatio": "480:600",
           "width": 480,
@@ -4788,13 +4816,23 @@
             "x": 0.0,
             "y": 0.0,
             "width": 1.0,
-            "height": 1.0
+            "height": 0.833333
           },
           "sourceSize": {
-            "width": 800,
-            "height": 800
-          }
-        }
+            "width": 1024,
+            "height": 1536
+          },
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet4-listening.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet4-listening.webp"
+        },
+        "usedBy": "cet4-listening-audio-v1",
+        "title": "CET4听力",
+        "status": "finished",
+        "first_class": "考试听力",
+        "second_class": "四、六级",
+        "third_class": "CET4听力",
+        "author": "",
+        "createdAt": "2026-09-10"
       },
       "platforms": {
         "githubRelease": {
@@ -4820,7 +4858,7 @@
       "poster": {
         "id": "cet6-listening",
         "kind": "collection-cover",
-        "sourceType": "prepared-cover",
+        "sourceType": "ai-generated-original-artwork",
         "original": {
           "path": "artwork/posters/cet6-listening.webp",
           "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/cet6-listening.webp",
@@ -4828,8 +4866,6 @@
         },
         "card": {
           "path": "artwork/posters/card/cet6-listening.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet6-listening.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet6-listening.webp",
           "mode": "crop",
           "aspectRatio": "480:600",
           "width": 480,
@@ -4839,13 +4875,23 @@
             "x": 0.0,
             "y": 0.0,
             "width": 1.0,
-            "height": 1.0
+            "height": 0.833333
           },
           "sourceSize": {
-            "width": 733,
-            "height": 1000
-          }
-        }
+            "width": 1024,
+            "height": 1536
+          },
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/cet6-listening.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/cet6-listening.webp"
+        },
+        "usedBy": "cet6-listening-audio-v1",
+        "title": "CET6听力",
+        "status": "finished",
+        "first_class": "考试听力",
+        "second_class": "四、六级",
+        "third_class": "CET6听力",
+        "author": "",
+        "createdAt": "2026-09-10"
       },
       "platforms": {
         "githubRelease": {
@@ -5486,7 +5532,15 @@
             "width": 1024,
             "height": 1536
           }
-        }
+        },
+        "usedBy": "gaokao-listening-audio-v1",
+        "title": "高考听力",
+        "status": "finished",
+        "first_class": "考试听力",
+        "second_class": "高中听力",
+        "third_class": "高考听力",
+        "author": "",
+        "createdAt": "2026-09-10"
       },
       "platforms": {
         "githubRelease": {
@@ -5883,7 +5937,7 @@
       "poster": {
         "id": "junior-high-school-listening",
         "kind": "collection-cover",
-        "sourceType": "user-provided-local-image",
+        "sourceType": "ai-generated-original-artwork",
         "original": {
           "path": "artwork/posters/junior-high-school-listening.webp",
           "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/junior-high-school-listening.webp",
@@ -5900,15 +5954,17 @@
           "fit": "cover",
           "crop": {
             "x": 0.0,
-            "y": 0.056696,
+            "y": 0.0,
             "width": 1.0,
-            "height": 0.886607
+            "height": 0.833333
           },
           "sourceSize": {
-            "width": 993,
-            "height": 1400
+            "width": 1024,
+            "height": 1536
           }
-        }
+        },
+        "usedBy": "junior-high-school-listening-audio-v1",
+        "title": "初中英语听力"
       },
       "platforms": {
         "githubRelease": {
@@ -6751,7 +6807,7 @@
       "poster": {
         "id": "senior-high-school-listening",
         "kind": "collection-cover",
-        "sourceType": "user-provided-local-image",
+        "sourceType": "ai-generated-original-artwork",
         "original": {
           "path": "artwork/posters/senior-high-school-listening.webp",
           "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/senior-high-school-listening.webp",
@@ -6768,15 +6824,17 @@
           "fit": "cover",
           "crop": {
             "x": 0.0,
-            "y": 0.058036,
+            "y": 0.0,
             "width": 1.0,
-            "height": 0.883929
+            "height": 0.833333
           },
           "sourceSize": {
-            "width": 990,
-            "height": 1400
+            "width": 1024,
+            "height": 1536
           }
-        }
+        },
+        "usedBy": "senior-high-school-listening-audio-v1",
+        "title": "高中英语听力"
       },
       "platforms": {
         "githubRelease": {
@@ -8238,7 +8296,15 @@
             "width": 1024,
             "height": 1536
           }
-        }
+        },
+        "usedBy": "zhongkao-listening-audio-v1",
+        "title": "中考听力",
+        "status": "finished",
+        "first_class": "考试听力",
+        "second_class": "初中听力",
+        "third_class": "中考听力",
+        "author": "",
+        "createdAt": "2026-09-10"
       },
       "platforms": {
         "githubRelease": {

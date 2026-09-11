@@ -35,7 +35,15 @@
         "width": 1024,
         "height": 1536
       }
-    }
+    },
+    "usedBy": "gaokao-listening-audio-v1",
+    "title": "高考听力",
+    "status": "finished",
+    "first_class": "考试听力",
+    "second_class": "高中听力",
+    "third_class": "高考听力",
+    "author": "",
+    "createdAt": "2026-09-10"
   },
   "platforms": {
     "githubRelease": {
