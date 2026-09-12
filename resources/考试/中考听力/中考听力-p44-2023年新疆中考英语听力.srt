@@ -3,397 +3,381 @@
 a. How much is the t -shirt?
 
 2
-00:00:04,470 --> 00:00:10,410
-听音选图，根据听到的句子内容选择正确的图片。
+00:00:04,470 --> 00:00:19,950
+听音选图，根据听到的句子内容选择正确的图片。每小题读两遍。
 
 3
-00:00:10,950 --> 00:00:19,950
-每小题读两遍。
-
-4
 00:00:25,740 --> 00:00:33,720
 No. 1 How much is -shirt?
 
-5
+4
 00:00:43,160 --> 00:00:49,380
 No. There is an English book on the desk.
 
-6
+5
 00:00:50,720 --> 00:01:01,480
 No. 2 There is an English book on the
 
-7
+6
 00:01:09,000 --> 00:01:16,460
 No. Sam practices playing ping pong on weekends.
 
-8
+7
 00:01:17,620 --> 00:01:26,040
 No. 3 Sam practices playing ping pong on weekends.
 
-9
+8
 00:01:34,780 --> 00:01:43,020
 No. Strawberries are my favorites.
 
-10
+9
 00:01:44,900 --> 00:01:51,020
 No. 4 Strawberries are my favorites.
 
-11
+10
 00:02:02,620 --> 00:02:07,780
 No. Look, the bus is coming.
 
-12
+11
 00:02:09,790 --> 00:02:14,720
 No. 5 Look, the bus is coming.
 
-13
+12
 00:02:16,180 --> 00:02:20,510
 b. No. Excuse me, where is the nearest bookstore?
 
+13
+00:02:20,510 --> 00:02:27,230
+情景反应，听句子，选择正确的应答。每小题读两遍。
+
 14
-00:02:20,510 --> 00:02:25,010
-情景反应，听句子，选择正确的应答。
-
-15
-00:02:25,490 --> 00:02:27,230
-每小题读两遍。
-
-16
-00:02:42,800 --> 00:02:49,800
+00:02:33,800 --> 00:02:41,060
 No. 6 Excuse me, where is the nearest bookstore?
 
-17
+15
 00:03:01,860 --> 00:03:07,920
 No. Let's make a fruit salad together.
 
-18
+16
 00:03:09,320 --> 00:03:16,300
 No. 7 Let's make a fruit salad together.
 
-19
+17
 00:03:27,660 --> 00:03:33,620
 No. Nancy, would you like something to eat?
 
-20
+18
 00:03:35,040 --> 00:03:41,960
 No. 8 Nancy, would you like something to eat?
 
-21
+19
 00:03:53,180 --> 00:03:59,580
 No. I'm going to visit the science museum.
 
-22
+20
 00:04:00,940 --> 00:04:08,380
 No. I'm going to visit the science museum.
 
-23
+21
 00:04:19,120 --> 00:04:26,800
 No. What were you doing at 9 o last night?
 
-24
+22
 00:04:28,300 --> 00:04:37,560
 No. were you doing at 9 o last night?
 
-25
+23
 00:04:40,360 --> 00:04:41,050
 c. No. It's a sunny day today, isn't it?
 
-26
-00:04:41,050 --> 00:04:46,210
-对话理解，听对话及问题，选择正确的答案。
+24
+00:04:41,050 --> 00:04:48,670
+对话理解，听对话及问题，选择正确的答案。每组对话读两遍。
 
-27
-00:04:46,810 --> 00:04:48,670
-每组对话读两遍。
-
-28
+25
 00:05:02,120 --> 00:05:03,340
 Yes, it is.
 
-29
+26
 00:05:03,580 --> 00:05:06,380
 I really enjoy the sunshine.
 
-30
+27
 00:05:10,080 --> 00:05:12,780
 How's the weather today?
 
-31
+28
 00:05:14,680 --> 00:05:17,560
 It's a sunny day today, isn't it?
 
-32
+29
 00:05:18,080 --> 00:05:19,500
 Yes, it is.
 
-33
+30
 00:05:19,660 --> 00:05:22,300
 I really enjoy the sunshine.
 
-34
+31
 00:05:23,300 --> 00:05:29,500
 Question How's the weather today?
 
-35
+32
 00:05:40,160 --> 00:05:46,220
 No. What did you do yesterday, Frank?
 
-36
+33
 00:05:46,220 --> 00:05:50,440
 I went to see a friend in hospital.
 
-37
+34
 00:05:50,920 --> 00:05:52,590
 He hurt his leg.
 
-38
+35
 00:05:54,480 --> 00:05:59,300
 Question Where did Frank go yesterday?
 
-39
+36
 00:06:01,680 --> 00:06:04,480
 What did you do yesterday, Frank?
 
-40
+37
 00:06:05,580 --> 00:06:08,720
 I went to see a friend in hospital.
 
-41
+38
 00:06:09,100 --> 00:06:11,040
 He hurt his leg.
 
-42
+39
 00:06:12,360 --> 00:06:17,780
 Question Where did Frank go yesterday?
 
-43
+40
 00:06:29,020 --> 00:06:34,680
 No. I like rock music.
 
-44
+41
 00:06:34,900 --> 00:06:36,880
 How about you, Tom?
 
-45
+42
 00:06:37,810 --> 00:06:39,380
 I don't like it.
 
-46
+43
 00:06:39,640 --> 00:06:42,080
 I like pop music best.
 
-47
+44
 00:06:43,700 --> 00:06:50,260
 Question What kind of music does Tom like best?
 
-48
+45
 00:06:52,460 --> 00:06:54,480
 I like rock music.
 
-49
+46
 00:06:54,780 --> 00:06:56,680
 How about you, Tom?
 
-50
+47
 00:06:57,380 --> 00:06:59,160
 I don't like it.
 
-51
+48
 00:06:59,420 --> 00:07:01,860
 I like pop music best.
 
-52
+49
 00:07:03,400 --> 00:07:10,060
 Question What kind of music does Tom like best?
 
-53
+50
 00:07:13,260 --> 00:07:18,640
 don't like it.
 
-54
+51
 00:07:18,680 --> 00:07:19,060
 like music best.
 
-55
+52
 00:07:21,320 --> 00:07:29,340
 No. Scott, what about going to a concert tonight?
 
-56
+53
 00:07:30,720 --> 00:07:32,280
 Sorry, I can't.
 
-57
+54
 00:07:32,460 --> 00:07:34,900
 I will prepare for a speech.
 
-58
+55
 00:07:36,380 --> 00:07:41,320
 Question What will Scott do tonight?
 
-59
+56
 00:07:43,260 --> 00:07:47,920
 Scott, what about going to a concert tonight?
 
-60
+57
 00:07:49,300 --> 00:07:50,800
 Sorry, I can't.
 
-61
+58
 00:07:51,060 --> 00:07:53,620
 I will prepare for a speech.
 
-62
+59
 00:07:55,060 --> 00:07:59,880
 Question What will Scott do tonight?
 
-63
+60
 00:08:11,440 --> 00:08:18,440
 Question 15 Rick, did you get to Shanghai by plane?
 
-64
+61
 00:08:19,560 --> 00:08:22,780
 No, I went there by train.
 
-65
+62
 00:08:24,340 --> 00:08:28,780
 Question How did Rick get to Shanghai?
 
-66
+63
 00:08:31,180 --> 00:08:34,840
 Rick, did you get to Shanghai by plane?
 
-67
+64
 00:08:35,800 --> 00:08:39,100
 No, I went there by train.
 
-68
+65
 00:08:40,380 --> 00:08:45,300
 Question How did Rick get to Shanghai?
 
-69
+66
 00:08:54,070 --> 00:08:58,390
 短文理解，听短文，选择正确的答案。
 
-70
+67
 00:08:58,860 --> 00:08:58,930
 the Family doctor in the morning.
 
-71
-00:08:58,930 --> 00:08:59,950
-短文读。
+68
+00:08:58,930 --> 00:09:00,510
+短文读。两遍。
 
-72
-00:09:00,030 --> 00:09:00,510
-两遍。
-
-73
+69
 00:09:28,340 --> 00:09:32,940
 Doctor, I want to know whether my wife's going deaf.
 
-74
+70
 00:09:33,640 --> 00:09:38,620
 The doctor answered, here's something you can test your hearing.
 
-75
+71
 00:09:39,240 --> 00:09:44,120
 Stand some meters away from her and ask her a question.
 
-76
+72
 00:09:44,860 --> 00:09:50,400
 If she doesn't answer, move a little closer and ask again.
 
-77
+73
 00:09:50,400 --> 00:09:53,560
 Keep saying it until she answers.
 
-78
+74
 00:09:54,680 --> 00:09:59,800
 Then you will be able to know whether she is deaf or not.
 
-79
+75
 00:10:00,760 --> 00:10:06,480
 The man went home and began to test his wife's hearing in the evening.
 
-80
+76
 00:10:07,380 --> 00:10:12,360
 He stood by the wall and said, my dear, what's for dinner?
 
-81
+77
 00:10:13,040 --> 00:10:15,120
 He didn't hear an answer.
 
-82
+78
 00:10:15,120 --> 00:10:20,820
 Then he moved closer to her, my dear, what's for dinner?
 
-83
+79
 00:10:21,400 --> 00:10:23,100
 Still no answer.
 
-84
+80
 00:10:23,740 --> 00:10:30,460
 He said this several times until he was standing just a few feet away from her.
 
-85
+81
 00:10:30,480 --> 00:10:38,320
 At last his wife answered, for the eleventh time, I say we will have meat and rice
 
-86
+82
 00:10:38,320 --> 00:10:46,260
 for dinner. A man was talking to his family doctor in the morning.
 
-87
+83
 00:10:47,840 --> 00:10:51,460
 I want to know whether my wife's going deaf.
 
-88
+84
 00:10:51,840 --> 00:10:56,520
 The doctor answered, here's something you can test her hearing.
 
-89
+85
 00:10:57,000 --> 00:11:01,460
 Stand some meters away from her and ask her a question.
 
-90
+86
 00:11:02,040 --> 00:11:07,320
 If she doesn't answer, move a little closer and ask again.
 
-91
+87
 00:11:07,320 --> 00:11:10,540
 Keep saying it until she answers.
 
-92
+88
 00:11:11,000 --> 00:11:15,720
 Then you will be able to know whether she is deaf or not.
 
-93
+89
 00:11:16,380 --> 00:11:21,920
 The man went home and began to test his wife's hearing in the evening.
 
-94
+90
 00:11:22,560 --> 00:11:27,320
 He stood by the wall and said, my dear, what's for dinner?
 
-95
+91
 00:11:27,800 --> 00:11:29,940
 He didn't hear an answer.
 
-96
+92
 00:11:30,160 --> 00:11:35,440
 Then he moved closer to her, my dear, what's for dinner?
 
-97
+93
 00:11:35,440 --> 00:11:37,440
 Still no answer.
 
-98
+94
 00:11:37,920 --> 00:11:44,860
 He said this several times until he was standing just a few feet away from her.
 
-99
+95
 00:11:45,360 --> 00:11:52,940
 At last his wife answered, for the eleventh time, I say we will have meat and rice
 
-100
+96
 00:11:52,940 --> 00:11:53,680
 for dinner.

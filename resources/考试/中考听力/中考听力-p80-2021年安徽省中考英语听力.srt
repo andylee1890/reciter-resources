@@ -1,487 +1,435 @@
 1
-00:00:08,910 --> 00:00:11,010
-一，短对话理解。
+00:00:08,910 --> 00:00:28,910
+一，短对话理解。你将听到五段对话，每段对话后有一个小题，请在每小题所给的。三个选项中选出一个最佳选项。每段对话读两遍。
 
 2
-00:00:11,610 --> 00:00:19,950
-你将听到五段对话，每段对话后有一个小题，请在每小题所给的。
-
-3
-00:00:22,670 --> 00:00:26,210
-三个选项中选出一个最佳选项。
-
-4
-00:00:26,750 --> 00:00:28,910
-每段对话读两遍。
-
-5
 00:00:35,660 --> 00:01:08,680
 1. 2. George, do you like playing basketball or volleyball?
 
-6
+3
 00:01:09,520 --> 00:01:12,400
 Neither, I like playing football.
 
-7
+4
 00:01:15,340 --> 00:01:20,140
 George, do you like playing basketball or volleyball?
 
-8
+5
 00:01:20,880 --> 00:01:23,640
 Neither, I like playing football.
 
-9
+6
 00:01:34,960 --> 00:01:40,940
 3. Tom, how do you go to school every day?
 
-10
+7
 00:01:41,580 --> 00:01:47,080
 I usually walk, but this morning I took a bus because of the bad weather.
 
-11
+8
 00:01:51,380 --> 00:01:53,140
 4. going to be late
 
-12
+9
 00:01:54,460 --> 00:02:00,240
 I usually walk, but this morning I took a bus because of the bad weather.
 
-13
+10
 00:02:11,760 --> 00:02:15,260
 4. Hurry up, Jack.
 
-14
+11
 00:02:15,740 --> 00:02:18,220
 We're going to be late for class.
 
-15
+12
 00:02:19,520 --> 00:02:22,160
 Don't worry, it starts at 8.30.
 
-16
+13
 00:02:22,440 --> 00:02:24,500
 We still have 15 minutes.
 
-17
+14
 00:02:36,540 --> 00:02:47,480
 5. Anything Anything stomach?
 
-18
+15
 00:02:47,480 --> 00:02:47,560
 stomach? 5. Anything
 
-19
+16
 00:02:49,900 --> 00:02:51,200
 5. Anything stomach?
 
-20
+17
 00:02:52,520 --> 00:02:53,670
 5. Anything wrong with stomach?
 
-21
+18
 00:02:55,070 --> 00:02:59,530
 Nothing serious. Take the medicine three times a day.
 
-22
+19
 00:03:00,250 --> 00:03:03,310
 Come back and have a check again next Monday.
 
-23
+20
 00:03:07,150 --> 00:03:08,670
 5. wrong with my stomach?
 
-24
+21
 00:03:09,430 --> 00:03:13,730
 5. serious. Take the medicine three times a day.
 
-25
+22
 00:03:14,290 --> 00:03:17,390
 Come back and have a check again next Monday.
 
-26
-00:03:22,370 --> 00:03:24,590
-二，长对话理解。
+23
+00:03:22,370 --> 00:03:47,350
+二，长对话理解。你将听到两段对话，每段对话后有几个小题，请在每小题所给的三个选项中选出一个最佳选项。每段对话读两遍。听下面一段对话，回答第六七题。
 
-27
-00:03:25,190 --> 00:03:33,170
-你将听到两段对话，每段对话后有几个小题，请在每小题所给的
-
-28
-00:03:36,050 --> 00:03:39,950
-三个选项中选出一个最佳选项。
-
-29
-00:03:40,210 --> 00:03:42,310
-每段对话读两遍。
-
-30
-00:03:43,510 --> 00:03:47,350
-听下面一段对话，回答第六七题。
-
-31
+24
 00:03:49,610 --> 00:03:50,370
 5. wrong my stomach?
 
-32
+25
 00:03:52,490 --> 00:03:53,590
 5. wrong 5.
 
-33
+26
 00:03:53,590 --> 00:03:55,490
 wrong with stomach?
 
-34
+27
 00:03:58,610 --> 00:04:00,390
 Can I help you, sir?
 
-35
+28
 00:04:00,830 --> 00:04:03,770
 I'm looking for a coat for myself.
 
-36
+29
 00:04:04,430 --> 00:04:06,150
 What color do you like?
 
-37
+30
 00:04:06,770 --> 00:04:09,110
 I'd like something gray or black.
 
-38
+31
 00:04:09,910 --> 00:04:11,450
 What about this one?
 
-39
+32
 00:04:11,530 --> 00:04:13,510
 It matches your white shirt.
 
-40
+33
 00:04:14,210 --> 00:04:15,490
 I like it.
 
-41
+34
 00:04:15,570 --> 00:04:16,770
 May I try it on?
 
-42
+35
 00:04:17,410 --> 00:04:19,790
 Of course. This way, please.
 
-43
+36
 00:04:23,490 --> 00:04:24,550
 Can I help you, sir?
 
-44
+37
 00:04:25,010 --> 00:04:27,890
 I'm looking for a coat for myself.
 
-45
+38
 00:04:28,670 --> 00:04:30,290
 What color do you like?
 
-46
+39
 00:04:30,990 --> 00:04:33,310
 I'd like something gray or black.
 
-47
+40
 00:04:34,010 --> 00:04:35,390
 What about this one?
 
-48
+41
 00:04:35,690 --> 00:04:37,650
 It matches your white shirt.
 
-49
+42
 00:04:38,310 --> 00:04:39,590
 I like it.
 
-50
+43
 00:04:39,690 --> 00:04:40,930
 May I try it on?
 
-51
+44
 00:04:41,570 --> 00:04:43,910
 Of course. This way, please.
 
-52
+45
 00:04:53,950 --> 00:04:58,270
 听下面一段对话，回答第八至十题。
 
-53
+46
 00:05:25,350 --> 00:05:29,070
 Great. are you going to do this weekend?
 
-54
+47
 00:05:29,770 --> 00:05:31,970
 I'm going for a picnic with my cousin.
 
-55
+48
 00:05:32,590 --> 00:05:33,570
 What about you?
 
-56
+49
 00:05:34,430 --> 00:05:36,970
 I'm planning to get a part -time job.
 
-57
+50
 00:05:37,430 --> 00:05:38,650
 A part -time job?
 
-58
+51
 00:05:39,290 --> 00:05:44,970
 Yes. I want to buy a scarf for my father and a watch for my mother.
 
-59
+52
 00:05:45,510 --> 00:05:47,290
 Also, I need a hat.
 
-60
+53
 00:05:47,290 --> 00:05:54,290
 A nice plan, but it might be better to put it off till this summer vacation.
 
-61
+54
 00:05:55,030 --> 00:05:57,070
 You'll have more time then.
 
-62
+55
 00:05:57,650 --> 00:05:59,440
 Good idea. I will.
 
-63
+56
 00:06:02,910 --> 00:06:05,610
 Haven't got sunny days for so long.
 
-64
+57
 00:06:06,070 --> 00:06:08,610
 I wonder when the rain will stop.
 
-65
+58
 00:06:09,170 --> 00:06:12,450
 The weather report says it will be sunny this weekend.
 
-66
+59
 00:06:13,110 --> 00:06:16,750
 Great. What are you going to do this weekend?
 
-67
+60
 00:06:16,750 --> 00:06:19,570
 I'm going for a picnic with my cousin.
 
-68
+61
 00:06:20,210 --> 00:06:21,650
 What about you?
 
-69
+62
 00:06:22,150 --> 00:06:24,650
 I'm planning to get a part -time job.
 
-70
+63
 00:06:25,230 --> 00:06:26,270
 part -time job?
 
-71
+64
 00:06:26,930 --> 00:06:32,610
 Yes. I want to buy a scarf for my father and a watch for my mother.
 
-72
+65
 00:06:33,110 --> 00:06:34,870
 Also, I need a hat.
 
-73
+66
 00:06:35,930 --> 00:06:41,810
 A nice plan, but it might be better to put it off till this summer vacation.
 
-74
+67
 00:06:42,290 --> 00:06:44,810
 You'll have more time then.
 
-75
+68
 00:06:44,810 --> 00:06:47,250
 Good idea. I will.
 
-76
-00:07:02,070 --> 00:07:03,930
-三，短文理解。
+69
+00:07:02,070 --> 00:07:22,130
+三，短文理解。你将听到一篇短文，短文后有五个小题，请根据短文内容，在每小题所给三个选项中选出一个最佳选项。短文读两遍。
 
-77
-00:07:04,590 --> 00:07:13,470
-你将听到一篇短文，短文后有五个小题，请根据短文内容，在每小题所给
-
-78
-00:07:16,530 --> 00:07:19,950
-三个选项中选出一个最佳选项。
-
-79
-00:07:20,510 --> 00:07:22,130
-短文读两遍。
-
-80
+70
 00:07:48,810 --> 00:07:52,550
 Last month, our school held a speech competition.
 
-81
+71
 00:07:53,310 --> 00:07:56,210
 It was about the development of our motherland.
 
-82
+72
 00:07:56,910 --> 00:07:58,550
 It lasted three days.
 
-83
+73
 00:07:59,410 --> 00:08:03,510
 My classmate, Li took part in it for our class.
 
-84
+74
 00:08:04,270 --> 00:08:10,510
 Before the competition, he was nervous because he didn't know how to prepare for it.
 
-85
+75
 00:08:10,510 --> 00:08:15,990
 Our English teacher told him to search for information on the Internet.
 
-86
+76
 00:08:16,930 --> 00:08:23,090
 Thanks to his suggestion, Li got to know more about the development of our
 
-87
+77
 00:08:23,090 --> 00:08:29,250
 motherland. He was surprised at her great changes and felt proud.
 
-88
+78
 00:08:29,830 --> 00:08:35,450
 He spent five days preparing for it and finally won first prize.
 
-89
+79
 00:08:35,950 --> 00:08:38,910
 Li Hua was very happy about the result.
 
-90
+80
 00:08:42,270 --> 00:08:46,070
 Last month, our school held a speech competition.
 
-91
+81
 00:08:46,910 --> 00:08:49,690
 It was about the development of our motherland.
 
-92
+82
 00:08:50,510 --> 00:08:52,050
 It lasted three days.
 
-93
+83
 00:08:52,950 --> 00:08:56,970
 My classmate, Li took part in it for our class.
 
-94
+84
 00:08:57,790 --> 00:09:04,030
 Before the competition, he was nervous because he didn't know how to prepare for it.
 
-95
+85
 00:09:04,030 --> 00:09:09,470
 Our English teacher told him to search for information on the Internet.
 
-96
+86
 00:09:10,410 --> 00:09:16,570
 Thanks to his suggestion, Li got to know more about the development of our
 
-97
+87
 00:09:16,570 --> 00:09:22,750
 motherland. He was surprised at her great changes and felt proud.
 
-98
+88
 00:09:23,350 --> 00:09:28,970
 He spent five days preparing for it and finally won first prize.
 
-99
+89
 00:09:29,290 --> 00:09:32,390
 Li Hua was very happy about the result.
 
-100
+90
 00:09:34,030 --> 00:09:57,490
 Thanks Thank you watching.
 
-101
-00:09:57,490 --> 00:09:59,350
-四、信息转换。
+91
+00:09:57,490 --> 00:10:12,150
+四、信息转换。你将听到一篇短文，请根据短文内容写出下面表格中所缺的单词，每空仅填一词。短文读两遍。
 
-102
-00:10:00,090 --> 00:10:09,030
-你将听到一篇短文，请根据短文内容写出下面表格中所缺的单词，每空仅
-
-103
-00:10:09,150 --> 00:10:09,930
-填一词。
-
-104
-00:10:10,590 --> 00:10:12,150
-短文读两遍。
-
-105
+92
 00:10:38,710 --> 00:10:41,150
 There are many ways to show love.
 
-106
+93
 00:10:41,730 --> 00:10:45,470
 You may give small gifts like cards, flowers, and candies.
 
-107
+94
 00:10:45,910 --> 00:10:47,670
 That connects you and others.
 
-108
+95
 00:10:48,270 --> 00:10:51,410
 Sometimes you may show love by encouraging others.
 
-109
+96
 00:10:51,990 --> 00:10:56,490
 Words like I believe in you or you can make it will give them hope.
 
-110
+97
 00:10:56,490 --> 00:11:01,890
 In some situations, you may show love by offering to help with something.
 
-111
+98
 00:11:02,290 --> 00:11:04,530
 That means you are a warm person.
 
-112
+99
 00:11:05,110 --> 00:11:08,150
 What's more, you may ask for advice to show love.
 
-113
+100
 00:11:08,330 --> 00:11:11,290
 That makes people feel you trust them.
 
-114
+101
 00:11:15,830 --> 00:11:20,770
 You may give small gifts like cards, flowers, and candies.
 
-115
+102
 00:11:21,330 --> 00:11:23,010
 That connects you and others.
 
-116
+103
 00:11:23,710 --> 00:11:26,710
 Sometimes you may show love by encouraging others.
 
-117
+104
 00:11:27,270 --> 00:11:31,750
 Words like I believe in you or you can make it will give them hope.
 
-118
+105
 00:11:31,750 --> 00:11:37,090
 In some situations, you may show love by offering to help with something.
 
-119
+106
 00:11:37,570 --> 00:11:39,690
 That means you are a warm person.
 
-120
+107
 00:11:40,230 --> 00:11:43,510
 What's more, you may ask for advice to show love.
 
-121
+108
 00:11:43,630 --> 00:11:46,110
 That makes people feel you trust them.
 
-122
+109
 00:12:15,290 --> 00:12:18,150
 Thank you for watching.

@@ -1,791 +1,759 @@
 1
-00:00:00,810 --> 00:00:08,910
-根据你听到的内容，选出相应的图片，并在答题纸上填涂相应的字母代号
+00:00:00,810 --> 00:00:11,850
+根据你听到的内容，选出相应的图片，并在答题纸上填涂相应的字母代号每个句子念两遍。
 
 2
-00:00:09,810 --> 00:00:11,850
-每个句子念两遍。
-
-3
 00:00:12,860 --> 00:00:19,620
 1. The little girl enjoys planting flowers in her garden.
 
-4
+3
 00:00:20,620 --> 00:00:25,860
 The little girl enjoys planting flowers in her garden.
 
-5
+4
 00:00:28,500 --> 00:00:35,340
 2. Be careful not to get hurt when you play football.
 
-6
+5
 00:00:36,480 --> 00:00:40,260
 Be careful not to get hurt when you play football.
 
-7
+6
 00:00:43,280 --> 00:00:50,780
 3. George is always ready to help his classmates solve problems.
 
-8
+7
 00:00:50,780 --> 00:00:59,780
 George is always ready to help his classmates solve problems.
 
-9
+8
 00:01:03,180 --> 00:01:08,100
 Direction signs can be useful when you want to find a place.
 
-10
+9
 00:01:08,800 --> 00:01:13,900
 Direction signs can be useful when you want to find a place.
 
-11
+10
 00:01:16,640 --> 00:01:23,100
 5. We took part in the dragon boat race last year.
 
-12
+11
 00:01:23,180 --> 00:01:28,300
 We took part in the dragon boat race last year.
 
-13
+12
 00:01:31,020 --> 00:01:37,860
 6. My grandpa's singing group will give a performance in the neighborhood.
 
-14
+13
 00:01:37,860 --> 00:01:47,920
 My grandpa's singing group will give a performance in the neighborhood.
 
+14
+00:01:49,570 --> 00:01:59,950
+根据你听到的对话和问题，选出最恰当的答案，并在答题纸上填涂相应的字母代号。对话。
+
 15
-00:01:49,570 --> 00:01:57,490
-根据你听到的对话和问题，选出最恰当的答案，并在答题纸上填涂相应的
-
-16
-00:01:57,730 --> 00:01:58,570
-字母代号。
-
-17
-00:01:59,350 --> 00:01:59,950
-对话。
-
-18
 00:02:01,860 --> 00:02:07,200
 7. Hi Jason, are you drawing a cartoon?
 
-19
+16
 00:02:08,240 --> 00:02:11,600
 No, I'm writing a play.
 
-20
+17
 00:02:12,580 --> 00:02:14,400
 This is my new hobby.
 
-21
+18
 00:02:15,020 --> 00:02:19,720
 Question. What is the man's new hobby?
 
-22
+19
 00:02:21,050 --> 00:02:22,130
 再听一遍。
 
-23
+20
 00:02:22,800 --> 00:02:26,080
 Hi Jason, are you drawing a cartoon?
 
-24
+21
 00:02:26,080 --> 00:02:30,880
 No, I'm writing a play.
 
-25
+22
 00:02:31,640 --> 00:02:33,320
 This is my new hobby.
 
-26
+23
 00:02:35,760 --> 00:02:38,400
 What is the man's new hobby?
 
-27
+24
 00:02:44,620 --> 00:02:48,920
 8. David, can you speak Japanese?
 
-28
+25
 00:02:48,920 --> 00:02:50,980
 Yes, I can.
 
-29
+26
 00:02:51,980 --> 00:02:58,920
 the 20 shop assistants in our store, six can speak a foreign language.
 
-30
+27
 00:02:59,900 --> 00:03:08,160
 Question. How many shop assistants in David's store can speak a foreign language?
 
-31
+28
 00:03:08,970 --> 00:03:10,530
 再听一遍。
 
-32
+29
 00:03:11,280 --> 00:03:14,200
 David, can you speak Japanese?
 
-33
+30
 00:03:14,200 --> 00:03:16,580
 Yes, I can.
 
-34
+31
 00:03:17,260 --> 00:03:20,760
 the 20 shop assistants in our store,
 
-35
+32
 00:03:21,500 --> 00:03:24,580
 six can speak a foreign language.
 
-36
+33
 00:03:25,160 --> 00:03:33,460
 Question. How many shop assistants in David's store can speak a foreign language?
 
-37
+34
 00:03:39,100 --> 00:03:44,480
 9. The trip to the National Park was interesting.
 
-38
+35
 00:03:45,140 --> 00:03:47,920
 I enjoyed the activities there.
 
-39
+36
 00:03:48,140 --> 00:03:50,080
 It was boring.
 
-40
+37
 00:03:50,380 --> 00:03:53,440
 I had been there twice before.
 
-41
+38
 00:03:54,200 --> 00:04:00,460
 Question. How does the woman like the trip to the National Park?
 
-42
+39
 00:04:01,890 --> 00:04:02,970
 再听一遍。
 
-43
+40
 00:04:03,700 --> 00:04:07,260
 The trip to the National Park was interesting.
 
-44
+41
 00:04:07,820 --> 00:04:10,620
 I enjoyed the activities there.
 
-45
+42
 00:04:11,640 --> 00:04:12,880
 It was boring.
 
-46
+43
 00:04:13,180 --> 00:04:16,140
 I had been there twice before.
 
-47
+44
 00:04:17,200 --> 00:04:23,240
 Question. How does the woman like the trip to the National Park?
 
-48
+45
 00:04:24,280 --> 00:04:33,780
 10. Is your birthday in April, Jessica?
 
-49
+46
 00:04:34,580 --> 00:04:38,420
 No, it's on June 2nd.
 
-50
+47
 00:04:38,420 --> 00:04:43,560
 But this year, I celebrated my birthday on June 1st, Children's Day.
 
-51
+48
 00:04:44,240 --> 00:04:47,920
 Question. When is Jessica's birthday?
 
-52
+49
 00:04:49,030 --> 00:04:50,350
 请再听一遍。
 
-53
+50
 00:04:50,540 --> 00:04:54,200
 Is your birthday in April, Jessica?
 
-54
+51
 00:04:54,980 --> 00:04:58,820
 No, it's on June 2nd.
 
-55
+52
 00:04:58,820 --> 00:05:03,940
 But this year, I celebrated my birthday on June 1st, Children's Day.
 
-56
+53
 00:05:04,680 --> 00:05:08,280
 Question. When is Jessica's birthday?
 
-57
+54
 00:05:14,180 --> 00:05:20,400
 11. I heard that you moved from the city to the country last year.
 
-58
+55
 00:05:21,140 --> 00:05:25,720
 Yes. I wanted to live near my office.
 
-59
+56
 00:05:26,420 --> 00:05:30,620
 Now, it takes me only 10 minutes to get there.
 
-60
+57
 00:05:31,040 --> 00:05:35,960
 Well, I prefer to live in the city, close to my friends.
 
-61
+58
 00:05:35,960 --> 00:05:41,940
 Question. Why did the man move to the country?
 
-62
+59
 00:05:42,370 --> 00:05:43,990
 请再听一遍。
 
-63
+60
 00:05:44,740 --> 00:05:49,040
 I heard that you moved from the city to the country last year.
 
-64
+61
 00:05:49,940 --> 00:05:54,440
 Yes. I wanted to live near my office.
 
-65
+62
 00:05:55,240 --> 00:05:59,260
 Now, it takes me only 10 minutes to get there.
 
-66
+63
 00:05:59,880 --> 00:06:04,660
 Well, I prefer to live in the city, close to my friends.
 
-67
+64
 00:06:04,660 --> 00:06:13,560
 Question. Why did the man move to the country?
 
-68
+65
 00:06:16,160 --> 00:06:19,240
 12. I'm sorry, sir.
 
-69
+66
 00:06:19,600 --> 00:06:22,900
 Your flight left 15 minutes ago.
 
-70
+67
 00:06:23,480 --> 00:06:28,900
 Oh, no. I have a lecture to give at 2.30 this afternoon.
 
-71
+68
 00:06:29,480 --> 00:06:31,420
 What can I do now?
 
-72
+69
 00:06:31,420 --> 00:06:36,760
 You can go to Gate 5 to change your flight.
 
-73
+70
 00:06:37,540 --> 00:06:39,420
 The service center is there.
 
-74
+71
 00:06:40,680 --> 00:06:44,440
 Question. Where is the service center?
 
-75
+72
 00:06:45,250 --> 00:06:46,870
 请再听一遍。
 
-76
+73
 00:06:47,740 --> 00:06:48,960
 I'm sorry, sir.
 
-77
+74
 00:06:49,460 --> 00:06:52,500
 Your flight left 15 minutes ago.
 
-78
+75
 00:06:52,500 --> 00:06:58,680
 no. I have a lecture to give at 2.30 this afternoon.
 
-79
+76
 00:06:59,600 --> 00:07:01,160
 What can I do now?
 
-80
+77
 00:07:02,260 --> 00:07:06,540
 can go to Gate 5 to change your flight.
 
-81
+78
 00:07:07,260 --> 00:07:09,860
 The service center is there.
 
-82
+79
 00:07:10,480 --> 00:07:14,260
 Question. Where is the service center?
 
-83
+80
 00:07:20,160 --> 00:07:24,060
 13. would you like for dinner?
 
-84
+81
 00:07:24,760 --> 00:07:28,600
 I can cook some noodles or fried chicken.
 
-85
+82
 00:07:29,300 --> 00:07:33,880
 Well, if you don't mind cooking, noodles sound great.
 
-86
+83
 00:07:34,340 --> 00:07:36,480
 I like simple food.
 
-87
+84
 00:07:36,960 --> 00:07:41,520
 Question. What are the two speakers talking about?
 
-88
+85
 00:07:43,090 --> 00:07:43,990
 再听一遍。
 
-89
+86
 00:07:44,320 --> 00:07:46,700
 14. would you like for dinner?
 
-90
+87
 00:07:47,500 --> 00:07:51,300
 can cook some noodles or fried chicken.
 
-91
+88
 00:07:52,040 --> 00:07:56,500
 Well, if you don't mind cooking, noodles sound great.
 
-92
+89
 00:07:57,040 --> 00:07:59,140
 I like simple food.
 
-93
+90
 00:08:00,300 --> 00:08:04,200
 Question. What are the two speakers talking about?
 
-94
+91
 00:08:10,420 --> 00:08:14,680
 14. Did you stay up last night, Peter?
 
-95
+92
 00:08:15,400 --> 00:08:17,000
 You look pale.
 
-96
+93
 00:08:18,160 --> 00:08:19,700
 I'm not feeling well.
 
-97
+94
 00:08:20,380 --> 00:08:22,720
 I have a headache, Miss Green.
 
-98
+95
 00:08:23,520 --> 00:08:28,020
 Don't worry. Stay in the classroom and I'll call your mom.
 
-99
+96
 00:08:28,020 --> 00:08:35,760
 Question. What is the probable relationship between the two speakers?
 
-100
+97
 00:08:39,040 --> 00:08:41,500
 Did you stay up last night, Peter?
 
-101
+98
 00:08:42,220 --> 00:08:43,800
 You look pale.
 
-102
+99
 00:08:45,020 --> 00:08:46,560
 I'm not feeling well.
 
-103
+100
 00:08:47,180 --> 00:08:49,520
 I have a headache, Miss Green.
 
-104
+101
 00:08:50,320 --> 00:08:56,560
 Don't worry. Stay in the classroom and I'll call your Question.
 
-105
+102
 00:08:57,440 --> 00:09:02,500
 What is the probable relationship between the two speakers?
 
-106
-00:09:10,230 --> 00:09:14,130
-判断句子是否符合你听到的短文内容，
+103
+00:09:10,230 --> 00:09:28,370
+判断句子是否符合你听到的短文内容，符合的用表示，不符合的用表示，并在答题纸上填涂相应的字母代号。短文念两遍：“
 
-107
-00:09:14,790 --> 00:09:15,690
-符合的用
-
-108
-00:09:16,650 --> 00:09:19,110
-表示，不符合的用
-
-109
-00:09:20,150 --> 00:09:25,010
-表示，并在答题纸上填涂相应的字母代号。
-
-110
-00:09:25,790 --> 00:09:28,370
-短文念两遍：“
-
-111
+104
 00:09:29,460 --> 00:09:31,720
 do you prefer to see?
 
-112
+105
 00:09:31,720 --> 00:09:36,020
 A baby panda or a snake?
 
-113
+106
 00:09:37,200 --> 00:09:41,720
 Most people choose cute animals like pandas.
 
-114
+107
 00:09:43,420 --> 00:09:49,180
 So cute animals usually get more attention than animals like snakes.
 
-115
+108
 00:09:50,940 --> 00:09:53,060
 Why don't people like snakes?
 
-116
+109
 00:09:53,960 --> 00:09:55,900
 The reason is simple.
 
-117
+110
 00:09:56,480 --> 00:09:58,620
 They're just not cute.
 
-118
+111
 00:09:59,700 --> 00:10:07,620
 Lucy wants to show people the importance of less cute animals, too.
 
-119
+112
 00:10:07,960 --> 00:10:09,020
 Who is Lucy?
 
-120
+113
 00:10:10,200 --> 00:10:14,560
 She is a scientist who studies animals.
 
-121
+114
 00:10:15,900 --> 00:10:22,680
 Lucy is especially interested in snakes because many of them are in danger of
 
-122
+115
 00:10:22,680 --> 00:10:26,680
 disappearing and she wants to save them.
 
-123
+116
 00:10:26,680 --> 00:10:33,900
 Lucy thinks people can find many television shows about cute animals.
 
-124
+117
 00:10:34,160 --> 00:10:43,080
 So she writes stories on her website about less cute animals like snakes in order to
 
-125
+118
 00:10:43,080 --> 00:10:45,360
 get people interested in them.
 
-126
+119
 00:10:46,040 --> 00:10:51,860
 She also makes videos about these animals and puts them online.
 
-127
+120
 00:10:51,860 --> 00:10:55,800
 People love her fun videos.
 
-128
+121
 00:10:56,920 --> 00:11:01,040
 Every animal is important in keeping the balance of nature.
 
-129
+122
 00:11:02,080 --> 00:11:06,380
 If we save snakes, we save other animals, too.
 
-130
+123
 00:11:07,540 --> 00:11:14,580
 We need to think about the future of all animals and respect all animals.
 
-131
+124
 00:11:15,480 --> 00:11:18,020
 Every single life matters.
 
-132
+125
 00:11:20,760 --> 00:11:21,950
 Please Which animal do you prefer to see?
 
-133
+126
 00:11:21,950 --> 00:11:23,030
 再听一遍。
 
-134
+127
 00:11:27,780 --> 00:11:30,580
 A baby panda or a snake?
 
-135
+128
 00:11:31,480 --> 00:11:35,500
 Most people choose cute animals like pandas.
 
-136
+129
 00:11:36,320 --> 00:11:42,220
 So cute animals usually get more attention than animals like snakes.
 
-137
+130
 00:11:43,120 --> 00:11:45,120
 Why don't people like snakes?
 
-138
+131
 00:11:45,120 --> 00:11:47,680
 The reason is simple.
 
-139
+132
 00:11:47,880 --> 00:11:50,060
 They're just not cute.
 
-140
+133
 00:11:51,220 --> 00:11:58,380
 Lucy wants to show people the importance of less cute animals, too.
 
-141
+134
 00:11:58,640 --> 00:11:59,540
 Who is Lucy?
 
-142
+135
 00:12:00,680 --> 00:12:04,640
 She is a scientist who studies animals.
 
-143
+136
 00:12:05,640 --> 00:12:13,240
 Lucy is especially interested in snakes because many of them are in danger of
 
-144
+137
 00:12:13,240 --> 00:12:18,100
 disappearing and she wants to save them.
 
-145
+138
 00:12:18,880 --> 00:12:24,860
 Lucy thinks people can find many television shows about cute animals.
 
-146
+139
 00:12:24,860 --> 00:12:34,300
 So she writes stories on her website about less cute animals like snakes in order to
 
-147
+140
 00:12:34,300 --> 00:12:36,580
 get people interested in them.
 
-148
+141
 00:12:36,760 --> 00:12:42,680
 She also makes videos about these animals and puts them online.
 
-149
+142
 00:12:43,380 --> 00:12:46,440
 People love her fun videos.
 
-150
+143
 00:12:47,540 --> 00:12:52,360
 Every animal is important in keeping the balance of nature.
 
-151
+144
 00:12:52,360 --> 00:12:57,820
 If we save snakes, we save other animals, too.
 
-152
+145
 00:12:58,600 --> 00:13:06,340
 We need to think about the future of all animals and respect all animals.
 
-153
+146
 00:13:07,120 --> 00:13:10,120
 Every single life matters.
 
-154
+147
 00:13:19,740 --> 00:13:22,070
 D I'm so glad you are finally home,
 
-155
-00:13:22,070 --> 00:13:25,850
-听对话，用听到的单词完成句子。
+148
+00:13:22,070 --> 00:13:28,190
+听对话，用听到的单词完成句子。对话念两遍。
 
-156
-00:13:26,510 --> 00:13:28,190
-对话念两遍。
-
-157
+149
 00:13:34,180 --> 00:13:36,040
 I missed you, Alex.
 
-158
+150
 00:13:36,660 --> 00:13:39,360
 It's been about one month.
 
-159
+151
 00:13:39,360 --> 00:13:42,520
 I'm so happy to be back.
 
-160
+152
 00:13:43,240 --> 00:13:49,920
 look tired, I guess you've had hard days at work, haven't you?
 
-161
+153
 00:13:51,100 --> 00:13:52,960
 Yes, I have.
 
-162
+154
 00:13:54,200 --> 00:14:00,340
 is no easy job, but I like to look after patients.
 
-163
+155
 00:14:01,120 --> 00:14:07,720
 I guess you need to do a lot of things like taking temperatures, visiting patients
 
-164
+156
 00:14:07,720 --> 00:14:13,560
 regularly, and making sure that they take medicine on time.
 
-165
+157
 00:14:14,000 --> 00:14:18,320
 Right. Besides, I have other important duties.
 
-166
+158
 00:14:18,900 --> 00:14:20,860
 You do? Sure.
 
-167
+159
 00:14:21,600 --> 00:14:28,520
 Today, we had several operations and I cleaned up the emergency room for a few
 
-168
+160
 00:14:28,520 --> 00:14:37,180
 hours. Sometimes, we have a talk with patients, even their family members, to make
 
-169
+161
 00:14:37,180 --> 00:14:38,660
 them feel better.
 
-170
+162
 00:14:39,220 --> 00:14:43,460
 And we tell patients how to work with doctors.
 
-171
+163
 00:14:44,560 --> 00:14:46,000
 I didn't know that.
 
-172
+164
 00:14:46,180 --> 00:14:48,200
 I'm proud of you, Mum.
 
-173
+165
 00:14:48,680 --> 00:14:50,720
 You helped save lives.
 
-174
+166
 00:14:51,360 --> 00:14:54,860
 How great! Thank you, Alex.
 
-175
+167
 00:14:55,040 --> 00:14:56,580
 That's so sweet.
 
-176
+168
 00:14:59,540 --> 00:15:00,570
 Please I'm so glad you are finally home, Mum.
 
-177
+169
 00:15:00,570 --> 00:15:01,590
 再听一遍。
 
-178
+170
 00:15:07,640 --> 00:15:09,380
 I missed you, Alex.
 
-179
+171
 00:15:10,100 --> 00:15:12,640
 It's been about one month.
 
-180
+172
 00:15:13,320 --> 00:15:15,600
 I'm so happy to be back.
 
-181
+173
 00:15:16,380 --> 00:15:18,200
 You look tired, Mum.
 
-182
+174
 00:15:18,780 --> 00:15:23,240
 I guess you've had hard days at work, haven't you?
 
-183
+175
 00:15:24,240 --> 00:15:26,420
 Yes, I have.
 
-184
+176
 00:15:27,520 --> 00:15:33,700
 is no easy job, but I like to look after patients.
 
-185
+177
 00:15:34,760 --> 00:15:41,040
 I guess you need to do a lot of things like taking temperatures, visiting patients
 
-186
+178
 00:15:41,040 --> 00:15:46,800
 regularly, and making sure that they take medicine on time.
 
-187
+179
 00:15:47,380 --> 00:15:51,660
 Right. Besides, I have other important duties.
 
-188
+180
 00:15:51,660 --> 00:15:54,220
 You do? Sure.
 
-189
+181
 00:15:54,980 --> 00:16:01,860
 Today, we had several operations and I cleaned up the emergency room for a few
 
-190
+182
 00:16:01,860 --> 00:16:06,600
 hours. Sometimes, we have a talk with patients,
 
-191
+183
 00:16:07,340 --> 00:16:11,880
 even their family members, to make them feel better.
 
-192
+184
 00:16:12,500 --> 00:16:16,780
 And we tell patients how to work with doctors.
 
-193
+185
 00:16:16,780 --> 00:16:19,520
 I didn't know that.
 
-194
+186
 00:16:19,900 --> 00:16:21,540
 I'm proud of you, Mum.
 
-195
+187
 00:16:22,380 --> 00:16:24,120
 You helped save lives.
 
-196
+188
 00:16:24,900 --> 00:16:28,180
 How great! Thank you, Alex.
 
-197
+189
 00:16:28,520 --> 00:16:30,080
 That's so sweet.
 
-198
+190
 00:16:33,770 --> 00:16:38,750
 关注公众微信，上海办学，海量资源陪伴升学之路。
