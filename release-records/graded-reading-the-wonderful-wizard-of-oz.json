@@ -1,0 +1,500 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-12T06:32:58.347346Z",
+  "tag": "graded-reading-the-wonderful-wizard-of-oz",
+  "title": "绿野仙踪 (The Wonderful Wizard of Oz)",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/reading/The Wonderful Wizard of Oz",
+  "createdAt": "2026-09-12 14:32:43 +0800",
+  "poster": {
+    "id": "the-wonderful-wizard-of-oz",
+    "kind": "book-cover",
+    "sourceType": "prepared-cover",
+    "original": {
+      "path": "artwork/posters/the-wonderful-wizard-of-oz.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-wonderful-wizard-of-oz.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-wonderful-wizard-of-oz.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/the-wonderful-wizard-of-oz.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-wonderful-wizard-of-oz.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-wonderful-wizard-of-oz.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "sourceSize": {
+        "width": 371,
+        "height": 475
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-wonderful-wizard-of-oz"
+    },
+    "mirrors": []
+  },
+  "audioCount": 25,
+  "totalSizeMiB": 294.41,
+  "audio": [
+    {
+      "name": "001-00-Introduction.mp3",
+      "sizeMiB": 2.08,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/001-00-Introduction.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/001-00-Introduction.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/001-00-Introduction.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/001-00-Introduction.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/001-00-Introduction.recx"
+        }
+      }
+    },
+    {
+      "name": "002-01-The Cyclone.mp3",
+      "sizeMiB": 8.24,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/002-01-The.Cyclone.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/002-01-The%20Cyclone.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/002-01-The%20Cyclone.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/002-01-The%20Cyclone.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/002-01-The%20Cyclone.recx"
+        }
+      }
+    },
+    {
+      "name": "003-02-The Council with the Munchkins.mp3",
+      "sizeMiB": 14.1,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/003-02-The.Council.with.the.Munchkins.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/003-02-The%20Council%20with%20the%20Munchkins.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/003-02-The%20Council%20with%20the%20Munchkins.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/003-02-The%20Council%20with%20the%20Munchkins.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/003-02-The%20Council%20with%20the%20Munchkins.recx"
+        }
+      }
+    },
+    {
+      "name": "004-03-How Dorothy Saved the Scarecrow.mp3",
+      "sizeMiB": 13.83,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/004-03-How.Dorothy.Saved.the.Scarecrow.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/004-03-How%20Dorothy%20Saved%20the%20Scarecrow.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/004-03-How%20Dorothy%20Saved%20the%20Scarecrow.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/004-03-How%20Dorothy%20Saved%20the%20Scarecrow.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/004-03-How%20Dorothy%20Saved%20the%20Scarecrow.recx"
+        }
+      }
+    },
+    {
+      "name": "005-04-The Road Through the Forest.mp3",
+      "sizeMiB": 10.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/005-04-The.Road.Through.the.Forest.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/005-04-The%20Road%20Through%20the%20Forest.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/005-04-The%20Road%20Through%20the%20Forest.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/005-04-The%20Road%20Through%20the%20Forest.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/005-04-The%20Road%20Through%20the%20Forest.recx"
+        }
+      }
+    },
+    {
+      "name": "006-05-The Rescue of the Tin Woodman.mp3",
+      "sizeMiB": 14.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/006-05-The.Rescue.of.the.Tin.Woodman.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/006-05-The%20Rescue%20of%20the%20Tin%20Woodman.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/006-05-The%20Rescue%20of%20the%20Tin%20Woodman.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/006-05-The%20Rescue%20of%20the%20Tin%20Woodman.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/006-05-The%20Rescue%20of%20the%20Tin%20Woodman.recx"
+        }
+      }
+    },
+    {
+      "name": "007-06-The Cowardly Lion.mp3",
+      "sizeMiB": 11.66,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/007-06-The.Cowardly.Lion.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/007-06-The%20Cowardly%20Lion.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/007-06-The%20Cowardly%20Lion.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/007-06-The%20Cowardly%20Lion.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/007-06-The%20Cowardly%20Lion.recx"
+        }
+      }
+    },
+    {
+      "name": "008-07-The Journey to the Great Oz.mp3",
+      "sizeMiB": 13.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/008-07-The.Journey.to.the.Great.Oz.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/008-07-The%20Journey%20to%20the%20Great%20Oz.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/008-07-The%20Journey%20to%20the%20Great%20Oz.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/008-07-The%20Journey%20to%20the%20Great%20Oz.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/008-07-The%20Journey%20to%20the%20Great%20Oz.recx"
+        }
+      }
+    },
+    {
+      "name": "009-08-The Deadly Poppy Field.mp3",
+      "sizeMiB": 14.37,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/009-08-The.Deadly.Poppy.Field.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/009-08-The%20Deadly%20Poppy%20Field.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/009-08-The%20Deadly%20Poppy%20Field.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/009-08-The%20Deadly%20Poppy%20Field.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/009-08-The%20Deadly%20Poppy%20Field.recx"
+        }
+      }
+    },
+    {
+      "name": "010-09-The Queen of the Field Mice.mp3",
+      "sizeMiB": 10.63,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/010-09-The.Queen.of.the.Field.Mice.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/010-09-The%20Queen%20of%20the%20Field%20Mice.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/010-09-The%20Queen%20of%20the%20Field%20Mice.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/010-09-The%20Queen%20of%20the%20Field%20Mice.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/010-09-The%20Queen%20of%20the%20Field%20Mice.recx"
+        }
+      }
+    },
+    {
+      "name": "011-10-The Guardian of the Gates.mp3",
+      "sizeMiB": 14.16,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/011-10-The.Guardian.of.the.Gates.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/011-10-The%20Guardian%20of%20the%20Gates.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/011-10-The%20Guardian%20of%20the%20Gates.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/011-10-The%20Guardian%20of%20the%20Gates.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/011-10-The%20Guardian%20of%20the%20Gates.recx"
+        }
+      }
+    },
+    {
+      "name": "012-11-The Emerald City of Oz.mp3",
+      "sizeMiB": 26.45,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/012-11-The.Emerald.City.of.Oz.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/012-11-The%20Emerald%20City%20of%20Oz.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/012-11-The%20Emerald%20City%20of%20Oz.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/012-11-The%20Emerald%20City%20of%20Oz.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/012-11-The%20Emerald%20City%20of%20Oz.recx"
+        }
+      }
+    },
+    {
+      "name": "013-12-The Search for the Wicked Witch.mp3",
+      "sizeMiB": 27.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/013-12-The.Search.for.the.Wicked.Witch.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/013-12-The%20Search%20for%20the%20Wicked%20Witch.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/013-12-The%20Search%20for%20the%20Wicked%20Witch.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/013-12-The%20Search%20for%20the%20Wicked%20Witch.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/013-12-The%20Search%20for%20the%20Wicked%20Witch.recx"
+        }
+      }
+    },
+    {
+      "name": "014-13-The Rescue.mp3",
+      "sizeMiB": 9.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/014-13-The.Rescue.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/014-13-The%20Rescue.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/014-13-The%20Rescue.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/014-13-The%20Rescue.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/014-13-The%20Rescue.recx"
+        }
+      }
+    },
+    {
+      "name": "015-14-The Winged Monkeys.mp3",
+      "sizeMiB": 13.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/015-14-The.Winged.Monkeys.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/015-14-The%20Winged%20Monkeys.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/015-14-The%20Winged%20Monkeys.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/015-14-The%20Winged%20Monkeys.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/015-14-The%20Winged%20Monkeys.recx"
+        }
+      }
+    },
+    {
+      "name": "016-15-The Discovery of Oz the Terrible.mp3",
+      "sizeMiB": 20.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/016-15-The.Discovery.of.Oz.the.Terrible.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/016-15-The%20Discovery%20of%20Oz%20the%20Terrible.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/016-15-The%20Discovery%20of%20Oz%20the%20Terrible.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/016-15-The%20Discovery%20of%20Oz%20the%20Terrible.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/016-15-The%20Discovery%20of%20Oz%20the%20Terrible.recx"
+        }
+      }
+    },
+    {
+      "name": "017-16-The Magic Art of the Great Humbug.mp3",
+      "sizeMiB": 7.33,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/017-16-The.Magic.Art.of.the.Great.Humbug.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/017-16-The%20Magic%20Art%20of%20the%20Great%20Humbug.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/017-16-The%20Magic%20Art%20of%20the%20Great%20Humbug.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/017-16-The%20Magic%20Art%20of%20the%20Great%20Humbug.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/017-16-The%20Magic%20Art%20of%20the%20Great%20Humbug.recx"
+        }
+      }
+    },
+    {
+      "name": "018-17-How the Balloon Was Launched.mp3",
+      "sizeMiB": 8.63,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/018-17-How.the.Balloon.Was.Launched.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/018-17-How%20the%20Balloon%20Was%20Launched.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/018-17-How%20the%20Balloon%20Was%20Launched.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/018-17-How%20the%20Balloon%20Was%20Launched.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/018-17-How%20the%20Balloon%20Was%20Launched.recx"
+        }
+      }
+    },
+    {
+      "name": "019-18-Away to the South.mp3",
+      "sizeMiB": 8.78,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/019-18-Away.to.the.South.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/019-18-Away%20to%20the%20South.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/019-18-Away%20to%20the%20South.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/019-18-Away%20to%20the%20South.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/019-18-Away%20to%20the%20South.recx"
+        }
+      }
+    },
+    {
+      "name": "020-19-Attacked by the Fighting Trees.mp3",
+      "sizeMiB": 7.79,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/020-19-Attacked.by.the.Fighting.Trees.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/020-19-Attacked%20by%20the%20Fighting%20Trees.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/020-19-Attacked%20by%20the%20Fighting%20Trees.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/020-19-Attacked%20by%20the%20Fighting%20Trees.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/020-19-Attacked%20by%20the%20Fighting%20Trees.recx"
+        }
+      }
+    },
+    {
+      "name": "021-20-The Dainty China Country.mp3",
+      "sizeMiB": 11.67,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/021-20-The.Dainty.China.Country.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/021-20-The%20Dainty%20China%20Country.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/021-20-The%20Dainty%20China%20Country.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/021-20-The%20Dainty%20China%20Country.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/021-20-The%20Dainty%20China%20Country.recx"
+        }
+      }
+    },
+    {
+      "name": "022-21-The Lion Becomes the King of Beasts.mp3",
+      "sizeMiB": 7.14,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/022-21-The.Lion.Becomes.the.King.of.Beasts.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/022-21-The%20Lion%20Becomes%20the%20King%20of%20Beasts.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/022-21-The%20Lion%20Becomes%20the%20King%20of%20Beasts.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/022-21-The%20Lion%20Becomes%20the%20King%20of%20Beasts.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/022-21-The%20Lion%20Becomes%20the%20King%20of%20Beasts.recx"
+        }
+      }
+    },
+    {
+      "name": "023-22-The Country of the Quadlings.mp3",
+      "sizeMiB": 7.32,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/023-22-The.Country.of.the.Quadlings.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/023-22-The%20Country%20of%20the%20Quadlings.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/023-22-The%20Country%20of%20the%20Quadlings.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/023-22-The%20Country%20of%20the%20Quadlings.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/023-22-The%20Country%20of%20the%20Quadlings.recx"
+        }
+      }
+    },
+    {
+      "name": "024-23-Glinda The Good Witch Grants Dorothy's Wish.mp3",
+      "sizeMiB": 9.51,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/024-23-Glinda.The.Good.Witch.Grants.Dorothy.s.Wish.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/024-23-Glinda%20The%20Good%20Witch%20Grants%20Dorothy%27s%20Wish.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/024-23-Glinda%20The%20Good%20Witch%20Grants%20Dorothy%27s%20Wish.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/024-23-Glinda%20The%20Good%20Witch%20Grants%20Dorothy%27s%20Wish.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/024-23-Glinda%20The%20Good%20Witch%20Grants%20Dorothy%27s%20Wish.recx"
+        }
+      }
+    },
+    {
+      "name": "025-24-Home Again.mp3",
+      "sizeMiB": 1.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-wonderful-wizard-of-oz/025-24-Home.Again.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/025-24-Home%20Again.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/025-24-Home%20Again.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/025-24-Home%20Again.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Wonderful%20Wizard%20of%20Oz/025-24-Home%20Again.recx"
+        }
+      }
+    }
+  ]
+}

@@ -93,5 +93,11 @@
     ,{"folder": "resources/reading/Moby-Dick", "tag": "graded-reading-moby-dick", "title": "白鲸 (Moby-Dick)"}
     ,{"folder": "resources/reading/Pride and Prejudice", "tag": "graded-reading-pride-and-prejudice", "title": "傲慢与偏见 (Pride and Prejudice)"}
     ,{"folder": "resources/reading/The Hobbit", "tag": "graded-reading-the-hobbit", "title": "霍比特人 (The Hobbit)"}
+    ,{"folder": "resources/reading/Alice's Adventures in Wonderland", "tag": "graded-reading-alice-in-wonderland", "title": "爱丽丝梦游仙境 (Alice's Adventures in Wonderland)"}
+    ,{"folder": "resources/reading/Black Beauty", "tag": "graded-reading-black-beauty", "title": "黑骏马 (Black Beauty)"}
+    ,{"folder": "resources/reading/The Great Gatsby", "tag": "graded-reading-the-great-gatsby", "title": "了不起的盖茨比 (The Great Gatsby)"}
+    ,{"folder": "resources/reading/The Picture of Dorian Gray", "tag": "graded-reading-the-picture-of-dorian-gray", "title": "道林·格雷的画像 (The Picture of Dorian Gray)"}
+    ,{"folder": "resources/reading/The Secret Garden", "tag": "graded-reading-the-secret-garden", "title": "秘密花园 (The Secret Garden)"}
+    ,{"folder": "resources/reading/The Wonderful Wizard of Oz", "tag": "graded-reading-the-wonderful-wizard-of-oz", "title": "绿野仙踪 (The Wonderful Wizard of Oz)"}
   ]
 }

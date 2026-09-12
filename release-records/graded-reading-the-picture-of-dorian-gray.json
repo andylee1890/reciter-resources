@@ -1,0 +1,446 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-12T06:32:58.347346Z",
+  "tag": "graded-reading-the-picture-of-dorian-gray",
+  "title": "道林·格雷的画像 (The Picture of Dorian Gray)",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/reading/The Picture of Dorian Gray",
+  "createdAt": "2026-09-12 14:32:41 +0800",
+  "poster": {
+    "id": "the-picture-of-dorian-gray",
+    "kind": "book-cover",
+    "sourceType": "prepared-cover",
+    "original": {
+      "path": "artwork/posters/the-picture-of-dorian-gray.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-picture-of-dorian-gray.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-picture-of-dorian-gray.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/the-picture-of-dorian-gray.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-picture-of-dorian-gray.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-picture-of-dorian-gray.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "sourceSize": {
+        "width": 317,
+        "height": 500
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-picture-of-dorian-gray"
+    },
+    "mirrors": []
+  },
+  "audioCount": 22,
+  "totalSizeMiB": 462.55,
+  "audio": [
+    {
+      "name": "001-Introduction.mp3",
+      "sizeMiB": 0.15,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/001-Introduction.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/001-Introduction.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/001-Introduction.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/001-Introduction.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/001-Introduction.recx"
+        }
+      }
+    },
+    {
+      "name": "002-Preface.mp3",
+      "sizeMiB": 2.38,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/002-Preface.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/002-Preface.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/002-Preface.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/002-Preface.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/002-Preface.recx"
+        }
+      }
+    },
+    {
+      "name": "003-Chapter I.mp3",
+      "sizeMiB": 28.34,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/003-Chapter.I.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/003-Chapter%20I.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/003-Chapter%20I.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/003-Chapter%20I.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/003-Chapter%20I.recx"
+        }
+      }
+    },
+    {
+      "name": "004-Chapter II.mp3",
+      "sizeMiB": 32.74,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/004-Chapter.II.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/004-Chapter%20II.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/004-Chapter%20II.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/004-Chapter%20II.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/004-Chapter%20II.recx"
+        }
+      }
+    },
+    {
+      "name": "005-Chapter III.mp3",
+      "sizeMiB": 26.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/005-Chapter.III.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/005-Chapter%20III.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/005-Chapter%20III.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/005-Chapter%20III.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/005-Chapter%20III.recx"
+        }
+      }
+    },
+    {
+      "name": "006-Chapter IV.mp3",
+      "sizeMiB": 32.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/006-Chapter.IV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/006-Chapter%20IV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/006-Chapter%20IV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/006-Chapter%20IV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/006-Chapter%20IV.recx"
+        }
+      }
+    },
+    {
+      "name": "007-Chapter V.mp3",
+      "sizeMiB": 25.67,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/007-Chapter.V.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/007-Chapter%20V.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/007-Chapter%20V.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/007-Chapter%20V.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/007-Chapter%20V.recx"
+        }
+      }
+    },
+    {
+      "name": "008-Chapter VI.mp3",
+      "sizeMiB": 16.54,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/008-Chapter.VI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/008-Chapter%20VI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/008-Chapter%20VI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/008-Chapter%20VI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/008-Chapter%20VI.recx"
+        }
+      }
+    },
+    {
+      "name": "009-Chapter VII.mp3",
+      "sizeMiB": 26.28,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/009-Chapter.VII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/009-Chapter%20VII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/009-Chapter%20VII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/009-Chapter%20VII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/009-Chapter%20VII.recx"
+        }
+      }
+    },
+    {
+      "name": "010-Chapter VIII.mp3",
+      "sizeMiB": 30.92,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/010-Chapter.VIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/010-Chapter%20VIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/010-Chapter%20VIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/010-Chapter%20VIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/010-Chapter%20VIII.recx"
+        }
+      }
+    },
+    {
+      "name": "011-Chapter IX.mp3",
+      "sizeMiB": 22.07,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/011-Chapter.IX.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/011-Chapter%20IX.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/011-Chapter%20IX.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/011-Chapter%20IX.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/011-Chapter%20IX.recx"
+        }
+      }
+    },
+    {
+      "name": "012-Chapter X.mp3",
+      "sizeMiB": 18.43,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/012-Chapter.X.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/012-Chapter%20X.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/012-Chapter%20X.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/012-Chapter%20X.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/012-Chapter%20X.recx"
+        }
+      }
+    },
+    {
+      "name": "013-Chapter XI.mp3",
+      "sizeMiB": 43.55,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/013-Chapter.XI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/013-Chapter%20XI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/013-Chapter%20XI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/013-Chapter%20XI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/013-Chapter%20XI.recx"
+        }
+      }
+    },
+    {
+      "name": "014-Chapter XII.mp3",
+      "sizeMiB": 15.31,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/014-Chapter.XII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/014-Chapter%20XII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/014-Chapter%20XII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/014-Chapter%20XII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/014-Chapter%20XII.recx"
+        }
+      }
+    },
+    {
+      "name": "015-Chapter XIII.mp3",
+      "sizeMiB": 14.84,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/015-Chapter.XIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/015-Chapter%20XIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/015-Chapter%20XIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/015-Chapter%20XIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/015-Chapter%20XIII.recx"
+        }
+      }
+    },
+    {
+      "name": "016-Chapter XIV.mp3",
+      "sizeMiB": 26.74,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/016-Chapter.XIV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/016-Chapter%20XIV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/016-Chapter%20XIV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/016-Chapter%20XIV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/016-Chapter%20XIV.recx"
+        }
+      }
+    },
+    {
+      "name": "017-Chapter XV.mp3",
+      "sizeMiB": 18.66,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/017-Chapter.XV.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/017-Chapter%20XV.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/017-Chapter%20XV.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/017-Chapter%20XV.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/017-Chapter%20XV.recx"
+        }
+      }
+    },
+    {
+      "name": "018-Chapter XVI.mp3",
+      "sizeMiB": 18.39,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/018-Chapter.XVI.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/018-Chapter%20XVI.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/018-Chapter%20XVI.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/018-Chapter%20XVI.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/018-Chapter%20XVI.recx"
+        }
+      }
+    },
+    {
+      "name": "019-Chapter XVII.mp3",
+      "sizeMiB": 11.22,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/019-Chapter.XVII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/019-Chapter%20XVII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/019-Chapter%20XVII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/019-Chapter%20XVII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/019-Chapter%20XVII.recx"
+        }
+      }
+    },
+    {
+      "name": "020-Chapter XVIII.mp3",
+      "sizeMiB": 19.2,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/020-Chapter.XVIII.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/020-Chapter%20XVIII.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/020-Chapter%20XVIII.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/020-Chapter%20XVIII.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/020-Chapter%20XVIII.recx"
+        }
+      }
+    },
+    {
+      "name": "021-Chapter XIX.mp3",
+      "sizeMiB": 20.59,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/021-Chapter.XIX.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/021-Chapter%20XIX.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/021-Chapter%20XIX.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/021-Chapter%20XIX.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/021-Chapter%20XIX.recx"
+        }
+      }
+    },
+    {
+      "name": "022-Chapter XX.mp3",
+      "sizeMiB": 11.35,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-picture-of-dorian-gray/022-Chapter.XX.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/022-Chapter%20XX.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Picture%20of%20Dorian%20Gray/022-Chapter%20XX.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/022-Chapter%20XX.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Picture%20of%20Dorian%20Gray/022-Chapter%20XX.recx"
+        }
+      }
+    }
+  ]
+}

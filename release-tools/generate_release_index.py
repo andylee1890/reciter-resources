@@ -39,6 +39,12 @@ READING_CATALOG = {
     "graded-reading-moby-dick": ("白鲸 (Moby-Dick)", "C1", "[美] Herman Melville (赫尔曼·梅尔维尔)"),
     "graded-reading-pride-and-prejudice": ("傲慢与偏见 (Pride and Prejudice)", "B2-C1", "[英] Jane Austen (简·奥斯汀)"),
     "graded-reading-the-hobbit": ("霍比特人 (The Hobbit)", "B1-B2", "[英] J. R. R. Tolkien (J·R·R·托尔金)"),
+    "graded-reading-alice-in-wonderland": ("爱丽丝梦游仙境 (Alice's Adventures in Wonderland)", "A2-B1", "[英] Lewis Carroll (刘易斯·卡罗尔)"),
+    "graded-reading-black-beauty": ("黑骏马 (Black Beauty)", "A2-B1", "[英] Anna Sewell (安娜·塞维尔)"),
+    "graded-reading-the-great-gatsby": ("了不起的盖茨比 (The Great Gatsby)", "B1-B2", "[美] F. Scott Fitzgerald (F·斯科特·菲茨杰拉德)"),
+    "graded-reading-the-picture-of-dorian-gray": ("道林·格雷的画像 (The Picture of Dorian Gray)", "B2", "[爱尔兰] Oscar Wilde (奥斯卡·王尔德)"),
+    "graded-reading-the-secret-garden": ("秘密花园 (The Secret Garden)", "A2-B1", "[英] Frances Hodgson Burnett (弗朗西丝·霍奇森·伯内特)"),
+    "graded-reading-the-wonderful-wizard-of-oz": ("绿野仙踪 (The Wonderful Wizard of Oz)", "A2", "[美] L. Frank Baum (莱曼·弗兰克·鲍姆)"),
 }
 
 

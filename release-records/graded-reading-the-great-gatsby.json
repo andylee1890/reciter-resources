@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-12T06:32:58.347346Z",
+  "tag": "graded-reading-the-great-gatsby",
+  "title": "了不起的盖茨比 (The Great Gatsby)",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/reading/The Great Gatsby",
+  "createdAt": "2026-09-12 14:32:39 +0800",
+  "poster": {
+    "id": "the-great-gatsby",
+    "kind": "book-cover",
+    "sourceType": "prepared-cover",
+    "original": {
+      "path": "artwork/posters/the-great-gatsby.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-great-gatsby.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-great-gatsby.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/the-great-gatsby.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-great-gatsby.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-great-gatsby.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "sourceSize": {
+        "width": 324,
+        "height": 500
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-great-gatsby"
+    },
+    "mirrors": []
+  },
+  "audioCount": 9,
+  "totalSizeMiB": 352.1,
+  "audio": [
+    {
+      "name": "001-Chapter 1.mp3",
+      "sizeMiB": 43.74,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-great-gatsby/001-Chapter.1.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/001-Chapter%201.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/001-Chapter%201.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/001-Chapter%201.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/001-Chapter%201.recx"
+        }
+      }
+    },
+    {
+      "name": "002-Chapter 2.mp3",
+      "sizeMiB": 30.49,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-great-gatsby/002-Chapter.2.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/002-Chapter%202.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/002-Chapter%202.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/002-Chapter%202.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/002-Chapter%202.recx"
+        }
+      }
+    },
+    {
+      "name": "003-Chapter 3.mp3",
+      "sizeMiB": 41.02,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-great-gatsby/003-Chapter.3.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/003-Chapter%203.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/003-Chapter%203.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/003-Chapter%203.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/003-Chapter%203.recx"
+        }
+      }
+    },
+    {
+      "name": "004-Chapter 4.mp3",
+      "sizeMiB": 39.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-great-gatsby/004-Chapter.4.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/004-Chapter%204.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/004-Chapter%204.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/004-Chapter%204.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/004-Chapter%204.recx"
+        }
+      }
+    },
+    {
+      "name": "005-Chapter 5.mp3",
+      "sizeMiB": 32.04,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-great-gatsby/005-Chapter.5.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/005-Chapter%205.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/005-Chapter%205.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/005-Chapter%205.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/005-Chapter%205.recx"
+        }
+      }
+    },
+    {
+      "name": "006-Chapter 6.mp3",
+      "sizeMiB": 30.91,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-great-gatsby/006-Chapter.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/006-Chapter%206.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/006-Chapter%206.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/006-Chapter%206.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/006-Chapter%206.recx"
+        }
+      }
+    },
+    {
+      "name": "007-Chapter 7.mp3",
+      "sizeMiB": 63.09,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-great-gatsby/007-Chapter.7.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/007-Chapter%207.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/007-Chapter%207.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/007-Chapter%207.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/007-Chapter%207.recx"
+        }
+      }
+    },
+    {
+      "name": "008-Chapter 8.mp3",
+      "sizeMiB": 33.05,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-great-gatsby/008-Chapter.8.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/008-Chapter%208.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/008-Chapter%208.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/008-Chapter%208.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/008-Chapter%208.recx"
+        }
+      }
+    },
+    {
+      "name": "009-Chapter 9.mp3",
+      "sizeMiB": 38.02,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-great-gatsby/009-Chapter.9.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/009-Chapter%209.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Great%20Gatsby/009-Chapter%209.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/009-Chapter%209.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Great%20Gatsby/009-Chapter%209.recx"
+        }
+      }
+    }
+  ]
+}

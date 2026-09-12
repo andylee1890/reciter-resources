@@ -1,6 +1,6 @@
 {
   "schemaVersion": 6,
-  "generatedAt": "2026-09-11T17:49:39.726502Z",
+  "generatedAt": "2026-09-12T06:32:58.347346Z",
   "repository": "andylee1890/reciter-resources",
   "posterIndex": {
     "path": "artwork/posters/index.json",
@@ -2629,6 +2629,130 @@
       "usedBy": "senior-high-school-listening-audio-v1"
     },
     {
+      "id": "the-wonderful-wizard-of-oz",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/the-wonderful-wizard-of-oz.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-wonderful-wizard-of-oz.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-wonderful-wizard-of-oz.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-wonderful-wizard-of-oz.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-wonderful-wizard-of-oz.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-wonderful-wizard-of-oz.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 371,
+          "height": 475
+        }
+      },
+      "usedBy": "graded-reading-the-wonderful-wizard-of-oz"
+    },
+    {
+      "id": "the-secret-garden",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/the-secret-garden.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-secret-garden.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-secret-garden.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-secret-garden.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-secret-garden.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-secret-garden.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 333,
+          "height": 500
+        }
+      },
+      "usedBy": "graded-reading-the-secret-garden"
+    },
+    {
+      "id": "black-beauty",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/black-beauty.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/black-beauty.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/black-beauty.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/black-beauty.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/black-beauty.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/black-beauty.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 400,
+          "height": 500
+        }
+      },
+      "usedBy": "graded-reading-black-beauty"
+    },
+    {
+      "id": "alice-in-wonderland",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/alice-in-wonderland.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/alice-in-wonderland.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/alice-in-wonderland.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/alice-in-wonderland.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/alice-in-wonderland.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/alice-in-wonderland.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 335,
+          "height": 500
+        }
+      },
+      "usedBy": "graded-reading-alice-in-wonderland"
+    },
+    {
       "id": "charlottes-web",
       "kind": "book-cover",
       "sourceType": "prepared-cover",
@@ -2691,6 +2815,37 @@
       "usedBy": "graded-reading-animal-farm"
     },
     {
+      "id": "the-great-gatsby",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/the-great-gatsby.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-great-gatsby.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-great-gatsby.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-great-gatsby.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-great-gatsby.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-great-gatsby.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 324,
+          "height": 500
+        }
+      },
+      "usedBy": "graded-reading-the-great-gatsby"
+    },
+    {
       "id": "the-hobbit",
       "kind": "book-cover",
       "sourceType": "prepared-cover",
@@ -2751,6 +2906,37 @@
         }
       },
       "usedBy": "graded-reading-lord-of-the-flies"
+    },
+    {
+      "id": "the-picture-of-dorian-gray",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/the-picture-of-dorian-gray.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-picture-of-dorian-gray.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-picture-of-dorian-gray.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-picture-of-dorian-gray.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-picture-of-dorian-gray.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-picture-of-dorian-gray.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 317,
+          "height": 500
+        }
+      },
+      "usedBy": "graded-reading-the-picture-of-dorian-gray"
     },
     {
       "id": "pride-and-prejudice",
@@ -3156,130 +3342,6 @@
       "usedBy": "graded-reading-junie-b-jones"
     },
     {
-      "id": "the-wonderful-wizard-of-oz",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/the-wonderful-wizard-of-oz.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-wonderful-wizard-of-oz.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-wonderful-wizard-of-oz.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/the-wonderful-wizard-of-oz.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-wonderful-wizard-of-oz.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-wonderful-wizard-of-oz.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 371,
-          "height": 475
-        }
-      },
-      "usedBy": "graded-reading-the-wonderful-wizard-of-oz"
-    },
-    {
-      "id": "the-secret-garden",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/the-secret-garden.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-secret-garden.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-secret-garden.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/the-secret-garden.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-secret-garden.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-secret-garden.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 333,
-          "height": 500
-        }
-      },
-      "usedBy": "graded-reading-the-secret-garden"
-    },
-    {
-      "id": "black-beauty",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/black-beauty.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/black-beauty.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/black-beauty.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/black-beauty.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/black-beauty.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/black-beauty.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 400,
-          "height": 500
-        }
-      },
-      "usedBy": "graded-reading-black-beauty"
-    },
-    {
-      "id": "alice-in-wonderland",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/alice-in-wonderland.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/alice-in-wonderland.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/alice-in-wonderland.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/alice-in-wonderland.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/alice-in-wonderland.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/alice-in-wonderland.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 335,
-          "height": 500
-        }
-      },
-      "usedBy": "graded-reading-alice-in-wonderland"
-    },
-    {
       "id": "the-little-prince",
       "kind": "book-cover",
       "sourceType": "prepared-cover",
@@ -3373,37 +3435,6 @@
       "usedBy": "graded-reading-wonder"
     },
     {
-      "id": "the-great-gatsby",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/the-great-gatsby.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-great-gatsby.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-great-gatsby.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/the-great-gatsby.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-great-gatsby.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-great-gatsby.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 324,
-          "height": 500
-        }
-      },
-      "usedBy": "graded-reading-the-great-gatsby"
-    },
-    {
       "id": "1984",
       "kind": "book-cover",
       "sourceType": "prepared-cover",
@@ -3433,37 +3464,6 @@
         }
       },
       "usedBy": "graded-reading-1984"
-    },
-    {
-      "id": "the-picture-of-dorian-gray",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/the-picture-of-dorian-gray.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-picture-of-dorian-gray.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-picture-of-dorian-gray.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/the-picture-of-dorian-gray.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-picture-of-dorian-gray.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-picture-of-dorian-gray.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 317,
-          "height": 500
-        }
-      },
-      "usedBy": "graded-reading-the-picture-of-dorian-gray"
     },
     {
       "id": "the-count-of-monte-cristo",
@@ -5497,6 +5497,57 @@
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/gaokao-listening-audio-v1"
     },
     {
+      "tag": "graded-reading-alice-in-wonderland",
+      "status": "finished",
+      "title": "爱丽丝梦游仙境 (Alice's Adventures in Wonderland)",
+      "first_class": "英语阅读",
+      "second_class": "A2-B1",
+      "third_class": "",
+      "author": "[英] Lewis Carroll (刘易斯·卡罗尔)",
+      "createdAt": "2026-09-12 14:32:37 +0800",
+      "audioCount": 13,
+      "totalSizeMiB": 170.91,
+      "detailFile": "graded-reading-alice-in-wonderland.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-alice-in-wonderland.json",
+      "poster": {
+        "id": "alice-in-wonderland",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/alice-in-wonderland.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/alice-in-wonderland.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/alice-in-wonderland.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/alice-in-wonderland.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/alice-in-wonderland.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/alice-in-wonderland.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 335,
+            "height": 500
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-alice-in-wonderland"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-alice-in-wonderland"
+    },
+    {
       "tag": "graded-reading-animal-farm",
       "status": "finished",
       "title": "动物农场 (Animal Farm)",
@@ -5546,6 +5597,57 @@
         "mirrors": []
       },
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-animal-farm"
+    },
+    {
+      "tag": "graded-reading-black-beauty",
+      "status": "finished",
+      "title": "黑骏马 (Black Beauty)",
+      "first_class": "英语阅读",
+      "second_class": "A2-B1",
+      "third_class": "",
+      "author": "[英] Anna Sewell (安娜·塞维尔)",
+      "createdAt": "2026-09-12 14:32:38 +0800",
+      "audioCount": 49,
+      "totalSizeMiB": 351.93,
+      "detailFile": "graded-reading-black-beauty.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-black-beauty.json",
+      "poster": {
+        "id": "black-beauty",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/black-beauty.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/black-beauty.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/black-beauty.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/black-beauty.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/black-beauty.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/black-beauty.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 400,
+            "height": 500
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-black-beauty"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-black-beauty"
     },
     {
       "tag": "graded-reading-charlottes-web",
@@ -5854,6 +5956,57 @@
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-pride-and-prejudice"
     },
     {
+      "tag": "graded-reading-the-great-gatsby",
+      "status": "finished",
+      "title": "了不起的盖茨比 (The Great Gatsby)",
+      "first_class": "英语阅读",
+      "second_class": "B1-B2",
+      "third_class": "",
+      "author": "[美] F. Scott Fitzgerald (F·斯科特·菲茨杰拉德)",
+      "createdAt": "2026-09-12 14:32:39 +0800",
+      "audioCount": 9,
+      "totalSizeMiB": 352.1,
+      "detailFile": "graded-reading-the-great-gatsby.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-the-great-gatsby.json",
+      "poster": {
+        "id": "the-great-gatsby",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/the-great-gatsby.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-great-gatsby.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-great-gatsby.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/the-great-gatsby.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-great-gatsby.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-great-gatsby.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 324,
+            "height": 500
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-great-gatsby"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-great-gatsby"
+    },
+    {
       "tag": "graded-reading-the-hobbit",
       "status": "finished",
       "title": "霍比特人 (The Hobbit)",
@@ -5903,6 +6056,159 @@
         "mirrors": []
       },
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-hobbit"
+    },
+    {
+      "tag": "graded-reading-the-picture-of-dorian-gray",
+      "status": "finished",
+      "title": "道林·格雷的画像 (The Picture of Dorian Gray)",
+      "first_class": "英语阅读",
+      "second_class": "B2",
+      "third_class": "",
+      "author": "[爱尔兰] Oscar Wilde (奥斯卡·王尔德)",
+      "createdAt": "2026-09-12 14:32:41 +0800",
+      "audioCount": 22,
+      "totalSizeMiB": 462.55,
+      "detailFile": "graded-reading-the-picture-of-dorian-gray.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-the-picture-of-dorian-gray.json",
+      "poster": {
+        "id": "the-picture-of-dorian-gray",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/the-picture-of-dorian-gray.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-picture-of-dorian-gray.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-picture-of-dorian-gray.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/the-picture-of-dorian-gray.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-picture-of-dorian-gray.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-picture-of-dorian-gray.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 317,
+            "height": 500
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-picture-of-dorian-gray"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-picture-of-dorian-gray"
+    },
+    {
+      "tag": "graded-reading-the-secret-garden",
+      "status": "finished",
+      "title": "秘密花园 (The Secret Garden)",
+      "first_class": "英语阅读",
+      "second_class": "A2-B1",
+      "third_class": "",
+      "author": "[英] Frances Hodgson Burnett (弗朗西丝·霍奇森·伯内特)",
+      "createdAt": "2026-09-12 14:32:42 +0800",
+      "audioCount": 28,
+      "totalSizeMiB": 557.51,
+      "detailFile": "graded-reading-the-secret-garden.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-the-secret-garden.json",
+      "poster": {
+        "id": "the-secret-garden",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/the-secret-garden.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-secret-garden.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-secret-garden.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/the-secret-garden.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-secret-garden.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-secret-garden.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 333,
+            "height": 500
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-secret-garden"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-secret-garden"
+    },
+    {
+      "tag": "graded-reading-the-wonderful-wizard-of-oz",
+      "status": "finished",
+      "title": "绿野仙踪 (The Wonderful Wizard of Oz)",
+      "first_class": "英语阅读",
+      "second_class": "A2",
+      "third_class": "",
+      "author": "[美] L. Frank Baum (莱曼·弗兰克·鲍姆)",
+      "createdAt": "2026-09-12 14:32:43 +0800",
+      "audioCount": 25,
+      "totalSizeMiB": 294.41,
+      "detailFile": "graded-reading-the-wonderful-wizard-of-oz.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-the-wonderful-wizard-of-oz.json",
+      "poster": {
+        "id": "the-wonderful-wizard-of-oz",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/the-wonderful-wizard-of-oz.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-wonderful-wizard-of-oz.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-wonderful-wizard-of-oz.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/the-wonderful-wizard-of-oz.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-wonderful-wizard-of-oz.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-wonderful-wizard-of-oz.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 371,
+            "height": 475
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-wonderful-wizard-of-oz"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-wonderful-wizard-of-oz"
     },
     {
       "tag": "growing-pains-s01-audio-v1",
@@ -8912,210 +9218,6 @@
       "releaseUrl": ""
     },
     {
-      "tag": "graded-reading-the-wonderful-wizard-of-oz",
-      "status": "processing",
-      "title": "绿野仙踪 (The Wonderful Wizard of Oz)",
-      "first_class": "英语阅读",
-      "second_class": "A2",
-      "third_class": "",
-      "author": "[美] L. Frank Baum (莱曼·弗兰克·鲍姆)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "the-wonderful-wizard-of-oz",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/the-wonderful-wizard-of-oz.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-wonderful-wizard-of-oz.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-wonderful-wizard-of-oz.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/the-wonderful-wizard-of-oz.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-wonderful-wizard-of-oz.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-wonderful-wizard-of-oz.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 371,
-            "height": 475
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
-      "tag": "graded-reading-the-secret-garden",
-      "status": "processing",
-      "title": "秘密花园 (The Secret Garden)",
-      "first_class": "英语阅读",
-      "second_class": "A2-B1",
-      "third_class": "",
-      "author": "[英] Frances Hodgson Burnett (弗朗西丝·霍奇森·伯内特)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "the-secret-garden",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/the-secret-garden.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-secret-garden.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-secret-garden.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/the-secret-garden.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-secret-garden.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-secret-garden.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 333,
-            "height": 500
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
-      "tag": "graded-reading-black-beauty",
-      "status": "processing",
-      "title": "黑骏马 (Black Beauty)",
-      "first_class": "英语阅读",
-      "second_class": "A2-B1",
-      "third_class": "",
-      "author": "[英] Anna Sewell (安娜·塞维尔)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "black-beauty",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/black-beauty.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/black-beauty.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/black-beauty.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/black-beauty.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/black-beauty.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/black-beauty.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 400,
-            "height": 500
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
-      "tag": "graded-reading-alice-in-wonderland",
-      "status": "processing",
-      "title": "爱丽丝梦游仙境 (Alice's Adventures in Wonderland)",
-      "first_class": "英语阅读",
-      "second_class": "A2-B1",
-      "third_class": "",
-      "author": "[英] Lewis Carroll (刘易斯·卡罗尔)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "alice-in-wonderland",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/alice-in-wonderland.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/alice-in-wonderland.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/alice-in-wonderland.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/alice-in-wonderland.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/alice-in-wonderland.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/alice-in-wonderland.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 335,
-            "height": 500
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
       "tag": "graded-reading-the-little-prince",
       "status": "processing",
       "title": "小王子 (The Little Prince)",
@@ -9269,57 +9371,6 @@
       "releaseUrl": ""
     },
     {
-      "tag": "graded-reading-the-great-gatsby",
-      "status": "processing",
-      "title": "了不起的盖茨比 (The Great Gatsby)",
-      "first_class": "英语阅读",
-      "second_class": "B1-B2",
-      "third_class": "",
-      "author": "[美] F. Scott Fitzgerald (F·斯科特·菲茨杰拉德)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "the-great-gatsby",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/the-great-gatsby.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-great-gatsby.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-great-gatsby.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/the-great-gatsby.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-great-gatsby.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-great-gatsby.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 324,
-            "height": 500
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
       "tag": "graded-reading-1984",
       "status": "processing",
       "title": "一九八四 (Nineteen Eighty-Four)",
@@ -9358,57 +9409,6 @@
           },
           "sourceSize": {
             "width": 360,
-            "height": 500
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
-      "tag": "graded-reading-the-picture-of-dorian-gray",
-      "status": "processing",
-      "title": "道林·格雷的画像 (The Picture of Dorian Gray)",
-      "first_class": "英语阅读",
-      "second_class": "B2",
-      "third_class": "",
-      "author": "[爱尔兰] Oscar Wilde (奥斯卡·王尔德)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "the-picture-of-dorian-gray",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/the-picture-of-dorian-gray.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-picture-of-dorian-gray.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-picture-of-dorian-gray.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/the-picture-of-dorian-gray.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-picture-of-dorian-gray.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-picture-of-dorian-gray.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 317,
             "height": 500
           }
         }
