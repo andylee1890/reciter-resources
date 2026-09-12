@@ -1,0 +1,446 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-12T08:29:01.789115Z",
+  "tag": "graded-reading-wonder",
+  "title": "奇迹男孩 (Wonder)",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/reading/Wonder",
+  "createdAt": "2026-09-12 16:26:30 +0800",
+  "poster": {
+    "id": "wonder",
+    "kind": "book-cover",
+    "sourceType": "prepared-cover",
+    "original": {
+      "path": "artwork/posters/wonder.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/wonder.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/wonder.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/wonder.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/wonder.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/wonder.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "sourceSize": {
+        "width": 310,
+        "height": 500
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-wonder"
+    },
+    "mirrors": []
+  },
+  "audioCount": 22,
+  "totalSizeMiB": 461.46,
+  "audio": [
+    {
+      "name": "001-WONDER Part 1- August Chapters 1–4 - Point of View & Character Study - Read Aloud.mp3",
+      "sizeMiB": 11.77,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/001-WONDER.Part.1-.August.Chapters.1.4.-.Point.of.View.Character.Study.-.Read.Aloud.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/001-WONDER%20Part%201-%20August%20Chapters%201%E2%80%934%20-%20Point%20of%20View%20%26%20Character%20Study%20-%20Read%20Aloud.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/001-WONDER%20Part%201-%20August%20Chapters%201%E2%80%934%20-%20Point%20of%20View%20%26%20Character%20Study%20-%20Read%20Aloud.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/001-WONDER%20Part%201-%20August%20Chapters%201%E2%80%934%20-%20Point%20of%20View%20%26%20Character%20Study%20-%20Read%20Aloud.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/001-WONDER%20Part%201-%20August%20Chapters%201%E2%80%934%20-%20Point%20of%20View%20%26%20Character%20Study%20-%20Read%20Aloud.recx"
+        }
+      }
+    },
+    {
+      "name": "002-WONDER Part 1 August Chapters 5 - 7 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 16.0,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/002-WONDER.Part.1.August.Chapters.5.-.7.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/002-WONDER%20Part%201%20August%20Chapters%205%20-%207%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/002-WONDER%20Part%201%20August%20Chapters%205%20-%207%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/002-WONDER%20Part%201%20August%20Chapters%205%20-%207%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/002-WONDER%20Part%201%20August%20Chapters%205%20-%207%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "003-WONDER Part 1 August Chapters 8 - 10 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 22.89,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/003-WONDER.Part.1.August.Chapters.8.-.10.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/003-WONDER%20Part%201%20August%20Chapters%208%20-%2010%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/003-WONDER%20Part%201%20August%20Chapters%208%20-%2010%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/003-WONDER%20Part%201%20August%20Chapters%208%20-%2010%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/003-WONDER%20Part%201%20August%20Chapters%208%20-%2010%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "004-WONDER Part 1 August Chapters 11 - 15 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 20.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/004-WONDER.Part.1.August.Chapters.11.-.15.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/004-WONDER%20Part%201%20August%20Chapters%2011%20-%2015%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/004-WONDER%20Part%201%20August%20Chapters%2011%20-%2015%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/004-WONDER%20Part%201%20August%20Chapters%2011%20-%2015%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/004-WONDER%20Part%201%20August%20Chapters%2011%20-%2015%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "005-WONDER Part 1 August Chapters 16 - 19 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 14.2,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/005-WONDER.Part.1.August.Chapters.16.-.19.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/005-WONDER%20Part%201%20August%20Chapters%2016%20-%2019%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/005-WONDER%20Part%201%20August%20Chapters%2016%20-%2019%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/005-WONDER%20Part%201%20August%20Chapters%2016%20-%2019%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/005-WONDER%20Part%201%20August%20Chapters%2016%20-%2019%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "006-WONDER Part 1 August Chapters 20 - 24 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 18.18,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/006-WONDER.Part.1.August.Chapters.20.-.24.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/006-WONDER%20Part%201%20August%20Chapters%2020%20-%2024%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/006-WONDER%20Part%201%20August%20Chapters%2020%20-%2024%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/006-WONDER%20Part%201%20August%20Chapters%2020%20-%2024%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/006-WONDER%20Part%201%20August%20Chapters%2020%20-%2024%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "007-WONDER Part 1 August Chapters 25 - 31 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 22.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/007-WONDER.Part.1.August.Chapters.25.-.31.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/007-WONDER%20Part%201%20August%20Chapters%2025%20-%2031%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/007-WONDER%20Part%201%20August%20Chapters%2025%20-%2031%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/007-WONDER%20Part%201%20August%20Chapters%2025%20-%2031%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/007-WONDER%20Part%201%20August%20Chapters%2025%20-%2031%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "008-WONDER Part 2 Via Chapters 32 - 35 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 16.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/008-WONDER.Part.2.Via.Chapters.32.-.35.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/008-WONDER%20Part%202%20Via%20Chapters%2032%20-%2035%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/008-WONDER%20Part%202%20Via%20Chapters%2032%20-%2035%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/008-WONDER%20Part%202%20Via%20Chapters%2032%20-%2035%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/008-WONDER%20Part%202%20Via%20Chapters%2032%20-%2035%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "009-WONDER Part 2 Via Chapters 36 - 40 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 15.66,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/009-WONDER.Part.2.Via.Chapters.36.-.40.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/009-WONDER%20Part%202%20Via%20Chapters%2036%20-%2040%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/009-WONDER%20Part%202%20Via%20Chapters%2036%20-%2040%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/009-WONDER%20Part%202%20Via%20Chapters%2036%20-%2040%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/009-WONDER%20Part%202%20Via%20Chapters%2036%20-%2040%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "010-WONDER Part 2 Via Chapters 41 - 47 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 26.81,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/010-WONDER.Part.2.Via.Chapters.41.-.47.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/010-WONDER%20Part%202%20Via%20Chapters%2041%20-%2047%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/010-WONDER%20Part%202%20Via%20Chapters%2041%20-%2047%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/010-WONDER%20Part%202%20Via%20Chapters%2041%20-%2047%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/010-WONDER%20Part%202%20Via%20Chapters%2041%20-%2047%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "011-WONDER Part 3 Summer Chapters 48 - 53 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 22.76,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/011-WONDER.Part.3.Summer.Chapters.48.-.53.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/011-WONDER%20Part%203%20Summer%20Chapters%2048%20-%2053%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/011-WONDER%20Part%203%20Summer%20Chapters%2048%20-%2053%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/011-WONDER%20Part%203%20Summer%20Chapters%2048%20-%2053%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/011-WONDER%20Part%203%20Summer%20Chapters%2048%20-%2053%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "012-WONDER Part 4 Jack Chapters 54 - 59 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 22.14,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/012-WONDER.Part.4.Jack.Chapters.54.-.59.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/012-WONDER%20Part%204%20Jack%20Chapters%2054%20-%2059%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/012-WONDER%20Part%204%20Jack%20Chapters%2054%20-%2059%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/012-WONDER%20Part%204%20Jack%20Chapters%2054%20-%2059%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/012-WONDER%20Part%204%20Jack%20Chapters%2054%20-%2059%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "013-WONDER Part 4 Jack Chapters 60 - 65 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 18.24,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/013-WONDER.Part.4.Jack.Chapters.60.-.65.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/013-WONDER%20Part%204%20Jack%20Chapters%2060%20-%2065%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/013-WONDER%20Part%204%20Jack%20Chapters%2060%20-%2065%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/013-WONDER%20Part%204%20Jack%20Chapters%2060%20-%2065%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/013-WONDER%20Part%204%20Jack%20Chapters%2060%20-%2065%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "014-WONDER Part 4 Jack Chapters 66 - 73 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 32.96,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/014-WONDER.Part.4.Jack.Chapters.66.-.73.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/014-WONDER%20Part%204%20Jack%20Chapters%2066%20-%2073%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/014-WONDER%20Part%204%20Jack%20Chapters%2066%20-%2073%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/014-WONDER%20Part%204%20Jack%20Chapters%2066%20-%2073%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/014-WONDER%20Part%204%20Jack%20Chapters%2066%20-%2073%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "015-WONDER Part 5 Justin Chapters 74 - 81 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 29.5,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/015-WONDER.Part.5.Justin.Chapters.74.-.81.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/015-WONDER%20Part%205%20Justin%20Chapters%2074%20-%2081%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/015-WONDER%20Part%205%20Justin%20Chapters%2074%20-%2081%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/015-WONDER%20Part%205%20Justin%20Chapters%2074%20-%2081%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/015-WONDER%20Part%205%20Justin%20Chapters%2074%20-%2081%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "016-WONDER Part 6 August Chapters 82 - 88 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 21.83,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/016-WONDER.Part.6.August.Chapters.82.-.88.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/016-WONDER%20Part%206%20August%20Chapters%2082%20-%2088%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/016-WONDER%20Part%206%20August%20Chapters%2082%20-%2088%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/016-WONDER%20Part%206%20August%20Chapters%2082%20-%2088%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/016-WONDER%20Part%206%20August%20Chapters%2082%20-%2088%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "017-WONDER Part 6 August Chapters 89 - 92 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 16.94,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/017-WONDER.Part.6.August.Chapters.89.-.92.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/017-WONDER%20Part%206%20August%20Chapters%2089%20-%2092%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/017-WONDER%20Part%206%20August%20Chapters%2089%20-%2092%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/017-WONDER%20Part%206%20August%20Chapters%2089%20-%2092%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/017-WONDER%20Part%206%20August%20Chapters%2089%20-%2092%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "018-WONDER Part 7 Miranda Chapters 93 - 98 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 16.42,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/018-WONDER.Part.7.Miranda.Chapters.93.-.98.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/018-WONDER%20Part%207%20Miranda%20Chapters%2093%20-%2098%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/018-WONDER%20Part%207%20Miranda%20Chapters%2093%20-%2098%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/018-WONDER%20Part%207%20Miranda%20Chapters%2093%20-%2098%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/018-WONDER%20Part%207%20Miranda%20Chapters%2093%20-%2098%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "019-WONDER Part 8 August Chapters 99 - 104 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 18.68,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/019-WONDER.Part.8.August.Chapters.99.-.104.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/019-WONDER%20Part%208%20August%20Chapters%2099%20-%20104%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/019-WONDER%20Part%208%20August%20Chapters%2099%20-%20104%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/019-WONDER%20Part%208%20August%20Chapters%2099%20-%20104%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/019-WONDER%20Part%208%20August%20Chapters%2099%20-%20104%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "020-WONDER Part 8 August Chapters 105 - 110 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 22.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/020-WONDER.Part.8.August.Chapters.105.-.110.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/020-WONDER%20Part%208%20August%20Chapters%20105%20-%20110%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/020-WONDER%20Part%208%20August%20Chapters%20105%20-%20110%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/020-WONDER%20Part%208%20August%20Chapters%20105%20-%20110%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/020-WONDER%20Part%208%20August%20Chapters%20105%20-%20110%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "021-WONDER Part 8 August Chapters 111 - 116 Read Aloud - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 18.38,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/021-WONDER.Part.8.August.Chapters.111.-.116.Read.Aloud.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/021-WONDER%20Part%208%20August%20Chapters%20111%20-%20116%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/021-WONDER%20Part%208%20August%20Chapters%20111%20-%20116%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/021-WONDER%20Part%208%20August%20Chapters%20111%20-%20116%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/021-WONDER%20Part%208%20August%20Chapters%20111%20-%20116%20Read%20Aloud%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    },
+    {
+      "name": "022-WONDER Part 8 August Chap 117 - 123 Read Aloud (the end) - Upper Elementary Classroom (Grades 4–6).mp3",
+      "sizeMiB": 35.4,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-wonder/022-WONDER.Part.8.August.Chap.117.-.123.Read.Aloud.the.end.-.Upper.Elementary.Classroom.Grades.4.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/022-WONDER%20Part%208%20August%20Chap%20117%20-%20123%20Read%20Aloud%20%28the%20end%29%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/Wonder/022-WONDER%20Part%208%20August%20Chap%20117%20-%20123%20Read%20Aloud%20%28the%20end%29%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/022-WONDER%20Part%208%20August%20Chap%20117%20-%20123%20Read%20Aloud%20%28the%20end%29%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/Wonder/022-WONDER%20Part%208%20August%20Chap%20117%20-%20123%20Read%20Aloud%20%28the%20end%29%20-%20Upper%20Elementary%20Classroom%20%28Grades%204%E2%80%936%29.recx"
+        }
+      }
+    }
+  ]
+}

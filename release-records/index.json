@@ -1,6 +1,6 @@
 {
   "schemaVersion": 6,
-  "generatedAt": "2026-09-12T06:32:58.347346Z",
+  "generatedAt": "2026-09-12T08:33:38.655073Z",
   "repository": "andylee1890/reciter-resources",
   "posterIndex": {
     "path": "artwork/posters/index.json",
@@ -2753,6 +2753,37 @@
       "usedBy": "graded-reading-alice-in-wonderland"
     },
     {
+      "id": "the-little-prince",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/the-little-prince.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-little-prince.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-little-prince.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-little-prince.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-little-prince.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-little-prince.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 308,
+          "height": 475
+        }
+      },
+      "usedBy": "graded-reading-the-little-prince"
+    },
+    {
       "id": "charlottes-web",
       "kind": "book-cover",
       "sourceType": "prepared-cover",
@@ -2782,6 +2813,68 @@
         }
       },
       "usedBy": "graded-reading-charlottes-web"
+    },
+    {
+      "id": "the-giver",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/the-giver.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-giver.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-giver.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/the-giver.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-giver.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-giver.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 333,
+          "height": 499
+        }
+      },
+      "usedBy": "graded-reading-the-giver"
+    },
+    {
+      "id": "wonder",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/wonder.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/wonder.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/wonder.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/wonder.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/wonder.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/wonder.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 310,
+          "height": 500
+        }
+      },
+      "usedBy": "graded-reading-wonder"
     },
     {
       "id": "animal-farm",
@@ -2875,6 +2968,37 @@
         }
       },
       "usedBy": "graded-reading-the-hobbit"
+    },
+    {
+      "id": "1984",
+      "kind": "book-cover",
+      "sourceType": "prepared-cover",
+      "original": {
+        "path": "artwork/posters/1984.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/1984.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/1984.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/1984.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/1984.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/1984.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 360,
+          "height": 500
+        }
+      },
+      "usedBy": "graded-reading-1984"
     },
     {
       "id": "lord-of-the-flies",
@@ -3340,130 +3464,6 @@
         }
       },
       "usedBy": "graded-reading-junie-b-jones"
-    },
-    {
-      "id": "the-little-prince",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/the-little-prince.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-little-prince.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-little-prince.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/the-little-prince.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-little-prince.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-little-prince.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 308,
-          "height": 475
-        }
-      },
-      "usedBy": "graded-reading-the-little-prince"
-    },
-    {
-      "id": "the-giver",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/the-giver.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-giver.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-giver.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/the-giver.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-giver.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-giver.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 333,
-          "height": 499
-        }
-      },
-      "usedBy": "graded-reading-the-giver"
-    },
-    {
-      "id": "wonder",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/wonder.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/wonder.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/wonder.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/wonder.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/wonder.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/wonder.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 310,
-          "height": 500
-        }
-      },
-      "usedBy": "graded-reading-wonder"
-    },
-    {
-      "id": "1984",
-      "kind": "book-cover",
-      "sourceType": "prepared-cover",
-      "original": {
-        "path": "artwork/posters/1984.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/1984.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/1984.webp"
-      },
-      "card": {
-        "path": "artwork/posters/card/1984.webp",
-        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/1984.webp",
-        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/1984.webp",
-        "mode": "crop",
-        "aspectRatio": "480:600",
-        "width": 480,
-        "height": 600,
-        "fit": "cover",
-        "crop": {
-          "x": 0.0,
-          "y": 0.0,
-          "width": 1.0,
-          "height": 1.0
-        },
-        "sourceSize": {
-          "width": 360,
-          "height": 500
-        }
-      },
-      "usedBy": "graded-reading-1984"
     },
     {
       "id": "the-count-of-monte-cristo",
@@ -5497,6 +5497,57 @@
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/gaokao-listening-audio-v1"
     },
     {
+      "tag": "graded-reading-1984",
+      "status": "finished",
+      "title": "一九八四 (Nineteen Eighty-Four)",
+      "first_class": "英语阅读",
+      "second_class": "B2",
+      "third_class": "",
+      "author": "[英] George Orwell (乔治·奥威尔)",
+      "createdAt": "2026-09-12 16:26:06 +0800",
+      "audioCount": 25,
+      "totalSizeMiB": 592.06,
+      "detailFile": "graded-reading-1984.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-1984.json",
+      "poster": {
+        "id": "1984",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/1984.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/1984.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/1984.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/1984.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/1984.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/1984.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 360,
+            "height": 500
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-1984"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-1984"
+    },
+    {
       "tag": "graded-reading-alice-in-wonderland",
       "status": "finished",
       "title": "爱丽丝梦游仙境 (Alice's Adventures in Wonderland)",
@@ -5956,6 +6007,57 @@
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-pride-and-prejudice"
     },
     {
+      "tag": "graded-reading-the-giver",
+      "status": "finished",
+      "title": "记忆传授人 (The Giver)",
+      "first_class": "英语阅读",
+      "second_class": "B1",
+      "third_class": "",
+      "author": "[美] Lois Lowry (洛伊丝·劳里)",
+      "createdAt": "2026-09-12 16:26:18 +0800",
+      "audioCount": 23,
+      "totalSizeMiB": 310.08,
+      "detailFile": "graded-reading-the-giver.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-the-giver.json",
+      "poster": {
+        "id": "the-giver",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/the-giver.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-giver.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-giver.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/the-giver.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-giver.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-giver.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 333,
+            "height": 499
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-giver"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-giver"
+    },
+    {
       "tag": "graded-reading-the-great-gatsby",
       "status": "finished",
       "title": "了不起的盖茨比 (The Great Gatsby)",
@@ -6056,6 +6158,57 @@
         "mirrors": []
       },
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-hobbit"
+    },
+    {
+      "tag": "graded-reading-the-little-prince",
+      "status": "finished",
+      "title": "小王子 (The Little Prince)",
+      "first_class": "英语阅读",
+      "second_class": "A2-B1",
+      "third_class": "",
+      "author": "[法] Antoine de Saint-Exupéry (安托万·德·圣-埃克苏佩里)",
+      "createdAt": "2026-09-12 16:33:13 +0800",
+      "audioCount": 30,
+      "totalSizeMiB": 141.87,
+      "detailFile": "graded-reading-the-little-prince.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-the-little-prince.json",
+      "poster": {
+        "id": "the-little-prince",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/the-little-prince.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-little-prince.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-little-prince.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/the-little-prince.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-little-prince.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-little-prince.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 308,
+            "height": 475
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-little-prince"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-little-prince"
     },
     {
       "tag": "graded-reading-the-picture-of-dorian-gray",
@@ -6209,6 +6362,57 @@
         "mirrors": []
       },
       "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-wonderful-wizard-of-oz"
+    },
+    {
+      "tag": "graded-reading-wonder",
+      "status": "finished",
+      "title": "奇迹男孩 (Wonder)",
+      "first_class": "英语阅读",
+      "second_class": "B1",
+      "third_class": "",
+      "author": "[美] R. J. Palacio (R·J·帕拉西奥)",
+      "createdAt": "2026-09-12 16:26:30 +0800",
+      "audioCount": 22,
+      "totalSizeMiB": 461.46,
+      "detailFile": "graded-reading-wonder.json",
+      "detailRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/release-records/graded-reading-wonder.json",
+      "poster": {
+        "id": "wonder",
+        "kind": "book-cover",
+        "sourceType": "prepared-cover",
+        "original": {
+          "path": "artwork/posters/wonder.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/wonder.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/wonder.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/wonder.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/wonder.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/wonder.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 310,
+            "height": 500
+          }
+        }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-wonder"
+        },
+        "mirrors": []
+      },
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-wonder"
     },
     {
       "tag": "growing-pains-s01-audio-v1",
@@ -9206,210 +9410,6 @@
           "sourceSize": {
             "width": 323,
             "height": 475
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
-      "tag": "graded-reading-the-little-prince",
-      "status": "processing",
-      "title": "小王子 (The Little Prince)",
-      "first_class": "英语阅读",
-      "second_class": "A2-B1",
-      "third_class": "",
-      "author": "[法] Antoine de Saint-Exupéry (安托万·德·圣-埃克苏佩里)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "the-little-prince",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/the-little-prince.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-little-prince.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-little-prince.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/the-little-prince.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-little-prince.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-little-prince.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 308,
-            "height": 475
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
-      "tag": "graded-reading-the-giver",
-      "status": "processing",
-      "title": "记忆传授人 (The Giver)",
-      "first_class": "英语阅读",
-      "second_class": "B1",
-      "third_class": "",
-      "author": "[美] Lois Lowry (洛伊丝·劳里)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "the-giver",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/the-giver.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-giver.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-giver.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/the-giver.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-giver.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-giver.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 333,
-            "height": 499
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
-      "tag": "graded-reading-wonder",
-      "status": "processing",
-      "title": "奇迹男孩 (Wonder)",
-      "first_class": "英语阅读",
-      "second_class": "B1",
-      "third_class": "",
-      "author": "[美] R. J. Palacio (R·J·帕拉西奥)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "wonder",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/wonder.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/wonder.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/wonder.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/wonder.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/wonder.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/wonder.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 310,
-            "height": 500
-          }
-        }
-      },
-      "platforms": {
-        "githubRelease": {
-          "releaseUrl": ""
-        },
-        "mirrors": []
-      },
-      "releaseUrl": ""
-    },
-    {
-      "tag": "graded-reading-1984",
-      "status": "processing",
-      "title": "一九八四 (Nineteen Eighty-Four)",
-      "first_class": "英语阅读",
-      "second_class": "B2",
-      "third_class": "",
-      "author": "[英] George Orwell (乔治·奥威尔)",
-      "createdAt": "2026-09-10",
-      "audioCount": 0,
-      "totalSizeMiB": 0,
-      "detailFile": "",
-      "detailRaw": "",
-      "poster": {
-        "id": "1984",
-        "kind": "book-cover",
-        "sourceType": "prepared-cover",
-        "original": {
-          "path": "artwork/posters/1984.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/1984.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/1984.webp"
-        },
-        "card": {
-          "path": "artwork/posters/card/1984.webp",
-          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/1984.webp",
-          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/1984.webp",
-          "mode": "crop",
-          "aspectRatio": "480:600",
-          "width": 480,
-          "height": 600,
-          "fit": "cover",
-          "crop": {
-            "x": 0.0,
-            "y": 0.0,
-            "width": 1.0,
-            "height": 1.0
-          },
-          "sourceSize": {
-            "width": 360,
-            "height": 500
           }
         }
       },

@@ -1,0 +1,590 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-12T08:33:38.655073Z",
+  "tag": "graded-reading-the-little-prince",
+  "title": "小王子 (The Little Prince)",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/reading/The Little Prince",
+  "createdAt": "2026-09-12 16:33:13 +0800",
+  "poster": {
+    "id": "the-little-prince",
+    "kind": "book-cover",
+    "sourceType": "prepared-cover",
+    "original": {
+      "path": "artwork/posters/the-little-prince.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-little-prince.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-little-prince.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/the-little-prince.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-little-prince.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-little-prince.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "sourceSize": {
+        "width": 308,
+        "height": 475
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-little-prince"
+    },
+    "mirrors": []
+  },
+  "audioCount": 30,
+  "totalSizeMiB": 141.87,
+  "audio": [
+    {
+      "name": "001-Musical Introduction.mp3",
+      "sizeMiB": 1.37,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/001-Musical.Introduction.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/001-Musical%20Introduction.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/001-Musical%20Introduction.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/001-Musical%20Introduction.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/001-Musical%20Introduction.recx"
+        }
+      }
+    },
+    {
+      "name": "002-Chapter 1.mp3",
+      "sizeMiB": 4.01,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/002-Chapter.1.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/002-Chapter%201.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/002-Chapter%201.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/002-Chapter%201.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/002-Chapter%201.recx"
+        }
+      }
+    },
+    {
+      "name": "003-Chapter 2.mp3",
+      "sizeMiB": 5.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/003-Chapter.2.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/003-Chapter%202.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/003-Chapter%202.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/003-Chapter%202.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/003-Chapter%202.recx"
+        }
+      }
+    },
+    {
+      "name": "004-Chapter 3.mp3",
+      "sizeMiB": 3.69,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/004-Chapter.3.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/004-Chapter%203.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/004-Chapter%203.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/004-Chapter%203.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/004-Chapter%203.recx"
+        }
+      }
+    },
+    {
+      "name": "005-Chapter 4.mp3",
+      "sizeMiB": 6.75,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/005-Chapter.4.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/005-Chapter%204.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/005-Chapter%204.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/005-Chapter%204.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/005-Chapter%204.recx"
+        }
+      }
+    },
+    {
+      "name": "006-Chapter 5.mp3",
+      "sizeMiB": 5.98,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/006-Chapter.5.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/006-Chapter%205.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/006-Chapter%205.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/006-Chapter%205.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/006-Chapter%205.recx"
+        }
+      }
+    },
+    {
+      "name": "007-Chapter 6.mp3",
+      "sizeMiB": 2.14,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/007-Chapter.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/007-Chapter%206.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/007-Chapter%206.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/007-Chapter%206.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/007-Chapter%206.recx"
+        }
+      }
+    },
+    {
+      "name": "008-Chapter 7.mp3",
+      "sizeMiB": 6.09,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/008-Chapter.7.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/008-Chapter%207.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/008-Chapter%207.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/008-Chapter%207.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/008-Chapter%207.recx"
+        }
+      }
+    },
+    {
+      "name": "009-Chapter 8.mp3",
+      "sizeMiB": 6.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/009-Chapter.8.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/009-Chapter%208.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/009-Chapter%208.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/009-Chapter%208.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/009-Chapter%208.recx"
+        }
+      }
+    },
+    {
+      "name": "010-Chapter 9.mp3",
+      "sizeMiB": 3.85,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/010-Chapter.9.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/010-Chapter%209.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/010-Chapter%209.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/010-Chapter%209.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/010-Chapter%209.recx"
+        }
+      }
+    },
+    {
+      "name": "011-Chapter 10.mp3",
+      "sizeMiB": 9.81,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/011-Chapter.10.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/011-Chapter%2010.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/011-Chapter%2010.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/011-Chapter%2010.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/011-Chapter%2010.recx"
+        }
+      }
+    },
+    {
+      "name": "012-Chapter 11.mp3",
+      "sizeMiB": 2.58,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/012-Chapter.11.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/012-Chapter%2011.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/012-Chapter%2011.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/012-Chapter%2011.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/012-Chapter%2011.recx"
+        }
+      }
+    },
+    {
+      "name": "013-Chapter 12.mp3",
+      "sizeMiB": 1.54,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/013-Chapter.12.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/013-Chapter%2012.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/013-Chapter%2012.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/013-Chapter%2012.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/013-Chapter%2012.recx"
+        }
+      }
+    },
+    {
+      "name": "014-Chapter 13.mp3",
+      "sizeMiB": 6.28,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/014-Chapter.13.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/014-Chapter%2013.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/014-Chapter%2013.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/014-Chapter%2013.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/014-Chapter%2013.recx"
+        }
+      }
+    },
+    {
+      "name": "015-Chapter 14.mp3",
+      "sizeMiB": 5.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/015-Chapter.14.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/015-Chapter%2014.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/015-Chapter%2014.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/015-Chapter%2014.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/015-Chapter%2014.recx"
+        }
+      }
+    },
+    {
+      "name": "016-Chapter 15.mp3",
+      "sizeMiB": 6.63,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/016-Chapter.15.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/016-Chapter%2015.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/016-Chapter%2015.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/016-Chapter%2015.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/016-Chapter%2015.recx"
+        }
+      }
+    },
+    {
+      "name": "017-Chapter 16.mp3",
+      "sizeMiB": 2.43,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/017-Chapter.16.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/017-Chapter%2016.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/017-Chapter%2016.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/017-Chapter%2016.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/017-Chapter%2016.recx"
+        }
+      }
+    },
+    {
+      "name": "018-Chapter 17.mp3",
+      "sizeMiB": 5.82,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/018-Chapter.17.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/018-Chapter%2017.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/018-Chapter%2017.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/018-Chapter%2017.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/018-Chapter%2017.recx"
+        }
+      }
+    },
+    {
+      "name": "019-Chapter 18.mp3",
+      "sizeMiB": 1.33,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/019-Chapter.18.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/019-Chapter%2018.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/019-Chapter%2018.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/019-Chapter%2018.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/019-Chapter%2018.recx"
+        }
+      }
+    },
+    {
+      "name": "020-Chapter 19.mp3",
+      "sizeMiB": 1.76,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/020-Chapter.19.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/020-Chapter%2019.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/020-Chapter%2019.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/020-Chapter%2019.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/020-Chapter%2019.recx"
+        }
+      }
+    },
+    {
+      "name": "021-Chapter 20.mp3",
+      "sizeMiB": 2.21,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/021-Chapter.20.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/021-Chapter%2020.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/021-Chapter%2020.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/021-Chapter%2020.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/021-Chapter%2020.recx"
+        }
+      }
+    },
+    {
+      "name": "022-Chapter 21.mp3",
+      "sizeMiB": 11.62,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/022-Chapter.21.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/022-Chapter%2021.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/022-Chapter%2021.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/022-Chapter%2021.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/022-Chapter%2021.recx"
+        }
+      }
+    },
+    {
+      "name": "023-Chapter 22.mp3",
+      "sizeMiB": 2.1,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/023-Chapter.22.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/023-Chapter%2022.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/023-Chapter%2022.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/023-Chapter%2022.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/023-Chapter%2022.recx"
+        }
+      }
+    },
+    {
+      "name": "024-Chapter 23.mp3",
+      "sizeMiB": 1.21,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/024-Chapter.23.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/024-Chapter%2023.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/024-Chapter%2023.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/024-Chapter%2023.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/024-Chapter%2023.recx"
+        }
+      }
+    },
+    {
+      "name": "025-Chapter 24.mp3",
+      "sizeMiB": 5.76,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/025-Chapter.24.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/025-Chapter%2024.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/025-Chapter%2024.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/025-Chapter%2024.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/025-Chapter%2024.recx"
+        }
+      }
+    },
+    {
+      "name": "026-Chapter 25.mp3",
+      "sizeMiB": 6.48,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/026-Chapter.25.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/026-Chapter%2025.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/026-Chapter%2025.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/026-Chapter%2025.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/026-Chapter%2025.recx"
+        }
+      }
+    },
+    {
+      "name": "027-Chapter 26.mp3",
+      "sizeMiB": 12.02,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/027-Chapter.26.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/027-Chapter%2026.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/027-Chapter%2026.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/027-Chapter%2026.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/027-Chapter%2026.recx"
+        }
+      }
+    },
+    {
+      "name": "028-Chapter 27.mp3",
+      "sizeMiB": 5.78,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/028-Chapter.27.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/028-Chapter%2027.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/028-Chapter%2027.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/028-Chapter%2027.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/028-Chapter%2027.recx"
+        }
+      }
+    },
+    {
+      "name": "029-Patreon Credits.mp3",
+      "sizeMiB": 1.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/029-Patreon.Credits.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/029-Patreon%20Credits.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/029-Patreon%20Credits.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/029-Patreon%20Credits.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/029-Patreon%20Credits.recx"
+        }
+      }
+    },
+    {
+      "name": "030-Closing Thoughts.mp3",
+      "sizeMiB": 3.65,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-little-prince/030-Closing.Thoughts.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/030-Closing%20Thoughts.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Little%20Prince/030-Closing%20Thoughts.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/030-Closing%20Thoughts.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Little%20Prince/030-Closing%20Thoughts.recx"
+        }
+      }
+    }
+  ]
+}

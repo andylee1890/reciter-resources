@@ -1,0 +1,464 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-12T08:29:01.789115Z",
+  "tag": "graded-reading-the-giver",
+  "title": "记忆传授人 (The Giver)",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/reading/The Giver",
+  "createdAt": "2026-09-12 16:26:18 +0800",
+  "poster": {
+    "id": "the-giver",
+    "kind": "book-cover",
+    "sourceType": "prepared-cover",
+    "original": {
+      "path": "artwork/posters/the-giver.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/the-giver.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/the-giver.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/the-giver.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/the-giver.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/the-giver.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "sourceSize": {
+        "width": 333,
+        "height": 499
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-the-giver"
+    },
+    "mirrors": []
+  },
+  "audioCount": 23,
+  "totalSizeMiB": 310.08,
+  "audio": [
+    {
+      "name": "001-Chapter 1 of -The Giver- by Lois Lowry (Audiobook w- Text).mp3",
+      "sizeMiB": 18.52,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/001-Chapter.1.of.-The.Giver-.by.Lois.Lowry.Audiobook.w-.Text.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/001-Chapter%201%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/001-Chapter%201%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/001-Chapter%201%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/001-Chapter%201%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29.recx"
+        }
+      }
+    },
+    {
+      "name": "002-Chapter 2 of -The Giver- by Lois Lowry (Audiobook w- Text).mp3",
+      "sizeMiB": 12.77,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/002-Chapter.2.of.-The.Giver-.by.Lois.Lowry.Audiobook.w-.Text.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/002-Chapter%202%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/002-Chapter%202%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/002-Chapter%202%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/002-Chapter%202%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29.recx"
+        }
+      }
+    },
+    {
+      "name": "003-Chapter 3 of -The Giver- by Lois Lowry (Audiobook w- Text).mp3",
+      "sizeMiB": 9.11,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/003-Chapter.3.of.-The.Giver-.by.Lois.Lowry.Audiobook.w-.Text.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/003-Chapter%203%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/003-Chapter%203%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/003-Chapter%203%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/003-Chapter%203%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29.recx"
+        }
+      }
+    },
+    {
+      "name": "004-Chapter 4 of -The Giver- by Lois Lowry (Audiobook w- Text)).mp3",
+      "sizeMiB": 11.36,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/004-Chapter.4.of.-The.Giver-.by.Lois.Lowry.Audiobook.w-.Text.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/004-Chapter%204%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/004-Chapter%204%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/004-Chapter%204%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/004-Chapter%204%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29%29.recx"
+        }
+      }
+    },
+    {
+      "name": "005-Chapter 5 of -The Giver- by Lois Lowry (Audiobook w- Text).mp3",
+      "sizeMiB": 7.97,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/005-Chapter.5.of.-The.Giver-.by.Lois.Lowry.Audiobook.w-.Text.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/005-Chapter%205%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/005-Chapter%205%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/005-Chapter%205%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/005-Chapter%205%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%20w-%20Text%29.recx"
+        }
+      }
+    },
+    {
+      "name": "006-Chapter 6 of -The Giver- by Lois Lowry (Audiobook).mp3",
+      "sizeMiB": 14.53,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/006-Chapter.6.of.-The.Giver-.by.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/006-Chapter%206%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/006-Chapter%206%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/006-Chapter%206%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/006-Chapter%206%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        }
+      }
+    },
+    {
+      "name": "007-Chapter 7 of -The Giver- by Lois Lowry (Audiobook).mp3",
+      "sizeMiB": 13.6,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/007-Chapter.7.of.-The.Giver-.by.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/007-Chapter%207%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/007-Chapter%207%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/007-Chapter%207%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/007-Chapter%207%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        }
+      }
+    },
+    {
+      "name": "008-Chapter 8 of -The Giver- by Lois Lowry (Audiobook).mp3",
+      "sizeMiB": 10.17,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/008-Chapter.8.of.-The.Giver-.by.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/008-Chapter%208%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/008-Chapter%208%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/008-Chapter%208%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/008-Chapter%208%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        }
+      }
+    },
+    {
+      "name": "009-Chapter 9 of -The Giver- by Lois Lowry (Audiobook).mp3",
+      "sizeMiB": 11.55,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/009-Chapter.9.of.-The.Giver-.by.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/009-Chapter%209%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/009-Chapter%209%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/009-Chapter%209%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/009-Chapter%209%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        }
+      }
+    },
+    {
+      "name": "010-Chapter 10 of -The Giver- by Lois Lowry (Audiobook).mp3",
+      "sizeMiB": 12.44,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/010-Chapter.10.of.-The.Giver-.by.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/010-Chapter%2010%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/010-Chapter%2010%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/010-Chapter%2010%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/010-Chapter%2010%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        }
+      }
+    },
+    {
+      "name": "011-Chapter 11 of -The Giver- by Lois Lowry (Audiobook).mp3",
+      "sizeMiB": 11.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/011-Chapter.11.of.-The.Giver-.by.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/011-Chapter%2011%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/011-Chapter%2011%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/011-Chapter%2011%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/011-Chapter%2011%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        }
+      }
+    },
+    {
+      "name": "012-Chapter 12 of -The Giver- by Lois Lowry (Audiobook).mp3",
+      "sizeMiB": 14.03,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/012-Chapter.12.of.-The.Giver-.by.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/012-Chapter%2012%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/012-Chapter%2012%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/012-Chapter%2012%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/012-Chapter%2012%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        }
+      }
+    },
+    {
+      "name": "013-Chapter 13 of -The Giver- by Lois Lowry (Audiobook).mp3",
+      "sizeMiB": 19.23,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/013-Chapter.13.of.-The.Giver-.by.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/013-Chapter%2013%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/013-Chapter%2013%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/013-Chapter%2013%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/013-Chapter%2013%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        }
+      }
+    },
+    {
+      "name": "014-Chapter 14 of -The Giver- by Lois Lowry (Audiobook).mp3",
+      "sizeMiB": 20.57,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/014-Chapter.14.of.-The.Giver-.by.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/014-Chapter%2014%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/014-Chapter%2014%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/014-Chapter%2014%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/014-Chapter%2014%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        }
+      }
+    },
+    {
+      "name": "015-Chapter 15 of -The Giver- by Lois Lowry (Audiobook).mp3",
+      "sizeMiB": 7.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/015-Chapter.15.of.-The.Giver-.by.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/015-Chapter%2015%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/015-Chapter%2015%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/015-Chapter%2015%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/015-Chapter%2015%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        }
+      }
+    },
+    {
+      "name": "016-Chapter 16 of -The Giver- by Lois Lowry (Audiobook).mp3",
+      "sizeMiB": 14.41,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/016-Chapter.16.of.-The.Giver-.by.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/016-Chapter%2016%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/016-Chapter%2016%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/016-Chapter%2016%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/016-Chapter%2016%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        }
+      }
+    },
+    {
+      "name": "017-Chapter 17 of -The Giver- by Lois Lowry (Audiobook).mp3",
+      "sizeMiB": 15.04,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/017-Chapter.17.of.-The.Giver-.by.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/017-Chapter%2017%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/017-Chapter%2017%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/017-Chapter%2017%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/017-Chapter%2017%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        }
+      }
+    },
+    {
+      "name": "018-Chapter 18 of -The Giver- by Lois Lowry (Audiobook).mp3",
+      "sizeMiB": 13.57,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/018-Chapter.18.of.-The.Giver-.by.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/018-Chapter%2018%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/018-Chapter%2018%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/018-Chapter%2018%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/018-Chapter%2018%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        }
+      }
+    },
+    {
+      "name": "019-Chapter 19 of -The Giver- (Lois Lowry) Audiobook.mp3",
+      "sizeMiB": 12.3,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/019-Chapter.19.of.-The.Giver-.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/019-Chapter%2019%20of%20-The%20Giver-%20%28Lois%20Lowry%29%20Audiobook.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/019-Chapter%2019%20of%20-The%20Giver-%20%28Lois%20Lowry%29%20Audiobook.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/019-Chapter%2019%20of%20-The%20Giver-%20%28Lois%20Lowry%29%20Audiobook.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/019-Chapter%2019%20of%20-The%20Giver-%20%28Lois%20Lowry%29%20Audiobook.recx"
+        }
+      }
+    },
+    {
+      "name": "020-Chapter 20 of -The Giver- (Lois Lowry) Audiobook.mp3",
+      "sizeMiB": 24.76,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/020-Chapter.20.of.-The.Giver-.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/020-Chapter%2020%20of%20-The%20Giver-%20%28Lois%20Lowry%29%20Audiobook.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/020-Chapter%2020%20of%20-The%20Giver-%20%28Lois%20Lowry%29%20Audiobook.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/020-Chapter%2020%20of%20-The%20Giver-%20%28Lois%20Lowry%29%20Audiobook.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/020-Chapter%2020%20of%20-The%20Giver-%20%28Lois%20Lowry%29%20Audiobook.recx"
+        }
+      }
+    },
+    {
+      "name": "021-Chapter 21 of -The Giver- by Lois Lowry (Audiobook).mp3",
+      "sizeMiB": 13.73,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/021-Chapter.21.of.-The.Giver-.by.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/021-Chapter%2021%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/021-Chapter%2021%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/021-Chapter%2021%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/021-Chapter%2021%20of%20-The%20Giver-%20by%20Lois%20Lowry%20%28Audiobook%29.recx"
+        }
+      }
+    },
+    {
+      "name": "022-Chapter 22 of -The Giver- (Lois Lowry) Audiobook.mp3",
+      "sizeMiB": 8.71,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/022-Chapter.22.of.-The.Giver-.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/022-Chapter%2022%20of%20-The%20Giver-%20%28Lois%20Lowry%29%20Audiobook.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/022-Chapter%2022%20of%20-The%20Giver-%20%28Lois%20Lowry%29%20Audiobook.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/022-Chapter%2022%20of%20-The%20Giver-%20%28Lois%20Lowry%29%20Audiobook.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/022-Chapter%2022%20of%20-The%20Giver-%20%28Lois%20Lowry%29%20Audiobook.recx"
+        }
+      }
+    },
+    {
+      "name": "023-Chapter 23 of -The Giver- (Lois Lowry) Audiobook.mp3",
+      "sizeMiB": 12.82,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-the-giver/023-Chapter.23.of.-The.Giver-.Lois.Lowry.Audiobook.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/023-Chapter%2023%20of%20-The%20Giver-%20%28Lois%20Lowry%29%20Audiobook.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/The%20Giver/023-Chapter%2023%20of%20-The%20Giver-%20%28Lois%20Lowry%29%20Audiobook.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/023-Chapter%2023%20of%20-The%20Giver-%20%28Lois%20Lowry%29%20Audiobook.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/The%20Giver/023-Chapter%2023%20of%20-The%20Giver-%20%28Lois%20Lowry%29%20Audiobook.recx"
+        }
+      }
+    }
+  ]
+}

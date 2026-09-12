@@ -1,0 +1,500 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-09-12T08:29:01.789115Z",
+  "tag": "graded-reading-1984",
+  "title": "一九八四 (Nineteen Eighty-Four)",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/reading/1984",
+  "createdAt": "2026-09-12 16:26:06 +0800",
+  "poster": {
+    "id": "1984",
+    "kind": "book-cover",
+    "sourceType": "prepared-cover",
+    "original": {
+      "path": "artwork/posters/1984.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/1984.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/1984.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/1984.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/1984.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/1984.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "sourceSize": {
+        "width": 360,
+        "height": 500
+      }
+    }
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/graded-reading-1984"
+    },
+    "mirrors": []
+  },
+  "audioCount": 25,
+  "totalSizeMiB": 592.06,
+  "audio": [
+    {
+      "name": "001-Part 1 Chapter 1.mp3",
+      "sizeMiB": 37.48,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/001-Part.1.Chapter.1.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/001-Part%201%20Chapter%201.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/001-Part%201%20Chapter%201.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/001-Part%201%20Chapter%201.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/001-Part%201%20Chapter%201.recx"
+        }
+      }
+    },
+    {
+      "name": "002-Part 1 Chapter 2.mp3",
+      "sizeMiB": 17.51,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/002-Part.1.Chapter.2.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/002-Part%201%20Chapter%202.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/002-Part%201%20Chapter%202.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/002-Part%201%20Chapter%202.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/002-Part%201%20Chapter%202.recx"
+        }
+      }
+    },
+    {
+      "name": "003-Part 1 Chapter 3.mp3",
+      "sizeMiB": 17.51,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/003-Part.1.Chapter.3.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/003-Part%201%20Chapter%203.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/003-Part%201%20Chapter%203.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/003-Part%201%20Chapter%203.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/003-Part%201%20Chapter%203.recx"
+        }
+      }
+    },
+    {
+      "name": "004-Part 1 Chapter 4.mp3",
+      "sizeMiB": 21.45,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/004-Part.1.Chapter.4.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/004-Part%201%20Chapter%204.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/004-Part%201%20Chapter%204.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/004-Part%201%20Chapter%204.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/004-Part%201%20Chapter%204.recx"
+        }
+      }
+    },
+    {
+      "name": "005-Part 1 Chapter 5.mp3",
+      "sizeMiB": 29.29,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/005-Part.1.Chapter.5.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/005-Part%201%20Chapter%205.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/005-Part%201%20Chapter%205.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/005-Part%201%20Chapter%205.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/005-Part%201%20Chapter%205.recx"
+        }
+      }
+    },
+    {
+      "name": "006-Part 1 Chapter 6.mp3",
+      "sizeMiB": 10.93,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/006-Part.1.Chapter.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/006-Part%201%20Chapter%206.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/006-Part%201%20Chapter%206.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/006-Part%201%20Chapter%206.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/006-Part%201%20Chapter%206.recx"
+        }
+      }
+    },
+    {
+      "name": "007-Part 1 Chapter 7.mp3",
+      "sizeMiB": 23.56,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/007-Part.1.Chapter.7.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/007-Part%201%20Chapter%207.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/007-Part%201%20Chapter%207.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/007-Part%201%20Chapter%207.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/007-Part%201%20Chapter%207.recx"
+        }
+      }
+    },
+    {
+      "name": "008-Part 1 Chapter 8.mp3",
+      "sizeMiB": 43.34,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/008-Part.1.Chapter.8.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/008-Part%201%20Chapter%208.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/008-Part%201%20Chapter%208.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/008-Part%201%20Chapter%208.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/008-Part%201%20Chapter%208.recx"
+        }
+      }
+    },
+    {
+      "name": "009-Part 2 Chapter 1.mp3",
+      "sizeMiB": 22.88,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/009-Part.2.Chapter.1.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/009-Part%202%20Chapter%201.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/009-Part%202%20Chapter%201.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/009-Part%202%20Chapter%201.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/009-Part%202%20Chapter%201.recx"
+        }
+      }
+    },
+    {
+      "name": "010-Part 2 Chapter 2.mp3",
+      "sizeMiB": 18.03,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/010-Part.2.Chapter.2.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/010-Part%202%20Chapter%202.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/010-Part%202%20Chapter%202.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/010-Part%202%20Chapter%202.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/010-Part%202%20Chapter%202.recx"
+        }
+      }
+    },
+    {
+      "name": "011-Part 2 Chapter 3.mp3",
+      "sizeMiB": 18.24,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/011-Part.2.Chapter.3.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/011-Part%202%20Chapter%203.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/011-Part%202%20Chapter%203.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/011-Part%202%20Chapter%203.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/011-Part%202%20Chapter%203.recx"
+        }
+      }
+    },
+    {
+      "name": "012-Part 2 Chapter 4.mp3",
+      "sizeMiB": 19.95,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/012-Part.2.Chapter.4.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/012-Part%202%20Chapter%204.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/012-Part%202%20Chapter%204.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/012-Part%202%20Chapter%204.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/012-Part%202%20Chapter%204.recx"
+        }
+      }
+    },
+    {
+      "name": "013-Part 2 Chapter 5.mp3",
+      "sizeMiB": 18.19,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/013-Part.2.Chapter.5.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/013-Part%202%20Chapter%205.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/013-Part%202%20Chapter%205.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/013-Part%202%20Chapter%205.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/013-Part%202%20Chapter%205.recx"
+        }
+      }
+    },
+    {
+      "name": "014-Part 2 Chapter 6.mp3",
+      "sizeMiB": 5.26,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/014-Part.2.Chapter.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/014-Part%202%20Chapter%206.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/014-Part%202%20Chapter%206.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/014-Part%202%20Chapter%206.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/014-Part%202%20Chapter%206.recx"
+        }
+      }
+    },
+    {
+      "name": "015-Part 2 Chapter 7.mp3",
+      "sizeMiB": 14.49,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/015-Part.2.Chapter.7.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/015-Part%202%20Chapter%207.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/015-Part%202%20Chapter%207.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/015-Part%202%20Chapter%207.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/015-Part%202%20Chapter%207.recx"
+        }
+      }
+    },
+    {
+      "name": "016-Part 2 Chapter 8.mp3",
+      "sizeMiB": 21.06,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/016-Part.2.Chapter.8.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/016-Part%202%20Chapter%208.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/016-Part%202%20Chapter%208.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/016-Part%202%20Chapter%208.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/016-Part%202%20Chapter%208.recx"
+        }
+      }
+    },
+    {
+      "name": "017-Part 2 Chapter 9a.mp3",
+      "sizeMiB": 75.68,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/017-Part.2.Chapter.9a.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/017-Part%202%20Chapter%209a.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/017-Part%202%20Chapter%209a.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/017-Part%202%20Chapter%209a.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/017-Part%202%20Chapter%209a.recx"
+        }
+      }
+    },
+    {
+      "name": "018-Part 2 Chapter 9b.mp3",
+      "sizeMiB": 12.34,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/018-Part.2.Chapter.9b.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/018-Part%202%20Chapter%209b.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/018-Part%202%20Chapter%209b.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/018-Part%202%20Chapter%209b.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/018-Part%202%20Chapter%209b.recx"
+        }
+      }
+    },
+    {
+      "name": "019-Part 3 Chapter 1.mp3",
+      "sizeMiB": 26.89,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/019-Part.3.Chapter.1.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/019-Part%203%20Chapter%201.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/019-Part%203%20Chapter%201.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/019-Part%203%20Chapter%201.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/019-Part%203%20Chapter%201.recx"
+        }
+      }
+    },
+    {
+      "name": "020-Part 3 Chapter 2.mp3",
+      "sizeMiB": 39.13,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/020-Part.3.Chapter.2.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/020-Part%203%20Chapter%202.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/020-Part%203%20Chapter%202.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/020-Part%203%20Chapter%202.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/020-Part%203%20Chapter%202.recx"
+        }
+      }
+    },
+    {
+      "name": "021-Part 3 Chapter 3.mp3",
+      "sizeMiB": 25.94,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/021-Part.3.Chapter.3.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/021-Part%203%20Chapter%203.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/021-Part%203%20Chapter%203.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/021-Part%203%20Chapter%203.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/021-Part%203%20Chapter%203.recx"
+        }
+      }
+    },
+    {
+      "name": "022-Part 3 Chapter 4.mp3",
+      "sizeMiB": 16.02,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/022-Part.3.Chapter.4.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/022-Part%203%20Chapter%204.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/022-Part%203%20Chapter%204.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/022-Part%203%20Chapter%204.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/022-Part%203%20Chapter%204.recx"
+        }
+      }
+    },
+    {
+      "name": "023-Part 3 Chapter 5.mp3",
+      "sizeMiB": 8.64,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/023-Part.3.Chapter.5.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/023-Part%203%20Chapter%205.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/023-Part%203%20Chapter%205.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/023-Part%203%20Chapter%205.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/023-Part%203%20Chapter%205.recx"
+        }
+      }
+    },
+    {
+      "name": "024-Part 3 Chapter 6.mp3",
+      "sizeMiB": 21.14,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/024-Part.3.Chapter.6.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/024-Part%203%20Chapter%206.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/024-Part%203%20Chapter%206.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/024-Part%203%20Chapter%206.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/024-Part%203%20Chapter%206.recx"
+        }
+      }
+    },
+    {
+      "name": "025-Appendix- The Principles of Newspeak.mp3",
+      "sizeMiB": 27.12,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/graded-reading-1984/025-Appendix-.The.Principles.of.Newspeak.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/025-Appendix-%20The%20Principles%20of%20Newspeak.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/reading/1984/025-Appendix-%20The%20Principles%20of%20Newspeak.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/025-Appendix-%20The%20Principles%20of%20Newspeak.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/reading/1984/025-Appendix-%20The%20Principles%20of%20Newspeak.recx"
+        }
+      }
+    }
+  ]
+}
