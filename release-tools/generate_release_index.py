@@ -29,6 +29,7 @@ DRAMA_SERIES = {
     "the-office-us": "办公室（美版）",
 }
 DRAMA_SEASON_PATTERN = re.compile(r"^(?P<series>.+)-s(?P<season>\d+)-audio-v\d+$")
+DOCUMENTARY_SEASON_PATTERN = re.compile(r"^through-the-wormhole-s(?P<season>\d+)-audio-v\d+$")
 
 READING_CATALOG = {
     "graded-reading-1984": ("一九八四 (Nineteen Eighty-Four)", "B2", "[英] George Orwell (乔治·奥威尔)"),
@@ -64,6 +65,15 @@ def catalog_metadata(tag: str, fallback_title: str) -> dict[str, str]:
             "first_class": "影视英语",
             "second_class": DRAMA_SERIES[season["series"]],
             "third_class": "",
+            "author": "",
+        }
+    documentary = DOCUMENTARY_SEASON_PATTERN.fullmatch(tag)
+    if documentary:
+        return {
+            "title": f"穿越虫洞 第{int(documentary['season'])}季",
+            "first_class": "影视英语",
+            "second_class": "穿越虫洞",
+            "third_class": "穿越虫洞",
             "author": "",
         }
     if tag in {"yes-minister-audio-v1", "yes-prime-minister-audio-v1"}:

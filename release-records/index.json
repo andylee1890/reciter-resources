@@ -1,6 +1,6 @@
 {
   "schemaVersion": 6,
-  "generatedAt": "2026-09-12T08:33:38.655073Z",
+  "generatedAt": "2026-11-18T08:18:56.434901Z",
   "repository": "andylee1890/reciter-resources",
   "posterIndex": {
     "path": "artwork/posters/index.json",
@@ -3526,6 +3526,171 @@
         }
       },
       "usedBy": "graded-reading-wuthering-heights"
+    },
+    {
+      "id": "through-the-wormhole-s01",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/through-the-wormhole-s01.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/through-the-wormhole-s01.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/through-the-wormhole-s01.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/through-the-wormhole-s01.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/through-the-wormhole-s01.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/through-the-wormhole-s01.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 680,
+          "height": 1000
+        }
+      },
+      "source": "https://www.tvmaze.com/shows/1605/through-the-wormhole",
+      "sourceImage": "https://static.tvmaze.com/uploads/images/original_untouched/8/21801.jpg",
+      "usedBy": "through-the-wormhole-s01-audio-v1"
+    },
+    {
+      "id": "through-the-wormhole-s02",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/through-the-wormhole-s02.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/through-the-wormhole-s02.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/through-the-wormhole-s02.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/through-the-wormhole-s02.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/through-the-wormhole-s02.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/through-the-wormhole-s02.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 680,
+          "height": 1000
+        }
+      },
+      "source": "https://www.tvmaze.com/shows/1605/through-the-wormhole",
+      "sourceImage": "https://static.tvmaze.com/uploads/images/original_untouched/8/21801.jpg",
+      "usedBy": "through-the-wormhole-s02-audio-v1"
+    },
+    {
+      "id": "through-the-wormhole-s03",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/through-the-wormhole-s03.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/through-the-wormhole-s03.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/through-the-wormhole-s03.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/through-the-wormhole-s03.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/through-the-wormhole-s03.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/through-the-wormhole-s03.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 680,
+          "height": 1000
+        }
+      },
+      "source": "https://www.tvmaze.com/shows/1605/through-the-wormhole",
+      "sourceImage": "https://static.tvmaze.com/uploads/images/original_untouched/8/21801.jpg",
+      "usedBy": "through-the-wormhole-s03-audio-v1"
+    },
+    {
+      "id": "through-the-wormhole-s04",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/through-the-wormhole-s04.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/through-the-wormhole-s04.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/through-the-wormhole-s04.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/through-the-wormhole-s04.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/through-the-wormhole-s04.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/through-the-wormhole-s04.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 680,
+          "height": 1000
+        }
+      },
+      "source": "https://www.tvmaze.com/shows/1605/through-the-wormhole",
+      "sourceImage": "https://static.tvmaze.com/uploads/images/original_untouched/8/21801.jpg",
+      "usedBy": "through-the-wormhole-s04-audio-v1"
+    },
+    {
+      "id": "through-the-wormhole-s05",
+      "kind": "season-poster",
+      "sourceType": "third-party-catalog-image",
+      "original": {
+        "path": "artwork/posters/through-the-wormhole-s05.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/through-the-wormhole-s05.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/through-the-wormhole-s05.webp"
+      },
+      "card": {
+        "path": "artwork/posters/card/through-the-wormhole-s05.webp",
+        "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/through-the-wormhole-s05.webp",
+        "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/through-the-wormhole-s05.webp",
+        "mode": "crop",
+        "aspectRatio": "480:600",
+        "width": 480,
+        "height": 600,
+        "fit": "cover",
+        "crop": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        },
+        "sourceSize": {
+          "width": 680,
+          "height": 1000
+        }
+      },
+      "source": "https://www.tvmaze.com/shows/1605/through-the-wormhole",
+      "sourceImage": "https://static.tvmaze.com/uploads/images/original_untouched/8/21801.jpg",
+      "usedBy": "through-the-wormhole-s05-audio-v1"
     }
   ],
   "courses": [
@@ -9514,6 +9679,271 @@
             "height": 500
           }
         }
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": ""
+        },
+        "mirrors": []
+      },
+      "releaseUrl": ""
+    },
+    {
+      "tag": "through-the-wormhole-s01-audio-v1",
+      "status": "processing",
+      "title": "穿越虫洞 第1季",
+      "first_class": "影视英语",
+      "second_class": "穿越虫洞",
+      "third_class": "",
+      "author": "",
+      "createdAt": "2026-11-18",
+      "audioCount": 0,
+      "totalSizeMiB": 0,
+      "detailFile": "",
+      "detailRaw": "",
+      "poster": {
+        "id": "through-the-wormhole-s01",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/through-the-wormhole-s01.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/through-the-wormhole-s01.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/through-the-wormhole-s01.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/through-the-wormhole-s01.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/through-the-wormhole-s01.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/through-the-wormhole-s01.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 680,
+            "height": 1000
+          }
+        },
+        "source": "https://www.tvmaze.com/shows/1605/through-the-wormhole",
+        "sourceImage": "https://static.tvmaze.com/uploads/images/original_untouched/8/21801.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": ""
+        },
+        "mirrors": []
+      },
+      "releaseUrl": ""
+    },
+    {
+      "tag": "through-the-wormhole-s02-audio-v1",
+      "status": "processing",
+      "title": "穿越虫洞 第2季",
+      "first_class": "影视英语",
+      "second_class": "穿越虫洞",
+      "third_class": "",
+      "author": "",
+      "createdAt": "2026-11-18",
+      "audioCount": 0,
+      "totalSizeMiB": 0,
+      "detailFile": "",
+      "detailRaw": "",
+      "poster": {
+        "id": "through-the-wormhole-s02",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/through-the-wormhole-s02.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/through-the-wormhole-s02.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/through-the-wormhole-s02.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/through-the-wormhole-s02.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/through-the-wormhole-s02.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/through-the-wormhole-s02.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 680,
+            "height": 1000
+          }
+        },
+        "source": "https://www.tvmaze.com/shows/1605/through-the-wormhole",
+        "sourceImage": "https://static.tvmaze.com/uploads/images/original_untouched/8/21801.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": ""
+        },
+        "mirrors": []
+      },
+      "releaseUrl": ""
+    },
+    {
+      "tag": "through-the-wormhole-s03-audio-v1",
+      "status": "processing",
+      "title": "穿越虫洞 第3季",
+      "first_class": "影视英语",
+      "second_class": "穿越虫洞",
+      "third_class": "",
+      "author": "",
+      "createdAt": "2026-11-18",
+      "audioCount": 0,
+      "totalSizeMiB": 0,
+      "detailFile": "",
+      "detailRaw": "",
+      "poster": {
+        "id": "through-the-wormhole-s03",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/through-the-wormhole-s03.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/through-the-wormhole-s03.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/through-the-wormhole-s03.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/through-the-wormhole-s03.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/through-the-wormhole-s03.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/through-the-wormhole-s03.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 680,
+            "height": 1000
+          }
+        },
+        "source": "https://www.tvmaze.com/shows/1605/through-the-wormhole",
+        "sourceImage": "https://static.tvmaze.com/uploads/images/original_untouched/8/21801.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": ""
+        },
+        "mirrors": []
+      },
+      "releaseUrl": ""
+    },
+    {
+      "tag": "through-the-wormhole-s04-audio-v1",
+      "status": "processing",
+      "title": "穿越虫洞 第4季",
+      "first_class": "影视英语",
+      "second_class": "穿越虫洞",
+      "third_class": "",
+      "author": "",
+      "createdAt": "2026-11-18",
+      "audioCount": 0,
+      "totalSizeMiB": 0,
+      "detailFile": "",
+      "detailRaw": "",
+      "poster": {
+        "id": "through-the-wormhole-s04",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/through-the-wormhole-s04.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/through-the-wormhole-s04.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/through-the-wormhole-s04.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/through-the-wormhole-s04.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/through-the-wormhole-s04.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/through-the-wormhole-s04.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 680,
+            "height": 1000
+          }
+        },
+        "source": "https://www.tvmaze.com/shows/1605/through-the-wormhole",
+        "sourceImage": "https://static.tvmaze.com/uploads/images/original_untouched/8/21801.jpg"
+      },
+      "platforms": {
+        "githubRelease": {
+          "releaseUrl": ""
+        },
+        "mirrors": []
+      },
+      "releaseUrl": ""
+    },
+    {
+      "tag": "through-the-wormhole-s05-audio-v1",
+      "status": "processing",
+      "title": "穿越虫洞 第5季",
+      "first_class": "影视英语",
+      "second_class": "穿越虫洞",
+      "third_class": "",
+      "author": "",
+      "createdAt": "2026-11-18",
+      "audioCount": 0,
+      "totalSizeMiB": 0,
+      "detailFile": "",
+      "detailRaw": "",
+      "poster": {
+        "id": "through-the-wormhole-s05",
+        "kind": "season-poster",
+        "sourceType": "third-party-catalog-image",
+        "original": {
+          "path": "artwork/posters/through-the-wormhole-s05.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/through-the-wormhole-s05.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/through-the-wormhole-s05.webp"
+        },
+        "card": {
+          "path": "artwork/posters/card/through-the-wormhole-s05.webp",
+          "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/through-the-wormhole-s05.webp",
+          "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/through-the-wormhole-s05.webp",
+          "mode": "crop",
+          "aspectRatio": "480:600",
+          "width": 480,
+          "height": 600,
+          "fit": "cover",
+          "crop": {
+            "x": 0.0,
+            "y": 0.0,
+            "width": 1.0,
+            "height": 1.0
+          },
+          "sourceSize": {
+            "width": 680,
+            "height": 1000
+          }
+        },
+        "source": "https://www.tvmaze.com/shows/1605/through-the-wormhole",
+        "sourceImage": "https://static.tvmaze.com/uploads/images/original_untouched/8/21801.jpg"
       },
       "platforms": {
         "githubRelease": {
