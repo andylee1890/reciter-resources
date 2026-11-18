@@ -4,11 +4,11 @@
 - Repo: `andylee1890/reciter-resources`
 - Branch: `main`
 - Folder: `resources/Documentaries/穿越虫洞/S04`
-- Created at: 2026-11-18 16:09:10 +0800
+- Created at: 2026-11-18 16:47:45 +0800
 - Audio files: 10
 - Total size: 194.81 MiB
-- Dry run: True
-- Published: False
+- Dry run: False
+- Published: True
 - Release: https://github.com/andylee1890/reciter-resources/releases/tag/through-the-wormhole-s04-audio-v1
 
 ## Link Bases
