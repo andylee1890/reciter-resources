@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 5,
+  "generatedAt": "2026-11-18T08:48:02.716141Z",
+  "tag": "through-the-wormhole-s01-audio-v1",
+  "title": "穿越虫洞 第1季",
+  "repository": "andylee1890/reciter-resources",
+  "branch": "main",
+  "folder": "resources/Documentaries/穿越虫洞/S01",
+  "createdAt": "2026-11-18 16:47:42 +0800",
+  "poster": {
+    "id": "through-the-wormhole-s01",
+    "kind": "season-poster",
+    "sourceType": "third-party-catalog-image",
+    "original": {
+      "path": "artwork/posters/through-the-wormhole-s01.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/through-the-wormhole-s01.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/through-the-wormhole-s01.webp"
+    },
+    "card": {
+      "path": "artwork/posters/card/through-the-wormhole-s01.webp",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/artwork/posters/card/through-the-wormhole-s01.webp",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/artwork/posters/card/through-the-wormhole-s01.webp",
+      "mode": "crop",
+      "aspectRatio": "480:600",
+      "width": 480,
+      "height": 600,
+      "fit": "cover",
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "sourceSize": {
+        "width": 680,
+        "height": 1000
+      }
+    },
+    "source": "https://www.tvmaze.com/shows/1605/through-the-wormhole",
+    "sourceImage": "https://static.tvmaze.com/uploads/images/original_untouched/8/21801.jpg"
+  },
+  "platforms": {
+    "githubRelease": {
+      "releaseUrl": "https://github.com/andylee1890/reciter-resources/releases/tag/through-the-wormhole-s01-audio-v1"
+    },
+    "mirrors": []
+  },
+  "audioCount": 8,
+  "totalSizeMiB": 161.15,
+  "audio": [
+    {
+      "name": "S01E01：存在造物主吗？.mp3",
+      "sizeMiB": 20.17,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/through-the-wormhole-s01-audio-v1/S01E01.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E01%EF%BC%9A%E5%AD%98%E5%9C%A8%E9%80%A0%E7%89%A9%E4%B8%BB%E5%90%97%EF%BC%9F.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E01%EF%BC%9A%E5%AD%98%E5%9C%A8%E9%80%A0%E7%89%A9%E4%B8%BB%E5%90%97%EF%BC%9F.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E01%EF%BC%9A%E5%AD%98%E5%9C%A8%E9%80%A0%E7%89%A9%E4%B8%BB%E5%90%97%EF%BC%9F.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E01%EF%BC%9A%E5%AD%98%E5%9C%A8%E9%80%A0%E7%89%A9%E4%B8%BB%E5%90%97%EF%BC%9F.recx"
+        }
+      }
+    },
+    {
+      "name": "S01E02：黑洞之迷.mp3",
+      "sizeMiB": 20.06,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/through-the-wormhole-s01-audio-v1/S01E02.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E02%EF%BC%9A%E9%BB%91%E6%B4%9E%E4%B9%8B%E8%BF%B7.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E02%EF%BC%9A%E9%BB%91%E6%B4%9E%E4%B9%8B%E8%BF%B7.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E02%EF%BC%9A%E9%BB%91%E6%B4%9E%E4%B9%8B%E8%BF%B7.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E02%EF%BC%9A%E9%BB%91%E6%B4%9E%E4%B9%8B%E8%BF%B7.recx"
+        }
+      }
+    },
+    {
+      "name": "S01E03：时间旅行可能吗？.mp3",
+      "sizeMiB": 20.17,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/through-the-wormhole-s01-audio-v1/S01E03.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E03%EF%BC%9A%E6%97%B6%E9%97%B4%E6%97%85%E8%A1%8C%E5%8F%AF%E8%83%BD%E5%90%97%EF%BC%9F.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E03%EF%BC%9A%E6%97%B6%E9%97%B4%E6%97%85%E8%A1%8C%E5%8F%AF%E8%83%BD%E5%90%97%EF%BC%9F.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E03%EF%BC%9A%E6%97%B6%E9%97%B4%E6%97%85%E8%A1%8C%E5%8F%AF%E8%83%BD%E5%90%97%EF%BC%9F.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E03%EF%BC%9A%E6%97%B6%E9%97%B4%E6%97%85%E8%A1%8C%E5%8F%AF%E8%83%BD%E5%90%97%EF%BC%9F.recx"
+        }
+      }
+    },
+    {
+      "name": "S01E04：太初之前，宇宙若何？.mp3",
+      "sizeMiB": 20.1,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/through-the-wormhole-s01-audio-v1/S01E04.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E04%EF%BC%9A%E5%A4%AA%E5%88%9D%E4%B9%8B%E5%89%8D%EF%BC%8C%E5%AE%87%E5%AE%99%E8%8B%A5%E4%BD%95%EF%BC%9F.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E04%EF%BC%9A%E5%A4%AA%E5%88%9D%E4%B9%8B%E5%89%8D%EF%BC%8C%E5%AE%87%E5%AE%99%E8%8B%A5%E4%BD%95%EF%BC%9F.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E04%EF%BC%9A%E5%A4%AA%E5%88%9D%E4%B9%8B%E5%89%8D%EF%BC%8C%E5%AE%87%E5%AE%99%E8%8B%A5%E4%BD%95%EF%BC%9F.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E04%EF%BC%9A%E5%A4%AA%E5%88%9D%E4%B9%8B%E5%89%8D%EF%BC%8C%E5%AE%87%E5%AE%99%E8%8B%A5%E4%BD%95%EF%BC%9F.recx"
+        }
+      }
+    },
+    {
+      "name": "S01E05：我们从何而来？.mp3",
+      "sizeMiB": 20.17,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/through-the-wormhole-s01-audio-v1/S01E05.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E05%EF%BC%9A%E6%88%91%E4%BB%AC%E4%BB%8E%E4%BD%95%E8%80%8C%E6%9D%A5%EF%BC%9F.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E05%EF%BC%9A%E6%88%91%E4%BB%AC%E4%BB%8E%E4%BD%95%E8%80%8C%E6%9D%A5%EF%BC%9F.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E05%EF%BC%9A%E6%88%91%E4%BB%AC%E4%BB%8E%E4%BD%95%E8%80%8C%E6%9D%A5%EF%BC%9F.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E05%EF%BC%9A%E6%88%91%E4%BB%AC%E4%BB%8E%E4%BD%95%E8%80%8C%E6%9D%A5%EF%BC%9F.recx"
+        }
+      }
+    },
+    {
+      "name": "S01E06：我们独居宇宙？.mp3",
+      "sizeMiB": 20.1,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/through-the-wormhole-s01-audio-v1/S01E06.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E06%EF%BC%9A%E6%88%91%E4%BB%AC%E7%8B%AC%E5%B1%85%E5%AE%87%E5%AE%99%EF%BC%9F.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E06%EF%BC%9A%E6%88%91%E4%BB%AC%E7%8B%AC%E5%B1%85%E5%AE%87%E5%AE%99%EF%BC%9F.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E06%EF%BC%9A%E6%88%91%E4%BB%AC%E7%8B%AC%E5%B1%85%E5%AE%87%E5%AE%99%EF%BC%9F.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E06%EF%BC%9A%E6%88%91%E4%BB%AC%E7%8B%AC%E5%B1%85%E5%AE%87%E5%AE%99%EF%BC%9F.recx"
+        }
+      }
+    },
+    {
+      "name": "S01E07：我们究竟由何组成？.mp3",
+      "sizeMiB": 20.17,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/through-the-wormhole-s01-audio-v1/S01E07.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E07%EF%BC%9A%E6%88%91%E4%BB%AC%E7%A9%B6%E7%AB%9F%E7%94%B1%E4%BD%95%E7%BB%84%E6%88%90%EF%BC%9F.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E07%EF%BC%9A%E6%88%91%E4%BB%AC%E7%A9%B6%E7%AB%9F%E7%94%B1%E4%BD%95%E7%BB%84%E6%88%90%EF%BC%9F.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E07%EF%BC%9A%E6%88%91%E4%BB%AC%E7%A9%B6%E7%AB%9F%E7%94%B1%E4%BD%95%E7%BB%84%E6%88%90%EF%BC%9F.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E07%EF%BC%9A%E6%88%91%E4%BB%AC%E7%A9%B6%E7%AB%9F%E7%94%B1%E4%BD%95%E7%BB%84%E6%88%90%EF%BC%9F.recx"
+        }
+      }
+    },
+    {
+      "name": "S01E08：超越黑暗.mp3",
+      "sizeMiB": 20.2,
+      "audio": {
+        "githubRelease": "https://github.com/andylee1890/reciter-resources/releases/download/through-the-wormhole-s01-audio-v1/S01E08.mp3",
+        "mirrors": []
+      },
+      "sidecars": {
+        "githubRaw": {
+          "srt": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E08%EF%BC%9A%E8%B6%85%E8%B6%8A%E9%BB%91%E6%9A%97.srt",
+          "recx": "https://raw.githubusercontent.com/andylee1890/reciter-resources/main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E08%EF%BC%9A%E8%B6%85%E8%B6%8A%E9%BB%91%E6%9A%97.recx"
+        },
+        "jsDelivr": {
+          "srt": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E08%EF%BC%9A%E8%B6%85%E8%B6%8A%E9%BB%91%E6%9A%97.srt",
+          "recx": "https://cdn.jsdelivr.net/gh/andylee1890/reciter-resources@main/resources/Documentaries/%E7%A9%BF%E8%B6%8A%E8%99%AB%E6%B4%9E/S01/S01E08%EF%BC%9A%E8%B6%85%E8%B6%8A%E9%BB%91%E6%9A%97.recx"
+        }
+      }
+    }
+  ]
+}
